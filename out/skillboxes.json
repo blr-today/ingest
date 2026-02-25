@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to one individual.\n",
-            "inventoryLevel": 221,
+            "inventoryLevel": 169,
             "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to two individual.\n",
-            "inventoryLevel": 795,
+            "inventoryLevel": 749,
             "name": "Group Pass for 2",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          },
@@ -42,7 +42,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to four individual.\n",
-            "inventoryLevel": 794,
+            "inventoryLevel": 787,
             "name": "Group Pass for 4",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          },
@@ -50,8 +50,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to six individual.\n",
-            "inventoryLevel": 798,
+            "inventoryLevel": 795,
             "name": "Group Pass for 6",
+            "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Group of 10",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          },
          {
@@ -73,6 +80,81 @@
       ],
       "startDate": "2026-03-01T19:00:00",
       "url": "https://www.skillboxes.com/events/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SoMAD Live returns to Bangalore with a spotlight on artists shaping the future of culture.\r\n\r\n \r\n\r\nHeadlining the night is YUNG RAJA! \r\n\r\n \r\n\r\nYung Raja — a pioneer of bilingual rap blending Tamil a",
+      "endDate": "2026-03-14T23:59:00",
+      "identifier": "com.skillboxes.34321",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772029684meWIj7bPHPs8Dsdp.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9762029",
+            "longitude": "77.5991872"
+         },
+         "name": "One8 Commune, Bangalore"
+      },
+      "name": "SoMAD presents Yung Raja",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 994,
+            "name": "Pre Sale - Single Lady",
+            "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry for one couple to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "Pre Sale - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry for 4 single ladies to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "Pre Sale - Girls Night Out [ Group of 4 Girls ]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry for two couples to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "Pre Sale - Double Date! [ Group of 2 Couples ]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry for one male stag to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 2000/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "Pre Sale - Stag",
+            "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits entry for One Individual or One Couple Or Two Single Ladies without cover charges all night Long. Walk-in Like a VIP.\n",
+            "inventoryLevel": 1000,
+            "name": "Pre Sale VIP - ANYTIME ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
+         }
+      ],
+      "startDate": "2026-03-14T17:00:00",
+      "url": "https://www.skillboxes.com/events/somad-presents-yung-raja"
    },
    {
       "@context": "https://schema.org",
@@ -273,49 +355,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Break the routine with Mid Week Madness 🔥Good music, great crowd & nonstop vibes from 8PM onwards.",
-      "endDate": "2026-02-25T23:59:00",
-      "identifier": "com.skillboxes.34278",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771944689w4fyYzJHwIrkn2ob.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MID WEEK MADNESS FT. DJ SHAMS X SENLEO AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/mid-week-madness-ft-dj-shams-x-senleo-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/mid-week-madness-ft-dj-shams-x-senleo-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-02-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/mid-week-madness-ft-dj-shams-x-senleo-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "PULSE X VESPARO PRESENTSFAKE TATTOOSSAHIL MADAANOHLOVEBHARGAVVesparo, Indiranagar,8:00 Pm omwards",
       "endDate": "2026-02-28T01:00:00",
       "identifier": "com.skillboxes.34274",
@@ -339,7 +378,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 92,
             "name": "FAKE TATTOOS, SAHIL MADAAN",
             "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-sahil-madaan-at-pulse-vesparo"
          }
@@ -641,7 +680,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 87,
+            "inventoryLevel": 65,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -683,7 +722,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2660,
+            "inventoryLevel": 2640,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
@@ -759,25 +798,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female)\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
+            "inventoryLevel": 99,
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-airsand-turaniqa"
          }
       ],
@@ -896,7 +975,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 10,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
          },
@@ -1053,7 +1132,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 12,
+            "inventoryLevel": 10,
             "name": "Backstage Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          }
@@ -1227,7 +1306,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 528,
+            "inventoryLevel": 524,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
@@ -1439,7 +1518,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 182,
+            "inventoryLevel": 179,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-tom-enzy-27th-feb-cavore"
          },
@@ -1525,7 +1604,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 62,
+            "inventoryLevel": 56,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1541,7 +1620,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per person applicable at gates\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Phase - 1: Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1635,7 +1714,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per day applicable at gates\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 14,
             "name": "Bangalore - 2 day pass",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          },
@@ -1909,7 +1988,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 34,
+            "inventoryLevel": 27,
             "name": "EB BUDDY ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/greatful-dead-tribute-by-the-chronic-blue-circus"
          }
@@ -1938,7 +2017,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 291,
+            "inventoryLevel": 290,
             "name": "Apocalyptic Grid",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2"
          }
@@ -1973,7 +2052,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 9.30PM.\n",
-            "inventoryLevel": 176,
+            "inventoryLevel": 172,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-nikhil-chinapa-28th-feb-arena"
          },
@@ -1981,7 +2060,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female till 9.30PM. Cover charges applicable at the venue post 9.30PM.\n",
-            "inventoryLevel": 194,
+            "inventoryLevel": 193,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-nikhil-chinapa-28th-feb-arena"
          }
@@ -3975,6 +4054,13 @@
             "inventoryLevel": 30,
             "name": "Early Bird - Limited",
             "url": "https://www.skillboxes.com/events/ticket/classical-footsteps-live-morning-show"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular",
+            "url": "https://www.skillboxes.com/events/ticket/classical-footsteps-live-morning-show"
          }
       ],
       "startDate": "2027-02-08T10:00:00",
@@ -4043,7 +4129,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of ₹500 per person, fully redeemable on F&B will be applicable.\nEntry for 21+ only",
-            "inventoryLevel": 121,
+            "inventoryLevel": 120,
             "name": "Day 1 Pass - John Mayer, Tool, and Muse Tributes",
             "url": "https://www.skillboxes.com/events/ticket/s-l-a-m-fest"
          },
@@ -4051,7 +4137,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of ₹500 per person, fully reedemable on F&B will be applicable.\nEntry for 21+ only",
-            "inventoryLevel": 127,
+            "inventoryLevel": 112,
             "name": "Day 2 Pass - Alice In Chains, Sepultura, and Metallica Tributes",
             "url": "https://www.skillboxes.com/events/ticket/s-l-a-m-fest"
          }
@@ -4238,54 +4324,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Be among the first in the world to hear the new Gorillaz album The Mountain — before its global release.\r\n\r\n \r\n\r\nAs part of Gorillaz’s official global album rollout, India will host a series of invite-only advance li",
-      "endDate": "2026-02-25T21:30:00",
-      "identifier": "com.skillboxes.33618",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWFLQWdURzB3aGRZMit6VTNCUWxxZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770646057CXtn3X8g6YTTsCTv.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Album listening Session"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "28, 1st Floor, Public Utility Building, 7, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9744745",
-            "longitude": "77.6097489"
-         },
-         "name": "Rams Musique Experience"
-      },
-      "name": "Gorillaz Official India Listening Sessions || Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Gorillaz Listening Party- 5:00 PM",
-            "url": "https://www.skillboxes.com/events/ticket/gorillaz-official-india-listening-sessions-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Gorillaz Listening Party- 7:30 PM",
-            "url": "https://www.skillboxes.com/events/ticket/gorillaz-official-india-listening-sessions-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Gorillaz Listening Party- 3.00 PM",
-            "url": "https://www.skillboxes.com/events/ticket/gorillaz-official-india-listening-sessions-bangalore"
-         }
-      ],
-      "startDate": "2026-02-25T15:00:00",
-      "url": "https://www.skillboxes.com/events/gorillaz-official-india-listening-sessions-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Bengaluru, get ready! Experience an electrifying evening as Andrea Jeremiah sets the stage on fire with her powerful vocals and high-energy performance.Known for her magnetic presence and ",
       "endDate": "2026-04-04T23:59:00",
       "identifier": "com.skillboxes.33614",
@@ -4296,8 +4334,13 @@
       ],
       "location": {
          "@type": "Place",
-         "address": "",
-         "name": "To Be Decided"
+         "address": "2M3M+MRH, Duravani Nagar, Krishnarajapuram, Bengaluru, Karnataka 560016, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0041853",
+            "longitude": "77.6846189"
+         },
+         "name": "ITI Sports Grounds"
       },
       "name": "Andria Live Concert at Bangalore",
       "offers": [
@@ -4363,7 +4406,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 493,
+            "inventoryLevel": 479,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/080-house-pulse-ft-robby-baner-synths-back-and-airwalker"
          }
@@ -4478,40 +4521,6 @@
       ],
       "startDate": "2026-02-28T17:00:00",
       "url": "https://www.skillboxes.com/events/bhakti-raas"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "GUTSLIT is a critically acclaimed extreme metal band reigning from Mumbai, India. The quintet display cut-throat musical precision and blistering speeds meshed with their intense song writing. GUT",
-      "endDate": "2026-02-25T23:59:00",
-      "identifier": "com.skillboxes.33471",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1769945748DwdlrxrnCR7uagTI.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Grassroots Wednesdays with Gutslit & Sapien Error",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 443,
-            "name": "General Entry",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-gutslit-sapien-error"
-         }
-      ],
-      "startDate": "2026-02-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-gutslit-sapien-error"
    },
    {
       "@context": "https://schema.org",
@@ -4806,7 +4815,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 979,
+            "inventoryLevel": 969,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/vehement-era-malice"
          }
