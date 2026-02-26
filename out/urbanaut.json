@@ -409,7 +409,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1500,7 +1500,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 61,
+    "remainingAttendeeCapacity": 53,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1578,6 +1578,53 @@
     "keywords": [
       "Leisure",
       "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Drag Dinners Episode 01",
+    "description": "What happens when drag meets dinner, and the table becomes a stage?Welcome to Drag Dinners, a new kind of evening where performance and food aren't separate experiences, but two parts of the same journey. Where the night unfolds in chapters: spectacle, then sustenance, then celebration. An hour of drag in its purest form, powerful, reflective, alive with energy. A curated dinner menu that lets the experience settle. And if you're not ready to call it a night, head upstairs to dance off those mid-week blues at 080 Pulse.THE ARTIST: JIYA LABEIJAFrom the legendary House of LaBeija of New York, Jiya LaBeija is a desi queen with extraordinary vogue skills who sets every stage alight. As the first Indian to join the LaBeija dynasty, Jiya brings international ballroom energy fused with deeply rooted Indian sensibility; bold, beautiful, unapologetically queer. For this debut edition, Jiya has crafted something special: music, dance, games, surprises. A performance that is meant to keep you at the edge of your seat through the evening.Note: Your ticket includes free entry to the 080 Pulse dance night happening upstairs, to keep the night going even longer.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49E18DFBE18C4B68AE19D557B668160A_converted_webp.webp"
+    ],
+    "startDate": "2026-02-26T19:00:00+05:30",
+    "endDate": "2026-02-26T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8z4YBAAXrjsRslVjaPRLIOY",
+      "latitude": "12.97111780000000000000",
+      "longitude": "77.64106730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 83,
+    "remainingAttendeeCapacity": 2,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1976.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urbanaut Experiences",
+      "description": "At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one \u2014 or three \u2014 or hit us up with ideas and collaborations!",
+      "url": "https://urbanaut.app/partner/urbanautexperiences",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B355D735DB6A4CEBAFB98E811AA4D5B6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-74000-31416"
+      }
+    },
+    "url": "https://urbanaut.app/spot/drag-dinners-episode-01",
+    "keywords": [
+      "Live GIG",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1903,7 +1950,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 58,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2120,7 +2167,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 454,
+    "remainingAttendeeCapacity": 443,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2169,7 +2216,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 65,
+    "remainingAttendeeCapacity": 62,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2216,7 +2263,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2862,7 +2909,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 94,
+    "remainingAttendeeCapacity": 63,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2914,7 +2961,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 2,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3113,7 +3160,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3174,7 +3221,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3275,7 +3322,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 300,
-    "remainingAttendeeCapacity": 273,
+    "remainingAttendeeCapacity": 272,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3563,7 +3610,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3611,7 +3658,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 94,
+    "remainingAttendeeCapacity": 93,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3721,8 +3768,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
+    "maximumAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
