@@ -84,6 +84,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "It’s like Shark Tank… but for love! 😏Pitch your friend to a room full of singles in 2 minutes using a fun PPT -zero filters, all chaos & chemistry 💘",
+      "endDate": "2026-03-15T23:59:00",
+      "identifier": "com.skillboxes.34331",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772080969syc8rBv3D4aLurOW.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Dating Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "27, Ground Floor, Sattva Auro, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9749989",
+            "longitude": "77.6045415"
+         },
+         "name": "KLING"
+      },
+      "name": "Date My Buddy",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/date-my-buddy"
+         }
+      ],
+      "startDate": "2026-03-15T18:00:00",
+      "url": "https://www.skillboxes.com/events/date-my-buddy"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Arsenal FC VS Chelsea FcLive Screening",
       "endDate": "2026-03-01T23:58:00",
       "identifier": "com.skillboxes.34330",
