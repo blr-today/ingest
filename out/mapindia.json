@@ -120,27 +120,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "@id": "1191@map-india.org",
-    "name": "Stories in Motion",
-    "startDate": "2026-02-28T15:00:00+05:30",
-    "endDate": "2026-02-28T16:30:00+05:30",
-    "description": "Got a story to tell? A lens to share? This one's for you.\nFor this session of Stories in Motion, we will be screening \"Spectrum: Art &amp; Space in Bengaluru\"\nThe documentary explores the relationship between artists and the spaces they are allowed to occupy, questioning the divide between public and private spaces. It looks at what it means to live and work as an artist, alongside the perspectives of organisers and gatekeepers who manage these spaces. At its core, the film asks how accessible \u201cpublic\u201d space truly is, and who ultimately controls it.\n\nThis film screening series is\u00a0by and for 18\u201325 year olds\u00a0\u2014 an opportunity to share your work with a wider audience while engaging in thoughtful peer review and constructive feedback alongside fellow filmmakers in the making. If you\u2019re a young filmmaker looking to test ideas, spark conversations, and build community, this event is for you!\n\n\n\nThis event is part of the Youth Engagement Series \u2013 Stories in Motion.\u00a0\n\n\n\n",
-    "url": "https://map-india.org/map-events/stories-in-motion-2/",
-    "keywords": [
-      "CBD",
-      "Film Screenings",
-      "MAP"
-    ],
-    "inLanguage": "en",
-    "workPresented": {
-      "@type": "Movie",
-      "name": "Stories in Motion"
-    },
-    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-23T144058.211.png"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "@id": "1186@map-india.org",
     "name": "Letters Across Time",
@@ -172,6 +151,23 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-13T113554.241.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "1205@map-india.org",
+    "name": "See like a Curator: Paper Gardens",
+    "startDate": "2026-03-08T11:30:00+05:30",
+    "endDate": "2026-03-08T12:30:00+05:30",
+    "description": "Join us for a curator-led guided walk of the exhibition Paper Gardens: Art, Botany, and Empire.\n\nBetween the 17th and 20th centuries, the Indian subcontinent was the site of extensive botanical surveys under colonial rule. Plant collection and classification were closely tied to imperial economic, medical, and political interests, and botanical illustration played a central role in this project. Bringing together a new and historically significant collection of botanical art from this period, the exhibition draws on recent scholarship to recover the often uncredited identities and histories of the Indian artists who made them.\n\nShrey Maurya, curator of the exhibition and Research Director at Impart, leads this guided walk through the layered histories embedded in these artworks, and their relevance to how we understand the natural world today.\n\n\u2018Paper Gardens\u2019 marks the continuation of a sustained, years-long collaboration between MAP and Impart \u2014 an online platform fostering greater public engagement with the art and cultural histories of South Asia.",
+    "url": "https://map-india.org/map-events/see-like-a-curator-paper-gardens/",
+    "keywords": [
+      "CBD",
+      "Guided Walk",
+      "MAP"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-25T124134.747.png"
   },
   {
     "@context": "https://schema.org",
@@ -229,8 +225,8 @@
     "@type": "EducationEvent",
     "@id": "1194@map-india.org",
     "name": "Sketch with Penciljam",
-    "startDate": "2026-02-28T14:00:00+05:30",
-    "endDate": "2026-02-28T16:00:00+05:30",
+    "startDate": "2026-02-28T16:00:00+05:30",
+    "endDate": "2026-02-28T17:30:00+05:30",
     "description": "Whether you're a beginner, a seasoned artist, or simply curious, this sketching session led by Penciljam invites you to explore and draw from a living garden.\n\nMAP's sculpture courtyard transforms into a garden with Living Botanicals \u2014 a space where plants native to the subcontinent grow, change, and are cared for over time.",
     "url": "https://map-india.org/map-events/sketch-with-penciljam-3/",
     "keywords": [
@@ -240,6 +236,27 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-24T150018.571.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "1191@map-india.org",
+    "name": "Stories in Motion",
+    "startDate": "2026-02-28T15:00:00+05:30",
+    "endDate": "2026-02-28T16:30:00+05:30",
+    "description": "Got a story to tell? A lens to share? This one's for you.\nFor this session of Stories in Motion, we will be screening \"Spectrum: Art &amp; Space in Bengaluru\"\nThe documentary explores the relationship between artists and the spaces they are allowed to occupy, questioning the divide between public and private spaces. It looks at what it means to live and work as an artist, alongside the perspectives of organisers and gatekeepers who manage these spaces. At its core, the film asks how accessible \u201cpublic\u201d space truly is, and who ultimately controls it.\n\nThis film screening series is\u00a0by and for 18\u201325 year olds\u00a0\u2014 an opportunity to share your work with a wider audience while engaging in thoughtful peer review and constructive feedback alongside fellow filmmakers in the making. If you\u2019re a young filmmaker looking to test ideas, spark conversations, and build community, this event is for you!\n\n\n\nThis event is part of the Youth Engagement Series \u2013 Stories in Motion.\u00a0\n\n\n\n",
+    "url": "https://map-india.org/map-events/stories-in-motion-2/",
+    "keywords": [
+      "CBD",
+      "Film Screenings",
+      "MAP"
+    ],
+    "inLanguage": "en",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Stories in Motion"
+    },
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-23T144058.211.png"
   },
   {
     "@context": "https://schema.org",
