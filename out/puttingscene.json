@@ -125,7 +125,7 @@
         "price": "1899.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 3
       }
     ]
   },
@@ -149,7 +149,7 @@
         "price": "500.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 998
+        "remainingAttendeeCapacity": 997
       }
     ]
   },
@@ -173,7 +173,7 @@
         "price": "1003.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -262,21 +262,6 @@
         "remainingAttendeeCapacity": 8
       }
     ]
-  },
-  {
-    "@type": "Event",
-    "name": "Church Street Code Walk!",
-    "url": "https://puttingscene.com/events/3195",
-    "startDate": "2026-02-28T16:00:00+05:30",
-    "endDate": "2026-02-28T18:00:00+05:30",
-    "description": "Walk Church Street, read poems and turn them into interactive p5.js sketches",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3195/64ce73f2-e8aa-4677-8b72-9741e40b9626.jpg",
-    "location": {
-      "name": "Samagata Foundation, Ashok Nagar",
-      "address": "Samagata Foundation, Ashok Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Samagata+Foundation+4th+Floor+Cobalt+Building+Church+Street+Bengaluru+560001+Karnataka+India"
-    },
-    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -940,7 +925,7 @@
         "price": "399.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 35
+        "remainingAttendeeCapacity": 30
       }
     ]
   },
@@ -964,7 +949,7 @@
         "price": "1099.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 29
+        "remainingAttendeeCapacity": 27
       }
     ]
   },
