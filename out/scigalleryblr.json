@@ -1,20 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "A Bite of CALORIE: Kannada Walkthrough",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru, Science Gallery",
-      "address": "Science Gallery, Bangalore"
-    },
-    "startDate": "2026-03-01T16:30:00+05:30",
-    "endDate": "2026-03-01T16:30:00+05:30",
-    "description": "Join the Science Gallery Bengaluru team for a closer look at our new exhibition season, CALORIE, one bite at a time. This walkthrough, conducted in Kannada, invites you to reflect on the ideas of food, nutrition, and energy. As we move through the exhibition, the team will unpack the intimate, and often complicated, relationships we share with food, nourishment, and the systems that sustain us.",
-    "url": "https://sci560.scigalleryblr.org/programmes?p=bite-kannada-walkthrough-3",
-    "maximumAttendeeCapacity": "50"
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Tell Me What You Eat: Food, Identity and Self",
     "location": {
       "@type": "Place",
@@ -112,6 +98,20 @@
     "maximumAttendeeCapacity": "30"
   },
   {
+    "@type": "Event",
+    "name": "In a State of Superposition",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-03-14T14:00:00+05:30",
+    "endDate": "2026-03-14T18:00:00+05:30",
+    "description": "Have you ever wondered what happens when ideas exist in superposition\u2014when artists, technologists, and young thinkers collide like entangled particles to build quantum science together?\n\nThe Quantum Immersive Workshop, supported by the British Council, was a 14-day, hands-on programme that brought together young adults from varied academic and personal backgrounds to engage with quantum science through both artistic inquiry and technological experimentation. The participants explored how quantum ideas can be experienced, interpreted, and reimagined through practice-based work.\n\nThe outcomes of this workshop will be presented at the gallery, with the participants present to speak about their processes and insights. The showcase also offers an early glimpse into the conceptual and experiential direction of our upcoming QUANTUM exhibition-season.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=quantum-public-showcase",
+    "maximumAttendeeCapacity": "100"
+  },
+  {
     "@type": "EducationEvent",
     "name": "Remembering the 1943 Bengal Famine: Hunger, Empathy and Violence",
     "location": {
@@ -127,7 +127,7 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "The Universe is Discrete!",
+    "name": "Shh, the Universe is Discrete!",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru, Science Gallery",
@@ -135,7 +135,7 @@
     },
     "startDate": "2026-03-08T16:00:00+05:30",
     "endDate": "2026-03-08T16:00:00+05:30",
-    "description": "What is the nature of the universe?\n\nWe often imagine space and time as smooth and continuous \u2014 but what if they aren\u2019t? What if the universe is made up of tiny building blocks, like \u201catoms\u201d of spacetime?\n\nJoin Sumati Surya, theoretical physicist at the Raman Research Institute, as she explores the nature of matter, space, and spacetime from both philosophical and physical perspectives. Her talk will highlight the important interface between mathematics and theoretical physics, and the synergy between the two through an exploration of discrete spacetime and quantum gravity.\n\nDiscover the insights this approach offers into the origins of spacetime and some of the enduring mysteries of our cosmos.",
+    "description": "What is the nature of spacetime? \n\nWe often imagine space and time as smooth and continuous \u2014 but what if they aren\u2019t? Join Sumati Surya, theoretical physicist at the Raman Research Institute, as she explores the nature of matter, space, and spacetime from both philosophical and physical perspectives. Her talk will highlight the important interface between mathematics and theoretical physics, and the synergy between the two through an exploration of discrete spacetime and quantum gravity.\n\nDiscover the insights this approach offers into the origins of spacetime and some of the enduring mysteries of our cosmos.",
     "url": "https://sci560.scigalleryblr.org/programmes?p=the-universe-is-discrete",
     "maximumAttendeeCapacity": "80"
   }

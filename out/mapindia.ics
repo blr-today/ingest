@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-24T145551.300.png
-CATEGORIES:Guided Walk,MAP,CBD
-DTSTAMP:20260225T034852Z
-DESCRIPTION:MAP's sculpture courtyard transforms into a garden with Living Botanicals — a space where plants native to the subcontinent grow\, change\, and are cared for over time.\n\nJoin us for a guided walk led by architect Bhavana Kumar of Kumar La Noce and urban gardener Kush Sethi as they share the process and vision behind this living installation.
-DTEND:20260228T063000Z
-DTSTART:20260228T053000Z
-SUMMARY:Living Botanicals
-UID:1193@map-india.org
-URL:https://map-india.org/map-events/living-botanicals/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-23T120659.744.png
 CATEGORIES:Workshops,MAP,CBD
 DTSTAMP:20260225T063027Z
@@ -24,28 +13,6 @@ UID:1189@map-india.org
 URL:https://map-india.org/map-events/diy-asalato-instrument-making/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-13T113554.241.png
-CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20260220T071337Z
-DESCRIPTION:Join this two-day workshop of creative inquiry and narrative experimentation where you engage with MAP’s latest exhibition\, Beneath the Turning Sky. In the workshop\, you will make your own short video works\, responding to the exhibition through close looking\, interpretation and poetic translation. Led by writer and sound researcher Mishika Goel\, the workshop offers the space to reflect on how art can be re-encountered\, re-imagined\, and articulated through new narrative forms.\n\nDrawing from her experiences in France and her creative process behind Prochaine Station: Aristide Briand\, Mishika reflects on narrative as both method and medium. The workshop\, situated at the intersection of language\, moving image\, and curatorial encounter\, explores how artworks generate meaning beyond the visual- prompting stories\, gestures\, and varied forms of response..\n\nThis workshop is part of the ongoing series\, Responding to Art through the Arts. Facilitated by arts practitioners\, it aims to activate MAP’s galleries through a series of workshops that hold space for young people’s responses to artwork on display. \n\nIt is conducted as part of our engagements for the MAP Youth Collective - a community for young people (18-25 year olds) to engage with the arts and culture sector. The collective is for\, of and by young people — to explore our shared identities and interests through art.\n\nWorkshop requirements: Open to all skill levels\, phone camera/professional camera can be used\, along with a basic video-editing software on a PC/Mac.
-DTEND:20260301T103000Z
-DTSTART:20260228T060000Z
-SUMMARY:Listening to Images
-UID:1174@map-india.org
-URL:https://map-india.org/map-events/listening-to-images/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-Image-1440-x-810-2.png
-CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20260224T083357Z
-DESCRIPTION:Letters Across Time is a reflective writing workshop that unfolds in dialogue with Beneath the Turning Sky. Beginning with a slow\, attentive walk through the exhibition\, participants are invited to notice\, linger\, and respond. From there\, we write across time — toward imagined futures and back toward the memories that shape us. Through guided prompts\, we explore hope\, care\, and the ways we choose to show up for one another and for the shared world we inhabit. Midway\, the group comes together to imagine a small ritual from the future — something tender\, slightly strange\, and deeply human. The workshop closes with an anonymous exchange of letters\, so each participant leaves carrying a fragment of someone else’s hope. A quiet\, intimate space for reflection\, imagination\, and collective possibility.\n\nThe workshop begins at 2:00 pm\, so we recommend having lunch before you arrive\, and please bring your earphones as we’ll use them for a short music based reflection exercise.
-DTEND:20260228T123000Z
-DTSTART:20260228T083000Z
-SUMMARY:Letters Across Time
-UID:1186@map-india.org
-URL:https://map-india.org/map-events/letters-across-time/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-23T094748.915.png
 CATEGORIES:Book Launch,MAP,CBD
 DTSTAMP:20260223T085938Z
@@ -55,6 +22,17 @@ DTSTART:20260301T113000Z
 SUMMARY:Tracing the Living Line
 UID:1190@map-india.org
 URL:https://map-india.org/map-events/tracing-the-living-line/
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-13T113554.241.png
+CATEGORIES:Workshops,MAP,CBD
+DTSTAMP:20260220T071337Z
+DESCRIPTION:Join this two-day workshop of creative inquiry and narrative experimentation where you engage with MAP’s latest exhibition\, Beneath the Turning Sky. In the workshop\, you will make your own short video works\, responding to the exhibition through close looking\, interpretation and poetic translation. Led by writer and sound researcher Mishika Goel\, the workshop offers the space to reflect on how art can be re-encountered\, re-imagined\, and articulated through new narrative forms.\n\nDrawing from her experiences in France and her creative process behind Prochaine Station: Aristide Briand\, Mishika reflects on narrative as both method and medium. The workshop\, situated at the intersection of language\, moving image\, and curatorial encounter\, explores how artworks generate meaning beyond the visual- prompting stories\, gestures\, and varied forms of response..\n\nThis workshop is part of the ongoing series\, Responding to Art through the Arts. Facilitated by arts practitioners\, it aims to activate MAP’s galleries through a series of workshops that hold space for young people’s responses to artwork on display. \n\nIt is conducted as part of our engagements for the MAP Youth Collective - a community for young people (18-25 year olds) to engage with the arts and culture sector. The collective is for\, of and by young people — to explore our shared identities and interests through art.\n\nWorkshop requirements: Open to all skill levels\, phone camera/professional camera can be used\, along with a basic video-editing software on a PC/Mac.
+DTEND:20260301T103000Z
+DTSTART:20260228T060000Z
+SUMMARY:Listening to Images
+UID:1174@map-india.org
+URL:https://map-india.org/map-events/listening-to-images/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-24T171500.595.png
@@ -77,17 +55,6 @@ DTSTART:20260307T090000Z
 SUMMARY:Paper Gardens: Deaf-led
 UID:1203@map-india.org
 URL:https://map-india.org/map-events/paper-gardens-deaf-led/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-25T164516.272.png
-CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20260225T111547Z
-DESCRIPTION:Image credits: Sudha Palepu\nJoin us for a mellow\, beginner-friendly pigment-making session on extracting colours from botanical sources. This is an opportunity to slow down\, take a close look at colours in their natural form\, and witness them transform on paper! During this workshop\, participants will learn to extract inks and pigments from select botanical sources using simple techniques.\n\nThere will be demonstrations of these techniques\, followed by guided hands-on colour-making by everyone attending. Upon making the colours\, each participant will get to paint with the extracted inks and pigments on paper and take home their artworks at the end of the session.\n\nThis event is in conjunction with Paper Gardens: Art\, Botany\, and Empire.\n\n‘Paper Gardens’ marks the continuation of a sustained\, years-long collaboration between MAP and Impart — an online platform fostering greater public engagement with the art and cultural histories of South Asia.
-DTEND:20260308T080000Z
-DTSTART:20260308T043000Z
-SUMMARY:Painting with Botanical Pigments
-UID:1204@map-india.org
-URL:https://map-india.org/map-events/painting-with-botanical-pigments/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-25T163131.191.png
@@ -123,17 +90,6 @@ UID:1202@map-india.org
 URL:https://map-india.org/map-events/see-like-an-artist-paper-gardens/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-Image-1440-x-810-1.png
-CATEGORIES:Performances,MAP,CBD
-DTSTAMP:20260226T130417Z
-DESCRIPTION:Step into a space where voices that were long silenced\, now echo with unapologetic power. The Reserved Compartment presents India's first Dalit-Ambedkarite anti-caste English Poetry Showcase—a bold\, community-driven revolution redefining mainstream culture through raw\, resonant verses and intimate storytelling. Curated for hearts ready to listen and minds eager to shift\, this evening at MAP promises to dismantle barriers and ignite conversations that linger long after the lights dim. Join us in honouring resilience\, nurturing love\, reclaiming narratives\, and co-creating a more inclusive tomorrow.
-DTEND:20260228T140000Z
-DTSTART:20260228T123000Z
-SUMMARY:The Reserved Compartment: An Anti-Caste Love Poetry Showcase
-UID:1185@map-india.org
-URL:https://map-india.org/map-events/the-reserved-compartment-an-anti-caste-love-poetry-showcase/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-24T163505.324.png
 CATEGORIES:Guided Walk,MAP,CBD
 DTSTAMP:20260225T102757Z
@@ -145,26 +101,15 @@ UID:1197@map-india.org
 URL:https://map-india.org/map-events/wild-food-foraging-walks/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-24T150018.571.png
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-25T164516.272.png
 CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20260226T102946Z
-DESCRIPTION:Whether you're a beginner\, a seasoned artist\, or simply curious\, this sketching session led by Penciljam invites you to explore and draw from a living garden.\n\nMAP's sculpture courtyard transforms into a garden with Living Botanicals — a space where plants native to the subcontinent grow\, change\, and are cared for over time.
-DTEND:20260228T120000Z
-DTSTART:20260228T103000Z
-SUMMARY:Sketch with Penciljam
-UID:1194@map-india.org
-URL:https://map-india.org/map-events/sketch-with-penciljam-3/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-23T144058.211.png
-CATEGORIES:Film Screenings,MAP,CBD
-DTSTAMP:20260224T061920Z
-DESCRIPTION:Got a story to tell? A lens to share? This one's for you.\nFor this session of Stories in Motion\, we will be screening "Spectrum: Art &amp\; Space in Bengaluru"\nThe documentary explores the relationship between artists and the spaces they are allowed to occupy\, questioning the divide between public and private spaces. It looks at what it means to live and work as an artist\, alongside the perspectives of organisers and gatekeepers who manage these spaces. At its core\, the film asks how accessible “public” space truly is\, and who ultimately controls it.\n\nThis film screening series is by and for 18–25 year olds — an opportunity to share your work with a wider audience while engaging in thoughtful peer review and constructive feedback alongside fellow filmmakers in the making. If you’re a young filmmaker looking to test ideas\, spark conversations\, and build community\, this event is for you!\n\n\n\nThis event is part of the Youth Engagement Series – Stories in Motion. \n\n\n\n
-DTEND:20260228T110000Z
-DTSTART:20260228T093000Z
-SUMMARY:Stories in Motion
-UID:1191@map-india.org
-URL:https://map-india.org/map-events/stories-in-motion-2/
+DTSTAMP:20260225T111547Z
+DESCRIPTION:Image credits: Sudha Palepu\nJoin us for a mellow\, beginner-friendly pigment-making session on extracting colours from botanical sources. This is an opportunity to slow down\, take a close look at colours in their natural form\, and witness them transform on paper! During this workshop\, participants will learn to extract inks and pigments from select botanical sources using simple techniques.\n\nThere will be demonstrations of these techniques\, followed by guided hands-on colour-making by everyone attending. Upon making the colours\, each participant will get to paint with the extracted inks and pigments on paper and take home their artworks at the end of the session.\n\nThis event is in conjunction with Paper Gardens: Art\, Botany\, and Empire.\n\n‘Paper Gardens’ marks the continuation of a sustained\, years-long collaboration between MAP and Impart — an online platform fostering greater public engagement with the art and cultural histories of South Asia.
+DTEND:20260308T080000Z
+DTSTART:20260308T043000Z
+SUMMARY:Painting with Botanical Pigments
+UID:1204@map-india.org
+URL:https://map-india.org/map-events/painting-with-botanical-pigments/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-25T142634.484.png
