@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "REDROOM_BLR presents CLAUDIA live at Kitty Ko, Lalit Ashok Bangalore!\nGet ready for an electrifying Friday night as Claudia takes over the decks with her signature high-energy sound and infectious beats. Joining her are",
+      "endDate": "2026-03-07T01:30:00",
+      "identifier": "com.skillboxes.34444",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772445218an8RccdOe9bEq72w.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. CLAUDIA Live at Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one female)\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 couple.) Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         }
+      ],
+      "startDate": "2026-03-06T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-claudia-live-at-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "We are hosting a Sunday Sundowner at Sly, Frazer Town, this 8th of March 2026. Funds raised will be donated to a charity, Vimochana Collective, to support women empowerment efforts in the area. Event to be followed by a DJ set, if you'd like to meet ",
       "endDate": "2026-03-08T20:00:00",
       "identifier": "com.skillboxes.34418",
@@ -717,6 +768,22 @@
             "availability": "InStock",
             "description": "No Cover charges\n",
             "inventoryLevel": 1000,
+            "name": "Phase 2 Female",
+            "url": "https://www.skillboxes.com/events/ticket/holi-circle-2026-at-jw-marriott-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Mandatory Cover Charge of INR 1000 applicable at gates per person\n",
+            "inventoryLevel": 1000,
+            "name": "Phase 2 Male Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/holi-circle-2026-at-jw-marriott-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No Cover charges\n",
+            "inventoryLevel": 1000,
             "name": "Phase 1 Female",
             "url": "https://www.skillboxes.com/events/ticket/holi-circle-2026-at-jw-marriott-bengaluru"
          },
@@ -863,7 +930,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 44,
+            "inventoryLevel": 42,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -905,14 +972,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2622,
+            "inventoryLevel": 2620,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1086,
+            "inventoryLevel": 1073,
             "name": "Platinum",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          }
@@ -1005,7 +1072,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 296,
+            "inventoryLevel": 289,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
          },
@@ -1161,7 +1228,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 9,
+            "inventoryLevel": 4,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1276,7 +1343,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 510,
+            "inventoryLevel": 500,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
@@ -1484,7 +1551,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per day applicable at gates\n",
-            "inventoryLevel": 12,
+            "inventoryLevel": 10,
             "name": "Bangalore - 2 day pass",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          },
@@ -2844,7 +2911,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Each pass permits one couple to the event + Access To Open Air Dance Floor,Rain Dance Setup + 2 Complimentary Colours Packets.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Couples (Entry) [04 March]",
             "url": "https://www.skillboxes.com/events/ticket/biggest-pool-rain-dance-open-air-holi-celebration"
          },
@@ -4045,48 +4112,7 @@
          "name": "Radha Hometel Bengaluru, A Sarovar Hotel"
       },
       "name": "WHITEFIELD'S BIGGEST HOLI FESTIVAL - GULAAAL SEASON 9",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited Color & Access to the event - 1st March\n",
-            "inventoryLevel": 100,
-            "name": "KIDS UNDER 12 - 1st March",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-s-biggest-holi-festival-gulaaal-season-9"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited Color & Access to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Single Entry - 1st March",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-s-biggest-holi-festival-gulaaal-season-9"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited Color & Access to the event.\n",
-            "inventoryLevel": 98,
-            "name": "Couple Entry - 1st March",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-s-biggest-holi-festival-gulaaal-season-9"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited Color & Access to the event.\n",
-            "inventoryLevel": 99,
-            "name": "Group Of 4 - 1st March",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-s-biggest-holi-festival-gulaaal-season-9"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited Color & Access to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Group of 6 - 1st March",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-s-biggest-holi-festival-gulaaal-season-9"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-03-01T11:00:00",
       "url": "https://www.skillboxes.com/events/whitefield-s-biggest-holi-festival-gulaaal-season-9"
    },
