@@ -1,6 +1,252 @@
 [
   {
     "@type": "Event",
+    "name": "Rasa 2.0: The taste of Tulu Nadu",
+    "url": "https://puttingscene.com/events/3262",
+    "startDate": "2026-03-03T12:30:00+05:30",
+    "endDate": "2026-03-03T13:30:00+05:30",
+    "description": "A focused exploration of Tulunad cuisine, led by Chef Rekha Rigo",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/02/1772444002112-1772444002074_3lm612kjxsr.png",
+    "location": {
+      "name": "MoMo Caf\u00e9, The Marriott Bengaluru Outer Ring Road",
+      "address": "MoMo Caf\u00e9, The Marriott Bengaluru Outer Ring Road, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=MoMo%20Caf%C3%A9%2C%20The%20Marriott%20Bengaluru%20Outer%20Ring%20Road"
+    },
+    "sameAs": "https://www.instagram.com/p/DVOP4cXk2qU/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Seminar: Imprint of the black hole interior on thermal four-point correlators",
+    "url": "https://puttingscene.com/events/3263",
+    "startDate": "2026-03-03T15:00:00+05:30",
+    "endDate": "2026-03-03T16:00:00+05:30",
+    "description": "A physics seminar probing how black hole interiors shape measurable signals",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/02/1772444819608-1772444819547_ysp4okn3gxm.png",
+    "location": {
+      "name": "ICTS \u2013 TIFR, Shivakote",
+      "address": "ICTS \u2013 TIFR, Shivakote, Bangalore",
+      "url": "https://maps.app.goo.gl/WSJDaQ3DyJ5XFoY56"
+    },
+    "sameAs": "https://icts.res.in/seminar/2026-03-03/joydeep-chakravarty",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "M\u2019illumino D\u2019immenso",
+    "url": "https://puttingscene.com/events/3261",
+    "startDate": "2026-03-03T19:00:00+05:30",
+    "endDate": "2026-03-03T20:00:00+05:30",
+    "description": "An evocative three-part dance tracing a poet\u2019s search for meaning and selfhood",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/02/1772444789727-1772444789683_1iwglrb9ni1i.png",
+    "location": {
+      "name": "Alliance Fran\u00e7aise de Bangalore, Vasanth Nagar",
+      "address": "Alliance Fran\u00e7aise de Bangalore, Vasanth Nagar, Bangalore",
+      "url": "https://maps.app.goo.gl/tcGR6YqgkC6SmyfLA"
+    },
+    "sameAs": "https://www.instagram.com/p/DVOM3omCVCB/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Intro to 3D Printing",
+    "url": "https://puttingscene.com/events/3259",
+    "startDate": "2026-03-04T19:00:00+05:30",
+    "endDate": "2026-03-04T21:00:00+05:30",
+    "description": "From software to sample, a clear-eyed introduction to the craft of 3D printing",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3259/df12a1f3-9957-45d9-aebd-78f89e37fa98.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "400.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 7
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Intensive Course in Improvised Theatre by Improv Lore",
+    "url": "https://puttingscene.com/events/3115",
+    "startDate": "2026-03-07T10:00:00+05:30",
+    "endDate": "2026-03-07T13:00:00+05:30",
+    "description": "Build stage confidence and comic timing in a four-day improv workshop",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3115/3751b672-e060-439c-9c7a-0283eb46bcef.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "4660.17",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Organic Mushroom Growing 101 By Nuvedo",
+    "url": "https://puttingscene.com/events/3258",
+    "startDate": "2026-03-07T12:00:00+05:30",
+    "endDate": "2026-03-07T14:00:00+05:30",
+    "description": "Explore fungi up close, build your own mushroom kit and learn the craft of home cultivation",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3258/71f8c8e1-aad0-40ff-a3d4-d8a74325ae9f.jpg",
+    "location": {
+      "name": "Sabha Blr, Shivaji Nagar",
+      "address": "Sabha Blr, Shivaji Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabha,+262+Kamaraj+Road,+Shivaji+Nagar,+Bengaluru,+Karnataka+560042,+India"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "All inclusive",
+        "price": "1500.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds Of Pasta - A Guided Fresh Pasta Workshop",
+    "url": "https://puttingscene.com/events/3260",
+    "startDate": "2026-03-07T13:00:00+05:30",
+    "endDate": "2026-03-07T14:30:00+05:30",
+    "description": "From dough to plate, a focused session on spinach ravioli with pumpkin burrata",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3260/9e8871b9-8d17-4399-95a8-aa62f0308a23.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "852.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds Of Pasta - A Guided Fresh Pasta Workshop",
+    "url": "https://puttingscene.com/events/3260",
+    "startDate": "2026-03-07T14:30:00+05:30",
+    "endDate": "2026-03-07T16:00:00+05:30",
+    "description": "From dough to plate, a focused session on spinach ravioli with pumpkin burrata",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3260/9e8871b9-8d17-4399-95a8-aa62f0308a23.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "852.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Organic Mushroom Growing 101 By Nuvedo",
+    "url": "https://puttingscene.com/events/3258",
+    "startDate": "2026-03-07T15:00:00+05:30",
+    "endDate": "2026-03-07T17:00:00+05:30",
+    "description": "Explore fungi up close, build your own mushroom kit and learn the craft of home cultivation",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3258/71f8c8e1-aad0-40ff-a3d4-d8a74325ae9f.jpg",
+    "location": {
+      "name": "Sabha Blr, Shivaji Nagar",
+      "address": "Sabha Blr, Shivaji Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabha,+262+Kamaraj+Road,+Shivaji+Nagar,+Bengaluru,+Karnataka+560042,+India"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "All inclusive",
+        "price": "1500.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds Of Pasta - A Guided Fresh Pasta Workshop",
+    "url": "https://puttingscene.com/events/3260",
+    "startDate": "2026-03-07T16:00:00+05:30",
+    "endDate": "2026-03-07T17:30:00+05:30",
+    "description": "From dough to plate, a focused session on spinach ravioli with pumpkin burrata",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3260/9e8871b9-8d17-4399-95a8-aa62f0308a23.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "852.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-07T18:30:00+05:30",
+    "endDate": "2026-03-07T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 17
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Soka Sunday Ritual ft Chef Aditya Varma",
     "url": "https://puttingscene.com/events/3182",
     "startDate": "2026-03-08T12:00:00+05:30",
@@ -28,6 +274,30 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-08T12:30:00+05:30",
+    "endDate": "2026-03-08T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
       }
     ]
   },
@@ -97,6 +367,270 @@
   },
   {
     "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-09T13:00:00+05:30",
+    "endDate": "2026-03-09T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-09T18:00:00+05:30",
+    "endDate": "2026-03-09T22:00:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-10T13:00:00+05:30",
+    "endDate": "2026-03-10T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-10T18:30:00+05:30",
+    "endDate": "2026-03-10T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-11T13:30:00+05:30",
+    "endDate": "2026-03-11T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-11T18:30:00+05:30",
+    "endDate": "2026-03-11T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-12T13:30:00+05:30",
+    "endDate": "2026-03-12T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-12T18:30:00+05:30",
+    "endDate": "2026-03-12T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-13T13:30:00+05:30",
+    "endDate": "2026-03-13T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-13T18:30:00+05:30",
+    "endDate": "2026-03-14T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "PowerPoint Roulette by Improv Lore",
+    "url": "https://puttingscene.com/events/3215",
+    "startDate": "2026-03-13T21:00:00+05:30",
+    "endDate": "2026-03-13T23:00:00+05:30",
+    "description": "<p>PowerPoint Roulette is a fast-paced, creative show where improvisers deliver presentations from slides they\u2019ve never seen before. Each performer is faced with slides filled with bizarre graphs, meaningless acronyms, and unexpected themes. With no time to prepare, they must improvise convincing explanations, facts, stories, and insights on the spot.</p><p></p><p>Serious business pitches, heartfelt eulogies, hard-hitting TED Talks, and fanciful conspiracy theories - prepare yourselves for a night of \u2018official\u2019 fun! The audience gets to join the revelry by asking questions, creating a truly unpredictable night of improvised theatrics.</p><p></p><p><strong>About Improv Lore:</strong></p><p>We are a Bengaluru-based community theatre troupe, working towards spreading the art of spontaneous storytelling and unscripted stagecraft, and rekindling the joy of being playful and whimsical. We meet for jams and workshops.</p>",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3215/e2f9ba0a-b015-4233-946e-fbe78791e7bb.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular Ticket",
+        "price": "380.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Munnudi Kannada - Basic Spoken Kannada Classes with Pradeep Khaadri",
     "url": "https://puttingscene.com/events/3236",
     "startDate": "2026-03-14T10:30:00+05:30",
@@ -116,6 +650,102 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 3
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-14T13:00:00+05:30",
+    "endDate": "2026-03-14T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-14T18:30:00+05:30",
+    "endDate": "2026-03-14T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-15T13:30:00+05:30",
+    "endDate": "2026-03-15T16:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "We\u2019re Hosting Again | Trippy Goat MG Road",
+    "url": "https://puttingscene.com/events/3257",
+    "startDate": "2026-03-15T18:00:00+05:30",
+    "endDate": "2026-03-15T22:30:00+05:30",
+    "description": "Trippy Goat opens its new MG Road address with limited, reservation-led seating all opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3257/b1e02377-ad5c-45d8-88ad-f93a6ef7fcef.jpg",
+    "location": {
+      "name": "IndiQube Symphony",
+      "address": "IndiQube Symphony, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=IndiQube%20Symphony&query_place_id=ChIJia8DPesXrjsR2BmAVMDUGU0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
       }
     ]
   }
