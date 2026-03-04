@@ -91,6 +91,30 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "86295-1773340200-1773347400@bangaloreinternationalcentre.org",
+    "name": "The Battle Royale",
+    "startDate": "2026-03-12T18:30:00+05:30",
+    "endDate": "2026-03-12T20:30:00+05:30",
+    "description": "87 min | 2025, India, Germany | Bengali, English and Hindi with English Subtitles \nIn December 2023, TMC MP Mahua Moitra was expelled from Indian Parliament on allegations of cash for query: financial inducements to raise questions against businessman Gautam Adani. She denied it. There was no evidence. The House voted her out regardless. \nWhat followed was a battle for Krishnanagar. \nThe Battle Royale is part of Election Diaries 2024, a series of nine documentaries by CeMIS\u00a0(Centre for Modern Indian Studies) reflecting on the anxieties, hopes, and resilience of Indian democracy. The film tracks Moitra\u2019s re-election campaign in one of 2024\u2019s most contested constituencies, pitted against the BJP\u2019s Amrita Roy, the \u2018Rajmata\u2019 of Krishnanagar, and CPI(M)/INC candidate S.M. Sadi. \nThree candidates. One seat. Everything at stake. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-battle-royale/",
+    "keywords": [
+      "Film"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "bn",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "The Battle Royale"
+    },
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TBR.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "86610-1773513000-1773518400@bangaloreinternationalcentre.org",
     "name": "Leading with Calm",
@@ -144,7 +168,7 @@
     "name": "The Long Game: Opportunity, Excellence and Institutional Power",
     "startDate": "2026-03-08T12:30:00+05:30",
     "endDate": "2026-03-08T14:00:00+05:30",
-    "description": "Opportunity is abundant. Outcomes, however, are strategic.\u00a0 \nThe four women on this panel have navigated all of it. Venture capital and enterprise strategy. Global talent transformation. The slow, necessary work of making the technology industry legible to the women coming up behind them. Startups built from scratch and careers that kept becoming something new.\u00a0 \nThey have done this inside institutions that weren\u2019t built for them, in markets that moved before they were ready, in moments that required a decision before the picture was clear. Together they examine how signals and opportunities are recognised, and sometimes missed. How excellence is sustained over decades, not just built in a moment. How to navigate boards, capital, and institutions. How and when to seek help from the mentors, sponsors, and allies who make the difference.\u00a0 \nThe answers come from lived experience. The lessons, hard-won as they are, turn out to be universal. \n",
+    "description": "Opportunity is abundant. Outcomes, however, are strategic.\u00a0 \nThe four women on this panel have navigated all of it. Venture capital and enterprise strategy. Global talent transformation. The slow, necessary work of making the technology industry legible to the women coming up behind them. Startups built from scratch and careers that kept becoming something new.\u00a0 \nThey have done this inside institutions that weren\u2019t built for them, in markets that moved before they were ready, in moments that required a decision before the picture was clear. Together they examine how signals and opportunities are recognised, and sometimes missed. How excellence is sustained over decades, not just built in a moment. How to navigate boards, capital, and institutions. How and when to seek help from the mentors, sponsors, and allies who make the difference.\u00a0 \nThe answers come from lived experience. The lessons, hard-won as they are, turn out to be universal. \nThis event is a part of our programming to celebrate International Women\u2019s Day. Music, theatre, and conversation: by women, for everyone. \n",
     "url": "https://bangaloreinternationalcentre.org/event/the-long-game-opportunity-excellence-and-institutional-power/",
     "keywords": [
       "Development",
@@ -252,26 +276,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "86067-1772735400-1772740800@bangaloreinternationalcentre.org",
-    "name": "The Cities We Carry",
-    "startDate": "2026-03-05T18:30:00+05:30",
-    "endDate": "2026-03-05T20:00:00+05:30",
-    "description": "Two questions plagued her for five years, living between Delhi, Venice, and Istanbul: how do we lose what we lose, and why do we love whom we love? \nDrawing on her collection of essays\u00a0Place: Intimate Encounters with Cities\u00a0(2026), written across 25 years and 13 cities, Ananya Vajpeyi will explore what cities hold for us.\u00a0 The memory and meaning held in street corners and corridors of light; the way personal loss and political trouble have of finding each other in the very same spaces. \nArchitect Prem Chandavarkar brings his own lifelong reckoning with cities to the table. Between them, the conversation promises to move across continents, disciplines, and the question of what it means to love a place. \nThe conversation will be followed by a Q&A with the audience. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-cities-we-carry/",
-    "keywords": [
-      "Books",
-      "Cities"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TCWC.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "@id": "86080-1772650800-1772656200@bangaloreinternationalcentre.org",
     "name": "Colors of Hindustani Slide Guitar",
@@ -296,27 +300,23 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "@id": "86295-1773340200-1773346500@bangaloreinternationalcentre.org",
-    "name": "The Battle Royale",
-    "startDate": "2026-03-12T18:30:00+05:30",
-    "endDate": "2026-03-12T20:15:00+05:30",
-    "description": "87 min | 2025, India, Germany | Bengali, English and Hindi with English Subtitles \nIn December 2023, TMC MP Mahua Moitra was expelled from Indian Parliament on allegations of cash for query: financial inducements to raise questions against businessman Gautam Adani. She denied it. There was no evidence. The House voted her out regardless. \nWhat followed was a battle for Krishnanagar. \nThe Battle Royale is part of Election Diaries 2024, a series of nine documentaries by CeMIS\u00a0(Centre for Modern Indian Studies) reflecting on the anxieties, hopes, and resilience of Indian democracy. The film tracks Moitra\u2019s re-election campaign in one of 2024\u2019s most contested constituencies, pitted against the BJP\u2019s Amrita Roy, the \u2018Rajmata\u2019 of Krishnanagar, and CPI(M)/INC candidate S.M. Sadi. \nThree candidates. One seat. Everything at stake. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-battle-royale/",
+    "@type": "Event",
+    "@id": "86067-1772735400-1772740800@bangaloreinternationalcentre.org",
+    "name": "The Cities We Carry",
+    "startDate": "2026-03-05T18:30:00+05:30",
+    "endDate": "2026-03-05T20:00:00+05:30",
+    "description": "Two questions plagued her for five years, living between Delhi, Venice, and Istanbul: how do we lose what we lose, and why do we love whom we love? \nDrawing on her collection of essays\u00a0Place: Intimate Encounters with Cities\u00a0(2026), written across 25 years and 13 cities, Ananya Vajpeyi will explore what cities hold for us.\u00a0 The memory and meaning held in street corners and corridors of light; the way personal loss and political trouble have of finding each other in the very same spaces. \nArchitect Prem Chandavarkar brings his own lifelong reckoning with cities to the table. Between them, the conversation promises to move across continents, disciplines, and the question of what it means to love a place. \nThe conversation will be followed by a Q&A with the audience. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-cities-we-carry/",
     "keywords": [
-      "Film"
+      "Books",
+      "Cities"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
-    "inLanguage": "bn",
-    "workPresented": {
-      "@type": "Movie",
-      "name": "The Battle Royale"
-    },
-    "subtitleLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TBR.jpg"
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TCWC.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -325,7 +325,7 @@
     "name": "Celebrating Women Composers",
     "startDate": "2026-03-08T11:30:00+05:30",
     "endDate": "2026-03-08T13:00:00+05:30",
-    "description": "Sthree Thaal Tharang is a soulful celebration of women in music. \nThe repertoire draws from the vachanas of Akkamahadevi, addressed to Chenna Mallikarjuna and marked by spiritual intensity and metaphysical longing; the verses of Andal, whose poetic imagination and theological vision shaped Tamil bhakti literature; and the bhajans of Mirabai, whose devotion was fearless, deeply personal, and entirely her own. \nThe programme moves into the twentieth century through Ambujam Krishna, whose lyrical clarity and devotional depth brought a different kind of rigour to the form, and through compositions popularised by pioneering women performers whose interpretations shaped modern concert practice. The morning culminates in laya-oriented compositions by Sukanya Ramgopal, where ghata tharang meets percussive texture and melodic interplay. \nSthree Thaal Tharang situates women not at the margins but at the centre of music\u2019s evolving history: composers, interpreters, and custodians of a living tradition. \nSupported by: \n \n",
+    "description": "Sthree Thaal Tharang is a soulful celebration of women in music. \nThe repertoire draws from the vachanas of Akkamahadevi, addressed to Chenna Mallikarjuna and marked by spiritual intensity and metaphysical longing; the verses of Andal whose poetic imagination and theological vision shaped Tamil bhakti literature; and the bhajans of Mirabai whose voice articulated a deeply personal and fearless devotion. \nThe programme also includes twentieth-century composers, such as\u00a0Ambujam Krishna, known for her lyrical clarity and devotional depth. In addition, the ensemble revisits compositions popularised by pioneering women performers of the twentieth century, acknowledging their role in shaping modern concert practice. \nThe morning culminates in laya-oriented creations by Sukanya Ramgopal, integrating ghata tharang with percussive textures and melodic interplay. \nRather than a thematic tribute alone, Sthree Thaal Tharang situates women not at the margins but at the centre of music\u2019s evolving history \u2014 as composers, interpreters, and custodians of a living tradition. \nThis event is a part of our programming to celebrate International Women\u2019s Day. Music, theatre, and conversation: by women, for everyone. \nSupported by: \n \n",
     "url": "https://bangaloreinternationalcentre.org/event/women-composers-in-classical-music/",
     "keywords": [
       "Gender",
