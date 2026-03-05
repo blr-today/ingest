@@ -1,6 +1,40 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "🌟 Bengaluru’s Own Swap Gala! 🌟Hey Bengaluru! 👋 Dive into the ultimate thrifting vibe at Swap Gala on Sunday, March 22 (3–7 PM) – a slow fashion extravaganza hosted by Na",
+      "endDate": "2026-03-22T19:00:00",
+      "identifier": "com.skillboxes.34519",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/T2VGNzJNcFgrbUtWNXFDTHl0NzJZQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/177267947809D4RSW1Vdhnm7DE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9756255",
+            "longitude": "77.6026164"
+         },
+         "name": "Samagata Foundation"
+      },
+      "name": "SWAP GALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "SWAP GALA",
+            "url": "https://www.skillboxes.com/events/ticket/swap-gala"
+         }
+      ],
+      "startDate": "2026-03-22T15:00:00",
+      "url": "https://www.skillboxes.com/events/swap-gala"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "🎤 LITMIC Volume 2 – do.with.lit’s Bengaluru Open Mic 🎤Step into the spotlight and experience the thrill of sharing your tale",
       "endDate": "2026-03-22T20:00:00",
@@ -825,9 +859,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Limitd Special TIckets only for women in our community to celebrate Women's Day. • This Ticket Allows Entry to One Female Only. • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
+            "inventoryLevel": 19,
+            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Females Only",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 1 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party]",
             "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Final Phase",
+            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -835,15 +877,15 @@
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
             "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Final Phase",
+            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 3 Only • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Final Phase",
+            "inventoryLevel": 3,
+            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -851,7 +893,7 @@
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
             "inventoryLevel": 10,
-            "name": "[3-Day Weekender Pass (Fri-Sun)] - Final Phase",
+            "name": "[3-Day Weekender Pass (Fri-Sun)] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -889,41 +931,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on Day 1 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party]",
-            "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
-            "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on Day 3 Only • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 9,
-            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
             "inventoryLevel": 10,
             "name": "3-Day Weekender Pass (Fri-Sun) - Early Birds",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 10,
-            "name": "[3-Day Weekender Pass (Fri-Sun)] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          }
       ],
@@ -1489,7 +1499,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 26,
+            "inventoryLevel": 9,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -1531,14 +1541,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2611,
+            "inventoryLevel": 2607,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1070,
+            "inventoryLevel": 1064,
             "name": "Platinum",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          }
@@ -1572,7 +1582,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 270,
+            "inventoryLevel": 253,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
          },
@@ -1629,7 +1639,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 47,
+            "inventoryLevel": 46,
             "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1687,7 +1697,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 498,
+            "inventoryLevel": 485,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
