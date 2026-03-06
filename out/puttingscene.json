@@ -504,30 +504,6 @@
   },
   {
     "@type": "Event",
-    "name": "Organic Mushroom Growing 101 By Nuvedo",
-    "url": "https://puttingscene.com/events/3258",
-    "startDate": "2026-03-07T12:00:00+05:30",
-    "endDate": "2026-03-07T14:00:00+05:30",
-    "description": "Explore fungi up close, build your own mushroom kit and learn the craft of home cultivation",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3258/71f8c8e1-aad0-40ff-a3d4-d8a74325ae9f.jpg",
-    "location": {
-      "name": "Sabha Blr, Shivaji Nagar",
-      "address": "Sabha Blr, Shivaji Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sabha,+262+Kamaraj+Road,+Shivaji+Nagar,+Bengaluru,+Karnataka+560042,+India"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "All inclusive",
-        "price": "1500.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "Toys From Trash!",
     "url": "https://puttingscene.com/events/3279",
     "startDate": "2026-03-07T14:00:00+05:30",
@@ -642,7 +618,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -660,6 +636,30 @@
       "url": "https://maps.app.goo.gl/vZ9qas9kWdBJSzUs8"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds Of Pasta - A Guided Fresh Pasta Workshop",
+    "url": "https://puttingscene.com/events/3260",
+    "startDate": "2026-03-07T17:30:00+05:30",
+    "endDate": "2026-03-07T19:00:00+05:30",
+    "description": "From dough to plate, a focused session on spinach ravioli with pumpkin burrata",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3260/9e8871b9-8d17-4399-95a8-aa62f0308a23.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "852.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
   },
   {
     "@type": "Event",
