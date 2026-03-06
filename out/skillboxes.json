@@ -2,6 +2,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Where the mic meets the martini and every voice gets its\nmoment in the spotlight.\nJoin us for Sip & Sing, a weekly karaoke night at Hamilton\nCocktail Bar hosted by the ever-charismatic Joshua",
+      "endDate": "2026-03-06T23:30:00",
+      "identifier": "com.skillboxes.34545",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772780306LldlEldWYqqM4i1M.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "Sing and Sip ft. Joshua",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.\n•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.",
+            "inventoryLevel": 100,
+            "name": "General Admission for 1",
+            "url": "https://www.skillboxes.com/events/ticket/sing-and-sip-ft-joshua-7"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.\n•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.",
+            "inventoryLevel": 39,
+            "name": "Front View Table for 4",
+            "url": "https://www.skillboxes.com/events/ticket/sing-and-sip-ft-joshua-7"
+         }
+      ],
+      "startDate": "2026-03-06T20:30:00",
+      "url": "https://www.skillboxes.com/events/sing-and-sip-ft-joshua-7"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Trap Culture x Social Presents Section 140 Vol 7",
       "endDate": "2026-03-13T23:59:00",
       "identifier": "com.skillboxes.34540",
@@ -671,7 +714,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "COVER CHARGES APPLICABLE\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "FAKE FRIENDS",
             "url": "https://www.skillboxes.com/events/ticket/fake-friends"
          }
@@ -740,25 +783,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female)\n",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 couple.) Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-live-at-kitty-ko"
          }
       ],
@@ -948,8 +1031,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 1 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party]",
-            "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Phase 1",
+            "inventoryLevel": 6,
+            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Final Phase",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -957,7 +1040,7 @@
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
             "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Phase 1",
+            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Final Phase",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -973,7 +1056,7 @@
             "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
             "inventoryLevel": 10,
-            "name": "[3-Day Weekender Pass (Fri-Sun)] - Phase 1",
+            "name": "[3-Day Weekender Pass (Fri-Sun)] - Final Phase",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -1011,9 +1094,33 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "• This Ticket Allows Entry to One Person on Day 1 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party]",
+            "inventoryLevel": 8,
+            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
+            "inventoryLevel": 9,
+            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
             "inventoryLevel": 10,
             "name": "3-Day Weekender Pass (Fri-Sun) - Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
+            "inventoryLevel": 10,
+            "name": "[3-Day Weekender Pass (Fri-Sun)] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          }
       ],
@@ -1305,7 +1412,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 18,
+            "inventoryLevel": 16,
             "name": "Seating Tickets",
             "url": "https://www.skillboxes.com/events/ticket/kayaka"
          }
@@ -1339,7 +1446,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/date-my-buddy"
          }
@@ -1579,8 +1686,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 9,
-            "name": "Phase 1 || Single Pass",
+            "inventoryLevel": 150,
+            "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
          {
@@ -1589,6 +1696,14 @@
             "description": "Grant general access to one individual.\n",
             "inventoryLevel": 0,
             "name": "Early Bird || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Grant general access to one individual.\n",
+            "inventoryLevel": 0,
+            "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          }
       ],
@@ -1621,14 +1736,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2607,
+            "inventoryLevel": 2595,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1064,
+            "inventoryLevel": 1057,
             "name": "Platinum",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          }
@@ -1662,7 +1777,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 253,
+            "inventoryLevel": 219,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
          },
@@ -1711,7 +1826,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Before 8:00 pm\nMandatory cover charge applicable at gate. Redeemable on F&B",
-            "inventoryLevel": 8,
+            "inventoryLevel": 6,
             "name": "Early Entry Pass (Entry Before 8:00 pm)",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1719,7 +1834,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 45,
             "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1777,7 +1892,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 485,
+            "inventoryLevel": 477,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
