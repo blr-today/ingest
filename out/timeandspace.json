@@ -26,5 +26,33 @@
       "telephone": "+917760394808",
       "sameAs": "https://timeandspace.gallery"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "The Spirit of The Land",
+    "description": "We\u2019re delighted to invite you to \u201cThe Spirit of the Land\u201d, a solo exhibition by Shivakumar Sunagar at Gallery Time and Space. The exhibition opens on 6th March 2026. The...\\n",
+    "image": "https://timeandspace.gallery/wp-content/uploads/2024/08/IMG_7211-scaled-e1724740524148.jpg",
+    "url": "https://timeandspace.gallery/event/the-spirit-of-the-land/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-03-06T08:00:00+05:30",
+    "endDate": "2026-03-22T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Gallery Time and Space",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
+        "addressLocality": "Bangalore",
+        "addressRegion": "karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "+917760394808",
+      "sameAs": "https://timeandspace.gallery"
+    }
   }
 ]
