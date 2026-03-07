@@ -2,6 +2,117 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Autm Collective is an electronic music project originating from South India, exploring the intersection of Carnatic traditions and modern electronic themes . Rooted in South Indian musical aesthetics, the project blends classical melodic",
+      "endDate": "2026-03-07T23:59:00",
+      "identifier": "com.skillboxes.34103",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771595674UsGjNO9CuGYvPoMS.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "The Humming Tree Presents: Thakara and Autm Collective",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 128,
+            "name": "Phase 2 Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
+         }
+      ],
+      "startDate": "2026-03-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-humming-tree-presents-thakara-and-autm-collective"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "BROILING ROOM – March 14Zozo | 6PMHorn Head taking control.Mizmaze • Sonic Shaman • Khizhi • Teju backing the madness.No trends. No mainstream.Just brutal SCHRANZ.Crafted for the undergr",
+      "endDate": "2026-03-14T23:59:00",
+      "identifier": "com.skillboxes.34579",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YVBhYzBvRjM0alVNeVVjNHRmQ2xnUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17728725260k5NlFuRt8nAQ72N.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0314698",
+            "longitude": "77.5771977"
+         },
+         "name": "ZOZO THE CLUB"
+      },
+      "name": "Broiling Room",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 400,
+            "name": "Broiling Room",
+            "url": "https://www.skillboxes.com/events/ticket/broiling-room-3"
+         }
+      ],
+      "startDate": "2026-03-14T18:00:00",
+      "url": "https://www.skillboxes.com/events/broiling-room-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into the neon and light up the night at Glow in the Dark at Fandom at Gilly’s Redefined.\nGet ready for a high-energy night featuring Ivan (DJ Ivan), bringing an electrifying ",
+      "endDate": "2026-03-21T22:00:00",
+      "identifier": "com.skillboxes.34578",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772871508hbB7IringHJGcUDt.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
+         "name": "Fandom At Gilly's Redefined"
+      },
+      "name": "Glow In The Dark Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "single pass",
+            "url": "https://www.skillboxes.com/events/ticket/glow-in-the-dark-party"
+         }
+      ],
+      "startDate": "2026-03-21T20:00:00",
+      "url": "https://www.skillboxes.com/events/glow-in-the-dark-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Step into the rhythm of timeless reggae at Golden Era Reggae Revival, a celebration dedicated to the soulful sounds, powerful lyrics, and infectious grooves that shaped generations. This event brings together talented live performers and musicians to",
       "endDate": "2026-03-07T20:00:00",
       "identifier": "com.skillboxes.34575",
@@ -473,7 +584,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 95,
             "name": "General Admission for 1",
             "url": "https://www.skillboxes.com/events/ticket/the-bombay-circuit-ft-purohit-chronic-musicmonk"
          }
@@ -508,7 +619,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge applicable at gates\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/social-presents-sukoon-wali-qawali-at-bellandur-social"
          }
@@ -731,9 +842,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "COVER CHARGES APPLICABLE\n",
-            "inventoryLevel": 9,
-            "name": "FAKE FRIENDS",
+            "inventoryLevel": 25,
+            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/fake-friends"
          }
       ],
@@ -907,40 +1017,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limitd Special TIckets only for women in our community to celebrate Women's Day. • This Ticket Allows Entry to One Female Only. • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 19,
+            "inventoryLevel": 18,
             "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Females Only",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on Day 1 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party]",
-            "inventoryLevel": 6,
-            "name": "[Single Day Pass (Day 1 - 6th March Indiranagar Social 7m Onwards] - Final Phase",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
-            "inventoryLevel": 10,
-            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Final Phase",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "• This Ticket Allows Entry to One Person on Day 3 Only • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
-            "inventoryLevel": 3,
-            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• This Ticket Allows Entry to One Person on All Three Days • • Cover & Entry Charges Applicable Post 9 pm For Day 1 & Day 2. and post 6 pm for Day 3.\nDay 1 - Fri, 6th March, 7pm Onwards Indiranagar Social [Indoor Party] …… Day 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party] …… Day 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
             "inventoryLevel": 10,
-            "name": "[3-Day Weekender Pass (Fri-Sun)] - Final Phase",
+            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Final Phase",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -989,6 +1075,22 @@
             "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
             "inventoryLevel": 9,
             "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "• This Ticket Allows Entry to One Person on Day 2 Only • Cover & Entry Charges Applicable Post 9 pm.\nDay 2 - Sat, 7th March, 2pm Onwards Indiranagar Social [Vinyl Workshop, Meet & Greet, Sundowner + Night Party]",
+            "inventoryLevel": 0,
+            "name": "[Single Day Pass (Day 2 - 7th March Indiranagar Social 2pm Onwards] - Final Phase",
+            "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• This Ticket Allows Entry to One Person on Day 3 Only • Cover & Entry Charges Applicable Post 6 pm.\nDay 3 - Sun, 8th March, 3pm Onwards Koramangala Social [Sundowner + Night Party]",
+            "inventoryLevel": 1,
+            "name": "[Single Day Pass (Day 3 - 8th March Koramangala Social 3pm Onwards] - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/massive-weekender-2026-3-days-2-venues-30-artists-workshops-popups-more"
          },
          {
@@ -1240,24 +1342,7 @@
          "name": "Windmills Craftworks, Whitefield"
       },
       "name": "Kayaka",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/kayaka-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/kayaka-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-03-14T21:30:00",
       "url": "https://www.skillboxes.com/events/kayaka-1"
    },
@@ -1376,38 +1461,38 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "SoMAD Live returns to Bangalore with a spotlight on artists shaping the future of culture.\r\n\r\n \r\n\r\nHeadlining the night is YUNG RAJA! \r\n\r\n \r\n\r\nYung Raja — a pioneer of bilingual rap blending Tamil a",
+      "description": "SoMAD Live returns to Bangalore with a spotlight on artists shaping the future of culture.\n\n \n\nHeadlining the night is YUNG RAJA! \n\n \n\nYung Raja — a pioneer of biling",
       "endDate": "2026-03-14T23:59:00",
       "identifier": "com.skillboxes.34321",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772029684meWIj7bPHPs8Dsdp.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1772806041R3rO8HQW9CscFmsv.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "address": "963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9762029",
-            "longitude": "77.5991872"
+            "latitude": "12.9700136",
+            "longitude": "77.6400748"
          },
-         "name": "One8 Commune, Bangalore"
+         "name": "Daddy Bangalore"
       },
-      "name": "SoMAD presents Yung Raja",
+      "name": "SoMAD LIVE Presents YUNG RAJA [LIVE] + Raka Ashok, Sakré & Suprava",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 992,
+            "description": "Permits Free entry to the event without cover charges till 8:30PM only, Post 8:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 991,
             "name": "Pre Sale - Single Lady",
             "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry for one couple to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
+            "description": "Permits Free entry for one couple to the event without cover charges till 8:30PM only, Post 8:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
             "inventoryLevel": 999,
             "name": "Pre Sale - Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
@@ -1415,15 +1500,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry for 4 single ladies to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 1000,
+            "description": "Permits Free entry for 4 Single ladies to the event without cover charges till 8:30PM only, Post 8:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
+            "inventoryLevel": 999,
             "name": "Pre Sale - Girls Night Out [ Group of 4 Girls ]",
             "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry for two couples to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
+            "description": "Permits Free entry for two couples to the event without cover charges till 8:30PM only, Post 8:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
             "inventoryLevel": 1000,
             "name": "Pre Sale - Double Date! [ Group of 2 Couples ]",
             "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
@@ -1431,7 +1516,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry for one male stag to the event without cover charges till 7:30PM only, Post 7:30PM additional cover charges of INR 2000/- applicable per head as per club rules and regulations.\n",
+            "description": "Permits Free entry for one male stag to the event without cover charges till 8:30PM only, Post 8:30PM additional cover charges of INR 2000/- applicable per head as per club rules and regulations.\n",
             "inventoryLevel": 1000,
             "name": "Pre Sale - Stag",
             "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
@@ -1445,7 +1530,7 @@
             "url": "https://www.skillboxes.com/events/ticket/somad-presents-yung-raja"
          }
       ],
-      "startDate": "2026-03-14T17:00:00",
+      "startDate": "2026-03-14T19:00:00",
       "url": "https://www.skillboxes.com/events/somad-presents-yung-raja"
    },
    {
@@ -1570,7 +1655,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 150,
+            "inventoryLevel": 145,
             "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -1620,14 +1705,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2595,
+            "inventoryLevel": 2586,
             "name": "Gold",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1057,
+            "inventoryLevel": 1050,
             "name": "Platinum",
             "url": "https://www.skillboxes.com/events/ticket/navarasa-the-mahabharata-experience"
          }
@@ -1679,54 +1764,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Autm Collective is an electronic music project originating from South India, exploring the intersection of Carnatic traditions and modern electronic themes . Rooted in South Indian musical aesthetics, the project blends classical melodic",
-      "endDate": "2026-03-07T23:59:00",
-      "identifier": "com.skillboxes.34103",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771595674UsGjNO9CuGYvPoMS.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "The Humming Tree Presents: Thakara and Autm Collective",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 219,
-            "name": "Phase 2 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thakara-and-autm-collective"
-         }
-      ],
-      "startDate": "2026-03-07T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-humming-tree-presents-thakara-and-autm-collective"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Oscillate ft. Future.666",
       "endDate": "2026-03-15T23:59:00",
       "identifier": "com.skillboxes.34073",
@@ -1751,7 +1788,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Before 8:00 pm\nMandatory cover charge applicable at gate. Redeemable on F&B",
-            "inventoryLevel": 6,
+            "inventoryLevel": 5,
             "name": "Early Entry Pass (Entry Before 8:00 pm)",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1767,7 +1804,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 25,
+            "inventoryLevel": 23,
             "name": "Phase 1 Backstage Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-ft-future-666"
          },
@@ -1817,7 +1854,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 477,
+            "inventoryLevel": 471,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
@@ -2025,7 +2062,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per day applicable at gates\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Bangalore - 2 day pass",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          },
@@ -2153,8 +2190,13 @@
       ],
       "location": {
          "@type": "Place",
-         "address": "",
-         "name": "To Be Decided"
+         "address": "No. 95, Crescent Eminence, After Joseph Commerce College, opposite to grill house, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9688598",
+            "longitude": "77.6063536"
+         },
+         "name": "SOUNDGLITZ - Brigade Road"
       },
       "name": "Apocalyptic Grid",
       "offers": [
@@ -2408,7 +2450,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
+            "inventoryLevel": 10,
             "name": "Early Bird - Limited",
             "url": "https://www.skillboxes.com/events/ticket/classical-footsteps-live-morning-show"
          },
