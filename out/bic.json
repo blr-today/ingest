@@ -21,6 +21,30 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "86671-1773860400-1773865800@bangaloreinternationalcentre.org",
+    "name": "Sur, Parampara, and Ritu",
+    "startDate": "2026-03-18T19:00:00+05:30",
+    "endDate": "2026-03-18T20:30:00+05:30",
+    "description": "A raga is not simply performed, it is experienced. \nThis concert presents select evening ragas through the lens of two distinct Hindustani traditions. The Kirana gharana unfolds in slow, meditative elaboration. The Gwalior gharana brings structure, clarity, and rhythmic vitality. Together, they frame the unfolding of a raga.\u00a0 \nMuddu Mohan on vocals, Vyasmurti Katti on harmonium, and Keshav Joshi on tabla trace the raga from its quietest beginnings to its fullest expression. The Ritu Ragas speak directly to you. The feeling of the changing seasons, expressed, heard and understood.\u00a0 \nBe stilled. Be seen. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/sur-parampara-and-ritu/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Sur, Parampara, and Ritu"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_SPR.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "@id": "86295-1773340200-1773347400@bangaloreinternationalcentre.org",
     "name": "The Battle Royale",

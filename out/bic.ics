@@ -9,7 +9,7 @@ X-WR-CALDESC:Events for Bangalore International Centre
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260310T183000
 DTEND;TZID=Asia/Kolkata:20260310T200000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260305T103536Z
 LAST-MODIFIED:20260307T072621Z
 UID:86720-1773167400-1773172800@bangaloreinternationalcentre.org
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260312T183000
 DTEND;TZID=Asia/Kolkata:20260312T203000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260303T123910Z
 LAST-MODIFIED:20260305T114916Z
 UID:86295-1773340200-1773347400@bangaloreinternationalcentre.org
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260312T190000
 DTEND;TZID=Asia/Kolkata:20260312T203000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260305T070950Z
 LAST-MODIFIED:20260307T073805Z
 UID:86693-1773342000-1773347400@bangaloreinternationalcentre.org
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260313T183000
 DTEND;TZID=Asia/Kolkata:20260313T200000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260303T123925Z
 LAST-MODIFIED:20260309T055639Z
 UID:86568-1773426600-1773432000@bangaloreinternationalcentre.org
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260314T183000
 DTEND;TZID=Asia/Kolkata:20260314T200000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260303T123941Z
 LAST-MODIFIED:20260307T071420Z
 UID:86610-1773513000-1773518400@bangaloreinternationalcentre.org
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260315T110000
 DTEND;TZID=Asia/Kolkata:20260315T123000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260306T134528Z
 LAST-MODIFIED:20260306T134528Z
 UID:86562-1773572400-1773577800@bangaloreinternationalcentre.org
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260315T113000
 DTEND;TZID=Asia/Kolkata:20260315T130000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20251224T091049Z
 LAST-MODIFIED:20260308T154151Z
 UID:83450-1773574200-1773579600@bangaloreinternationalcentre.org
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260317T190000
 DTEND;TZID=Asia/Kolkata:20260317T203000
-DTSTAMP:20260310T071021
+DTSTAMP:20260310T133935
 CREATED:20260306T164259Z
 LAST-MODIFIED:20260307T072407Z
 UID:86402-1773774000-1773779400@bangaloreinternationalcentre.org
@@ -117,5 +117,19 @@ URL:https://bangaloreinternationalcentre.org/event/the-zone/
 LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
 CATEGORIES:Dance,Performing Arts
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TZ.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260318T190000
+DTEND;TZID=Asia/Kolkata:20260318T203000
+DTSTAMP:20260310T133935
+CREATED:20260310T100124Z
+LAST-MODIFIED:20260310T100124Z
+UID:86671-1773860400-1773865800@bangaloreinternationalcentre.org
+SUMMARY:Sur\, Parampara\, and Ritu
+DESCRIPTION:A raga is not simply performed\, it is experienced. \nThis concert presents select evening ragas through the lens of two distinct Hindustani traditions. The Kirana gharana unfolds in slow\, meditative elaboration. The Gwalior gharana brings structure\, clarity\, and rhythmic vitality. Together\, they frame the unfolding of a raga.  \nMuddu Mohan on vocals\, Vyasmurti Katti on harmonium\, and Keshav Joshi on tabla trace the raga from its quietest beginnings to its fullest expression. The Ritu Ragas speak directly to you. The feeling of the changing seasons\, expressed\, heard and understood.  \nBe stilled. Be seen. \nSupported by: \n \n
+URL:https://bangaloreinternationalcentre.org/event/sur-parampara-and-ritu/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_SPR.jpg
 END:VEVENT
 END:VCALENDAR
