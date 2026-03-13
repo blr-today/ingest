@@ -2,6 +2,77 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for a night of pure sonic chaos as Big City Germs bring their electrifying World Tour ’26 to Bengaluru for an unforgettable live show at Gilly’s Redefined.Hailing from Vancouver, Big City Germs are",
+      "endDate": "2026-04-11T22:00:00",
+      "identifier": "com.skillboxes.34758",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/177338535186oKOEeBuO56g5OA.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
+         "name": "Fandom At Gilly's Redefined"
+      },
+      "name": "Big City Germs INDIA TOUR BANGALORE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early bird - Single",
+            "url": "https://www.skillboxes.com/events/ticket/big-city-germs-india-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird - Buddy Pass",
+            "url": "https://www.skillboxes.com/events/ticket/big-city-germs-india-tour-bangalore"
+         }
+      ],
+      "startDate": "2026-04-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/big-city-germs-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Formed as a power trio of guitar, bass, and drums, The DRS project is a progressive fusion outfit that blends the intensity of prog rock with the groove and elasticity of funk. The band’s debut 3-track EP marks the beginning o",
+      "endDate": "2026-04-01T23:55:00",
+      "identifier": "com.skillboxes.34755",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773377093jueeytVWKTUSkb8V.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "Grassroots Wednesdays with DRS Project",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charge INR 299 per individual applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 550,
+            "name": "Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-drs-project"
+         }
+      ],
+      "startDate": "2026-04-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-drs-project"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The spotlight is on and the beats are ready. 🎧Join us for Showtime Tuesday with DJ Sukant at Yeda Republic Bangalore.Midweek plans = sorted.Let the party take over! 🔥",
       "endDate": "2026-03-17T23:59:00",
       "identifier": "com.skillboxes.34753",
@@ -644,16 +715,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "support@raveyorker.org\n",
-            "inventoryLevel": 19,
-            "name": "Early Bird",
+            "inventoryLevel": 50,
+            "name": "General Access",
             "url": "https://www.skillboxes.com/events/ticket/nox-vahn-live-in-bengaluru-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "support@raveyorker.org\n",
-            "inventoryLevel": 50,
-            "name": "General Access",
+            "inventoryLevel": 19,
+            "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/nox-vahn-live-in-bengaluru-2"
          }
       ],
@@ -1098,7 +1169,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 97,
+            "inventoryLevel": 93,
             "name": "Live Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/f1-chinese-grand-prix-live-screening-watson-s-indiranagar"
          }
