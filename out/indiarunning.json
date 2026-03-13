@@ -1,49 +1,6 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "PaceX x HRX, Mini Forest Run at JP Nagar",
-    "url": "https://indiarunning.com/events/pacex_x_hrx_mini_forest_run_at_jp_nagar_50429",
-    "startDate": "2026-03-15T07:00:00+05:30",
-    "endDate": "2026-03-15T10:30:00+05:30",
-    "description": "Sunrise miles through the lush \nMini Forest stretch at JP Nagar\n - fresh air, tree-lined roads, and high-energy vibes.\nChoose your pace with \n2.5K & 5K options\n, strong pacing, and an empowering community atmosphere \ud83d\udcaa\u2728\nAnd we don\u2019t stop at the finish line.\nWe roll straight into our \nsignature Coffee Rave\n \u2615\ud83c\udfb6, fresh brews, music, an open dance floor, and a full post-run celebration.\nRun hard. Sip slow. Rave louder. \ud83d\udd25",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/03/15/pacex-x-hrx%2C-mini-forest-run-at-jp-nagar-2026/banner1772632864712",
-    "location": {
-      "@type": "Place",
-      "name": "3rd Phase",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "WH7X+HCW Sukhdev Park, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560078",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9139795,
-        "longitude": 77.5985736
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "2.5K",
-        "price": "399",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "399",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "Apollo Sugar & Dental Clinics, Jakkur Commitment Run 2026",
     "url": "https://indiarunning.com/events/apollo_sugar__dental_clinics_jakkur_commitment_run_2026_24775",
     "startDate": "2026-03-15T07:00:00+05:30",
@@ -94,6 +51,49 @@
         "@type": "Offer",
         "name": "7K",
         "price": "299",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "PaceX x HRX, Mini Forest Run at JP Nagar",
+    "url": "https://indiarunning.com/events/pacex_x_hrx_mini_forest_run_at_jp_nagar_50429",
+    "startDate": "2026-03-15T07:00:00+05:30",
+    "endDate": "2026-03-15T10:30:00+05:30",
+    "description": "Sunrise miles through the lush \nMini Forest stretch at JP Nagar\n - fresh air, tree-lined roads, and high-energy vibes.\nChoose your pace with \n2.5K & 5K options\n, strong pacing, and an empowering community atmosphere \ud83d\udcaa\u2728\nAnd we don\u2019t stop at the finish line.\nWe roll straight into our \nsignature Coffee Rave\n \u2615\ud83c\udfb6, fresh brews, music, an open dance floor, and a full post-run celebration.\nRun hard. Sip slow. Rave louder. \ud83d\udd25",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/03/15/pacex-x-hrx%2C-mini-forest-run-at-jp-nagar-2026/banner1772632864712",
+    "location": {
+      "@type": "Place",
+      "name": "3rd Phase",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "WH7X+HCW Sukhdev Park, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560078",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9139795,
+        "longitude": 77.5985736
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "399",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
