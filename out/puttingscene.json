@@ -640,7 +640,16 @@
       "address": "Beku - Cafe Bakery Bookstore, ",
       "url": "https://maps.google.com/?cid=1489152044405142897"
     },
-    "isAccessibleForFree": true
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "507.63",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
   },
   {
     "@type": "Event",
