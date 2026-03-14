@@ -88,16 +88,7 @@
       "address": "Paper Crane Lab, ",
       "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
     },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "1800.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
-      }
-    ]
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -217,7 +208,7 @@
         "price": "999.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 47
+        "remainingAttendeeCapacity": 45
       }
     ]
   },
@@ -395,7 +386,7 @@
         "price": "1694.92",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
+        "remainingAttendeeCapacity": 999
       }
     ]
   },
@@ -583,30 +574,6 @@
   },
   {
     "@type": "Event",
-    "name": "Entertainment, Entertainment, Entertainment by Tasty Trivia",
-    "url": "https://puttingscene.com/events/3350",
-    "startDate": "2026-03-14T21:00:00+05:30",
-    "endDate": "2026-03-14T23:00:00+05:30",
-    "description": "A high energy pop culture quiz with interactive challenges and game show style rounds",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3350/5497a8c0-5fc5-44f3-a372-f0d3c94ffecf.jpg",
-    "location": {
-      "name": "Underline Center",
-      "address": "Underline Center, ",
-      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "338.14",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 2
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "Rajah Betta at Middle Room",
     "url": "https://puttingscene.com/events/3420",
     "startDate": "2026-03-14T21:00:00+05:30",
@@ -719,7 +686,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 7
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -791,7 +758,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 4
       }
     ]
   },
@@ -815,7 +782,7 @@
         "price": "1399.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 17
       }
     ]
   },
