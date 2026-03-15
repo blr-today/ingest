@@ -1,18 +1,56 @@
 [
   {
     "@type": "Event",
-    "name": "Colonial Crawl",
-    "url": "https://puttingscene.com/events/3417",
-    "startDate": "2026-03-14T07:30:00+05:30",
-    "endDate": "2026-03-14T08:30:00+05:30",
-    "description": "A guided morning walk through Cubbon Park and MG Road tracing the colonial history, churches and characters that shaped Bangalore",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2025/12/12/1765543447842-1765543447783_ms003o7ktjc.png",
+    "name": "BBCh26 Race #02: Individual Time Trial",
+    "url": "https://puttingscene.com/events/3435",
+    "startDate": "2026-03-15T06:00:00+05:30",
+    "endDate": "2026-03-15T07:00:00+05:30",
+    "description": "Cyclists race the clock in a 30.5 km individual time trial on the Satellite Town Ring Road",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476501185-1773476501122_uyddq14cbv.png",
     "location": {
-      "name": "Cubbon Park",
-      "address": "Cubbon Park, Bangalore",
-      "url": "https://maps.app.goo.gl/Rh9KX2MRsLzfNHtq5?g_st=com.google.maps.preview.copy"
+      "name": "KIADB Phase 02, Satellite Town Ring Road",
+      "address": "KIADB Phase 02, Satellite Town Ring Road, Bangalore",
+      "url": "https://goo.gl/maps/hRxQSWyBbbfvpdv17"
     },
-    "sameAs": "https://gully.tours/tours/colonial-crawl",
+    "sameAs": "https://in.explara.com/e/bbch26-race02",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "999.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Third Sunday Bird Walk",
+    "url": "https://puttingscene.com/events/3436",
+    "startDate": "2026-03-15T07:00:00+05:30",
+    "endDate": "2026-03-15T08:00:00+05:30",
+    "description": "Explore Hesaraghatta Grasslands on a relaxed morning bird walk spotting raptors and scrubland species",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477240252-1773477240213_9kqqj1vktbi.png",
+    "location": {
+      "name": "AQCS, Byatha",
+      "address": "AQCS, Byatha, Bangalore",
+      "url": "https://maps.app.goo.gl/i978tWWGrce9bSF49"
+    },
+    "sameAs": "https://blrbirders.com",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Malleshwaram Hogona",
+    "url": "https://puttingscene.com/events/3438",
+    "startDate": "2026-03-15T07:30:00+05:30",
+    "endDate": "2026-03-15T08:30:00+05:30",
+    "description": "A street art walking tour through Malleshwaram featuring 13 artists and 12 murals, starting with breakfast at the legendary CTR",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477462931-1773477462852_vwnojt9tq7.png",
+    "location": {
+      "name": "Central Tiffin Room, Malleshwaram",
+      "address": "Central Tiffin Room, Malleshwaram, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Central+Tiffin+Room+%28CTR%29+Shri+Sagar%2C+7th+Cross+Rd%2C+Margosa+Road%2C+Malleshwaram%2C+Bengaluru%2C+Karnataka+560003%2C+India"
+    },
+    "sameAs": "https://gully.tours/tours/malleshwaram-hogona",
     "offers": [
       {
         "@type": "Offer",
@@ -23,34 +61,18 @@
   },
   {
     "@type": "Event",
-    "name": "Global WiDS Conference 2026",
-    "url": "https://puttingscene.com/events/3423",
-    "startDate": "2026-03-14T08:45:00+05:30",
-    "endDate": "2026-03-14T09:45:00+05:30",
-    "description": "Women in Data Science Bangalore gathers global experts to discuss AI, analytics and the future of data science",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773398117561-1773398117502_1ky6wcvn59w.png",
+    "name": "Whitefield Heritage Walk",
+    "url": "https://puttingscene.com/events/3441",
+    "startDate": "2026-03-15T09:00:00+05:30",
+    "endDate": "2026-03-15T10:00:00+05:30",
+    "description": "Bengaluru Prayana and Bengaluritage lead a walk through Whitefield's 150-year Anglo-Indian history, with breakfast included.",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477544217-1773477543966_zq1sad60q8.png",
     "location": {
-      "name": "IIM Bangalore, Bilekahalli",
-      "address": "IIM Bangalore, Bilekahalli, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Indian+Institute+of+Management+Bangalore%2C+Bannerghatta+Main+Rd%2C+Bilekahalli%2C+Bengaluru%2C+Karnataka+560076%2C+India"
+      "name": "Whitefield",
+      "address": "Whitefield, Bangalore",
+      "url": "https://g.co/kgs/UYL3wAH"
     },
-    "sameAs": "https://www.iimb.ac.in/dcal-host-8th-women-data-science-conference-2026",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Cult Fitness Carnival",
-    "url": "https://puttingscene.com/events/3409",
-    "startDate": "2026-03-14T10:00:00+05:30",
-    "endDate": "2026-03-14T11:00:00+05:30",
-    "description": "A full day fitness festival with yoga, dance workouts, Pilates and strength sessions led by celebrity trainers",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2025/12/08/1765197691028-1765197690977_8hdsof35bho.png",
-    "location": {
-      "name": "KTPO, Whitefield",
-      "address": "KTPO, Whitefield, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=KTPO+Exhibition+and+Convention+Centre,+Export+Promotion+Industrial+Park,+Plot+No.+121,+Road+No.+V,+EPIP+2nd+Phase,+Whitefield,+Bengaluru,+Karnataka+560066,+India"
-    },
-    "sameAs": "https://link.district.in/DSTRKT/1catts8u",
+    "sameAs": "https://www.instagram.com/p/DVodw8oE3n7/?img_index=1",
     "offers": [
       {
         "@type": "Offer",
@@ -61,535 +83,44 @@
   },
   {
     "@type": "Event",
-    "name": "Urban Sketch Meet",
-    "url": "https://puttingscene.com/events/3416",
-    "startDate": "2026-03-14T10:00:00+05:30",
-    "endDate": "2026-03-14T11:00:00+05:30",
-    "description": "Sketch the French-inspired streetscape of Jinvara Caf\u00e9 in this relaxed urban drawing session",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397893695-1773397893590_yry955bxl5h.png",
+    "name": "Climb in French",
+    "url": "https://puttingscene.com/events/3432",
+    "startDate": "2026-03-15T10:00:00+05:30",
+    "endDate": "2026-03-15T11:00:00+05:30",
+    "description": "A social climbing session that pairs indoor bouldering with casual French conversation",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476437012-1773476436964_9gvsfd05znq.png",
     "location": {
-      "name": "Jinvara, Avalahalli",
-      "address": "Jinvara, Avalahalli, ",
-      "url": "https://maps.app.goo.gl/ovs1JXdocDkQoibP6"
+      "name": "Equilibrium Climbing Station, Hoodi",
+      "address": "Equilibrium Climbing Station, Hoodi, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Equilibrium%20Climbing%20Station%2C%20Hoodi"
     },
-    "sameAs": "https://www.instagram.com/p/DVyWs5yEgGH/",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "DIY Camera Obscura",
-    "url": "https://puttingscene.com/events/3373",
-    "startDate": "2026-03-14T11:00:00+05:30",
-    "endDate": "2026-03-14T15:00:00+05:30",
-    "description": "Learn to build a pinhole camera and develop analogue photographs in this guided workshop",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3373/18385686-3268-4435-90d6-d715fb57a913.jpg",
-    "location": {
-      "name": "Paper Crane Lab",
-      "address": "Paper Crane Lab, ",
-      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
-    },
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Screen Printing Workshop - Tote Bag",
-    "url": "https://puttingscene.com/events/3418",
-    "startDate": "2026-03-14T11:00:00+05:30",
-    "endDate": "2026-03-14T12:00:00+05:30",
-    "description": "Print your own custom tote bag from scratch in a hands-on screen printing session",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773398140237-1773398140169_7t538m2ntf.png",
-    "location": {
-      "name": "Your Design Store, Vasanth Nagar",
-      "address": "Your Design Store, Vasanth Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Your%20Design%20Store%2C%20Bangalore"
-    },
-    "sameAs": "https://www.instagram.com/p/DVYhbIcgd-j/",
+    "sameAs": "https://equilibriumclimbing.com/events/6934/1",
     "offers": [
       {
         "@type": "Offer",
-        "price": "2500.00",
+        "price": "900.00",
         "priceCurrency": "INR"
       }
     ]
   },
   {
     "@type": "Event",
-    "name": "The Italian Dumpling: A Gnocchi Making Experience",
-    "url": "https://puttingscene.com/events/3411",
-    "startDate": "2026-03-14T11:30:00+05:30",
-    "endDate": "2026-03-14T12:30:00+05:30",
-    "description": "Learn to make gnocchi from scratch, from shaping the dough to pairing it with classic Italian sauces",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397396564-1773397396434_zyo95zq34p.png",
+    "name": "DIY Wood Workshop",
+    "url": "https://puttingscene.com/events/3443",
+    "startDate": "2026-03-15T10:00:00+05:30",
+    "endDate": "2026-03-15T11:00:00+05:30",
+    "description": "A full-day beginner woodworking session, covering power tools, hand tools and the satisfaction of building something yourself",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477573378-1773477573333_pp44d3yscil.png",
     "location": {
-      "name": "Italia, The Park",
-      "address": "Italia, The Park, ",
-      "url": "https://maps.app.goo.gl/6QdAHxpLW1myfwG2A"
+      "name": "Think Happy Everyday - Workshop, Munireddy Layout",
+      "address": "Think Happy Everyday - Workshop, Munireddy Layout, Bangalore",
+      "url": "https://maps.app.goo.gl/bH16n8nc2KwZWNtC7"
     },
-    "sameAs": "https://troveexperiences.com/products/the-italian-dumpling-gnocchi-cookalong-in-bangalore",
+    "sameAs": "https://www.instagram.com/p/DVtNPogD3Bi/?img_index=1",
     "offers": [
       {
         "@type": "Offer",
-        "price": "3000.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Trippy Goat Cafe | Now Open at MG Road",
-    "url": "https://puttingscene.com/events/3394",
-    "startDate": "2026-03-14T13:30:00+05:30",
-    "endDate": "2026-03-14T16:30:00+05:30",
-    "description": "Trippy Goat begins a new chapter on MG Road with reservation only seating for opening week",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3394/0fb05bc6-0b5e-493e-8a5f-91b3c6e03802.jpg",
-    "location": {
-      "name": "Trippy Goat Cafe",
-      "address": "Trippy Goat Cafe, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Trippy%20Goat%20Cafe&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Launch Special",
-        "price": "1000.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 200
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Folding Ninjas with Roligami",
-    "url": "https://puttingscene.com/events/3395",
-    "startDate": "2026-03-14T14:00:00+05:30",
-    "endDate": "2026-03-14T17:00:00+05:30",
-    "description": "A casual origami meet up inviting beginners and experts to fold, learn and connect through paper craft",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3395/6d182ce9-8c79-42c0-bda5-f2958fd39f55.jpg",
-    "location": {
-      "name": "Underline Center",
-      "address": "Underline Center, ",
-      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "295.76",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Pint of View Lecture Over Drinks: Hukuuu-Hukoooo (About Macaques, Gibbons & Apes)",
-    "url": "https://puttingscene.com/events/3384",
-    "startDate": "2026-03-14T15:00:00+05:30",
-    "endDate": "2026-03-14T17:00:00+05:30",
-    "description": "Primatologist Ishika Ramakrishna shares field stories about monkeys, gibbons and how primates live alongside humans in this lecture over drinks",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3384/d0435243-2d3d-408b-b11b-684c255f200a.jpg",
-    "location": {
-      "name": "Atta Galatta",
-      "address": "Atta Galatta, ",
-      "url": "https://maps.app.goo.gl/LoZruPAHJSS69oit8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "899.00",
-        "priceCurrency": "INR"
-      },
-      {
-        "@type": "Offer",
-        "name": "I Am Late Macha",
-        "price": "999.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 45
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Theatre Play: Aadaddella Olithe",
-    "url": "https://puttingscene.com/events/3415",
-    "startDate": "2026-03-14T15:30:00+05:30",
-    "endDate": "2026-03-14T16:30:00+05:30",
-    "description": "A Kannada stage comedy about an elderly couple, family rivalries and the absurdities of domestic life",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2025/12/12/1765544217349-1765544217313_qtsltje88kn.png",
-    "location": {
-      "name": "Ranga shankara",
-      "address": "Ranga shankara, ",
-      "url": "https://maps.app.goo.gl/Wjoid7E1VFA4r3L89"
-    },
-    "sameAs": "https://in.bookmyshow.com/plays/aadaddella-olithe/ET00487423",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "200.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Trippy Goat Cafe | Now Open at MG Road",
-    "url": "https://puttingscene.com/events/3394",
-    "startDate": "2026-03-14T18:00:00+05:30",
-    "endDate": "2026-03-14T22:30:00+05:30",
-    "description": "Trippy Goat begins a new chapter on MG Road with reservation only seating for opening week",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3394/0fb05bc6-0b5e-493e-8a5f-91b3c6e03802.jpg",
-    "location": {
-      "name": "Trippy Goat Cafe",
-      "address": "Trippy Goat Cafe, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Trippy%20Goat%20Cafe&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Launch Special",
-        "price": "1000.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 198
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Bharatnatyam Dance Workshop",
-    "url": "https://puttingscene.com/events/3419",
-    "startDate": "2026-03-14T18:00:00+05:30",
-    "endDate": "2026-03-14T19:00:00+05:30",
-    "description": "A two hour Bharatanatyam workshop learning classical choreography and expressive movement",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773398068348-1773398068288_401jm6ds7j.png",
-    "location": {
-      "name": "Good Move Studios",
-      "address": "Good Move Studios, ",
-      "url": "https://maps.app.goo.gl/qRAC3CBM7PnCsBdQ8"
-    },
-    "sameAs": "https://www.instagram.com/p/DVn2vJgAWln/",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "899.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "PS I Love Food: Chef Prateek x Chef Johnson Ebenezer at Farmlore",
-    "url": "https://puttingscene.com/events/3414",
-    "startDate": "2026-03-14T18:55:00+05:30",
-    "endDate": "2026-03-14T19:55:00+05:30",
-    "description": "Best Chef Award winners Prateek Sadhu and Johnson Ebenezer collaborate on a fire-driven, provenance-led dinner at Farmlore.",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397671194-1773397671117_tecf3sg3ibs.png",
-    "location": {
-      "name": "Farmlore, Sathnur Village",
-      "address": "Farmlore, Sathnur Village, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmlore+Survey+No.67+Mohan+Raju+Layout+Sathnur+Village+Bagalur+Bengaluru+Karnataka+562149"
-    },
-    "sameAs": "https://link.district.in/DSTRKT/skfijg2j",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "15000.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Fire Finesse | Chef Hari x Chef Biplab",
-    "url": "https://puttingscene.com/events/3267",
-    "startDate": "2026-03-14T19:00:00+05:30",
-    "endDate": "2026-03-14T21:00:00+05:30",
-    "description": "Chefs Hari and Biplab host a one night Neapolitan menu of smoked duck, crudo and handmade pasta",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3267/c159cf4a-dd04-4c89-9655-2e8bb5ee6cc3.jpg",
-    "location": {
-      "name": "Serious Slice, Cunningham Rd, Vasanth Nagar",
-      "address": "Serious Slice, Cunningham Rd, Vasanth Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Serious+Slice%2C+14%2C+Cunningham+Rd%2C+Vasanth+Nagar%2C+Bengaluru%2C+Karnataka+560052"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Full Cover",
-        "price": "423.73",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Screening: Phir Hera Pheri",
-    "url": "https://puttingscene.com/events/3369",
-    "startDate": "2026-03-14T19:00:00+05:30",
-    "endDate": "2026-03-14T23:00:00+05:30",
-    "description": "A rooftop screening of the cult comedy Phir Hera Pheri under the night sky",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3369/1b7ed67e-8348-4114-a9fa-4a530341d6e1.jpg",
-    "location": {
-      "name": "1 MG - Lido Mall, Sivanchetti Gardens",
-      "address": "1 MG - Lido Mall, Sivanchetti Gardens, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=1+MG\u2011Lido+Mall%2C+1%2F2+Old+Madras+Rd%2C+Halasuru%2C+Someshwarpura%2C+Sivanchetti+Gardens%2C+Bengaluru%2C+Karnataka+560008%2C+India"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Bean Bag (Per Person)",
-        "price": "508.47",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Open Sky Screening - Jab We Met",
-    "url": "https://puttingscene.com/events/3370",
-    "startDate": "2026-03-14T19:00:00+05:30",
-    "endDate": "2026-03-14T23:00:00+05:30",
-    "description": "Watch the Bollywood classic Jab We Met at an open air rooftop screening",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3370/d026c1e6-4ad9-4aff-8751-6aba2a579c28.jpg",
-    "location": {
-      "name": "Prestige Centre for Performing Arts",
-      "address": "Prestige Centre for Performing Arts, ",
-      "url": "https://maps.app.goo.gl/bBrgEzWoErGkhAjh9"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Bean Bag (Per Person)",
-        "price": "508.47",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 998
-      },
-      {
-        "@type": "Offer",
-        "name": "Mattress Seating ( Per Person)",
-        "price": "423.73",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
-      },
-      {
-        "@type": "Offer",
-        "name": "Group of 4 (Beanbag Seating)",
-        "price": "1694.92",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 999
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Sindh on a Plate: \u00c0 La Carte at Daak 64",
-    "url": "https://puttingscene.com/events/3372",
-    "startDate": "2026-03-14T19:00:00+05:30",
-    "endDate": "2026-03-14T23:59:00+05:30",
-    "description": "Chef Deepa Chauhan presents a meal celebrating Sindhi classics shaped by migration and tradition",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3372/23090407-ed8b-4135-8e63-9774f77495ef.jpg",
-    "location": {
-      "name": "DAAK 64",
-      "address": "DAAK 64, ",
-      "url": "https://www.google.com/maps/search/?api=1&query=DAAK%2064&query_place_id=ChIJF5VIDAAZrjsRSIvNvqEc3A0"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "1000.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 90
-      },
-      {
-        "@type": "Offer",
-        "name": "Members Only!",
-        "price": "1000.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 90
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "SoMAD: Yung Raja Live",
-    "url": "https://puttingscene.com/events/3408",
-    "startDate": "2026-03-14T19:00:00+05:30",
-    "endDate": "2026-03-14T20:00:00+05:30",
-    "description": "Singaporean rapper Yung Raja headlines a hip hop night blending Tamil and English flows",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397339917-1773397339841_d5porraarq9.png",
-    "location": {
-      "name": "Daddy, Indiranagar",
-      "address": "Daddy, Indiranagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Daddy%2C%20Indiranagar%2C%20Bangalore"
-    },
-    "sameAs": "https://link.district.in/DSTRKT/r7i1wlw2",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "299.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Caged ft. Tasha (UK), Chaz & Cygni",
-    "url": "https://puttingscene.com/events/3410",
-    "startDate": "2026-03-14T19:00:00+05:30",
-    "endDate": "2026-03-14T20:00:00+05:30",
-    "description": "UK artist Tasha headlines a Caged night of techno and house, backed by D&B Audiotechnik sound",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397448826-1773397448768_wmdrpy8quc.png",
-    "location": {
-      "name": "Indiranagar Social, New Tippasandra",
-      "address": "Indiranagar Social, New Tippasandra, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Indiranagar+Social%2C+37%2C+80+Feet+Road%2C+HAL+3rd+Stage%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560075%2C+India"
-    },
-    "sameAs": "https://sortmyscene.com/event/caged-ft-tasha-uk-chaz-cygni-at-indiranagar-social-on-14-march-mar-14-2026",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "399.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Sanam India Tour",
-    "url": "https://puttingscene.com/events/3413",
-    "startDate": "2026-03-14T19:30:00+05:30",
-    "endDate": "2026-03-14T20:30:00+05:30",
-    "description": "Pop-rock favourites SANAM bring their catalogue of reimagined Bollywood classics and original hits to Bengaluru",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397473623-1773397473565_5i37hl20wni.png",
-    "location": {
-      "name": "Phoenix Marketcity, Mahadevapura",
-      "address": "Phoenix Marketcity, Mahadevapura, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix+Marketcity+Bengaluru+Whitefield+Main+Road+Devasandra+Industrial+Estate+Mahadevapura+Bengaluru+Karnataka+560048"
-    },
-    "sameAs": "https://in.bookmyshow.com/events/sanam-india-tour-bengaluru/ET00466355",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "1400.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Nox Vahn - Live in Bengaluru",
-    "url": "https://puttingscene.com/events/3412",
-    "startDate": "2026-03-14T20:00:00+05:30",
-    "endDate": "2026-03-14T21:00:00+05:30",
-    "description": "Anjunadeep artist Nox Vahn and melodic techno rising star Sixth Ocean bring progressive electronic sets to Cavore",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773398361947-1773398361789_96gd4so2q7k.png",
-    "location": {
-      "name": "Cavore, Ashok Nagar",
-      "address": "Cavore, Ashok Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/Cavore,+Shanti+Nagar,+Bengaluru"
-    },
-    "sameAs": "https://www.skillboxes.com/events/nox-vahn-live-in-bengaluru-2",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "1800.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "THT presents Donn Bhat",
-    "url": "https://puttingscene.com/events/3421",
-    "startDate": "2026-03-14T20:00:00+05:30",
-    "endDate": "2026-03-14T21:00:00+05:30",
-    "description": "Donn Bhat, known for blending folk, electronica and rock, performs a genre bending live set",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397943740-1773397943625_jav6n4ljrp.png",
-    "location": {
-      "name": "The Humming Tree, Indiranagar",
-      "address": "The Humming Tree, Indiranagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
-    },
-    "sameAs": "https://www.skillboxes.com/events/tht-presents-donn-bhat",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "499.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Bar Sathorn Takeover at ZLB23",
-    "url": "https://puttingscene.com/events/3422",
-    "startDate": "2026-03-14T20:00:00+05:30",
-    "endDate": "2026-03-14T21:00:00+05:30",
-    "description": "Bar Sathorn, ranked 48th in Asia's 50 Best Bars, takes over ZLB23 with prohibition-era cocktails led by Marco Dognini",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773398095573-1773398095498_bqy3c9ajs3j.png",
-    "location": {
-      "name": "ZLB23 Speakeasy, Kodihalli",
-      "address": "ZLB23 Speakeasy, Kodihalli, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=ZLB23%20Speakeasy%2C%20Bangalore"
-    },
-    "sameAs": "https://www.instagram.com/p/DVu-Vk9jAWO/",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Fire Finesse | Chef Hari x Chef Biplab",
-    "url": "https://puttingscene.com/events/3267",
-    "startDate": "2026-03-14T21:00:00+05:30",
-    "endDate": "2026-03-14T23:00:00+05:30",
-    "description": "Chefs Hari and Biplab host a one night Neapolitan menu of smoked duck, crudo and handmade pasta",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3267/c159cf4a-dd04-4c89-9655-2e8bb5ee6cc3.jpg",
-    "location": {
-      "name": "Serious Slice, Cunningham Rd, Vasanth Nagar",
-      "address": "Serious Slice, Cunningham Rd, Vasanth Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Serious+Slice%2C+14%2C+Cunningham+Rd%2C+Vasanth+Nagar%2C+Bengaluru%2C+Karnataka+560052"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Full Cover",
-        "price": "423.73",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Rajah Betta at Middle Room",
-    "url": "https://puttingscene.com/events/3420",
-    "startDate": "2026-03-14T21:00:00+05:30",
-    "endDate": "2026-03-14T22:00:00+05:30",
-    "description": "Rajah Betta brings a DJ set blending Bombay\u2019s indie dance pulse with Brooklyn\u2019s bass culture",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/13/1773397975407-1773397975364_s0u76ye4enh.png",
-    "location": {
-      "name": "Middle Room, Shanti Nagar",
-      "address": "Middle Room, Shanti Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Middle+Room+Listening+Room+Courtyard+105+Kengal+Hanumanthaiah+Road+Raja+Ram+Mohan+Roy+Extension+Shanti+Nagar+Bengaluru+Karnataka+560027+India"
-    },
-    "sameAs": "https://www.instagram.com/p/DVi22hpkxzN/",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "1565.00",
+        "price": "5000.00",
         "priceCurrency": "INR"
       }
     ]
@@ -615,6 +146,52 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Trippy Goat Cafe | Now Open at MG Road",
+    "url": "https://puttingscene.com/events/3394",
+    "startDate": "2026-03-15T11:00:00+05:30",
+    "endDate": "2026-03-15T13:00:00+05:30",
+    "description": "Trippy Goat begins a new chapter on MG Road with reservation only seating for opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3394/0fb05bc6-0b5e-493e-8a5f-91b3c6e03802.jpg",
+    "location": {
+      "name": "Trippy Goat Cafe",
+      "address": "Trippy Goat Cafe, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trippy%20Goat%20Cafe&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 200
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Groove Lock ft. Dotdat",
+    "url": "https://puttingscene.com/events/3440",
+    "startDate": "2026-03-15T11:00:00+05:30",
+    "endDate": "2026-03-15T12:00:00+05:30",
+    "description": "Techno artist Dotdat headlines Groove Lock, a warehouse club night built around deep electronic sound",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477518590-1773477518492_7hbg5r4t4jc.png",
+    "location": {
+      "name": "Concept01, Koramangala",
+      "address": "Concept01, Koramangala, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Concept01%2C%20Koramangala%2C%20Bengaluru"
+    },
+    "sameAs": "https://www.instagram.com/p/DVvu2muE7ES/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "799.00",
+        "priceCurrency": "INR"
       }
     ]
   },
@@ -668,6 +245,28 @@
   },
   {
     "@type": "Event",
+    "name": "Live Screening: F1 Chinese Grand Prix",
+    "url": "https://puttingscene.com/events/3426",
+    "startDate": "2026-03-15T12:30:00+05:30",
+    "endDate": "2026-03-15T13:30:00+05:30",
+    "description": "2. Watch the F1 Chinese Grand Prix live on the big screen in a packed pub screening with fellow fans",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476083514-1773476083468_ricacqhm42.png",
+    "location": {
+      "name": "Watson's Indiranagar",
+      "address": "Watson's Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Watson%27s,+2nd+Floor,+777%2FI,+100+Feet+Road,+HAL+2nd+Stage,+Doopanahalli,+Indiranagar,+Bengaluru,+Karnataka+560008"
+    },
+    "sameAs": "https://sortmyscene.com/event/f1-chinese-grand-prix-live-screening-watson-s-indiranagar-bangalore-mar-15-2026",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "300.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Dough It Yourself: A Calzone / Pizza Making Experience",
     "url": "https://puttingscene.com/events/3351",
     "startDate": "2026-03-15T13:00:00+05:30",
@@ -687,6 +286,30 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 2
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Trippy Goat Cafe | Now Open at MG Road",
+    "url": "https://puttingscene.com/events/3394",
+    "startDate": "2026-03-15T13:00:00+05:30",
+    "endDate": "2026-03-15T17:00:00+05:30",
+    "description": "Trippy Goat begins a new chapter on MG Road with reservation only seating for opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3394/0fb05bc6-0b5e-493e-8a5f-91b3c6e03802.jpg",
+    "location": {
+      "name": "Trippy Goat Cafe",
+      "address": "Trippy Goat Cafe, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trippy%20Goat%20Cafe&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 200
       }
     ]
   },
@@ -716,6 +339,28 @@
   },
   {
     "@type": "Event",
+    "name": "The Matcha Journey An Exploration Into The World of Matcha",
+    "url": "https://puttingscene.com/events/3429",
+    "startDate": "2026-03-15T15:00:00+05:30",
+    "endDate": "2026-03-15T16:00:00+05:30",
+    "description": "A matcha tasting and brewing session exploring Japanese tea culture, from traditional whisking to flavour comparison.",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476157301-1773476157139_tvsfjesng4.png",
+    "location": {
+      "name": "Street Storyss, Indiranagar",
+      "address": "Street Storyss, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Street+Storyss%2C+Srinivasan+Towers%2C+3155%2C+Double+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038+India"
+    },
+    "sameAs": "https://troveexperiences.com/collections/bangalore/products/the-matcha-journey-beginners-masterclass-in-bangalore",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2500.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Dough It Yourself: A Calzone / Pizza Making Experience",
     "url": "https://puttingscene.com/events/3351",
     "startDate": "2026-03-15T15:30:00+05:30",
@@ -735,6 +380,50 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Skin Contact",
+    "url": "https://puttingscene.com/events/3427",
+    "startDate": "2026-03-15T16:00:00+05:30",
+    "endDate": "2026-03-15T17:00:00+05:30",
+    "description": "Taste over 25 ros\u00e9 wines from around the world in a lively tasting evening with music and bar snacks",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476045245-1773476045182_7h0ywaz5jrx.png",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
+    },
+    "sameAs": "https://urbanaut.app/spot/skin-contact",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2000.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Tree walk",
+    "url": "https://puttingscene.com/events/3431",
+    "startDate": "2026-03-15T16:00:00+05:30",
+    "endDate": "2026-03-15T17:00:00+05:30",
+    "description": "A guided tree walk through Indiranagar exploring urban trees, canopies and hidden nature in the city",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476270819-1773476270779_vvhaz916lkp.png",
+    "location": {
+      "name": "Defence Colony, Indiranagar",
+      "address": "Defence Colony, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=%20Defence%20Colony%2C%20Indiranagar"
+    },
+    "sameAs": "https://www.pedalintandem.com/experiences/thePITStop/tree-walk",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "1000.00",
+        "priceCurrency": "INR"
       }
     ]
   },
@@ -761,6 +450,22 @@
         "remainingAttendeeCapacity": 4
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sounding the Paper Garden: Listening Session",
+    "url": "https://puttingscene.com/events/3430",
+    "startDate": "2026-03-15T17:00:00+05:30",
+    "endDate": "2026-03-15T18:00:00+05:30",
+    "description": "A guided listening session exploring the commissioned soundscape for MAP's Paper Gardens exhibition, blending field recordings with digital composition",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476321398-1773476321347_g8rg5q5nsxn.png",
+    "location": {
+      "name": "MAP, Ashok Nagar",
+      "address": "MAP, Ashok Nagar, ",
+      "url": "https://maps.app.goo.gl/pw5p2sWVLs479Q7N9"
+    },
+    "sameAs": "https://map-india.org/map-events/listening-session/",
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -812,6 +517,52 @@
   },
   {
     "@type": "Event",
+    "name": "Sitar for Mental Health",
+    "url": "https://puttingscene.com/events/3442",
+    "startDate": "2026-03-15T18:00:00+05:30",
+    "endDate": "2026-03-15T19:00:00+05:30",
+    "description": "Sitarist Rishab Rikhiram Sharma performs a live concert blending Indian classical music and mindfulness",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477395173-1773477395083_g94vkue6bn7.png",
+    "location": {
+      "name": "Terraform Arena, Yelahanka",
+      "address": "Terraform Arena, Yelahanka, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=District+Arena+at+Terraform%2C+Survey+No.+147%2F15%2C+near+Embassy+Riding+School%2C+Jala+Hobali%2C+Yelahanka%2C+Bengaluru%2C+Karnataka+562157"
+    },
+    "sameAs": "https://www.district.in/events/sitar-for-mental-health-by-rishab-rikhiram-sharma-india-tour-2026-bengaluru-buy-tickets",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "6999.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Trippy Goat Cafe | Now Open at MG Road",
+    "url": "https://puttingscene.com/events/3394",
+    "startDate": "2026-03-15T18:09:00+05:30",
+    "endDate": "2026-03-15T22:30:00+05:30",
+    "description": "Trippy Goat begins a new chapter on MG Road with reservation only seating for opening week",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3394/0fb05bc6-0b5e-493e-8a5f-91b3c6e03802.jpg",
+    "location": {
+      "name": "Trippy Goat Cafe",
+      "address": "Trippy Goat Cafe, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trippy%20Goat%20Cafe&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Launch Special",
+        "price": "1000.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 200
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Unmechanical: A Book Discussion with the Author",
     "url": "https://puttingscene.com/events/3383",
     "startDate": "2026-03-15T18:30:00+05:30",
@@ -824,6 +575,50 @@
       "url": "https://www.google.com/maps/dir//549A,+9th+A+Main+Rd,+Hoysala+Nagar,+Indiranagar,+Bengaluru,+Karnataka+560038/@12.977777,77.5548472,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3bae17d32226bb85:0x163dd0ffa4006008!2m2!1d77.6372491!2d12.97779?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Ghar Wali Baithak",
+    "url": "https://puttingscene.com/events/3434",
+    "startDate": "2026-03-15T18:30:00+05:30",
+    "endDate": "2026-03-15T19:30:00+05:30",
+    "description": "A traditional baithak evening where live music is shared in an intimate gathering over chai",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477203502-1773477203459_kr4nid2zy1.png",
+    "location": {
+      "name": "Sarai House, Koramangala",
+      "address": "Sarai House, Koramangala, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sarai%20House%2C%20Bangalore"
+    },
+    "sameAs": "https://www.instagram.com/p/DVWBPjEj60y/?img_index=1",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2100.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Collab Choreo Workshop",
+    "url": "https://puttingscene.com/events/3437",
+    "startDate": "2026-03-15T18:30:00+05:30",
+    "endDate": "2026-03-15T19:30:00+05:30",
+    "description": "Learn a stylish choreography in this collaborative dance workshop focused on groove and musicality",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477281526-1773477281481_4uicoergg97.png",
+    "location": {
+      "name": "ARDSindia, Indiranagar",
+      "address": "ARDSindia, Indiranagar, ",
+      "url": "https://maps.app.goo.gl/SnMZmgpkP6e2R9BP8"
+    },
+    "sameAs": "https://www.instagram.com/p/DVpvHpAE43u/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "893.00",
+        "priceCurrency": "INR"
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -846,6 +641,72 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 1000
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sanjith Hegde Live",
+    "url": "https://puttingscene.com/events/3433",
+    "startDate": "2026-03-15T19:00:00+05:30",
+    "endDate": "2026-03-15T20:00:00+05:30",
+    "description": "Playback singer Sanjith Hegde performs a multilingual film music set blending classical and contemporary styles",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476373904-1773476373838_jue8h2gput.png",
+    "location": {
+      "name": "Big Banyan Vineyard, Chunchanaguppe",
+      "address": "Big Banyan Vineyard, Chunchanaguppe, Bangalore",
+      "url": "https://maps.app.goo.gl/j4Gj8CbaF7vnTy6R8"
+    },
+    "sameAs": "https://in.bookmyshow.com/events/sanjith-hegde-live-at-big-banyan-harvest-festival/ET00488716",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "749.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Theatre Play: Pahadinama",
+    "url": "https://puttingscene.com/events/3439",
+    "startDate": "2026-03-15T19:30:00+05:30",
+    "endDate": "2026-03-15T20:30:00+05:30",
+    "description": "A satire about four mountain lovers swapping travel tales at a tea shop, blending humour with Garhwali music and ecological reflection",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773477374186-1773477374020_171oeq5xgfy.png",
+    "location": {
+      "name": "Samarthanam Auditorium, HSR Layout",
+      "address": "Samarthanam Auditorium, HSR Layout, ",
+      "url": "https://maps.app.goo.gl/wRf4zvdgHDtySH3X9"
+    },
+    "sameAs": "https://in.bookmyshow.com/plays/pahadinama/ET00468975",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "299.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Hulo at Middle Room",
+    "url": "https://puttingscene.com/events/3428",
+    "startDate": "2026-03-15T21:00:00+05:30",
+    "endDate": "2026-03-15T22:00:00+05:30",
+    "description": "Kolkata's Hulo brings his debut album Griefcase to Middle Room, an intimate indie-folk set tracing love, memory and loss",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/14/1773476221755-1773476221663_erh7rymxk5f.png",
+    "location": {
+      "name": "Middle Room, Shanti Nagar",
+      "address": "Middle Room, Shanti Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Middle+Room+Listening+Room+Courtyard+105+Kengal+Hanumanthaiah+Road+Raja+Ram+Mohan+Roy+Extension+Shanti+Nagar+Bengaluru+Karnataka+560027+India"
+    },
+    "sameAs": "https://www.instagram.com/p/DVlSlo9k6Jr/?img_index=1",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "1565.00",
+        "priceCurrency": "INR"
       }
     ]
   },

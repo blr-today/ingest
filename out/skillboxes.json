@@ -631,7 +631,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 3,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/wacken-metal-battle-bangalore-prelims"
          }
@@ -812,7 +812,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 915,
+            "inventoryLevel": 912,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          }
@@ -898,49 +898,6 @@
       ],
       "startDate": "2026-03-20T20:00:00",
       "url": "https://www.skillboxes.com/events/sing-and-sip-ft-joshua-8"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as SUNBURN SELECT presents the Indian sensation AXL STACE live at Arena Bengaluru this Saturday.Get ready to dance the night away to cutting-edge tunes and unforgett",
-      "endDate": "2026-03-15T01:00:00",
-      "identifier": "com.skillboxes.34605",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17729996846IfyX4Yu6nybNsRT.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "48, 100 Feet Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9767501",
-            "longitude": "77.6412364"
-         },
-         "name": "Arena Brewhouse Bangalore"
-      },
-      "name": "Sunburn Select ft. Axl Stace / 14th Mar / Arena",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 155,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/sunburn-select-ft-axl-stace-14th-mar-arena"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 189,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/sunburn-select-ft-axl-stace-14th-mar-arena"
-         }
-      ],
-      "startDate": "2026-03-14T20:00:00",
-      "url": "https://www.skillboxes.com/events/sunburn-select-ft-axl-stace-14th-mar-arena"
    },
    {
       "@context": "https://schema.org",
@@ -2522,32 +2479,7 @@
          "name": "Skyye"
       },
       "name": "Saturday Club Nocturno At SkyyeBar- Rooftop Ub City",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 199,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno-at-skyee-ub-city"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry for ladies.\n",
-            "inventoryLevel": 97,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno-at-skyee-ub-city"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• Each pass permits entry for one stag • Cover charge of INR 2,000 applicable at the venue throughout the night • Cover charge is fully redeemable\n",
-            "inventoryLevel": 500,
-            "name": "Single Men",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno-at-skyee-ub-city"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-03-14T19:00:00",
       "url": "https://www.skillboxes.com/events/saturday-club-nocturno-at-skyee-ub-city"
    },
