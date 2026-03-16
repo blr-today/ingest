@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "",
+      "endDate": "2026-03-21T01:00:00",
+      "identifier": "com.skillboxes.34811",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773643332NnMurfkfymD3hIYx.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. CRAVE & More",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one female)\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-crave-more"
+         }
+      ],
+      "startDate": "2026-03-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-crave-more"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get Ready for SPECTRA 2026! 🌈✨Bangalore Group of Institutions is bringing the heat this April! Join us for a spectrum of talent, culture, and innovation. With a ₹1.5 Lakh total prize poo",
       "endDate": "2026-04-25T21:30:00",
       "identifier": "com.skillboxes.34803",
@@ -608,7 +659,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 953,
             "name": "RSVP - COUPLE [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-katayanagi-twins-apcn-friends"
          },
@@ -616,7 +667,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to One Single Lady till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 997,
             "name": "RSVP - Single Lady [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-katayanagi-twins-apcn-friends"
          },
@@ -1708,7 +1759,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grant general access to one individual.\n",
-            "inventoryLevel": 128,
+            "inventoryLevel": 121,
             "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bluetree-presents-jack-gardiner"
          },
@@ -1806,7 +1857,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 425,
+            "inventoryLevel": 412,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-ksetravid-thevoidewecreate-backrooms"
          }
@@ -1980,7 +2031,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per day applicable at gates\n",
-            "inventoryLevel": 8,
+            "inventoryLevel": 7,
             "name": "Bangalore - 2 day pass",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          },
