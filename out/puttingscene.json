@@ -1,6 +1,82 @@
 [
   {
     "@type": "Event",
+    "name": "Astrophysics Seminar: Massive Stars Through Hydrogen-Poor Superluminous Supernovae",
+    "url": "https://puttingscene.com/events/3455",
+    "startDate": "2026-03-17T14:00:00+05:30",
+    "endDate": "2026-03-17T15:00:00+05:30",
+    "description": "What powers the universe\u2019s brightest explosions? A talk on the mystery of superluminous supernovae",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/10/1773144411286-1773144411213_uplalrfdkal.png",
+    "location": {
+      "name": "Raman Research Institute, Sadashivanagar",
+      "address": "Raman Research Institute, Sadashivanagar, ",
+      "url": "https://maps.app.goo.gl/82eez8ro3F3k1LXT6"
+    },
+    "sameAs": "https://www.rri.res.in/events/massive-stars-through-lens-hydrogen-poor-superluminous-supernovae",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Interactive Performance: The Zone",
+    "url": "https://puttingscene.com/events/3456",
+    "startDate": "2026-03-17T19:00:00+05:30",
+    "endDate": "2026-03-17T20:00:00+05:30",
+    "description": "A contemporary dance performance reflecting on ambition, burnout, and the life of working artists",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/16/1773655961628-1773655961580_l0sut7tbw4l.png",
+    "location": {
+      "name": "BIC, Domlur",
+      "address": "BIC, Domlur, ",
+      "url": "https://maps.app.goo.gl/wWYoeTPQc6ymNehp9"
+    },
+    "sameAs": "https://bangaloreinternationalcentre.org/event/the-zone/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Theatre Play: Gigolo",
+    "url": "https://puttingscene.com/events/3454",
+    "startDate": "2026-03-17T19:30:00+05:30",
+    "endDate": "2026-03-17T20:30:00+05:30",
+    "description": "A contemporary Kannada play where two hotel interns risk everything chasing fast money",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2025/12/06/1765007812109-1765007812022_ly97npcl84.png",
+    "location": {
+      "name": "Ranga shankara",
+      "address": "Ranga shankara, ",
+      "url": "https://maps.app.goo.gl/Wjoid7E1VFA4r3L89"
+    },
+    "sameAs": "https://in.bookmyshow.com/plays/gigolo/ET00484922",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "200.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Screening: Colossal Youth (2006)",
+    "url": "https://puttingscene.com/events/3453",
+    "startDate": "2026-03-17T19:45:00+05:30",
+    "endDate": "2026-03-17T20:45:00+05:30",
+    "description": "Screening of Pedro Costa\u2019s Colossal Youth (2006), a stark portrait of exile, memory, and life after displacement, followed by post-film discussion",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/12/1773316717889-1773316717844_r3wxwwoyfw.png",
+    "location": {
+      "name": "Angala, Cox Town",
+      "address": "Angala, Cox Town, Bangalore",
+      "url": "https://maps.app.goo.gl/EYDHfTH4f7MDqJNj8"
+    },
+    "sameAs": "https://urbanaut.app/spot/colossal-youth",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "After Hours with Eleven AM Club",
     "url": "https://puttingscene.com/events/3349",
     "startDate": "2026-03-18T19:00:00+05:30",
@@ -20,6 +96,134 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pint of View - Lecture Over Drinks: Don't Go With The Flow\u2014Rethinking Water in a Changing Climate",
+    "url": "https://puttingscene.com/events/3447",
+    "startDate": "2026-03-18T19:00:00+05:30",
+    "endDate": "2026-03-18T21:00:00+05:30",
+    "description": "Ecological economist Hariharan Chandrashekar examines how cities mismanage water and what must change, in this lecture over drinks",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3447/154a679c-4539-48f3-a240-ec83894f43fd.jpg",
+    "location": {
+      "name": "Fandom at Gilly's Redefined, Koramangala",
+      "address": "Fandom at Gilly's Redefined, Koramangala, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fandom+at+Gilly%27s+Redefined%2C+4th+Block%2C+Koramangala%2C+Bengaluru%2C+Karnataka+560034%2C+India"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "999.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1
+      },
+      {
+        "@type": "Offer",
+        "name": "I Am Late Macha",
+        "price": "1099.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 48
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Laser Cut Interactive NFC Objects!",
+    "url": "https://puttingscene.com/events/3451",
+    "startDate": "2026-03-18T19:00:00+05:30",
+    "endDate": "2026-03-18T21:00:00+05:30",
+    "description": "Design and laser cut a bookmark or keychain that taps your phone to share music, photos, or Wi-Fi",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3451/283d50d6-73a5-4c6e-9f28-a2056ef44fa5.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "750.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Crepe Atelier: A Guided Crepe-Making Experience",
+    "url": "https://puttingscene.com/events/3449",
+    "startDate": "2026-03-19T17:00:00+05:30",
+    "endDate": "2026-03-19T18:15:00+05:30",
+    "description": "Learn to cook delicate crepes from scratch and finish them with chocolate, citrus, and fresh fruit",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3449/1d12680f-6abf-437e-988b-8bdc6d8ced1e.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "809.52",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 3
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Crepe Atelier: A Guided Crepe-Making Experience",
+    "url": "https://puttingscene.com/events/3449",
+    "startDate": "2026-03-19T18:15:00+05:30",
+    "endDate": "2026-03-19T19:30:00+05:30",
+    "description": "Learn to cook delicate crepes from scratch and finish them with chocolate, citrus, and fresh fruit",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3449/1d12680f-6abf-437e-988b-8bdc6d8ced1e.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "809.52",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Under Open Skies: Four-course sunset dinner",
+    "url": "https://puttingscene.com/events/3425",
+    "startDate": "2026-03-22T17:30:00+05:30",
+    "endDate": "2026-03-22T20:30:00+05:30",
+    "description": "A sunset long-table dinner in an orchard by Circa 11, with charcoal-baked bread, handkerchief pasta, slow-cooked lamb, and more, cooked over open fire",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3425/c8aaef07-7d0c-4b12-8526-3c34dd22d325.jpg",
+    "location": {
+      "name": "Villa Kasu",
+      "address": "Villa Kasu, ",
+      "url": "https://maps.google.com/?cid=15034658664128162310"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Dinner Ticket",
+        "price": "4871.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 35
       }
     ]
   }
