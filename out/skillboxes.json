@@ -1,6 +1,201 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "We are about community and that’s exactly what we are doing at this event, curating some\r\n\r\nclean living products that enable you to imbibe the festive spirit!\r\n\r\nTons of workshops for all age groups, special mention to the one",
+      "endDate": "2026-04-04T20:00:00",
+      "identifier": "com.skillboxes.34924",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773926089tBGqbXA2sOqIMFDA.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "336, Bengaluru, Karnataka 562157, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.1680622",
+            "longitude": "77.5965803"
+         },
+         "name": "Maverick & farmer coffee"
+      },
+      "name": "Mini Souk by OurBetterPlanet",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Free Entry",
+            "url": "https://www.skillboxes.com/events/ticket/mini-souk-by-ourbetterplanet"
+         }
+      ],
+      "startDate": "2026-04-04T12:00:00",
+      "url": "https://www.skillboxes.com/events/mini-souk-by-ourbetterplanet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Y2K nostalgia hits the hottest rooftop in the city.\r\n\r\n \r\n\r\nSoMAD Y2K At The Top with DJ Prithvi, KYM, and Wayne bringing back the sounds that defined the 2000s — loud, sexy, and unforgettable.\r\n\r\n \r\n\r\nT",
+      "endDate": "2026-03-28T23:59:00",
+      "identifier": "com.skillboxes.34913",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773909849WLS9vZqMeSw9Y01K.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Du Parc Trinity 17, Mahatma Gandhi Rd, opposite Bank of Baroda, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9723448",
+            "longitude": "77.618884"
+         },
+         "name": "Kai Bar & Kitchen"
+      },
+      "name": "SoMAD Y2K - A Early 2000s Throwback Party Ft. Dj Prithvi, KYM & Wayne",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP - COUPLE [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to One Single Lady till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP - Single Lady [FREE ENTRY]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits One Individual or one couple or 2 single ladies with an anytime free entry to the event With a full cover note of INR 3000/- upon arrival at gate.\nBook Now and Walk-In like a VIP!",
+            "inventoryLevel": 1000,
+            "name": "VIP - ANYTIME ENTRY + FULL COVER",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+         }
+      ],
+      "startDate": "2026-03-28T21:00:00",
+      "url": "https://www.skillboxes.com/events/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Karaoke Thursdays at Silly Bar with Sherman brings together good music, easy energy, and a crowd that’s just here to have a good time.Whether you’re stepping up to the mi",
+      "endDate": "2026-03-19T23:55:00",
+      "identifier": "com.skillboxes.34912",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OHVNZ2FNNERBNU54TXBWS3RHV3hVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773909369G7uLfBAqEhUUZtwc.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sillybar, ground floor, 4th, Block 413, 100 Feet Ra, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Silly Bar"
+      },
+      "name": "Silly Bar Presents Karaoke Thursdays with Sherman",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "RSVP/ Free Entry\n",
+            "inventoryLevel": 297,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/silly-bar-presents-karaoke-thursdays-with-sherman"
+         }
+      ],
+      "startDate": "2026-03-19T19:00:00",
+      "url": "https://www.skillboxes.com/events/silly-bar-presents-karaoke-thursdays-with-sherman"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Prints Party is more than a party, It’s a shared feeling. A wild, wonderful, collective, print-fuelled joy. \r\n\r\n \r\n\r\nThis one’s for all the party animals who love a good dance sesh. \r\n\r\n \r\n\r",
+      "endDate": "2026-04-26T23:59:00",
+      "identifier": "com.skillboxes.34911",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773907629y1rSYBZxPgBe7Qns.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Air Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Oia, Hennur Main Road, New Airport Rd, opposite Mantri Webcity, Visthar, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0738322",
+            "longitude": "77.6525657"
+         },
+         "name": "Oia Mansion"
+      },
+      "name": "Prints Party | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for entry until 5:30PM with Full cover equivalent to the ticketed amount. Post 5:30PM, an additional cover charge of INR 1000/- per head will apply.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY ACCESS | FULL COVER || Female",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
+            "inventoryLevel": 50,
+            "name": "VIP | FULL COVER + ANYTIME ENTRY || Female",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for entry until 5:30PM with Full cover equivalent to the ticketed amount. Post 5:30PM, an additional cover charge of INR 1000/- per head will apply.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY ACCESS | FULL COVER || Couple",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Valid for entry until 5:30PM with Full cover equivalent to the ticketed amount. Post 5:30PM, an additional cover charge of INR 1000/- per head will apply.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY ACCESS | FULL COVER || Male",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
+            "inventoryLevel": 50,
+            "name": "VIP | FULL COVER + ANYTIME ENTRY || Couple",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
+            "inventoryLevel": 50,
+            "name": "VIP | FULL COVER + ANYTIME ENTRY || Male",
+            "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
+         }
+      ],
+      "startDate": "2026-04-26T16:00:00",
+      "url": "https://www.skillboxes.com/events/prints-party-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Vehement era presents: Entropy ritual",
       "endDate": "2026-04-12T23:59:00",
@@ -135,7 +330,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 36,
+            "inventoryLevel": 33,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
