@@ -170,5 +170,48 @@
         "availability": "http://schema.org/InStock"
       }
     ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "IDOVENT MARATHON UTSAVA",
+    "url": "https://indiarunning.com/events/idovent_marathon_utsava_59938",
+    "startDate": "2026-05-24T05:30:00+05:30",
+    "endDate": "2026-05-24T05:00:00+05:30",
+    "description": "Marathon Utsava \u2013 returns with its 2nd Edition, continuing the spirit of fitness, endurance, and community running. After the success of the first edition at Bengaluru, this edition offers runners a well-organized and rewarding race-day experience.\nOpen to beginners and experienced runners alike, Marathon Utsava is designed to inspire participation, consistency, and celebration through running.\nRACE CATEGORIES\n5 KM \u2013 Fitness Run\n\u2022 Open category\n\u2022 Age limit: 18 years & above\n10 KM \u2013 Timed Run\n\u2022 Competitive category\n\u2022 Age limit: 18 years & above\nPARTICIPANT INCLUSIONS\n\u2022 Official Event T-Shirt\n\u2022 Bib Number\n\u2022 Goodie Bag\n\u2022 Finisher Medal\n\u2022 E-Certificate\n\u2022 Refreshment\u00a0\n\u2022 Professional Event Photos\nWHO CAN PARTICIPATE\nOpen to all fitness enthusiasts who meet the age criteria.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/05/24/idovent-marathon-utsava-2026/banner1773938507116",
+    "location": {
+      "@type": "Place",
+      "name": "Chikkajala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Survey No 78/10, A2, Bellary Rd, Chikkajala, Bengaluru, Karnataka 562157, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "562157",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1686402,
+        "longitude": 77.6325001
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "699",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "699",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
   }
 ]
