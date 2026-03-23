@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Step into a night of deep, melodic soundscapes as Weird Sounding Dude takes over Kitty Ko, Bangalore. Known for his signature blend of progressive house and immersive sonic journeys, he brings global vibes from Anjunadeep, Sudbeat",
+      "endDate": "2026-03-28T01:30:00",
+      "identifier": "com.skillboxes.35003",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17742560049m5s7YCY01bl4TGB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Weird Sounding Dude & More",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one female)\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-weird-sounding-dude-more"
+         }
+      ],
+      "startDate": "2026-03-27T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-weird-sounding-dude-more"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Masters in their own right, The Network known for delivering the best to Jazz enthusiasts and connoisseurs of music. Their music is a blend of Bebop Jazz, Blues, Funk and Latin elements. The band comprises of Gerard Machado on Guita",
       "endDate": "2026-04-03T23:55:00",
       "identifier": "com.skillboxes.34999",
@@ -675,7 +726,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 45,
+            "inventoryLevel": 42,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/easter-jam"
          }
@@ -710,7 +761,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 2,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore"
          }
@@ -745,7 +796,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at the gate\n",
-            "inventoryLevel": 24,
+            "inventoryLevel": 19,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/soorya-frnds-live-at-the-humming-tree-bengaluru-gigman-live"
          }
@@ -1360,7 +1411,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to this event includes a free beer. Cover charges of INR 1000 applicable at the venue\n",
-            "inventoryLevel": 58,
+            "inventoryLevel": 57,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-ranj-x-clifr-stevie"
          }
@@ -1476,24 +1527,7 @@
          "name": "Windmills Craftworks, Whitefield"
       },
       "name": "Etienne Charles - Creole Soul",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\nstanding space at the bar",
-            "inventoryLevel": 20,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-05T20:00:00",
       "url": "https://www.skillboxes.com/events/etienne-charles-creole-soul-1"
    },
@@ -1519,24 +1553,7 @@
          "name": "Windmills Craftworks, Whitefield"
       },
       "name": "Etienne Charles - Creole Soul",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\nStanding space at the bar",
-            "inventoryLevel": 19,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 16,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/etienne-charles-creole-soul"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-04T21:30:00",
       "url": "https://www.skillboxes.com/events/etienne-charles-creole-soul"
    },
@@ -1645,7 +1662,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "The early crowd always gets the best stories.\n",
-            "inventoryLevel": 34,
+            "inventoryLevel": 31,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
@@ -1695,7 +1712,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 242,
+            "inventoryLevel": 241,
             "name": "Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-warm-up-party"
          },
@@ -1744,7 +1761,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 441,
+            "inventoryLevel": 435,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-flying-turquoise-panthers-skivinnie"
          }
