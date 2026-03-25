@@ -49,7 +49,7 @@
     "@id": "com.blrbirders:event_739_2",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "eventStatus": "https://schema.org/EventScheduled",
-    "name": "Second Sunday Walk",
+    "name": "Second Sunday Bird Walk",
     "url": "https://blrbirders.com/events/second-sunday-walk-bmkaval",
     "startDate": "2026-03-08T06:30:00+05:30",
     "endDate": "2026-03-08T10:00:00+05:30",
@@ -107,6 +107,28 @@
   {
     "@context": "http://schema.org",
     "@type": "Event",
+    "@id": "com.blrbirders:event_782_0",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "name": "Fifth Sunday Bird Walk",
+    "url": "https://blrbirders.com/events/fifth-sunday-walk/",
+    "startDate": "2026-03-29T06:30:00+05:30",
+    "endDate": "2026-03-29T09:45:00+05:30",
+    "image": "",
+    "description": "Time:Walk begins at 6:30 AMMeeting point:\nUpper Ambalipura Lake: https://maps.app.goo.gl/dRmsJf5uf39hJUKA7   Walk details:• Duration: Till around 9:45 AM• Terrain: Unpaved, undulating and uneven• Suitable for all ages• Children below 13 years of age need not be registered separately but must be accompanied by a responsible adult   What to wear:• Dull-coloured clothes• Hats/caps• Comfortable walking shoes (avoid slippers or thin-soled sandals)• Rain-gear or warm clothing depending on the weather forecast   What to bring: • Binoculars, bird books/apps (recommended)• Camera (optional)• Notebook/sketchpad and pencil (optional)• Drinking water and snacks (recommended) — please arrange to take back your waste     This Walk is free and open to all.   Thank you!BlrBirders Volunteers",
+    "location": {
+      "name": "Upper Ambalipura Lake",
+      "@type": "Place",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.913141609443741",
+        "longitude": "77.6630358578926"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
     "@id": "com.blrbirders:event_666_18",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "eventStatus": "https://schema.org/EventScheduled",
@@ -154,7 +176,7 @@
     "@id": "com.blrbirders:event_739_3",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "eventStatus": "https://schema.org/EventScheduled",
-    "name": "Second Sunday Walk",
+    "name": "Second Sunday Bird Walk",
     "url": "https://blrbirders.com/events/second-sunday-walk-bmkaval",
     "startDate": "2026-04-12T06:30:00+05:30",
     "endDate": "2026-04-12T10:00:00+05:30",

@@ -2,6 +2,84 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "EE SALA CUP NAMDE. 🏆Bengaluru, your favourite season has officially begun, and SkyDeck by Sherlock's is making sure you experience every single moment of it the way it was always meant to be experienced.LIVE. LOU",
+      "endDate": "2026-03-28T23:45:00",
+      "identifier": "com.skillboxes.35075",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774436554gXKO9YKff7tZDKbR.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "RCB vs SRH - IPL LIVE Screening",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Enjoy the match on big screen at the best rooftop of MG road.\n",
+            "inventoryLevel": 100,
+            "name": "TICKET",
+            "url": "https://www.skillboxes.com/events/ticket/rcb-vs-srh-ipl-live-screening"
+         }
+      ],
+      "startDate": "2026-03-28T19:00:00",
+      "url": "https://www.skillboxes.com/events/rcb-vs-srh-ipl-live-screening"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "From Hukum to Kesariya and Samajavaragamana to SSE the biggest hits in the Hindi, Kannada, Tamil and Telugu film industries!\n\n‘Vishwi Live’ is a collective based in Bangalore that perform",
+      "endDate": "2026-04-19T23:00:00",
+      "identifier": "com.skillboxes.35057",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VDVxaDhHSUNDLy9KWDhuWlBUcHk5QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774415948fACQitFygcHybbqX.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Fandom"
+      },
+      "name": "Vishwi Live: The Multi-Lingual Film Music Spectacle",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "A ₹500 cover charge (fully redeemable on F&B) is also applicable\n",
+            "inventoryLevel": 13,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/vishwi-live-the-multi-lingual-film-music-spectacle"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "A ₹500 cover charge (fully redeemable on F&B) is also applicable\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/vishwi-live-the-multi-lingual-film-music-spectacle"
+         }
+      ],
+      "startDate": "2026-04-19T20:00:00",
+      "url": "https://www.skillboxes.com/events/vishwi-live-the-multi-lingual-film-music-spectacle"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "DnBIndia & Social present #BangaloreMassive 050 • THE UNTITLED ONE• FUSHI• KAYDI• SND CHK MNJ+ Open Decks",
       "endDate": "2026-03-28T12:30:00",
       "identifier": "com.skillboxes.35053",
@@ -380,7 +458,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 867,
+            "inventoryLevel": 799,
             "name": "RSVP - COUPLE [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
          },
@@ -388,7 +466,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to One Single Lady till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 961,
+            "inventoryLevel": 938,
             "name": "RSVP - Single Lady [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-a-early-2000s-throwback-party-ft-dj-prithvi-kym-wayne"
          },
@@ -505,7 +583,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 993,
+            "inventoryLevel": 991,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/vehement-era-presents-entropy-ritual"
          }
@@ -539,7 +617,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 3,
+            "inventoryLevel": 125,
+            "name": "Phase 1 Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-unplugged-stage-ft-jatayu-33-brew"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-unplugged-stage-ft-jatayu-33-brew"
          }
@@ -550,7 +635,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "A night of electrifying riffs, immersive soundscapes, and uncompromising guitar artistry returns—bringing together three distinct guitar voices on one stage.RHYTHM SHAW: Rhythm, a 29-year-old gui",
+      "description": "A night of electrifying riffs, immersive soundscapes, and uncompromising guitar artistry returns—bringing together three distinct guitar voices on one stage.\r\n\r\n \r\n\r\nRHYTHM SHAW: Rhyt",
       "endDate": "2026-04-30T23:59:00",
       "identifier": "com.skillboxes.34869",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a3doV2J1Mm5yYTM3d04wbmpWdGxaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773806429pyCUzQgmREGpMRZx.jpg.webp",
@@ -574,7 +659,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 17,
+            "inventoryLevel": 14,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
@@ -1091,7 +1176,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 968,
+            "inventoryLevel": 954,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-grunge-explosion"
          }
@@ -1105,7 +1190,7 @@
       "description": "Join us for The Bombay Circuit, Whitefield’s only BollyTech\nnight at Hamilton Cocktail Bar! \n\nA weekly Saturday ritual where iconic Bollywood\nvocals are reimagined over driving techno ",
       "endDate": "2026-03-28T23:30:00",
       "identifier": "com.skillboxes.34668",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773142636IGny5KZJEZrrbJ62.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774358133MNbyJfrSM7mZngmW.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Live Event"
@@ -1120,7 +1205,7 @@
          },
          "name": "Hamilton Cocktail Bar"
       },
-      "name": "The Bombay Circuit ft. Deep Bharma",
+      "name": "The Bombay Circuit ft. Deep Bhamra",
       "offers": [
          {
             "@type": "Offer",
@@ -1204,7 +1289,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 398,
+            "inventoryLevel": 394,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          },
@@ -1814,7 +1899,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 48,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },

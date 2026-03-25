@@ -319,5 +319,29 @@
         "remainingAttendeeCapacity": 8
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Malleswara Darshan Heritage Walk",
+    "url": "https://puttingscene.com/events/2951",
+    "startDate": "2026-05-17T08:00:00+05:30",
+    "endDate": "2026-05-17T11:00:00+05:30",
+    "description": "Trace Malleswaram\u2019s layered past through its temples, lake, old houses and living street traditions",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2951/ee1be3f0-27d5-4ea2-aaca-ab77803c6966.jpg",
+    "location": {
+      "name": "Malleshwaram",
+      "address": "Malleshwaram, ",
+      "url": "https://maps.app.goo.gl/WSmo7qwC7CdpRVBr7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "875.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
   }
 ]
