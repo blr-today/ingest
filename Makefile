@@ -58,7 +58,7 @@ out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
 	python src/ics-to-event.py out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
 
 out/underline.jsonnet:
-	wget -q "https://underline.center/discourse-post-event/events.json?include_details=true" -O $@ || $(call restore-file,$@)
+	wget -q "https://underline.center/discourse-post-event/events.json?include_details=true&order=desc" -O $@ || $(call restore-file,$@)
 
 out/underline.json: out/underline.jsonnet
 	python src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
