@@ -10,7 +10,7 @@ local transformEvent(event) =
     keywords: ['UNDERLINE', 'INDIRANAGAR'],
     name: title,
     [if event.ends_at != null then 'endDate']: event.ends_at,
-    [if std.objectHas(event.ends_at, 'url') then 'url']: event.url,
+    [if std.objectHas(event, 'url') then 'url']: event.url,
     sameAs: 'https://underline.center/t/' + event.post.id,
     inLanguage: 'en',
     eventStatus: 'EventScheduled',
