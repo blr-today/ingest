@@ -59,7 +59,7 @@
         "price": "650.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -169,7 +169,7 @@
         "price": "504.24",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -513,7 +513,7 @@
         "price": "200.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
+        "remainingAttendeeCapacity": 9
       }
     ]
   },
@@ -761,30 +761,6 @@
   },
   {
     "@type": "Event",
-    "name": "BINGOLURU 3.0",
-    "url": "https://puttingscene.com/events/3558",
-    "startDate": "2026-03-29T10:30:00+05:30",
-    "endDate": "2026-03-29T17:30:00+05:30",
-    "description": "A social scavenger hunt where teams tackle quirky challenges across the city against the clock",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3558/02c819a1-a35d-4ce8-ae45-b24eec84a56b.jpg",
-    "location": {
-      "name": "Swissnex in India, Consulate General Of Switzerland",
-      "address": "Swissnex in India, Consulate General Of Switzerland, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Swissnex%20in%20India%2C%20Consulate%20General%20Of%20Switzerland&query_place_id=ChIJWx_E130WrjsR3rNjulB-O3c"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "1300.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "403_OVERRIDE | DAYSHIFT_KINYA COFFEE",
     "url": "https://puttingscene.com/events/3539",
     "startDate": "2026-03-29T12:30:00+05:30",
@@ -818,7 +794,7 @@
         "price": "1999.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
