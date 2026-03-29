@@ -1,5 +1,19 @@
 [
   {
+    "@type": "EducationEvent",
+    "name": "Around the World in 8 Bites.",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-04-04T16:00:00+05:30",
+    "endDate": "2026-04-04T17:30:00+05:30",
+    "description": "Did you know Fanta existed because of the 2nd world war? Or that the iconic Paella from Spain started out as a peasant food?\n\nJoin our Experimentor Vinaya on a flavorful journey tracing iconic food born from moments around the globe, be it wars, famines, migrations, empires, and revolutions. Each stop pairs a resilient recipe or ingredient with a Calorie exhibit, revealing how they shaped everyday eating, and its hidden science, politics, and survival stories.         \n\n",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=around-the-world-in-8-bites",
+    "maximumAttendeeCapacity": "50"
+  },
+  {
     "@type": "Event",
     "name": "Exhibition Opening of 'IMAGINE: Coral Reef'",
     "location": {
@@ -39,20 +53,6 @@
     "endDate": "2026-03-29T18:00:00+05:30",
     "description": "Every day, without thinking about it, you make sense of your surroundings through what you eat, what you hear, what your body tells you. \n\nWe are all meaning-making creatures, and our earliest instinct was to do this through play. Play is a creative act in itself. Growing up, play was how we explored, expressed, and understood the world. Somewhere along the way, we stopped. Here is an invitation to start again.\n\nThis programme takes you through CALORIE as a space where many different perspectives and processes come together, and in doing so, we begin to see creativity not as a skill but as a practice. That practice is what we invite you into.\n\nExpect hands-on activities that engage all your senses. You need no background in art or design, only an openness to notice, engage, and explore. Leave with a new way of observing your environment and documenting your experiences.\n\nJoin experimentors Nirupama and Shreya for a programme that treats creativity as something that belongs to everyone.\n",
     "url": "https://sci560.scigalleryblr.org/programmes?p=Mise-en-Play",
-    "maximumAttendeeCapacity": "30"
-  },
-  {
-    "@type": "Event",
-    "name": "Eat, Read, Think",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru, Science Gallery",
-      "address": "Science Gallery, Bangalore"
-    },
-    "startDate": "2026-03-29T12:00:00+05:30",
-    "endDate": "2026-03-29T12:00:00+05:30",
-    "description": "Eat, Read, Think is a reading circle run by Science Gallery Bengaluru, bringing together curious minds to explore ideas through literature and conversation. Readings will be themed around the current exhibition season, CALORIE, exploring humanity's fraught and intimate relationship with food through readings inspired by the many exhibits present throughout the gallery. Eat, Read, Think welcomes young people from all walks of life to gather for conversations that connect science, culture and society.\n\nThe sixth edition of the circle will read an English translation of Premchand's short story 'Poos ki Raat'. \n\nCome for community stay for snacks!",
-    "url": "https://sci560.scigalleryblr.org/programmes?p=eat-read-think-6",
     "maximumAttendeeCapacity": "30"
   },
   {
@@ -124,5 +124,19 @@
     "description": "What would you do if a colony of wild honeybees made themselves your neighbours? \n\nColonies in Conflict follows the migratory rock bee across Indian cities, forests, and farmlands, tracing the very different ways people understand and respond to their presence. For urban dwellers, the bees are a nuisance to be removed. For farmers, they are quiet partners in pollination, arriving and leaving with the seasons. Shot over two years across multiple locations in India, the film is the first to capture rock bees in close detail and, in doing so, surfaces what their declining numbers reveal about pollution, pesticide use, and the pressures of intensive agriculture.\n\nIn conversation after the screening, filmmaker Rajani Mani and ecologist Geetha G Thimmegowda, one of the scientists featured in the film, will discuss what it takes to tell a story at this scale, from a Bengaluru neighbourhood to the wider ecosystems that rock bees move through, and what it would actually take to make room for them.\n",
     "url": "https://sci560.scigalleryblr.org/programmes?p=colonies-in-conflict",
     "maximumAttendeeCapacity": "200"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Benda-Cal-ooru : Calorie meets Bengaluru",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-04-12T16:00:00+05:30",
+    "endDate": "2026-04-12T17:30:00+05:30",
+    "description": "What\u2019s your favourite pastime in Bengaluru? Is it going to your local dharshini for thindi, or cafe hopping in the\nevening? Or do you complain about the traffic and just order in? \n\nOne thing is for sure, the city has much to offer for food. But if there\u2019s so much consumption, what of the production? How does Bengaluru\u2019s history and its institutions contribute to this culture? Come for an evening of play and exploration of Bengaluru\u2019s history,institutions and their connection to food!\nJoin our Experimentors Megha and Tejashree for their walkthrough, to experience Bengaluru Kathe Calorie Jothe.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=calorie-meets-bengaluru",
+    "maximumAttendeeCapacity": "50"
   }
 ]
