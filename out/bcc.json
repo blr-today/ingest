@@ -12,26 +12,26 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess Connect - Triathlon - Bangalore Chess Club",
-  "startDate": "2026-03-29T10:00:00+05:30",
-  "endDate": "2026-03-29T15:30:00+05:30",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2026-04-04T10:00:00+05:30",
+  "endDate": "2026-04-04T12:30:00+05:30",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
 
   "location": {
     
     "@type": "Place",
-    "name": "The Market Place",
-    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    "name": "Starbucks",
+    "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India"
     
   },
   "isAccessibleForFree": false,
   
   "offers": [{
     "@type": "Offer",
-    "price": "300",
+    "price": "350",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_SJIgEhgytgD7wH/view/"
+    "url": "https://razorpay.com/payment-button/pl_SXQHRQgjJg30ug/view/"
   }],
   
   "organizer": {
@@ -41,9 +41,51 @@
   },
   "keywords": ["bangalore chess club", "chess"],
   
-  "image": "https://bangalorechessclub.in/images/chessconnect_20260329.jpg",
+  "image": "https://bangalorechessclub.in/images/chesscafe_20260404.jpg",
   
-  "url": "https://bangalorechessclub.in/chess-connect/2026-03-29/"
+  "url": "https://bangalorechessclub.in/chess-cafe/2026-04-04/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2026-04-05T16:00:00+05:30",
+  "endDate": "2026-04-05T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_SXQIrJoGIQ8eDS/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_20260405.jpg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2026-04-05/"
 }
       
     
