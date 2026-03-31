@@ -1,6 +1,120 @@
 [
   {
     "@type": "Event",
+    "name": "Bengaluru Art Weekend",
+    "url": "https://puttingscene.com/events/3652",
+    "startDate": "2026-03-31T12:00:00+05:30",
+    "endDate": "2026-03-31T13:00:00+05:30",
+    "description": "A nine-day citywide celebration of art, design and culture across Bengaluru's galleries, studios and cultural venues, now in its second edition",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774866941409-1774866941361_4kv9b8ld68e.png",
+    "location": {
+      "name": "Sabha Blr, Shivaji Nagar",
+      "address": "Sabha Blr, Shivaji Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabha,+262+Kamaraj+Road,+Shivaji+Nagar,+Bengaluru,+Karnataka+560042,+India"
+    },
+    "sameAs": "https://in.bookmyshow.com/events/season-ticket/ET00489343",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "1499.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Design Day",
+    "url": "https://puttingscene.com/events/3656",
+    "startDate": "2026-03-31T14:00:00+05:30",
+    "endDate": "2026-03-31T15:00:00+05:30",
+    "description": "NVR Found and We Design Local present Design Day, exploring tactility, design, and making through panels and workshops",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774870069694-1774870069561_22ggv4148o.png",
+    "location": {
+      "name": "WeWork Galaxy, Residency Road",
+      "address": "WeWork Galaxy, Residency Road, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=WeWork%20Galaxy%2C%20Residency%20Road%2C%20Bengaluru"
+    },
+    "sameAs": "https://www.instagram.com/p/DWWzLu6j9N7/?img_index=1",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Husain: When A Vision Becomes A Museum",
+    "url": "https://puttingscene.com/events/3655",
+    "startDate": "2026-03-31T18:30:00+05:30",
+    "endDate": "2026-03-31T19:30:00+05:30",
+    "description": "Curator Amita Shenoy and Artisera's Varun Backliwal trace M.F. Husain's legacy through his Doha curation in an intimate fireside conversation",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774870222497-1774870222427_p86etmj62sk.png",
+    "location": {
+      "name": "Artisera, Indiranagar",
+      "address": "Artisera, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Artisera%2C+3rd+Floor%2C+B.K.N.+Ambaram+Estates%2C+648%2FL%2C+1st+Main%2C+Indiranagar+Stage+1%2C+Bengaluru%2C+Karnataka+560038%2C+India"
+    },
+    "sameAs": "https://www.instagram.com/p/DWWj1xlEcWk/?img_index=1",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Enam",
+    "url": "https://puttingscene.com/events/3653",
+    "startDate": "2026-03-31T19:00:00+05:30",
+    "endDate": "2026-03-31T20:00:00+05:30",
+    "description": "Bharatanatyam artist Karthik Manikandan reimagines the Ramayana's Maricha in a solo work exploring fate, identity and the burden of playing the bait",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774870266235-1774870266192_m0n6uu0gufm.png",
+    "location": {
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, ",
+      "url": "https://maps.app.goo.gl/zoQXeWrppsEjyNA78"
+    },
+    "sameAs": "https://bangaloreinternationalcentre.org/event/enam/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Documentary Screening: Faces Places (2017)",
+    "url": "https://puttingscene.com/events/3651",
+    "startDate": "2026-03-31T19:45:00+05:30",
+    "endDate": "2026-03-31T20:45:00+05:30",
+    "description": "Filmmaker Agn\u00e8s Varda and photographer JR create large-scale portraits across rural France in this documentary on art and friendship",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774869541627-1774869541514_6cyow5dqomo.png",
+    "location": {
+      "name": "Angala, Cox Town",
+      "address": "Angala, Cox Town, Bangalore",
+      "url": "https://maps.app.goo.gl/EYDHfTH4f7MDqJNj8"
+    },
+    "sameAs": "https://urbanaut.app/spot/faces-places",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pub Quiz Night",
+    "url": "https://puttingscene.com/events/3654",
+    "startDate": "2026-03-31T20:30:00+05:30",
+    "endDate": "2026-03-31T21:30:00+05:30",
+    "description": "A pub quiz mixing general knowledge, pop culture, and memes in a fast-paced, team-based format",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774869488062-1774869487983_04q13vkp2097.png",
+    "location": {
+      "name": "Underdoggs, Whitefield",
+      "address": "Underdoggs, Whitefield, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Underdoggs%2C%20Whitefield"
+    },
+    "sameAs": "https://www.instagram.com/p/DWdTo4aEYxR/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "150.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Thursday Tasting Lab | Vol. 2",
     "url": "https://puttingscene.com/events/3610",
     "startDate": "2026-04-02T16:00:00+05:30",
@@ -20,6 +134,30 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Friday Work Deli: Focus, Create, Nourish Save Share",
+    "url": "https://puttingscene.com/events/3541",
+    "startDate": "2026-04-03T11:00:00+05:30",
+    "endDate": "2026-04-03T17:00:00+05:30",
+    "description": "A co-working afternoon with shared workspaces, creative energy, and a deli-style food spread",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3541/f060ff94-45dd-4ff8-8c5c-9dd6b6de37db.jpg",
+    "location": {
+      "name": "the Studio by Copper + Cloves",
+      "address": "the Studio by Copper + Cloves, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=the%20Studio%20by%20Copper%20%2B%20Cloves&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "800.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
       }
     ]
   },
