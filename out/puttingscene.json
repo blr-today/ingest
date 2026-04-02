@@ -57,21 +57,6 @@
   },
   {
     "@type": "Event",
-    "name": "Writer's Evening",
-    "url": "https://puttingscene.com/events/3660",
-    "startDate": "2026-04-02T18:00:00+05:30",
-    "endDate": "2026-04-02T20:00:00+05:30",
-    "description": "An hour of focused writing in a shared space, with weekly prompts and optional post-session sharing",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3660/e8de0cc3-4055-4beb-91cc-7200ecc1cae8.jpg",
-    "location": {
-      "name": "Atta Galatta",
-      "address": "Atta Galatta, ",
-      "url": "https://maps.app.goo.gl/LoZruPAHJSS69oit8"
-    },
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
     "name": "Theatre Play: Hesare Elladavaru",
     "url": "https://puttingscene.com/events/3673",
     "startDate": "2026-04-02T19:30:00+05:30",
@@ -348,9 +333,7 @@
         "@type": "Offer",
         "name": "Regular",
         "price": "1299.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1
+        "priceCurrency": "INR"
       },
       {
         "@type": "Offer",
@@ -358,7 +341,7 @@
         "price": "1399.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 19
+        "remainingAttendeeCapacity": 18
       }
     ]
   },
@@ -382,7 +365,7 @@
         "price": "2796.61",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 7
+        "remainingAttendeeCapacity": 6
       }
     ]
   },
@@ -421,7 +404,7 @@
         "price": "1000.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 120
+        "remainingAttendeeCapacity": 112
       }
     ]
   },
