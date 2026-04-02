@@ -2,6 +2,110 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The First Light Farmer's Market, hosted and curated by The Fresh Factory is a celebration of Farmer's markets. This isn't a typical weekend market. First Light is about a fresh start, open and",
+      "endDate": "2026-04-11T12:00:00",
+      "identifier": "com.skillboxes.35301",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OUZlc3IyNlRZamVxTm8vL01xcVRlZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775135385iLwJ6GtjMHqwoPMV.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food Carnival"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground & Mezzanine Floor, 3053/1, 80 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9710399",
+            "longitude": "77.6471975"
+         },
+         "name": "The Fresh Factory"
+      },
+      "name": "The First Light, Farmer's Market",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes a free coffee, snack and access to the farmer's market event.\nShow up between 6 to 8 am to get a complimentary protein shake + two day access pass to Aurum Ultra-Luxury Gym.",
+            "inventoryLevel": 100,
+            "name": "First Light Farmer's Market",
+            "url": "https://www.skillboxes.com/events/ticket/the-first-light-farmer-s-market"
+         }
+      ],
+      "startDate": "2026-04-11T06:11:00",
+      "url": "https://www.skillboxes.com/events/the-first-light-farmer-s-market"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "EE SALA CUP NAMDE. 🏆Bengaluru, your favourite season has officially begun, and SkyDeck by Sherlock's is making sure you experience every single moment of it the way it was always meant to be experienced.",
+      "endDate": "2026-04-05T23:45:00",
+      "identifier": "com.skillboxes.35299",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775132649lra0Opfn2aXVkgLu.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "RCB VS CSK IPL LIVE SCREENING",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Experience LIVE screening on the best rooftop of MG Road\n",
+            "inventoryLevel": 100,
+            "name": "Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/rcb-vs-csk-ipl-live-screening-1"
+         }
+      ],
+      "startDate": "2026-04-05T19:00:00",
+      "url": "https://www.skillboxes.com/events/rcb-vs-csk-ipl-live-screening-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "✨ You’re Invited to a *Sound Healing & Manifestation Journey*✨*Sound Healing Session* (60 Mints)Join us for a nourishing Sound Healing Session with Tibetan singing bowls",
+      "endDate": "2026-04-18T23:59:00",
+      "identifier": "com.skillboxes.35284",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775117541EO1IDyqvOdxHmydM.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Wellness & Self-Care"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 442, Manjusha, 8th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9331875",
+            "longitude": "77.6271875"
+         },
+         "name": "DizzyDuck Studio"
+      },
+      "name": "Sound Healing & Manifestation Journey",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sound-healing-manifestation-journey"
+         }
+      ],
+      "startDate": "2026-04-18T15:30:00",
+      "url": "https://www.skillboxes.com/events/sound-healing-manifestation-journey"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "⚡️ TGIF City's most exclusive Friday night⚡️Where sound, style, and the city's finest come together!!🗓️03/04/2026|Friday.📍21st Amendment GastroBar, Indiranagar⏱&#65",
       "endDate": "2026-04-03T23:59:00",
       "identifier": "com.skillboxes.35275",
@@ -156,7 +260,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-x-uberkikz"
          },
@@ -672,7 +776,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A ₹500 cover charge (fully redeemable on F&B) is also applicable\n",
-            "inventoryLevel": 496,
+            "inventoryLevel": 492,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/vishwi-live-the-multi-lingual-film-music-spectacle"
          },
@@ -715,7 +819,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A cover charge of ₹500 will be applicable at the venue entrance\n",
-            "inventoryLevel": 206,
+            "inventoryLevel": 197,
             "name": "Entry + Cover",
             "url": "https://www.skillboxes.com/events/ticket/silly-bar-presents-gerard-machado-netwok"
          }
@@ -799,6 +903,41 @@
       "offers": [ ],
       "startDate": "2026-04-04T12:00:00",
       "url": "https://www.skillboxes.com/events/mini-souk-by-ourbetterplanet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Karaoke Thursdays at Silly Bar with Sherman brings together good music, easy energy, and a crowd that’s just here to have a good time.Whether you’re stepping up to the mi",
+      "endDate": "2026-04-02T23:55:00",
+      "identifier": "com.skillboxes.34912",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OHVNZ2FNNERBNU54TXBWS3RHV3hVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775131034qsP4LQDSPdr80wVS.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sillybar, ground floor, 4th, Block 413, 100 Feet Ra, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Silly Bar"
+      },
+      "name": "Silly Bar Presents Karaoke Thursdays with Sherman",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "RSVP/ Free Entry\n",
+            "inventoryLevel": 296,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/silly-bar-presents-karaoke-thursdays-with-sherman"
+         }
+      ],
+      "startDate": "2026-04-02T21:00:00",
+      "url": "https://www.skillboxes.com/events/silly-bar-presents-karaoke-thursdays-with-sherman"
    },
    {
       "@context": "https://schema.org",
@@ -936,7 +1075,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 67,
+            "inventoryLevel": 62,
             "name": "Phase I",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
@@ -1107,7 +1246,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 29,
+            "inventoryLevel": 28,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/easter-jam"
          }
@@ -1142,7 +1281,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 53,
+            "inventoryLevel": 26,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore"
          },
@@ -1185,7 +1324,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at the gate.\n",
-            "inventoryLevel": 177,
+            "inventoryLevel": 176,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/soorya-frnds-live-at-the-humming-tree-bengaluru-gigman-live"
          },
@@ -1384,7 +1523,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 361,
+            "inventoryLevel": 338,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          },
@@ -1769,7 +1908,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 48,
+            "inventoryLevel": 45,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
