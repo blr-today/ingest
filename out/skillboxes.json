@@ -2,13 +2,54 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for an electrifying evening of cricket as we bring you a live screening of the IPL action this April 5th! 🔥Join us for big hits, thrilling moments, and an unbeatable match-day vibe on the big screen. Whether y",
+      "endDate": "2026-04-05T22:00:00",
+      "identifier": "com.skillboxes.35324",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17752324882AWBixY8Heds3QS1.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Fandom at Gilly's Redefined",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12",
+            "longitude": "77"
+         },
+         "name": "FANDOM"
+      },
+      "name": "Live Screening RCB vs CSK",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 97,
+            "name": "SINGLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/live-screening-rcb-vs-csk"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "BUDDY",
+            "url": "https://www.skillboxes.com/events/ticket/live-screening-rcb-vs-csk"
+         }
+      ],
+      "startDate": "2026-04-05T19:30:00",
+      "url": "https://www.skillboxes.com/events/live-screening-rcb-vs-csk"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The First Light Farmer's Market, hosted and curated by The Fresh Factory is a celebration of Farmer's markets. This isn't a typical weekend market. First Light is about a fresh start, open and",
       "endDate": "2026-04-11T12:00:00",
       "identifier": "com.skillboxes.35301",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OUZlc3IyNlRZamVxTm8vL01xcVRlZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775135385iLwJ6GtjMHqwoPMV.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
-         "Food Carnival"
+         "Festivals"
       ],
       "location": {
          "@type": "Place",
@@ -20,12 +61,12 @@
          },
          "name": "The Fresh Factory"
       },
-      "name": "The First Light, Farmer's Market",
+      "name": "First Light, Farmer's Market",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "This ticket includes a free coffee, snack and access to the farmer's market event.\nShow up between 6 to 8 am to get a complimentary protein shake + two day access pass to Aurum Ultra-Luxury Gym.",
+            "description": "This ticket includes a free coffee, snack and access to the farmer's market event.\nShow up between 6 to 8 am to get an additional complimentary protein shake + two day access pass to Aurum Ultra-Luxury Gym.",
             "inventoryLevel": 100,
             "name": "First Light Farmer's Market",
             "url": "https://www.skillboxes.com/events/ticket/the-first-light-farmer-s-market"
@@ -106,65 +147,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "⚡️ TGIF City's most exclusive Friday night⚡️Where sound, style, and the city's finest come together!!🗓️03/04/2026|Friday.📍21st Amendment GastroBar, Indiranagar⏱&#65",
-      "endDate": "2026-04-03T23:59:00",
-      "identifier": "com.skillboxes.35275",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/K3N4ZTFzTGVnekdMRG1BM2UrR2Z3UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775102053IrDtw8hW9jTCutan.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1211, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.965939",
-            "longitude": "77.6412796"
-         },
-         "name": "21st Amendment Gastrobar Indiranagar"
-      },
-      "name": "City’s Exclusive Friday Night✨",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory cover charges of 2k applicable at venue\n",
-            "inventoryLevel": 20,
-            "name": "Stag Entry",
-            "url": "https://www.skillboxes.com/events/ticket/city-s-exclusive-friday-night-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry\n",
-            "inventoryLevel": 50,
-            "name": "Couple entry",
-            "url": "https://www.skillboxes.com/events/ticket/city-s-exclusive-friday-night-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry\n",
-            "inventoryLevel": 50,
-            "name": "Ladies Entry",
-            "url": "https://www.skillboxes.com/events/ticket/city-s-exclusive-friday-night-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry (minimum 45-50% girls required in a group to avail free entry)\n",
-            "inventoryLevel": 20,
-            "name": "Mixed Group",
-            "url": "https://www.skillboxes.com/events/ticket/city-s-exclusive-friday-night-1"
-         }
-      ],
-      "startDate": "2026-04-03T21:00:00",
-      "url": "https://www.skillboxes.com/events/city-s-exclusive-friday-night-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "TECHNO HARDTECHNO SCHRANZ",
       "endDate": "2026-04-26T23:59:00",
       "identifier": "com.skillboxes.35248",
@@ -226,7 +208,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 998,
+            "inventoryLevel": 995,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-x-uberkikz"
          },
@@ -497,49 +479,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "The city looks better when it’s a little messy 👀Raj Roy playing the right kind of chaos, people dancing like no one’s watching, and the vibe getting out of hand.Friday nights live differently at Yeda Rep",
-      "endDate": "2026-04-03T23:59:00",
-      "identifier": "com.skillboxes.35160",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774720909uecx48fBGlDvooLf.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "WE OWN THE CITY FT. DJ RAZRR (RAJ ROY) AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/we-own-the-city-ft-dj-razrr-raj-roy-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/we-own-the-city-ft-dj-razrr-raj-roy-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-04-03T20:00:00",
-      "url": "https://www.skillboxes.com/events/we-own-the-city-ft-dj-razrr-raj-roy-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Step into the thrill of the iconic RCB vs CSK showdown.Enjoy live screening with your loved ones in a vibrant setting filled with energy.Indulge in exquisite food, signature drinks, and an unforgettable mat",
       "endDate": "2026-04-05T23:59:00",
       "identifier": "com.skillboxes.35155",
@@ -604,41 +543,6 @@
       ],
       "startDate": "2026-04-05T19:30:00",
       "url": "https://www.skillboxes.com/events/rcb-vs-csk-live-screening"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Mirage Presents Citizen Kane",
-      "endDate": "2026-04-03T23:59:00",
-      "identifier": "com.skillboxes.35147",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774701056Lq0HS0tM1A6kGHYG.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "6th Floor, 1 Sobha, Sobha Mall, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9753013",
-            "longitude": "77.6024945"
-         },
-         "name": "Mirage"
-      },
-      "name": "Mirage Presents Citizen Kain",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Guest list closes at 9:45 strictly for girls and couple\n",
-            "inventoryLevel": 912,
-            "name": "Rsvp Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/mirage-presents-citizen-kane"
-         }
-      ],
-      "startDate": "2026-04-03T20:00:00",
-      "url": "https://www.skillboxes.com/events/mirage-presents-citizen-kane"
    },
    {
       "@context": "https://schema.org",
@@ -757,41 +661,6 @@
       ],
       "startDate": "2026-04-19T20:00:00",
       "url": "https://www.skillboxes.com/events/vishwi-live-the-multi-lingual-film-music-spectacle"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Masters in their own right, The Network known for delivering the best to Jazz enthusiasts and connoisseurs of music. Their music is a blend of Bebop Jazz, Blues, Funk and Latin elements. The band comprises of Gerard Machado on Guita",
-      "endDate": "2026-04-03T23:55:00",
-      "identifier": "com.skillboxes.34999",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1774270768KggKsZj8FG9Sy2Y2.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Sillybar, ground floor, 4th, Block 413, 100 Feet Ra, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.933341",
-            "longitude": "77.623648"
-         },
-         "name": "Silly Bar"
-      },
-      "name": "Silly Bar Presents GERARD MACHADO NETWORK",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A cover charge of ₹500 will be applicable at the venue entrance\n",
-            "inventoryLevel": 197,
-            "name": "Entry + Cover",
-            "url": "https://www.skillboxes.com/events/ticket/silly-bar-presents-gerard-machado-netwok"
-         }
-      ],
-      "startDate": "2026-04-03T19:00:00",
-      "url": "https://www.skillboxes.com/events/silly-bar-presents-gerard-machado-netwok"
    },
    {
       "@context": "https://schema.org",
@@ -971,7 +840,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 991,
+            "inventoryLevel": 988,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/vehement-era-presents-entropy-ritual"
          }
@@ -1006,7 +875,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 62,
+            "inventoryLevel": 58,
             "name": "Phase I",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
@@ -1173,15 +1042,7 @@
          "name": "Adda 1522"
       },
       "name": "Easter Jam",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 28,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/easter-jam"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-05T17:00:00",
       "url": "https://www.skillboxes.com/events/easter-jam"
    },
@@ -1212,7 +1073,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 26,
+            "inventoryLevel": 3,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore"
          },
@@ -1255,7 +1116,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at the gate.\n",
-            "inventoryLevel": 176,
+            "inventoryLevel": 167,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/soorya-frnds-live-at-the-humming-tree-bengaluru-gigman-live"
          },
@@ -1391,14 +1252,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 9,
             "name": "Phase 1 Male Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
             "name": "Phase 1 Couple Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/frat-house-the-birth-of-houses-indiranagarsocial"
          },
@@ -1454,7 +1315,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 338,
+            "inventoryLevel": 325,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          },
@@ -1736,7 +1597,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to India’s first 24 Songs Festival.\n",
-            "inventoryLevel": 92,
+            "inventoryLevel": 91,
             "name": "Festival Pass",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
@@ -1802,6 +1663,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "inventoryLevel": 237,
+            "name": "Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-warm-up-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "inventoryLevel": 93,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-warm-up-party"
@@ -1839,7 +1707,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 45,
+            "inventoryLevel": 44,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1863,7 +1731,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per person applicable at gates\n",
-            "inventoryLevel": 8,
+            "inventoryLevel": 6,
             "name": "Phase - 1: Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -2265,22 +2133,7 @@
          "name": "Namma Ashram"
       },
       "name": "Shaam-e-Sukoon - An Evening of Ghazal and Sufi Melodies",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 70,
-            "name": "Regular",
-            "url": "https://www.skillboxes.com/events/ticket/shaam-e-sukoon-an-evening-of-ghazal-and-sufi-melodies"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Couple Entry - 2 Adults",
-            "url": "https://www.skillboxes.com/events/ticket/shaam-e-sukoon-an-evening-of-ghazal-and-sufi-melodies"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-04-04T18:30:00",
       "url": "https://www.skillboxes.com/events/shaam-e-sukoon-an-evening-of-ghazal-and-sufi-melodies"
    },

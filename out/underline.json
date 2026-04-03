@@ -2,7 +2,7 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-06-04T23:00:00.000+05:30",
+      "endDate": "2026-04-11T23:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -33,6 +33,41 @@
       "sameAs": "https://underline.center/t/896",
       "startDate": "2026-04-11T21:00:00.000+05:30",
       "url": "tba"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-04-10T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "The Silliest Show Tonight by Improv Lore",
+      "sameAs": "https://underline.center/t/823",
+      "startDate": "2026-04-10T21:00:00.000+05:30",
+      "url": "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
@@ -278,41 +313,6 @@
       "sameAs": "https://underline.center/t/894",
       "startDate": "2026-04-04T14:00:00.000+05:30",
       "url": "https://district.in/indiewebclub-meetup/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-04-03T22:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Silliest Show Tonight by Improv Lore",
-      "sameAs": "https://underline.center/t/823",
-      "startDate": "2026-04-03T21:00:00.000+05:30",
-      "url": "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
