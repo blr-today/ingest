@@ -573,7 +573,7 @@
         "price": "1399.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 16
+        "remainingAttendeeCapacity": 13
       }
     ]
   },
@@ -621,7 +621,7 @@
         "price": "2796.61",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 3
       }
     ]
   },
@@ -663,30 +663,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Daysie%20(RR%20Nagar)%20%3A%20All%20Day%20Casual%20Bar&query_place_id=ChIJ1-MNr5s_rjsRMyB2Y-yg_mo"
     },
     "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Easter at Grover Vineyards",
-    "url": "https://puttingscene.com/events/3657",
-    "startDate": "2026-04-05T12:30:00+05:30",
-    "endDate": "2026-04-05T16:30:00+05:30",
-    "description": "Spend Easter afternoon at Grover Zampa with barbecue, music, and wines across open vineyard lawns",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3657/55bd9e22-ee3d-4bb4-adf3-bbe1e54e1cda.jpg",
-    "location": {
-      "name": "Grover Zampa Vineyards",
-      "address": "Grover Zampa Vineyards, ",
-      "url": "https://www.google.com/maps/search/?api=1&query=Grover%20Zampa%20Vineyards&query_place_id=ChIJl7-DNcNvBREReuruZd7HhXs"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Easter Special",
-        "price": "1000.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 107
-      }
-    ]
   },
   {
     "@type": "Event",
