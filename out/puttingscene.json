@@ -1,260 +1,44 @@
 [
   {
     "@type": "Event",
-    "name": "Friday Work Deli: Focus, Create, Nourish Save Share",
-    "url": "https://puttingscene.com/events/3541",
-    "startDate": "2026-04-03T11:00:00+05:30",
-    "endDate": "2026-04-03T17:00:00+05:30",
-    "description": "A co-working afternoon with shared workspaces, creative energy, and a deli-style food spread",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3541/f060ff94-45dd-4ff8-8c5c-9dd6b6de37db.jpg",
+    "name": "Bread Fundamentals",
+    "url": "https://puttingscene.com/events/3696",
+    "startDate": "2026-04-04T10:00:00+05:30",
+    "endDate": "2026-04-04T11:00:00+05:30",
+    "description": "A full-day baking workshop on kneading, fermentation, and shaping, making breads from bao to pizza",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207048186-1775207048063_c7jexfnolk8.png",
     "location": {
-      "name": "the Studio by Copper + Cloves",
-      "address": "the Studio by Copper + Cloves, ",
-      "url": "https://www.google.com/maps/search/?api=1&query=the%20Studio%20by%20Copper%20%2B%20Cloves&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E"
+      "name": "Celesteyum academy, Whitefield",
+      "address": "Celesteyum academy, Whitefield, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Celesteyum+Academy%2C+2nd+Wing%2C+3rd+Floor%2C+Sri+Sai+Harsha+Tower%2C+Opposite+Forum+Neighbourhood+Mall%2C+Whitefield%2C+Bengaluru%2C+Karnataka+560066"
     },
+    "sameAs": "https://celesteyum.com/baking-course/bread-fundamentals/",
     "offers": [
       {
         "@type": "Offer",
-        "name": "General",
-        "price": "800.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "price": "4500.00",
+        "priceCurrency": "INR"
       }
     ]
   },
   {
     "@type": "Event",
-    "name": "The Cookie Table",
-    "url": "https://puttingscene.com/events/3669",
-    "startDate": "2026-04-03T16:30:00+05:30",
-    "endDate": "2026-04-03T18:00:00+05:30",
-    "description": "Make and decorate Easter shortbread cookies from scratch in a guided, hands-on baking session",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3669/0c6a90aa-0d63-47f8-9d4b-77d7a6cd3bd7.jpg",
+    "name": "Chess Cafe: A Chess Meetup with a Twist",
+    "url": "https://puttingscene.com/events/3711",
+    "startDate": "2026-04-04T10:00:00+05:30",
+    "endDate": "2026-04-04T11:00:00+05:30",
+    "description": "Play chess variants from bughouse to anti chess in a social, coffee-led morning session",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775208058280-1775208058222_i3532ds29q.png",
     "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+      "name": "Starbucks, MG Road, Bengaluru",
+      "address": "Starbucks, MG Road, Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/Rej1kWuJhRYnY6wF9"
     },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "714.29",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "The Cookie Table",
-    "url": "https://puttingscene.com/events/3669",
-    "startDate": "2026-04-03T18:00:00+05:30",
-    "endDate": "2026-04-03T19:30:00+05:30",
-    "description": "Make and decorate Easter shortbread cookies from scratch in a guided, hands-on baking session",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3669/0c6a90aa-0d63-47f8-9d4b-77d7a6cd3bd7.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "714.29",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Modular Origami Workshop",
-    "url": "https://puttingscene.com/events/3668",
-    "startDate": "2026-04-03T19:00:00+05:30",
-    "endDate": "2026-04-03T21:00:00+05:30",
-    "description": "Fold and assemble paper into 3D forms in this modular origami session, with guidance on kusudama inspired designs",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3668/c3e843d7-3442-4e4c-99b0-ec4bcf94841f.jpg",
-    "location": {
-      "name": "Paper Crane Lab",
-      "address": "Paper Crane Lab, ",
-      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "400.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Silly Bar Presents Gerard Machado Network",
-    "url": "https://puttingscene.com/events/3690",
-    "startDate": "2026-04-03T19:00:00+05:30",
-    "endDate": "2026-04-03T20:00:00+05:30",
-    "description": "Jazz guitarist Gerard Machado leads a bebop, blues, and funk quartet, shaped by three decades on stage",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775130224423-1775130224240_2eq21f65amp.png",
-    "location": {
-      "name": "Silly Bar, Koramangala",
-      "address": "Silly Bar, Koramangala, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Silly%20Bar%2C%20Koramangala"
-    },
-    "sameAs": "https://www.skillboxes.com/events/silly-bar-presents-gerard-machado-netwok",
+    "sameAs": "https://bangalorechessclub.in/chess-cafe/2026-04-04/",
     "offers": [
       {
         "@type": "Offer",
         "price": "350.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Theatre Play: The Interview",
-    "url": "https://puttingscene.com/events/3688",
-    "startDate": "2026-04-03T19:25:00+05:30",
-    "endDate": "2026-04-03T20:25:00+05:30",
-    "description": "A darkly comic psychological drama in which a routine job interview unravels into an absurd, identity-stripping power game",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775130105330-1775130105288_ooy60t4tvu.png",
-    "location": {
-      "name": "Ranga shankara",
-      "address": "Ranga shankara, ",
-      "url": "https://maps.app.goo.gl/Wjoid7E1VFA4r3L89"
-    },
-    "sameAs": "https://in.bookmyshow.com/plays/the-interview/ET00472993",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "400.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Christian Craken at Cavore by Sourberry",
-    "url": "https://puttingscene.com/events/3686",
-    "startDate": "2026-04-03T20:00:00+05:30",
-    "endDate": "2026-04-03T21:00:00+05:30",
-    "description": "Bulgarian techno producer Christian Craken, founder of PHOBIA Music Recordings, brings his driving underground sound to Cavore",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775129745552-1775129745490_suhf0cecyyq.png",
-    "location": {
-      "name": "Cavore, Ashok Nagar",
-      "address": "Cavore, Ashok Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/Cavore,+Shanti+Nagar,+Bengaluru"
-    },
-    "sameAs": "https://link.district.in/DSTRKT/1jp86jqg",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "500.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "The Eternal Pulse - Remembering Zakir Hussain",
-    "url": "https://puttingscene.com/events/3689",
-    "startDate": "2026-04-03T20:00:00+05:30",
-    "endDate": "2026-04-03T21:00:00+05:30",
-    "description": "Ranjit Barot, a leading jazz fusion drummer, presents a tribute to tabla legend Zakir Hussain with a young ensemble celebrating rhythm, freedom and musical kinship",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775130072329-1775130072153_vzu79ybj0rr.png",
-    "location": {
-      "name": "The Humming Tree, Indiranagar",
-      "address": "The Humming Tree, Indiranagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
-    },
-    "sameAs": "https://urbanaut.app/spot/the-eternal-pulse-remembering-zakir-hussain",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "2000.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "The Burrow: Synths Back B2B Chan",
-    "url": "https://puttingscene.com/events/3691",
-    "startDate": "2026-04-03T20:00:00+05:30",
-    "endDate": "2026-04-03T21:00:00+05:30",
-    "description": "Synths Back, producer Abhishek Chanda\u2019s project, brings Italo disco, house, and synthwave in a back-to-back set",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775129884116-1775129884052_4bokygy2zx2.png",
-    "location": {
-      "name": "The Burrow, Gandhi Nagar",
-      "address": "The Burrow, Gandhi Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=The+Burrow%2C+37%2C+High+Grounds%2C+Crescent+Road%2C+Seshadripuram%2C+Bangalore%2C+Karnataka%2C+India"
-    },
-    "sameAs": "https://gatherly.to/event/48/the-burrow-synths-back-b2b-chan-030426?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGngabi3ryipe5JqtfOB_Fhw5TTXdhemO16o06ewyDUqLOgRyVJW_b_y0m3IcM_aem_nCFdKUdlGesvrzjpYWViSg",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Bar 1802 Takeover at ZLB23",
-    "url": "https://puttingscene.com/events/3692",
-    "startDate": "2026-04-03T20:00:00+05:30",
-    "endDate": "2026-04-03T21:00:00+05:30",
-    "description": "Paris rum bar Bar 1802, home to 1,600 rum varieties, takes over ZLB23 for a one-night speakeasy collaboration",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775130613903-1775130613871_e82bpcv62x7.png",
-    "location": {
-      "name": "ZLB23 Speakeasy, Kodihalli",
-      "address": "ZLB23 Speakeasy, Kodihalli, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=ZLB23%20Speakeasy%2C%20Bangalore"
-    },
-    "sameAs": "https://www.instagram.com/p/DWno1ORDGG7/?hl=en&img_index=1",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Live Music: Parimal Shais, Dualist Inquiry & More",
-    "url": "https://puttingscene.com/events/3687",
-    "startDate": "2026-04-03T21:00:00+05:30",
-    "endDate": "2026-04-03T22:00:00+05:30",
-    "description": "Parimal Shais, known for bass-driven sets and Dualist Inquiry, a leading name in Indian electronic music, lead a night of electronic sets alongside Karun and Nanku",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775130038324-1775130038270_c3qtxs67ivg.png",
-    "location": {
-      "name": "Kaze Bar & Kitchen, Ashok Nagar",
-      "address": "Kaze Bar & Kitchen, Ashok Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kaze%20Bar%20%26%20Kitchen%2C%20Lavelle%20Rd"
-    },
-    "sameAs": "https://in.bookmyshow.com/events/live-sets-parimal-shais-karun-nanku-and-more/ET00491746",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "999.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Club Fridays: DJ RasMoose at Middle Room",
-    "url": "https://puttingscene.com/events/3693",
-    "startDate": "2026-04-03T21:00:00+05:30",
-    "endDate": "2026-04-03T22:00:00+05:30",
-    "description": "Finnish DJ RasMoose, a vinyl purist on 7-inch records, plays hip-hop, soul, and funk in a rhythm-driven set",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/02/1775129899615-1775129899417_pe7pm3cg87.png",
-    "location": {
-      "name": "Middle Room, Shanti Nagar",
-      "address": "Middle Room, Shanti Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Middle+Room+Listening+Room+Courtyard+105+Kengal+Hanumanthaiah+Road+Raja+Ram+Mohan+Roy+Extension+Shanti+Nagar+Bengaluru+Karnataka+560027+India"
-    },
-    "sameAs": "https://www.instagram.com/p/DWbV_qyE_8f/?img_index=1",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "1565.00",
         "priceCurrency": "INR"
       }
     ]
@@ -285,6 +69,28 @@
   },
   {
     "@type": "Event",
+    "name": "Bharatnatyam Workshop on Namoh Re",
+    "url": "https://puttingscene.com/events/3704",
+    "startDate": "2026-04-04T12:00:00+05:30",
+    "endDate": "2026-04-04T13:00:00+05:30",
+    "description": "A Bharatanatyam workshop blending classical movement with contemporary music in a guided session",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207674703-1775207674518_aok2nm43ppt.png",
+    "location": {
+      "name": "Good Move Studios",
+      "address": "Good Move Studios, ",
+      "url": "https://maps.app.goo.gl/qRAC3CBM7PnCsBdQ8"
+    },
+    "sameAs": "https://www.instagram.com/p/DWYvm8TgXPL/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "799.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "The Easter Cake Studio",
     "url": "https://puttingscene.com/events/3671",
     "startDate": "2026-04-04T13:00:00+05:30",
@@ -309,6 +115,50 @@
   },
   {
     "@type": "Event",
+    "name": "Handmade Book Binding: Workshop",
+    "url": "https://puttingscene.com/events/3697",
+    "startDate": "2026-04-04T13:00:00+05:30",
+    "endDate": "2026-04-04T14:00:00+05:30",
+    "description": "Learn the Coptic stitch binding technique and complete your own handmade book in this beginner-friendly workshop",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207105253-1775207105214_mwaxfx161eq.png",
+    "location": {
+      "name": "Atta Galatta, Indira Nagar",
+      "address": "Atta Galatta, Indira Nagar, ",
+      "url": "https://maps.app.goo.gl/yPkXUwSwEv2duyAT9"
+    },
+    "sameAs": "https://urbanaut.app/spot/handmade-book-binding-workshop",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "3000.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Screening: World at Large (Triple Bill)",
+    "url": "https://puttingscene.com/events/3695",
+    "startDate": "2026-04-04T14:00:00+05:30",
+    "endDate": "2026-04-04T15:00:00+05:30",
+    "description": "A triple bill of films exploring human connection and shared worlds, followed by a discussion",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/03/30/1774869541627-1774869541514_6cyow5dqomo.png",
+    "location": {
+      "name": "Angala, Cox Town",
+      "address": "Angala, Cox Town, Bangalore",
+      "url": "https://maps.app.goo.gl/EYDHfTH4f7MDqJNj8"
+    },
+    "sameAs": "https://urbanaut.app/spot/triple-bill-world-at-large",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "The Easter Cake Studio",
     "url": "https://puttingscene.com/events/3671",
     "startDate": "2026-04-04T14:30:00+05:30",
@@ -328,6 +178,50 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Chocolate Wonderland: Bean-to-Bar Chocolate Making & Tasting",
+    "url": "https://puttingscene.com/events/3700",
+    "startDate": "2026-04-04T15:00:00+05:30",
+    "endDate": "2026-04-04T16:00:00+05:30",
+    "description": "Belgian-trained chocolatiers guide a small-batch bean-to-bar workshop covering chocolate history, making and professional tasting techniques",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207183258-1775207183201_uyt8czj41ji.png",
+    "location": {
+      "name": "Chocolate Philosophy, RT Nagar",
+      "address": "Chocolate Philosophy, RT Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chocolate+Philosophy%2C+5%2C+Third+Floor%2C+Sri+Maruthi+Chambers%2C+1st+Main+Road%2C+Thimmaiah+Garden%2C+RT+Nagar%2C+Bangalore+560032"
+    },
+    "sameAs": "https://troveexperiences.com/collections/bangalore/products/chocolate-tasting-and-making-workshops-bangalore?utm_source=story_ig",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2200.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "INSHAEN",
+    "url": "https://puttingscene.com/events/3710",
+    "startDate": "2026-04-04T15:00:00+05:30",
+    "endDate": "2026-04-04T16:00:00+05:30",
+    "description": "Sachin Menon, as HAEN, presents a seven-hour immersive DJ set blending music, art, and sensory elements",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207936544-1775207936399_be6k60sf98.png",
+    "location": {
+      "name": "Concept01, Koramangala",
+      "address": "Concept01, Koramangala, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Concept01%2C%20Koramangala%2C%20Bengaluru"
+    },
+    "sameAs": "https://www.instagram.com/p/DWdnW68EwgC/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "799.00",
+        "priceCurrency": "INR"
       }
     ]
   },
@@ -381,6 +275,44 @@
   },
   {
     "@type": "Event",
+    "name": "Screening: Notting Hill",
+    "url": "https://puttingscene.com/events/3699",
+    "startDate": "2026-04-04T16:00:00+05:30",
+    "endDate": "2026-04-04T17:00:00+05:30",
+    "description": "Screening of Notting Hill, tracing love, fame, and vulnerability, followed by a community discussion",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207265586-1775207265543_6b8xq00olui.png",
+    "location": {
+      "name": "BLR Design Centre, Ashok Nagar",
+      "address": "BLR Design Centre, Ashok Nagar, ",
+      "url": "https://maps.app.goo.gl/qM3Wa8XF1AGGkgE1A"
+    },
+    "sameAs": "https://urbanaut.app/spot/blrreaderssociety",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Kho Ki Pa L\u00fc (Up Down & Sideways)",
+    "url": "https://puttingscene.com/events/3701",
+    "startDate": "2026-04-04T16:00:00+05:30",
+    "endDate": "2026-04-04T17:00:00+05:30",
+    "description": "An ethnographic documentary on Nagaland's village songs of land and love, followed by a conversation with filmmakers Meenakshi and Srikumar",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207300642-1775207300582_1y3lakzzhyr.png",
+    "location": {
+      "name": "Indian Music Experience Museum, JP Nagar",
+      "address": "Indian Music Experience Museum, JP Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Music%20Experience%20Museum%2C%20Bengaluru"
+    },
+    "sameAs": "https://urbanaut.app/spot/kho-ki-pa-lu-up-down-sideways",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "The Easter Cake Studio",
     "url": "https://puttingscene.com/events/3671",
     "startDate": "2026-04-04T17:30:00+05:30",
@@ -400,6 +332,170 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Comedy Play: It's Not You, It's Me",
+    "url": "https://puttingscene.com/events/3703",
+    "startDate": "2026-04-04T18:00:00+05:30",
+    "endDate": "2026-04-04T19:00:00+05:30",
+    "description": "A house-full comedy showcase of short, witty stories about modern love, from office romances to long-distance heartbreak",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207650942-1775207650728_ispeqqjucz.png",
+    "location": {
+      "name": "Vyoma ArtSpace and Studio Theatre, JP Nagar",
+      "address": "Vyoma ArtSpace and Studio Theatre, JP Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vyoma%20ArtSpace%20and%20Studio%20Theatre%2C%20Bengaluru"
+    },
+    "sameAs": "https://in.bookmyshow.com/plays/it-s-not-you-it-s-me/ET00446995",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "350.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "SHAAN Live",
+    "url": "https://puttingscene.com/events/3707",
+    "startDate": "2026-04-04T18:30:00+05:30",
+    "endDate": "2026-04-04T19:30:00+05:30",
+    "description": "Shaan, one of Bollywood\u2019s most recognisable voices, performs a live set of hits across genres and languages",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207845327-1775207845268_hz9gluhq1s4.png",
+    "location": {
+      "name": "Phoenix Marketcity, Mahadevapura",
+      "address": "Phoenix Marketcity, Mahadevapura, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix+Marketcity+Bengaluru+Whitefield+Main+Road+Devasandra+Industrial+Estate+Mahadevapura+Bengaluru+Karnataka+560048"
+    },
+    "sameAs": "https://in.bookmyshow.com/events/shaan-live-in-bengaluru/ET00470931",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "1199.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Andrea Jeremiah Live",
+    "url": "https://puttingscene.com/events/3708",
+    "startDate": "2026-04-04T18:30:00+05:30",
+    "endDate": "2026-04-04T19:30:00+05:30",
+    "description": "South Indian cinema's Andrea Jeremiah performs a live concert of soulful melodies and high-energy tracks across Kannada, Tamil and Telugu",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207866784-1775207866639_5w2gaeuczrk.png",
+    "location": {
+      "name": "ITI Sports Grounds, Krishnarajapuram",
+      "address": "ITI Sports Grounds, Krishnarajapuram, Bangalore",
+      "url": "https://maps.app.goo.gl/W4xSpWs4L3ZkKSXX7"
+    },
+    "sameAs": "https://in.bookmyshow.com/events/andrea-live-concert-at-bangalore/ET00485062",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "1499.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "AVATARANA - The Story of Natya",
+    "url": "https://puttingscene.com/events/3709",
+    "startDate": "2026-04-04T18:30:00+05:30",
+    "endDate": "2026-04-04T19:30:00+05:30",
+    "description": "A performance blending storytelling and classical dance, tracing the 2,500-year history of Natya",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207908347-1775207908058_k3v5nwnbn4.png",
+    "location": {
+      "name": "Yuvapatha, Jayanagar",
+      "address": "Yuvapatha, Jayanagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yuvapatha%2C%20Jayanagar%2C%20Bengaluru"
+    },
+    "sameAs": "https://www.instagram.com/reels/DWjIXGWkvfb/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "150.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Somad Lab Presents Katayanagi Twins, Gauriwho, Aditee, Doublet, Babvairl & Devyani",
+    "url": "https://puttingscene.com/events/3698",
+    "startDate": "2026-04-04T19:00:00+05:30",
+    "endDate": "2026-04-04T20:00:00+05:30",
+    "description": "New Zealand DJ duo Katayanagi Twins, known for Boiler Room and Glastonbury, headline a night of global club music",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207144727-1775207144530_gd3qpie2e3f.png",
+    "location": {
+      "name": "Daddy Bengaluru, Indiranagar",
+      "address": "Daddy Bengaluru, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daddy%2C%20Indiranagar%2C%20Bengaluru"
+    },
+    "sameAs": "https://link.district.in/DSTRKT/pcjkne6j",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "499.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Shubha Mudgal",
+    "url": "https://puttingscene.com/events/3702",
+    "startDate": "2026-04-04T19:00:00+05:30",
+    "endDate": "2026-04-04T20:00:00+05:30",
+    "description": "Padma Shri vocalist Shubha Mudgal interprets classic Indian poetry through Hindustani classical music, exploring the woman's gaze on desire and beauty",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207618010-1775207617728_dr22hnfuv.png",
+    "location": {
+      "name": "Indian Music Experience Museum, JP Nagar",
+      "address": "Indian Music Experience Museum, JP Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Music%20Experience%20Museum%2C%20Bengaluru"
+    },
+    "sameAs": "https://urbanaut.app/spot/shubha-mudgal",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Deep Waters Ft. Tasnneem, Envu, Kishan & Sam",
+    "url": "https://puttingscene.com/events/3706",
+    "startDate": "2026-04-04T19:00:00+05:30",
+    "endDate": "2026-04-04T20:00:00+05:30",
+    "description": "Tasnneem, a Qilla Records artist known for deep house and melodic techno, leads a night of melodic electronic sets",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207720557-1775207720430_r97h2k9137e.png",
+    "location": {
+      "name": "The Burrow, Gandhi Nagar",
+      "address": "The Burrow, Gandhi Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Burrow%2C+37%2C+High+Grounds%2C+Crescent+Road%2C+Seshadripuram%2C+Bangalore%2C+Karnataka%2C+India"
+    },
+    "sameAs": "https://gatherly.to/event/46/deep-waters-040426-tasnneem-envu-kishan-sam",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "THT x Oaf Big Gigs 8: Meewakching & Hoirong",
+    "url": "https://puttingscene.com/events/3705",
+    "startDate": "2026-04-04T20:00:00+05:30",
+    "endDate": "2026-04-04T21:00:00+05:30",
+    "description": "Imphal's neo-psychedelic Meewakching and Bengaluru punk act Hoirong share a stage at The Humming Tree for oafBigGigs edition 8",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/04/03/1775207769648-1775207769593_tjn686cv2zk.png",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
+    },
+    "sameAs": "https://www.skillboxes.com/events/tht-presents-oafbiggigs-ed-8-ft-signal-w-goa-meewakching-imphal-hoirong-bangalore",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "499.00",
+        "priceCurrency": "INR"
       }
     ]
   },
@@ -555,6 +651,30 @@
   },
   {
     "@type": "Event",
+    "name": "A Seriously Fun Easter",
+    "url": "https://puttingscene.com/events/3628",
+    "startDate": "2026-04-05T12:30:00+05:30",
+    "endDate": "2026-04-05T23:30:00+05:30",
+    "description": "An Easter meal built around an egg hunt, live music, and small surprises across a playful afternoon",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3628/ae20115f-6f37-4dff-b7ae-912bb1aa7d62.jpg",
+    "location": {
+      "name": "Serious Slice, Cunningham Rd, Vasanth Nagar",
+      "address": "Serious Slice, Cunningham Rd, Vasanth Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Serious+Slice%2C+14%2C+Cunningham+Rd%2C+Vasanth+Nagar%2C+Bengaluru%2C+Karnataka+560052"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Full Cover",
+        "price": "500.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1000
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Sunday Eggscape",
     "url": "https://puttingscene.com/events/3629",
     "startDate": "2026-04-05T12:30:00+05:30",
@@ -594,6 +714,30 @@
   },
   {
     "@type": "Event",
+    "name": "Easter Eggstravaganza: Hot Cross Buns Making Experience",
+    "url": "https://puttingscene.com/events/3670",
+    "startDate": "2026-04-05T13:00:00+05:30",
+    "endDate": "2026-04-05T14:30:00+05:30",
+    "description": "Make hot cross buns from scratch, learning to mix, shape, and glaze them fresh from the oven",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3670/ffa0a121-27dd-4754-ba04-c503f0d8cc52.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "714.29",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Trippy Easter | MG Road",
     "url": "https://puttingscene.com/events/3659",
     "startDate": "2026-04-05T14:00:00+05:30",
@@ -615,6 +759,93 @@
         "remainingAttendeeCapacity": 40
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Easter Eggstravaganza: Hot Cross Buns Making Experience",
+    "url": "https://puttingscene.com/events/3670",
+    "startDate": "2026-04-05T14:30:00+05:30",
+    "endDate": "2026-04-05T16:00:00+05:30",
+    "description": "Make hot cross buns from scratch, learning to mix, shape, and glaze them fresh from the oven",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3670/ffa0a121-27dd-4754-ba04-c503f0d8cc52.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "714.29",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Easter Eggstravaganza: Hot Cross Buns Making Experience",
+    "url": "https://puttingscene.com/events/3670",
+    "startDate": "2026-04-05T16:00:00+05:30",
+    "endDate": "2026-04-05T17:30:00+05:30",
+    "description": "Make hot cross buns from scratch, learning to mix, shape, and glaze them fresh from the oven",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3670/ffa0a121-27dd-4754-ba04-c503f0d8cc52.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "714.29",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Easter Eggstravaganza: Hot Cross Buns Making Experience",
+    "url": "https://puttingscene.com/events/3670",
+    "startDate": "2026-04-05T17:30:00+05:30",
+    "endDate": "2026-04-05T19:00:00+05:30",
+    "description": "Make hot cross buns from scratch, learning to mix, shape, and glaze them fresh from the oven",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3670/ffa0a121-27dd-4754-ba04-c503f0d8cc52.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "714.29",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Yele Oota",
+    "url": "https://puttingscene.com/events/3694",
+    "startDate": "2026-04-05T18:30:00+05:30",
+    "endDate": "2026-04-05T20:30:00+05:30",
+    "description": "\u2018Yele Oota\u2019 uses dance to explore food, sharing, and the tension between scarcity and care",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3694/a7ca894d-fb6f-4d73-a1f3-a9e59428a70e.jpg",
+    "location": {
+      "name": "Science Gallery Bengaluru, Ganganagar",
+      "address": "Science Gallery Bengaluru, Ganganagar, ",
+      "url": "https://maps.app.goo.gl/vZ9qas9kWdBJSzUs8"
+    },
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
