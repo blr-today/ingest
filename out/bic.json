@@ -36,30 +36,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "87502-1775502000-1775506500@bangaloreinternationalcentre.org",
-    "name": "Sound of Women",
-    "startDate": "2026-04-06T19:00:00+05:30",
-    "endDate": "2026-04-06T20:15:00+05:30",
-    "description": "The storytellers. The keepers of culture. The warriors of Kumaoni sound.\u00a0 \nKrantinaari (Ashwini Hiremath) and Charu Hariharan independently explored the corners of India in search of sounds, stories and inspiration. They found shades of the same story in every region: women excluded from expression, prohibited from even touching instruments. Their collaboration started with one question: why are women missing from the music scene? \nBorn from the radical belief that hip-hop is folk, they started Sound of Women to empower female artists across the country. The songs carry the weight of changing seasons, disappearing forests, and the emotional and economic impact of climate change on their lives. They speak of migration, leaving ancestral homes in search of survival, cities that offer work but not belonging, and of the longing to remain connected to land and identity. \nA revolution through rhythm; a reclamation of expression. \nSupported by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/sound-of-women/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Sound of Women"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/03/Thumbnail_SOW.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "87692-1775905200-1775912400@bangaloreinternationalcentre.org",
     "name": "Can Radical Transparency Transform Bengaluru?",
@@ -263,5 +239,25 @@
       "name": "In My Dreams"
     },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/03/Thumbnail_IMD.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "87863-1775991600-1775997000@bangaloreinternationalcentre.org",
+    "name": "Blueprints from the Sun",
+    "startDate": "2026-04-12T11:00:00+05:30",
+    "endDate": "2026-04-12T12:30:00+05:30",
+    "description": "\n\nDid you know you can make a photograph without a camera? \nIn 1843, botanist Anna Atkins created an entire book of her cyanotype photography, using nothing but natural light, water and iron chemistry. No camera. No darkroom. Just sunlight, being miraculous. \nThis workshop brings the 184-year-old process to the present. Place a leaf, a feather, or anything you like onto light-sensitive paper, let the sun work its magic, and wait. A pale, blank sheet goes into water. Your patience is rewarded when a deep Prussian blue image appears! \nA chance to play with light. Puja Das will show you how. \n\n\n\nAround the World in 50 Sundays\u00a0is a journey that begins, not with a ticket, but with opening a book. In a city like Bangalore where families are always in motion, the BIC Library hopes to offer stillness and a quiet, welcoming space for both parents and children where reading becomes a shared way of being and not a task. \nEvery Sunday, we open our doors to invite you into a library that listens; building a rhythm of return, a habit of joy and a new community bound not just by books, but by the weekly ritual of reading together. \nWe welcome your ideas and input. If you have suggestions for children\u2019s events or activities that align with this vision, we\u2019d love to hear from you. Please reach out to us at library@bangaloreinternationalcentre.org \nSupported by: \n \n\n",
+    "url": "https://bangaloreinternationalcentre.org/event/blueprints-from-the-sun/",
+    "keywords": [
+      "Around the World in 50 Sundays",
+      "Workshops"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-1.jpg"
   }
 ]
