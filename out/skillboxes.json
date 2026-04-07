@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Bengaluru, your favorite season has officially begun, and SkyDeck by Sherlock's is making sure you experience every single moment of it the way it was always meant to be experienced.LIVE. LOUD. On a Rooftop. Above MG Road",
+      "endDate": "2026-04-10T23:59:00",
+      "identifier": "com.skillboxes.35423",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775569943pupq41ffyl8X7GyE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "RCB vs RR IPL LIVE Screening",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "TICKET",
+            "url": "https://www.skillboxes.com/events/ticket/rcb-vs-rr-ipl-live-screening-2"
+         }
+      ],
+      "startDate": "2026-04-10T07:00:00",
+      "url": "https://www.skillboxes.com/events/rcb-vs-rr-ipl-live-screening-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Candle Light Kirtan & Bhajan Circle🎶 \r\n\r\n \r\n\r\nAs the room fills with the soft glow of candles , we experience the joy of Kirtan & Bhajan and share the peaceful energy ✨\r\n\r\n \r\n\r\nAham Community",
       "endDate": "2026-04-25T23:59:00",
       "identifier": "com.skillboxes.35404",
@@ -99,7 +133,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Step into a night where labels don’t matter — only the vibe does ⚡Whether you’re Single 🖤 or Taken 🤍, pick your side and show up in style. On 11th April, 8:30 PM onwards, we’re taking over",
+      "description": "Step into a night where labels don’t matter — only the vibe does ⚡\r\n\r\nWhether you’re Single 🖤 or Taken 🤍, pick your side and show up in style. On 11th April, 8:30 PM onwards, we’re taking over Kitty Ko, The L",
       "endDate": "2026-04-11T23:59:00",
       "identifier": "com.skillboxes.35387",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775480277Ce8SczFM5QQALxhh.jpg.webp",
@@ -230,7 +264,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to 1 couple. cover charge inr 1000/- per person applicable post 10pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "COUPLE PASS",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-siva-prayojan"
          },
@@ -238,7 +272,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "(Allows entry to 1 male )  cover charge inr 1000/- applicable post 10pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "MALE PASS",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-siva-prayojan"
          }
@@ -316,7 +350,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 96,
             "name": "FEMALE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-manners-at-yeda-republic-koramangala"
          },
@@ -324,7 +358,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 96,
             "name": "COUPLE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-manners-at-yeda-republic-koramangala"
          }
@@ -679,7 +713,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Existential Crisis Guaranteed\n",
-            "inventoryLevel": 54,
+            "inventoryLevel": 51,
             "name": "No Alarms, No Surprises - A Quiet Collapse",
             "url": "https://www.skillboxes.com/events/ticket/no-alarms-no-surprises-a-quiet-collapse"
          }
