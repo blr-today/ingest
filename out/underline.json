@@ -29,10 +29,10 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Screening of And Then We Danced (2019) with Cinema Next Door",
-      "sameAs": "https://underline.center/t/900",
+      "name": "Screening of Bound (1996) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/897",
       "startDate": "2026-04-28T19:30:00.000+05:30",
-      "url": "https://www.district.in/screening-of-and-then-we-danced-2019-with-cinema-next-door-apr28-2026/event"
+      "url": "https://www.district.in/screening-of-bound-1996-with-cinema-next-door-apr28-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -247,6 +247,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-04-11T20:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "SwapBook - Bengaluru Monthly Meetup",
+      "sameAs": "https://underline.center/t/377",
+      "startDate": "2026-04-11T18:00:00.000+05:30",
+      "url": "https://www.district.in/swapbook-bengaluru-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-04-11T23:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -278,6 +313,41 @@
       "sameAs": "https://underline.center/t/161",
       "startDate": "2026-04-11T18:00:00.000+05:30",
       "url": "https://www.district.in/magic-the-gathering-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-04-11T18:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Jigsaw Junkies by Playful Pursuits",
+      "sameAs": "https://underline.center/t/60",
+      "startDate": "2026-04-11T13:00:00.000+05:30",
+      "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
@@ -449,10 +519,10 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Screening of Bound (1996) with Cinema Next Door",
-      "sameAs": "https://underline.center/t/897",
+      "name": "Screening of And Then We Danced (2019) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/900",
       "startDate": "2026-04-07T19:30:00.000+05:30",
-      "url": "https://www.district.in/screening-of-bound-1996-with-cinema-next-door-apr7-2026/event"
+      "url": "https://www.district.in/screening-of-and-then-we-danced-2019-with-cinema-next-door-apr7-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -523,41 +593,6 @@
       "sameAs": "https://underline.center/t/894",
       "startDate": "2026-04-04T14:00:00.000+05:30",
       "url": "https://district.in/indiewebclub-meetup/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-04-03T17:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Jigsaw Junkies by Playful Pursuits",
-      "sameAs": "https://underline.center/t/60",
-      "startDate": "2026-04-03T12:00:00.000+05:30",
-      "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
@@ -978,41 +1013,6 @@
       "sameAs": "https://underline.center/t/885",
       "startDate": "2026-03-15T14:00:00.000+05:30",
       "url": "https://www.district.in/screening-of-aakrosh-1980-with-cinema-next-door-mar15-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-03-14T20:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "SwapBook - Bengaluru Monthly Meetup",
-      "sameAs": "https://underline.center/t/377",
-      "startDate": "2026-03-14T18:00:00.000+05:30",
-      "url": "https://www.district.in/swapbook-bengaluru-2025/event"
    },
    {
       "@context": "https://schema.org",
