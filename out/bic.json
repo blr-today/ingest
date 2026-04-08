@@ -37,6 +37,27 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "@id": "87752-1776510000-1776517200@bangaloreinternationalcentre.org",
+    "name": "Bookmarked",
+    "startDate": "2026-04-18T11:00:00+05:30",
+    "endDate": "2026-04-18T13:00:00+05:30",
+    "description": "Ink and story. Images and imagery. \nThis edition of Bookmarked is dedicated to a more visual form of storytelling: graphic novels. Bring along the series you\u2019ve been meaning to start, the standalone you keep putting off, or that indie zine picked up on a whim.  \nReading together in companionable quiet is its own pleasure. The (optional) discussion about our favourite panels, storylines or characters is a bonus.\u00a0And if your shelf is looking sparse, Atta Galatta have curated a selection of graphic novels just for us!\u00a0 \nThis event is part of our Programmes at the Library series at BIC. \nWe\u2019re reimagining the BIC Library as a warm, welcoming space for connection and exploration. Through thoughtfully curated sessions, we aim to engage the diverse interests and ages within our community. Our goal is to create an enriching environment for discovery, experimentation, and collaboration, beyond the books on our shelves! \nWe welcome your ideas and input. If you have ideas for events or activities that align with our vision, we\u2019d be delighted to hear from you. Please reach out to us at\u00a0library@bangaloreinternationalcentre.org \nIn collaboration with:\n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/bookmarked-19/",
+    "keywords": [
+      "Books",
+      "Literature",
+      "Visual Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail_BM_GN.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "@id": "87692-1775905200-1775912400@bangaloreinternationalcentre.org",
     "name": "Can Radical Transparency Transform Bengaluru?",
     "startDate": "2026-04-11T11:00:00+05:30",
@@ -129,30 +150,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "87253-1775674800-1775679300@bangaloreinternationalcentre.org",
-    "name": "In My Dreams",
-    "startDate": "2026-04-08T19:00:00+05:30",
-    "endDate": "2026-04-08T20:15:00+05:30",
-    "description": "Vibrant love, just out of reach. \nLUDMI on vocals, Aman Mahajan on piano, and Rohit PS on drums move between original music and reimagined jazz standards, drawing on flavours from across the world. Inspired by LUDMI\u2019s debut single In My Dreams, this is an evening of longing. Voice, piano, and drums respond to each other in real time: a concert in conversation.\u00a0 \nComposition and improvisation. Structure and spontaneity. Intimate and expansive.  \nSupported by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/in-my-dreams/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "In My Dreams"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/03/Thumbnail_IMD.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "87549-1776105000-1776110400@bangaloreinternationalcentre.org",
     "name": "India at the Inflection Point",
@@ -174,6 +171,31 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-30.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "87649-1776618000-1776625200@bangaloreinternationalcentre.org",
+    "name": "Being Bhaijaan",
+    "startDate": "2026-04-19T17:00:00+05:30",
+    "endDate": "2026-04-19T19:00:00+05:30",
+    "description": "80 minutes | Hindi with English subtitles | 2014 | India \nWhat makes a star a god? \nBeing Bhaijaan\u00a0explores Indian masculinity through the lives of three Salman Khan fans in small-town India, men who have built their bodies, their friendships, their very sense of self around a star. On the surface, it is a film about fandom. Look closer and it becomes a meditation on faith, on masculinity, on the very human need to find a god you can believe in: flaws, court cases, and all.\u00a0 \nDirectors Samreen Farooqui and Shabani Hassanwalia (joining virtually) will be in conversation with Aastha Chauhan following the screening. They will discuss masculinity, identity, aspiration, and the emotional worlds men quietly build around cinema. The floor will then open to audience questions. \nAbout the Organiser:\nThe Drawing Room Club is a Bangalore-based community that hosts intimate, conversation-forward gatherings. They aim to make the city feel less anonymous and a little more like home. Past gatherings have included Letters to Strangers and Letters of Hope. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/being-bhaijaan/",
+    "keywords": [
+      "Film",
+      "Gender"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "hi",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Being Bhaijaan"
+    },
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-34.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -246,28 +268,26 @@
   {
     "@context": "https://schema.org",
     "@type": "MusicEvent",
-    "@id": "87782-1776533400-1776542400@bangaloreinternationalcentre.org",
-    "name": "The GTN Centenary Confluence",
-    "startDate": "2026-04-18T17:30:00+05:30",
-    "endDate": "2026-04-18T20:00:00+05:30",
-    "description": "\u201cMusic is my breath, literature my body, and science my food.\u201d \nThe G. T. Narayana Rao Centenary Celebration marks one hundred years since the birth of a thinker for whom knowledge, art, and inquiry were inseparable. The evening opens with an introduction to his life and work, setting the context for a legacy that continues to influence both intellectual and cultural life in Karnataka. \nThis is followed by a presentation on the Sanchi Foundation\u2019s initiatives in digital preservation and open knowledge. The Creative Commons release of the GTN Kannada Font, an effort that extends his commitment to making knowledge accessible, shared, and alive within the language.\u00a0 \nThe centenary lecture by science communicator Nagesh Hegde reflects on GTN\u2019s lifelong pursuit of scientific temper. Drawing from his work in communicating complex ideas with clarity, the lecture revisits the enduring relevance of rational inquiry in a rapidly changing world. \nThe evening concludes with a Carnatic vocal concert by T. M. Krishna, accompanied by Akkarai Sornalatha on violin, Charu Hariharan on mridangam, and Anirudh Athreya on kanjira. The performance brings together music and thought, echoing the spirit of a life that refused to separate the analytical from the aesthetic. \n\u00a0G.T. Narayana Rao: \nGuddehittalu Thimmappaiah Narayana Rao (1926\u20132008), fondly known as G. T. Narayana Rao or GTN, stands as one of modern Karnataka\u2019s most remarkable polymaths. Trained in mathematics at the University of Madras, GTN began his career as a lecturer and NCC Major, earning a reputation for discipline, clarity, and intellectual rigor. As Executive Editor of the science section of the Kannada Vishwakosha at the University of Mysore, Rao played a pioneering role in developing a scientific vocabulary in Kannada. His work made complex ideas in physics, astronomy, and mathematics accessible to generations of students and readers, helping democratize scientific knowledge in the regional language.\u00a0 \nA prolific author of sixty books, Rao championed the cultivation of a scientific temper, writing extensively on fundamental science, biographies of great scientists, and rationalist thought. He also led cultural initiatives like Ganabharathi, leaving behind enduring contributions to both science and the arts.\u00a0 \nAs we celebrate his centenary, we honour not just a scholar, but a visionary who redefined the possibilities of knowledge in Kannada and inspired generations to think, question, and create. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-gtn-centenary-confluence/",
+    "@id": "87253-1775674800-1775679300@bangaloreinternationalcentre.org",
+    "name": "In My Dreams",
+    "startDate": "2026-04-08T19:00:00+05:30",
+    "endDate": "2026-04-08T20:15:00+05:30",
+    "description": "Vibrant love, just out of reach. \nLUDMI on vocals, Aman Mahajan on piano, and Rohit PS on drums move between original music and reimagined jazz standards, drawing on flavours from across the world. Inspired by LUDMI\u2019s debut single In My Dreams, this is an evening of longing. Voice, piano, and drums respond to each other in real time: a concert in conversation.\u00a0 \nComposition and improvisation. Structure and spontaneity. Intimate and expansive.  \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/in-my-dreams/",
     "keywords": [
-      "In Memory",
       "Music",
-      "Performing Arts",
-      "Science"
+      "Performing Arts"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
-    "inLanguage": "kn",
+    "inLanguage": "en",
     "workPerformed": {
       "@type": "CreativeWork",
-      "name": "The GTN Centenary Confluence"
+      "name": "In My Dreams"
     },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail_GTNCC.jpg"
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/03/Thumbnail_IMD.jpg"
   },
   {
     "@context": "https://schema.org",
