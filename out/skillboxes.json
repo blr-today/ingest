@@ -2,6 +2,76 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Circle Studio presents D Strings",
+      "endDate": "2026-04-11T23:59:00",
+      "identifier": "com.skillboxes.35438",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17756245806DxSgp3PtdddriK4.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy. No. 41/9, BBMP No. 154/41/9, Doddakanneli, Sarjapur Main Rd, P.Krishnappa Layout, Carmelram, Doddakannelli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9084602",
+            "longitude": "77.6902314"
+         },
+         "name": "The Golden Circle Brewery"
+      },
+      "name": "Circle Studio presents D Strings",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Ticket price fully redeemable at F&B.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass (Full Cover)",
+            "url": "https://www.skillboxes.com/events/ticket/circle-studio-presents-d-strings"
+         }
+      ],
+      "startDate": "2026-04-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/circle-studio-presents-d-strings"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into a night where music transcends boundaries and touches the soul. The Golden Circle Brewery invites you to experience an unforgettable evening of Sufi magic with Sukoon Wali Qawwali—a performance that blends tradition, passion, and p",
+      "endDate": "2026-04-26T23:59:00",
+      "identifier": "com.skillboxes.35437",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775623490g6PcjolAWKF6y7O0.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy. No. 41/9, BBMP No. 154/41/9, Doddakanneli, Sarjapur Main Rd, P.Krishnappa Layout, Carmelram, Doddakannelli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9084602",
+            "longitude": "77.6902314"
+         },
+         "name": "The Golden Circle Brewery"
+      },
+      "name": "Sukoon Wali Qawwali",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry for 1 individual. A cover charge of INR 999 is applicable at the venue, fully redeemable against food and beverages.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-1"
+         }
+      ],
+      "startDate": "2026-04-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/sukoon-wali-qawwali-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Bengaluru, your favorite season has officially begun, and SkyDeck by Sherlock`s is making sure you experience every single moment of it the way it was always meant to be experienced.LIVE. LOUD. On a Rooftop. Above MG Road.",
       "endDate": "2026-04-12T23:59:00",
       "identifier": "com.skillboxes.35427",
@@ -698,8 +768,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 994,
-            "name": "Early Bird GA Pass",
+            "description": "Additional cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-x-uberkikz"
          },
          {
@@ -707,6 +778,13 @@
             "availability": "InStock",
             "inventoryLevel": 997,
             "name": "Groove Box Pass",
+            "url": "https://www.skillboxes.com/events/ticket/oscillate-x-uberkikz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 993,
+            "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/oscillate-x-uberkikz"
          }
       ],
@@ -850,7 +928,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 991,
+            "inventoryLevel": 990,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/ikat-itihaas-kahaani"
          }
@@ -1053,7 +1131,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 988,
+            "inventoryLevel": 985,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/vehement-era-presents-entropy-ritual"
          }
@@ -1088,7 +1166,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 34,
+            "inventoryLevel": 26,
             "name": "Phase I",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
@@ -1259,25 +1337,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Grants entry to the festival and reserves a spot at the tattoo station. Timings: All day\n",
-            "inventoryLevel": 10,
-            "name": "Tattoo Slot",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Grants entry to the festival\n",
             "inventoryLevel": 500,
             "name": "Regular Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants entry to the festival and reserves a spot at the workshop. Workshop timings: 2:30PM - 4:30PM\n",
-            "inventoryLevel": 29,
-            "name": "How to Draw Faces Workshop",
             "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-4"
          }
       ],
@@ -1347,7 +1409,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 257,
+            "inventoryLevel": 231,
             "name": "Entry Ticket + Cover",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
          },
@@ -1577,23 +1639,23 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to India’s first 24 Songs Festival.\n",
-            "inventoryLevel": 84,
+            "inventoryLevel": 79,
             "name": "Festival Pass",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Bring your +1. We’ll handle the 24 moments.\n",
-            "inventoryLevel": 3,
-            "name": "Duo Pass",
+            "description": "Bring your +1. We’ll handle the 24 moments.\nPhase 1 of Duo Pass",
+            "inventoryLevel": 5,
+            "name": "Duo Phase I",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Pull up with your people.\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 3,
             "name": "Group Pass (4 People)",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          },
@@ -1611,6 +1673,14 @@
             "description": "The early crowd always gets the best stories.\n",
             "inventoryLevel": 0,
             "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Bring your +1. We’ll handle the 24 moments.\n",
+            "inventoryLevel": 0,
+            "name": "Duo Pass",
             "url": "https://www.skillboxes.com/events/ticket/24-songs-festival"
          }
       ],
@@ -1643,7 +1713,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 236,
+            "inventoryLevel": 235,
             "name": "Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-warm-up-party"
          },
@@ -1687,7 +1757,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 42,
+            "inventoryLevel": 41,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1879,7 +1949,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 284,
+            "inventoryLevel": 282,
             "name": "Apocalyptic Grid",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2"
          }
