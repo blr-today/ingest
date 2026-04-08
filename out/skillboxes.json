@@ -2,6 +2,61 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Earth Day at Treehouse 🌿\nAn evening to pause, listen, and feel something for the planet.\nWe’re bringing together a small gathering of 40 people for an intimate Earth Day experience—one tha",
+      "endDate": "2026-04-25T21:00:00",
+      "identifier": "com.skillboxes.35464",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MnhpWXpIdWllSDY2OUUwOXVOaVQvQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775661924fvQ7bXsZ5KJMBX7P.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Fundraiser Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Earth Day Workshop & Live Music at TreeHouse",
+      "offers": [ ],
+      "startDate": "2026-04-25T18:00:00",
+      "url": "https://www.skillboxes.com/events/earth-day-sundowner"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Pioneer, Innovator, and Diva — Gauhar Jaan was all of these. The first Indian musician to make a record at the turn of the century, she saw the future and conquered the many challenges that recording posed at the time. She managed to retai",
+      "endDate": "2026-04-18T22:00:00",
+      "identifier": "com.skillboxes.35460",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VUFuV0hWdndXNGgyb0VUSjdsdDE5dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775661352bE3Sd7fKhKgIzOIc.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Culture and Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground Floor, 30, Crescent Rd, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9851292",
+            "longitude": "77.580686"
+         },
+         "name": "Nerlu Cafe"
+      },
+      "name": "The Revolver Club - Record Store Day 2026 (Bengaluru)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 150,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/the-revolver-club-record-store-day-2026-bengaluru"
+         }
+      ],
+      "startDate": "2026-04-18T12:00:00",
+      "url": "https://www.skillboxes.com/events/the-revolver-club-record-store-day-2026-bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Bedroom Dance Party presents: Chan’s Birthday Set 🎂✨ATTENTION CHAN CLAN! We’re keeping it close-knit and cozy for a very special birthday celebration. No guest list fluff, no",
       "endDate": "2026-04-17T23:59:00",
       "identifier": "com.skillboxes.35457",
@@ -138,41 +193,6 @@
       ],
       "startDate": "2026-04-12T19:00:00",
       "url": "https://www.skillboxes.com/events/rcb-vs-mi-ipl-live-screening"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "After Hours",
-      "endDate": "2026-04-08T23:59:00",
-      "identifier": "com.skillboxes.35425",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775572517xfPsErgUZI04YJFb.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9684535",
-            "longitude": "77.716821"
-         },
-         "name": "DoubleTree by Hilton Bengaluru Whitefield"
-      },
-      "name": "After Hours",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Fully Redeemable for 2 Cocktails\n",
-            "inventoryLevel": 1000,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/after-hours-17"
-         }
-      ],
-      "startDate": "2026-04-08T21:00:00",
-      "url": "https://www.skillboxes.com/events/after-hours-17"
    },
    {
       "@context": "https://schema.org",
@@ -497,49 +517,6 @@
       ],
       "startDate": "2026-04-09T20:00:00",
       "url": "https://www.skillboxes.com/events/bolly-afro-ft-dj-sukant-x-revibe-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Break the routine, feel the madness.This Wednesday, Yeda Republic turns into your midweek escape with Senelo & Manners spinning nonstop vibes all night long 🎶",
-      "endDate": "2026-04-08T23:59:00",
-      "identifier": "com.skillboxes.35357",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775395063Rn1qDLPwMXdoSr03.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MIDWEEK MADNESS FT.  SENLEO X MANNERS AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 96,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-manners-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 96,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-manners-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-04-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/midweek-madness-ft-senleo-x-manners-at-yeda-republic-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -1416,48 +1393,6 @@
       ],
       "startDate": "2026-04-11T20:00:00",
       "url": "https://www.skillboxes.com/events/big-city-germs-india-tour-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "sudan\r\n\r\nsudan is the moniker used by Pritpal Sudan - a producer, songwriter, and multi-instrumentalist based out of Bombay, India. At 23, he’s already left a distinct mark on every facet of his craft. From his acclaime",
-      "endDate": "2026-04-08T23:55:00",
-      "identifier": "com.skillboxes.34663",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17731509483NuA2nQ9hBGnnNrU.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Grassroots Wednesdays with sudan and Janisht Joshi",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A mandatory cover charge will be applicable at the doors\n",
-            "inventoryLevel": 231,
-            "name": "Entry Ticket + Cover",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-sudan-and-janisht"
-         }
-      ],
-      "startDate": "2026-04-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-sudan-and-janisht"
    },
    {
       "@context": "https://schema.org",
