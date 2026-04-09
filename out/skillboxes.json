@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "This Saturday, Skydeck by Sherlock's transforms into a vibrant hub of excitement! Join us for the ultimate Bollywood & Commercial dance party under the stars.Let loose on our rooftop dance floor, surrounded by the city's skyl",
+      "endDate": "2026-04-11T23:59:00",
+      "identifier": "com.skillboxes.35498",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/177574089764U9M2xS7YWXDSgl.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Bollywood & Commercial DJ Night - Sherlock Nights",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-commercial-dj-night-sherlock-nights"
+         }
+      ],
+      "startDate": "2026-04-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollywood-commercial-dj-night-sherlock-nights"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready to turn up the heat this summer with Citrus & Sass – a vibrant, high-energy night where bold personalities meet tropical vibes! 🌴🍊\nHappening on 12th April, this elect",
       "endDate": "2026-04-13T01:30:00",
       "identifier": "com.skillboxes.35478",
@@ -150,7 +184,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory COVER CHARGE applicable at gates\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/bedroom-dance-party-the-chan-edition-indiranagarsocial"
          }
@@ -579,7 +613,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 97,
+            "inventoryLevel": 96,
             "name": "COUPLE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/bolly-afro-ft-dj-sukant-x-revibe-at-yeda-republic-koramangala"
          }
@@ -743,7 +777,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 498,
+            "inventoryLevel": 496,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-subham-dindun"
          }
@@ -950,7 +984,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory cover charge of INR 500 applicable at the doors.\n",
-            "inventoryLevel": 492,
+            "inventoryLevel": 489,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-discopuppet-dolorblind"
          }
