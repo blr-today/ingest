@@ -41,7 +41,7 @@
         "price": "809.52",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -81,7 +81,7 @@
         "price": "295.76",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -260,7 +260,7 @@
         "price": "809.52",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -308,7 +308,7 @@
         "price": "747.62",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 93
+        "remainingAttendeeCapacity": 87
       },
       {
         "@type": "Offer",
@@ -430,30 +430,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Monkey%20Bar&query_place_id=ChIJzWN9rSoUrjsRiR5_FDQyN5k"
     },
     "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "TouchDesigner 101",
-    "url": "https://puttingscene.com/events/3747",
-    "startDate": "2026-04-11T14:00:00+05:30",
-    "endDate": "2026-04-11T16:00:00+05:30",
-    "description": "A hands-on introduction to TouchDesigner, the visual programming tool for real-time audio-reactive art, where you build, connect and experiment your way to unexpected visuals",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3747/d1ea360c-9a76-4b2f-a110-33c6c2520ff5.jpg",
-    "location": {
-      "name": "Paper Crane Lab",
-      "address": "Paper Crane Lab, ",
-      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "600.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
-      }
-    ]
   },
   {
     "@type": "Event",
