@@ -413,7 +413,7 @@
         "price": "747.62",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 87
+        "remainingAttendeeCapacity": 81
       },
       {
         "@type": "Offer",
@@ -493,7 +493,7 @@
         "price": "1271.19",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 19
+        "remainingAttendeeCapacity": 18
       }
     ]
   },
@@ -517,24 +517,9 @@
         "price": "1333.33",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 15
+        "remainingAttendeeCapacity": 14
       }
     ]
-  },
-  {
-    "@type": "Event",
-    "name": "Flavour Riot with Odd Pizza",
-    "url": "https://puttingscene.com/events/3729",
-    "startDate": "2026-04-11T12:00:00+05:30",
-    "endDate": "2026-04-12T18:00:00+05:30",
-    "description": "Odd Pizza brings its Goa-born square pies and bold toppings to a first-ever pop-up at Monkey Bar",
-    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3729/90b655c3-6119-4ee4-9d45-87809238165f.jpg",
-    "location": {
-      "name": "Monkey Bar",
-      "address": "Monkey Bar, ",
-      "url": "https://www.google.com/maps/search/?api=1&query=Monkey%20Bar&query_place_id=ChIJzWN9rSoUrjsRiR5_FDQyN5k"
-    },
-    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -758,6 +743,21 @@
   },
   {
     "@type": "Event",
+    "name": "Flavour Riot with Odd Pizza",
+    "url": "https://puttingscene.com/events/3729",
+    "startDate": "2026-04-12T12:00:00+05:30",
+    "endDate": "2026-04-12T18:00:00+05:30",
+    "description": "Odd Pizza brings its Goa-born square pies and bold toppings to a first-ever pop-up at Monkey Bar",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3729/90b655c3-6119-4ee4-9d45-87809238165f.jpg",
+    "location": {
+      "name": "Monkey Bar",
+      "address": "Monkey Bar, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=Monkey%20Bar&query_place_id=ChIJzWN9rSoUrjsRiR5_FDQyN5k"
+    },
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "Vishu at Coracle!",
     "url": "https://puttingscene.com/events/3757",
     "startDate": "2026-04-12T12:00:00+05:30",
@@ -904,7 +904,7 @@
         "price": "2760.95",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 18
+        "remainingAttendeeCapacity": 8
       }
     ]
   },
