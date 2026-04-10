@@ -99,6 +99,20 @@
   },
   {
     "@type": "Event",
+    "name": "Walk Into a Fragmented Forest: Opening Event",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-04-18T17:00:00+05:30",
+    "endDate": "2026-04-18T17:00:00+05:30",
+    "description": "How do you turn years of forest data into something you can walk through?\n\nJoin artists Shreni Sanghvi and Abhishek Kapahi for a walkthrough of their exhibit, Walk Into a Fragmented Forest, followed by talks about their collaboration with ecologist Meghna Krishnadas's lab at the National Centre for Biological Sciences. The collaboration draws on seedling census records, biochemistry, and field data from the Western Ghats to build a room of light, sand, and sound. Through their work, they reexamine ecological interactions through the lens of art. Post the talk, historian of science Jahnavi Phalkey and curator Ravi Agarwal will offer their reflections on the work and the need for interdisciplinary practice.\n\nThe work is an outcome of the Entangled Ecosystems Grant by Science Gallery Bengaluru and Shared Ecologies, an annual programme that brings art and ecology into conversation",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=fragmented-forest-opening",
+    "maximumAttendeeCapacity": "80"
+  },
+  {
+    "@type": "Event",
     "name": "Fermentation Table: A Supper Club",
     "location": {
       "@type": "Place",
@@ -109,6 +123,20 @@
     "endDate": "2026-04-19T18:30:00+05:30",
     "description": "How can fermentation become a part of everyday cooking?\n\n'Fermentation Table' is an immersive culinary experience featuring a 5-course fermentation-inspired meal, an interactive fermentation exhibit, and practical tips to help you start fermenting at home.\u00a0\n\nCreated by Chef Erika in collaboration with Scoby Labs, this experience will explore the science of fermentation and its role as a low-waste cooking technique, challenging you to use parts of vegetables that are often overlooked.\n\nShowcasing the health benefits and environmental impact of prolonging the life of ingredients that might otherwise go wasted, this event will introduce participants to new depths of flavours, rethinking how fermentation can become part of your everyday cooking.",
     "url": "https://sci560.scigalleryblr.org/programmes?p=fermentation-table",
+    "maximumAttendeeCapacity": "25"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Portraits of a Fragmented Forest",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-04-19T11:00:00+05:30",
+    "endDate": "2026-04-19T13:00:00+05:30",
+    "description": "How do you translate ecological data into a portrait?\n\nThe exhibition \u2018Walk Into a Fragmented Forest\u2019 draws on seedling census records, biochemistry, and field data from the Western Ghats to build a room of light, sand, and sound. In this workshop, participants collectively construct a portrait of a forest using ecological data from the Kadamane forest fragment.\n\nJoin artists Shreni Sanghvi and Abhishek Kapahi as you create a unique hand-made portrait and sonic signature of a species, moving from observation to data to expression.\n\nThe workshop culminates in a wall of fragmented portraits, connected through lines of chemical kinship.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=Portraits-of-a-Fragmented-Forest",
     "maximumAttendeeCapacity": "25"
   }
 ]
