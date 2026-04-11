@@ -1,37 +1,5 @@
 [
   {
-    "name": "Badminton Coaching-Beginner & Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-71",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Badminton",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-71",
-    "image": "https://sistersinsweat.com/images/event/20260408171134533.jpeg",
-    "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar",
-      "type": "Place"
-    },
-    "startDate": "2026-04-11T14:00:00+05:30",
-    "endDate": "2026-04-11T16:00:00+05:30"
-  },
-  {
     "name": "SIS X Two Brothers - Run & Brekkie",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Two-Brothers-Run-Breakfast-Sunday-12th-Apr",
@@ -256,38 +224,6 @@
     "endDate": "2026-04-17T08:30:00+05:30"
   },
   {
-    "name": "Run with the Sisters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun71",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Run",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun71",
-    "image": "https://sistersinsweat.com/images/event/20260214153703557.jpeg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2026-04-18T06:45:00+05:30",
-    "endDate": "2026-04-18T08:15:00+05:30"
-  },
-  {
     "name": "Women's Football Coaching - Beginner",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Beginner-Football-Sat-620",
@@ -382,6 +318,38 @@
     },
     "startDate": "2026-04-18T17:00:00+05:30",
     "endDate": "2026-04-18T20:30:00+05:30"
+  },
+  {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun71",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun71",
+    "image": "https://sistersinsweat.com/images/event/20260214153703557.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-04-19T06:45:00+05:30",
+    "endDate": "2026-04-19T08:15:00+05:30"
   },
   {
     "name": "SIS X FLAMINGO Jiu Jitsu",
