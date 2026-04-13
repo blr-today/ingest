@@ -177,6 +177,76 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-04-20T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Bangalore Puzzle Pals with Playful Pursuits",
+      "sameAs": "https://underline.center/t/14",
+      "startDate": "2026-04-20T18:30:00.000+05:30",
+      "url": "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-04-19T14:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Slow Sunday with Eleven AM Club",
+      "sameAs": "https://underline.center/t/764",
+      "startDate": "2026-04-19T11:00:00.000+05:30",
+      "url": "https://district.in/slow-sunday-with-eleven-am-club-apr19-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-04-18T23:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -277,7 +347,7 @@
       "name": "IndieWebClub #24",
       "sameAs": "https://underline.center/t/905",
       "startDate": "2026-04-18T14:00:00.000+05:30",
-      "url": "https://www.district.in/events/indiewebclub-meetup-buy-tickets"
+      "url": "https://www.district.in/indiewebclub-meetup/event"
    },
    {
       "@context": "https://schema.org",
@@ -453,41 +523,6 @@
       "sameAs": "https://underline.center/t/898",
       "startDate": "2026-04-14T19:30:00.000+05:30",
       "url": "https://www.district.in/screening-of-kamikaze-girls-2004-with-cinema-next-door-apr14-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-04-13T22:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Bangalore Puzzle Pals with Playful Pursuits",
-      "sameAs": "https://underline.center/t/14",
-      "startDate": "2026-04-13T18:30:00.000+05:30",
-      "url": "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
@@ -1678,41 +1713,6 @@
       "sameAs": "https://underline.center/t/849",
       "startDate": "2026-02-22T14:00:00.000+05:30",
       "url": "https://www.district.in/screening-of-boyfriends-girlfriends-1987-with-cinema-next-door-feb22-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-02-22T14:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Slow Sunday with Eleven AM Club",
-      "sameAs": "https://underline.center/t/764",
-      "startDate": "2026-02-22T11:00:00.000+05:30",
-      "url": "https://www.district.in/slow-sunday-by-the-eleven-am-club-oct12-2025/event"
    },
    {
       "@context": "https://schema.org",
