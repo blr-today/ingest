@@ -2,6 +2,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Corner Cafe Chronicles :Corner Cafe Chronicles (CCC) is an explosive alternative rock band from Mumbai, best known for sonic storytelling, genre-blending instrumentation, an",
+      "endDate": "2026-05-06T23:55:00",
+      "identifier": "com.skillboxes.35661",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776264143OWGhJ6OBmsU1e2Wg.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "Grassroots Wednesdays with Corner Cafe Chronicles & Mars Mansion Mystery",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges of INR 500 applicable at the doors\n",
+            "inventoryLevel": 500,
+            "name": "General Entry",
+            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-corner-cafe-chronicles-mars-mansion-mystery"
+         }
+      ],
+      "startDate": "2026-05-06T21:00:00",
+      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-corner-cafe-chronicles-mars-mansion-mystery"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "A 70-minute psychological experience about social conditioning and the performance of identity. It's an interactive mind reading show that tells personal stories that come from both Zaid and the audience. It's portable, intimate, and built for a",
       "endDate": "2026-05-02T21:30:00",
       "identifier": "com.skillboxes.35643",
@@ -151,7 +186,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 300,
+            "inventoryLevel": 286,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-vedik-b2b-devious-quest-apparitone-more"
          }
@@ -185,74 +220,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 950,
             "name": "RSVP/Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/indian-music-diaries-awards-26-showcase-bangalore"
          }
       ],
       "startDate": "2026-05-08T20:00:00",
       "url": "https://www.skillboxes.com/events/indian-music-diaries-awards-26-showcase-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "After Hours at Captain Chip’s Galley 🍸Step into an evening where stories flow as smoothly as the whisky.Join us at Captain Chip’s Galley at DoubleTree by Hilton Bengaluru Whitefield for an exclusive Paul John Takeo",
-      "endDate": "2026-04-15T23:59:00",
-      "identifier": "com.skillboxes.35614",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776165422DDvA0Z5jIhC1BFu0.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9684535",
-            "longitude": "77.716821"
-         },
-         "name": "DoubleTree by Hilton Bengaluru Whitefield"
-      },
-      "name": "After Hours",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Fully Redeemable\n",
-            "inventoryLevel": 1000,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/after-hours-18"
-         }
-      ],
-      "startDate": "2026-04-15T21:00:00",
-      "url": "https://www.skillboxes.com/events/after-hours-18"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "EducationEvent",
-      "description": "Join us on April 15th for an exclusive live quiz to test your market IQ! Whether you're a seasoned trader, a finance enthusiast, or just starting your investing journey, this is your chance to prove your knowledge and battle it out on the leaderbo",
-      "endDate": "2026-04-15T23:59:00",
-      "identifier": "com.skillboxes.35602",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/L3YybTVIZGZHR2t1L3R3V2tDMWJLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776153355c6ixS24PSjMJU7Py.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Workshops"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "StockGro Live Quiz: Identify the Biggest Names in the Stock Market!",
-      "offers": [ ],
-      "startDate": "2026-04-15T00:00:00",
-      "url": "https://www.skillboxes.com/events/stockgro-live-quiz-identify-the-biggest-names-in-the-stock-market"
    },
    {
       "@context": "https://schema.org",
@@ -431,25 +405,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female)\n",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elena-pavla-1"
          }
       ],
@@ -579,7 +593,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to one couple till 9:30PM only, Post 9:30PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 988,
             "name": "RSVP - COUPLE [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-ft-shiva-manvi-kym-wayne-a-early-2000s-throwback-party"
          },
@@ -679,49 +693,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Break the weekday routine and dive into pure madness at Yeda Republic 🔥🎧Featuring SENLEO x SULECTRO with electrifying sets to keep you grooving all night!Also featuring Sushant & Revibe 💥",
-      "endDate": "2026-04-15T23:59:00",
-      "identifier": "com.skillboxes.35549",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17759304235Q2cusbvyJiUdByW.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MIDWEEK MADNESS FT. SENLEO X SULECTRO AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-sulectro-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-madness-ft-senleo-x-sulectro-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-04-15T20:00:00",
-      "url": "https://www.skillboxes.com/events/midweek-madness-ft-senleo-x-sulectro-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Women's Circle -\r\n\r\n🌻She Breaks Open🌻\r\n\r\nBy Aham Community \r\n\r\n \r\n\r\nA space for  the females where you dont have to put together\r\n\r\n \r\n\r\nThis is not a “calm, cute, heali",
       "endDate": "2026-04-19T23:59:00",
       "identifier": "com.skillboxes.35510",
@@ -808,7 +779,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 38,
             "name": "Supporter",
             "url": "https://www.skillboxes.com/events/ticket/earth-day-sundowner"
          },
@@ -1214,41 +1185,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Dolorblind:Dolorblind (Rohan Sinha) is a Patna-born, Delhi-based music producer and visual artist whose sound fuses dystopia and nostalgia through heavy beats, obscure samples, and immersive te",
-      "endDate": "2026-04-15T23:59:00",
-      "identifier": "com.skillboxes.35226",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775623157najzcqd8HfkN9hZa.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Grassroots Wednesdays with Disco Puppet, Dolorblind and _RHL",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A mandatory cover charge of INR 500 applicable at the doors.\n",
-            "inventoryLevel": 466,
-            "name": "Entry",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-discopuppet-dolorblind"
-         }
-      ],
-      "startDate": "2026-04-15T21:00:00",
-      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-discopuppet-dolorblind"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "This event is a passionate initiative led by Kappa TV fame- Charumathy Shankar and Neeraja Shankar - Mom daughter duo of Carnatic Artistry. \r\n\r\nBringing their 1st live concert at Namma Ashram, with&nbs",
       "endDate": "2026-04-18T20:30:00",
       "identifier": "com.skillboxes.35105",
@@ -1314,7 +1250,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A ₹500 cover charge (fully redeemable on F&B) is also applicable\n",
-            "inventoryLevel": 482,
+            "inventoryLevel": 478,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/vishwi-live-the-multi-lingual-film-music-spectacle"
          },
@@ -1483,7 +1419,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Enjoy anytime entry to the Prints Party event! Anytime, all day and night, with full cover issued at the gate. Walk in like a VIP!\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 48,
             "name": "VIP | FULL COVER + ANYTIME ENTRY || Male",
             "url": "https://www.skillboxes.com/events/ticket/prints-party-bangalore"
          }
@@ -1494,10 +1430,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "A night of electrifying riffs, immersive soundscapes, and uncompromising guitar artistry returns—bringing together distinct guitar voices on one stage.\n\n \n\nDAD N' DAUGHTER",
+      "description": "A night of electrifying riffs, immersive soundscapes, and uncompromising guitar artistry returns—bringing together distinct guitar voices on one stage.MOTHERJANE: ",
       "endDate": "2026-04-30T23:59:00",
       "identifier": "com.skillboxes.34869",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a3doV2J1Mm5yYTM3d04wbmpWdGxaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1773806429pyCUzQgmREGpMRZx.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a3doV2J1Mm5yYTM3d04wbmpWdGxaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776271757nc71Pi49ibdL38XO.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Concerts"
@@ -1512,13 +1448,13 @@
          },
          "name": "The Humming Tree"
       },
-      "name": "Let There Be Guitar 2026: Dad N' Daughter, and Chirag Todi",
+      "name": "Let There Be Guitar 2026: Motherjane, Dad N' Daughter, and Chirag Todi",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 2,
             "name": "Phase I",
             "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
          },
@@ -1863,7 +1799,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 34,
+            "inventoryLevel": 33,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
@@ -1871,7 +1807,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 per day applicable at gates\n",
-            "inventoryLevel": 16,
+            "inventoryLevel": 15,
             "name": "Bangalore 2 day pass",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          },
