@@ -314,15 +314,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "Early Bird Pass",
+            "inventoryLevel": 999,
+            "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-janhit-mein-jaari-pre-tour-bangalore"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Regular Pass",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-janhit-mein-jaari-pre-tour-bangalore"
          }
       ],
@@ -431,7 +431,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 17,
             "name": "Participants Pass",
             "url": "https://www.skillboxes.com/events/ticket/pitara-by-kommune-bangalore-1"
          }
@@ -489,40 +489,6 @@
       ],
       "startDate": "2026-05-02T18:00:00",
       "url": "https://www.skillboxes.com/events/brigado-crew-live-in-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Burrow returns with brooding, silken house and techno from the finest local acts.Shadows move to the rhythm, shaping a night of deep grooves and dark intentions.Step in and let it take over?Devious Quest b2b Ved",
-      "endDate": "2026-04-17T23:00:00",
-      "identifier": "com.skillboxes.35620",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TnVON0pTQTdTRU1xaGtqZ2VSdGZHdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776175029ooXK7cSzQSiNnMmU.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "The Burrow Presents - Vedik b2b Devious Quest, Apparitone & More",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 277,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-vedik-b2b-devious-quest-apparitone-more"
-         }
-      ],
-      "startDate": "2026-04-17T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-burrow-presents-vedik-b2b-devious-quest-apparitone-more"
    },
    {
       "@context": "https://schema.org",
@@ -619,54 +585,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 120,
+            "inventoryLevel": 118,
             "name": "Live Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/manchester-city-vs-arsenal-live-screening-watson-s-indiranagar-bangalore"
          }
       ],
       "startDate": "2026-04-19T21:00:00",
       "url": "https://www.skillboxes.com/events/manchester-city-vs-arsenal-live-screening-watson-s-indiranagar-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Queens, it’s your night to shine ✨Step into glam, beats & unstoppable vibes at Gala Queens 💙Let the music take over and the night belong to you!",
-      "endDate": "2026-04-17T23:59:00",
-      "identifier": "com.skillboxes.35593",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776091726O459f49gxmkuBcXj.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "GALA QUEENS FT. SAROU AT YEDA REPUBLIC KORMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-sarou-at-yeda-republic-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-sarou-at-yeda-republic-kormangala"
-         }
-      ],
-      "startDate": "2026-04-17T20:00:00",
-      "url": "https://www.skillboxes.com/events/gala-queens-ft-sarou-at-yeda-republic-kormangala"
    },
    {
       "@context": "https://schema.org",
@@ -1084,41 +1009,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bedroom Dance Party presents: Chan’s Birthday Set 🎂✨\r\n\r\nATTENTION CHAN CLAN! We’re keeping it close-knit and cozy for a very special birthday celebration. No guest list fluff, no drama—just Chan and Priaa taking over ",
-      "endDate": "2026-04-17T23:59:00",
-      "identifier": "com.skillboxes.35457",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775655775Qtr7jsyyGzDMTWe5.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707654",
-            "longitude": "77.6476266"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "Bedroom Dance Party - The Chan Edition. #INDIRANAGARSOCIAL",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory COVER CHARGE applicable at gates\n",
-            "inventoryLevel": 973,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/bedroom-dance-party-the-chan-edition-indiranagarsocial"
-         }
-      ],
-      "startDate": "2026-04-17T21:00:00",
-      "url": "https://www.skillboxes.com/events/bedroom-dance-party-the-chan-edition-indiranagarsocial"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Step into a night where music transcends boundaries and touches the soul. The Golden Circle Brewery invites you to experience an unforgettable evening of Sufi magic with Sukoon Wali Qawwali—a performance that blends tradition, passion, and p",
       "endDate": "2026-04-26T23:59:00",
       "identifier": "com.skillboxes.35437",
@@ -1211,7 +1101,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 17,
+            "inventoryLevel": 15,
             "name": "Regular Entry",
             "url": "https://www.skillboxes.com/events/ticket/minority-report-an-out-of-the-box-comedy-show"
          }
@@ -1222,7 +1112,7 @@
    {
       "@context": "https://schema.org",
       "@type": "EducationEvent",
-      "description": "Abhinav Varma is a versatile and accomplished guitarist from Bangalore, India and has performed at several music festivals and shows across the country with his quartet of flamenco musicians.Having ",
+      "description": "Rainbow Bridge present Music workshop with Abhinav Varma who is a versatile and accomplished guitarist from Bangalore, India and has performed at several music festivals and shows across the country with his quartet of flamenco ",
       "endDate": "2026-04-18T20:00:00",
       "identifier": "com.skillboxes.35332",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MVRyeFJJWVk3RXdKbnVMR2JRSlcrUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1775288943HimrKI4Ld2uw2cnF.jpg.webp",
@@ -1245,7 +1135,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 47,
+            "inventoryLevel": 41,
             "name": "Rainbow Bridge Workshop with Abhinav Varma (An insight into flamenco & classical guitar)",
             "url": "https://www.skillboxes.com/events/ticket/an-insight-into-flamenco-classical-guitar-with-abhinav-varma"
          }
@@ -1280,7 +1170,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 495,
+            "inventoryLevel": 494,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-suvankar-other-stories-sage-for-the-ages-the-radha-thomas-trio-world-jazz-day-special"
          }
@@ -1393,7 +1283,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Existential Crisis Guaranteed\n",
-            "inventoryLevel": 42,
+            "inventoryLevel": 41,
             "name": "No Alarms, No Surprises - A Quiet Collapse",
             "url": "https://www.skillboxes.com/events/ticket/no-alarms-no-surprises-a-quiet-collapse"
          }
@@ -1891,49 +1781,6 @@
       ],
       "startDate": "2026-04-18T21:30:00",
       "url": "https://www.skillboxes.com/events/sage-for-the-ages-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Sage for The Ages creates immersive music for the dreamer-listener — soundscapes where jazz improvi",
-      "endDate": "2026-04-17T23:00:00",
-      "identifier": "com.skillboxes.34356",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1772106583EiL1oJ0DR4zJQ4kb.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9825325",
-            "longitude": "77.7217732"
-         },
-         "name": "Windmills Craftworks, Whitefield"
-      },
-      "name": "Sage for the Ages",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/sage-for-the-ages"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/sage-for-the-ages"
-         }
-      ],
-      "startDate": "2026-04-17T21:30:00",
-      "url": "https://www.skillboxes.com/events/sage-for-the-ages"
    },
    {
       "@context": "https://schema.org",

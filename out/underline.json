@@ -134,7 +134,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Quiz Quest with Berty Ashley and QZ Vault",
+      "name": "QM Workshop and Meetup with Berty Ashley and QZ Vault",
       "sameAs": "https://underline.center/t/908",
       "startDate": "2026-04-26T14:30:00.000+05:30"
    },
@@ -242,6 +242,41 @@
       "sameAs": "https://underline.center/t/904",
       "startDate": "2026-04-24T21:00:00.000+05:30",
       "url": "https://www.district.in/the-hunger-games-by-tasty-trivia-apr11-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-04-24T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "The Silliest Show Tonight by Improv Lore",
+      "sameAs": "https://underline.center/t/823",
+      "startDate": "2026-04-24T21:00:00.000+05:30",
+      "url": "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
@@ -592,41 +627,6 @@
       "sameAs": "https://underline.center/t/905",
       "startDate": "2026-04-18T14:00:00.000+05:30",
       "url": "https://www.district.in/indiewebclub-meetup/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-04-17T22:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Silliest Show Tonight by Improv Lore",
-      "sameAs": "https://underline.center/t/823",
-      "startDate": "2026-04-17T21:00:00.000+05:30",
-      "url": "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
