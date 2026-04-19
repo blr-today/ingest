@@ -271,7 +271,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -440,7 +440,7 @@
         "price": "875.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 17
       }
     ]
   },
@@ -502,30 +502,6 @@
         "@type": "Offer",
         "price": "1800.00",
         "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Little Folds Of Pasta - A Guided Fresh Pasta Workshop",
-    "url": "https://puttingscene.com/events/3856",
-    "startDate": "2026-04-19T17:00:00+05:30",
-    "endDate": "2026-04-19T18:30:00+05:30",
-    "description": "A hands-on class making cheesy corn ravioli from scratch, served in a choice of mascarpone cream or spicy mango mint pesto",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3856%2Fb34aaf19-d67e-4618-80c2-7fa70e7e7735.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "852.38",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
       }
     ]
   },
