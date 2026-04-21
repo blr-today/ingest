@@ -1,6 +1,32 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "88126-1777807800-1777811400@bangaloreinternationalcentre.org",
+    "name": "Gabbu Kathe",
+    "startDate": "2026-05-03T11:30:00+05:30",
+    "endDate": "2026-05-03T12:30:00+05:30",
+    "description": "Gabbu, the Garbage King, was born from human neglect and forgotten waste. One day, a sharp and curious ragpicker finds him.\u00a0 \nThrough Kathak, contemporary movement, mime, humour and multimedia elements, this dance-drama balances satire with tenderness. Children and families are invited into a fantasy world in which discarded objects hold memories and tales of their own. At the end of the performance, children will be taught a short section of the choreography they witnessed.\u00a0 \nWaste is not the end of a cycle, but rather the beginning of a conversation around renewal, empathy and collective action.\u00a0 \nCredits:\nConcept, Script, Design & Direction: Keerthi Kumar & Roopa Krishnamurthy\nOriginal music score: Praveen D Rao & Sagar Gururaj\nArtwork: Rohit Bhasi\nPerformed: Roopa, Keerthi Kumar, Bharat Rajan, Ashwin\nChoreographic Supervision & Lighting Design: Yonitha Jain\nCommissioned by Alif Arts as part of BLR Hubba\nProduced by ARTMOS \n\nThis event is a part of our programming to celebrate World Dance Day 2026,\u00a0\u2018The\u00a0Many Lives of Dance\u2019. \n\n\nSupported by:\n\n",
+    "url": "https://bangaloreinternationalcentre.org/event/gabbu-kathe/",
+    "keywords": [
+      "Dance",
+      "Performing Arts",
+      "Theatre",
+      "Young BIC"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Gabbu Kathe"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-6.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "88193-1777644000-1777651200@bangaloreinternationalcentre.org",
     "name": "Illuminating Dance",
@@ -43,26 +69,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "@id": "88027-1777316400-1777321800@bangaloreinternationalcentre.org",
-    "name": "D\u0101ri | The Path",
-    "startDate": "2026-04-27T19:00:00+05:30",
-    "endDate": "2026-04-27T20:30:00+05:30",
-    "description": "\nA journey through time itself. \nWhen an ancient art form breathes within contemporary spaces, it is reborn. Kuchipudi, originating in the villages in Andhra Pradesh, has found new life with Avijit Das.\u00a0 \nThis performance is an offering, a step in the unbroken rhythm of a tradition that has travelled across generations.\u00a0 Through movement, music, and narrative, the performance reflects on how form, context, and audience have shaped Kuchipudi. \nThis event is a part of our programming to celebrate World Dance Day 2026, \u2018The Many Lives of Dance\u2019. \n\nSupported by:\n\n",
-    "url": "https://bangaloreinternationalcentre.org/event/dari-the-path/",
-    "keywords": [
-      "Dance",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-1-2.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "@id": "88091-1777489200-1777493700@bangaloreinternationalcentre.org",
     "name": "What Holds",
     "startDate": "2026-04-29T19:00:00+05:30",
@@ -79,6 +85,26 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail_WH.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "88027-1777316400-1777321800@bangaloreinternationalcentre.org",
+    "name": "D\u0101ri | The Path",
+    "startDate": "2026-04-27T19:00:00+05:30",
+    "endDate": "2026-04-27T20:30:00+05:30",
+    "description": "\nA journey through time itself. \nWhen an ancient art form breathes within contemporary spaces, it is reborn. Kuchipudi, originating in the villages in Andhra Pradesh, has found new life with Avijit Das.\u00a0 \nThis performance is an offering, a step in the unbroken rhythm of a tradition that has travelled across generations.\u00a0 Through movement, music, and narrative, the performance reflects on how form, context, and audience have shaped Kuchipudi. \nThis event is a part of our programming to celebrate World Dance Day 2026, \u2018The Many Lives of Dance\u2019. \n\nSupported by:\n\n",
+    "url": "https://bangaloreinternationalcentre.org/event/dari-the-path/",
+    "keywords": [
+      "Dance",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-1-2.jpg"
   },
   {
     "@context": "https://schema.org",
