@@ -2,6 +2,73 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Experience an electrifying night with Maan Pannu live in concert. Known for his energetic beats and soulful Punjabi vibes, he promises a high-octane performance filled with hit tracks and unforgettable moments. Get ready to dance, sing, and celebrate",
+      "endDate": "2026-05-09T23:59:00",
+      "identifier": "com.skillboxes.35799",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776744886UuOuN0U3X4rh49vh.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0314698",
+            "longitude": "77.5771977"
+         },
+         "name": "ZOZO THE CLUB"
+      },
+      "name": "Maan Panu Live at Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Female",
+            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "18+ Allowed in this zone.\nAdditional mandatory cover charges applicable at gates.",
+            "inventoryLevel": 1000,
+            "name": "Student Pass",
+            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Male",
+            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 100,
+            "name": "Meet and Greet",
+            "url": "https://www.skillboxes.com/events/ticket/maan-panu-live-at-bangalore"
+         }
+      ],
+      "startDate": "2026-05-09T20:00:00",
+      "url": "https://www.skillboxes.com/events/maan-panu-live-at-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Mandragora live in Bengaluru ",
       "endDate": "2026-06-06T23:59:00",
       "identifier": "com.skillboxes.35793",
@@ -424,6 +491,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Guitar Masterclass with Chandresh Kudwa\nDive into an intensive and inspiring 2 hour guitar masterclass designed to elevate your playing, musical understanding, and creative expression. This s",
+      "endDate": "2026-04-29T19:00:00",
+      "identifier": "com.skillboxes.35709",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Mk9nWmtoaTcvRWJzalIvN2lwTTBHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776405720fTdiOHVKpHOoiEKf.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Workshop"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.116/C-1, 5th Block, behind Airtel Office, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.935595",
+            "longitude": "77.616245"
+         },
+         "name": "Furtados Music, Koramangala, Bengaluru"
+      },
+      "name": "Chandresh Kudwa - Masterclass in Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "1. Access to the full 2 hour Guitar Masterclass with Chandresh Kudwa 2. Access to interactive Q&A session 3. Opportunity to participate in a 1-minute jam with Chandresh Kudwa 4.Photo opportunity with Chandresh Kudwa 5. Get your guitar signed by Chandresh Kudwa\n",
+            "inventoryLevel": 50,
+            "name": "Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/chandresh-kudwa-masterclass-in-bangalore"
+         }
+      ],
+      "startDate": "2026-04-29T17:00:00",
+      "url": "https://www.skillboxes.com/events/chandresh-kudwa-masterclass-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": " OFFLIMITS presents Bollyworld Vol. 1, a new experience reimagining Bollywood nights through fresh sound, energy, and curation. Built to move beyond the usual, Bollyworld brings together unique talent and genre-blending music to create someth",
       "endDate": "2026-05-02T23:59:00",
       "identifier": "com.skillboxes.35704",
@@ -619,7 +721,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 997,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-janhit-mein-jaari-pre-tour-bangalore"
          },
@@ -1058,7 +1160,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 492,
+            "inventoryLevel": 488,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-suvankar-other-stories-sage-for-the-ages-the-radha-thomas-trio-world-jazz-day-special"
          }
@@ -1093,7 +1195,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 475,
+            "inventoryLevel": 464,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-subham-dindun"
          }
