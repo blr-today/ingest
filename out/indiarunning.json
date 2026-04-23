@@ -87,6 +87,49 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "FunRun RightToPlay at Decathlon Bannerghatta Road",
+    "url": "https://indiarunning.com/events/funrun_righttoplay_at_decathlon_bannerghatta_road_58324",
+    "startDate": "2026-05-24T05:00:00+05:30",
+    "endDate": "2026-05-24T07:00:00+05:30",
+    "description": "Run for \"Right To Play\" 3km or 5km fun run with a purpose on Sunday 24th May 2026. Play for Peace & Equality, Play for All. A run to create opportunity to play.\n*Part of the run proceeds go to sports for needy kids.\nFeatures:\nFinisher Medal\nTShirt\nBreakfast\nFamilies are welcome\nSurprise goodies for winners and runnersup\nHurry, limited entries on a first come first served basis.\nAbout Us:\nAt CoachDirect, our mission is to promote sports as a healthy lifestyle alternative. We work with many schools providing sports education at grass roots level. More about us www.coachdirect.in",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/05/24/funrun-righttoplay-at-decathlon-bannerghatta-road-2026/banner1776960764788",
+    "location": {
+      "@type": "Place",
+      "name": "Kalena Agrahara",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ground Floor, Bannerghatta Rd, near Brickwork, Kalena Agrahara, Bengaluru, Kothnur, Karnataka 560076, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560076",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8638492,
+        "longitude": 77.5907496
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "3K",
+        "price": "349",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "349",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "IDOVENT MARATHON UTSAVA",
     "url": "https://indiarunning.com/events/idovent_marathon_utsava_59938",
     "startDate": "2026-05-24T05:30:00+05:30",

@@ -417,7 +417,42 @@
       "name": "All Play No Work | 12-hour Improv Marathon by Improv Lore",
       "sameAs": "https://underline.center/t/911",
       "startDate": "2026-05-01T12:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://at.underline.center/pNCLl"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-04-30T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Tabletop Thursday with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/17",
+      "startDate": "2026-04-30T19:00:00.000+05:30",
+      "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
@@ -904,41 +939,6 @@
       "name": "Songs & Stories: Unplugged with Tabitha, Sanjai and Nikhil",
       "sameAs": "https://underline.center/t/912",
       "startDate": "2026-04-24T19:00:00.000+05:30"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-04-23T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Tabletop Thursday with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/17",
-      "startDate": "2026-04-23T19:00:00.000+05:30",
-      "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
