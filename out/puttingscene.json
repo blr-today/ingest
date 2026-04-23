@@ -1,112 +1,19 @@
 [
   {
     "@type": "Event",
-    "name": "Raku Ceramic Workshop",
-    "url": "https://puttingscene.com/events/3934",
-    "startDate": "2026-04-22T11:00:00+05:30",
-    "endDate": "2026-04-26T16:00:00+05:30",
-    "description": "A hands-on Raku workshop, learning the Japanese ceramic firing technique where smoke and heat shape each piece in ways you can't fully control",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3934%2Fd65c79d6-215c-4359-8b07-6eb9b1785b2c.jpg",
+    "name": "Speed Session",
+    "url": "https://puttingscene.com/events/3970",
+    "startDate": "2026-04-23T06:00:00+05:30",
+    "endDate": "2026-04-23T07:00:00+05:30",
+    "description": "Adidas Runners hosts an early-morning speed session at their Indiranagar store for runners looking to sharpen their pace",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F22%2F1776857684488-1776857684446_7pb70a6v67b.png",
     "location": {
-      "name": "National Gallery of Modern Art (Bengaluru)",
-      "address": "National Gallery of Modern Art (Bengaluru), ",
-      "url": "https://maps.google.com/?cid=7626967474370196347"
+      "name": "Adidas Store Indiranagar",
+      "address": "Adidas Store Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/gtFKNxkecqYYnWkK6"
     },
+    "sameAs": "https://www.adidas.co.in/adidasrunners/events/event/333666399",
     "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Lecture: Predicting Spread in Complex Service Systems",
-    "url": "https://puttingscene.com/events/3955",
-    "startDate": "2026-04-22T14:30:00+05:30",
-    "endDate": "2026-04-22T15:30:00+05:30",
-    "description": "ISB's Prof. Vishwakant Malladi presents research on how disruptions cascade through healthcare and airline systems, at IIM Bangalore",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F21%2F1776766751434-1776766751396_etoqtmvc7wd.png",
-    "location": {
-      "name": "IIM Bangalore, Bilekahalli",
-      "address": "IIM Bangalore, Bilekahalli, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Indian+Institute+of+Management+Bangalore%2C+Bannerghatta+Main+Rd%2C+Bilekahalli%2C+Bengaluru%2C+Karnataka+560076%2C+India"
-    },
-    "sameAs": "https://www.iimb.ac.in/node/5707",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "TechnoCats",
-    "url": "https://puttingscene.com/events/3953",
-    "startDate": "2026-04-22T18:30:00+05:30",
-    "endDate": "2026-04-22T19:30:00+05:30",
-    "description": "One million applicants, seven seats, then what? A screening of TechnoCats, the seven-year documentary on life inside and after IIT, followed by a panel with director Gautam Sonti",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F21%2F1776766360794-1776766360737_5nrf27xis0u.png",
-    "location": {
-      "name": "Bangalore International Centre",
-      "address": "Bangalore International Centre, ",
-      "url": "https://maps.app.goo.gl/zoQXeWrppsEjyNA78"
-    },
-    "sameAs": "https://bangaloreinternationalcentre.org/event/technocats/",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Pint of View Lecture Over Drinks: Why is the Indian Government the way it is?",
-    "url": "https://puttingscene.com/events/3923",
-    "startDate": "2026-04-22T19:00:00+05:30",
-    "endDate": "2026-04-22T21:00:00+05:30",
-    "description": "Pranay Kotasthane, Deputy Director at the Takshashila Institution, dismantles common assumptions about the Indian State, from price controls and policy trade-offs to urban governance, in a lecture over drinks",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3923%2Fa01b5aa7-651d-4c60-9441-ee1a0ea43d9e.jpg",
-    "location": {
-      "name": "Fandom at Gilly's Redefined, Koramangala",
-      "address": "Fandom at Gilly's Redefined, Koramangala, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fandom+at+Gilly%27s+Redefined%2C+4th+Block%2C+Koramangala%2C+Bengaluru%2C+Karnataka+560034%2C+India"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "1199.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 15
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Night at the Museum with Paradox",
-    "url": "https://puttingscene.com/events/3954",
-    "startDate": "2026-04-22T19:30:00+05:30",
-    "endDate": "2026-04-22T20:30:00+05:30",
-    "description": "Mumbai's Paradox brings its cocktail and food programme to Bangalore for one night at Dali and Gala",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F21%2F1776766826857-1776766826813_e8wjr6214c9.png",
-    "location": {
-      "name": "Dali and Gala Cocktail Bar",
-      "address": "Dali and Gala Cocktail Bar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dali%20and%20Gala%20Cocktail%20Bar&query_place_id=ChIJW6P7esAXrjsRgtoZsHHsNac"
-    },
-    "sameAs": "https://www.instagram.com/p/DXRYp92j-LF/",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "World Earth Day Special: Shubham Roy & Dindun",
-    "url": "https://puttingscene.com/events/3952",
-    "startDate": "2026-04-22T21:00:00+05:30",
-    "endDate": "2026-04-22T22:00:00+05:30",
-    "description": "Shillong folk-indie artist Shubham Roy and Toto Award-winning synth folk act Dindun share the stage at The Humming Tree on Earth Day",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F21%2F1776766334260-1776766334007_hf3mqtze4f.png",
-    "location": {
-      "name": "The Humming Tree, Indiranagar, Bangalore",
-      "address": "The Humming Tree, Indiranagar, Bangalore, Bangalore",
-      "url": "https://maps.app.goo.gl/pcTK4AcVYFLnHVkT7"
-    },
-    "sameAs": "https://www.skillboxes.com/events/grassroots-wednesdays-with-subham-dindun",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "499.00",
-        "priceCurrency": "INR"
-      }
-    ]
   },
   {
     "@type": "Event",
@@ -114,7 +21,7 @@
     "url": "https://puttingscene.com/events/3949",
     "startDate": "2026-04-23T11:00:00+05:30",
     "endDate": "2026-04-23T21:00:00+05:30",
-    "description": "<p>Marking <em>105 years of legacy</em>, <strong>Vijayalakshmi Silks</strong> presents an immersive exhibition tracing the cultural, social, and retail journey of silk across generations in South India.</p><p>More than a traditional saree showcase, this is a narrative-led experience where textiles are explored as living records of heritage, identity, and memory.</p><p>The exhibition also features a special collaboration with the Mysore Royal Family through the <strong>105 Royal Edit</strong> \u2014 a contemporary collection inspired by royal heirloom sarees. Expect curated presentations by Maharajkumari Kamakshi Devi Wodeyar and Princess Darshika Kumari, bringing together archival richness, royal patronage, and modern interpretation.</p>",
+    "description": "Vijayalakshmi Silks marks 105 years with an exhibition tracing silk as cultural history across generations in South India, featuring the 105 Royal Edit, a contemporary collection drawn from the Mysore Royal Family's heirloom archive",
     "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3949%2Fb54fe53c-d43c-43c3-8a98-5e4bda6ead05.jpg",
     "location": {
       "name": "Sabha Blr, Shivaji Nagar",
@@ -125,27 +32,19 @@
   },
   {
     "@type": "Event",
-    "name": "A Bowl of Summer \u2014 A Mango Sticky Rice Experience",
-    "url": "https://puttingscene.com/events/3945",
-    "startDate": "2026-04-23T15:00:00+05:30",
-    "endDate": "2026-04-23T16:30:00+05:30",
-    "description": "A hands-on workshop on mango sticky rice, from cooking glutinous rice to finishing with coconut cream and ripe seasonal mangoes",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3945%2Fdd0a50c4-f3ee-4313-aa1c-8cdb567cf8f3.jpg",
+    "name": "Lecture: Earth\u2019s Magnetic Field and Polarity Reversals",
+    "url": "https://puttingscene.com/events/3968",
+    "startDate": "2026-04-23T16:00:00+05:30",
+    "endDate": "2026-04-23T17:00:00+05:30",
+    "description": "An IISc colloquium on why Earth's magnetic poles have repeatedly flipped over geological time and what drives these reversals",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F22%2F1776857337670-1776857337358_hxj8r3bujyt.png",
     "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+      "name": "IISC, CV Raman Rd",
+      "address": "IISC, CV Raman Rd, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian+Institute+of+Science+%28IISc%29%2C+C+V+Raman+Avenue%2C+Bengaluru%2C+Karnataka+560012%2C+India"
     },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "852.38",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
-      }
-    ]
+    "sameAs": "https://iisc.ac.in/events/institute-colloquium-at-faculty-hall-4pm-2/",
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -167,7 +66,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -197,6 +96,94 @@
   },
   {
     "@type": "Event",
+    "name": "Thursday DUPR Night: Gender Neutral Doubles",
+    "url": "https://puttingscene.com/events/3972",
+    "startDate": "2026-04-23T19:00:00+05:30",
+    "endDate": "2026-04-23T20:00:00+05:30",
+    "description": "Gender-neutral doubles pickleball for DUPR ratings 3 to 4.1, with 16 teams competing through group stage and knockouts",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F22%2F1776857525683-1776857525601_t29i4drycea.png",
+    "location": {
+      "name": "GoRally., JP Nagar",
+      "address": "GoRally., JP Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=GoRally%20JP%20Nagar%20(TopSpin)%2C%20Doddakallasandra%2C%20Bengaluru"
+    },
+    "sameAs": "https://www.gorally.in/activity-details/9362",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "600.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Theatre Play: The Star",
+    "url": "https://puttingscene.com/events/3969",
+    "startDate": "2026-04-23T19:30:00+05:30",
+    "endDate": "2026-04-23T20:30:00+05:30",
+    "description": "A comedy-drama adapted from Satyajit Ray's story about a common man who gets an unexpected shot at his old dream of movie stardom",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F22%2F1776855986434-1776855986358_05q82f8z1myk.png",
+    "location": {
+      "name": "Ranga shankara",
+      "address": "Ranga shankara, ",
+      "url": "https://maps.app.goo.gl/Wjoid7E1VFA4r3L89"
+    },
+    "sameAs": "https://in.bookmyshow.com/plays/the-star/ET00475188",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "300.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "21st Century Cinema: Buddha.mov",
+    "url": "https://puttingscene.com/events/3973",
+    "startDate": "2026-04-23T19:45:00+05:30",
+    "endDate": "2026-04-23T20:45:00+05:30",
+    "description": "screening of Buddha.mov, the documentary about a 27-year-old Goan cricketer who opens his life to the camera and loses control of the story",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F22%2F1776857549043-1776857548998_m5m1xmx5uh.png",
+    "location": {
+      "name": "Angala, 130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005",
+      "address": "Angala, 130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Angala%2C%20130%2F1-2%2C%20Wheeler%20Rd%2C%20Cox%20Town%2C%20Bengaluru%2C%20Karnataka%20560005"
+    },
+    "sameAs": "https://urbanaut.app/spot/buddha-mov",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Drag Dinners - Episode 02",
+    "url": "https://puttingscene.com/events/3971",
+    "startDate": "2026-04-23T20:00:00+05:30",
+    "endDate": "2026-04-23T21:00:00+05:30",
+    "description": "Drag Dinners returns a performance by Jiya Labeija, ballroom pioneer and Mother of House of LaBeija India, followed by a three-course dinner at The Humming Tree Bistro",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F22%2F1776857446759-1776857446664_elpifjrwvn8.png",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
+    },
+    "sameAs": "https://urbanaut.app/spot/dragdinners",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2300.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Linocut Printmaking Workshop",
     "url": "https://puttingscene.com/events/3935",
     "startDate": "2026-04-24T11:00:00+05:30",
@@ -216,7 +203,7 @@
     "url": "https://puttingscene.com/events/3949",
     "startDate": "2026-04-24T11:00:00+05:30",
     "endDate": "2026-04-24T21:00:00+05:30",
-    "description": "<p>Marking <em>105 years of legacy</em>, <strong>Vijayalakshmi Silks</strong> presents an immersive exhibition tracing the cultural, social, and retail journey of silk across generations in South India.</p><p>More than a traditional saree showcase, this is a narrative-led experience where textiles are explored as living records of heritage, identity, and memory.</p><p>The exhibition also features a special collaboration with the Mysore Royal Family through the <strong>105 Royal Edit</strong> \u2014 a contemporary collection inspired by royal heirloom sarees. Expect curated presentations by Maharajkumari Kamakshi Devi Wodeyar and Princess Darshika Kumari, bringing together archival richness, royal patronage, and modern interpretation.</p>",
+    "description": "Vijayalakshmi Silks marks 105 years with an exhibition tracing silk as cultural history across generations in South India, featuring the 105 Royal Edit, a contemporary collection drawn from the Mysore Royal Family's heirloom archive",
     "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3949%2Fb54fe53c-d43c-43c3-8a98-5e4bda6ead05.jpg",
     "location": {
       "name": "Sabha Blr, Shivaji Nagar",
@@ -224,6 +211,126 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sabha,+262+Kamaraj+Road,+Shivaji+Nagar,+Bengaluru,+Karnataka+560042,+India"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Friday Work Deli: Focus, Create, Nourish",
+    "url": "https://puttingscene.com/events/3951",
+    "startDate": "2026-04-24T11:00:00+05:30",
+    "endDate": "2026-04-24T17:00:00+05:30",
+    "description": "A Friday co-working session for creatives and freelancers, with a sunlit studio, deli-style food and good company",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3951%2Fa2bd37c1-b2b8-4966-adfd-dfaa8a28730c.jpg",
+    "location": {
+      "name": "the Studio by Copper + Cloves",
+      "address": "the Studio by Copper + Cloves, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=the%20Studio%20by%20Copper%20%2B%20Cloves&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "800.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Pide Table : A Turkish Pide Making Experience",
+    "url": "https://puttingscene.com/events/3948",
+    "startDate": "2026-04-24T13:00:00+05:30",
+    "endDate": "2026-04-24T14:30:00+05:30",
+    "description": "A hands-on pide workshop, stretching, shaping and filling Turkish flatbreads with spinach and goat cheese, roasted vegetables and lamb and feta, and eating them warm from the oven",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3948%2F88de78be-d20f-4b6c-b100-f7ac5e058fc1.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "809.52",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Pide Table : A Turkish Pide Making Experience",
+    "url": "https://puttingscene.com/events/3948",
+    "startDate": "2026-04-24T14:30:00+05:30",
+    "endDate": "2026-04-24T16:00:00+05:30",
+    "description": "A hands-on pide workshop, stretching, shaping and filling Turkish flatbreads with spinach and goat cheese, roasted vegetables and lamb and feta, and eating them warm from the oven",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3948%2F88de78be-d20f-4b6c-b100-f7ac5e058fc1.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "809.52",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Pide Table : A Turkish Pide Making Experience",
+    "url": "https://puttingscene.com/events/3948",
+    "startDate": "2026-04-24T16:00:00+05:30",
+    "endDate": "2026-04-24T17:30:00+05:30",
+    "description": "A hands-on pide workshop, stretching, shaping and filling Turkish flatbreads with spinach and goat cheese, roasted vegetables and lamb and feta, and eating them warm from the oven",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3948%2F88de78be-d20f-4b6c-b100-f7ac5e058fc1.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "809.52",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Pide Table : A Turkish Pide Making Experience",
+    "url": "https://puttingscene.com/events/3948",
+    "startDate": "2026-04-24T17:30:00+05:30",
+    "endDate": "2026-04-24T19:00:00+05:30",
+    "description": "A hands-on pide workshop, stretching, shaping and filling Turkish flatbreads with spinach and goat cheese, roasted vegetables and lamb and feta, and eating them warm from the oven",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3948%2F88de78be-d20f-4b6c-b100-f7ac5e058fc1.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "809.52",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -294,7 +401,7 @@
     "url": "https://puttingscene.com/events/3922",
     "startDate": "2026-04-24T21:00:00+05:30",
     "endDate": "2026-04-24T22:30:00+05:30",
-    "description": "<p>Join <strong>Chef Jigmet Mingur</strong>, <em>a monk-turned-chef</em>, for a deeply personal dining experience inspired by the landscapes, seasons, and traditions of <em>Ladakh.</em> <br>Through a thoughtful Trans-Himalayan menu, ingredients brought from his homeland meet fresh produce from Bengaluru\u2019s markets, creating dishes rooted in memory, culture, and place.</p><p>An intimate evening of storytelling through food, where every course offers a glimpse into where he comes from.</p>",
+    "description": "Chef Jigmet Mingur, a monk-turned chef, presents a Trans-Himalayan dinner of slow-cooked broths, grains, and seasonal produce across courses",
     "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3922%2Fa83764f3-c544-4a8e-8b3d-3ac6457d92f2.jpg",
     "location": {
       "name": "The Oberoi, Bengaluru",
@@ -346,6 +453,69 @@
   },
   {
     "@type": "Event",
+    "name": "Peel Good Brunch: A Mango Edition",
+    "url": "https://puttingscene.com/events/3967",
+    "startDate": "2026-04-25T11:00:00+05:30",
+    "endDate": "2026-04-25T14:00:00+05:30",
+    "description": "Alphonso season at its peak, served as a slow four-course brunch that balances savoury, sweet, spice and brightness across every plate",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3967%2Feaf8f9fa-6a44-470c-a21e-de973257be11.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1285.71",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 24
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Theatre & Art Workshop for Kids (9-14)",
+    "url": "https://puttingscene.com/events/3936",
+    "startDate": "2026-04-25T11:30:00+05:30",
+    "endDate": "2026-04-25T13:00:00+05:30",
+    "description": "A theatre and art workshop for ages 9 to 14, exploring self-expression through movement, voice and art at NGMA",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3936%2Fcafd484e-5bec-45a7-8abb-9e7f3e95a735.jpg",
+    "location": {
+      "name": "National Gallery of Modern Art (Bengaluru)",
+      "address": "National Gallery of Modern Art (Bengaluru), ",
+      "url": "https://maps.google.com/?cid=7626967474370196347"
+    },
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Make your own Laser Cut Puzzle!",
+    "url": "https://puttingscene.com/events/3961",
+    "startDate": "2026-04-25T11:30:00+05:30",
+    "endDate": "2026-04-25T14:00:00+05:30",
+    "description": "A hands-on laser cutting workshop where you turn any image you bring into a custom jigsaw puzzle you take home",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3961%2F4694a953-010d-4dda-a708-8c96a2cee911.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "750.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "403 OVERRIDE | FIREWALL X PRIYAM CHATTERJEE & RISHABH SEAL",
     "url": "https://puttingscene.com/events/3939",
     "startDate": "2026-04-25T12:30:00+05:30",
@@ -361,11 +531,91 @@
   },
   {
     "@type": "Event",
+    "name": "Ease Into It - An evening for CBD, creativity & comfort \ud83c\udf3f\u2728",
+    "url": "https://puttingscene.com/events/3962",
+    "startDate": "2026-04-25T16:00:00+05:30",
+    "endDate": "2026-04-25T20:00:00+05:30",
+    "description": "CBD conversations by Trost, hands-on decor with Sea Salt, and matcha by Purpose in one unhurried evening of wellness, craft and good coffee",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3962%2F6392a1c5-e71a-47da-b718-95638023fd7f.jpg",
+    "location": {
+      "name": "Purpose Matcha + Coffee House",
+      "address": "Purpose Matcha + Coffee House, ",
+      "url": "https://maps.google.com/?cid=12547360141828251519"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1999.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1000
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Baker's Supper - Supper Club",
+    "url": "https://puttingscene.com/events/3966",
+    "startDate": "2026-04-25T17:00:00+05:30",
+    "endDate": "2026-04-25T19:00:00+05:30",
+    "description": "A golden hour bread workshop exploring local grains in dough-making, with fresh bakes to taste and cool drinks to sip",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3966%2F7662aace-a4fc-45b8-b291-cbac07084be4.jpg",
+    "location": {
+      "name": "Quest Learning Observatory, Kambipura",
+      "address": "Quest Learning Observatory, Kambipura, ",
+      "url": "https://maps.app.goo.gl/Qw6QAsfVDAgJPtvZ8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Adult",
+        "price": "599.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 15
+      },
+      {
+        "@type": "Offer",
+        "name": "Adult + Kid ( 12 years and below)",
+        "price": "899.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 15
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "On Melancholy Hill by Aanchal Bordoloi and Friends",
+    "url": "https://puttingscene.com/events/3941",
+    "startDate": "2026-04-25T18:00:00+05:30",
+    "endDate": "2026-04-25T20:30:00+05:30",
+    "description": "An intimate evening of acoustic music and conversation on love, loss and the grief that lives in everyday things, with sets by songwriter Sourjyo Sinha and singer-songwriter Aanchal",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3941%2F3b2e76b9-495c-480d-bfdf-3f46ae6149e2.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "422.88",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Ladakh on a Plate: Decked Out at Lapis",
     "url": "https://puttingscene.com/events/3922",
     "startDate": "2026-04-25T19:00:00+05:30",
     "endDate": "2026-04-26T21:00:00+05:30",
-    "description": "<p>Join <strong>Chef Jigmet Mingur</strong>, <em>a monk-turned-chef</em>, for a deeply personal dining experience inspired by the landscapes, seasons, and traditions of <em>Ladakh.</em> <br>Through a thoughtful Trans-Himalayan menu, ingredients brought from his homeland meet fresh produce from Bengaluru\u2019s markets, creating dishes rooted in memory, culture, and place.</p><p>An intimate evening of storytelling through food, where every course offers a glimpse into where he comes from.</p>",
+    "description": "Chef Jigmet Mingur, a monk-turned chef, presents a Trans-Himalayan dinner of slow-cooked broths, grains, and seasonal produce across courses",
     "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3922%2Fa83764f3-c544-4a8e-8b3d-3ac6457d92f2.jpg",
     "location": {
       "name": "The Oberoi, Bengaluru",
@@ -443,7 +693,7 @@
         "price": "254.24",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
+        "remainingAttendeeCapacity": 999
       },
       {
         "@type": "Offer",
@@ -451,7 +701,7 @@
         "price": "932.20",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
+        "remainingAttendeeCapacity": 999
       }
     ]
   },
@@ -461,7 +711,7 @@
     "url": "https://puttingscene.com/events/3922",
     "startDate": "2026-04-25T21:15:00+05:30",
     "endDate": "2026-04-26T22:30:00+05:30",
-    "description": "<p>Join <strong>Chef Jigmet Mingur</strong>, <em>a monk-turned-chef</em>, for a deeply personal dining experience inspired by the landscapes, seasons, and traditions of <em>Ladakh.</em> <br>Through a thoughtful Trans-Himalayan menu, ingredients brought from his homeland meet fresh produce from Bengaluru\u2019s markets, creating dishes rooted in memory, culture, and place.</p><p>An intimate evening of storytelling through food, where every course offers a glimpse into where he comes from.</p>",
+    "description": "Chef Jigmet Mingur, a monk-turned chef, presents a Trans-Himalayan dinner of slow-cooked broths, grains, and seasonal produce across courses",
     "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F3922%2Fa83764f3-c544-4a8e-8b3d-3ac6457d92f2.jpg",
     "location": {
       "name": "The Oberoi, Bengaluru",
@@ -586,7 +836,7 @@
         "price": "1999.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
+        "remainingAttendeeCapacity": 6
       }
     ]
   }
