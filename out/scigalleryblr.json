@@ -99,6 +99,20 @@
   },
   {
     "@type": "EducationEvent",
+    "name": "Decarbonising AI With Event-based Neural Networks",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-05-13T17:30:00+05:30",
+    "endDate": "2026-05-13T17:30:00+05:30",
+    "description": "Can an artificial neural network be energy efficient?\n\nThe artificial neural networks underlying modern AI are very computing intensive, taking a lot of energy to run. In contrast, the human brain has a power budget of only about 20 Watts. In this lecture, Thomas Nowotny from the University of Sussex will explore how spiking neural networks can offer a path in addressing the energy issues that face modern AI systems. Learn about the results of his research in the field deploying trained networks on the Intel Loihi 2 neuromorphic system. Including reflections on interpreting interactions with AI systems.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=decarbonizing-ai",
+    "maximumAttendeeCapacity": "80"
+  },
+  {
+    "@type": "EducationEvent",
     "name": "Water Bankruptcy: Tracing Water through Food",
     "location": {
       "@type": "Place",
@@ -110,5 +124,19 @@
     "description": "What if water could speak, what stories would it tell?\n\nWould it speak of growing food? Or of water bankruptcy? Of being pulled from the earth faster than it can return. This workshop invites participants to explore the idea of Water Bankruptcy, examining how these hidden imbalances shape our food systems, environments and everyday lives. \n\nWe begin with a shared reading, inviting multiple ways of seeing and interpreting water. Then, moving through CALORIE, we trace water through food systems, uncovering the idea of Virtual Water.\n\nThrough making puppets, explore touch, reflection, imagination and storytelling. We invite you to give shape to your experiences, transforming memory and observation into characters and narratives that can be held, shared and reimagined.\n",
     "url": "https://sci560.scigalleryblr.org/programmes?p=Water-Bankruptcy",
     "maximumAttendeeCapacity": "25"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Eat it Up: Is this Choice Ours?",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-05-02T11:00:00+05:30",
+    "endDate": "2026-05-02T14:00:00+05:30",
+    "description": "How does our brain control why, what and how much we eat?  \n\nIn this workshop, we explore why our food consumption habits often exceed or fall short of our caloric requirements. We delve into the brain circuits that shape our feeding behaviours and learn about the technological breakthroughs that have brought us to our current state of knowledge. Through interactive games, artistic expression, and artifacts, we will deliberate on the external and internal factors that influence our urge to eat.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=Eat-it-Up",
+    "maximumAttendeeCapacity": "20"
   }
 ]
