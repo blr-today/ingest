@@ -68,6 +68,36 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Dd",
+      "endDate": "2026-05-01T14:04:00",
+      "identifier": "com.skillboxes.35870",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZzlUbkRwK1F0THN4UTIwTXZVSndXUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777108743rpAuf3VLPimwM9ea.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Hola 2026",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "SAMS\nMBA",
+            "inventoryLevel": 7,
+            "name": "Admit MBA",
+            "url": "https://www.skillboxes.com/events/ticket/hola-2026"
+         }
+      ],
+      "startDate": "2026-05-01T01:47:00",
+      "url": "https://www.skillboxes.com/events/hola-2026"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "kickstart their journey with the right guidance and financial awareness.This workshop covers end-to-end insights into starting a café, including business planning, setup strategy, and operational ",
       "endDate": "2026-05-01T23:59:00",
@@ -99,6 +129,41 @@
       ],
       "startDate": "2026-05-01T16:00:00",
       "url": "https://www.skillboxes.com/events/beanvest"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Gates Open: 7 PMShow Begins: 9 PMBlackstratblues is a solo project of Warren Mendonsa, who is a guitarist, songwriter, producer and recording engineer. The current lineup is augmented by Jai Row Kavi on Drums, Ad",
+      "endDate": "2026-05-07T11:00:00",
+      "identifier": "com.skillboxes.35812",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776777949wGhdMmdW51IWNoYj.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "THT presents Blackstratblues (Show 2)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges of INR 1000 applicable at the doors\n",
+            "inventoryLevel": 10,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/tht-presents-blackstratblues-show-2"
+         }
+      ],
+      "startDate": "2026-05-07T09:00:00",
+      "url": "https://www.skillboxes.com/events/tht-presents-blackstratblues-show-2"
    },
    {
       "@context": "https://schema.org",
