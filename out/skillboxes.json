@@ -121,9 +121,9 @@
       "offers": [
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "SAMS\nMBA",
-            "inventoryLevel": 7,
+            "inventoryLevel": 0,
             "name": "Admit MBA",
             "url": "https://www.skillboxes.com/events/ticket/hola-2026"
          }
@@ -171,7 +171,7 @@
       "description": "Gates Open: 7 PMShow Begins: 9 PMBlackstratblues is a solo project of Warren Mendonsa, who is a guitarist, songwriter, producer and recording engineer. The current lineup is augmented by Jai Row Kavi on Drums, Ad",
       "endDate": "2026-05-07T11:00:00",
       "identifier": "com.skillboxes.35812",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776777949wGhdMmdW51IWNoYj.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777207854nh9vJFiKONihG87g.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -192,7 +192,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 1000 applicable at the doors\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 294,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/tht-presents-blackstratblues-show-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charges of INR 1000 applicable at the doors\n",
+            "inventoryLevel": 0,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-blackstratblues-show-2"
          }
