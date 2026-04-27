@@ -239,6 +239,41 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
+      "name": "IndieWebClub #25",
+      "sameAs": "https://underline.center/t/921",
+      "startDate": "2026-05-02T14:00:00.000+05:30",
+      "url": "https://www.district.in/indiewebclub-meetup/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-05-02T17:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
       "name": "Jigsaw Junkies by Playful Pursuits",
       "sameAs": "https://underline.center/t/60",
       "startDate": "2026-05-02T12:00:00.000+05:30",
@@ -6955,40 +6990,5 @@
       "sameAs": "https://underline.center/t/592",
       "startDate": "2025-08-12T19:45:00.000+05:30",
       "url": "https://district.in/screening-of-freedom-2000-with-tpcc-aug12-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-08-09T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Pasolini Pa* Palestine (2005) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/591",
-      "startDate": "2025-08-09T21:00:00.000+05:30",
-      "url": "https://www.district.in/screening-of-pasolini-pa-palestine-2005-with-tpcc-aug9-2025/event"
    }
 ]
