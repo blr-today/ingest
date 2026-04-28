@@ -69,6 +69,100 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Step into DB Fridays, where the night is built around one thing  music that moves you.This edition brings together Chaz and Master Shifu, delivering a deep, immersive blend of&#1",
+      "endDate": "2026-05-01T23:59:00",
+      "identifier": "com.skillboxes.35936",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QU0rWHVCSTVYN01uSUwyL1ljckpWdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777366443pNelBvq2gXpHRYnG.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd floor, B block, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9724674",
+            "longitude": "77.6068596"
+         },
+         "name": "db studiolab"
+      },
+      "name": "DB Fridays: Where Techno Takes Over the Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Ladies & Couples Walk-in\n",
+            "inventoryLevel": 14,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/db-fridays-where-techno-takes-over-the-night"
+         }
+      ],
+      "startDate": "2026-05-01T21:30:00",
+      "url": "https://www.skillboxes.com/events/db-fridays-where-techno-takes-over-the-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Blue Hour – Bangalore’s Most Exclusive Poolside MasqueradeThis 9th May, step into Blue Hour — a luxurious aqua-themed pool party set at the 5-star venue Hyatt Centric MG Road Bangalore.As the sun sets, the",
+      "endDate": "2026-05-09T23:59:00",
+      "identifier": "com.skillboxes.35935",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777366484nlD0ezqmMyYYivjF.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1/1, Swami Vivekananda Road, Mahatma Gandhi Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.973455",
+            "longitude": "77.621801"
+         },
+         "name": "Hyatt Centric MG Road"
+      },
+      "name": "Blue Hour",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Only Entry | Entry to the dance floor & Pool Area.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Female",
+            "url": "https://www.skillboxes.com/events/ticket/blue-hour"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Only Entry | Entry to the dance floor & Pool Area\nCover charge applicable at the venue post 7:00 pm.",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/blue-hour"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Only Entry | Entry to the dance floor & Pool Area\nCover charge applicable at the venue post 7:00 pm.",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Male",
+            "url": "https://www.skillboxes.com/events/ticket/blue-hour"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Only Entry | Enclave for influencers and tastemakers.\nAccess to the entire venue with the best view of Blue Hour.",
+            "inventoryLevel": 1000,
+            "name": "VIP - The Blur Hour Society",
+            "url": "https://www.skillboxes.com/events/ticket/blue-hour"
+         }
+      ],
+      "startDate": "2026-05-09T16:00:00",
+      "url": "https://www.skillboxes.com/events/blue-hour"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready for a high-voltage night as international sensation Claudia headlines an unforgettable edition of REDROOM_BLR at Kitty Ko, The LaLiT Ashok Bangalore. Bringing her signature sound and electrifying energy to the dancefloor",
       "endDate": "2026-05-02T01:30:00",
       "identifier": "com.skillboxes.35930",
@@ -179,7 +273,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-mlir-se-more-indiranagarsocial"
          }
@@ -347,7 +441,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 1000 applicable at the doors\n",
-            "inventoryLevel": 202,
+            "inventoryLevel": 167,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-blackstratblues-show-2"
          },
@@ -824,7 +918,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 595,
+            "description": "Entry is on a first-come, first-served basis; no entry once venue capacity is reached, even with a valid ticket.\n",
+            "inventoryLevel": 563,
             "name": "RSVP/Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/indian-music-diaries-awards-26-showcase-bangalore"
          }

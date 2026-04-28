@@ -177,6 +177,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-05-03T17:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Screening of Salaam Bombay (1988) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/922",
+      "startDate": "2026-05-03T14:00:00.000+05:30",
+      "url": "tba"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-05-03T14:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -6954,40 +6989,5 @@
       "sameAs": "https://underline.center/t/612",
       "startDate": "2025-08-15T17:00:00.000+05:30",
       "url": "https://www.district.in/phir-bhi-quiz-hai-hindustani-india-quiz-by-quiz-pro-quo-aug15-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-08-12T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Freedom (2000) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/592",
-      "startDate": "2025-08-12T19:45:00.000+05:30",
-      "url": "https://district.in/screening-of-freedom-2000-with-tpcc-aug12-2025/event"
    }
 ]
