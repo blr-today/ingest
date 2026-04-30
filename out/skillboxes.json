@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover charges 500 till 8pm and 1000 after 8pm\n",
-            "inventoryLevel": 2,
+            "inventoryLevel": 1,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/parichay-by-karan-verma-bangalore-1"
          }
@@ -376,49 +376,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Turn up your Thursday with the hottest Bolly x Afro beats at Yeda Republic Bengaluru 🔥Featuring Sukant, BeardoX & Ayush Adak bringing the ultimate vibe 🎧",
-      "endDate": "2026-04-30T23:59:00",
-      "identifier": "com.skillboxes.35959",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777398298LPO4JugueIqva3L1.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "BOLLY AFFRO FT. SUKANT, BEARDOX, AYUSH AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/bolly-affro-ft-sukant-beardox-ayush-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/bolly-affro-ft-sukant-beardox-ayush-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-04-30T20:00:00",
-      "url": "https://www.skillboxes.com/events/bolly-affro-ft-sukant-beardox-ayush-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Manchester United VS Liverpool | Live Screening |  Watson's Indiranagar Bangalore Date - 3rd May , 2026.Timings - 8:00 PMVenue -  Watson's Indirana",
       "endDate": "2026-05-03T22:30:00",
       "identifier": "com.skillboxes.35957",
@@ -605,25 +562,65 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to one female) Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
+            "name": "PHASE 1 FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
+            "name": "PHASE 1 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue\n",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
             "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
+            "name": "PHASE 1 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-claudia-beat-inspector"
          }
       ],
@@ -1364,65 +1361,6 @@
       ],
       "startDate": "2026-07-31T21:00:00",
       "url": "https://www.skillboxes.com/events/bangalore-endless-pursuits-tour-by-time-throttle"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "A night of electrifying riffs, immersive soundscapes, and uncompromising guitar artistry returns—bringing together distinct guitar voices on one stage.MOTHERJANE: ",
-      "endDate": "2026-04-30T23:59:00",
-      "identifier": "com.skillboxes.34869",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a3doV2J1Mm5yYTM3d04wbmpWdGxaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776331827N9yUWLaHEQTDGcgR.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Let There Be Guitar 2026: Motherjane, Dad N' Daughter, and Chirag Todi",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "An additional cover charge will apply at the gate: ₹500 before 9 PM, ₹700 after 9 PM.\n",
-            "inventoryLevel": 11,
-            "name": "Phase II",
-            "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "An additional cover charge will apply at the gate.\n",
-            "inventoryLevel": 0,
-            "name": "Phase I",
-            "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "An additional cover charge will apply at the gate: ₹500 before 9 PM, ₹700 after 9 PM.\n",
-            "inventoryLevel": 160,
-            "name": "Final Phase",
-            "url": "https://www.skillboxes.com/events/ticket/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
-         }
-      ],
-      "startDate": "2026-04-30T20:00:00",
-      "url": "https://www.skillboxes.com/events/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi"
    },
    {
       "@context": "https://schema.org",
