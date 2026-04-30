@@ -121,9 +121,7 @@
         "@type": "Offer",
         "name": "General",
         "price": "1099.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1
+        "priceCurrency": "INR"
       },
       {
         "@type": "Offer",
@@ -131,7 +129,7 @@
         "price": "1299.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 17
+        "remainingAttendeeCapacity": 16
       }
     ]
   },
@@ -432,7 +430,7 @@
         "price": "1475.24",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 15
+        "remainingAttendeeCapacity": 14
       }
     ]
   },
