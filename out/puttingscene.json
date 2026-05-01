@@ -1,237 +1,22 @@
 [
   {
     "@type": "Event",
-    "name": "Circuit Training + Easy Run",
-    "url": "https://puttingscene.com/events/4053",
-    "startDate": "2026-04-30T06:00:00+05:30",
-    "endDate": "2026-04-30T07:00:00+05:30",
-    "description": "A morning fitness session with adidas Runners that pairs circuit training with a group run",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F29%2F1777456944378-1777456944346_hvj96rc0lg.png",
+    "name": "AI for Engineering",
+    "url": "https://puttingscene.com/events/4070",
+    "startDate": "2026-05-01T08:00:00+05:30",
+    "endDate": "2026-05-01T09:00:00+05:30",
+    "description": "A workshop on AI in engineering led by IISc and IIT faculty, from ML optimization and Generative AI to defense and next-gen manufacturing",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777550988994-1777550988858_r63ooiafwpq.png",
     "location": {
-      "name": "HSR Stadium, HSR Layout",
-      "address": "HSR Stadium, HSR Layout, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Atal+Bihari+Vajpayee+Stadium%2C+HSR+Layout%2C+Bengaluru%2C+Karnataka+560102"
+      "name": "IISC, CV Raman Rd",
+      "address": "IISC, CV Raman Rd, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian+Institute+of+Science+%28IISc%29%2C+C+V+Raman+Avenue%2C+Bengaluru%2C+Karnataka+560012%2C+India"
     },
-    "sameAs": "https://www.adidas.co.in/adidasrunners/events/event/655774953",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "The Cookie Table",
-    "url": "https://puttingscene.com/events/4032",
-    "startDate": "2026-04-30T15:00:00+05:30",
-    "endDate": "2026-04-30T16:30:00+05:30",
-    "description": "Bake and decorate buttery shortbread cookies from scratch in a hands-on session, taking home a box of your own",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4032%2Fa97f5fb5-4c14-408f-9473-7698759ff208.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
+    "sameAs": "https://www.townscript.com/e/ai-for-engineering-212442",
     "offers": [
       {
         "@type": "Offer",
-        "name": "General",
-        "price": "757.14",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "The Cookie Table",
-    "url": "https://puttingscene.com/events/4032",
-    "startDate": "2026-04-30T16:30:00+05:30",
-    "endDate": "2026-04-30T18:00:00+05:30",
-    "description": "Bake and decorate buttery shortbread cookies from scratch in a hands-on session, taking home a box of your own",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4032%2Fa97f5fb5-4c14-408f-9473-7698759ff208.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "757.14",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "SIS X AMOEBA: Bowling, Match Screening & Dinner",
-    "url": "https://puttingscene.com/events/4048",
-    "startDate": "2026-04-30T18:00:00+05:30",
-    "endDate": "2026-04-30T23:00:00+05:30",
-    "description": "Bowling, a live RCB vs GT screening and dinner rolled into one evening with SIS x Amoeba",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4048%2F0529ff2c-4f6e-4840-93e1-5560003a7d70.jpg",
-    "location": {
-      "name": "Amoeba Sports Bar- Church Street",
-      "address": "Amoeba Sports Bar- Church Street, ",
-      "url": "https://maps.google.com/?cid=9766833630114882460"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "VIP",
-        "price": "1121.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 8
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Ma\u1e47\u1e47ina Hejje \u2013 Dances of the Soil: An Immersive Workshop in Folk Dance Traditions",
-    "url": "https://puttingscene.com/events/4055",
-    "startDate": "2026-04-30T18:30:00+05:30",
-    "endDate": "2026-04-30T19:30:00+05:30",
-    "description": "An immersive workshop exploring India's folk dance traditions, tracing the connection between land, labour and movement",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F29%2F1777456707612-1777456707542_wj5znxq80cr.png",
-    "location": {
-      "name": "Bangalore International Centre",
-      "address": "Bangalore International Centre, ",
-      "url": "https://maps.app.goo.gl/zoQXeWrppsEjyNA78"
-    },
-    "sameAs": "https://bangaloreinternationalcentre.org/event/ma%e1%b9%87%e1%b9%87ina-hejje-dance-of-the-soil/",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Pint of View Lecture: Is Cinema a Threat to Public Order? Rethinking Film History Post Dhurandhar",
-    "url": "https://puttingscene.com/events/4022",
-    "startDate": "2026-04-30T19:00:00+05:30",
-    "endDate": "2026-04-30T21:00:00+05:30",
-    "description": "What happens when a film is called dangerous? Film historian Ashish Rajadhyaksha traces India's century-old fear of cinema as incitement, from the Censor Board battles to Dhurandhar-2, in this lecture over drinks",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4022%2F515074d9-ebbd-4c35-bb60-6e8f00158a6c.jpg",
-    "location": {
-      "name": "Fandom at Gilly's Redefined, Koramangala",
-      "address": "Fandom at Gilly's Redefined, Koramangala, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fandom+at+Gilly%27s+Redefined%2C+4th+Block%2C+Koramangala%2C+Bengaluru%2C+Karnataka+560034%2C+India"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "1099.00",
-        "priceCurrency": "INR"
-      },
-      {
-        "@type": "Offer",
-        "name": "I Am Late Macha",
-        "price": "1299.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 16
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Naduratriya Pulaka",
-    "url": "https://puttingscene.com/events/4057",
-    "startDate": "2026-04-30T19:30:00+05:30",
-    "endDate": "2026-04-30T20:30:00+05:30",
-    "description": "S. Surendranath directs a Kannada adaptation of Shakespeare's A Midsummer Night's Dream, a comedy of confused lovers, enchanted forests and fairy mischief",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F29%2F1777456888727-1777456888694_q6twp4fopae.png",
-    "location": {
-      "name": "Ranga shankara",
-      "address": "Ranga shankara, ",
-      "url": "https://maps.app.goo.gl/Wjoid7E1VFA4r3L89"
-    },
-    "sameAs": "https://in.bookmyshow.com/plays/naduratriya-pulaka/ET00490361",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "250.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "21st Century Cinema: Dear Zachary: A Letter to a Son About His Father",
-    "url": "https://puttingscene.com/events/4056",
-    "startDate": "2026-04-30T19:45:00+05:30",
-    "endDate": "2026-04-30T20:45:00+05:30",
-    "description": "Screening of a documentary that starts as a filmmaker's memorial for a murdered friend and spirals into a harrowing account of justice and custody failures",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F29%2F1777456824573-1777456824545_cb28tonvhki.png",
-    "location": {
-      "name": "Angala, Cox Town",
-      "address": "Angala, Cox Town, Bangalore",
-      "url": "https://maps.app.goo.gl/EYDHfTH4f7MDqJNj8"
-    },
-    "sameAs": "https://urbanaut.app/spot/dear-zachary",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "375.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Thursday Trivia Night @ 2Pints Brewing",
-    "url": "https://puttingscene.com/events/4047",
-    "startDate": "2026-04-30T20:00:00+05:30",
-    "endDate": "2026-04-30T22:00:00+05:30",
-    "description": "Trivia night spanning pop culture, movies, music and current events, with F&B vouchers for the top three",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4047%2F7f4eb24d-9f77-470a-906c-9e89afe2d448.jpg",
-    "location": {
-      "name": "2 Pints Brewing Taproom & Kitchen",
-      "address": "2 Pints Brewing Taproom & Kitchen, ",
-      "url": "https://maps.google.com/?cid=6158494646594350939"
-    },
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Let There Be Guitar 2026: Motherjane, Dad N' Daughter, and Chirag Todi",
-    "url": "https://puttingscene.com/events/4054",
-    "startDate": "2026-04-30T20:00:00+05:30",
-    "endDate": "2026-04-30T21:00:00+05:30",
-    "description": "A guitar-first night with Carnatic prog band Motherjane, genre-crossing guitarist Chirag Todi, and father-daughter duo Dad N' Daughter performing live set",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F29%2F1777456780809-1777456780723_92lgwz9wezr.png",
-    "location": {
-      "name": "The Humming Tree, Indiranagar",
-      "address": "The Humming Tree, Indiranagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
-    },
-    "sameAs": "https://www.skillboxes.com/events/let-there-be-guitar-2026-rhythm-shaw-dad-n-daughter-and-chirag-todi",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "499.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Jive Nights Ft. Butterfingers",
-    "url": "https://puttingscene.com/events/4052",
-    "startDate": "2026-04-30T21:00:00+05:30",
-    "endDate": "2026-04-30T22:00:00+05:30",
-    "description": "Bangalore swing act Butterfingers brings jive-era grooves and dancefloor energy to a midweek night at Hard Rock Cafe",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F29%2F1777456645152-1777456645051_8mxfcwxc3pk.png",
-    "location": {
-      "name": "Hard Rock Cafe, Ashok Nagar",
-      "address": "Hard Rock Cafe, Ashok Nagar, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hard+Rock+Cafe%2C+40+St+Mark%27s+Road%2C+Shanthala+Nagar%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560001%2C+India"
-    },
-    "sameAs": "https://in.bookmyshow.com/events/jive-nights-ft-butterfingers/ET00492934",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "249.00",
+        "price": "6000.00",
         "priceCurrency": "INR"
       }
     ]
@@ -271,9 +56,25 @@
         "price": "800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 2
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Exhibition: Mom's Magical World",
+    "url": "https://puttingscene.com/events/4071",
+    "startDate": "2026-05-01T11:00:00+05:30",
+    "endDate": "2026-05-01T12:00:00+05:30",
+    "description": "A solo show of vibrant, hand-painted childhood characters by Badrunissa Irfan, where every purchase goes to charity",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777550870340-1777550870295_i8d72ztkugp.png",
+    "location": {
+      "name": "Sublime Galleria, UB City",
+      "address": "Sublime Galleria, UB City, ",
+      "url": "https://maps.app.goo.gl/WaKBQ2hpgyBBz85T7"
+    },
+    "sameAs": "https://www.instagram.com/p/DXiooMuE5T9/",
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -295,7 +96,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 4
       }
     ]
   },
@@ -319,7 +120,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -391,7 +192,168 @@
         "price": "200.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 25
+        "remainingAttendeeCapacity": 17
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Nature-Inspired Design: Can Nature Provide Solutions to the Ecological Crisis We Face Today?",
+    "url": "https://puttingscene.com/events/4072",
+    "startDate": "2026-05-01T18:30:00+05:30",
+    "endDate": "2026-05-01T19:30:00+05:30",
+    "description": "A conversation on biomimicry, the design philosophy that finds blueprints in termite mounds, slime mold and fireflies, refined over 3.8 billion years",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777551158140-1777551157980_b6cngx0b5sn.png",
+    "location": {
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, ",
+      "url": "https://maps.app.goo.gl/zoQXeWrppsEjyNA78"
+    },
+    "sameAs": "https://bangaloreinternationalcentre.org/event/nature-inspired-design/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Screening: Salt of the Earth & Cairo Station",
+    "url": "https://puttingscene.com/events/4075",
+    "startDate": "2026-05-01T19:00:00+05:30",
+    "endDate": "2026-05-01T20:00:00+05:30",
+    "description": "A double bill of 1950s cinema at its boldest: Herbert Biberman's blacklisted Salt of the Earth and Youssef Chahine's neorealist Cairo Station",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777552079535-1777552079202_ki4brr5ntxa.png",
+    "location": {
+      "name": "Beku, JP Nagar",
+      "address": "Beku, JP Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beku%2C%20JP%20Nagar%2C%20Bengaluru"
+    },
+    "sameAs": "https://urbanaut.app/spot/salt-of-the-earth-cairo-station-screening",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "300.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Lasya: Param",
+    "url": "https://puttingscene.com/events/4068",
+    "startDate": "2026-05-01T19:30:00+05:30",
+    "endDate": "2026-05-01T20:30:00+05:30",
+    "description": "Samyuktha Shankar and Divya Anand Kasturi bring the lyrical Lasya tradition of Bharatanatyam to life in a collaborative classical dance performance.",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777550817740-1777550817537_jvibvkz390p.png",
+    "location": {
+      "name": "Shoonya Center, Sudhama Nagar",
+      "address": "Shoonya Center, Sudhama Nagar, ",
+      "url": "https://maps.app.goo.gl/c4wBuPbbeEMVnN579"
+    },
+    "sameAs": "https://www.instagram.com/p/DXeWRftAUy7/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "350.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pyaar Aadmi Ko Kabootar Bana Deta Hai",
+    "url": "https://puttingscene.com/events/4073",
+    "startDate": "2026-05-01T19:30:00+05:30",
+    "endDate": "2026-05-01T20:30:00+05:30",
+    "description": "A Hindi musical by Manav Kaul set in a pre-internet era, where ghost-written love letters between friends blur the line between loyalty and desire",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777551076208-1777551076152_899f7lwiqf9.png",
+    "location": {
+      "name": "Jagriti Theatre, Whitefield",
+      "address": "Jagriti Theatre, Whitefield, ",
+      "url": "https://maps.app.goo.gl/5ua5EkdAfHfJtEQR7"
+    },
+    "sameAs": "https://in.bookmyshow.com/plays/pyaar-aadmi-ko-kabootar-bana-deta-hai/ET00426414",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "500.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Flypship \u00d7 Into the Vision: Bounce Back",
+    "url": "https://puttingscene.com/events/4069",
+    "startDate": "2026-05-01T20:00:00+05:30",
+    "endDate": "2026-05-01T21:00:00+05:30",
+    "description": "Footwork, ghetto tech and juke collide poolside as DJs Reflected Ray, Mana and Flow bring Chicago and Detroit's underground dance energy to Bangalore",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777550562238-1777550562026_iuwfrt6mkzr.png",
+    "location": {
+      "name": "Aqua The Park, Sivanchetti Gardens",
+      "address": "Aqua The Park, Sivanchetti Gardens, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aqua%20The%20Park%20Bangalore"
+    },
+    "sameAs": "https://sortmyscene.com/event/flypship-x-into-the-vision-presents-bounce-back-may-01-2026",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Aritmija: Indo-Balkan Fusion at The Humming Tree",
+    "url": "https://puttingscene.com/events/4074",
+    "startDate": "2026-05-01T21:00:00+05:30",
+    "endDate": "2026-05-01T22:00:00+05:30",
+    "description": "Aritmija Fusion celebrates ten years of music without borders, blending Balkan folk with Indian classical, Sufi, jazz and flamenco",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-dev-media.s3.ap-south-1.amazonaws.com%2Fgenerated-images%2F2026%2F04%2F30%2F1777551944072-1777551944009_x8qrfm9cc1e.png",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Humming+Tree%2C+949%2C+12th+Main+Road%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
+    },
+    "sameAs": "https://urbanaut.app/spot/artimija-fusion-live-at-the-humming-tree"
+  },
+  {
+    "@type": "Event",
+    "name": "Srirangapatna Day Tour",
+    "url": "https://puttingscene.com/events/4058",
+    "startDate": "2026-05-02T07:00:00+05:30",
+    "endDate": "2026-05-02T20:00:00+05:30",
+    "description": "A day-long heritage walk through Tipu Sultan's fortress capital, from Daria Daulat Bagh and the Gumbaz to the breach where the Anglo-Mysore Wars ended",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4058%2Fa6248c28-ea1d-4b5e-b5c2-e00ccda1f095.jpg",
+    "location": {
+      "name": "Srirangapatna",
+      "address": "Srirangapatna, ",
+      "url": "https://maps.google.com/?cid=3171212281860422370"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "2850.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Reading Social",
+    "url": "https://puttingscene.com/events/4060",
+    "startDate": "2026-05-02T09:00:00+05:30",
+    "endDate": "2026-05-02T11:00:00+05:30",
+    "description": "Ninety minutes of silent reading followed by a sharing circle, designed for people who like the quiet comfort of reading in good company",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4060%2Fed6aad2d-d1b9-42c0-a3cf-1425ea68daca.jpg",
+    "location": {
+      "name": "AZDAH, Indiranagar",
+      "address": "AZDAH, Indiranagar, ",
+      "url": "https://maps.app.goo.gl/wT5dK319XXGjvidj8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "650.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -448,6 +410,126 @@
       "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Jigsaw Junkies by Playful Pursuits",
+    "url": "https://puttingscene.com/events/4050",
+    "startDate": "2026-05-02T12:00:00+05:30",
+    "endDate": "2026-05-02T17:00:00+05:30",
+    "description": "A relaxed, off-screen afternoon spent piecing together fresh jigsaws from India's most innovative puzzle makers",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4050%2F7456ba6a-9a24-400e-8ae5-e88cf356b15d.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "422.88",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds of Pasta: A Guided Gnocchi-Making Experience",
+    "url": "https://puttingscene.com/events/4033",
+    "startDate": "2026-05-02T14:00:00+05:30",
+    "endDate": "2026-05-02T15:30:00+05:30",
+    "description": "A chef-guided session on shaping beetroot gnocchi from scratch, finished in wild arugula walnut pesto or aglio olio",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4033%2F2d7d06aa-f33f-4a23-9f33-a89350998495.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "895.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds of Pasta: A Guided Gnocchi-Making Experience",
+    "url": "https://puttingscene.com/events/4033",
+    "startDate": "2026-05-02T15:30:00+05:30",
+    "endDate": "2026-05-02T17:00:00+05:30",
+    "description": "A chef-guided session on shaping beetroot gnocchi from scratch, finished in wild arugula walnut pesto or aglio olio",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4033%2F2d7d06aa-f33f-4a23-9f33-a89350998495.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "895.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Little Folds of Pasta: A Guided Gnocchi-Making Experience",
+    "url": "https://puttingscene.com/events/4033",
+    "startDate": "2026-05-02T17:00:00+05:30",
+    "endDate": "2026-05-02T18:30:00+05:30",
+    "description": "A chef-guided session on shaping beetroot gnocchi from scratch, finished in wild arugula walnut pesto or aglio olio",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4033%2F2d7d06aa-f33f-4a23-9f33-a89350998495.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "895.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 3
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "La Ceremonie - French Film Screening by BFF",
+    "url": "https://puttingscene.com/events/4064",
+    "startDate": "2026-05-02T18:00:00+05:30",
+    "endDate": "2026-05-02T20:00:00+05:30",
+    "description": "The crowning film of French director Claude Chabrol's career, a 1995 thriller coolly observing class dynamics and the secrets beneath bourgeois life",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4064%2F8072eed7-fe23-4838-aa9d-17bc8a308e8f.jpg",
+    "location": {
+      "name": "Untitled Arts Foundation",
+      "address": "Untitled Arts Foundation, ",
+      "url": "https://maps.app.goo.gl/3AaSPyZCAoyBJxtV7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "200.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 15
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -632,5 +714,35 @@
         "remainingAttendeeCapacity": 10
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "She Raised The Bar",
+    "url": "https://puttingscene.com/events/4061",
+    "startDate": "2026-05-10T12:30:00+05:30",
+    "endDate": "2026-05-10T23:30:00+05:30",
+    "description": "A Mother's Day at Serious Slice anchored by La Bianca delle Mamme, a wood-fired white pizza on 72-hour dough, with antipasti and pasta",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4061%2Fbac5e3a9-8f88-4080-8ed0-be800a947973.jpg",
+    "location": {
+      "name": "Serious Slice, Cunningham Rd, Vasanth Nagar",
+      "address": "Serious Slice, Cunningham Rd, Vasanth Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Serious+Slice%2C+14%2C+Cunningham+Rd%2C+Vasanth+Nagar%2C+Bengaluru%2C+Karnataka+560052"
+    },
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Make Her Day - Mother's Day At Daysie RR Nagar",
+    "url": "https://puttingscene.com/events/4062",
+    "startDate": "2026-05-10T12:30:00+05:30",
+    "endDate": "2026-05-10T23:30:00+05:30",
+    "description": "A Mother's Day at Daysie pairing a mom-inspired menu with hand-written cards, a photo moment, and soulful live music",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4062%2F27e7df6f-5fc6-4584-b5d7-fdf132eb8b38.jpg",
+    "location": {
+      "name": "Daysie (RR Nagar) : All Day Casual Bar",
+      "address": "Daysie (RR Nagar) : All Day Casual Bar, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daysie%20(RR%20Nagar)%20%3A%20All%20Day%20Casual%20Bar&query_place_id=ChIJ1-MNr5s_rjsRMyB2Y-yg_mo"
+    },
+    "isAccessibleForFree": true
   }
 ]
