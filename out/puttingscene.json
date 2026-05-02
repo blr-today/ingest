@@ -87,7 +87,7 @@
         "price": "650.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 4
       }
     ]
   },
@@ -183,11 +183,11 @@
     "offers": [
       {
         "@type": "Offer",
-        "name": "Regular",
-        "price": "422.88",
+        "name": "Walk-In",
+        "price": "380.51",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 15
       }
     ]
   },
@@ -210,30 +210,6 @@
         "@type": "Offer",
         "price": "850.00",
         "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Little Folds of Pasta: A Guided Gnocchi-Making Experience",
-    "url": "https://puttingscene.com/events/4033",
-    "startDate": "2026-05-02T14:00:00+05:30",
-    "endDate": "2026-05-02T15:30:00+05:30",
-    "description": "A chef-guided session on shaping beetroot gnocchi from scratch, finished in wild arugula walnut pesto or aglio olio",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4033%2F2d7d06aa-f33f-4a23-9f33-a89350998495.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "895.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -305,54 +281,6 @@
   },
   {
     "@type": "Event",
-    "name": "Little Folds of Pasta: A Guided Gnocchi-Making Experience",
-    "url": "https://puttingscene.com/events/4033",
-    "startDate": "2026-05-02T15:30:00+05:30",
-    "endDate": "2026-05-02T17:00:00+05:30",
-    "description": "A chef-guided session on shaping beetroot gnocchi from scratch, finished in wild arugula walnut pesto or aglio olio",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4033%2F2d7d06aa-f33f-4a23-9f33-a89350998495.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "895.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Little Folds of Pasta: A Guided Gnocchi-Making Experience",
-    "url": "https://puttingscene.com/events/4033",
-    "startDate": "2026-05-02T17:00:00+05:30",
-    "endDate": "2026-05-02T18:30:00+05:30",
-    "description": "A chef-guided session on shaping beetroot gnocchi from scratch, finished in wild arugula walnut pesto or aglio olio",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4033%2F2d7d06aa-f33f-4a23-9f33-a89350998495.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "895.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "La Ceremonie - French Film Screening by BFF",
     "url": "https://puttingscene.com/events/4064",
     "startDate": "2026-05-02T18:00:00+05:30",
@@ -371,7 +299,7 @@
         "price": "200.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 15
+        "remainingAttendeeCapacity": 13
       }
     ]
   },
@@ -478,22 +406,6 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 9
-      },
-      {
-        "@type": "Offer",
-        "name": "Chair Seating Duo (2)",
-        "price": "899.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
-      },
-      {
-        "@type": "Offer",
-        "name": "Chair Seating Quad (4)",
-        "price": "1699.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -517,7 +429,7 @@
         "price": "508.47",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 996
+        "remainingAttendeeCapacity": 995
       },
       {
         "@type": "Offer",
