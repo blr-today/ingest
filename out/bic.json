@@ -65,6 +65,26 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "@id": "88413-1778007600-1778011200@bangaloreinternationalcentre.org",
+    "name": "Yad\u0101",
+    "startDate": "2026-05-05T19:00:00+05:30",
+    "endDate": "2026-05-05T20:00:00+05:30",
+    "description": "Knowledge and wealth are complementary energies, attained only through balance. \nYad\u0101 is a Kuchipudi duet that explores the playful, deeply human exchange between the goddesses of knowledge and wealth. They are played as refreshingly relatable characters, while the dance form itself creates a celestial ethos. Through expressive abhinaya, rhythmic passages, and light-hearted vachika, the production celebrates contrast, companionship, and ultimate harmony. \nPlayful. Philosophical. Prismatic. \nSupported by:\n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/yada/",
+    "keywords": [
+      "Dance",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-42.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "@id": "88600-1778265000-1778270400@bangaloreinternationalcentre.org",
     "name": "Writing In English for the Indian Stage",
     "startDate": "2026-05-08T18:30:00+05:30",
@@ -127,23 +147,27 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "88413-1778007600-1778011200@bangaloreinternationalcentre.org",
-    "name": "Yad\u0101",
-    "startDate": "2026-05-05T19:00:00+05:30",
-    "endDate": "2026-05-05T20:00:00+05:30",
-    "description": "Knowledge and wealth are complementary energies, attained only through balance. \nYad\u0101 is a Kuchipudi duet that explores the playful, deeply human exchange between the goddesses of knowledge and wealth. They are played as refreshingly relatable characters, while the dance form itself creates a celestial ethos. Through expressive abhinaya, rhythmic passages, and light-hearted vachika, the production celebrates contrast, companionship, and ultimate harmony. \nPlayful. Philosophical. Prismatic. \nSupported by:\n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/yada/",
+    "@type": "TheaterEvent",
+    "@id": "88799-1778612400-1778617800@bangaloreinternationalcentre.org",
+    "name": "Knockers",
+    "startDate": "2026-05-12T19:00:00+05:30",
+    "endDate": "2026-05-12T20:30:00+05:30",
+    "description": "Across the country, volunteers are knitting and crocheting prosthetic breasts for women who\u2019ve had mastectomies. Many of them are survivors themselves. Through the act of creation, they restore something that surgery cannot: dignity, agency, a sense of self. Knockers carries the same spirit. \nIntimate. Unapologetic. Defiant. \nThis one-person performance is built from five monologues. A model who built her life around her body. A teacher who meets her diagnosis with Shakespeare. A survivor preparing for her first intimate encounter after surgery. A non-binary individual navigating a medical system that can\u2019t see them. An immigrant carrying cultural silence in two languages. Together, their stories weave a tapestry of grief, rage, humour, resistance, and radical self-definition. \nWhen the body changes, who decides what remains sacred? \nThe performance will be followed by a Q&A. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/knockers/",
     "keywords": [
-      "Dance",
-      "Performing Arts"
+      "Performing Arts",
+      "Theatre"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail-42.jpg"
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Knockers"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail_K.jpg"
   },
   {
     "@context": "https://schema.org",
