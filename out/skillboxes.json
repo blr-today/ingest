@@ -2,41 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "PARICHAY by Karan Verma is the official India tour in support of his debut album Parichay—an evocative live experience that brings together rock and indie fusion into a sound that’s both intimate and expansive.\r\n\r\n \r\n\r\n",
-      "endDate": "2026-05-23T23:59:00",
-      "identifier": "com.skillboxes.35907",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777197805ZxywQVSsw6MRv61c.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "763, 100 Feet Rd, next to Xtreme Sports Bar",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.971101",
-            "longitude": "77.6409081"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "'Parichay' by Karan Verma | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory Cover charges 500 till 8pm and 1000 after 8pm\n",
-            "inventoryLevel": 1,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/parichay-by-karan-verma-bangalore-1"
-         }
-      ],
-      "startDate": "2026-05-23T20:00:00",
-      "url": "https://www.skillboxes.com/events/parichay-by-karan-verma-bangalore-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Experience an electrifying night with Maan Pannu live in concert. Known for his energetic beats and soulful Punjabi vibes, he promises a high-octane performance filled with hit tracks and unforgettable moments. Get ready to dance, sing, and celebr",
       "endDate": "2026-05-09T23:59:00",
       "identifier": "com.skillboxes.35799",
@@ -100,6 +65,32 @@
       ],
       "startDate": "2026-05-09T20:00:00",
       "url": "https://www.skillboxes.com/events/maan-panu-live-at-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "⚔️ Swordsman SummarySword & Shield = Main tank (taunts, ally buffs, thorns, counterattack).Dual Blades = Off-tank / stagger destroyer (Shock debuff, taunt, block).Greatsword ",
+      "endDate": "2026-12-31T07:41:00",
+      "identifier": "com.skillboxes.36077",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VlBhZjlLOU9QVUNaeWRBMU1MamI5Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777883749t6iZFy6tNZ8Q5eZE.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Entertainment"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "MMOEXP Chrono Odyssey Beta Class Guide: Berserker, Ranger & Swordsman",
+      "offers": [ ],
+      "startDate": "2026-05-04T16:34:00",
+      "url": "https://www.skillboxes.com/events/mmoexp-chrono-odyssey-beta-class-guide-berserker-ranger-swordsman"
    },
    {
       "@context": "https://schema.org",
@@ -440,13 +431,48 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 997,
+            "inventoryLevel": 994,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-mlir-se-more-indiranagarsocial"
          }
       ],
       "startDate": "2026-05-08T20:00:00",
       "url": "https://www.skillboxes.com/events/jackfruit-dance-party-ft-mlir-se-more-indiranagarsocial"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "PARICHAY by Karan Verma is the official India tour in support of his debut album Parichay—an evocative live experience that brings together rock and indie fusion into a sound that’s both intimate and expansive.\r\n\r\n \r\n\r\n",
+      "endDate": "2026-05-23T23:59:00",
+      "identifier": "com.skillboxes.35907",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777197805ZxywQVSsw6MRv61c.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "763, 100 Feet Rd, next to Xtreme Sports Bar",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.971101",
+            "longitude": "77.6409081"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "'Parichay' by Karan Verma | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover charges 500 till 8pm and 1000 after 8pm\n",
+            "inventoryLevel": 1,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/parichay-by-karan-verma-bangalore-1"
+         }
+      ],
+      "startDate": "2026-05-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/parichay-by-karan-verma-bangalore-1"
    },
    {
       "@context": "https://schema.org",
@@ -496,11 +522,11 @@
       ],
       "location": {
          "@type": "Place",
-         "address": null,
+         "address": "763, 100 Feet Rd, next to Xtreme Sports Bar",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
+            "latitude": "12.971101",
+            "longitude": "77.6409081"
          },
          "name": "The Humming Tree"
       },
@@ -510,7 +536,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 1000 applicable at the doors\n",
-            "inventoryLevel": 107,
+            "inventoryLevel": 84,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-blackstratblues-show-2"
          },
@@ -676,11 +702,11 @@
       ],
       "location": {
          "@type": "Place",
-         "address": null,
+         "address": "763, 100 Feet Rd, next to Xtreme Sports Bar",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
+            "latitude": "12.971101",
+            "longitude": "77.6409081"
          },
          "name": "The Humming Tree"
       },
@@ -690,7 +716,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry is on a first-come, first-served basis; no entry once venue capacity is reached, even with a valid ticket.\n",
-            "inventoryLevel": 439,
+            "inventoryLevel": 358,
             "name": "RSVP/Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/indian-music-diaries-awards-26-showcase-bangalore"
          }
