@@ -49,38 +49,6 @@
   },
   {
     "@type": "Event",
-    "name": "Recipeat Bar crawl 7 - Cinco de Mayo edition \ud83c\udf2e\ud83d\udc83\ud83c\uddf2\ud83c\uddfd",
-    "url": "https://puttingscene.com/events/4104",
-    "startDate": "2026-05-05T18:30:00+05:30",
-    "endDate": "2026-05-05T23:30:00+05:30",
-    "description": "A Cinco de Mayo cocktail crawl across five central Bangalore bars, featuring off-menu Don Julio drinks built one-night-only by each bartender",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4104%2Fc92996de-c195-49e1-aa0a-2263eb3323f7.jpg",
-    "location": {
-      "name": "SOUTHERNSTAR BANGALORE",
-      "address": "SOUTHERNSTAR BANGALORE, ",
-      "url": "https://maps.google.com/?cid=15733923391089732779"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Route 1: General",
-        "price": "3333.33",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
-      },
-      {
-        "@type": "Offer",
-        "name": "Route 2: General Pass",
-        "price": "3333.33",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 2
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "Equilibrium - Rock Balancing Workshop",
     "url": "https://puttingscene.com/events/4122",
     "startDate": "2026-05-05T19:00:00+05:30",
@@ -309,7 +277,7 @@
         "price": "799.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 97
+        "remainingAttendeeCapacity": 95
       }
     ]
   },
@@ -438,7 +406,16 @@
       "address": "Serious Slice, Cunningham Rd, Vasanth Nagar, Bangalore",
       "url": "https://www.google.com/maps/search/?api=1&query=Serious+Slice%2C+14%2C+Cunningham+Rd%2C+Vasanth+Nagar%2C+Bengaluru%2C+Karnataka+560052"
     },
-    "isAccessibleForFree": true
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Entry",
+        "price": "476.19",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 998
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -462,7 +439,7 @@
     "startDate": "2026-05-10T16:00:00+05:30",
     "endDate": "2026-05-10T17:00:00+05:30",
     "description": "A slow Mother's Day workshop where parents and children fold keepsake origami pieces side by side, taking home what they make",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4067%2Fda0be409-feea-4d6b-aa9a-5ea7e8969d8c.jpg",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4067%2F7368d90f-adaa-4a9f-9b8f-a3f5fe34c652.jpg",
     "location": {
       "name": "Serious Slice, Cunningham Rd, Vasanth Nagar",
       "address": "Serious Slice, Cunningham Rd, Vasanth Nagar, Bangalore",
