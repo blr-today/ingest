@@ -67,7 +67,7 @@
         "price": "809.52",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -131,7 +131,7 @@
         "price": "809.52",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -319,7 +319,7 @@
         "price": "800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 7
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -586,7 +586,7 @@
         "price": "422.88",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 2
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -610,7 +610,7 @@
         "price": "809.52",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 3
       }
     ]
   },
@@ -672,54 +672,6 @@
   },
   {
     "@type": "Event",
-    "name": "The Pide Table : A Turkish Pide Making Experience",
-    "url": "https://puttingscene.com/events/4116",
-    "startDate": "2026-05-09T16:00:00+05:30",
-    "endDate": "2026-05-09T17:30:00+05:30",
-    "description": "A hands-on pide session shaping the Turkish flatbread three ways: spinach and goat cheese, roasted vegetables on smoked tomato, and lamb and feta",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4116%2Fafad0e85-c661-4fe5-8646-2110393a4e7c.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "809.52",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "The Pide Table : A Turkish Pide Making Experience",
-    "url": "https://puttingscene.com/events/4116",
-    "startDate": "2026-05-09T17:30:00+05:30",
-    "endDate": "2026-05-09T19:00:00+05:30",
-    "description": "A hands-on pide session shaping the Turkish flatbread three ways: spinach and goat cheese, roasted vegetables on smoked tomato, and lamb and feta",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4116%2Fafad0e85-c661-4fe5-8646-2110393a4e7c.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, ",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "809.52",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "Book Launch: The Complex by Karan Mahajan",
     "url": "https://puttingscene.com/events/4134",
     "startDate": "2026-05-09T18:00:00+05:30",
@@ -753,7 +705,7 @@
         "price": "508.47",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 998
+        "remainingAttendeeCapacity": 992
       },
       {
         "@type": "Offer",
@@ -1119,15 +1071,7 @@
         "price": "599.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
-      },
-      {
-        "@type": "Offer",
-        "name": "Duo \u2014 Entry for two (Rs 200 Redeemable, FnB)",
-        "price": "1099.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 2
+        "remainingAttendeeCapacity": 21
       }
     ]
   }
