@@ -1,37 +1,5 @@
 [
   {
-    "name": "SIS x Nike Women's Cricket Coaching",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thurs4202",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Cricket",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thurs4202",
-    "image": "https://sistersinsweat.com/images/event/20260326140257559.png",
-    "location": {
-      "name": "Rush Arena",
-      "address": "Rush Arena, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
-      "type": "Place"
-    },
-    "startDate": "2026-05-07T20:00:00+05:30",
-    "endDate": "2026-05-07T21:30:00+05:30"
-  },
-  {
     "name": "Sisters & Misters Football Game Day",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-Fri5202",
@@ -508,6 +476,38 @@
     },
     "startDate": "2026-05-16T14:00:00+05:30",
     "endDate": "2026-05-16T16:00:00+05:30"
+  },
+  {
+    "name": "SIS X TRIPPY GOAT CAFE: Sip & Paint Workshop",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Sip-Paint-Trippy-Goat-Grover-May16",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Event",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Sip-Paint-Trippy-Goat-Grover-May16",
+    "image": "https://sistersinsweat.com/images/event/20260507175058077.png",
+    "location": {
+      "name": "Trippy Goat Cafe",
+      "address": "Trippy Goat Cafe, Indicube Symphony, Shankarnarayan Building, Mahatma Gandhi Rd, opposite East Parade Church, Craig Park Layout, Ashok Nagar",
+      "type": "Place"
+    },
+    "startDate": "2026-05-16T16:30:00+05:30",
+    "endDate": "2026-05-16T18:30:00+05:30"
   },
   {
     "name": "Sisters and Misters Yoga Mornings",
