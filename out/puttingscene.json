@@ -259,7 +259,7 @@
         "price": "300.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 19
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -306,14 +306,31 @@
     "url": "https://puttingscene.com/events/2097",
     "startDate": "2026-05-09T08:00:00+05:30",
     "endDate": "2026-05-09T11:00:00+05:30",
-    "description": "A heritage walk uncovers Bengaluru Fort\u2019s stories, linking Tipu Sultan\u2019s era, wartime innovation, and the city\u2019s evolving landscape",
+    "description": "A guided walk through the fragments of Bengaluru Fort, tracing Tipu Sultan's reign, the Battle of Bangalore and the city's pre-colonial past",
     "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F2097%2F9d76e5e8-2608-4f7c-b4c8-838b3c3dc943.jpg",
     "location": {
       "name": "Tipu Sultan's Summer Palace",
       "address": "Tipu Sultan's Summer Palace, Bangalore",
       "url": "https://www.google.com/maps/search/?api=1&query=Tipu%20Sultan's%20Summer%20Palace&query_place_id=ChIJAeY0tOQVrjsRdZ8hleP7aRo"
     },
-    "isAccessibleForFree": true
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "875.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 14
+      },
+      {
+        "@type": "Offer",
+        "name": "Foreign nationals",
+        "price": "875.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -374,7 +391,7 @@
         "price": "950.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -597,7 +614,7 @@
         "price": "476.19",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 93
+        "remainingAttendeeCapacity": 44
       },
       {
         "@type": "Offer",
@@ -605,7 +622,7 @@
         "price": "476.19",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 96
+        "remainingAttendeeCapacity": 93
       }
     ]
   },
@@ -629,7 +646,7 @@
         "price": "338.14",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
+        "remainingAttendeeCapacity": 8
       }
     ]
   },
@@ -655,7 +672,7 @@
     "startDate": "2026-05-10T09:30:00+05:30",
     "endDate": "2026-05-10T11:30:00+05:30",
     "description": "slow Mother's Day wellness session of soft mat Pilates, guided breathwork and quiet connection over refreshments and a self-care goodie bag",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4117%2F2fd7fec5-7b8d-473c-acdd-ac30a27f2f67.jpg",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4117%2F8dd79494-4f62-4338-a8ce-033a0dc37784.jpg",
     "location": {
       "name": "Studio Oura",
       "address": "Studio Oura, ",
@@ -668,7 +685,7 @@
         "price": "950.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
+        "remainingAttendeeCapacity": 4
       }
     ]
   },
@@ -1010,7 +1027,7 @@
         "price": "952.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
+        "remainingAttendeeCapacity": 8
       },
       {
         "@type": "Offer",
