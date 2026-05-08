@@ -2,6 +2,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Shake, stir, and sip your way into an unforgettable evening at Captain Chips Galley as we bring you an exclusive Bar Takeover Night featuring Prathamesh and Laltanpuia from Mumbai’s iconic House of Palomas.Join us",
+      "endDate": "2026-05-13T23:59:00",
+      "identifier": "com.skillboxes.36233",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778263118GXOJBNhRaDyFMAOe.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food & Drinks"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9684535",
+            "longitude": "77.716821"
+         },
+         "name": "DoubleTree by Hilton Bengaluru Whitefield"
+      },
+      "name": "Five Nights Five Takeovers",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Fully redeemable on Cocktails\n",
+            "inventoryLevel": 1000,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/five-nights-five-takeovers"
+         }
+      ],
+      "startDate": "2026-05-13T19:00:00",
+      "url": "https://www.skillboxes.com/events/five-nights-five-takeovers"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Step into a different kind of Saturday night with SoulEscape Events.This isn’t a loud club night or a formal networking event — it’s a curated social experience built around music, conversations, and genuine hum",
       "endDate": "2026-05-09T23:59:00",
       "identifier": "com.skillboxes.36211",
@@ -344,40 +379,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Elevate your Friday night!Join us at the stunning Skydeck by Sherlock`s for an unforgettable DJ night featuring the biggest commercial hits and your favorite Bollywood bangers.Dance under the stars on our vibran",
-      "endDate": "2026-05-08T23:59:00",
-      "identifier": "com.skillboxes.36192",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778125243wCrqO0mcR7DqwJwH.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750383",
-            "longitude": "77.6076491"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Bollywood & Commercial DJ Night - Mixtape Madness",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/bollywood-commercial-dj-night-mixtape-madness"
-         }
-      ],
-      "startDate": "2026-05-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/bollywood-commercial-dj-night-mixtape-madness"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "What started as a small circle under fairy lights has, over the past year, turned into a room full of voices singing together from ye tune kya kiya and mitwa to bheegi bheegi si hain raatein, Arijit favourites, Emraan classics, and timeless song",
       "endDate": "2026-05-23T08:30:00",
       "identifier": "com.skillboxes.36189",
@@ -409,41 +410,6 @@
       ],
       "startDate": "2026-05-23T06:30:00",
       "url": "https://www.skillboxes.com/events/jam-and-toast-1-year-anniversary-jam"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the spotlight this Fashion Friday and experience an evening where style meets sound! Join us at BrauGalie, Koramangala from 6 PM onwards for a glamorous night hosted by Leena, featuring the electrifying beats of V",
-      "endDate": "2026-05-08T20:00:00",
-      "identifier": "com.skillboxes.36186",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778077416eqatt4VBx2ZWSkx2.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "25, 4th B Cross Rd, Industrial Area, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9329986",
-            "longitude": "77.6136165"
-         },
-         "name": "Brau Galie Micro Brewery & Pub"
-      },
-      "name": "FASHION FRIDAY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover will be charged at gate\n",
-            "inventoryLevel": 100,
-            "name": "Entry for one",
-            "url": "https://www.skillboxes.com/events/ticket/fashion-friday-2"
-         }
-      ],
-      "startDate": "2026-05-08T16:00:00",
-      "url": "https://www.skillboxes.com/events/fashion-friday-2"
    },
    {
       "@context": "https://schema.org",
@@ -536,12 +502,12 @@
          },
          "name": "Indiranagar SOCIAL"
       },
-      "name": "Section 140",
+      "name": "Section 140 \"Vol. 9\"",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 991,
+            "inventoryLevel": 982,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/section-140"
          }
@@ -672,49 +638,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "All hail the queen of the night 👑🔥Turn up the glam at Gala Queen featuring DJ Mishy, bringing fierce beats and unmatched energy 🎧✨Also featuring Sujant & Revibe to keep the ",
-      "endDate": "2026-05-08T23:59:00",
-      "identifier": "com.skillboxes.36146",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778002341nSEf65IcjAgwXIfc.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "GALA QUEENS FT. DJ MISHI AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-dj-mishi-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-dj-mishi-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-05-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/gala-queens-ft-dj-mishi-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "One second it’s soft, soulful, and everyone’s in their feelings…next second the entire room is singing and dancing like it’s a baraat.Welcome to The Mehfil Jam by LITJAM — a cozy,",
       "endDate": "2026-05-10T06:30:00",
       "identifier": "com.skillboxes.36128",
@@ -774,7 +697,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 195,
+            "inventoryLevel": 194,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/sunburn-select-ft-nirvaan-9th-may-gawky-goose"
          },
@@ -782,7 +705,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/sunburn-select-ft-nirvaan-9th-may-gawky-goose"
          }
@@ -1216,7 +1139,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of 1,000 onwards per person is applicable at the venue\n",
-            "inventoryLevel": 13,
+            "inventoryLevel": 6,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/trym-live-at-gylt-bangalore"
          }
@@ -1351,41 +1274,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Jackfruit Dance Party ft. MLIR (SE) & more #IndiranagarSOCIAL",
-      "endDate": "2026-05-08T23:59:00",
-      "identifier": "com.skillboxes.35915",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1777298046O5ZpTz0mqO7q0pNT.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Indiranagar Social",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "Jackfruit Dance Party ft. MLIR (SE) & more #IndiranagarSOCIAL",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 986,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-mlir-se-more-indiranagarsocial"
-         }
-      ],
-      "startDate": "2026-05-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/jackfruit-dance-party-ft-mlir-se-more-indiranagarsocial"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "PARICHAY by Karan Verma is the official India tour in support of his debut album Parichay—an evocative live experience that brings together rock and indie fusion into a sound that’s both intimate and expansive.\n\n ",
       "endDate": "2026-05-23T23:59:00",
       "identifier": "com.skillboxes.35907",
@@ -1445,7 +1333,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 500 cover charge to be paid at the gates (Fully Redeemable)\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 44,
             "name": "Early Bird | Stories in Sound: Ch 1: The Open Book",
             "url": "https://www.skillboxes.com/events/ticket/stories-in-sound-ch-1-the-open-book-1"
          }
@@ -1554,41 +1442,6 @@
       ],
       "startDate": "2026-05-16T21:30:00",
       "url": "https://www.skillboxes.com/events/stanley-jordan-duo-ft-kenwood-dennard-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The IMD Awards Showcase is an annual celebration of India's independent music scene, presented by The Indian Music Diaries. Now in its 7th edition, the showcase features a live lineup curated from each year's IMD Awards nominees, bringing ",
-      "endDate": "2026-05-08T23:59:00",
-      "identifier": "com.skillboxes.35615",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776165631Cs6g1Sglkrd4Dn8b.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Award Shows"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "763, 100 Feet Rd, next to Xtreme Sports Bar",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.971101",
-            "longitude": "77.6409081"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Indian Music Diaries Awards '26: Showcase  || Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry is on a first-come, first-served basis; no entry once venue capacity is reached, even with a valid ticket.\n",
-            "inventoryLevel": 38,
-            "name": "RSVP/Free Pass",
-            "url": "https://www.skillboxes.com/events/ticket/indian-music-diaries-awards-26-showcase-bangalore"
-         }
-      ],
-      "startDate": "2026-05-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/indian-music-diaries-awards-26-showcase-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -1766,56 +1619,5 @@
       "offers": [ ],
       "startDate": "2026-12-31T08:00:00",
       "url": "https://www.skillboxes.com/events/new-year-eve-s-gala-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "HighlightsDJ Night Non-Stop MusicBollywood MusicDance FloorGreat A",
-      "endDate": "2026-05-09T00:45:00",
-      "identifier": "com.skillboxes.27271",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778049111LxHcnp044cMCFDlt.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348483",
-            "longitude": "77.6138996"
-         },
-         "name": "Badmaash Koramangala"
-      },
-      "name": "Friday Nakhra Night at Badmaash Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one stag entry to the event. - Cover charge of INR 2000/- is applicable at the venue.\n",
-            "inventoryLevel": 498,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow group of ladies\n",
-            "inventoryLevel": 500,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one couple entry to the event. - Cover charge of INR 1500/- is applicable at the venue after 9:30 PM.\n",
-            "inventoryLevel": 499,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         }
-      ],
-      "startDate": "2026-05-08T19:00:00",
-      "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala"
    }
 ]
