@@ -1,37 +1,5 @@
 [
   {
-    "name": "Badminton Coaching-Beginner & Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-8182",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Badminton",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Sat-8182",
-    "image": "https://www.sistersinsweat.com/images/event/20260429150843175.jpeg",
-    "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar",
-      "type": "Place"
-    },
-    "startDate": "2026-05-09T14:00:00+05:30",
-    "endDate": "2026-05-09T16:00:00+05:30"
-  },
-  {
     "name": "SIS X SPORTS YARD: Girls Run the Yard - Let's Run, Yoga & Dance",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Sports-Yard-Run-Yoga-Dance-May10",
@@ -285,6 +253,38 @@
     },
     "startDate": "2026-05-16T07:00:00+05:30",
     "endDate": "2026-05-16T08:30:00+05:30"
+  },
+  {
+    "name": "Women's Beginner Basketball Coaching- Jakkur",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Gamelink-Sat6",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Gamelink-Sat6",
+    "image": "https://sistersinsweat.com/images/event/20260509154442860.jpeg",
+    "location": {
+      "name": "The Shri Ram Universal School, Jakkur",
+      "address": "Survey No. 99, Green Garden Layout, Phase 2, Jakkur, Chokkanahalli",
+      "type": "Place"
+    },
+    "startDate": "2026-05-16T07:30:00+05:30",
+    "endDate": "2026-05-16T09:00:00+05:30"
   },
   {
     "name": "Women's Padel Coaching",
