@@ -45,30 +45,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "89088-1779217200-1779222600@bangaloreinternationalcentre.org",
-    "name": "Nirbhay Nirgun",
-    "startDate": "2026-05-19T19:00:00+05:30",
-    "endDate": "2026-05-19T20:30:00+05:30",
-    "description": "\u2018Nirbhay Nirgun Gun Re Gaunga,\u2019 Kabir wrote. \nThe fearless, nirbhay, and the formless, nirgun: this is the aspiration for the mind. \nNirbhay Nirgun is a concert celebrating Kabir\u2019s philosophy and his plain-spoken wisdom through song, interspersed with discussion that contextualises the verses within today\u2019s challenging socio-political climate. Hindustani classical musicians Nimish and Avanti bring this journey to life through some of Kabir\u2019s most iconic writing \u2014 settings immortalised by Kumar Gandharva and Madhup Mudgal, compositions by their guru Padma Shri Dr Ashwini Bhide Deshpande, and new compositions by Nimish himself. \nKahat Kabir Suno Bhai Sadho, Jeet Nishan Ghuraunga! \nCredits\nWriter- Avanti Patel\nVocals- Avanti Patel & Nimish Kaikadi\nTabla- Vighnesh Kamath\nHarmonium- Vishvajith Kini\nPercussions- Shamdath Ravi \nSupported by: \n \n\u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/nirbhay-nirgun/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Nirbhay Nirgun"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail-3.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "@id": "88865-1778931000-1778949000@bangaloreinternationalcentre.org",
     "name": "Found Wanting",
@@ -96,7 +72,7 @@
     "name": "The Girl Who Was the Color of Nothing",
     "startDate": "2026-05-17T11:30:00+05:30",
     "endDate": "2026-05-17T13:00:00+05:30",
-    "description": "How far will a family go to ensure their daughter\u2019s skin never darkens? \nThe Girl Who Was the Color of Nothing is a collaboration between writer R. Benedito Ferr\u00e3o and artist Maria Vanessa de Sa which answers that question with tragi-comic results. The tale delves into beauty standards that equate lighter skin with attractiveness, norms perpetuated uncritically by adults to the detriment of children. \nThe story draws from an unlikely source: a fourth-century Roman legend, reimagined through the style of sixteenth-century artwork. Metaphorical and magical all at once, this is a children\u2019s book written for adults. It invites readers to examine what they have internalised, and what they may be passing on. \nTo know, the author believes, is to heal. \nFerr\u00e3o joins Priya Joseph in conversation about the inspiration and ambitions for the book. Children and their adults are welcome. \n",
+    "description": "How far will a family go to ensure their daughter\u2019s skin never darkens? \nThe Girl Who Was the Color of Nothing is a collaboration between writer R. Benedito Ferr\u00e3o and artist Maria Vanessa de Sa which answers that question with tragi-comic results. This illustrated book delves into the ways lighter skin is equated with attractiveness, and how these norms are perpetuated uncritically by adults to the detriment of children. \nThe story draws from an unlikely source: a fourth-century Roman legend, reimagined through a\u00a0 sixteenth-century artwork that connects Portugal and South India. Metaphorical and magical all at once, this is a children\u2019s book written for adults. It invites readers to examine what they have internalised, and what they may be passing on. \nTo know, the author believes, is to heal. \nFerr\u00e3o joins Priya Joseph in conversation about the inspiration and ambitions for the book. Children and their adults are welcome. \n",
     "url": "https://bangaloreinternationalcentre.org/event/the-girl-who-was-the-color-of-nothing/",
     "keywords": [
       "Books",
@@ -155,6 +131,27 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "89053-1779017400-1779022800@bangaloreinternationalcentre.org",
+    "name": "Rights, Reality, Red Flags",
+    "startDate": "2026-05-17T11:30:00+05:30",
+    "endDate": "2026-05-17T13:00:00+05:30",
+    "description": "India has a brilliant constitution with nuanced laws on preventive detention, manual scavenging, military justice, free speech. Reality, as we well know, isn\u2019t always so perfectly packaged. \nDiscovery of New India (Conditions Apply) is a graphic novel by Aakar Patel and political cartoonist PenPencilDraw that moves through courtrooms, prisons, police stations, and the quiet machinery of bureaucracy to show how rights in contemporary India often exist with conditions attached. What makes it unusual is its form: stark, unsparing illustration that makes legal and constitutional realities, the kind that would otherwise stay buried in fine print, feel visceral and immediate. This is reportage you can\u2019t look away from. \nAakar Patel joins journalist Priya Ramani for a conversation about how the book was made: the rigorous research, the visual language it demanded, and the particular courage it takes to illustrate how power actually behaves. The session then opens to audience questions. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/rights-reality-red-flags/",
+    "keywords": [
+      "Books",
+      "Politics",
+      "Visual Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_RRRF.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "TheaterEvent",
     "@id": "88862-1778785200-1778789700@bangaloreinternationalcentre.org",
     "name": "Yugant",
@@ -176,30 +173,6 @@
       "name": "Yugant"
     },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail_Y.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "88799-1778612400-1778617800@bangaloreinternationalcentre.org",
-    "name": "Knockers",
-    "startDate": "2026-05-12T19:00:00+05:30",
-    "endDate": "2026-05-12T20:30:00+05:30",
-    "description": "Across the country, volunteers are knitting and crocheting prosthetic breasts for women who\u2019ve had mastectomies. Many of them are survivors themselves. Through the act of creation, they restore something that surgery cannot: dignity, agency, a sense of self. Knockers carries the same spirit. \nIntimate. Unapologetic. Defiant. \nThis one-person performance is built from five monologues. A model who built her life around her body. A teacher who meets her diagnosis with Shakespeare. A survivor preparing for her first intimate encounter after surgery. A non-binary individual navigating a medical system that can\u2019t see them. An immigrant carrying cultural silence in two languages. Together, their stories weave a tapestry of grief, rage, humour, resistance, and radical self-definition. \nWhen the body changes, who decides what remains sacred? \n\u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/knockers/",
-    "keywords": [
-      "Performing Arts",
-      "Theatre"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "Knockers"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/04/Thumbnail_K.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -226,22 +199,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "@id": "89053-1779017400-1779022800@bangaloreinternationalcentre.org",
-    "name": "Rights, Reality, Red Flags",
-    "startDate": "2026-05-17T11:30:00+05:30",
-    "endDate": "2026-05-17T13:00:00+05:30",
-    "description": "India has a brilliant constitution with nuanced laws on preventive detention, manual scavenging, military justice, free speech. Reality, as we well know, isn\u2019t always so perfectly packaged. \nDiscovery of New India (Conditions Apply) is a graphic novel by Aakar Patel and political cartoonist PenPencilDraw that moves through courtrooms, prisons, police stations, and the quiet machinery of bureaucracy to show how rights in contemporary India often exist with conditions attached. What makes it unusual is its form: stark, unsparing illustration that makes legal and constitutional realities, the kind that would otherwise stay buried in fine print, feel visceral and immediate. This is reportage you can\u2019t look away from. \nAakar Patel joins journalist Priya Ramani for a conversation about how the book was made: the rigorous research, the visual language it demanded, and the particular courage it takes to illustrate how power actually behaves. The session then opens to audience questions. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/rights-reality-red-flags/",
+    "@id": "89098-1779388200-1779393600@bangaloreinternationalcentre.org",
+    "name": "Ajanta Rediscovered",
+    "startDate": "2026-05-21T18:30:00+05:30",
+    "endDate": "2026-05-21T20:00:00+05:30",
+    "description": "The Ajanta Caves hold the greatest surviving body of ancient Indian murals. Until Benoy Behl, they were the only known examples of ancient India art.\u00a0 \nBehl began his career photographing nuclear power installations under Dr M R Srinivasan\u2019s leadership at the Atomic Energy Commission. That same eye, trained in the darkness of reactor buildings, looked into ancient caves and changed how the world sees Indian art. He captured paintings hidden in ancient temples and caves, shrouded for centuries in darkness too deep for conventional photography. Behl developed a low-light technique that revealed an unbroken lineage of painting running from Maharashtra through Badami, the Pallava paintings of Pannamalai, the Brihadisvara murals, and northward to the monasteries of Alchi and the Himalayas. His work overturned the belief that India had no continuous tradition of painting from ancient times. \nIn this illustrated lecture, Behl traces that very lineage, with images that make the argument that India\u2019s tradition of painting is among the greatest in the history of art. He will then take questions from the audience. \nAbout Dr. M.R. Srinivasan \nDr. M.R. Srinivasan (1930\u20132025) was widely regarded as the chief architect of India\u2019s nuclear power programme, beginning his career at the Department of Atomic Energy in 1955 under Dr. Homi J. Bhabha, and contributing to landmark projects including Apsara, India\u2019s first research reactor, the Tarapur Atomic Power Station, as well as the Madras Atomic Power Project. An alumnus of UVCE, Bengaluru and McGill University, Canada, he served as Chairman of the Atomic Energy Commission (1987\u20131990), and founded the Nuclear Power Corporation of India in 1987. A key policy figure, he served on the National Security Advisory Board, played a pivotal role in the Indo\u2013US nuclear agreement, advised the IAEA, co-founded the World Association of Nuclear Operators, and participated in the Pugwash Conferences as a lifelong champion of peaceful nuclear energy. He authored From Fission to Fusion: The Story of India\u2019s Atomic Energy Programme, was honoured with the Padma Shri (1984), Padma Bhushan (1990), and Padma Vibhushan (2015), and remained active in environmental and community initiatives in the Nilgiris until his passing in May 2025.\u00a0 \nPresented by: \nSharada\u00a0Srinivasan \n",
+    "url": "https://bangaloreinternationalcentre.org/event/ajanta-rediscovered/",
     "keywords": [
-      "Books",
-      "Politics",
-      "Visual Arts"
+      "Culture",
+      "Heritage",
+      "History",
+      "In Memory"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_RRRF.jpg"
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_AR.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "89088-1779217200-1779222600@bangaloreinternationalcentre.org",
+    "name": "Nirbhay Nirgun",
+    "startDate": "2026-05-19T19:00:00+05:30",
+    "endDate": "2026-05-19T20:30:00+05:30",
+    "description": "\u2018Nirbhay Nirgun Gun Re Gaunga,\u2019 Kabir wrote. \nThe fearless, nirbhay, and the formless, nirgun: this is the aspiration for the mind. \nNirbhay Nirgun is a concert celebrating Kabir\u2019s philosophy and his plain-spoken wisdom through song, interspersed with discussion that contextualises the verses within today\u2019s challenging socio-political climate. Hindustani classical musicians Nimish and Avanti bring this journey to life through some of Kabir\u2019s most iconic writing \u2014 settings immortalised by Kumar Gandharva and Madhup Mudgal, compositions by their guru Padma Shri Dr Ashwini Bhide Deshpande, and new compositions by Nimish himself. \nKahat Kabir Suno Bhai Sadho, Jeet Nishan Ghuraunga! \nCredits\nWriter- Avanti Patel\nVocals- Avanti Patel & Nimish Kaikadi\nTabla- Vighnesh Kamath\nHarmonium- Vishvajith Kini\nPercussions- Shamdath Ravi \nSupported by: \n \n\u00a0 \n",
+    "url": "https://bangaloreinternationalcentre.org/event/nirbhay-nirgun/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Nirbhay Nirgun"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail-3.jpg"
   }
 ]
