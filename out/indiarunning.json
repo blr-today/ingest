@@ -123,6 +123,56 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "May Edition - Run and Rave at Freshpik.",
+    "url": "https://indiarunning.com/events/may_edition__run_and_rave_at_freshpik_31000",
+    "startDate": "2026-05-24T07:00:00+05:30",
+    "endDate": "2026-05-24T10:30:00+05:30",
+    "description": "We start with a run around Ulsoor Lake, calm waters, early morning miles, the crew moving together.\nThen we take that energy straight into Freshpik.\nProtein shakes, bars, ragi cookies, mandarins, mini sandwiches, Bisleri in hand, all while the music kicks in and the space turns into a full-blown post-run rave.\nGood runs. Good fuel. Great vibes.\nRun hard. Rave harder. Freshpik after.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/05/24/may-edition---run-and-rave-at-freshpik.-2026/banner1778488619918",
+    "location": {
+      "@type": "Place",
+      "name": "Halasuru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, 1 MG Mall, Trinity Circle, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560008",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9735618,
+        "longitude": 77.6205177
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Custom",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "4k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "12K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "Wesness Women's 5k Fun Run, Bengaluru 2026",
     "url": "https://indiarunning.com/events/wesnesswomens5kfunrunbengaluru2026-36321",
     "startDate": "2026-05-31T06:00:00+05:30",
