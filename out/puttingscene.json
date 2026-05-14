@@ -112,30 +112,6 @@
   },
   {
     "@type": "Event",
-    "name": "On the Board 2.0 @ Daak 64",
-    "url": "https://puttingscene.com/events/4257",
-    "startDate": "2026-05-15T05:00:00+05:30",
-    "endDate": "2026-05-15T08:00:00+05:30",
-    "description": "The second edition of a doubles carrom tournament, decided on angles, rebounds and the right line on the striker",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4257%2F20dbe1bf-f3d0-401d-825d-070dbb945763.jpg",
-    "location": {
-      "name": "DAAK 64",
-      "address": "DAAK 64, ",
-      "url": "https://www.google.com/maps/search/?api=1&query=DAAK%2064&query_place_id=ChIJF5VIDAAZrjsRSIvNvqEc3A0"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "pre Booking for carrom tournament",
-        "price": "422.88",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "Friday Work Deli: Focus, Create, Nourish",
     "url": "https://puttingscene.com/events/4247",
     "startDate": "2026-05-15T11:00:00+05:30",
@@ -154,7 +130,7 @@
         "price": "800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 4
       }
     ]
   },
@@ -193,7 +169,31 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "On the Board 2.0 @ Daak 64",
+    "url": "https://puttingscene.com/events/4257",
+    "startDate": "2026-05-15T17:00:00+05:30",
+    "endDate": "2026-05-15T20:00:00+05:30",
+    "description": "The second edition of a doubles carrom tournament, decided on angles, rebounds and the right line on the striker",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4257%2F20dbe1bf-f3d0-401d-825d-070dbb945763.jpg",
+    "location": {
+      "name": "DAAK 64",
+      "address": "DAAK 64, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=DAAK%2064&query_place_id=ChIJF5VIDAAZrjsRSIvNvqEc3A0"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "pre Booking for carrom tournament",
+        "price": "422.88",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
       }
     ]
   },
@@ -364,7 +364,7 @@
       {
         "@type": "Offer",
         "name": "Set Menu",
-        "price": "2711.86",
+        "price": "2305.08",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 19
@@ -415,7 +415,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -540,10 +540,10 @@
       {
         "@type": "Offer",
         "name": "Set Menu",
-        "price": "2711.86",
+        "price": "2305.08",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 22
+        "remainingAttendeeCapacity": 20
       }
     ]
   },
@@ -668,10 +668,10 @@
       {
         "@type": "Offer",
         "name": "Set Menu",
-        "price": "2711.86",
+        "price": "2305.08",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 18
       }
     ]
   },
