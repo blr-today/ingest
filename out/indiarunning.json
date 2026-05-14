@@ -91,23 +91,23 @@
     "url": "https://indiarunning.com/events/wesnessstrengthconditioningbengaluru-18078",
     "startDate": "2026-05-24T06:00:00+05:30",
     "endDate": "2026-05-24T08:00:00+05:30",
-    "description": "Strength Training Workshop \u2013 Run Strong, Run Safe\nDate:\n Sunday, May 24, 2026\nTime:\n 6 AM\nVenue:\n Westside Store Bengaluru\nWhat to expect:\n 60-minute, coach-led session covering glute/hamstring activation, core, balance, and mobility\u2014perfect for 5K PBs and injury prevention.\nRegister Now!",
+    "description": "Strength Training Workshop \u2013 Run Strong, Run Safe\nDate:\n Sunday, May 24, 2026\nTime:\n 6 AM\nVenue:\n South United Football Club, RBANM\u2019s Ground, Near Ulsoor Lake, Bengaluru.\nWhat to expect:\n A Guided 2km Run followed by a 60-minute, coach-led session covering glute/hamstring activation, core, balance, and mobility\u2014perfect for 5K PBs and injury prevention.\nRegister Now!",
     "image": "https://race-registration-cdn.indiarunning.com/events/2026/05/24/wesness-strength-%26-conditioning-bengaluru-2026/banner1776661515337",
     "location": {
       "@type": "Place",
-      "name": "Bengaluru",
+      "name": "South United Football Club, RBANM\u2019s Ground",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Karnataka, India",
+        "streetAddress": "South United Football Club, RBANM\u2019s Ground, No. 3, Gate, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042, India",
         "addressLocality": "Bengaluru",
         "addressRegion": "Karnataka",
-        "postalCode": "400053",
+        "postalCode": "560042",
         "addressCountry": "India"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.9628669,
-        "longitude": 77.57750899999999
+        "latitude": 12.981001,
+        "longitude": 77.61444039999999
       }
     },
     "sport": "Running",
@@ -202,6 +202,49 @@
         "@type": "Offer",
         "name": "5k",
         "price": "895",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "Run and Rave with PaceX and Cadance Run Club",
+    "url": "https://indiarunning.com/events/run_and_rave_with_pacex_and_cadance_run_club_41913",
+    "startDate": "2026-05-31T07:00:00+05:30",
+    "endDate": "2026-05-31T11:00:00+05:30",
+    "description": "Bangalore, this one\u2019s different.\nPaceX Run Club \nand \nCadence Run Club\n are coming together to bring you a \nRun & Rave edition\n - where your morning run turns into a full-blown vibe.\nWe start with a high-energy community run and finish at \nSocial Bellandur\n for high energy rave experience.\nWhat\u2019s in it for you:\nA curated run with a strong community vibe\nPost-run rave at Social Bellandur\nRed Bull\n on-ground with cans to keep you going\nElectrolytes, refreshments & recovery experiences from partner brands\nPop-ups, activities & a space to just hang after the run\nBreakfast (veg sandwiches) to refuel\nThis isn\u2019t just a run.\n It\u2019s a morning you show up for people, music, energy.\nLimited spots. 300 runners only.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/05/31/run-and-rave-with-pacex-and-cadance-run-club--2026/banner1778672607419",
+    "location": {
+      "@type": "Place",
+      "name": "Kaverappa Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560103",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9378123,
+        "longitude": 77.69471879999999
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "399",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }

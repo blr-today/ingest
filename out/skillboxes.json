@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 983,
+            "inventoryLevel": 981,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-azyr-india-tour-bangalore"
          },
@@ -37,13 +37,81 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Early Bird Backstage Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-azyr-india-tour-bangalore"
          }
       ],
       "startDate": "2026-09-18T18:00:00",
       "url": "https://www.skillboxes.com/events/privilege-presents-azyr-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎶 SoulEscape Jamming Session | Live Music Experience 🎶Step into an evening filled with music, conversations, performances, energy, and unforgettable memories.SoulEscape Jamming Session is a curated social experience d",
+      "endDate": "2026-05-23T23:00:00",
+      "identifier": "com.skillboxes.36401",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dWxXeEtHUXZqbkhJQ3YyOXlROVkyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17787677088r8Xgq45C6y7blwr.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Jamming"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "95, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9374399",
+            "longitude": "77.6197492"
+         },
+         "name": "Seasons Suites Koramangala"
+      },
+      "name": "SoulEscape Jamming Sesh",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Soulescape Jam Solo",
+            "url": "https://www.skillboxes.com/events/ticket/soulescape-jamming-sesh"
+         }
+      ],
+      "startDate": "2026-05-23T19:00:00",
+      "url": "https://www.skillboxes.com/events/soulescape-jamming-sesh"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience an extraordinary Japanese-inspired evening at Captain Chips Galley with an exclusive Bar Takeover featuring Sake Mom.Join us on 16th May 2026 | 7:00 PM onwards till 11:00 PM for an elevated cocktail experienc",
+      "endDate": "2026-05-16T23:59:00",
+      "identifier": "com.skillboxes.36397",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778756068KAb61JamfWqY0MJP.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food & Drinks"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9684535",
+            "longitude": "77.716821"
+         },
+         "name": "DoubleTree by Hilton Bengaluru Whitefield"
+      },
+      "name": "Sake Mom",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sake-mom"
+         }
+      ],
+      "startDate": "2026-05-16T19:00:00",
+      "url": "https://www.skillboxes.com/events/sake-mom"
    },
    {
       "@context": "https://schema.org",
@@ -376,7 +444,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Primordium is a celebration of heavy music, underground culture, and the community that keeps it alive. Bringing together some of the fiercest acts, expect heavy riffs, breakdowns, wild pits, and a room full of p",
+      "description": "Primordium is a celebration of heavy music, underground culture, and the community that keeps it alive. Bringing together some of the fiercest acts, expect heavy riffs, breakdowns, wild pits, and a room full of people who genuinely live for metal ",
       "endDate": "2026-06-06T23:59:00",
       "identifier": "com.skillboxes.36339",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778649920GxNZX3Nuyts2GiJv.jpg.webp",
@@ -696,7 +764,7 @@
       "endDate": "2026-05-16T01:30:00",
       "identifier": "com.skillboxes.36310",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778566852MsrvdgQd2yUUIpx7.jpg.webp",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -718,6 +786,62 @@
             "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
             "inventoryLevel": 100,
             "name": "PHASE 1 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-muline"
          }
       ],
@@ -1412,7 +1536,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Section 140 returns with Vol. 9 - marking one year of pushing the 140 sound forward.Built as a space for dubstep, grime, and experimental bass, Section 140 has grown into a community-led movement focused on",
+      "description": "Section 140 returns with Vol. 9 - marking one year of pushing the 140 sound forward.\r\n\r\n \r\n\r\nBuilt as a space for dubstep, grime, and experimental bass, Section 140 has grown into a community-led movement focused on artists who ",
       "endDate": "2026-05-16T23:59:00",
       "identifier": "com.skillboxes.36182",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17780731450n9ianVwsyQO1rVN.jpg.webp",
@@ -1435,15 +1559,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
-            "name": "Phase 1 Ticket",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 977,
+            "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/section-140"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 980,
-            "name": "Entry Ticket",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 18,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/section-140"
          }
       ],
@@ -1476,7 +1602,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 88,
+            "inventoryLevel": 86,
             "name": "General Access",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-majestic-88-master-shifu-oink-rishi-sippy-oh-gog-theburrowblr"
          }
@@ -1510,7 +1636,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 117,
+            "inventoryLevel": 113,
             "name": "Entry Pass",
             "url": "https://www.skillboxes.com/events/ticket/vividha-harmony-for-hope-the-ananya-series"
          }
@@ -1634,7 +1760,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 474,
+            "inventoryLevel": 470,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-perfect-strangers-and-sneaker-pipes"
          }
@@ -1704,8 +1830,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of 1,000 onwards per person is applicable at the venue\n",
-            "inventoryLevel": 35,
+            "inventoryLevel": 25,
             "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/trym-live-at-gylt-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory cover charge of 1,000 onwards per person is applicable at the venue\n",
+            "inventoryLevel": 45,
+            "name": "Buddy Ticket",
             "url": "https://www.skillboxes.com/events/ticket/trym-live-at-gylt-bangalore"
          },
          {
@@ -1782,7 +1916,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover charges 500 till 8pm and 1000 after 8pm\n",
-            "inventoryLevel": 185,
+            "inventoryLevel": 183,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/parichay-by-karan-verma-bangalore-1"
          }
@@ -1794,9 +1928,9 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Stories in Sound is a curated live experience featuring original music and spoken word, presented through thoughtfully designed stage environments.This is not a typical gig — it’s an intimate listening forma",
-      "endDate": "2026-05-16T21:30:00",
+      "endDate": "2026-05-16T21:00:00",
       "identifier": "com.skillboxes.35880",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17771377695PwkjGrqjGTmEqqu.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778759142xa1hQu9fCJhVUlvx.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Concerts"
