@@ -166,7 +166,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 4
       }
     ]
   },
@@ -265,30 +265,6 @@
         "@type": "Offer",
         "price": "400.00",
         "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Origami Spirals",
-    "url": "https://puttingscene.com/events/4227",
-    "startDate": "2026-05-15T19:00:00+05:30",
-    "endDate": "2026-05-15T21:00:00+05:30",
-    "description": "The quiet geometry of origami spirals, inspired by Tomoko Fuse, taught from the first fold",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4227%2Fdd14c739-2813-4e5f-ab4b-61b94bf98a5b.jpg",
-    "location": {
-      "name": "Paper Crane Lab",
-      "address": "Paper Crane Lab, ",
-      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "500.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
       }
     ]
   },
@@ -536,7 +512,7 @@
         "price": "2305.08",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 19
+        "remainingAttendeeCapacity": 17
       }
     ]
   },
@@ -560,7 +536,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 3
       }
     ]
   },
@@ -705,38 +681,6 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 1
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Rockstar",
-    "url": "https://puttingscene.com/events/4243",
-    "startDate": "2026-05-16T19:00:00+05:30",
-    "endDate": "2026-05-16T23:00:00+05:30",
-    "description": "A rooftop screening of Imtiaz Ali's Rockstar, an A.R. Rahman-scored portrait of love, loss and a young musician's unraveling, under the open sky",
-    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4243%2F300a5e1c-4f3b-4016-966c-18b32e57aa04.jpg",
-    "location": {
-      "name": "1 MG - Lido Mall, Sivanchetti Gardens",
-      "address": "1 MG - Lido Mall, Sivanchetti Gardens, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=1+MG\u2011Lido+Mall%2C+1%2F2+Old+Madras+Rd%2C+Halasuru%2C+Someshwarpura%2C+Sivanchetti+Gardens%2C+Bengaluru%2C+Karnataka+560008%2C+India"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Bean Bag (Per Person)",
-        "price": "508.47",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
-      },
-      {
-        "@type": "Offer",
-        "name": "Group of 4 (Beanbag Seating)",
-        "price": "1694.92",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 1000
       }
     ]
   },
@@ -888,7 +832,7 @@
         "price": "2305.08",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 18
+        "remainingAttendeeCapacity": 16
       }
     ]
   },
@@ -1129,6 +1073,38 @@
       "url": "https://maps.google.com/?cid=7626967474370196347"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Rockstar",
+    "url": "https://puttingscene.com/events/4243",
+    "startDate": "2026-05-30T19:00:00+05:30",
+    "endDate": "2026-05-30T23:00:00+05:30",
+    "description": "A rooftop screening of Imtiaz Ali's Rockstar, an A.R. Rahman-scored portrait of love, loss and a young musician's unraveling, under the open sky",
+    "image": "https://res.cloudinary.com/puttingscene-com-production/image/fetch/f_auto,q_auto/https%3A%2F%2Fputtingscenes-prod-media.s3.ap-south-1.amazonaws.com%2Fevent_images%2F4243%2F300a5e1c-4f3b-4016-966c-18b32e57aa04.jpg",
+    "location": {
+      "name": "1 MG - Lido Mall, Sivanchetti Gardens",
+      "address": "1 MG - Lido Mall, Sivanchetti Gardens, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=1+MG\u2011Lido+Mall%2C+1%2F2+Old+Madras+Rd%2C+Halasuru%2C+Someshwarpura%2C+Sivanchetti+Gardens%2C+Bengaluru%2C+Karnataka+560008%2C+India"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Bean Bag (Per Person)",
+        "price": "508.47",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1000
+      },
+      {
+        "@type": "Offer",
+        "name": "Group of 4 (Beanbag Seating)",
+        "price": "1694.92",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1000
+      }
+    ]
   },
   {
     "@type": "Event",
