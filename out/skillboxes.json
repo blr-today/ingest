@@ -369,14 +369,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry to the event without cover charges till 4PM only, Post  4PM additional cover charges of INR 1000 applicable per head\n",
-            "inventoryLevel": 1000,
-            "name": "Couple - Early Access",
-            "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Permits entry to the event with a cover charge of INR 1000/- collectable upon arrival at gate, this is fully redeemable on purchase of any f&b at the event. This ticket permits entry till 7PM only, Post 7PM additional cover charges of INR 500 applicable per head.\n",
             "inventoryLevel": 1000,
             "name": "Single Lady - GA [ Full Cover ]",
@@ -393,14 +385,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry for 2 Couples to the event without cover charges till 4PM only, Post 4PM additional cover charges of INR 1000 applicable per head.\n",
-            "inventoryLevel": 1000,
-            "name": "Double Date! [ Group of 2 Couples ]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Full Cover and Anytime Entry! Permits entry for One Single Lady with A Full cover of INR 1500/- VIP Holder can walk-in anytime of the event. Note : Collect Your cover note upon arrival at gate.\n",
             "inventoryLevel": 1000,
             "name": "Single Lady - VIP [ Anytime Entry + Full cover ]",
@@ -409,9 +393,25 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Permits Free entry to the event without cover charges till 4PM only, Post  4PM additional cover charges of INR 1000 applicable per head\n",
+            "inventoryLevel": 1000,
+            "name": "Couple - Early Access",
+            "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Permits entry to the event with a cover charge of INR 2000/- collectable upon arrival at gate, this is fully redeemable on purchase of any f&b at the event. This ticket permits entry till 7PM only, Post 7PM additional cover charges of INR 500 applicable per head.\n",
             "inventoryLevel": 1000,
             "name": "Couple - GA [ Full Cover ]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry for 2 Couples to the event without cover charges till 4PM only, Post 4PM additional cover charges of INR 1000 applicable per head.\n",
+            "inventoryLevel": 1000,
+            "name": "Double Date! [ Group of 2 Couples ]",
             "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
          },
          {
@@ -463,40 +463,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience an extraordinary Japanese-inspired evening at Captain Chips Galley with an exclusive Bar Takeover featuring Sake Mom.Join us on 16th May 2026 | 7:00 PM onwards till 11:00 PM for an elevated cocktail experienc",
-      "endDate": "2026-05-16T23:59:00",
-      "identifier": "com.skillboxes.36397",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778756068KAb61JamfWqY0MJP.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Food & Drinks"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9684535",
-            "longitude": "77.716821"
-         },
-         "name": "DoubleTree by Hilton Bengaluru Whitefield"
-      },
-      "name": "Sake Mom",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Regular Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sake-mom"
-         }
-      ],
-      "startDate": "2026-05-16T19:00:00",
-      "url": "https://www.skillboxes.com/events/sake-mom"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "After 18 years, Indian progressive rock legends Motherjane return with a brand new album: Dobāreh.\r\n\r\n \r\n\r\nTo celebrate this monumental new chapter, Motherjane brings the Dobāreh Album Launch Show to The Humming Tree for a nig",
       "endDate": "2026-06-06T23:59:00",
       "identifier": "com.skillboxes.36383",
@@ -538,47 +504,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Step into an evening of live music, elevated dining, and refined weekend energy at Sorso Taproom & Kitchen.Saturday Soirée is a curated nightlife experience bringing together soulful performances, immersive amb",
-      "endDate": "2026-05-16T22:30:00",
-      "identifier": "com.skillboxes.36379",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778686679arnocsuD33pj9pZy.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 5 & 6, 5th Floor Alpine Eco Rd, next to Apollo pharmacy Ferns City, Chinnappanahalli, Ferns City, Doddanekkundi, Bengaluru, Karnataka 560037, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9730126",
-            "longitude": "77.6993105"
-         },
-         "name": "Sorso Taproom & Kitchen"
-      },
-      "name": "SATURDAY SOIREE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 99,
-            "name": "SINGLE",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-soiree"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "GROUP OF 4",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-soiree"
-         }
-      ],
-      "startDate": "2026-05-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-soiree"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "After 18 years, legendary Indian progressive rock band Motherjane returns with a brand new album: Dobāreh.\n\n \n\nBefore the album officially releases to the world, Aum-i Artistes invites you to be among the fi",
       "endDate": "2026-05-30T23:59:00",
       "identifier": "com.skillboxes.36360",
@@ -609,40 +534,6 @@
       ],
       "startDate": "2026-05-30T19:00:00",
       "url": "https://www.skillboxes.com/events/motherjane-dobareh-listening-session-bangalore-4"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Superclub Saturdays ft. DJ Shreya (Music Monk & R²)Step into the ultimate Saturday night experience at FLO, Church Street, Bengaluru as Tribe Kultur brings you another exciting edition of Superclub Saturdays.",
-      "endDate": "2026-05-16T23:59:00",
-      "identifier": "com.skillboxes.36355",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/177866728877SOdFtBEpzU7flb.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "Superclub Saturdays ft. DJ Shreya (Music Monk & R²)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP/Free Pass",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturdays-ft-dj-shreya-music-monk-r"
-         }
-      ],
-      "startDate": "2026-05-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/superclub-saturdays-ft-dj-shreya-music-monk-r"
    },
    {
       "@context": "https://schema.org",
@@ -909,49 +800,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "URBN Entertainment presents a night of electrifying music and unmatched party vibes 🔥Catch Dastan live with Surkant & Revibe as they take over Yeda Republic Bengaluru for an unforgettable Saturday night.",
-      "endDate": "2026-05-16T23:59:00",
-      "identifier": "com.skillboxes.36332",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778598528hAx95zGkeQV32yYt.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "URBN TAKEOVER FT. DJ DASTSAN AT. YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/urbn-takeover-ft-dj-dastsan-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/urbn-takeover-ft-dj-dastsan-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-05-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/urbn-takeover-ft-dj-dastsan-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Step into an unforgettable evening at Sorso Taproom & Kitchen, Bangalore’s rising hotspot for premium nightlife, rooftop vibes, curated cocktails, and immersive music experiences. Known for its elegant ambience and energetic weeken",
       "endDate": "2026-05-17T23:30:00",
       "identifier": "com.skillboxes.36312",
@@ -1049,40 +897,6 @@
       ],
       "startDate": "2026-06-13T20:00:00",
       "url": "https://www.skillboxes.com/events/privilege-presents-domina-india-tour-bangalore-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "FA Cup Finals | Manchester City VS Chelsea | Live Screening | Watson's Indiranagar, Bangalore. Date -  16th May , 2026. Timings - 7:",
-      "endDate": "2026-05-16T22:00:00",
-      "identifier": "com.skillboxes.36267",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778452568kPDdkSFZMfpkvbEc.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Sports"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
-         },
-         "name": "Watson's"
-      },
-      "name": "FA Cup Finals | Live Screening | Watson's Indiranagar, Bangalore.",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 95,
-            "name": "Live Screening Pass",
-            "url": "https://www.skillboxes.com/events/ticket/fa-cup-finals-live-screening-watson-s-indiranagar-bangalore"
-         }
-      ],
-      "startDate": "2026-05-16T19:30:00",
-      "url": "https://www.skillboxes.com/events/fa-cup-finals-live-screening-watson-s-indiranagar-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -1193,41 +1007,6 @@
       ],
       "startDate": "2026-06-10T21:00:00",
       "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-obliterating-vortex-as-oceans-flatline-lotus-among-the-signs"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "OFFLIMITS presents Bollyworld Vol. 2 at House of Dopamine (HOD), Bengaluru — a night built around high-energy Bollywood sounds, crowd-driven moments, and immersive nightlife experiences. Headlining the night is Mumbai-based DJ and producer",
-      "endDate": "2026-05-16T23:59:00",
-      "identifier": "com.skillboxes.36241",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778313377L8ZW0eM9EIsCh2jH.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "36, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9336478",
-            "longitude": "77.6148833"
-         },
-         "name": "HOD - 36"
-      },
-      "name": "Bollyworld Bengaluru ft.The Spindoctor Live",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 989,
-            "name": "RSVP/Free Pass",
-            "url": "https://www.skillboxes.com/events/ticket/bollyworld-bengaluru-ft-the-spindoctor-live"
-         }
-      ],
-      "startDate": "2026-05-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/bollyworld-bengaluru-ft-the-spindoctor-live"
    },
    {
       "@context": "https://schema.org",
@@ -1608,83 +1387,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Section 140 returns with Vol. 9 - marking one year of pushing the 140 sound forward.\r\n\r\n \r\n\r\nBuilt as a space for dubstep, grime, and experimental bass, Section 140 has grown into a community-led movement focused on artists who ",
-      "endDate": "2026-05-16T23:59:00",
-      "identifier": "com.skillboxes.36182",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17780731450n9ianVwsyQO1rVN.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707654",
-            "longitude": "77.6476266"
-         },
-         "name": "Indiranagar SOCIAL"
-      },
-      "name": "Section 140 \"Vol. 9\"",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 11,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/section-140"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 974,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/section-140"
-         }
-      ],
-      "startDate": "2026-05-16T19:00:00",
-      "url": "https://www.skillboxes.com/events/section-140"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Our sexy boss freak @rishisippy enters the next year of his fabulous existence and he wants to kick it off with you 🫵🏼\r\n\r\n \r\n\r\nSurrounded by some of his nearest and dearest on stage - Oink, Master Shifu,  Majestic 88,",
-      "endDate": "2026-05-17T01:00:00",
-      "identifier": "com.skillboxes.36163",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UngvQ1h4SjNEVC8rRk90dnkyc3FJZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778052338F43y4lGtJIpREnsh.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "Freak Opera ft. Majestic 88, Master Shifu, Oink, Rishi Sippy + Oh GOG! #TheBurrowBlr",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 76,
-            "name": "General Access",
-            "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-majestic-88-master-shifu-oink-rishi-sippy-oh-gog-theburrowblr"
-         }
-      ],
-      "startDate": "2026-05-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/freak-opera-ft-majestic-88-master-shifu-oink-rishi-sippy-oh-gog-theburrowblr"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Kommune: Sitdown is a monthly English poets’ open-mic built to reclaim the space. As some voices begin to dominate, this room is for us to bring back the balance, keeping poetry open, accessible, and truly for everyone. No gatekeeping, no hi",
       "endDate": "2026-05-24T23:59:00",
       "identifier": "com.skillboxes.36083",
@@ -1938,49 +1640,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Stories in Sound is a curated live experience featuring original music and spoken word, presented through thoughtfully designed stage environments.This is not a typical gig — it’s an intimate listening forma",
-      "endDate": "2026-05-16T21:00:00",
-      "identifier": "com.skillboxes.35880",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778759142xa1hQu9fCJhVUlvx.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9333438",
-            "longitude": "77.6236478"
-         },
-         "name": "Silly Bar"
-      },
-      "name": "Stories in Sound: Ch 1: The Open Book",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional 500 cover charge to be paid at the gates (Fully Redeemable)\n",
-            "inventoryLevel": 75,
-            "name": "Phase 1 | Stories in Sound: Ch 1: The Open Book",
-            "url": "https://www.skillboxes.com/events/ticket/stories-in-sound-ch-1-the-open-book-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Additional 500 cover charge to be paid at the gates (Fully Redeemable)\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird | Stories in Sound: Ch 1: The Open Book",
-            "url": "https://www.skillboxes.com/events/ticket/stories-in-sound-ch-1-the-open-book-1"
-         }
-      ],
-      "startDate": "2026-05-16T17:30:00",
-      "url": "https://www.skillboxes.com/events/stories-in-sound-ch-1-the-open-book-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Experience an electrifying night with Maan Pannu live in concert. Known for his energetic beats and soulful Punjabi vibes, he promises a high-octane performance filled with hit tracks and unforgettable moments. Get ready to dance, sing, and celebr",
       "endDate": "2026-06-06T23:59:00",
       "identifier": "com.skillboxes.35799",
@@ -2070,32 +1729,6 @@
       "offers": [ ],
       "startDate": "2026-05-17T20:00:00",
       "url": "https://www.skillboxes.com/events/stanley-jordan-duo-ft-kenwood-dennard-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Stanley Jordan is a visionary guitarist whose groundbreaking two-handed “touch technique” redefined modern jazz performance, allowing him to play melody and harmony simultaneously with piano-like independence. Rising to fame ",
-      "endDate": "2026-05-16T23:00:00",
-      "identifier": "com.skillboxes.35688",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1776341496CzzW7UzZuVnTvqGo.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9825325",
-            "longitude": "77.7217732"
-         },
-         "name": "Windmills Craftworks [Whitefield]"
-      },
-      "name": "Stanley Jordan feat. Kenwood Dennard",
-      "offers": [ ],
-      "startDate": "2026-05-16T21:30:00",
-      "url": "https://www.skillboxes.com/events/stanley-jordan-duo-ft-kenwood-dennard-1"
    },
    {
       "@context": "https://schema.org",
