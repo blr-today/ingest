@@ -71,6 +71,40 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-05-29T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Annual Function - 2000s Nostalgia Trivia Game Show With Tasty Trivia",
+      "sameAs": "https://underline.center/t/923",
+      "startDate": "2026-05-29T21:00:00.000+05:30"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-05-27T11:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -276,6 +310,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-05-24T14:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "The Clueless Crossword (rerun) by Quiz Pro Quo",
+      "sameAs": "https://underline.center/t/945",
+      "startDate": "2026-05-24T11:00:00.000+05:30",
+      "url": "https://district.in/the-clueless-crossword-by-quiz-pro-quo-may17-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-05-23T20:30:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -341,6 +410,41 @@
       "sameAs": "https://underline.center/t/161",
       "startDate": "2026-05-23T18:00:00.000+05:30",
       "url": "https://www.district.in/magic-the-gathering-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-05-23T17:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Jigsaw Junkies by Playful Pursuits",
+      "sameAs": "https://underline.center/t/60",
+      "startDate": "2026-05-23T12:00:00.000+05:30",
+      "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
@@ -690,7 +794,7 @@
       "name": "The Clueless Crossword | Quiz Pro Quo",
       "sameAs": "https://underline.center/t/752",
       "startDate": "2026-05-17T14:00:00.000+05:30",
-      "url": "https://district.in/the-clueless-crossword-by-quiz-pro-quo-may17-2026/event"
+      "url": "sold_out"
    },
    {
       "@context": "https://schema.org",
@@ -726,40 +830,6 @@
       "sameAs": "https://underline.center/t/330",
       "startDate": "2026-05-17T11:00:00.000+05:30",
       "url": "https://district.in/folding-ninjas-with-roligami/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-05-16T21:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Annual Function - 2000s Nostalgia Trivia Game Show With Tasty Trivia",
-      "sameAs": "https://underline.center/t/923",
-      "startDate": "2026-05-16T18:00:00.000+05:30"
    },
    {
       "@context": "https://schema.org",
@@ -1247,41 +1317,6 @@
       "name": "IndieWebClub #25",
       "sameAs": "https://underline.center/t/921",
       "startDate": "2026-05-02T14:00:00.000+05:30"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-05-02T17:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Jigsaw Junkies by Playful Pursuits",
-      "sameAs": "https://underline.center/t/60",
-      "startDate": "2026-05-02T12:00:00.000+05:30",
-      "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
@@ -6943,41 +6978,6 @@
       "name": "The Great Indian Buffet by Tasty Trivia (rerun)",
       "sameAs": "https://underline.center/t/652",
       "startDate": "2025-09-14T18:00:00.000+05:30",
-      "url": "https://district.in/the-great-indian-buffet-by-tasty-trivia-sep12-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-09-12T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Great Indian Buffet by Tasty Trivia",
-      "sameAs": "https://underline.center/t/629",
-      "startDate": "2025-09-12T21:00:00.000+05:30",
       "url": "https://district.in/the-great-indian-buffet-by-tasty-trivia-sep12-2025/event"
    }
 ]

@@ -228,9 +228,15 @@
         "@type": "Offer",
         "name": "Regular",
         "price": "999.00",
+        "priceCurrency": "INR"
+      },
+      {
+        "@type": "Offer",
+        "name": "Last Minute Ticket",
+        "price": "1099.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 11
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -487,7 +493,7 @@
         "price": "852.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
