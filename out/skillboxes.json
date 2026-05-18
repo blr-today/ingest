@@ -83,6 +83,100 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "As the sun dips and the skyline glows, the city’s most electrifying pool party comes alive! 🌅💦\nGet ready for an unforgettable evening of sunset vibes, poolside madness, live DJ beats, splash moments, and high-energ",
+      "endDate": "2026-06-13T22:30:00",
+      "identifier": "com.skillboxes.36501",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NzNHSG1OOUxVL2MwWFZVNXZVMHhHUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17791263301bz5SMRnTLlfc7y1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Air Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Marathahalli - Sarjapur Outer Ring Rd, opp. Ecospace Business Park Rmz Eco World Bellandur, Kariyammana Agrahara, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9300526",
+            "longitude": "77.6831049"
+         },
+         "name": "Novotel Bengaluru Outer Ring Road"
+      },
+      "name": "Sunset Lagoon Pool Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Includes entry for a Kid (5 years to 12 years) to the party\n",
+            "inventoryLevel": 100,
+            "name": "Mini Wave Rider (Entry for Kid)",
+            "url": "https://www.skillboxes.com/events/ticket/sunset-lagoon-pool-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Includes entry for an adult to the party\n",
+            "inventoryLevel": 200,
+            "name": "Wave Rider (Entry for Adult)",
+            "url": "https://www.skillboxes.com/events/ticket/sunset-lagoon-pool-party"
+         }
+      ],
+      "startDate": "2026-06-13T14:00:00",
+      "url": "https://www.skillboxes.com/events/sunset-lagoon-pool-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into a night where sound turns into pure energy. PROFANAYTY is taking over Kitty Ko with the electrifying sounds of Deathoric and Kish, delivering a high-voltage experience packed with deep beats, hypnotic rhythms, and an atmosphere built for un",
+      "endDate": "2026-05-23T01:30:00",
+      "identifier": "com.skillboxes.36500",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779120019Js5IUPrpnqTJbQHQ.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "Redroom Ft. PROFANAYTY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one female) Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-profanayty"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-profanayty"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-profanayty"
+         }
+      ],
+      "startDate": "2026-05-22T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-profanayty"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Elevate your Saturday night at Shangri-La Bengaluru as Skyline transforms into a luxurious open-air escape above the city.Featuring an exclusive set by Katya Gur, the night blends sophisticated Afro Deep House, melodic grooves, and immersive party en",
       "endDate": "2026-05-23T23:59:00",
       "identifier": "com.skillboxes.36498",
@@ -415,49 +509,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "The vibe is loud, the beats are wild & the night belongs to the music. 🎶🔥Join us for an unforgettable Music Takeover featuring REVIBE at Yeda Republic Bengaluru.",
-      "endDate": "2026-05-18T23:59:00",
-      "identifier": "com.skillboxes.36441",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778936469XqUA4VdLahP8L1NR.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MUSIC TAKEOVER  FT.DJ REVIBE at YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get Free Access To The Event\n",
-            "inventoryLevel": 100,
-            "name": "Female Entry",
-            "url": "https://www.skillboxes.com/events/ticket/music-takeover-ft-dj-revibe-at-yeda-republic-koramangala-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get Free Access To The Event\n",
-            "inventoryLevel": 100,
-            "name": "Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/music-takeover-ft-dj-revibe-at-yeda-republic-koramangala-3"
-         }
-      ],
-      "startDate": "2026-05-18T20:00:00",
-      "url": "https://www.skillboxes.com/events/music-takeover-ft-dj-revibe-at-yeda-republic-koramangala-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "COHOP LIVE JAMS — SARJAPUR SOCIAL 🎸🌼\nA night of music, chaos, community, and vibes.\nWelcome to COHOP Live Jams — where strangers become bandmates, the crowd becomes the choir, and every set feels like a house party",
       "endDate": "2026-05-30T21:00:00",
       "identifier": "com.skillboxes.36440",
@@ -481,7 +532,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 19,
+            "inventoryLevel": 18,
             "name": "GA - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/cohop-live-jams-be-a-part-of-the-music"
          }
@@ -664,7 +715,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Dive into a full-send summer splash as SoMAD Pool Party teams up with Honey Mustard for a sun-drenched day of House, Disco, Funk, Afro, Baile, Garage, UKG & global club sounds by the pool. ☀️🌴💦From floating in the poo",
+      "description": "Dive into a full-send summer splash as SoMAD Pool Party teams up with Honey Mustard for a sun-drenched day of House, Disco, Funk, Afro, Baile, Garage, UKG & global club sounds by the pool. ☀️🌴💦From floating in the pool to dancing thr",
       "endDate": "2026-05-24T22:59:00",
       "identifier": "com.skillboxes.36425",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1778854443Q4tnof60M6mF05Fb.jpg.webp",
@@ -688,7 +739,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event without cover charges till 4PM only, Post  4PM additional cover charges of INR 500 applicable per head.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Single Lady - Early Access",
             "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
          },
@@ -704,7 +755,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry for 3 single ladies to the event without cover charges till 4PM only, Post 4PM additional cover charges of INR 500 applicable per head.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Girls Night Out! [ Group of 3 Girls ]",
             "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
          },
@@ -728,7 +779,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits entry to the event with a cover charge of INR 2000/- collectable upon arrival at gate, this is fully redeemable on purchase of any f&b at the event. This ticket permits entry till 7PM only, Post 7PM additional cover charges of INR 500 applicable per head.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Couple - GA [ Full Cover ]",
             "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
          },
@@ -813,7 +864,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person. Fully redeemable on Food and beverages.\n",
-            "inventoryLevel": 63,
+            "inventoryLevel": 56,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/motherjane-dobareh-launch-show"
          },
