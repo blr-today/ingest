@@ -82,37 +82,155 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "EducationEvent",
-      "description": "An intimate 80-seat workshop where Varun Mayya hands you his personal playbook to build an audience and grow your business as a creatorpreneur. Hands-on content creation in a live studio, an AI content toolkit session, and real conversations with fou",
-      "endDate": "2026-05-24T18:00:00",
-      "identifier": "com.skillboxes.36480",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bHl1K2RuTDhvTnc2RlhQREQ0bkV3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779097523qtgqAO72q1DfBdTL.jpg.webp",
-      "isAccessibleForFree": false,
+      "@type": "Event",
+      "description": "Elevate your Saturday night at Shangri-La Bengaluru as Skyline transforms into a luxurious open-air escape above the city.Featuring an exclusive set by Katya Gur, the night blends sophisticated Afro Deep House, melodic grooves, and immersive party en",
+      "endDate": "2026-05-23T23:59:00",
+      "identifier": "com.skillboxes.36498",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779115266x8Ihdoi6p0w4L4T4.jpg.webp",
+      "isAccessibleForFree": true,
       "keywords": [
-         "Workshops"
+         "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "8th Floor, Salarpuria Galleria, 20/1, Bellary Rd, Kashi Nagar, Byatarayanapura, Bengaluru, Karnataka 560092, India",
+         "address": "Level 19, Shangri-La, 56-6B, Palace Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "13.0628268",
-            "longitude": "77.5940888"
+            "latitude": "12.99187",
+            "longitude": "77.588293"
          },
-         "name": "AEOS HQ"
+         "name": "HYPE"
       },
-      "name": "Creator-preneur Summit",
+      "name": "SKYLINE FT KATYAGUR",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 79,
-            "name": "Basic",
-            "url": "https://www.skillboxes.com/events/ticket/creator-preneur-summit"
+            "inventoryLevel": 50,
+            "name": "STAG",
+            "url": "https://www.skillboxes.com/events/ticket/skyline-ft-katya-gaur"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/skyline-ft-katya-gaur"
          }
       ],
-      "startDate": "2026-05-24T12:00:00",
-      "url": "https://www.skillboxes.com/events/creator-preneur-summit"
+      "startDate": "2026-05-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/skyline-ft-katya-gaur"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": " Step into the perfect midweek vibe at Captain Chips Galley with Freelancer Night featuring Jay on 27th May. Expect an evening filled with upbeat music, laid-back energy, handcrafted drinks, and the ideal atmosphere to unwind after wo",
+      "endDate": "2026-05-27T23:59:00",
+      "identifier": "com.skillboxes.36496",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17791119275cxb0ndP5S6MGTOh.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food & Drinks"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9684536",
+            "longitude": "77.7168211"
+         },
+         "name": "DoubleTree by Hilton Bengaluru Whitefield"
+      },
+      "name": "Freelancer Night featuring Jay",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Redeemable on Cocktails\n",
+            "inventoryLevel": 1000,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/freelancer-night-featuring-jay"
+         }
+      ],
+      "startDate": "2026-05-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/freelancer-night-featuring-jay"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": " Get ready for an electrifying evening at Captain Chips Galley as we bring you an exclusive Bar Takeover in collaboration with Diageo and Tanqueray, featuring Ganesh behind the bar. Experience a specially curated cocktail menu crafted",
+      "endDate": "2026-05-20T23:59:00",
+      "identifier": "com.skillboxes.36495",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779111542bcPyAL9DeWgVz77s.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food & Drinks"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9684536",
+            "longitude": "77.7168211"
+         },
+         "name": "DoubleTree by Hilton Bengaluru Whitefield"
+      },
+      "name": "Bar Takeover Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Redeemable on Cocktails\n",
+            "inventoryLevel": 1000,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/bar-takeover-night"
+         }
+      ],
+      "startDate": "2026-05-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/bar-takeover-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Midweek gets a serious upgrade at Shangri-La Bengaluru as Hump Day brings together elevated nightlife, immersive music, and premium rooftop energy.\nFeaturing a special set by DJ Medusa, expect a sonic journey through Afro Deep House, melodic rhyt",
+      "endDate": "2026-05-20T23:59:00",
+      "identifier": "com.skillboxes.36489",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkU0aFhZR0t6M25OUlVQZ3VNKzRrZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779102233KJxkeUkQxLeJF8cQ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Level 19, Shangri-La, 56-6B, Palace Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.99187",
+            "longitude": "77.588293"
+         },
+         "name": "HYPE"
+      },
+      "name": "HUMP DAY AT SHANGRI-LA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "SINGLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/hump-day-at-shangri-la"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "BUDDY PASS",
+            "url": "https://www.skillboxes.com/events/ticket/hump-day-at-shangri-la"
+         }
+      ],
+      "startDate": "2026-05-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/hump-day-at-shangri-la"
    },
    {
       "@context": "https://schema.org",
@@ -2021,6 +2139,36 @@
       ],
       "startDate": "2026-05-22T19:00:00",
       "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Hard techno, raw percussion, and euphoric tension collide in a space built for collective catharsis.",
+      "endDate": "2026-05-31T23:59:00",
+      "identifier": "com.skillboxes.36497",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WUZ1cnZmazk1NTV6YWgvWFgwNjZ5Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17791129403XTkAf1gYtSp9vrh.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "22, Hennur Bagalur Main Rd, Visthar, Bengaluru, Karnataka 560077",
+         "name": "Gylt"
+      },
+      "name": "STAN CHRIST - MASKED EDITION",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "COMPLEMENTARY SKI MASK PROVIDED AT GATE\nMANDATORY COVER CHARGES APPLICABLE STARTING FROM RS1500",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD",
+            "url": "https://www.skillboxes.com/events/ticket/stan-christ-masked-edition"
+         }
+      ],
+      "startDate": "2026-05-31T18:00:00",
+      "url": "https://www.skillboxes.com/events/stan-christ-masked-edition"
    },
    {
       "@context": "https://schema.org",
