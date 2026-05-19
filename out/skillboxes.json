@@ -427,7 +427,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 95,
             "name": "BUDDY PASS",
             "url": "https://www.skillboxes.com/events/ticket/hump-day-at-shangri-la"
          }
@@ -641,7 +641,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 16,
             "name": "GA - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/cohop-live-jams-be-a-part-of-the-music"
          }
@@ -857,49 +857,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "t’s showtime, Bengaluru! 🔥Turn up your Tuesday night with insane beats, crazy energy & nonstop party vibes featuring Sukant at Yeda Republic. 🎧✨",
-      "endDate": "2026-05-19T23:59:00",
-      "identifier": "com.skillboxes.36427",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17788648877YrOVgh1kXjkfDmz.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "SHOWTIME TUESDAY FT. DJ SUKANT AT. YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FULL COVER\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-10"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-10"
-         }
-      ],
-      "startDate": "2026-05-19T20:00:00",
-      "url": "https://www.skillboxes.com/events/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-10"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Dive into a full-send summer splash as SoMAD Pool Party teams up with Honey Mustard for a sun-drenched day of House, Disco, Funk, Afro, Baile, Garage, UKG & global club sounds by the pool. ☀️🌴💦From floating in the pool to dancing thr",
       "endDate": "2026-05-24T22:59:00",
       "identifier": "com.skillboxes.36425",
@@ -956,7 +913,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event without cover charges till 4PM only, Post  4PM additional cover charges of INR 1000 applicable per head\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Couple - Early Access",
             "url": "https://www.skillboxes.com/events/ticket/somad-pool-party-x-honey-mustard"
          },
@@ -1049,7 +1006,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person. Fully redeemable on Food and beverages.\n",
-            "inventoryLevel": 56,
+            "inventoryLevel": 45,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/motherjane-dobareh-launch-show"
          },
