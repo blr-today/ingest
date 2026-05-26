@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person. Fully redeemable on Food and beverages.\n",
-            "inventoryLevel": 16,
+            "inventoryLevel": 10,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/motherjane-dobareh-launch-show"
          },
@@ -154,6 +154,41 @@
       ],
       "startDate": "2026-09-18T18:00:00",
       "url": "https://www.skillboxes.com/events/privilege-presents-azyr-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "DB StudioLab invites you to a night centered around deep electronic music, immersive sound, and underground energy.This edition of DB Fridays features Anushka and That 90’s Kid, bringing tog",
+      "endDate": "2026-05-29T23:59:00",
+      "identifier": "com.skillboxes.36741",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QU0rWHVCSTVYN01uSUwyL1ljckpWdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779792268SbThkDUlLporc6sD.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd floor, B block, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9724674",
+            "longitude": "77.6068596"
+         },
+         "name": "db studiolab"
+      },
+      "name": "db fridays | Underground Techno | Anushka , That 90's kid | 1+1 bar (10pm)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Fully redeemable on food and beverages\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/db-fridays-underground-techno-anushka-that-90-s-kid-1-1-bar-10pm"
+         }
+      ],
+      "startDate": "2026-05-29T21:30:00",
+      "url": "https://www.skillboxes.com/events/db-fridays-underground-techno-anushka-that-90-s-kid-1-1-bar-10pm"
    },
    {
       "@context": "https://schema.org",
@@ -1047,7 +1082,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 3,
+            "description": "Grants entry to one PAX at COHOP Live Jams\nAdditional Cover may be applicable at the gate",
+            "inventoryLevel": 50,
+            "name": "PHASE 1 - GA",
+            "url": "https://www.skillboxes.com/events/ticket/cohop-live-jams-be-a-part-of-the-music"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "GA - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/cohop-live-jams-be-a-part-of-the-music"
          }
@@ -1265,7 +1308,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 500 from 8:00 pm to 10:00 pm and INR 1000 post 10:00 pm applicable at gates.\n",
-            "inventoryLevel": 991,
+            "inventoryLevel": 986,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/nineoeight-x-amnap-records-x-the-burrow-present-anna-morgan-us-daisho-oceantied-rasa"
          },
@@ -2412,7 +2455,31 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "MANDATORY COVER CHARGES APPLICABLE AT THE CLUB\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 100,
+            "name": "Phase 1 GA",
+            "url": "https://www.skillboxes.com/events/ticket/stan-christ-masked-edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "MANDATORY COVER CHARGES APPLICABLE AT THE CLUB\n",
+            "inventoryLevel": 100,
+            "name": "Phase 1 VIP",
+            "url": "https://www.skillboxes.com/events/ticket/stan-christ-masked-edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "MANDATORY COVER CHARGES APPLICABLE AT THE CLUB\n",
+            "inventoryLevel": 100,
+            "name": "Phase 1 Backstage",
+            "url": "https://www.skillboxes.com/events/ticket/stan-christ-masked-edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "MANDATORY COVER CHARGES APPLICABLE AT THE CLUB\n",
+            "inventoryLevel": 95,
             "name": "EARLY BIRD VIP",
             "url": "https://www.skillboxes.com/events/ticket/stan-christ-masked-edition"
          }
