@@ -1,37 +1,5 @@
 [
   {
-    "name": "Women's Beginner Basketball Coaching",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wed3206",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Basketball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wed3206",
-    "image": "https://sistersinsweat.com/images/event/20260514160519305.jpeg",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
-      "type": "Place"
-    },
-    "startDate": "2026-05-27T20:00:00+05:30",
-    "endDate": "2026-05-27T21:30:00+05:30"
-  },
-  {
     "name": "SIS x Nike Women's Cricket Coaching",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thurs4205",
@@ -254,6 +222,38 @@
     },
     "startDate": "2026-05-30T14:00:00+05:30",
     "endDate": "2026-05-30T16:00:00+05:30"
+  },
+  {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun7012",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun7012",
+    "image": "https://sistersinsweat.com/images/event/20260527202737423.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-05-31T06:45:00+05:30",
+    "endDate": "2026-05-31T08:15:00+05:30"
   },
   {
     "name": "Sisters and Misters Yoga Mornings",
@@ -575,6 +575,70 @@
     "endDate": "2026-06-06T08:30:00+05:30"
   },
   {
+    "name": "SIS X HIVE CLUB: Women's Padel Coaching - Batch 1",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-event-Padel-coaching-June6-batch1",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "event",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-event-Padel-coaching-June6-batch1",
+    "image": "https://sistersinsweat.com/images/event/20260527171135929.png",
+    "location": {
+      "name": "Hive Club, Thanisandra",
+      "address": "Hive Club, Thanisandra Main Road, Thanisandra",
+      "type": "Place"
+    },
+    "startDate": "2026-06-06T09:00:00+05:30",
+    "endDate": "2026-06-06T10:30:00+05:30"
+  },
+  {
+    "name": "SIS X HIVE CLUB: Women's Padel Coaching - Batch 2",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-event-Padel-coaching-June6-batch2",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "event",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-event-Padel-coaching-June6-batch2",
+    "image": "https://sistersinsweat.com/images/event/20260527171619181.png",
+    "location": {
+      "name": "Hive Club, Thanisandra",
+      "address": "Hive Club, Thanisandra Main Road, Thanisandra",
+      "type": "Place"
+    },
+    "startDate": "2026-06-06T10:30:00+05:30",
+    "endDate": "2026-06-06T12:00:00+05:30"
+  },
+  {
     "name": "SIS X 7Padel: Women's Padel Coaching",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-event-Padel-coaching-June6",
@@ -668,6 +732,38 @@
     },
     "startDate": "2026-06-07T08:30:00+05:30",
     "endDate": "2026-06-07T09:45:00+05:30"
+  },
+  {
+    "name": "SIS X Prime Pickleball: Pickleball Sundowner Workshop",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Pickleball-Beginner-Sundowner-Sun-June7",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Pickleball",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Pickleball-Beginner-Sundowner-Sun-June7",
+    "image": "https://sistersinsweat.com/images/event/20260527172409662.png",
+    "location": {
+      "name": "Prime Pickleball, Sarjapur",
+      "address": "Prime Pickleball - Sarjapur, opposite to Brigade GEM, Chikkanayakanahalli, Chikkakannalli, Chikkanayakanahalli, Karnataka",
+      "type": "Place"
+    },
+    "startDate": "2026-06-07T17:00:00+05:30",
+    "endDate": "2026-06-07T19:00:00+05:30"
   },
   {
     "name": "Sisters & Misters Football Game Night - Bangalore",
