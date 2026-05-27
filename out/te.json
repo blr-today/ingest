@@ -822,5 +822,54 @@
       ],
       "startDate": "2026-07-24T21:30:00+05:30",
       "url": "https://www.total-environment.com/music-and-events/delvon-lamarr-organ-trio-blr"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "At the center of the trio is the extraordinary Delvon Lamarr — a self-taught\nmulti-instrumentalist blessed with perfect pitch. Originally a trumpeter and\ndrummer, Lamarr discovered the Hammond B-3 organ at the age of 22 and quickly\ndeveloped a signature style marked by warmth, virtuosity, and irresistible\ngroove. His deep musical instinct and dynamic performances are the heartbeat\nof the band.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/delvon_61DD5.jpg",
+      "keywords": [
+         "Funk",
+         "Jazz",
+         "Vintage Soul",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Raheja Commerzone",
+            "streetAddress": "Windmills Craftworks, Raheja Commerzone, Knowledge City, Rai Durg, Hyderabad - 500032Hyderabad"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - Delvon Lamarr Organ Trio - HYD",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": null,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Delvon Lamarr Organ Trio (DLO3) is on a mission to create music that simply makes people feel good. Rooted in the rich traditions of 1960s organ jazz, the trio draws inspiration from legends like Jimmy Smith and Baby Face Willette, while blending in the soulful grooves of Booker T. & The M.G.’s and The Meters. Their sound effortlessly weaves together elements of Motown, Stax Records soul, blues, and classic funk, delivering an electrifying and deeply soulful live experience.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/delvon_E7ABE.jpg",
+            "name": "Delvon Lamarr Organ Trio",
+            "url": "https://www.youtube.com/watch?v=mOPyts0KbcY"
+         }
+      ],
+      "startDate": "2026-07-25T20:00:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/delvon-lamarr-organ-trio-hyd"
    }
 ]
