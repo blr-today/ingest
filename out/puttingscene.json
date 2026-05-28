@@ -57,7 +57,7 @@
         "price": "2800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 12
+        "remainingAttendeeCapacity": 9
       },
       {
         "@type": "Offer",
@@ -65,7 +65,7 @@
         "price": "2800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -181,7 +181,7 @@
         "price": "500.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 30
+        "remainingAttendeeCapacity": 19
       }
     ]
   },
@@ -199,6 +199,30 @@
       "url": "https://maps.app.goo.gl/DC3QtqT3mXCNoR6E9?g_st=ic"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Make your own Bookends!",
+    "url": "https://puttingscene.com/events/4155",
+    "startDate": "2026-05-29T18:00:00+05:30",
+    "endDate": "2026-05-29T21:00:00+05:30",
+    "description": "Learn the basics of the scroll saw while designing and building your own wooden bookends to take home",
+    "image": "https://cdn.puttingscene.com/event_images/4155/33e3a692-81b1-4c65-ba1a-4bcd31742e71.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "850.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -348,7 +372,7 @@
         "price": "1199.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 18
       }
     ]
   },
@@ -372,7 +396,7 @@
         "price": "714.29",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -641,7 +665,7 @@
         "price": "952.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 33
+        "remainingAttendeeCapacity": 27
       }
     ]
   },
