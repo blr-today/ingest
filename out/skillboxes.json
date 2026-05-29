@@ -165,6 +165,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Dream Catcher Making Workshop Join me for a fun and creative Dream Catcher Making Workshop where I’ll guide you step by step in creating your own beautiful handmade dream catcher.",
+      "endDate": "2026-06-06T16:30:00",
+      "identifier": "com.skillboxes.36817",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a01WQ1d0VnNobmxvZVR5NUxlcFQ2dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780040573KUqZ6MOqVc0mj4oP.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "The Green Terraces, Neotown, Smondoville Road Electronic City Phase 1 Bangaluru South, Smondoville Road, Neotown Main Rd, Maragondanahalli, Electronic City, Bengaluru, Hulimangala, Karnataka 560105, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8212959",
+            "longitude": "77.656054"
+         },
+         "name": "The Green Terraces"
+      },
+      "name": "Dream Catcher Making Workshop",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "please arrive on time\n",
+            "inventoryLevel": 11,
+            "name": "Dream catcher making workshop",
+            "url": "https://www.skillboxes.com/events/ticket/dream-catcher-making-workshop"
+         }
+      ],
+      "startDate": "2026-06-06T14:00:00",
+      "url": "https://www.skillboxes.com/events/dream-catcher-making-workshop"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "JackfruitDanceParty weekender 6-7 June #IndiranagarSocial",
       "endDate": "2026-06-07T23:59:00",
