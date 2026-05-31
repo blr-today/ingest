@@ -53,6 +53,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Experience one of the most anticipated live music events in Bangalore as DND- The Venue presents AGAM Live on June 14.Renowned for pioneering the Indian progressive Carnatic rock movement, AGAM blends class",
+      "endDate": "2026-06-14T23:59:00",
+      "identifier": "com.skillboxes.36851",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780218589zDxzZNM5kddr6Cpq.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Off Harlur Rd, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.915135",
+            "longitude": "77.666122"
+         },
+         "name": "DND The Venue"
+      },
+      "name": "DND Ft. Agam Live in Concert",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry for 1 person to the event. || Mandatory cover charge of INR 1000 applicable at entry.\nCover charges are fully redeemable on Food & Beverages. || Cover charges are applicable from the start of the event. || Cover charges may increase after 8:30 PM.",
+            "inventoryLevel": 10,
+            "name": "EB GA SINGLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/dnd-ft-agam-live-in-concert"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry for 1 Male & 1 Female to the event. || Mandatory cover charge of INR 1000 per person applicable at entry.\nCover charges are fully redeemable on Food & Beverages. || Cover charges are applicable from the start of the event. || Cover charges may increase after 8:30 PM.",
+            "inventoryLevel": 10,
+            "name": "EB GA COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/dnd-ft-agam-live-in-concert"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry for 4 People to the event. || Mandatory cover charge of INR 1000 per person applicable at entry.\nCover charges are fully redeemable on Food & Beverages. || Cover charges are applicable from the start of the event. || Cover charges may increase after 8:30 PM.",
+            "inventoryLevel": 10,
+            "name": "EB GA GROUP OF 4 ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/dnd-ft-agam-live-in-concert"
+         }
+      ],
+      "startDate": "2026-06-14T19:00:00",
+      "url": "https://www.skillboxes.com/events/dnd-ft-agam-live-in-concert"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "RAID x If Hope Dies presents Break The Silence Tour - Bangalore Edition.A night of metal music against domestic violence & abuse. No more fear, No more silence. Only resistance through sound.Mo",
       "endDate": "2026-07-24T22:30:00",
       "identifier": "com.skillboxes.36840",
@@ -397,32 +448,6 @@
       ],
       "startDate": "2026-06-06T15:00:00",
       "url": "https://www.skillboxes.com/events/the-banter-hour"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Humming Tree’s iconic sunday brunches return with The THT Cookout, curated by Chef Karan Upmanyu and Chief Mixologist Francis Antony. We have selected the best cuts marinated with Chef's not so secret sauces and grilled to perfection. If",
-      "endDate": "2026-05-31T15:00:00",
-      "identifier": "com.skillboxes.36796",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1779904698EE08PGufPCKIUxmq.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Food & Drinks"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "The Humming Tree Cookout",
-      "offers": [ ],
-      "startDate": "2026-05-31T12:00:00",
-      "url": "https://www.skillboxes.com/events/the-humming-tree-cookout"
    },
    {
       "@context": "https://schema.org",

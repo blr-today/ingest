@@ -120,16 +120,7 @@
       "address": "GENERAL ITEMS, ",
       "url": "https://maps.google.com/?cid=6898348217530550344"
     },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "750.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 17
-      }
-    ]
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -466,7 +457,7 @@
         "price": "1499.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 4
       },
       {
         "@type": "Offer",
@@ -474,7 +465,7 @@
         "price": "1499.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -506,7 +497,7 @@
         "price": "1499.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 8
+        "remainingAttendeeCapacity": 6
       }
     ]
   },
