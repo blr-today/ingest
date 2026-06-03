@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person. Fully redeemable on Food and beverages.\n",
-            "inventoryLevel": 227,
+            "inventoryLevel": 215,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/motherjane-dobareh-launch-show"
          },
@@ -49,6 +49,41 @@
       ],
       "startDate": "2026-06-06T21:00:00",
       "url": "https://www.skillboxes.com/events/motherjane-dobareh-launch-show"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🌈💣 PRIDE BOMB — A Pride Month Special\nGet ready to sparkle, slay, and celebrate at PRIDE BOMB, the most fabulous Pride Month party in town! ✨\nStep into a night bursting with col",
+      "endDate": "2026-06-07T01:30:00",
+      "identifier": "com.skillboxes.36943",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780475540CnNhNOr4w73O4c0c.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumarakrupa Rd, High Grounds, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9922264",
+            "longitude": "77.5825643"
+         },
+         "name": "The LaLiT Ashok Bengaluru"
+      },
+      "name": "Pure Love Saturday Presents Pride Bomb",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory cover charge applicable at gates\n",
+            "inventoryLevel": 100,
+            "name": "Entry Only",
+            "url": "https://www.skillboxes.com/events/ticket/pure-love-saturday-presents-pride-bomb"
+         }
+      ],
+      "startDate": "2026-06-06T20:30:00",
+      "url": "https://www.skillboxes.com/events/pure-love-saturday-presents-pride-bomb"
    },
    {
       "@context": "https://schema.org",
@@ -436,57 +471,6 @@
       ],
       "startDate": "2026-06-28T17:30:00",
       "url": "https://www.skillboxes.com/events/retro-night"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for a night where underground energy meets cutting-edge sound as Anna Breathe and Shaiflai take over Kitty Ko, The LaLiT Ashok Bangalore. Bringing together hypnotic grooves, deep rhythms, and immersive e",
-      "endDate": "2026-06-06T01:30:00",
-      "identifier": "com.skillboxes.36877",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780309297acq9zwfx0IVLjQ8o.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9924198",
-            "longitude": "77.5824663"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Redroom Ft. Anna Breathe & Shaiflai",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one female) Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-anna-breathe-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-anna-breathe-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-anna-breathe-more"
-         }
-      ],
-      "startDate": "2026-06-05T19:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-anna-breathe-more"
    },
    {
       "@context": "https://schema.org",
@@ -881,7 +865,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Valid for Day 1 - 6th June Only.\nCover charge applicable post 9 PM. Redeemable on F&B",
-            "inventoryLevel": 991,
+            "inventoryLevel": 989,
             "name": "Day 1 Pass | 6th June",
             "url": "https://www.skillboxes.com/events/ticket/jackfruitdanceparty-weekender-6-7-june-indiranagasocial"
          },
@@ -1033,6 +1017,32 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The Humming Tree’s iconic sunday brunches return with The THT Cookout, curated by Chef Karan Upmanyu and Chief Mixologist Francis Antony. We have selected the best cuts marinated with Chef's not so secret sauces and grilled to perfection. If",
+      "endDate": "2026-06-07T15:00:00",
+      "identifier": "com.skillboxes.36796",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780483143F3aFPKNzsO4heiPl.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food & Drinks"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "The Humming Tree Cookout",
+      "offers": [ ],
+      "startDate": "2026-06-07T12:00:00",
+      "url": "https://www.skillboxes.com/events/the-humming-tree-cookout"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "bFLAT presents\r\n\r\nOne night at The Humming Tree\r\n\r\nA Tribute to CARLOS SANTANA\r\n\r\n \r\n\r\nFor over 10 years, The bFLAT Bar firmly established i",
       "endDate": "2026-06-13T23:59:00",
       "identifier": "com.skillboxes.36793",
@@ -1057,7 +1067,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of INR 1000 applicable at the gates\n",
-            "inventoryLevel": 336,
+            "inventoryLevel": 325,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-one-night-at-bflat-a-tribute-to-carlos-santana"
          },
@@ -1142,7 +1152,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 1000 applicable at gates per person\n",
-            "inventoryLevel": 449,
+            "inventoryLevel": 439,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-humming-tree-presents-thermal-and-a-quarter-supported-by-dhuan"
          }
@@ -1224,7 +1234,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 105,
+            "inventoryLevel": 102,
             "name": "General Pass",
             "url": "https://www.skillboxes.com/events/ticket/eviction-notice-by-tanuki-2"
          }
@@ -1294,7 +1304,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charge of INR 1000 applicable at the gate\n",
-            "inventoryLevel": 359,
+            "inventoryLevel": 347,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/spotify-radar-live-sarah-black-aksomaniac-bhumi"
          }
@@ -1328,7 +1338,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 490,
+            "inventoryLevel": 488,
             "name": "Pilgrims - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/pilgrims-of-the-fault-live-at-the-raft-9"
          }
@@ -1363,7 +1373,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows Entry to 1 Person to the event - Mandatory Cover Charges of 1000 are applicable at the entry - Cover Charges can be redeemed completely towards F&B - Cover Charges applicable since the start of the Event - Cover charges increase post 9 PM\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 8,
             "name": "Early Bird GA Single Entry",
             "url": "https://www.skillboxes.com/events/ticket/dnd-ft-the-raghu-dixit-project-launch-weekend-1"
          }
@@ -1433,6 +1443,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows Entry to 1 Person to the event - Mandatory Cover Charges of 1000 are applicable at the entry - Cover Charges can be redeemed completely towards F&B - Cover Charges applicable since the start of the Event - Cover charges increase post 9 PM\n",
+            "inventoryLevel": 400,
+            "name": "Phase 1 GA Single Entry",
+            "url": "https://www.skillboxes.com/events/ticket/dnd-ft-band-capricio-launch-weekend"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Allows Entry to 1 Person to the event - Mandatory Cover Charges of 1000 are applicable at the entry - Cover Charges can be redeemed completely towards F&B - Cover Charges applicable since the start of the Event - Cover charges increase post 9 PM\n",
             "inventoryLevel": 10,
             "name": "Early Bird GA Single Entry",
             "url": "https://www.skillboxes.com/events/ticket/dnd-ft-band-capricio-launch-weekend"
@@ -1467,7 +1485,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 814,
+            "inventoryLevel": 807,
             "name": "Day 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/dastkar-2"
          },
@@ -1488,28 +1506,28 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 943,
+            "inventoryLevel": 940,
             "name": "Day 4 Pass",
             "url": "https://www.skillboxes.com/events/ticket/dastkar-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 961,
+            "inventoryLevel": 960,
             "name": "Day 5 Pass",
             "url": "https://www.skillboxes.com/events/ticket/dastkar-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 976,
+            "inventoryLevel": 937,
             "name": "Day 6 Pass",
             "url": "https://www.skillboxes.com/events/ticket/dastkar-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 993,
+            "inventoryLevel": 989,
             "name": "Day 7 Pass",
             "url": "https://www.skillboxes.com/events/ticket/dastkar-2"
          }
@@ -1575,15 +1593,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 1000,
             "name": "Phase 1 Performers Pass",
-            "url": "https://www.skillboxes.com/events/ticket/bangalore-bibliomaniacs-and-poets-meet-up"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird Performers Pass",
             "url": "https://www.skillboxes.com/events/ticket/bangalore-bibliomaniacs-and-poets-meet-up"
          }
       ],
@@ -1617,7 +1628,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable at entry - fully redeemable on F&B\n",
-            "inventoryLevel": 954,
+            "inventoryLevel": 944,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/primordium-vol-1"
          }
@@ -1686,7 +1697,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 32,
+            "inventoryLevel": 31,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-domina-india-tour-bangalore-1"
          },
@@ -1694,7 +1705,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Early Bird VIP Pass",
             "url": "https://www.skillboxes.com/events/ticket/privilege-presents-domina-india-tour-bangalore-1"
          },
@@ -1737,7 +1748,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 applicable at the doors\n",
-            "inventoryLevel": 480,
+            "inventoryLevel": 478,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-blue-atom-sky-feathers-of-broken-last-known-surroundings-seconds-in-space"
          }
@@ -2022,7 +2033,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 500-1000 applicable at the doors.\n",
-            "inventoryLevel": 486,
+            "inventoryLevel": 480,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-music-presents-ro-maiti-sahana-naresh-sanoli-chowdhury"
          }
@@ -2077,7 +2088,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Super Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bpm-theory-x-nikolina-1"
          },
@@ -2091,7 +2102,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Super Early Bird Backstage Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bpm-theory-x-nikolina-1"
          },
@@ -2133,7 +2144,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 51,
+            "inventoryLevel": 46,
             "name": "Early Bird | Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2141,7 +2152,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket is valid for Age group of 18-21.   This tickets grants entry for Male or female to the event in student zone.  Cover charges applicable at entry\n",
-            "inventoryLevel": 916,
+            "inventoryLevel": 907,
             "name": "Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2149,7 +2160,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 30,
+            "inventoryLevel": 27,
             "name": "Early Bird | Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2157,7 +2168,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable At Entry\n",
-            "inventoryLevel": 14,
+            "inventoryLevel": 8,
             "name": "Early Bird | Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          },
@@ -2167,6 +2178,22 @@
             "description": "Cover Charges Applicable At Entry\n",
             "inventoryLevel": 1998,
             "name": "Meet & Greet",
+            "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This table entry grants for 4 pax (Male or Female)\nCover charge of 15000 need to pay at entry which can be redeem on food and beverage",
+            "inventoryLevel": 100,
+            "name": "Backstage Table for 4",
+            "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This table entry grants for 6 pax (Male or Female)\nCover charge of 20000 need to pay at entry which can be redeem on food and beverage",
+            "inventoryLevel": 100,
+            "name": "Backstage Table for 6",
             "url": "https://www.skillboxes.com/events/ticket/arpit-bala-live-at-bangalore"
          }
       ],
@@ -2497,7 +2524,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 40,
+            "inventoryLevel": 39,
             "name": "Day 2 - 14th  June, Sunday",
             "url": "https://www.skillboxes.com/events/ticket/gooseberry-series-by-the-mango-tree"
          },

@@ -78,10 +78,10 @@
       {
         "@type": "Offer",
         "name": "Regular",
-        "price": "999.00",
+        "price": "1099.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 14
+        "remainingAttendeeCapacity": 13
       }
     ]
   },
@@ -129,21 +129,6 @@
     "url": "https://puttingscene.com/events/4419",
     "startDate": "2026-06-04T18:00:00+05:30",
     "endDate": "2026-06-04T19:30:00+05:30",
-    "description": "A one-night chef collaboration with Prachet Sancheti of Brown Koji Boy, taking over Katana's izakaya kitchen with a menu of deep, funky umami",
-    "image": "https://cdn.puttingscene.com/event_images/4419/b0c8ec95-ff49-47cc-ba8d-11973b5d3edf.jpg",
-    "location": {
-      "name": "Katana",
-      "address": "Katana, ",
-      "url": "https://maps.google.com/?cid=2103664113144163123"
-    },
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Brown Koji Boy - A Chef's Pop Up",
-    "url": "https://puttingscene.com/events/4419",
-    "startDate": "2026-06-04T20:00:00+05:30",
-    "endDate": "2026-06-04T21:30:00+05:30",
     "description": "A one-night chef collaboration with Prachet Sancheti of Brown Koji Boy, taking over Katana's izakaya kitchen with a menu of deep, funky umami",
     "image": "https://cdn.puttingscene.com/event_images/4419/b0c8ec95-ff49-47cc-ba8d-11973b5d3edf.jpg",
     "location": {
@@ -544,9 +529,7 @@
         "@type": "Offer",
         "name": "Members Only!",
         "price": "0.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "priceCurrency": "INR"
       }
     ]
   }
