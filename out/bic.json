@@ -123,22 +123,27 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "89953-1780830000-1780835400@bangaloreinternationalcentre.org",
-    "name": "Where Our Food Comes From",
-    "startDate": "2026-06-07T11:00:00+05:30",
-    "endDate": "2026-06-07T12:30:00+05:30",
-    "description": "Would you believe that watermelons used to be tiny and bitter? Can you imagine a carrot in any other colour? \nIn this interactive storytelling adventure, children will travel across time and space to uncover the origins of ten fruits and vegetables \u2014 through vibrant visuals, simple maps, and sensory games. \nThere is a surprising history behind the food on your plate. Are you ready to discover it? \nParents, please note: This is an interactive session tailored specifically to keep young minds engaged without heavy text\u2014perfect for early learners! \nThis event is a part of the Environment Day programming at BIC. \nAround the World in 50 Sundays\u00a0is a journey that begins, not with a ticket, but with opening a book. In a city like Bangalore where families are always in motion, the BIC Library hopes to offer stillness and a quiet, welcoming space for both parents and children where reading becomes a shared experience. \nEvery Sunday, we open our doors to invite you into a library that listens; building a rhythm of return, a habit of joy and a new community bound not just by books, but by the weekly ritual of reading together. \nWe welcome your ideas and input. If you have suggestions for children\u2019s events or activities that align with this vision, we\u2019d love to hear from you. Please reach out to us at library@bangaloreinternationalcentre.org \n",
-    "url": "https://bangaloreinternationalcentre.org/event/where-our-food-comes-from/",
+    "@type": "MusicEvent",
+    "@id": "90146-1781118000-1781122500@bangaloreinternationalcentre.org",
+    "name": "An Orchestra in Ten Fingers",
+    "startDate": "2026-06-10T19:00:00+05:30",
+    "endDate": "2026-06-10T20:15:00+05:30",
+    "description": "Bach\u2019s BWV 565 Toccata in D minor was written for a church organ. Grand, thunderous, built for stone cathedrals. In this solo recital, it comes alive through six strings and ten fingers.\u00a0 \nThat spirit runs through the entire programme. Music written for the lute, the piano, the operatic voice, the orchestra \u2014 each reimagined through the classical guitar. T\u00e1rrega transcribed piano pieces and made them sound like the guitar had always owned them. Villa-Lobos heard Bach and Brazilian rainforest in the same breath. Granada, Asturias, Mallorca: works that were composed for other instruments, now impossible to imagine on anything other than the guitar. The recital closes with Pritam Maity\u2019s own arrangements of Leo Brouwer\u2019s music for caj\u00f3n and guitar duo, performed alongside percussionist Dipnarayan Nath. \nWitness the boundaries between instruments, traditions, and centuries quietly dissolve. \n\nSupported by: \n \n\n",
+    "url": "https://bangaloreinternationalcentre.org/event/an-orchestra-in-ten-fingers/",
     "keywords": [
-      "Around the World in 50 Sundays"
+      "Music",
+      "Performing Arts"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_WOFCF.jpg"
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "An Orchestra in Ten Fingers"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail-50.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -160,6 +165,49 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/ThumbnailMay-8.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "89953-1780830000-1780835400@bangaloreinternationalcentre.org",
+    "name": "Where Our Food Comes From",
+    "startDate": "2026-06-07T11:00:00+05:30",
+    "endDate": "2026-06-07T12:30:00+05:30",
+    "description": "Would you believe that watermelons used to be tiny and bitter? Can you imagine a carrot in any other colour? \nIn this interactive storytelling adventure, children will travel across time and space to uncover the origins of ten fruits and vegetables \u2014 through vibrant visuals, simple maps, and sensory games. \nThere is a surprising history behind the food on your plate. Are you ready to discover it? \nParents, please note: This is an interactive session tailored specifically to keep young minds engaged without heavy text\u2014perfect for early learners! \nThis event is a part of the Environment Day programming at BIC. \nAround the World in 50 Sundays\u00a0is a journey that begins, not with a ticket, but with opening a book. In a city like Bangalore where families are always in motion, the BIC Library hopes to offer stillness and a quiet, welcoming space for both parents and children where reading becomes a shared experience. \nEvery Sunday, we open our doors to invite you into a library that listens; building a rhythm of return, a habit of joy and a new community bound not just by books, but by the weekly ritual of reading together. \nWe welcome your ideas and input. If you have suggestions for children\u2019s events or activities that align with this vision, we\u2019d love to hear from you. Please reach out to us at library@bangaloreinternationalcentre.org \n",
+    "url": "https://bangaloreinternationalcentre.org/event/where-our-food-comes-from/",
+    "keywords": [
+      "Around the World in 50 Sundays"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_WOFCF.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "89795-1781350200-1781355600@bangaloreinternationalcentre.org",
+    "name": "Anhad",
+    "startDate": "2026-06-13T11:30:00+05:30",
+    "endDate": "2026-06-13T13:00:00+05:30",
+    "description": "Brave and boundless, Pandit Kumar Gandharva questioned tradition without rejecting it, and in doing so, transformed Indian classical music. \nThis morning of Hindustani classical and devotional music celebrates his 102nd birth year. Khayal Gaayaki alongside Nirgun and Sagun bhajans, drawing from the poetry of Kabir, Meera, Surdas, and Tulsidas \u2014 this performance traces the roots he never abandoned. \nTraditional yet contemporary, intimate yet vast: this is music that travels through raga and bhakti toward inner peace. \nSupported by:\n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/anhad/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Anhad"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_Anhad.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -244,24 +292,27 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "89971-1780511400-1780516800@bangaloreinternationalcentre.org",
-    "name": "David Attenborough: A Life on Our Planet",
-    "startDate": "2026-06-03T18:30:00+05:30",
-    "endDate": "2026-06-03T20:00:00+05:30",
-    "description": "Even if you don\u2019t recognise his name, you definitely recognise his voice. \nDavid Attenborough recently celebrated his 100th birthday. Over a career spanning several decades, he brought the wonders of the natural world into living rooms across the globe: starting with observation and moving towards advocacy. Series such as Planet Earth and Blue Planet made him one of the most influential figures in natural history. \nThough revered by many, his legacy is a subject of critical debate. From the framing of his subjects to the narrative around conservation, he has lived and broadcasted through multiple changing narratives around nature. How far is his influence? What is his responsibility? \nIn this session, Theodore Baskaran and Kartik Shanker, with Kalyan Varma as moderator, discuss Sir David Attenborough\u2019s life and work. The session will conclude with an audience Q&A. \nThis event is a part of the Environment Day programming at BIC. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/david-attenborough-a-life-on-our-planet/",
+    "@type": "TheaterEvent",
+    "@id": "89751-1781031600-1781036100@bangaloreinternationalcentre.org",
+    "name": "The Doorway",
+    "startDate": "2026-06-09T19:00:00+05:30",
+    "endDate": "2026-06-09T20:15:00+05:30",
+    "description": "Three chapters. Three rooms. One child recalling his memories. \nThe Doorway is a solo performance in which one body brings four characters to life: a father, a brother, a mother, and a dog. Director and performer Yash draws on his personal experiences to create a world where objects come to life. Through old photographs, puppetry, narration, and live performance, the audience pieces together a rather honest family portrait.\u00a0 \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-doorway/",
     "keywords": [
-      "Environment",
-      "Film",
-      "Science"
+      "Performing Arts",
+      "Theatre"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_DA_ALOOP2.jpg"
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "The Doorway"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail-12.jpg"
   },
   {
     "@context": "https://schema.org",
