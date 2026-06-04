@@ -1,126 +1,56 @@
 [
   {
     "@type": "Event",
-    "name": "Lecture Series: Quantum dynamics in the pre-fault tolerant era",
-    "url": "https://puttingscene.com/events/4576",
-    "startDate": "2026-06-03T11:30:00+05:30",
-    "endDate": "2026-06-03T12:30:00+05:30",
-    "description": "Rutgers physicist Jedediah Pixley on quantum computing's next phase, as devices begin to outgrow today's noise and edge toward reliability",
-    "image": "https://cdn.puttingscene.com/generated-images/2026/06/02/1780398028997-1780398028834_sbw4rwjv75h.png",
+    "name": "Saree Utsav",
+    "url": "https://puttingscene.com/events/4592",
+    "startDate": "2026-06-04T10:30:00+05:30",
+    "endDate": "2026-06-04T11:30:00+05:30",
+    "description": "An exhibition of handpicked Indian weaves, from pure silks to contemporary and festive classics, with makers on hand",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/03/1780483036647-1780483036592_4s1d503x03s.png",
+    "location": {
+      "name": "Raintree, Seshadripuram",
+      "address": "Raintree, Seshadripuram, Bangalore",
+      "url": "https://maps.app.goo.gl/i7QB44hVBjtpeJGx5"
+    },
+    "sameAs": "https://www.instagram.com/p/DZErC0uD8uL/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Mexican Culinary Workshop",
+    "url": "https://puttingscene.com/events/4589",
+    "startDate": "2026-06-04T11:00:00+05:30",
+    "endDate": "2026-06-04T12:00:00+05:30",
+    "description": "Chef Natasha Celmi runs a hands-on vegetarian Mexican workshop at Canella Studio, from homemade tortillas to nachos, guacamole and burrito bowls",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/03/1780482824216-1780482824111_42641deiyem.png",
+    "location": {
+      "name": "Canella Studio, Indiranagar",
+      "address": "Canella Studio, Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/WrhBXcHA8xmmUzJf6"
+    },
+    "sameAs": "https://urbanaut.app/spot/mexicanculinaryworkshop",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2700.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Spin-Statistics from Ribbon Histories",
+    "url": "https://puttingscene.com/events/4593",
+    "startDate": "2026-06-04T15:30:00+05:30",
+    "endDate": "2026-06-04T16:30:00+05:30",
+    "description": "ICTS physicist Joseph Samuel offers a fresh geometric proof of why particles split into bosons and fermions, drawing their histories as ribbons",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/03/1780482498617-1780482498484_utctgxzfvjo.png",
     "location": {
       "name": "ICTS-TIFR, Shivakote",
       "address": "ICTS-TIFR, Shivakote, Bangalore",
       "url": "https://maps.app.goo.gl/RvuevDeTxLkVja3T9"
     },
-    "sameAs": "https://www.icts.res.in/lectures/QD2026",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "WIP: House of Somm 2026",
-    "url": "https://puttingscene.com/events/4577",
-    "startDate": "2026-06-03T17:00:00+05:30",
-    "endDate": "2026-06-03T18:00:00+05:30",
-    "description": "A tasting-meets-face-off between India's most respected sommeliers, built around bold palates, strong opinions and the stories behind each pour",
-    "image": "https://cdn.puttingscene.com/generated-images/2026/06/02/1780397848475-1780397848427_ofrxmwjz5qg.png",
-    "location": {
-      "name": "Wine In Progress, Shanti Nagar",
-      "address": "Wine In Progress, Shanti Nagar, Bangalore",
-      "url": "https://maps.app.goo.gl/qe6NAj3M3HJi9r8x9"
-    },
-    "sameAs": "https://www.instagram.com/p/DYxDpJMCWSm/?img_index=1",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "1000.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "\ud83c\udff7\ufe0fLaser Cut Interactive NFC Objects",
-    "url": "https://puttingscene.com/events/4509",
-    "startDate": "2026-06-03T19:00:00+05:30",
-    "endDate": "2026-06-03T21:00:00+05:30",
-    "description": "Make a laser-cut keychain, bookmark or business card and program it with NFC, so a phone tap shares Wi-Fi, starts a playlist or opens an album",
-    "image": "https://cdn.puttingscene.com/event_images/4509/dc8bcb28-079b-44ef-9358-14056ee9e7d5.jpg",
-    "location": {
-      "name": "Paper Crane Lab",
-      "address": "Paper Crane Lab, ",
-      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "750.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Pint of View Lecture Over Drinks: Intimate Distance\u2014Exploring Men & Intimacy Through Art",
-    "url": "https://puttingscene.com/events/4525",
-    "startDate": "2026-06-03T19:00:00+05:30",
-    "endDate": "2026-06-03T21:00:00+05:30",
-    "description": "Art historian Annapurna Garimella on what 20 years of paintings reveal about a Pahari king and his court artist Nainsukh, in a lecture over drinks",
-    "image": "https://cdn.puttingscene.com/event_images/4525/3e8a3edc-f160-4681-8c1d-4ef1f92d7ccc.jpg",
-    "location": {
-      "name": "The Bangalore Local",
-      "address": "The Bangalore Local, ",
-      "url": "https://maps.google.com/?cid=907364427388791780"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Regular",
-        "price": "1099.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 13
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Beku Book Club: Red Sword",
-    "url": "https://puttingscene.com/events/4578",
-    "startDate": "2026-06-03T19:00:00+05:30",
-    "endDate": "2026-06-03T20:00:00+05:30",
-    "description": "The fifth Beku Book Club takes on Red Sword, Bora Chung's speculative novel that places 17th-century Korean soldiers in a far-future galactic empire",
-    "image": "https://cdn.puttingscene.com/generated-images/2026/06/02/1780398096975-1780398096916_h2gd6t3ae7t.png",
-    "location": {
-      "name": "Beku, JP Nagar",
-      "address": "Beku, JP Nagar, Bangalore",
-      "url": "https://maps.app.goo.gl/cZzyy3LMoHHkBKxX7"
-    },
-    "sameAs": "https://urbanaut.app/spot/beku-book-club-13069",
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "249.00",
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Night at the Museum with Chef Delzad",
-    "url": "https://puttingscene.com/events/4579",
-    "startDate": "2026-06-03T19:30:00+05:30",
-    "endDate": "2026-06-03T20:30:00+05:30",
-    "description": "A one-night pop-up at Dali and Gala by Chef Delzad with steakhouse burgers, pulled pork tacos and tenderloin noodle bowls",
-    "image": "https://cdn.puttingscene.com/generated-images/2026/06/02/1780414602115-1780414602045_ozp8xpd164.png",
-    "location": {
-      "name": "Dali and Gala Cocktail Bar",
-      "address": "Dali and Gala Cocktail Bar, ",
-      "url": "https://maps.google.com/?cid=12048796351129574018"
-    },
-    "sameAs": "https://www.instagram.com/reel/DY9_DxQvFQU/",
+    "sameAs": "https://www.icts.res.in/seminar/2026-06-04/joseph-samuel",
     "isAccessibleForFree": true
   },
   {
@@ -140,6 +70,74 @@
   },
   {
     "@type": "Event",
+    "name": "Know Your Roots with Bedroc",
+    "url": "https://puttingscene.com/events/4590",
+    "startDate": "2026-06-04T19:30:00+05:30",
+    "endDate": "2026-06-04T20:30:00+05:30",
+    "description": "Hip-hop dancer Bedroc leads a Bangalore edition of Know Your Roots, a freestyle workshop on foundational movement, history and community",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/03/1780483120180-1780483120122_8ox1ht444g4.png",
+    "location": {
+      "name": "Ards India, Indiranagar",
+      "address": "Ards India, Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/d6WZGRgSkA55d6iq9"
+    },
+    "sameAs": "https://www.instagram.com/p/DY3xKXoTinR/",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "2500.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sisters in Sweat: Women's Beginner Football Coaching- Jakkur",
+    "url": "https://puttingscene.com/events/4594",
+    "startDate": "2026-06-04T19:30:00+05:30",
+    "endDate": "2026-06-04T21:00:00+05:30",
+    "description": "A women-only football session for beginners and improvers, built around a warm-up, drills, a friendly match and a cool-down across 90 minutes",
+    "image": "https://cdn.puttingscene.com/event_images/4594/6c7dfd3b-8125-46af-8073-a79a608947b6.jpg",
+    "location": {
+      "name": "Game Link X TSUS",
+      "address": "Game Link X TSUS, ",
+      "url": "https://maps.google.com/?cid=7482692541253938886"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "590.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 8
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Still Life: Jia Zhangke Retrospective",
+    "url": "https://puttingscene.com/events/4591",
+    "startDate": "2026-06-04T19:45:00+05:30",
+    "endDate": "2026-06-04T20:45:00+05:30",
+    "description": "Screening of Jia Zhangke's Still Life (2006), where two searchers witness a Fengjie town vanishing beneath the rising waters of the Three Gorges Dam, followed by a discussion",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/03/1780482874908-1780482874721_2e6eogc87ru.png",
+    "location": {
+      "name": "Angala, Cox Town, Bengaluru",
+      "address": "Angala, Cox Town, Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/jJDF3ZrCy5FkvkU57"
+    },
+    "sameAs": "https://urbanaut.app/spot/stilllife-jiazhangke",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Thursday Trivia Night @ 2 Pints Brewing",
     "url": "https://puttingscene.com/events/4564",
     "startDate": "2026-06-04T20:00:00+05:30",
@@ -152,6 +150,30 @@
       "url": "https://maps.google.com/?cid=6158494646594350939"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "SIP & SPILL",
+    "url": "https://puttingscene.com/events/4595",
+    "startDate": "2026-06-04T21:30:00+05:30",
+    "endDate": "2026-06-04T22:30:00+05:30",
+    "description": "A weekly cocktail series that travels the world one country at a time, with a new menu each week rooted in the month's featured place",
+    "image": "https://cdn.puttingscene.com/event_images/4595/c09c4e4d-ec3a-4b12-8e03-b83e71d8a9cc.jpg",
+    "location": {
+      "name": "LUPA",
+      "address": "LUPA, ",
+      "url": "https://maps.google.com/?cid=3869414084745381449"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "500.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 30
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -276,6 +298,78 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 14
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Tiny Trivia Night",
+    "url": "https://puttingscene.com/events/4565",
+    "startDate": "2026-06-05T20:30:00+05:30",
+    "endDate": "2026-06-05T22:00:00+05:30",
+    "description": "A returning quiz at Tiny Sushi on food, current affairs, pop culture and memes, with sushi meals and vouchers for the top teams",
+    "image": "https://cdn.puttingscene.com/event_images/4565/3bd72921-0cca-45a0-a20b-c6f18096a0a4.jpg",
+    "location": {
+      "name": "Tiny Sushi Shop",
+      "address": "Tiny Sushi Shop, ",
+      "url": "https://maps.google.com/?cid=3939653636137756370"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "400.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 28
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sports & Games Quiz by Calm Your Wits Quizzing",
+    "url": "https://puttingscene.com/events/4582",
+    "startDate": "2026-06-05T21:00:00+05:30",
+    "endDate": "2026-06-05T23:00:00+05:30",
+    "description": "A pub quiz on sports, games and pop culture, spanning everything from GTA and Uno to the Premier League and Formula 1",
+    "image": "https://cdn.puttingscene.com/event_images/4582/a742ba5d-6bd6-4ee7-a6fc-d2bda2ee0cde.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.google.com/?cid=1552028387341754792"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "338.14",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Build your own Noise Box!",
+    "url": "https://puttingscene.com/events/4562",
+    "startDate": "2026-06-06T11:00:00+05:30",
+    "endDate": "2026-06-06T14:00:00+05:30",
+    "description": "Build a custom noise box from springs, tines and metallic objects, then jam together to conjure eerie cinematic textures and horror soundtracks",
+    "image": "https://cdn.puttingscene.com/event_images/4562/923f9bb2-9848-4136-ba8f-0480c2f5786a.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1200.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
       }
     ]
   },
@@ -449,6 +543,78 @@
   },
   {
     "@type": "Event",
+    "name": "Dough it Yourself: A Pizza Making Experience",
+    "url": "https://puttingscene.com/events/4560",
+    "startDate": "2026-06-07T13:00:00+05:30",
+    "endDate": "2026-06-07T14:30:00+05:30",
+    "description": "Stretch, fill, fold and bake your own pizza in a guided workshop with a chef",
+    "image": "https://cdn.puttingscene.com/event_images/4560/4e164d96-823e-4eb0-b2cb-bdce37f944a7.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, Bangalore",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "895.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Fraser town Bakrid Dawaat.",
+    "url": "https://puttingscene.com/events/3114",
+    "startDate": "2026-06-07T14:00:00+05:30",
+    "endDate": "2026-06-07T15:30:00+05:30",
+    "description": "Break fast in Frazer Town with a regional Ramzan spread of haleem, biryani and slow brewed Sulaimani chai",
+    "image": "https://cdn.puttingscene.com/event_images/3114/611c43a8-92d0-4ad1-b476-1e9da23cf024.jpg",
+    "location": {
+      "name": "Frazer Town Food",
+      "address": "Frazer Town Food, ",
+      "url": "https://maps.google.com/?cid=10260987580266080739"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "1399.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Dough it Yourself: A Pizza Making Experience",
+    "url": "https://puttingscene.com/events/4560",
+    "startDate": "2026-06-07T14:30:00+05:30",
+    "endDate": "2026-06-07T16:00:00+05:30",
+    "description": "Stretch, fill, fold and bake your own pizza in a guided workshop with a chef",
+    "image": "https://cdn.puttingscene.com/event_images/4560/4e164d96-823e-4eb0-b2cb-bdce37f944a7.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, Bangalore",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "895.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 6
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Pint of View Lecture Over Drinks: The Curious Incident of the Moth in the Nighttime",
     "url": "https://puttingscene.com/events/4561",
     "startDate": "2026-06-07T16:00:00+05:30",
@@ -470,6 +636,21 @@
         "remainingAttendeeCapacity": 10
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "\ud83c\udfce\ufe0f SHORT CIRCUIT - An evening where F1 meets science!",
+    "url": "https://puttingscene.com/events/4398",
+    "startDate": "2026-06-07T17:00:00+05:30",
+    "endDate": "2026-06-07T20:30:00+05:30",
+    "description": "<p>What makes a Formula 1 car fast? How much engineering hides behind a split-second decision? What does it really take\u2014physically and mentally\u2014to drive at the limit? Join us for an evening of lightning talks, conversations, and a live screening of the 2026 Monaco Grand Prix, where scientists, engineers, motorsport enthusiasts, and curious minds come together to explore the science behind the sport.</p><p>-Short talks from experts in motorsport, racing, and aerospace engineering</p><p>-Live race screening of 2026 Monaco Grand Prix with commentary and audience Q&amp;A</p><p>-Mid-race quiz and prizes</p><p>-Open to F1 fans, science enthusiasts, and families!</p>",
+    "image": "https://cdn.puttingscene.com/event_images/4398/de32caab-8613-405d-9767-ec7e7de1fd32.jpg",
+    "location": {
+      "name": "Visvesvaraya Industrial & Technological Museum",
+      "address": "Visvesvaraya Industrial & Technological Museum, ",
+      "url": "https://maps.google.com/?cid=9211338527529957543"
+    },
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -530,6 +711,78 @@
         "name": "Members Only!",
         "price": "0.00",
         "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Srirangapatna Day Tour",
+    "url": "https://puttingscene.com/events/4058",
+    "startDate": "2026-06-14T07:00:00+05:30",
+    "endDate": "2026-06-14T20:00:00+05:30",
+    "description": "A day-long heritage walk through Tipu Sultan's fortress capital, from Daria Daulat Bagh and the Gumbaz to the breach where the Anglo-Mysore Wars ended",
+    "image": "https://cdn.puttingscene.com/event_images/4058/a6248c28-ea1d-4b5e-b5c2-e00ccda1f095.jpg",
+    "location": {
+      "name": "Srirangapatna",
+      "address": "Srirangapatna, ",
+      "url": "https://maps.google.com/?cid=3171212281860422370"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "2299.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Cottonpete Heritage Walk. (Stories of Sufis, Akhadas & Ayurveda)",
+    "url": "https://puttingscene.com/events/3680",
+    "startDate": "2026-06-21T08:00:00+05:30",
+    "endDate": "2026-06-21T11:00:00+05:30",
+    "description": "A heritage walk through Pettah, tracing Sufi shrines, temples, healing traditions, and the city\u2019s layered faith",
+    "image": "https://cdn.puttingscene.com/event_images/3680/7414801a-d917-48a7-982d-c9a0a0d9a587.jpg",
+    "location": {
+      "name": "Cottonpete main road",
+      "address": "Cottonpete main road, ",
+      "url": "https://maps.google.com/?cid=9010954414498766387"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "875.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Nagarathpete Heritage Walk. (Tales of Sufis, silk & shakti)",
+    "url": "https://puttingscene.com/events/2058",
+    "startDate": "2026-06-27T08:00:00+05:30",
+    "endDate": "2026-06-27T11:00:00+05:30",
+    "description": "A guided walk traces Pettah\u2019s layered history, from temple traditions and Mysore rockets to silk weavers and hidden relics",
+    "image": "https://cdn.puttingscene.com/event_images/2058/0f3c46f3-da62-452a-9ebc-e6f1d8fdc5f8.jpg",
+    "location": {
+      "name": "Nagarathpet",
+      "address": "Nagarathpet, ",
+      "url": "https://maps.google.com/?cid=16463393398641839693"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "875.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 19
       }
     ]
   }
