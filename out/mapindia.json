@@ -18,7 +18,7 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
+    "@type": "EducationEvent",
     "@id": "1289@map-india.org",
     "name": "Escaping our Existence",
     "startDate": "2026-06-06T10:00:00+05:30",
@@ -26,9 +26,9 @@
     "description": "The humans have vanished, and you\u2019ve just landed on Earth. Join one of three expeditions and unravel the clues they left behind. Hidden in plain sight are clues about the paintings in Beneath the Turning Sky for you to solve and find your way out of the exhibition space!\nJoin us for this mystery-filled adventure!\nThis programme is hosted in conjunction with the Teen Takeover programme.",
     "url": "https://map-india.org/map-events/escaping-our-existence/",
     "keywords": [
-      " Featuring",
       "CBD",
-      "MAP"
+      "MAP",
+      "Workshops"
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/05/Screenshot-2026-05-22-151905.png"
@@ -70,18 +70,39 @@
   {
     "@context": "https://schema.org",
     "@type": "ScreeningEvent",
-    "@id": "1295@map-india.org",
-    "name": "Queer Film Evenings",
-    "startDate": "2026-06-06T15:00:00+05:30",
-    "endDate": "2026-06-07T17:00:00+05:30",
-    "description": "Join us for a weekend of queer short film screenings that bring into focus stories of identity, resistance, joy, and community from across the country. Through intimate and thought-provoking narratives, these films explore the realities of queer lives, reflecting on visibility, belonging, resilience, and self-expression in a time marked by increasing invisibilisation and protest.\n\nSpanning diverse experiences and perspectives, the screenings invite audiences to engage with stories that challenge silence and reclaim space through the power of storytelling. Accompanied by conversations and reflections with speakers and community voices, the programme creates space for dialogue rooted in solidarity, and queer joy.\n\nThe film list will be announced shortly.\n\nThis programme is part of LGBTQIA+ programming and is an attempt to amplify narratives from within the queer community through film, dialogue, and collective reflection.",
-    "url": "https://map-india.org/map-events/queer-film-evenings/",
+    "@id": "1300@map-india.org",
+    "name": "Nocturnes",
+    "startDate": "2026-06-19T18:00:00+05:30",
+    "endDate": "2026-06-19T19:30:00+05:30",
+    "description": "Image credits: Metamorphosis Film Junction\nAn immersive viewing experience of sound and imagery, the film weaves together an intricate and poetic tapestry of our world. In the dense forests of Arunachal Pradesh, ecologist Mansi sets out on a quest to study moths in one of the most vibrant places on earth. She teams up with Bicki, a young man from the indigenous Bugun community, to seek clues about what the future holds for the moths as temperatures rise.\u00a0\n\nBy focusing on a small, ephemeral, nocturnal creature like the moth, Nocturnes seeks to question a human-centric view of the world. The lush forest, throbbing with a vast diversity of life, emerges as a breath-taking character as the film responds to the symphony of sounds and the inherent rhythms of the trees, the wind and the rain. The result is a rare and transformative experience that invites us all to look with more attention and care at the hidden interconnections in nature.\u00a0\n\nThis event is held in conjunction with our ongoing permanent exhibition Beneath the Turning Sky. ",
+    "url": "https://map-india.org/map-events/nocturnes/",
     "keywords": [
       "CBD",
       "Film Screenings",
       "MAP"
     ],
     "inLanguage": "en",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Nocturnes"
+    },
+    "image": "https://map-india.org/wp-content/uploads/2026/06/Nocturnes-still-1-scaled.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "1295@map-india.org",
+    "name": "Queer Film Evenings",
+    "startDate": "2026-06-06T15:00:00+05:30",
+    "endDate": "2026-06-07T17:00:00+05:30",
+    "description": "Join us for a weekend of queer short film screenings that bring into focus stories of identity, resistance, joy, and community from across the country. Through intimate and thought-provoking narratives, these films explore the realities of queer lives, reflecting on visibility, belonging, resilience, and self-expression in a time marked by increasing invisibilisation and protest.\n\nSpanning diverse experiences and perspectives, the screenings invite audiences to engage with stories that challenge silence and reclaim space through the power of storytelling. Accompanied by conversations and reflections with speakers and community voices, the programme creates space for dialogue rooted in solidarity, and queer joy.\n\nThe film list is as follows.\n\n\n\nFilm Director\nFilm\nYear of Release\nLanguage in the Film\n\n\nKris\nNisha\n2025\nEnglish, Hindi, Malayalam, Kannada\n\n\nDigvijay Andhorikar\nRoses Are...\n2025\nMarathi\n\n\nRaakesh\nAlmari Ka Achaar\nNot released yet\nHindi\n\n\nAnusuiya Dutta\nGender-ed\n2025\nEnglish, Marathi, Hindi\n\n\nAshutosh S. Shankar\nTara\n2025\nHindi, English\n\n\nDisha Bhardwaj\nChupi Roh\n2023\nHimachali/Hindi\n\n\nLeo Paapam\nDear Sahithya\n2024\nHindi English\n\n\nBonita Rajpurohit\nif you know you know\n2024\nEnglish, Hindi, Gujarati\n\n\nSnigdha Kapoor\nHoly Curse\n2024\nHindi, English\n\n\nShashwat Dwivedi\nBobby Beauty Parlour\n2024\nHindi\n\n\nAnanth Subramaniam\nBleat! (\u0b95\u0ba4\u0bcd\u0ba4\u0bc1! Kattu!)\n2025\nTamil\n\n\nSudipto Kundu\nEnd of 14 Days\n2025\nBengali\n\n\n\n&nbsp;\n\nThis programme is part of LGBTQIA+ programming and is an attempt to amplify narratives from within the queer community through film, dialogue, and collective reflection.",
+    "url": "https://map-india.org/map-events/queer-film-evenings/",
+    "keywords": [
+      "CBD",
+      "Film Screenings",
+      "MAP"
+    ],
+    "inLanguage": "gu",
     "workPresented": {
       "@type": "Movie",
       "name": "Queer Film Evenings"
@@ -104,6 +125,23 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/05/Screenshot-2026-05-22-160624.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "1302@map-india.org",
+    "name": "Holding Space: Feminist Reading Circle",
+    "startDate": "2026-06-21T11:00:00+05:30",
+    "endDate": "2026-06-21T13:00:00+05:30",
+    "description": "What does vulnerability look like? What does care feel like?\nThese are the questions that artist afra eisma leaves us with in warrior garments.\n\nJoin us for the final session of reflective feminist reading sessions, developed in collaboration with Zubaan and facilitated by Laxmi Murthy. Together, we will explore gender-based violence\u2014its lived realities, and the possibilities of resistance, solidarity, and healing. Through stories, essays, and personal reflections, you are invited to engage with the exhibition at your own pace, in a space that encourages listening, sharing, and care.\n\nNote: This is the final session in a series presented alongside Warrior Garments. Reading materials for each will be shared after registration.\n\nTrigger Warning: The sessions may include discussions on sexual violence.",
+    "url": "https://map-india.org/map-events/holding-space-feminist-reading-circle-3/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/04/HP-Slider-Images-Mobile-1.png"
   },
   {
     "@context": "https://schema.org",
@@ -155,5 +193,39 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/05/PTG.01769-e1780400592361.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "1299@map-india.org",
+    "name": "Prints in Blue",
+    "startDate": "2026-06-13T11:30:00+05:30",
+    "endDate": "2026-06-13T14:30:00+05:30",
+    "description": "Untitled, Durgaprasad Bandi,2022, Cyanotype, MAC.02155\nThis workshop introduces participants to cyanotype process through direct engagement with materials, light, and composition. Rooted in the legacy of early photographic image-making, the session moves from technical understanding to exploratory making.\n\nBeginning with an introduction to the history and context of cyanotype, participants then prepare coated surfaces, compose images using botanical specimens, and expose prints using sunlight and UV sources.\u00a0\n\nOn experimentation with form, layering, and variations in exposure and washing, participants understand how the process responds to material and environmental conditions.\u00a0\n\nThis programme is in conjunction with MAP\u2019s ongoing exhibition, Paper Gardens: Art, Botany and Empire.",
+    "url": "https://map-india.org/map-events/prints-in-blue/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/06/Abhishek-Khan-is-a-research-based-artist-designer-and-storyteller-who-works-under-the-pen-name-Hand-Jobs-Inc.-His-practice-explores-the-relationships-between-people-memory-and-the-natural-worl-1.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "1301@map-india.org",
+    "name": "Between Seeing and Listening",
+    "startDate": "2026-06-20T10:00:00+05:30",
+    "endDate": "2026-06-20T14:00:00+05:30",
+    "description": "Image credits: Metamorphosis Film Junction\nThe workshop evolves from the core ideas of the film Nocturnes. We will together experience, discuss, and go deeper into the interface between duration and attention through a range of guided individual and group exercises: listening to field recordings, viewing film excerpts, taking photographs and videos, and recording sounds. You will have an opportunity to explore and interpret the world around you through images, sounds, and unexpected ways in which they interact and speak to each other. No prior technical knowledge is required. All we ask is for you to be present with an open and curious mind.\n\nAttending the screening of Nocturnes on 19 June is highly recommended.\u00a0\n\nThis event is held in conjunction with our ongoing permanent exhibition Beneath the Turning Sky. ",
+    "url": "https://map-india.org/map-events/between-seeing-and-listening/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/06/NOCTURNES-new-still-4-scaled.jpg"
   }
 ]

@@ -101,6 +101,56 @@
   },
   {
     "@type": "SportsEvent",
+    "name": "Run and Rave at the Bay with PaceX and Good Flippping Burger",
+    "url": "https://indiarunning.com/events/run_and_rave_at_the_bay_with_pacex_and_good_flippping_burger_55679",
+    "startDate": "2026-07-12T07:00:00+05:30",
+    "endDate": "2026-07-12T10:30:00+05:30",
+    "description": "We\u2019re bringing you a one-of-a-kind \nRun & Rave experience at The Bay, Ecoworld,\n where fitness meets pure energy.\nStart your morning with an electric community run, followed by a high-vibe rave with music, movement, and people who get it. And yes - we\u2019re making it worth your sweat:\n\ud83c\udf54 A burger on the house\n\ud83e\udd64 + a drink to refuel and vibe\nWhether you\u2019re here for the run, the music, or the community, this is where it all comes together.\n350+ runners. One insane morning.\nThis isn\u2019t just a run. It\u2019s a scene.\nSee you at the start line.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/07/12/run-and-rave-at-the-bay-with-pacex-and-good-flippping-burger-2026/banner1780586942967",
+    "location": {
+      "@type": "Place",
+      "name": "Bellandur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Eco World, 4D, Outer Ring Rd, Bellandur, Bengaluru, Karnataka 560103, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560103",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9256415,
+        "longitude": 77.6887277
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "Green BLR 2.0",
     "url": "https://indiarunning.com/events/green_blr_20_20592",
     "startDate": "2026-08-16T06:10:00+05:30",
