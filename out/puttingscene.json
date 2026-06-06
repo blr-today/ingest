@@ -19,7 +19,7 @@
         "price": "1800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 12
+        "remainingAttendeeCapacity": 11
       }
     ]
   },
@@ -126,7 +126,7 @@
         "price": "338.14",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 1
       }
     ]
   },
@@ -221,30 +221,6 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 2
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Sofar Bangalore | Intimate Gig at a Temple Complex",
-    "url": "https://puttingscene.com/events/4598",
-    "startDate": "2026-06-06T16:00:00+05:30",
-    "endDate": "2026-06-06T18:00:00+05:30",
-    "description": "Another edition of Sofar Bangalore: three secret indie artists, one quaint temple complex in Halasuru, and an evening of original songs across genres",
-    "image": "https://cdn.puttingscene.com/event_images/4598/2d2c3748-54cd-4469-a543-45fcb7779da0.jpg",
-    "location": {
-      "name": "Halasuru",
-      "address": "Halasuru, ",
-      "url": "https://maps.google.com/?cid=11292742054104024403"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "850.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
       }
     ]
   },
