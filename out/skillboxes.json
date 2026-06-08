@@ -36,6 +36,98 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The rumors are true... DJ Prithvi has turned 16. Again.Join us for a birthday special hosted by Shiv Prizzz featuring DJ Prithvi at Kitty Ko for a night of pure chaos, big energy, and eve",
+      "endDate": "2026-06-13T23:59:00",
+      "identifier": "com.skillboxes.37103",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780902754G38bZLmn2hJl5dut.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Sweet 16",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sweet-16"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1,
+            "name": "Single Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/sweet-16"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Stags Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sweet-16"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sweet-16"
+         }
+      ],
+      "startDate": "2026-06-13T20:30:00",
+      "url": "https://www.skillboxes.com/events/sweet-16"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Backrooms presents Farewell Party.After three years of unforgettable shows, we're taking the stage, while we bid farewell to our vocalist before he moves abroad.",
+      "endDate": "2026-06-20T22:30:00",
+      "identifier": "com.skillboxes.37098",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RGNGV2I1VE1VMFFCSDV5VElQc2hwZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/178089614017RLPRBr3uGwQXJa.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 227, 3rd, Floor, 3rd, Leela Square, Main, 4th A Cross Rd, off Bannerghatta Road, Panduranga Nagar, Bengaluru, Karnataka 560076, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8930206",
+            "longitude": "77.5955521"
+         },
+         "name": "Prism by Octavium"
+      },
+      "name": "Backrooms | Farewell Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admits entry to one person per ticket. No cover charges required!\n",
+            "inventoryLevel": 98,
+            "name": "General Access",
+            "url": "https://www.skillboxes.com/events/ticket/backrooms-farewell-party"
+         }
+      ],
+      "startDate": "2026-06-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/backrooms-farewell-party"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "The Lexic Bootcamp with Shriya Gopalakrishnan Ticket P3pm to 5.30pmA no fluff primer on rights and royalties for artists/ artist managers in the music industry.",
       "endDate": "2026-06-23T18:30:00",
@@ -129,29 +221,29 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 40,
-            "name": "Applause",
-            "url": "https://www.skillboxes.com/events/ticket/martbaan-2026"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Pat on the Back",
+            "inventoryLevel": 20,
+            "name": "Audience - Applause",
             "url": "https://www.skillboxes.com/events/ticket/martbaan-2026"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 20,
-            "name": "Heartkeepers",
+            "name": "Audience - Pat on the Back",
             "url": "https://www.skillboxes.com/events/ticket/martbaan-2026"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "Pillars of love",
+            "inventoryLevel": 20,
+            "name": "Audience - Heartkeepers",
+            "url": "https://www.skillboxes.com/events/ticket/martbaan-2026"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Audience - Pillars of love",
             "url": "https://www.skillboxes.com/events/ticket/martbaan-2026"
          }
       ],
@@ -770,13 +862,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 314,
+            "description": "Additional mandatory cover charge of INR 500 per individual applicable at gate.\nFully redeemable on Food and beverages",
+            "inventoryLevel": 209,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-think-floydian"
          },
          {
             "@type": "Offer",
             "availability": "SoldOut",
+            "description": "Additional mandatory cover charge of INR 500 per individual applicable at gate.\nFully redeemable on Food and beverages",
             "inventoryLevel": 0,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/the-think-floydian"
