@@ -1,6 +1,42 @@
 [
   {
     "@type": "SportsEvent",
+    "name": "New Balance Run Club- Bengaluru- June 2026",
+    "url": "https://indiarunning.com/events/newbalancerunclubbengalurujune2026-46086",
+    "startDate": "2026-06-13T05:30:00+05:30",
+    "endDate": "2026-06-13T08:30:00+05:30",
+    "description": "This June, NBRC returns to Bengaluru with a Wellness Special focused on movement, recovery, and running together.\nJoin us on Saturday at 5:30 a.m. at Kick On Sweat On, HSR Layout, for a structured 5K speed workout designed for all levels, whether you\u2019re building confidence with pace or working towards a stronger run.\nLed by certified NBRC coaches, the morning includes a guided warm-up, a 5K speed-focused session, and a cool-down to wrap up the run.\nPost-run, slow things down with a yoga session designed to help you reset, recover, and ease into the rest of your weekend.\nStay back after for refreshments and conversations with the NBRC community.\nSee you at the start line, Bengaluru.",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/06/13/new-balance-run-club--bengaluru--june-2026-2026/banner1780297628596",
+    "location": {
+      "@type": "Place",
+      "name": "HSR Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": " ITI Layout Main Road, ITI Layout, 7th Sector, HSR Layout, Bengaluru, Karnataka 560068",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560068",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9040655,
+        "longitude": 77.6413764
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "Wesness Run2zumba Bengaluru 2026",
     "url": "https://indiarunning.com/events/wesnessrun2zumbabengaluru2026-44799",
     "startDate": "2026-06-14T06:00:00+05:30",
