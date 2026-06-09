@@ -1,6 +1,114 @@
 [
   {
     "@type": "Event",
+    "name": "Nazr X Raintree",
+    "url": "https://puttingscene.com/events/4657",
+    "startDate": "2026-06-09T11:00:00+05:30",
+    "endDate": "2026-06-09T12:00:00+05:30",
+    "description": "Designer Indu Abbot's label Nazr presents a showcase of intricate textures, refined embroidery and timeless whites",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/08/1780910893259-1780910893224_er8q40vy8po.png",
+    "location": {
+      "name": "Raintree, Seshadripuram",
+      "address": "Raintree, Seshadripuram, Bangalore",
+      "url": "https://maps.app.goo.gl/i7QB44hVBjtpeJGx5"
+    },
+    "sameAs": "https://www.instagram.com/p/DZO3yL7j4mz/?img_index=1",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Seminar: Neural Circuits and Systems for Planning and Navigation",
+    "url": "https://puttingscene.com/events/4654",
+    "startDate": "2026-06-09T11:30:00+05:30",
+    "endDate": "2026-06-09T12:30:00+05:30",
+    "description": "Physicist Vijay Balasubramanian of UPenn on how the brain builds an inner map, and what a neural network reveals about it",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/08/1780910603162-1780910603079_3p60pst2ruy.png",
+    "location": {
+      "name": "ICTS-TIFR, Shivakote",
+      "address": "ICTS-TIFR, Shivakote, Bangalore",
+      "url": "https://maps.app.goo.gl/RvuevDeTxLkVja3T9"
+    },
+    "sameAs": "https://www.icts.res.in/seminar/2026-06-09/vijay-balasubramanian",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Venus Jupiter Conjunction",
+    "url": "https://puttingscene.com/events/4655",
+    "startDate": "2026-06-09T18:30:00+05:30",
+    "endDate": "2026-06-09T19:30:00+05:30",
+    "description": "Watch Venus and Jupiter pass within thumb's-width of each other after sunset, with telescope-guided viewing at the planetarium",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/08/1780910376097-1780910376025_r5x4ly4u75h.png",
+    "location": {
+      "name": "Jawaharlal Nehru Planetarium, Sankey Rd",
+      "address": "Jawaharlal Nehru Planetarium, Sankey Rd, Bangalore",
+      "url": "https://maps.app.goo.gl/FD8VEa79sfuQxMMf6"
+    },
+    "sameAs": "https://www.instagram.com/p/DZR5zf6iRp5/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Fox and His Friends: Rainer Werner Fassbinder Retrospective",
+    "url": "https://puttingscene.com/events/4656",
+    "startDate": "2026-06-09T19:45:00+05:30",
+    "endDate": "2026-06-09T20:45:00+05:30",
+    "description": "Screening of Fox and His Friends, a 1975 study in class through a circus performer who wins the lottery and falls for an industrialist",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/04/1780563546880-1780563546619_xwqzors02e.png",
+    "location": {
+      "name": "Angala, Cox Town, Bengaluru",
+      "address": "Angala, Cox Town, Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/jJDF3ZrCy5FkvkU57"
+    },
+    "sameAs": "https://urbanaut.app/spot/foxnhisfriends-fassbinder",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Murder Mystery 3.0",
+    "url": "https://puttingscene.com/events/4571",
+    "startDate": "2026-06-10T19:00:00+05:30",
+    "endDate": "2026-06-10T21:00:00+05:30",
+    "description": "A whodunnit at the table, with clues, suspects and timelines to work through, played solo or in small teams",
+    "image": "https://cdn.puttingscene.com/event_images/4571/4f90832f-bbac-4e82-a360-63b54588a103.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Solo Ticket",
+        "price": "350.00",
+        "priceCurrency": "INR"
+      },
+      {
+        "@type": "Offer",
+        "name": "Group of 2",
+        "price": "600.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1
+      },
+      {
+        "@type": "Offer",
+        "name": "Group of 3",
+        "price": "700.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 1
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Pint of View Lecture Over Drinks: Citizenship, Nationality & Assam",
     "url": "https://puttingscene.com/events/4596",
     "startDate": "2026-06-10T19:00:00+05:30",
@@ -20,6 +128,54 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 13
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sugar & Swirls: A Hands-On Churro Experience",
+    "url": "https://puttingscene.com/events/4647",
+    "startDate": "2026-06-11T16:00:00+05:30",
+    "endDate": "2026-06-11T17:30:00+05:30",
+    "description": "Pipe, fry and roll churros from scratch in a hands-on workshop, finishing with cinnamon sugar and a rich chocolate ganache",
+    "image": "https://cdn.puttingscene.com/event_images/4647/fce68aab-797d-4518-8e44-84f64fdb28df.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, Bangalore",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "852.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 4
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sugar & Swirls: A Hands-On Churro Experience",
+    "url": "https://puttingscene.com/events/4647",
+    "startDate": "2026-06-11T17:30:00+05:30",
+    "endDate": "2026-06-11T19:00:00+05:30",
+    "description": "Pipe, fry and roll churros from scratch in a hands-on workshop, finishing with cinnamon sugar and a rich chocolate ganache",
+    "image": "https://cdn.puttingscene.com/event_images/4647/fce68aab-797d-4518-8e44-84f64fdb28df.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, Bangalore",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "852.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
       }
     ]
   },
@@ -106,6 +262,30 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pint of View Lecture Over Drinks: What is Money, Really?",
+    "url": "https://puttingscene.com/events/4646",
+    "startDate": "2026-06-14T18:00:00+05:30",
+    "endDate": "2026-06-14T20:00:00+05:30",
+    "description": "Economist Arjun Jayadev of Azim Premji University on money as a political and social institution, not just an economic tool, in a lecture over drinks",
+    "image": "https://cdn.puttingscene.com/event_images/4646/25d06f32-5347-4303-baf5-71416629d623.jpg",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/TN21cCqHxUZyiAkFA"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "1099.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 24
       }
     ]
   },
