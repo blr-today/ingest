@@ -37,6 +37,83 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "As the sun sets and the city lights begin to glow, join DJ Indefatigable for an evening of deep grooves, soulful melodies, and hypnotic rhythms at Lumara Bar & Kitchen.On June 12th, from 7:30 ",
+      "endDate": "2026-06-13T00:30:00",
+      "identifier": "com.skillboxes.37186",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SUtJaldCWkRRTTAvUHI1OGh6RW1vQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781031737dHv9pVD2LlLQ4g3T.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Open Air Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "Urban Ritual",
+      "offers": [ ],
+      "startDate": "2026-06-12T19:30:00",
+      "url": "https://www.skillboxes.com/events/urban-ritual"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join us this Sunday for a special edition of Sunset Crcle at Kai Rooftop, where golden hour, music, and culture come together above the city skyline.Immerse yourself in an Arabian-inspired setting featuring themed décor, a complimentar",
+      "endDate": "2026-06-14T23:59:00",
+      "identifier": "com.skillboxes.37184",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/K0t3OHhzQnZqcXArdHVod1hTTUo5QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781019495zD5vysiRmgz9j2jF.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Party"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Du Parc Trinity 17, Mahatma Gandhi Rd, opposite Bank of Baroda, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9724625",
+            "longitude": "77.6191112"
+         },
+         "name": "Kai Bar & Kitchen"
+      },
+      "name": "Fake Tattoos x Sunset Crcle at Kai Rooftop",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This 299 is only entry, additional cover charge of 1000 INR which is fully redeemable to be paid before entering the venue.\n",
+            "inventoryLevel": 97,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is only entry and there is no additional cover charge.\n",
+            "inventoryLevel": 100,
+            "name": "Female",
+            "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This 499 is only entry, additional cover charge of 2000 INR which is fully redeemable to be paid before entering the venue.\n",
+            "inventoryLevel": 47,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
+         }
+      ],
+      "startDate": "2026-06-14T18:00:00",
+      "url": "https://www.skillboxes.com/events/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "MonkeyRock Fest 4 is a celebration of independent music and underground culture, featuring a powerful lineup spanning alt rock, punk, metal, and more. The festival brings together musicians, artists, ",
       "endDate": "2026-06-21T23:30:00",
       "identifier": "com.skillboxes.37182",
@@ -473,10 +550,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Blurring the line between raw emotion and deep electronic energy, LOS CABRA delivers immersive sets rooted in melodic techno and atmospheric house.Known for hypnotic grooves, evolving soundscapes, and ",
+      "description": "Blurring the line between raw emotion and deep electronic energy, LOS CABRA delivers immersive sets rooted in melodic techno and atmospheric house.\r\n\r\nKnown for hypnotic grooves, evolving soundscapes, and emotionally charged drops, his musi",
       "endDate": "2026-06-14T23:59:00",
       "identifier": "com.skillboxes.37120",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17809204028MrVNeYH4aCn05kf.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781006269YTxDNjnLPm9JSo5O.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -696,7 +773,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 48,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-lexic-decennial"
          }
@@ -1017,49 +1094,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "SHOWTIME TUESDAY 🔥Turn up your Tuesday night with electrifying beats and unmatched party vibes! 🎶Get ready for a night full of energy, music, and unforgettable moments.Featuring the dynamic DJ Suk",
-      "endDate": "2026-06-09T23:59:00",
-      "identifier": "com.skillboxes.37063",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UHYrTkdnUytDcUQ2VHU1SFYydDBWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17807622294Xd4LDxHO7w7AZvZ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "SHOWTIME TUESDAY FT.DJ SUKANT AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GE FREE ENTRY TO THE EVENT\n",
-            "inventoryLevel": 98,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-12"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ENTRY TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-12"
-         }
-      ],
-      "startDate": "2026-06-09T20:00:00",
-      "url": "https://www.skillboxes.com/events/showtime-tuesday-ft-dj-sukant-at-yeda-republic-koramangala-12"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "A Night Unlike Anything You've Experienced Before This 21st June, Sunday Night, something magical unfolds at FLO, Church Street.",
       "endDate": "2026-06-22T01:00:00",
       "identifier": "com.skillboxes.37061",
@@ -1198,16 +1232,7 @@
          "name": "HAVN Resto Bar"
       },
       "name": "THE LAST RIDE (SUNDOWNER 3.0) | Uday",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "COMPLIMENTARY SHOOTERS\n21 ABOVE NO OPEN PACKES ALLOWED",
-            "inventoryLevel": 199,
-            "name": "EARLY BIRD",
-            "url": "https://www.skillboxes.com/events/ticket/the-last-ride-sundowner-3-0-uday"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-06-12T17:00:00",
       "url": "https://www.skillboxes.com/events/the-last-ride-sundowner-3-0-uday"
    },
