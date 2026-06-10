@@ -37,6 +37,76 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Wild. Loud. Unapologetically You. 🌈💜\nThis Pride Month, we're turning the vibe all the way up with Wild Wild Disco at Kitty Ko, The LaLiT Ashok Bangalore. Get ready for a",
+      "endDate": "2026-06-15T01:30:00",
+      "identifier": "com.skillboxes.37208",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781095101ZVp4gXSPTVlwSc3a.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumarakrupa Rd, High Grounds, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9922264",
+            "longitude": "77.5825643"
+         },
+         "name": "The LaLiT Ashok Bengaluru"
+      },
+      "name": "Wild Wild Disco",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket grants you entry for the event mandatory cover charge applicable at gates\n",
+            "inventoryLevel": 100,
+            "name": "Entry Only",
+            "url": "https://www.skillboxes.com/events/ticket/wild-wild-disco"
+         }
+      ],
+      "startDate": "2026-06-14T20:00:00",
+      "url": "https://www.skillboxes.com/events/wild-wild-disco"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Rock Anthems & Rooftop Vibes!Rewind and rock out! This Thursday, Skydeck by Sherlock`s is serving up another epic Throwback Thursday DJ Night, exclusively for rock music fans!Our DJ will be",
+      "endDate": "2026-06-11T23:59:00",
+      "identifier": "com.skillboxes.37199",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17810902594ymcgxDLVCeWTrpA.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Tribute to Rock & Retro Music - Echoes Of Rock",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Old Bangalore vibes with nostalgic Rock & Retro hits\n",
+            "inventoryLevel": 300,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/tribute-to-rock-retro-music-echoes-of-rock-1"
+         }
+      ],
+      "startDate": "2026-06-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/tribute-to-rock-retro-music-echoes-of-rock-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "SIANGYOO | Debut India Tour | Hyderabad",
       "endDate": "2026-07-12T23:59:00",
       "identifier": "com.skillboxes.37191",
@@ -74,6 +144,47 @@
       ],
       "startDate": "2026-07-12T20:00:00",
       "url": "https://www.skillboxes.com/events/siangyoo-debut-india-tour-bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "After captivating more than 4,000 audience members across sold-out performances in Bengaluru and Mysuru, Paschimavahini Krishna returns to Bengaluru for its fourth edition in a renewed avatar, now enhanced with live vocals.&#1",
+      "endDate": "2026-07-18T23:59:00",
+      "identifier": "com.skillboxes.37188",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781091655tBf5WN32OpKlNHKn.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0065834",
+            "longitude": "77.5755092"
+         },
+         "name": "Chowdiah Memorial Hall"
+      },
+      "name": "Paschimavahini Krishna - A Musical",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Silver Pass (6:30 pm to 8:00 pm)",
+            "url": "https://www.skillboxes.com/events/ticket/paschimavahini-krishna-a-musical-6-30pm-8-00-pm"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Gold Pass (6:30 pm to 8:00 pm)",
+            "url": "https://www.skillboxes.com/events/ticket/paschimavahini-krishna-a-musical-6-30pm-8-00-pm"
+         }
+      ],
+      "startDate": "2026-07-18T18:30:00",
+      "url": "https://www.skillboxes.com/events/paschimavahini-krishna-a-musical-6-30pm-8-00-pm"
    },
    {
       "@context": "https://schema.org",
@@ -155,7 +266,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "MonkeyRock Fest 4 is a celebration of independent music and underground culture, featuring a powerful lineup spanning alt rock, punk, metal, and more. The festival brings together musicians, artists, ",
+      "description": " \r\n\r\n \r\n\r\n \r\n\r\nMonkeyRock Fest 4 is a celebration of independent music and underground culture, featuring a powerful lineup spanning alt rock, punk, metal, and more. The festival brings together musicians, artis",
       "endDate": "2026-06-21T23:30:00",
       "identifier": "com.skillboxes.37182",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/T083MFVUUkt0U3NrMDE5YkNsdE5JZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781017032A4cBhNy6QNVMwJbs.jpg.webp",
@@ -174,13 +285,54 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Single-entry pass. Valid government-issued photo ID required. Tickets are non-refundable. Please arrive early to avoid queues.\n",
-            "inventoryLevel": 400,
+            "inventoryLevel": 397,
             "name": "MonkeyRock Fest 4 | World Music Day Celebration of Rock, Metal, Punk & Alternative Music",
             "url": "https://www.skillboxes.com/events/ticket/monkeyrock-fest-4-world-music-day-underground-uprising"
          }
       ],
       "startDate": "2026-06-21T17:00:00",
       "url": "https://www.skillboxes.com/events/monkeyrock-fest-4-world-music-day-underground-uprising"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "After captivating more than 4,000 audience members across sold-out performances in Bengaluru and Mysuru, Paschimavahini Krishna returns to Bengaluru for its fourth edition in a renewed avatar, now enhanced with live vocals.&#1",
+      "endDate": "2026-07-18T23:59:00",
+      "identifier": "com.skillboxes.37169",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781091619Yiikg63lj3A0D3b5.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0065834",
+            "longitude": "77.5755092"
+         },
+         "name": "Chowdiah Memorial Hall"
+      },
+      "name": "Paschimavahini Krishna - A Musical",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Silver Pass (3:30 pm to 5:00 pm)",
+            "url": "https://www.skillboxes.com/events/ticket/paschimavahin-krishna-a-musical-3-30-pm-5-00-pm"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Gold Pass (3:30 pm to 5:00 pm)",
+            "url": "https://www.skillboxes.com/events/ticket/paschimavahin-krishna-a-musical-3-30-pm-5-00-pm"
+         }
+      ],
+      "startDate": "2026-07-18T15:30:00",
+      "url": "https://www.skillboxes.com/events/paschimavahin-krishna-a-musical-3-30-pm-5-00-pm"
    },
    {
       "@context": "https://schema.org",
@@ -267,7 +419,7 @@
          },
          "name": "The Humming Tree"
       },
-      "name": "Pitch Please - Karaoke with Aashish Paul at THT Ground Floor Bar",
+      "name": "Pitch Please - Karaoke with Aashish Paul at THT Ground Floor Bar 25",
       "offers": [
          {
             "@type": "Offer",
@@ -301,7 +453,7 @@
          },
          "name": "The Humming Tree"
       },
-      "name": "Pitch Please - Karaoke with Aashish Paul at THT Ground Floor Bar",
+      "name": "Pitch Please - Karaoke with Aashish Paul at THT Ground Floor Bar 18",
       "offers": [
          {
             "@type": "Offer",
@@ -370,7 +522,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "* Entry for 1 Person in the GA Area. * Entry to Treasure Hunt * ⁠Be part of “Those Who Know (Privileged event information)\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 198,
             "name": "EB GA",
             "url": "https://www.skillboxes.com/events/ticket/those-who-know-they-know-banglore-halloween-edition-2026"
          },
@@ -721,16 +873,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 965,
+            "inventoryLevel": 938,
             "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sweet-16"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Couple entry free until 9pm . Cover charges applicable after 9pm\nFree until 9 pm cover charges. Cover charges after",
-            "inventoryLevel": 985,
-            "name": "Couple entry",
             "url": "https://www.skillboxes.com/events/ticket/sweet-16"
          },
          {
@@ -780,7 +924,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admits entry to one person per ticket. No cover charges required!\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 31,
             "name": "General Access",
             "url": "https://www.skillboxes.com/events/ticket/backrooms-farewell-party"
          }
@@ -1434,7 +1578,7 @@
       "description": "India’s most authentic, comprehensive and biggest tribute to Pink Floyd is here to pay a musical homage to one of the greatest bands ever. ",
       "endDate": "2026-07-04T23:59:00",
       "identifier": "com.skillboxes.36955",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1780502294kr7VSqLlJC2YN1Ue.png.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781023253Sj0zyFQ9pgnZiS36.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -1455,7 +1599,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge of INR 500 per individual applicable at gate.\nFully redeemable on Food and beverages",
-            "inventoryLevel": 152,
+            "inventoryLevel": 123,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-think-floydian"
          },
