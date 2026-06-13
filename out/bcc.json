@@ -12,48 +12,6 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess Connect : Showdown - Bangalore Chess Club",
-  "startDate": "2026-06-13T10:00:00+05:30",
-  "endDate": "2026-06-13T12:30:00+05:30",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-
-  "location": {
-    
-    "@type": "Place",
-    "name": "Starbucks",
-    "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India"
-    
-  },
-  "isAccessibleForFree": false,
-  
-  "offers": [{
-    "@type": "Offer",
-    "price": "350",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_SvUvEY708RIe70/view/"
-  }],
-  
-  "organizer": {
-    "@type": "Organization",
-    "name": "Bangalore Chess Club",
-    "url": "https://bangalorechessclub.in"
-  },
-  "keywords": ["bangalore chess club", "chess"],
-  
-  "image": "https://bangalorechessclub.in/images/chessconnect_20260613.jpg",
-  
-  "url": "https://bangalorechessclub.in/chess-connect/2026-06-13/"
-}
-      
-    ,
-  
-    
-    
-    
-        {
-  "@context": "https://schema.org",
-  "@type": "SocialEvent",
   "name": "Chess Connect - Blitz - Bangalore Chess Club",
   "startDate": "2026-06-14T10:00:00+05:30",
   "endDate": "2026-06-14T13:00:00+05:30",
@@ -209,7 +167,7 @@
   },
   "keywords": ["bangalore chess club", "chess"],
   
-  "image": "https://bangalorechessclub.in/images/chessconnect_20260627.jpg",
+  "image": "https://bangalorechessclub.in/images/chessconnect_20260627.jpeg",
   
   "url": "https://bangalorechessclub.in/chess-connect/2026-06-27/"
 }
@@ -241,7 +199,7 @@
     "price": "300",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_SvUw9F5gaMQzUe/view/"
+    "url": "https://razorpay.com/payment-button/pl_SvUvEY708RIe70/view/"
   }],
   
   "organizer": {
