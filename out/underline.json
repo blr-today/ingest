@@ -490,41 +490,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-06-14T13:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Unplug: Brick Your Phone with Analog Studio",
-      "sameAs": "https://underline.center/t/957",
-      "startDate": "2026-06-14T11:00:00.000+05:30",
-      "url": "https://www.district.in/unplug-brick-your-phone-jun14-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "endDate": "2026-06-13T23:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -6977,5 +6942,40 @@
       "sameAs": "https://underline.center/t/673",
       "startDate": "2025-10-07T19:45:00.000+05:30",
       "url": "https://www.district.in/screening-of-the-river-1951-with-tpcc-oct7-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "ScreeningEvent",
+      "endDate": "2025-10-04T23:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "La Dolce Vita (1960) with The Parallel Cinema Club",
+      "sameAs": "https://underline.center/t/672",
+      "startDate": "2025-10-04T20:00:00.000+05:30",
+      "url": "https://district.in/screening-of-la-dolce-vita-1960-with-tpcc-oct4-2025/event"
    }
 ]
