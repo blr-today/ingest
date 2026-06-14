@@ -231,6 +231,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "About the Event:Yellow lights, golden hour, and a setlist that's basically the soundtrack to every road trip, breakup, and 3am conversation you've ever had. As the Humming Tree's Sunday brun",
+      "endDate": "2026-07-05T23:59:00",
+      "identifier": "com.skillboxes.37256",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781344064iArJbWoa57SpzvqR.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "The Humming Tree"
+      },
+      "name": "THT presents KishanBaalaji Collective's Tribute to Coldplay",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "A cover charge of 1000 applicable at the doors.\n",
+            "inventoryLevel": 500,
+            "name": "THT presents KishanBaalaji Collective's Tribute to Coldplay",
+            "url": "https://www.skillboxes.com/events/ticket/tht-presents-kishanbaalaji-collective-s-tribute-to-coldplay"
+         }
+      ],
+      "startDate": "2026-07-05T17:00:00",
+      "url": "https://www.skillboxes.com/events/tht-presents-kishanbaalaji-collective-s-tribute-to-coldplay"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "technoaffairs #bengaluru get ready for the ultimate hardcore takeover!The legend @djmaddog is making his debut in namma city, joined by @baki.music and more!Be there and witness pure hardcore energy like ",
       "endDate": "2026-06-21T01:00:00",
       "identifier": "com.skillboxes.37255",
@@ -672,32 +707,7 @@
          "name": "Kai Bar & Kitchen"
       },
       "name": "Fake Tattoos x Sunset Crcle at Kai Rooftop",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This 299 is only entry, additional cover charge of 1000 INR which is fully redeemable to be paid before entering the venue.\n",
-            "inventoryLevel": 97,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket is only entry and there is no additional cover charge.\n",
-            "inventoryLevel": 100,
-            "name": "Female",
-            "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This 499 is only entry, additional cover charge of 2000 INR which is fully redeemable to be paid before entering the venue.\n",
-            "inventoryLevel": 47,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-06-14T18:00:00",
       "url": "https://www.skillboxes.com/events/fake-tattoos-x-sunset-crcle-at-kai-rooftop"
    },
@@ -1002,7 +1012,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 997,
+            "inventoryLevel": 988,
             "name": "Live Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/f1-barcelona-grand-prix-2026-watson-s-indiranagar-bangalore"
          }
@@ -1477,7 +1487,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 258,
+            "inventoryLevel": 256,
             "name": "Raga Roads Live In Concert",
             "url": "https://www.skillboxes.com/events/ticket/the-unspoken-notes-raga-roads-live-in-concert"
          }
