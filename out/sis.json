@@ -1,5 +1,37 @@
 [
   {
+    "name": "Women's Beginner Basketball Coaching- Bellandur",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-bellandur-fri12",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-bellandur-fri12",
+    "image": "https://sistersinsweat.com/images/event/20260615161055934.jpeg",
+    "location": {
+      "name": "Play Mania Sports Lounge",
+      "address": "No.102/1, Behind New Venugopala Swamy Temple, opposite Sonesta I Woods, Bellandur",
+      "type": "Place"
+    },
+    "startDate": "2026-06-16T19:30:00+05:30",
+    "endDate": "2026-06-16T21:00:00+05:30"
+  },
+  {
     "name": "Sisters & Misters Football Game Night - Bangalore",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Night-Tue2209",
@@ -96,38 +128,6 @@
     "endDate": "2026-06-17T21:30:00+05:30"
   },
   {
-    "name": "Women's Beginner Basketball Coaching",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wed3209",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Basketball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wed3209",
-    "image": "https://sistersinsweat.com/images/event/20260514160520148.jpeg",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
-      "type": "Place"
-    },
-    "startDate": "2026-06-17T20:00:00+05:30",
-    "endDate": "2026-06-17T21:30:00+05:30"
-  },
-  {
     "name": "Women's Beginner Basketball Coaching - Horamavu",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Leos-Horamavu-2",
@@ -216,8 +216,8 @@
     "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Fri-53018",
     "image": "https://www.sistersinsweat.com/images/event/20260422152901079.jpeg",
     "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
+      "name": "Push Sports, Palace Road",
+      "address": "University campus, Palace Rd, Gandhi Nagar",
       "type": "Place"
     },
     "startDate": "2026-06-19T07:00:00+05:30",
@@ -381,37 +381,6 @@
     },
     "startDate": "2026-06-21T07:30:00+05:30",
     "endDate": "2026-06-21T09:00:00+05:30"
-  },
-  {
-    "name": "Sisters and Misters Yoga Mornings",
-    "@type": "SocialEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun88",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun88",
-    "image": "https://sistersinsweat.com/images/event/20260416133831990.jpeg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2026-06-21T08:30:00+05:30",
-    "endDate": "2026-06-21T09:45:00+05:30"
   },
   {
     "name": "World Yoga Day: Yoga & Sound Healing Slot 2",
