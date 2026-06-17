@@ -257,40 +257,7 @@
          "name": "The Fresh Factory"
       },
       "name": "The Wild Ones - A Sundowner Block Party",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Worth Rs 1000)\nYour ticket value is fully redeemable against food at the event.",
-            "inventoryLevel": 99,
-            "name": "Early Bird - 26TH JUNE 2026",
-            "url": "https://www.skillboxes.com/events/ticket/the-wild-ones-a-sundowner-block-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(worth Rs 1000)\nYour Ticket Value is fully redeemable against food at the event.",
-            "inventoryLevel": 99,
-            "name": "Early Bird - 27TH JUNE 2026",
-            "url": "https://www.skillboxes.com/events/ticket/the-wild-ones-a-sundowner-block-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(worth RS 4000)\nYour ticket value is fully redeemable against food at the event.",
-            "inventoryLevel": 50,
-            "name": "Early Bird Group of 4 - 26TH JUNE 2026",
-            "url": "https://www.skillboxes.com/events/ticket/the-wild-ones-a-sundowner-block-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Worth Rs 4000)\nYour ticket value is redeemable against food at the event.",
-            "inventoryLevel": 49,
-            "name": "Early bird Group of 4 - 27th June 2026",
-            "url": "https://www.skillboxes.com/events/ticket/the-wild-ones-a-sundowner-block-party"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-06-26T18:00:00",
       "url": "https://www.skillboxes.com/events/the-wild-ones-a-sundowner-block-party"
    },
@@ -561,6 +528,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Saturday Night Live ft. FISHHHITA (The Fish Project) | 20th June, Saturday | 8 PM OnwardsAn evening of live music, timeless melodies, and great food at The Fat Chef.",
+      "endDate": "2026-06-20T22:30:00",
+      "identifier": "com.skillboxes.37328",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/L2sySnRhTFpvQ3BCbDEwaGplWklPdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781521193qq3jBnFHRjgRNcrE.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.19, Bright Farm,Thubarahalli Old Airport, Varthur Main Rd, Kumarapalli, Thubarahalli, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9547613",
+            "longitude": "77.7233341"
+         },
+         "name": "The Fat Chef"
+      },
+      "name": "Saturday Night Live w/Fishhhita @ TheFatChef",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Only Reserves a table for 2\n",
+            "inventoryLevel": 10,
+            "name": "Table for 2",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-night-live-w-fishhhita-thefatchef"
+         }
+      ],
+      "startDate": "2026-06-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/saturday-night-live-w-fishhhita-thefatchef"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Bhajan Jamming with Sri Krishna Chaitanya SwamiRecipient of the Peace Award 2026 | ISKCON Global Kirtan MinisterWe are thrilled to invite you to a very special eve",
       "endDate": "2026-06-20T23:59:00",
       "identifier": "com.skillboxes.37327",
@@ -762,49 +764,6 @@
       ],
       "startDate": "2026-06-18T20:00:00",
       "url": "https://www.skillboxes.com/events/bollyafro-ft-sukant-x-ayush-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Break the routine and dive into the ultimate midweek party experience at Yeda Republic Bengaluru! 🎶✨Get ready for an electrifying night filled with high-energy beats, amazing vibes, and unforgettable moments.",
-      "endDate": "2026-06-17T23:59:00",
-      "identifier": "com.skillboxes.37299",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UHYrTkdnUytDcUQ2VHU1SFYydDBWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1781442535iqYDl2ZsaXHIrOy9.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MIDWEEK WEDNESDAY FT. DJ SENLEO X SULECTRO AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 99,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-wednesday-ft-dj-senleo-x-sulectro-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 99,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/midweek-wednesday-ft-dj-senleo-x-sulectro-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-06-17T20:00:00",
-      "url": "https://www.skillboxes.com/events/midweek-wednesday-ft-dj-senleo-x-sulectro-at-yeda-republic-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -1824,7 +1783,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges apply after 9:30 PM.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 97,
             "name": "EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/screech-rasa-hellitty-hunnit-d-hedz-absynth-double-s"
          }
@@ -2088,7 +2047,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 247,
+            "inventoryLevel": 245,
             "name": "Raga Roads Live In Concert",
             "url": "https://www.skillboxes.com/events/ticket/the-unspoken-notes-raga-roads-live-in-concert"
          }
