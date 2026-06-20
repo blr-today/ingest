@@ -2,52 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Lake Hoppin'",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "sumeru digital solutions (near art of living ashram)"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l2 - moderate - 40 km (with b'fast)",
-        "price": "3420"
-      },
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l3 - challenging - 100 km (with b'fast)",
-        "price": "3870"
-      },
-      [
-        {
-          "@type": "offer",
-          "name": "rental bike (with transport)",
-          "price": "800",
-          "priceCurrency": "INR"
-        },
-        {
-          "@type": "offer",
-          "name": "transport my bicycle",
-          "price": "400",
-          "priceCurrency": "INR"
-        }
-      ]
-    ],
-    "startDate": "2026-06-07T12:21:57.276562+05:30",
-    "endDate": "2026-06-07T17:21:57.276562+05:30",
-    "description": "Enjoy a scenic bicycle ride on country roads, either side of Kanakapura Road, on the outskirts of Bangalore. You will hop across a dozen lakes and reservoirs that are set against a backdrop of rolling hills, on the fringes of the Bannerghatta National Park and the Ragihalli State Forest. In addition to stopping at and taking in views of these scenic water bodies, get a glimpse of the rural and semi-rural life as you pass through these villages. While cattle and their herders shuttle on dirt roads flanked by fields, orchards, and plantations, flocks of birds hang out on grasslands and backwaters. Given the undulating terrain in the region, you can expect challenges in the means of short and sweet ascents, and exhilarating descents.\n\n{'DISTANCE': '40 | 100KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '250 | 1000M', '% UNPAVED': '5 | 10%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/lake-hoppin",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "Hennur Countryside",
     "sports": "Cycling",
     "location": {
@@ -59,13 +13,13 @@
         "priceCurrency": "INR",
         "@type": "offer",
         "name": "l1 - beginner - 25 km",
-        "price": "2430"
+        "price": "2700"
       },
       {
         "priceCurrency": "INR",
         "@type": "offer",
         "name": "l2 - moderate - 40 km",
-        "price": "2790"
+        "price": "3100"
       },
       [
         {
@@ -82,12 +36,39 @@
         }
       ]
     ],
-    "startDate": "2026-06-21T11:45:57.292106+05:30",
-    "endDate": "2026-06-21T15:45:57.292106+05:30",
+    "startDate": "2026-06-21T11:45:54.436076+05:30",
+    "endDate": "2026-06-21T15:45:54.436076+05:30",
     "description": "Join us on this ride to explore the pretty countryside in Hennur. Our route will take you through some of the most scenic parts of the region. From the meeting point, we'll head straight into a charming and rustic country road that'll give you a glimpse of local life as you cycle past small villages, farms, and fields. The route then goes beside the Hennur Bamboo forest, which is a beautiful stretch that offers a refreshing view of bamboo groves all around. \n\n\n{'DISTANCE': '25-40KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '200 - 350M', '% UNPAVED': '10%'}",
     "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/hennur-countryside",
     "keywords": [
       "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Workshop - Roadside fixes & Home maintenance",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka",
+      "name": "Pedal in Tandem"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "workshop",
+        "price": "500"
+      }
+    ],
+    "startDate": "2026-06-27T17:17:54.453908+05:30",
+    "endDate": "2026-06-27T19:17:54.453908+05:30",
+    "description": "If you've ever been stranded on the road with a breakdown, you'll know the importance of bike maintenance. Even if you're new to cycling, this is essential know-how that will only make your journey into the world of bicycles even more fascinating. So come on over to our workshop and leave with some essential skills. You bring your own bike and we'll provide the tools. If you don't have a bike, just show up and we'll get you some hands-on on one of our bikes.\n\n\n{}",
+    "url": "https://www.pedalintandem.com/experiences/workshops/bicycle-maintenance-l1",
+    "keywords": [
+      "workshops",
       "PEDALINTANDEM"
     ]
   },
@@ -128,10 +109,44 @@
         }
       ]
     ],
-    "startDate": "2026-06-28T11:15:57.311275+05:30",
-    "endDate": "2026-06-28T16:15:57.311275+05:30",
+    "startDate": "2026-06-28T11:15:54.468431+05:30",
+    "endDate": "2026-06-28T16:15:54.468431+05:30",
     "description": "Our route for this half-day tour weaves through the hills and lush forests around Nandi. We have curated rides of difficulty different levels in the region. The level-1 ride charts out a fairly easy route through some flat terrain while still touching upon several scenic spots. The climbs in the level-2 and level-3 route variations in this region are challenging, with some exhilarating descents. You will experience riding on quiet traffic-free forest and village roads, that run beside a couple of pristine lakes and dams. All the joys of bicycle touring wrapped into a few hours of riding.\n \n\n\n{'DISTANCE': '30-65KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '200-700M', '% UNPAVED': '10%'}",
     "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/nandi-countryside",
+    "keywords": [
+      "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Devanahalli Heritage Ride",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "in association with bangalore local walks"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "devanahalli heritage ride",
+        "price": "3150"
+      },
+      [
+        {
+          "@type": "offer",
+          "name": "devanahalli heritage ride + bicycle rental ",
+          "price": "4050",
+          "priceCurrency": "INR"
+        }
+      ]
+    ],
+    "startDate": "2026-07-12T12:00:54.485401+05:30",
+    "endDate": "2026-07-12T17:00:54.485401+05:30",
+    "description": "\nExplore the beautiful environs of Devanahalli Fort and Avathi village on a breezy bicycle ride through lakes, fields, heritage monuments and secret pathways. You'll hear tales of mystery, romance, palace intrigue and conquest. You'll stop by some beautifully restored railway stations from the colonial era. You'll bike through fields of roses, chrysanthemum and jasmine, and enjoy a delicious picnic breakfast at one of the most scenic spots in the area.\n{'DISTANCE': '20KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '120M', '% UNPAVED': '45%'}",
+    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/devanahalli-heritage-ride",
     "keywords": [
       "cycle-rides-blr",
       "PEDALINTANDEM"
