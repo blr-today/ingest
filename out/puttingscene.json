@@ -1,6 +1,114 @@
 [
   {
     "@type": "Event",
+    "name": "Exhibition: Hastkaar & De'Wardrobe",
+    "url": "https://puttingscene.com/events/4851",
+    "startDate": "2026-06-23T10:00:00+05:30",
+    "endDate": "2026-06-23T11:00:00+05:30",
+    "description": "A slow-fashion exhibition of handcrafted, sustainable pieces from homegrown labels Hastkaar and De'Wardrobe, rooted in India's artisan heritage",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/22/1782133914772-1782133914526_z26ong7pkkq.png",
+    "location": {
+      "name": "Raintree, Seshadripuram",
+      "address": "Raintree, Seshadripuram, Bangalore",
+      "url": "https://maps.app.goo.gl/i7QB44hVBjtpeJGx5"
+    },
+    "sameAs": "https://www.instagram.com/p/DZy9fetPSdi/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "The Lexic Decennial",
+    "url": "https://puttingscene.com/events/4852",
+    "startDate": "2026-06-23T15:00:00+05:30",
+    "endDate": "2026-06-23T16:00:00+05:30",
+    "description": "A practical primer on music rights and royalties with entertainment lawyer Shriya Gopalakrishnan, plus a Q&A with Lexic's Sandhya Surendran",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/22/1782133874160-1782133873871_kbqcj5ocqs.png",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/TN21cCqHxUZyiAkFA"
+    },
+    "sameAs": "https://www.skillboxes.com/events/the-lexic-decennial",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "250.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Merchant of Four Seasons: Rainer Werner Fassbinder Retrospective",
+    "url": "https://puttingscene.com/events/4853",
+    "startDate": "2026-06-23T19:45:00+05:30",
+    "endDate": "2026-06-23T20:45:00+05:30",
+    "description": "Screening and discussion of Rainer Werner Fassbinder's The Merchant of Four Seasons (1972), following a fruit peddler at odds with his bourgeois family",
+    "image": "https://cdn.puttingscene.com/generated-images/2026/06/22/1782133828450-1782133828343_1u60tdtwii5h.png",
+    "location": {
+      "name": "Angala, Cox Town, Bengaluru",
+      "address": "Angala, Cox Town, Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/jJDF3ZrCy5FkvkU57"
+    },
+    "sameAs": "https://urbanaut.app/spot/merchantof4seasons-fassbinder?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnPGMb0br38WGYkTkK5FXXl0uVJL8vRafHMZJof8Hk1mFTUxqLm2ck-Z3t-kU_aem_YWdncwA5op6JiFeRrqUaUkp5AK2Q&brid=YWdncwFMu2DQGn6ZBcxOZvt1IT9g",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Generative Art with Code!",
+    "url": "https://puttingscene.com/events/4705",
+    "startDate": "2026-06-24T19:00:00+05:30",
+    "endDate": "2026-06-24T21:00:00+05:30",
+    "description": "A hands-on session that turns code into art, using p5.js to transform a simple photo into colourful, generative visuals",
+    "image": "https://cdn.puttingscene.com/event_images/4705/53c7455b-afd5-41a2-b41c-286d5541b24f.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "400.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pint of View Lecture Over Drinks: A Field Guide to Institutional Dysfunction",
+    "url": "https://puttingscene.com/events/4841",
+    "startDate": "2026-06-24T19:00:00+05:30",
+    "endDate": "2026-06-24T21:00:00+05:30",
+    "description": "Woxsen University VP Dr. Raul V. Rodriguez on why universities and corporations keep failing quietly, undone by metrics that reward activity over value in a lecture over drinks",
+    "image": "https://cdn.puttingscene.com/event_images/4841/a7aab6db-e4db-4d7a-9244-b127055ae775.jpg",
+    "location": {
+      "name": "Fandom at Gilly's Redefined",
+      "address": "Fandom at Gilly's Redefined, ",
+      "url": "https://maps.google.com/?cid=9411834449737765976"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular",
+        "price": "999.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "The Wild Ones : A Sundowner Block Party",
     "url": "https://puttingscene.com/events/4784",
     "startDate": "2026-06-26T18:00:00+05:30",
@@ -38,6 +146,21 @@
         "remainingAttendeeCapacity": 398
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Dire Straits Tribute: Live at BLR Airport!\ud83c\udfb8",
+    "url": "https://puttingscene.com/events/4850",
+    "startDate": "2026-06-26T19:00:00+05:30",
+    "endDate": "2026-06-26T22:00:00+05:30",
+    "description": "Heavy Fuel Straits brings the iconic sound of Dire Straits to life, from Sultans of Swing to Money for Nothing and Brothers in Arms",
+    "image": "https://cdn.puttingscene.com/event_images/4850/549f1bb4-4353-4b3c-8fde-44cb7274dc35.jpg",
+    "location": {
+      "name": "The Quad by BLR",
+      "address": "The Quad by BLR, ",
+      "url": "https://maps.google.com/?cid=7497485538551972868"
+    },
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -84,6 +207,30 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 18
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Nature Journaling Workshop: WILD IN THE CAPITAL \u2013 Finding Nature in the Heart of the City",
+    "url": "https://puttingscene.com/events/4845",
+    "startDate": "2026-06-27T11:00:00+05:30",
+    "endDate": "2026-06-27T12:00:00+05:30",
+    "description": "A guided journalling session that prompts you to notice, write and sketch the hidden nature woven through urban life",
+    "image": "https://cdn.puttingscene.com/event_images/4845/99fd40cf-47e3-4fb8-810d-7bd686e58a0d.jpg",
+    "location": {
+      "name": "Champaca Bookstore",
+      "address": "Champaca Bookstore, ",
+      "url": "https://maps.google.com/?cid=18055943638310716614"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "799.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
