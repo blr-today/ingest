@@ -37,6 +37,83 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "One Night in Bangalore X Blah Bla",
+      "endDate": "2026-06-27T23:59:00",
+      "identifier": "com.skillboxes.37638",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17822884133mqHf4qeIflmcG1E.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "71-72, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9328691",
+            "longitude": "77.6139355"
+         },
+         "name": "Blah Bla"
+      },
+      "name": "One Night in Bangalore X Blah Bla",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Free Pass",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-bangalore-x-blah-bla-sbvvlhvm"
+         }
+      ],
+      "startDate": "2026-06-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/one-night-in-bangalore-x-blah-bla-sbvvlhvm"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents Spanish duo ANIMAL PICNIC live at Pangeo Bengaluru this July.Get ready to dance the night away to cutting-edge tunes and unforgett",
+      "endDate": "2026-07-12T01:00:00",
+      "identifier": "com.skillboxes.37627",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1782275823AiqdPNurNSoWK3tE.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "CentiGrade Club Nights ft. Animal Picnic /  11th July / Pangeo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-animal-picnic-11th-july-pangeo-sbuxjlph"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 98,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-animal-picnic-11th-july-pangeo-sbuxjlph"
+         }
+      ],
+      "startDate": "2026-07-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-animal-picnic-11th-july-pangeo-sbuxjlph"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The Red Bull Ring doesn't do boring races. And SkyDeck by Sherlocks doesn't do boring watch parties.This Sunday, Bengaluru's most iconic rooftop pub becomes the best seat in the city for Formula 1's most fan-favorite Grand Prix, ",
       "endDate": "2026-06-28T21:00:00",
       "identifier": "com.skillboxes.37623",
@@ -253,6 +330,68 @@
       ],
       "startDate": "2026-07-03T20:30:00",
       "url": "https://www.skillboxes.com/events/back-home-with-aasmi-friends-sbtfpnsf"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Shree Rama Prateeksha is an acclaimed dance ballet based on Maharishi Valmiki’s Ramayana, portraying not only the life of Lord Rama but also the unwavering devotion of those who surrendered themselves to him. Th",
+      "endDate": "2026-07-18T21:00:00",
+      "identifier": "com.skillboxes.37605",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1782213183pN8okina853pO172.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0065834",
+            "longitude": "77.5755092"
+         },
+         "name": "Chowdiah Memorial Hall"
+      },
+      "name": "Shree Rama Prateeksha - A Musical Dance Theatrical",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Bronze Pass",
+            "url": "https://www.skillboxes.com/events/ticket/shree-rama-prateeksha-a-musical-dance-theatrical-sbtbftcx"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Silver Pass",
+            "url": "https://www.skillboxes.com/events/ticket/shree-rama-prateeksha-a-musical-dance-theatrical-sbtbftcx"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Gold Pass",
+            "url": "https://www.skillboxes.com/events/ticket/shree-rama-prateeksha-a-musical-dance-theatrical-sbtbftcx"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Platinum Econ Pass",
+            "url": "https://www.skillboxes.com/events/ticket/shree-rama-prateeksha-a-musical-dance-theatrical-sbtbftcx"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Platinum Pass",
+            "url": "https://www.skillboxes.com/events/ticket/shree-rama-prateeksha-a-musical-dance-theatrical-sbtbftcx"
+         }
+      ],
+      "startDate": "2026-07-18T19:00:00",
+      "url": "https://www.skillboxes.com/events/shree-rama-prateeksha-a-musical-dance-theatrical-sbtbftcx"
    },
    {
       "@context": "https://schema.org",
