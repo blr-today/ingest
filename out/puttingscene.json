@@ -419,7 +419,7 @@
         "price": "2542.37",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 11
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -571,16 +571,7 @@
       "address": "Serious Slice (Cunningham Road), ",
       "url": "https://maps.google.com/?cid=10799644365386180177"
     },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Cover Charge",
-        "price": "423.73",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 998
-      }
-    ]
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
