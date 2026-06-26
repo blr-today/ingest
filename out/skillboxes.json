@@ -158,6 +158,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Whaaadup Bangalore! 🪩🌀..The @jackfruitdanceparty caravan is pulling back into IndiranagarSocial on Saturday, July 4th—and we’re double-room",
+      "endDate": "2026-07-04T23:59:00",
+      "identifier": "com.skillboxes.37695",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1782449014SDEZtixlKvLhRFM7.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Indiranagar Social",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "Jackfruit Dance Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-sbaqejpt"
+         }
+      ],
+      "startDate": "2026-07-04T20:00:00",
+      "url": "https://www.skillboxes.com/events/jackfruit-dance-party-sbaqejpt"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "COHOP Live Jams is where live music gets the attention it deserves. Set at Sarjapur Social, this one brings together 2O+ artists, an open mic, and a flea market, creating an experience that goes beyond a typical jam session. It&#82",
       "endDate": "2026-07-04T21:00:00",
       "identifier": "com.skillboxes.37691",
@@ -889,7 +923,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 93,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-dobe-27th-june-pangeo-sbrasgbf"
          },
@@ -897,7 +931,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 95,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-dobe-27th-june-pangeo-sbrasgbf"
          }
@@ -1110,7 +1144,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional redeemable cover charge INR 500/- per individual applicable at gate.\n",
-            "inventoryLevel": 63,
+            "inventoryLevel": 61,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/og-lucifer-poore-dil-se-india-tour-bangalore-sblsvuna"
          },
@@ -1118,7 +1152,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional redeemable cover charge INR 500/- per individual applicable at gate.\n",
-            "inventoryLevel": 29,
+            "inventoryLevel": 28,
             "name": "Meet & Greet Pass",
             "url": "https://www.skillboxes.com/events/ticket/og-lucifer-poore-dil-se-india-tour-bangalore-sblsvuna"
          },
@@ -1211,7 +1245,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 98,
+            "inventoryLevel": 97,
             "name": "Live Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/formula-1-austria-grand-prix-26-live-screening-watson-s-indiranagar-bangalore-sbkutygv"
          }
@@ -1415,7 +1449,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 47,
+            "inventoryLevel": 46,
             "name": "SINGLE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/jazz-and-blues-sbieyedo"
          },
