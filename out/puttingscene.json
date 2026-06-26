@@ -129,7 +129,7 @@
         "price": "952.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 397
+        "remainingAttendeeCapacity": 396
       },
       {
         "@type": "Offer",
@@ -137,7 +137,7 @@
         "price": "3333.33",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 395
+        "remainingAttendeeCapacity": 394
       }
     ]
   },
@@ -180,6 +180,46 @@
     },
     "sameAs": "https://cityscripts.iihs.co.in/?utm_source=ig&utm_medium=socialmedia%20&utm_campaign=cityscripts",
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-26T19:00:00+05:30",
+    "endDate": "2026-06-26T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      }
+    ]
   },
   {
     "@type": "Event",
@@ -252,6 +292,46 @@
   },
   {
     "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-26T20:00:00+05:30",
+    "endDate": "2026-06-26T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Woman In The Dunes",
     "url": "https://puttingscene.com/events/4904",
     "startDate": "2026-06-26T20:00:00+05:30",
@@ -269,6 +349,46 @@
         "@type": "Offer",
         "price": "315.00",
         "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-26T21:00:00+05:30",
+    "endDate": "2026-06-26T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
       }
     ]
   },
@@ -315,6 +435,46 @@
         "@type": "Offer",
         "price": "1805.00",
         "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-26T22:00:00+05:30",
+    "endDate": "2026-06-26T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
       }
     ]
   },
@@ -733,7 +893,7 @@
         "price": "952.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 41
+        "remainingAttendeeCapacity": 40
       },
       {
         "@type": "Offer",
@@ -741,7 +901,7 @@
         "price": "952.38",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 396
+        "remainingAttendeeCapacity": 392
       },
       {
         "@type": "Offer",
@@ -749,7 +909,7 @@
         "price": "3333.33",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 400
+        "remainingAttendeeCapacity": 399
       }
     ]
   },
@@ -827,6 +987,166 @@
   },
   {
     "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-27T19:00:00+05:30",
+    "endDate": "2026-06-27T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-27T20:00:00+05:30",
+    "endDate": "2026-06-27T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-27T21:00:00+05:30",
+    "endDate": "2026-06-27T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Wild Ones : A Sundowner Block Party",
+    "url": "https://puttingscene.com/events/4784",
+    "startDate": "2026-06-27T22:00:00+05:30",
+    "endDate": "2026-06-27T23:00:00+05:30",
+    "description": "sundowner block party of fire and fermentation: smoked meats, heirloom grain breads, a kombucha-and-kvass bar, a museum you can eat in and music from sundown",
+    "image": "https://cdn.puttingscene.com/event_images/4784/643cb515-08a0-43c0-82bd-5cdafad72ab6.jpg",
+    "location": {
+      "name": "The Fresh Factory",
+      "address": "The Fresh Factory, ",
+      "url": "https://maps.google.com/?cid=7382775248497019987"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 45
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Single Pass",
+        "price": "952.38",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      },
+      {
+        "@type": "Offer",
+        "name": "The Wild Ones Group Pass (admits 4)",
+        "price": "3333.33",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 400
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Sholay (1975) : Trek & Shooting Spots Exploration",
     "url": "https://puttingscene.com/events/2096",
     "startDate": "2026-06-28T07:30:00+05:30",
@@ -870,30 +1190,6 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 8
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Pickle Rave by Move Social",
-    "url": "https://puttingscene.com/events/4827",
-    "startDate": "2026-06-28T09:00:00+05:30",
-    "endDate": "2026-06-28T12:00:00+05:30",
-    "description": "A morning \"Pickle Rave\" pairing pickleball with a live DJ, a warm-up session, coffee and breakfast to fuel the play",
-    "image": "https://cdn.puttingscene.com/event_images/4827/e47cc168-2076-4dbd-9006-cd26690c904a.jpg",
-    "location": {
-      "name": "FerroHub Sports Millers Pickleball",
-      "address": "FerroHub Sports Millers Pickleball, ",
-      "url": "https://maps.google.com/?cid=2838600609651185064"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Pickle Rave!",
-        "price": "1850.00",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
       }
     ]
   },
