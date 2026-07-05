@@ -1,151 +1,205 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <script>
-      (function(){
-          setTimeout(function(){
-              window.location.reload();
-          }, 5000);
-      }())
-  </script>
-  <link rel="icon" href="data:,">
-  <title>One moment, please...</title>
-  <style>
-.spinner {
-    -webkit-animation: spin 1s ease-out;
-    animation: spin 1s ease-out;
-}
-@keyframes spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -ms-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(360deg);
-        -moz-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-        -o-transform: rotate(360deg);
-        transform: rotate(360deg);
-    }
-}
-#outer-container {
-    text-align: center;
-}
-#container {
-        display: inline-block;
-        height: 100px;
-    }
-#text {
-    float: left;
-    height: 100px;
-    line-height: 100px;
-    font-size: 3rem;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    padding: 0 .4em 0 .2em;
-    letter-spacing: 0.06em;
-    color: rgba(38, 122, 72, 0.86);
-}
-@media (min-height: 180px) {
-    #outer-container {
-        margin-top: 0;
-    }
-}
-@media (min-height: 360px) {
-    #outer-container {
-        margin-top: 5%;
-    }
-}
-@media (min-height: 540px) {
-    #outer-container {
-        margin-top: 10%;
-    }
-}
-@media (min-height: 720px) {
-    #outer-container {
-        margin-top: 20%;
-    }
-}
-@media (min-width: 1450px) {
-    .throbber {
-        width: 90px;
-        height: 90px;
-        float: left;
-        padding: 5px 0 5px 5px;
-        opacity: 0.86;
-    }
-    #container {
-        display: inline-block;
-        border: 3px solid rgb(38, 122, 72, 0.86);
-        border-radius: 51px;
-        height: 100px;
-    }
-}
-
-  </style>
-</head>
-<body>
-  <div id="outer-container">
-    <div id="container">
-<div class="throbber">
-    <svg class="spinner" width="90px" height="90px" viewBox="0 0 47 47"
-         version="1.1"
-         xmlns="http://www.w3.org/2000/svg"
-         xmlns:xlink="http://www.w3.org/1999/xlink">
-        <title>Loader</title>
-        <defs>
-            <polygon id="path-1"
-                     points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
-        </defs>
-        <g id="Page-1" stroke="none" stroke-width="1" fill="none"
-           fill-rule="evenodd">
-            <g id="Logo" transform="translate(-5.000000, -2.000000)">
-                <g id="Group-2" transform="translate(5.000000, 2.000000)">
-                    <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z"
-                          id="Fill-1" fill="#467C45"></path>
-                    <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585"
-                          id="Fill-3" fill="#467C45"></path>
-                    <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049"
-                          id="Fill-5" fill="#467C45"></path>
-                    <g id="Group-9"
-                       transform="translate(0.000000, 11.919659)">
-                        <mask id="mask-2" fill="white">
-                            <use xlink:href="#path-1"></use>
-                        </mask>
-                        <g id="Clip-8"></g>
-                        <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146"
-                              id="Fill-7" fill="#467C45"
-                              mask="url(#mask-2)"></path>
-                    </g>
-                    <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049"
-                          id="Fill-10" fill="#467C45"></path>
-                    <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207"
-                          id="Fill-12" fill="#467C45"></path>
-                    <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555"
-                          id="Fill-14" fill="#467C45"></path>
-                    <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488"
-                          id="Fill-16" fill="#467C45"></path>
-                </g>
-            </g>
-        </g>
-    </svg>
-</div>
-      <div id="text">
-        Please wait while your request is being verified...
-      </div>
-    </div>
-  </div>
-  <div id="cycrzak6li8p"></div>
-  <script>
-var a0S=a0K;(function(g,O){var a0c={g:0xe6,O:0xd4,l:0xd0,K:0xd3,k:0xf5,A:0xc9},h=a0K,l=g();while(!![]){try{var K=parseInt(h(0xc5))/0x1*(-parseInt(h(a0c.g))/0x2)+-parseInt(h(0xf7))/0x3+parseInt(h(0xd1))/0x4+-parseInt(h(0xcc))/0x5*(parseInt(h(a0c.O))/0x6)+parseInt(h(a0c.l))/0x7*(parseInt(h(a0c.K))/0x8)+-parseInt(h(0xd9))/0x9*(-parseInt(h(a0c.k))/0xa)+parseInt(h(a0c.A))/0xb;if(K===O)break;else l['push'](l['shift']());}catch(k){l['push'](l['shift']());}}}(a0l,0x8363d));var a0k=window[a0S(0xe3)],a0A={'webdriverCheck':function(){var j=a0S;return j(0xdd)in window||!!a0k['webdriver'];},'userAgentCheck':function(){var a0E={g:0xc6},F=a0S;return/headless|bytespider/i[F(a0E.g)](a0k['userAgent']);},'appVersionCheck':function(){var a0a={g:0xf3},I=a0S;return/headless/i[I(0xc6)](a0k[I(a0a.g)]);},'pluginArraySpoofing':function(){var a0V={g:0xec},D=a0S;let g=PluginArray[D(0xf2)]===a0k[D(0xe9)]['__proto__'];if(a0k['plugins'][D(0xe0)]>0x0)g&=Plugin['prototype']===a0k[D(0xe9)][0x0][D(a0V.g)];return!g;},'mimeTypeArraySpoofing':function(){var a0Q={g:0xde,O:0xf2},W=a0S;let g=MimeTypeArray[W(0xf2)]===a0k['mimeTypes'][W(0xec)];if(a0k[W(a0Q.g)][W(0xe0)]>0x0)g&=MimeType[W(a0Q.O)]===a0k['mimeTypes'][0x0]['__proto__'];return!g;},'noLanguage':function(){var e=a0S;return!a0k[e(0xca)]||a0k['languages']['length']===0x0;},'zeroOuterDimensions':function(){var x=a0S;return window[x(0xcd)+'t']===0x0&&window['outerWidth']===0x0;}},a0q=function(l,K){var a0U={g:0xe1,O:0xdc,l:0xf0,K:0xcf,k:0xd8},a0b={g:0xe5,O:0xcb,l:0xe5},i=a0S,k=(function(){var q=!![];return function(y,w){var C=q?function(){if(w){var d=w['apply'](y,arguments);return w=null,d;}}:function(){};return q=![],C;};}()),A=k(this,function(){var N=a0K;return A[N(a0b.g)]()['search'](N(a0b.O)+'+$')[N(a0b.l)]()[N(0xdf)+'r'](A)['search']('(((.+)+)+)'+'+$');});A(),window[i(a0U.g)+i(0xdc)]?window[i(0xcf)][i(0xe1)+i(a0U.O)]('DOMContent'+i(a0U.l),l,K):window[i(a0U.K)][i(0xc8)+'t'](i(a0U.k)+i(0xdb),l);};a0q(function(){var a0f={g:0xcf,O:0xe2,l:0xf1,K:0xcf,k:0xcf,A:0xf8,q:0xd2,y:0xc7,w:0xc4,C:0xed,d:0xce,m:0xd5,X:0xfa,n:0xfa,G:0xeb,r:0xef,L:0xf6,R:0xd7,H:0xf6,o:0xe4,S:0xe4};setTimeout(function(){var v=a0K,g=window[v(a0f.g)][v(0xf4)+'ById']('cycrzak6li8p'),O=+((+!+[]+!![]+!![])+(+!+[]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![])),l=window[v(0xcf)]['createElem'+v(0xf8)](v(a0f.O)),K=window[v(0xcf)][v(0xe8)+'ent'](v(a0f.l)),k=window[v(a0f.K)][v(0xe8)+v(0xf8)]('input'),A=window[v(a0f.k)][v(0xe8)+v(a0f.A)](v(0xf1)),q=window[v(a0f.k)][v(0xe8)+v(0xf8)](v(0xf1)),y=+((+!+[]+!![]+!![])+(+!+[]+[])+(+!+[]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+![]+[])+(+!+[]+!![])),w='wsidchk',C='pdata',d='https%3A%2F%2Fbangaloreinternationalcentre.org%2Fevents%2F%3Fical%3D1',m='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',X='failedChecks',n=Object['entries'](a0A)[v(0xda)](([R,H])=>{try{return H()?R:null;}catch(o){return null;}})[v(0xea)](R=>R!==null),G=n['length']>0x0;if(G){var r=new URLSearchParams();r['append']('id',v(0xd6)+v(a0f.q)+'0950635027'+'9e'),r['append']('ts','1783225983'),r[v(a0f.y)](w,O+y),r[v(0xc7)](C,d),n[v(a0f.w)](R=>r[v(0xc7)](X,R));var L=new XMLHttpRequest();L[v(0xe7)](v(a0f.C),m+'?'+r[v(0xe5)]()),L[v(a0f.d)](null);}else l['id']='cycrzak6li8p',l[v(a0f.m)]='display:no'+'ne;',l['method']=v(a0f.C),l[v(0xf9)]=m,K['id']='lzvs3zovsocc',K[v(a0f.X)]=w,K['value']=O+y,K['type']='hidden',A[v(a0f.n)]='id',A['value']=v(a0f.G)+v(0xc3)+v(a0f.r)+'c7',A[v(0xf6)]='hidden',q[v(a0f.X)]='ts',q[v(0xd7)]='1783225983',q[v(a0f.L)]=v(0xee),k['id']='f8hs6587mxrs',k['name']=C,k[v(a0f.R)]=d,k[v(a0f.H)]='hidden',l[v(0xe4)+'d'](K),l[v(a0f.o)+'d'](k),l['appendChil'+'d'](A),l[v(a0f.S)+'d'](q),g['appendChil'+'d'](l),l['submit']();},0x3e8);},![]);function a0K(g,O){var l=a0l();return a0K=function(K,k){K=K-0xc3;var A=l[K];return A;},a0K(g,O);}function a0l(){var T=['addEventLi','form','navigator','appendChil','toString','715928JNvYyo','open','createElem','plugins','filter','7fa3b767c4','__proto__','GET','hidden','d49030b349','Loaded','input','prototype','appVersion','getElement','10EzmLLi','type','622476GVcjOY','ent','action','name','60b54a2be4','forEach','1rpNhFL','test','append','attachEven','7685304WZFXNd','language','(((.+)+)+)','323710SHtMIS','outerHeigh','send','document','1348907JZQetX','1286660EOZuuR','1b41b08f12','8gUctvQ','60rWExBU','style','a6105c0a61','value','onreadysta','4842171fgFjIZ','map','techange','stener','webdriver','mimeTypes','constructo','length'];a0l=function(){return T;};return a0l();}
-  </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"3d6ea15f2a154a159b46de3d81d428d2","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</body>
-</html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bangalore International Centre - ECPv4.8.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bangalore International Centre
+X-ORIGINAL-URL:https://bangaloreinternationalcentre.org
+X-WR-CALDESC:Events for Bangalore International Centre
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260705T180000
+DTEND;TZID=Asia/Kolkata:20260705T193000
+DTSTAMP:20260705T092433
+CREATED:20260624T141644Z
+LAST-MODIFIED:20260625T154129Z
+UID:91050-1783274400-1783279800@bangaloreinternationalcentre.org
+SUMMARY:Hrudayagaanasudha
+DESCRIPTION:Malayalam is not just a medium of expression. It is a melodic force in itself. \nIn this concert\, Hrudayesh Ramakrishnan revives the treasured Malayalam compositions of Kerala’s greatest composers: Sri Swati Thirunal\, royal composer of Travancore known for his intricate raga bhava; Tulaseevanam’s profound lyricism; Kuttamath Bhagavathar’s regional poetry; and Irayimman Thampi’s beloved lullaby Omanathinkal Kidavo. \nA rare immersion into the musical heritage of Kerala through a Carnatic lens\, this concert preserves\, promotes\, and celebrates the Malayalam identity within the classical music tradition of South India. \nSupported by: \n \n\n\nKerala Carnatic Compositions\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSevVWDXS7m0PIs0pTLFAUlFCHgpSc5g40sYSlqYfCVEqxuGRA/viewform?usp=pp_url)\n*Performers*: Hrudayesh R Krishnan\, Kushal B R\, D R Chethan Murthy\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/hrudayagaanasudha-2/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_HGS.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260707T183000
+DTEND;TZID=Asia/Kolkata:20260707T200000
+DTSTAMP:20260705T092433
+CREATED:20260629T084417Z
+LAST-MODIFIED:20260629T084417Z
+UID:91126-1783449000-1783454400@bangaloreinternationalcentre.org
+SUMMARY:Chekhov’s Bangalore
+DESCRIPTION:An evening to sit with difficult questions\, contend with differing perspectives\, and open new avenues of thought. \nIn 2008\, City of Gardens was brought to the stage: a play that turned Anton Chekhov’s The Cherry Orchard into an allegory for Bangalore. Once celebrated as the Garden City of India\, its rapid transformation has reshaped identities and coloured memories. The lush\, unhurried past constantly contends with the relentless pace of modern urban life. \nNearly two decades later\, there is a lot left to say. \nThis panel discussion brings together Abhishek Majumdar and Anuja Ghosalkar\, original cast members\, moderated by Saima Dawood. Together\, they will revisit what the play meant then and investigate what it means now\, returning to an allegory made at the apex of neoliberal globalisation\, and asking whether its prescience has only deepened with time. \nWhat have the shifting political economies meant for the city’s environment? What do the imperatives of development do to competing nostalgias\, and to the postcolonial textures that a garden city carries in its name? \n  \n\n\nRealist Fables for the Present\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdGXM5NZTtyHf8CFEuMhxKWHDVLsDMI6CfAvisDnVp7indcZQ/viewform?usp=pp_url)\n*Speakers*: Abhishek Majumdar\, Anuja Ghosalkar\, Saima Dawood\n*Event Categories*: Books
+URL:https://bangaloreinternationalcentre.org/event/chekhovs-bangalore/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_CB-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260707T190000
+DTEND;TZID=Asia/Kolkata:20260707T203000
+DTSTAMP:20260705T092433
+CREATED:20260629T063428Z
+LAST-MODIFIED:20260629T063428Z
+UID:90898-1783450800-1783456200@bangaloreinternationalcentre.org
+SUMMARY:Abhaya - Women Who Dared
+DESCRIPTION:Andal of Tamil Nadu. Akka Mahadevi of Karnataka. Lal Ded of Kashmir. Soyarabai of Maharashtra.  \nThese women are remembered as one-dimensional figures of devotion\, but behind their verses lie experiences of caste discrimination\, child marriage\, widowhood\, social exclusion\, and the constraints of gendered expectations. The realities that shaped their poetry\, revealing not only devotion but also remarkable resilience in the face of adversity. \nThis concert by Chitra Srikrishna celebrates women poets from across India\, spanning more than a millennium. Accompanied by Prema Vivek on the violin and Ranjani Venaktesh on the mridangam\, Chitra presents compositions in multiple Indian languages\, with visuals and storytelling to set the scene.  \nSupported by: \n \n\n\nSongs and Stories of India’s Women Poet-Saints\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeDTW3OwWajVbBbIghxDnWcxu0t2FVgUWJ3X-hhEjzSaQhq2w/viewform?usp=publish-editor)\n*Performers*: Chitra Srikrishna\, Prema Vivek\, Ranjani Venkatesh\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/abhaya-women-who-dared/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_AWWD.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260708T100000
+DTEND;TZID=Asia/Kolkata:20260717T170000
+DTSTAMP:20260705T092433
+CREATED:20260528T054025Z
+LAST-MODIFIED:20260611T133843Z
+UID:89569-1783504800-1784307600@bangaloreinternationalcentre.org
+SUMMARY:WomanEwer
+DESCRIPTION:Womanhood is wrought with contradictions: object and caregiver\, victim and survivor. \nWomanEwer\, a female-led multidisciplinary project\, connects women through the arts\, supporting survivors of sexual abuse. Only for women\, this is a safe space to explore movement\, sound\, and conversation\, all around the complexities of womanhood. \nTogether with UK-based artists Laura Kenyon (France) and Sara Maurizi (Italy)\, participants will recreate the latest performance J’ai Un Bleu // I Have A Bruise: a one hour piece based on real experiences of the dancers performing it. This nine day residency for trained dancers culminates in a group performance at BIC. \nResidency Timings: \n10:00 AM -12:00 PM: Training\n12:00 PM – 1:00 PM: Repertoire\n1:00 PM – 2:30 PM: Lunch Break\n\n2:30 PM – 5:00 PM: Creative Lab \n\nTraining: \nEvery morning\, the residency will start with contemporary dance training. Laura leads through breath work\, guided improvisation\, crossings\, floor work and handstand training. Students are encouraged to open up creatively from different parts of the body\, using energy to connect and share the space with others. \nCreative Lab: \nEach afternoon will be dedicated to research\, creation and group conversation. Over the past four years\, Laura has developed a tool box of guided improvisations\, company repertoire and creative tasks using art work\, images\, vocal as well as visual scores\, poems and other creative writings. Drawing from the process of creating J’ai Un Bleu\, participants are encouraged to share their own experiences and express themselves with freedom. \nThis nine day residency has limited capacity and will culminate in a performance at the BIC Auditorium. Please register your interest only if you are committed to the entire residency and performance. Participants will be selected based on responses to the RSVP form\, and will receive an email confirming a spot. \nThe last date for application to the Residency is Thur\, Jun 11 at 7pm. \nRead more about the Open Call \nMore about WomanEwer: https://www.laurakenyon.net/womanewer-about \nMore about ‘J’ai Un Bleu’: https://www.laurakenyon.net/womanewer-works/i-have-a-bruise  \n\n\nA Dance Residency in Consent and Collective Care\nAges 20-40\nRSVPs closed. Thank you for your interest.\n*Facilitators*: Laura Kenyon\, Sara Maurizi\n*Event Categories*: Dance\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/womanewer/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Dance,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_WE.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260708T190000
+DTEND;TZID=Asia/Kolkata:20260708T203000
+DTSTAMP:20260705T092433
+CREATED:20260629T121617Z
+LAST-MODIFIED:20260629T121617Z
+UID:91006-1783537200-1783542600@bangaloreinternationalcentre.org
+SUMMARY:Waiting for Naseer
+DESCRIPTION:Language: Hindi and English \nTwo actors are waiting at the Prithvi Theatre café for a chance to watch their favourite actor\, Naseeruddin Shah\, perform. But there is a catch: only one of them has a ticket\, and both of them are already dead. Their desperate longing for that one elusive ticket becomes a meditation on ambition\, jealousy\, friendship\, artistic obsession\, and the strange ways in which performers measure their lives. \nWritten by Sapan Saran and directed by Srinivas Beesetty\, Waiting for Naseer is a celebration of theatre\, passion and the artist within all of us. Filled with humour\, tenderness and absurdity\, the play reminds us that perhaps the struggle itself is enough to fill a person’s heart. \nIn collaboration with: \n\n          \nSupported by: \n \n\n\nA Philosophical Comedy about Waiting\nFor Ages 14+\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSc7kmgOJcP2kP0NfND3WjRSS70RUPghzQf6z1DWlpmJET-4MA/viewform?usp=publish-editor)\n*Cast & Crew*: Maulik Pandey\, Maahir Mohiuddin\, Naman Roy\, Chaitali Das\n*Event Categories*: Performing Arts\, Theatre
+URL:https://bangaloreinternationalcentre.org/event/waiting-for-naseer/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Performing Arts,Theatre
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail-4.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260709T183000
+DTEND;TZID=Asia/Kolkata:20260709T200000
+DTSTAMP:20260705T092433
+CREATED:20260629T122159Z
+LAST-MODIFIED:20260630T092505Z
+UID:91021-1783621800-1783627200@bangaloreinternationalcentre.org
+SUMMARY:Khusrau Darya Prem Ka
+DESCRIPTION:40 mins | Hindustani and Persian with English subtitles | India | 2015 \nKhusrau Darya Prem Ka is a modern-day docu-drama where artists try to understand the 14th-century poet-composer\, Amir Khusrau Dehlavi. The film uses the dramatic dastan goi (traditional storytelling in Urdu) to tell the narrative of Amir Khusrau in the voices of Ankit Chadha (a dastan goi artist preparing a stage presentation on Amir Khusrau) and Rene Singh (a musician preparing a musical rendering of Khusrau’s poetry). Together\, as they explore Delhi’s historical monuments or meet children from the basti Nizamuddin playing with Khusrau’s Hindvi poetry\, Ankit renders some of Khusrau’s historical works in a typical dastan goi style. This journey comes to an interesting twist when Ankit’s dastan goi persona ‘detaches’ from him and turns into a ‘real’ historical character! Ankit confronts this persona – his alter ego – and engages in a dialogue about what is the relevance of Khusrau’s poetry and heritage in today’s life\, what it means to be a Sufi\, and so on. \nThe film also uses some renderings of Khusrau’s popular poetry in the voices of traditional qawwals (such as Mohammad Ahmed Warsi and Farid Ayaz qawwals)\, as well as in beautiful forms of Urdu-Persian calligraphy by Anis Siddiqui. \nDirector Yousuf Saeed will introduce the film and will be in conversation with the audience following the screening. \nA film produced for the Aga Khan Trust for Culture\, New Delhi \nDedicated to the memory of Ankit Chadha who went too far in search of Amir Khusrau \n\n\nRiver of Love – A Film on Sufi Poetry and Heritage\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSetLehn6YhEVZH0M9m3rS9JZ3rwF2hzITBrMbjof76m0N9tgw/viewform?usp=publish-editor)\n*Speaker*: Yousuf Saeed\n*Event Categories*: Film\, Heritage\, Poetry
+URL:https://bangaloreinternationalcentre.org/event/khusrau-darya-prem-ka/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Film,Heritage,Poetry
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_Jul9.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260710T190000
+DTEND;TZID=Asia/Kolkata:20260710T203000
+DTSTAMP:20260705T092433
+CREATED:20260629T122817Z
+LAST-MODIFIED:20260704T132726Z
+UID:91027-1783710000-1783715400@bangaloreinternationalcentre.org
+SUMMARY:Nazrana-e-Khusrau
+DESCRIPTION:This performance is a musical-dramatic tribute to Hazrat Amir Khusrau — poet\, mystic\, musician\, and architect of India’s Ganga-Jamuni tehzeeb. Through ghazal\, qaul\, qalbana\, dohas\, riddles\, and storytelling\, this intergenerational ensemble revives his legacy of cultural confluence in a format that is both scholarly and soulful. Khusrau’s work bridges Persian\, Hindavi\, Sufi\, and Bhakti traditions. This production keeps that heritage alive\, not as history\, but as living art. \nNazrana-e-Khusrau has been performed nationally and internationally across several platforms and festivals\, connecting deeply with audiences. \n\n\nA Living Tribute to Amir Khusrau’s Poetry\, Music and Syncretic Vision\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSf5zLas2J2k8VYAX4dDxSM-J5RZ-DlGtWpHrUewCs9e3C-evw/viewform?usp=dialog)\n*Artists*: Syeda Hameed\, Rene Singh\, Lokesh Jain\, Ustad Kamaal Ahmed\, Ashique Kumar\, Shantibhushan Jha\n*Event Categories*: Music\, Performing Arts\, Poetry
+URL:https://bangaloreinternationalcentre.org/event/nazrana-e-khusrau/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts,Poetry
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_Jul10.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260711T110000
+DTEND;TZID=Asia/Kolkata:20260711T130000
+DTSTAMP:20260705T092433
+CREATED:20260702T181026Z
+LAST-MODIFIED:20260702T181026Z
+UID:91358-1783767600-1783774800@bangaloreinternationalcentre.org
+SUMMARY:Do Bengaluru’s Young Leaders Have Hope for This City?
+DESCRIPTION:Bengaluru is one of the most youthful major cities in India\, with nearly half its residents between nineteen and forty. The city is growing because of its youth\, and youth keep coming because the city is growing. This energy shows up in business as well as leisure. The city is young\, vibrant and alive. \nYet beneath the momentum lies a growing unease. Every monsoon\, floods in Bellandur and Marathahalli disrupt tens of thousands of lives. The average commuter loses over 168 hours to traffic annually. The RCB stampede in June 2025 turned collective joy into a sharp public question about who is responsible for keeping people safe. This is where most young Bengalureans are: aware of what is wrong\, but unsure what to do about it. \nWhich is what makes the next few months so significant. Bengaluru is returning to the polls after nearly a decade without municipal elections. But structural change doesn’t automatically mean more participation. Last time\, turnout was just 45%. Young people are registering to vote but not casting their ballots. \nAre Bengaluru’s youth disillusioned with polls and civic life? Between elections\, do young citizens engage with ward committees\, public consultations\, and neighbourhood platforms where budgets are discussed? What will it take to pull the youth off the sidelines and into action?  \nThe 4th session of The Bengaluru Debates brings together young civic leaders\, activists and changemakers to wrestle with these questions\, followed by an audience Q&A. \n‘The Bengaluru Debates: A BIC–Janaagraha Dialogue Series on Urban Governance in Bengaluru and Beyond’ aims to expand civic space in the city by fostering conversations through a civic lens. The series is designed to be informative\, constructive\, and entertaining\, while also serving as a trigger for local community action. Its objective is to bridge the gap between policy\, practice\, and public discourse on urban governance challenges\, and to catalyse citizen and policymaker engagement towards systemic solutions. \nIn collaboration with: \n \nJanaagraha Centre for Citizenship and Democracy\, founded in 2001 in Bengaluru\, is dedicated to transforming the quality of life in India’s cities and towns. Their mission is to strengthen the systems of urban governance so that cities can deliver clean\, green\, safe\, and liveable environments for all citizens. For them\, ‘quality of life’ is not only about infrastructure and services\, but equally about responsive institutions\, citizen engagement\, and transparent\, data-driven governance. \n\n\nThe Bengaluru Debates\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSe1CH2XfJ4HiRaagHomcpD7El-Z2ekZnopVpXTAaMt6BYTsGg/viewform?usp=pp_url)\n*Speakers*: Sarthak Sidhant\, Rishvanjas Raghavan\, Vibha Nadig\, Koushik Dhayal\, Srikanth Viswanathan\n*Event Categories*: Bangalore\, Governance\, Politics\, Society
+URL:https://bangaloreinternationalcentre.org/event/do-bengalurus-young-leaders-have-hope-for-this-city/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Bangalore,Governance,Politics,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_TBD4.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260711T183000
+DTEND;TZID=Asia/Kolkata:20260711T203000
+DTSTAMP:20260705T092433
+CREATED:20260629T121830Z
+LAST-MODIFIED:20260630T091252Z
+UID:91043-1783794600-1783801800@bangaloreinternationalcentre.org
+SUMMARY:Remake
+DESCRIPTION:116 minutes | English with subtitles | USA | 2025 \nIn Remake\, filmmaker Ross McElwee turns his lens on the passage of time and the uneasy space between documenting life and understanding it. Making its India Premiere\, the film traces McElwee’s relationship with his son Adrian; the fragile bond the camera created between them while Adrian was alive\, and what that means now that he’s gone. Drawing from decades of footage\, some shot by Ross\, some by Adrian\, the film becomes a layered excavation of memory and image making. Threaded through is the ghost of another project: a stalled effort by Hollywood to fictionalize McElwee’s 1986 classic\, Sherman’s March. \nA work shaped by absence\, and propelled forward by the urge to keep looking\, even when there’s no clear story left to tell. \nPlease Note: Director Ross McElwee will not be present. \nIn collaboration with: \n \n\n\nHolding on to Memory\, While Learning to Let Go\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSctVmZlIMA0ORUOu6D3gfjRkkpI3fPiog8Gz9DvQQdGIGDLAg/viewform?usp=publish-editor)\n*Filmmaker*: Ross McElwee\n*Event Categories*: Film
+URL:https://bangaloreinternationalcentre.org/event/remake/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Film
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail-1-2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260711T183000
+DTEND;TZID=Asia/Kolkata:20260711T200000
+DTSTAMP:20260705T092433
+CREATED:20260701T120513Z
+LAST-MODIFIED:20260702T171938Z
+UID:91395-1783794600-1783800000@bangaloreinternationalcentre.org
+SUMMARY:From Stage to Screen to Page
+DESCRIPTION:A ghost is loose in Tagore’s fiction. \nHer name is Kadambari Devi. She was Tagore’s sister-in-law in real life\, and now she has time-travelled to talk with two of his heroines about the choices they made. As the three women debate\, challenge\, and inspire one another\, they discover a surprising truth: the world may have moved from the 19th century to the 21st\, but the inner battles women fight for independence\, desire\, and meaning\, remain strikingly familiar. \nThree Women — A Graphic Novel is adapted from Isheeta Ganguly’s musical\, Three Women: A Musical Theatre. This evening\, she joins Vani Kola in conversation\, with dramatised readings from the book by Isheeta and Swati De and an audience Q&A to close \nIn collaboration with: \n \n\n\nAn Illustrative Reimagining of Tagore’s Iconic Heroines\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScZA5eEVZhTO053ehau74VDcScxY8gsiIUsCEXwmqkYheVN8Q/viewform?usp=pp_url)\n*Speakers*: Isheeta Ganguly\, Vani Kola\, Swati De\n*Event Categories*: Books\, Gender\, Visual Arts
+URL:https://bangaloreinternationalcentre.org/event/from-stage-to-screen-to-page/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Gender,Visual Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_FRTSTP.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260712T110000
+DTEND;TZID=Asia/Kolkata:20260712T123000
+DTSTAMP:20260705T092433
+CREATED:20260701T211539Z
+LAST-MODIFIED:20260702T184832Z
+UID:90946-1783854000-1783859400@bangaloreinternationalcentre.org
+SUMMARY:Being Brutally Frank: Human Instincts and the Law
+DESCRIPTION:Is being frank not the same thing as being honest? Are the two born of instinct or are they inculcated?  And is being frank and honest an invitation to risk? \nIn this lecture Gopalkrishna Gandhi will explore the status and prognoses in India for this faculty for frankness\, with examples drawn from history\, literature\, and the news of the day. \nThis lecture is part of the annual series held by the Justice Ahmadi Initiative on Rule of Law\, Democracy and Social Justice. The Initiative was established by The National Law School of India University\, Bengaluru (NLSIU) and the Ahmadi Foundation in honour of former Chief Justice Aziz Mushabber Ahmadi\, to preserve and promote his legacy of championing human rights\, education\, inclusion and protection of vulnerable communities\, judicial independence\, alternate dispute resolution mechanisms\, and strengthening of democratic institutions. \nPresented by: \n \n\n\n2nd Justice AM Ahmadi Distinguished Lecture\nRSVPs open on Tue\, Jul 7 at 6pm.\n*Speakers*: Gopalkrishna Gandhi\, Rinku Lamba\n*Event Categories*: Law\, Society
+URL:https://bangaloreinternationalcentre.org/event/being-brutally-frank-human-instincts-and-the-law/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Law,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_BBF.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260713T183000
+DTEND;TZID=Asia/Kolkata:20260713T200000
+DTSTAMP:20260705T092433
+CREATED:20260702T183408Z
+LAST-MODIFIED:20260702T183408Z
+UID:91059-1783967400-1783972800@bangaloreinternationalcentre.org
+SUMMARY:How to Write about the World
+DESCRIPTION:The weirder the world gets\, the more it lends itself to journalism; particularly journalism that runs long\, in the form of narrative features or books.  \nThis panel discussion brings together Samanth Subramanian\, author of The Web Beneath the Waves\, and the veteran journalists Aakar Patel and Sharda Ugra\, to spend the evening talking shop. They discuss approaches to stories\, narrate anecdotes of interviews gone right (and wrong!)\, recall misbegotten reporting trips\, bemoan the state of narrative journalism today\, and relish the genuine thrill of being a journalist out in the field. \nGlobal reportage redefined through Indian eyes. \n\n\nThe Craft of Journalism in Our Strange and Complex Times\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdslvgqTKhyEtjN_P8-tLoqNzc9kSXScDPI_4qhA_SCL9Nprw/viewform?usp=pp_url)\n*Speakers*: Samanth Subramanian\, Sharda Ugra\, Aakar Patel\n*Event Categories*: Books\, Media\, Nonfiction\, Society
+URL:https://bangaloreinternationalcentre.org/event/how-to-write-about-the-world/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Media,Nonfiction,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_Jy-13.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260714T183000
+DTEND;TZID=Asia/Kolkata:20260714T200000
+DTSTAMP:20260705T092433
+CREATED:20260701T211510Z
+LAST-MODIFIED:20260705T063911Z
+UID:90867-1784053800-1784059200@bangaloreinternationalcentre.org
+SUMMARY:Designing Belonging\, Expanding Justice
+DESCRIPTION:Adnan Zillur Morshed\, editor of Spatial (In)Justice: How Does It Manifest in the Built Environment? is in conversation with architect Prem Chandavarkar and social anthropologist Carol Upadhya.  \nTogether they examine how justice and space intersect\, producing different meanings for different constituencies. From Aristotle and Kant to John Rawls and Amartya Sen\, from Rural Studio to Planet of Slums\, from Black Lives Matter to sustainability initiatives: they ask what three decades of theoretical debates and design activism have actually produced. \nIf spatial justice is achieved in the built environment\, what might such a space look and feel like? And who gets to decide? \n\n\nWhose Space? Whose City?\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdotabWeayBz9lU-FzL0eJyAHNvwHsHSRo6pIIPfXUCybgdNw/viewform?usp=publish-editor)\n*Speakers*: Adnan Zillur Morshed\, Prem Chandavarkar\, Carol Upadhya\n*Event Categories*: Books\, Cities
+URL:https://bangaloreinternationalcentre.org/event/designing-belonging-expanding-justice/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Cities
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_DBEJ.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260719T110000
+DTEND;TZID=Asia/Kolkata:20260719T123000
+DTSTAMP:20260705T092433
+CREATED:20260703T061219Z
+LAST-MODIFIED:20260705T015607Z
+UID:91133-1784458800-1784464200@bangaloreinternationalcentre.org
+SUMMARY:Tales from the Hot Seat
+DESCRIPTION:Bangalore is sizzling! And young Ravi’s favourite sticker-covered water bottle is officially missing. \nHe and his mother hail an auto-rickshaw to retrace their steps. As they zip through the streets\, the missing bottle turns into something bigger: a ride through a city gasping in the heat. \nAuto Akka and the Hot Seat is a new children’s illustrated storybook that turns climate science into an urban adventure. In this session\, climate data and research transform into a sensory\, lived experience through storytelling. \n\nAround the World in 50 Sundays is a journey that begins\, not with a ticket\, but with opening a book. In a city like Bangalore where families are always in motion\, the BIC Library hopes to offer stillness and a quiet\, welcoming space for both parents and children where reading becomes a shared experience. \nEvery Sunday\, we open our doors to invite you into a library that listens; building a rhythm of return\, a habit of joy and a new community bound not just by books\, but by the weekly ritual of reading together. \nWe welcome your ideas and input. If you have suggestions for children’s events or activities that align with this vision\, we’d love to hear from you. Please reach out to us at library@bangaloreinternationalcentre.org \n\nSupported by:\n\n\n\nHop into an Auto to Tackle Bangalore’s Rising Temperatures\nFor Ages 6-12\nRSVPs will open Sun\, Jul 12 at 12pm.\n*Facilitators*: Ujjvala\, Radha\, Nithya\, Lakshita\n*Event Categories*: Around the World in 50 Sundays\, Children's Books\, Cities\, Climate Change\, Environment
+URL:https://bangaloreinternationalcentre.org/event/tales-from-the-hot-seat/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Around the World in 50 Sundays,Children's Books,Cities,Climate Change,Environment
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_TFTHS.jpg
+END:VEVENT
+END:VCALENDAR
