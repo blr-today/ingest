@@ -2,6 +2,81 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Namma Naati Oota by Chef Kalyan | A Traditional Culinary JourneyExperience the authentic flavours of Karnataka with Namma Naati Oota by Chef Kalyan at 1882 Restaurant. Celebrate the rich ",
+      "endDate": "2026-07-15T22:00:00",
+      "identifier": "com.skillboxes.38073",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1783343731HW8GvZmdT5MRYlwm.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food Festival"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "First Floor, ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9686558",
+            "longitude": "77.7168642"
+         },
+         "name": "1882 Restaurant"
+      },
+      "name": "Namma Naati Oota by Chef Kalyan | A Traditional Culinary Journey",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "5-Course Set Menu",
+            "url": "https://www.skillboxes.com/events/ticket/namma-naati-oota-by-chef-kalyan-a-traditional-culinary-journey-sbgljawx"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "7-Course Set Menu",
+            "url": "https://www.skillboxes.com/events/ticket/namma-naati-oota-by-chef-kalyan-a-traditional-culinary-journey-sbgljawx"
+         }
+      ],
+      "startDate": "2026-07-12T18:30:00",
+      "url": "https://www.skillboxes.com/events/namma-naati-oota-by-chef-kalyan-a-traditional-culinary-journey-sbgljawx"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience the spirit of Mela Mexicana at Koramangala SOCIAL with festive décor, delicious Mexican-inspired bites, signature drinks, and Bollywood & BollyTech beats by DJ Jeevan.",
+      "endDate": "2026-07-10T23:59:00",
+      "identifier": "com.skillboxes.38066",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1783340423xckY8BSz20XBLRhj.jpeg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 118, Seventh Block, 80 Feet Rd, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9355632",
+            "longitude": "77.614179"
+         },
+         "name": "Koramangala SOCIAL"
+      },
+      "name": "SOCIAL MELA MAXICANA ft DJ Jeevan",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Free Pass",
+            "url": "https://www.skillboxes.com/events/ticket/social-mela-maxicana-ft-dj-jeevan-sbfwatvi"
+         }
+      ],
+      "startDate": "2026-07-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/social-mela-maxicana-ft-dj-jeevan-sbfwatvi"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Parvaaz Live at DND The VenueExperience an unforgettable night of contemporary Indian rock as Parvaaz takes the stage at DND - The Venue.",
       "endDate": "2026-07-25T23:59:00",
       "identifier": "com.skillboxes.38061",
@@ -173,7 +248,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "bFLAT presentsOne night at The Humming TreeA Tribute to Fleetwood Mac For over 10 years, The bFLAT&#1",
+      "description": " The Humming Tree and bFLAT present ONE NIGHT @BFLAT- a monthly event celebrating various nostalgic and other music genres that appeal to Bangalore audiences. ",
       "endDate": "2026-07-25T23:55:00",
       "identifier": "com.skillboxes.37967",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17830666697n944UKdbHooZuwu.jpg.webp",
@@ -197,7 +272,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A fully redeemable cover charge of INR 1000 applicable at the doors\n",
-            "inventoryLevel": 445,
+            "inventoryLevel": 420,
             "name": "General Zone",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-one-night-at-bflat-a-tribute-to-fleetwood-mac-sbxnkbrp"
          }
@@ -325,7 +400,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Registration Ticket\n",
-            "inventoryLevel": 96,
+            "inventoryLevel": 95,
             "name": "Guest Ticket",
             "url": "https://www.skillboxes.com/events/ticket/j-stellar-on-the-road-bangalore-sbrjqrew"
          }
