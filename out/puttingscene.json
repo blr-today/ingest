@@ -239,7 +239,7 @@
         "price": "900.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
+        "remainingAttendeeCapacity": 9
       }
     ]
   },
@@ -566,6 +566,36 @@
     "endDate": "2026-07-16T23:59:00+05:30",
     "description": "A laid-back karaoke night hosted by Aashish Paul at The Humming Tree, where every guilty-pleasure anthem is welcome",
     "image": "https://cdn.puttingscene.com/event_images/4878/d25062ef-58a7-4edb-afea-6733b8ead45d.jpg",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/TN21cCqHxUZyiAkFA"
+    },
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "The Humming Tree Cookout",
+    "url": "https://puttingscene.com/events/4954",
+    "startDate": "2026-07-19T12:00:00+05:30",
+    "endDate": "2026-07-19T15:00:00+05:30",
+    "description": "The Humming Tree's Sunday brunch returns as The THT Cookout, pairing grilled meats and veg with iced drinks and an eclectic mix of tunes",
+    "image": "https://cdn.puttingscene.com/event_images/4954/6078004b-c1f8-469d-9eb6-7a223500a817.jpg",
+    "location": {
+      "name": "The Humming Tree, Indiranagar",
+      "address": "The Humming Tree, Indiranagar, Bangalore",
+      "url": "https://maps.app.goo.gl/TN21cCqHxUZyiAkFA"
+    },
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "The Humming Tree Cookout",
+    "url": "https://puttingscene.com/events/4954",
+    "startDate": "2026-07-26T12:00:00+05:30",
+    "endDate": "2026-07-26T15:00:00+05:30",
+    "description": "The Humming Tree's Sunday brunch returns as The THT Cookout, pairing grilled meats and veg with iced drinks and an eclectic mix of tunes",
+    "image": "https://cdn.puttingscene.com/event_images/4954/6078004b-c1f8-469d-9eb6-7a223500a817.jpg",
     "location": {
       "name": "The Humming Tree, Indiranagar",
       "address": "The Humming Tree, Indiranagar, Bangalore",
