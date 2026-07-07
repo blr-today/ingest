@@ -246,7 +246,7 @@
     },
     "sport": "Event",
     "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Stepper-Dance-Jul10",
-    "image": "https://sistersinsweat.com/images/event/20260701164817778.png",
+    "image": "https://sistersinsweat.com/images/event/20260707140249751.jpeg",
     "location": {
       "name": "Fitsters Athletic Club",
       "address": "Fitsters Athletic Club, Dodda Banaswadi Main Road, above alley Cutz, Annaiah Reddy Layout, Dodda Banaswadi",
@@ -831,6 +831,38 @@
     "endDate": "2026-07-18T13:00:00+05:30"
   },
   {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Cubbon-ParkSun19july",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Cubbon-ParkSun19july",
+    "image": "https://www.sistersinsweat.com/images/event/20260707135044394.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-07-19T06:45:00+05:30",
+    "endDate": "2026-07-19T08:00:00+05:30"
+  },
+  {
     "name": "Women's Beginner Basketball Coaching- Jakkur",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Gamelink-sat266",
@@ -1052,6 +1084,38 @@
     },
     "startDate": "2026-07-24T07:00:00+05:30",
     "endDate": "2026-07-24T08:30:00+05:30"
+  },
+  {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Cubbon-Park-sat25july",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Cubbon-Park-sat25july",
+    "image": "https://www.sistersinsweat.com/images/event/20260707134925617.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-07-25T06:45:00+05:30",
+    "endDate": "2026-07-25T08:00:00+05:30"
   },
   {
     "name": "Women's Football Coaching - Beginner",

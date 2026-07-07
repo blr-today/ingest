@@ -2,6 +2,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Step into an unforgettable evening of glamour, expression, and fierce runway energy at Kitty Ko, The LaLiT Ashok Bangalore. SHOWGIRLS celebrates the art of vogue with a spectacular night curated by Jiya La",
+      "endDate": "2026-07-13T23:59:00",
+      "identifier": "com.skillboxes.38089",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1783406781weezK2Aic314h56T.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Announced"
+      },
+      "name": "Show Girls",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "mandatory cover charge applicable at gates\n",
+            "inventoryLevel": 100,
+            "name": "Entry Only",
+            "url": "https://www.skillboxes.com/events/ticket/show-girls-sbhujjpj"
+         }
+      ],
+      "startDate": "2026-07-12T20:30:00",
+      "url": "https://www.skillboxes.com/events/show-girls-sbhujjpj"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Namma Naati Oota by Chef Kalyan | A Traditional Culinary JourneyExperience the authentic flavours of Karnataka with Namma Naati Oota by Chef Kalyan at 1882 Restaurant. Celebrate the rich ",
       "endDate": "2026-07-15T22:00:00",
       "identifier": "com.skillboxes.38073",
@@ -306,7 +341,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 987,
+            "inventoryLevel": 281,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/krsnanubhavam-acharya-anugraham-sbwkykwc"
          }
