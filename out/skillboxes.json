@@ -2,6 +2,47 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready, Bengaluru, this is not just a concert, it’s a cultural celebration.Step into an electrifying night with Raghu Dixit, one of India’s most iconic and globally celebrated artists, as he brings his signature fo",
+      "endDate": "2026-07-25T23:30:00",
+      "identifier": "com.skillboxes.38178",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Y3JMN0xyTy9ieVR1MmlHcEp3VFlxdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1783589065hXoOpY4NjYmqp1ZT.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0418817",
+            "longitude": "77.6160425"
+         },
+         "name": "ICB INDIAN CRAFT BREWERY"
+      },
+      "name": "Saturday Night Live ft. The Raghu Dixit Project",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-night-live-ft-the-raghu-dixit-project-sbphdcuo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Backstage Pass",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-night-live-ft-the-raghu-dixit-project-sbphdcuo"
+         }
+      ],
+      "startDate": "2026-07-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/saturday-night-live-ft-the-raghu-dixit-project-sbphdcuo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Set within the intimate elegance of Tomo Kei, Bossa FM unfolds as a weekly ritual where sound, space, and spirit converge.",
       "endDate": "2026-07-10T22:30:00",
       "identifier": "com.skillboxes.38154",
