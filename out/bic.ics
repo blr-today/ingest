@@ -1,151 +1,233 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <script>
-      (function(){
-          setTimeout(function(){
-              window.location.reload();
-          }, 5000);
-      }())
-  </script>
-  <link rel="icon" href="data:,">
-  <title>One moment, please...</title>
-  <style>
-.spinner {
-    -webkit-animation: spin 1s ease-out;
-    animation: spin 1s ease-out;
-}
-@keyframes spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -ms-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(360deg);
-        -moz-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-        -o-transform: rotate(360deg);
-        transform: rotate(360deg);
-    }
-}
-#outer-container {
-    text-align: center;
-}
-#container {
-        display: inline-block;
-        height: 100px;
-    }
-#text {
-    float: left;
-    height: 100px;
-    line-height: 100px;
-    font-size: 3rem;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    padding: 0 .4em 0 .2em;
-    letter-spacing: 0.06em;
-    color: rgba(38, 122, 72, 0.86);
-}
-@media (min-height: 180px) {
-    #outer-container {
-        margin-top: 0;
-    }
-}
-@media (min-height: 360px) {
-    #outer-container {
-        margin-top: 5%;
-    }
-}
-@media (min-height: 540px) {
-    #outer-container {
-        margin-top: 10%;
-    }
-}
-@media (min-height: 720px) {
-    #outer-container {
-        margin-top: 20%;
-    }
-}
-@media (min-width: 1450px) {
-    .throbber {
-        width: 90px;
-        height: 90px;
-        float: left;
-        padding: 5px 0 5px 5px;
-        opacity: 0.86;
-    }
-    #container {
-        display: inline-block;
-        border: 3px solid rgb(38, 122, 72, 0.86);
-        border-radius: 51px;
-        height: 100px;
-    }
-}
-
-  </style>
-</head>
-<body>
-  <div id="outer-container">
-    <div id="container">
-<div class="throbber">
-    <svg class="spinner" width="90px" height="90px" viewBox="0 0 47 47"
-         version="1.1"
-         xmlns="http://www.w3.org/2000/svg"
-         xmlns:xlink="http://www.w3.org/1999/xlink">
-        <title>Loader</title>
-        <defs>
-            <polygon id="path-1"
-                     points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
-        </defs>
-        <g id="Page-1" stroke="none" stroke-width="1" fill="none"
-           fill-rule="evenodd">
-            <g id="Logo" transform="translate(-5.000000, -2.000000)">
-                <g id="Group-2" transform="translate(5.000000, 2.000000)">
-                    <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z"
-                          id="Fill-1" fill="#467C45"></path>
-                    <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585"
-                          id="Fill-3" fill="#467C45"></path>
-                    <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049"
-                          id="Fill-5" fill="#467C45"></path>
-                    <g id="Group-9"
-                       transform="translate(0.000000, 11.919659)">
-                        <mask id="mask-2" fill="white">
-                            <use xlink:href="#path-1"></use>
-                        </mask>
-                        <g id="Clip-8"></g>
-                        <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146"
-                              id="Fill-7" fill="#467C45"
-                              mask="url(#mask-2)"></path>
-                    </g>
-                    <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049"
-                          id="Fill-10" fill="#467C45"></path>
-                    <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207"
-                          id="Fill-12" fill="#467C45"></path>
-                    <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555"
-                          id="Fill-14" fill="#467C45"></path>
-                    <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488"
-                          id="Fill-16" fill="#467C45"></path>
-                </g>
-            </g>
-        </g>
-    </svg>
-</div>
-      <div id="text">
-        Please wait while your request is being verified...
-      </div>
-    </div>
-  </div>
-  <div id="dsmz57uu7wsf"></div>
-  <script>
-var a0k=a0a;(function(Z,t){var a0N={Z:0x1f2,t:0x1f9,W:0x201,a:0x1f6,p:0x1ef,m:0x1e7},n=a0a,W=Z();while(!![]){try{var a=-parseInt(n(a0N.Z))/0x1+-parseInt(n(0x1f3))/0x2*(-parseInt(n(0x1ed))/0x3)+-parseInt(n(0x1e5))/0x4*(-parseInt(n(a0N.t))/0x5)+-parseInt(n(a0N.W))/0x6+-parseInt(n(a0N.a))/0x7+parseInt(n(a0N.p))/0x8*(parseInt(n(0x1eb))/0x9)+-parseInt(n(a0N.m))/0xa*(-parseInt(n(0x216))/0xb);if(a===t)break;else W['push'](W['shift']());}catch(p){W['push'](W['shift']());}}}(a0W,0xe532c));var a0p=window[a0k(0x21c)],a0m={'webdriverCheck':function(){var a0H={Z:0x1f8},P=a0k;return P(0x1f8)in window||!!a0p[P(a0H.Z)];},'userAgentCheck':function(){var a0y={Z:0x1e9},c=a0k;return/headless|bytespider/i[c(a0y.Z)](a0p[c(0x20e)]);},'appVersionCheck':function(){var a0M={Z:0x20d},E=a0k;return/headless/i['test'](a0p[E(a0M.Z)]);},'pluginArraySpoofing':function(){var a0l={Z:0x20b,t:0x1e8,W:0x20b,a:0x1e8,p:0x1e3},d=a0k;let Z=PluginArray[d(a0l.Z)]===a0p[d(a0l.t)][d(0x1e3)];if(a0p[d(0x1e8)][d(0x21b)]>0x0)Z&=Plugin[d(a0l.W)]===a0p[d(a0l.a)][0x0][d(a0l.p)];return!Z;},'mimeTypeArraySpoofing':function(){var a0S={Z:0x20b,t:0x1e3,W:0x21b,a:0x214},I=a0k;let Z=MimeTypeArray[I(a0S.Z)]===a0p[I(0x214)][I(a0S.t)];if(a0p[I(0x214)][I(a0S.W)]>0x0)Z&=MimeType[I(0x20b)]===a0p[I(a0S.a)][0x0]['__proto__'];return!Z;},'noLanguage':function(){var a0O={Z:0x21b},R=a0k;return!a0p[R(0x20a)]||a0p['languages'][R(a0O.Z)]===0x0;},'zeroOuterDimensions':function(){var U=a0k;return window['outerHeigh'+'t']===0x0&&window[U(0x1f7)]===0x0;}},a0L=function(W,a){var a0q={Z:0x210,t:0x205},a0z={Z:0x1ff,t:0x212},u=a0k,p=(function(){var L=!![];return function(Y,v){var b=L?function(){if(v){var g=v['apply'](Y,arguments);return v=null,g;}}:function(){};return L=![],b;};}()),m=p(this,function(){var A=a0a;return m[A(0x1fc)]()[A(a0z.Z)](A(0x212)+'+$')['toString']()[A(0x1f5)+'r'](m)[A(a0z.Z)](A(a0z.t)+'+$');});m(),window['addEventLi'+'stener']?window[u(a0q.Z)]['addEventLi'+'stener'](u(0x207)+u(0x217),W,a):window[u(a0q.Z)][u(a0q.t)+'t'](u(0x218)+u(0x208),W);};function a0a(Z,t){var W=a0W();return a0a=function(a,p){a=a-0x1e2;var m=W[a];return m;},a0a(Z,t);}a0L(function(){var a0C={Z:0x1e2,t:0x1fd,W:0x1fd,a:0x1fe,p:0x200,m:0x21b,L:0x202,Y:0x1ea,v:0x211,b:0x203,g:0x202,Q:0x1f4,j:0x206,h:0x215,D:0x1fa,T:0x1e6,r:0x1e6,V:0x219,x:0x204,e:0x1f1};setTimeout(function(){var X=a0a,Z=window[X(0x210)][X(0x1ec)+X(a0C.Z)]('dsmz57uu7wsf'),t=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![])+(+!+[]+!![]+[])+(+!+[]+!![])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![])),W=window[X(0x210)]['createElem'+'ent'](X(0x1fb)),a=window['document']['createElem'+X(a0C.t)](X(0x1fe)),p=window[X(0x210)]['createElem'+X(a0C.t)](X(0x1fe)),m=window['document']['createElem'+X(a0C.W)]('input'),L=window[X(0x210)][X(0x1e4)+'ent'](X(a0C.a)),Y=+((+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+![])),v='wsidchk',b='pdata',g='https%3A%2F%2Fbangaloreinternationalcentre.org%2Fevents%2F%3Fical%3D1',Q='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',j='failedChecks',h=Object['entries'](a0m)[X(a0C.p)](([V,x])=>{try{return x()?V:null;}catch(w){return null;}})[X(0x1ee)](V=>V!==null),D=h[X(a0C.m)]>0x0;if(D){var T=new URLSearchParams();T[X(a0C.L)]('id',X(a0C.Y)+X(a0C.v)+X(a0C.b)+'9e'),T[X(a0C.L)]('ts','1784058376'),T[X(a0C.g)](v,t+Y),T[X(a0C.g)](b,g),h['forEach'](V=>T[X(0x202)](j,V));var r=new XMLHttpRequest();r[X(a0C.Q)](X(0x1fa),Q+'?'+T['toString']()),r[X(a0C.j)](null);}else W['id']='dsmz57uu7wsf',W[X(a0C.h)]=X(0x1f0)+X(0x209),W[X(0x20f)]=X(a0C.D),W['action']=Q,a['id']='pcyz9gnoxt4t',a['name']=v,a['value']=t+Y,a[X(a0C.T)]='hidden',m[X(0x204)]='id',m[X(0x20c)]=X(0x213)+'60b54a2be4'+X(0x21a)+'c7',m[X(a0C.r)]=X(a0C.V),L[X(a0C.x)]='ts',L['value']='1784058376',L['type']='hidden',p['id']='qdsmft7aj01s',p[X(0x204)]=b,p['value']=g,p['type']=X(0x219),W['appendChil'+'d'](a),W['appendChil'+'d'](p),W[X(a0C.e)+'d'](m),W[X(0x1f1)+'d'](L),Z['appendChil'+'d'](W),W['submit']();},0x3e8);},![]);function a0W(){var i=['1b41b08f12','(((.+)+)+)','7fa3b767c4','mimeTypes','style','428516oFLKYr','Loaded','onreadysta','hidden','d49030b349','length','navigator','ById','__proto__','createElem','4bHWIqw','type','50WgSiDq','plugins','test','a6105c0a61','3397905IheraK','getElement','384195vUtjyN','filter','8iktXKm','display:no','appendChil','697973vqtjeH','24IYPXpq','open','constructo','7999873BtoFeI','outerWidth','webdriver','7717015AuUkBK','GET','form','toString','ent','input','search','map','5237400MzRuoj','append','0950635027','name','attachEven','send','DOMContent','techange','ne;','language','prototype','value','appVersion','userAgent','method','document'];a0W=function(){return i;};return a0W();}
-  </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"3d6ea15f2a154a159b46de3d81d428d2","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</body>
-</html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bangalore International Centre - ECPv4.8.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bangalore International Centre
+X-ORIGINAL-URL:https://bangaloreinternationalcentre.org
+X-WR-CALDESC:Events for Bangalore International Centre
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260708T100000
+DTEND;TZID=Asia/Kolkata:20260717T170000
+DTSTAMP:20260715T033956
+CREATED:20260528T054025Z
+LAST-MODIFIED:20260611T133843Z
+UID:89569-1783504800-1784307600@bangaloreinternationalcentre.org
+SUMMARY:WomanEwer
+DESCRIPTION:Womanhood is wrought with contradictions: object and caregiver\, victim and survivor. \nWomanEwer\, a female-led multidisciplinary project\, connects women through the arts\, supporting survivors of sexual abuse. Only for women\, this is a safe space to explore movement\, sound\, and conversation\, all around the complexities of womanhood. \nTogether with UK-based artists Laura Kenyon (France) and Sara Maurizi (Italy)\, participants will recreate the latest performance J’ai Un Bleu // I Have A Bruise: a one hour piece based on real experiences of the dancers performing it. This nine day residency for trained dancers culminates in a group performance at BIC. \nResidency Timings: \n10:00 AM -12:00 PM: Training\n12:00 PM – 1:00 PM: Repertoire\n1:00 PM – 2:30 PM: Lunch Break\n\n2:30 PM – 5:00 PM: Creative Lab \n\nTraining: \nEvery morning\, the residency will start with contemporary dance training. Laura leads through breath work\, guided improvisation\, crossings\, floor work and handstand training. Students are encouraged to open up creatively from different parts of the body\, using energy to connect and share the space with others. \nCreative Lab: \nEach afternoon will be dedicated to research\, creation and group conversation. Over the past four years\, Laura has developed a tool box of guided improvisations\, company repertoire and creative tasks using art work\, images\, vocal as well as visual scores\, poems and other creative writings. Drawing from the process of creating J’ai Un Bleu\, participants are encouraged to share their own experiences and express themselves with freedom. \nThis nine day residency has limited capacity and will culminate in a performance at the BIC Auditorium. Please register your interest only if you are committed to the entire residency and performance. Participants will be selected based on responses to the RSVP form\, and will receive an email confirming a spot. \nThe last date for application to the Residency is Thur\, Jun 11 at 7pm. \nRead more about the Open Call \nMore about WomanEwer: https://www.laurakenyon.net/womanewer-about \nMore about ‘J’ai Un Bleu’: https://www.laurakenyon.net/womanewer-works/i-have-a-bruise  \n\n\nA Dance Residency in Consent and Collective Care\nAges 20-40\nRSVPs closed. Thank you for your interest.\n*Facilitators*: Laura Kenyon\, Sara Maurizi\n*Event Categories*: Dance\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/womanewer/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Dance,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/05/Thumbnail_WE.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260715T183000
+DTEND;TZID=Asia/Kolkata:20260715T200000
+DTSTAMP:20260715T033956
+CREATED:20260708T102854Z
+LAST-MODIFIED:20260714T064554Z
+UID:91749-1784140200-1784145600@bangaloreinternationalcentre.org
+SUMMARY:Racing Against Time
+DESCRIPTION:This panel discussion explores India’s critical challenges to growing self-sufficient and rich before it grows old\, as examined in the book India Out of Work by Santosh Mehrotra and Jajati K. Parida. Following the discussion will be an audience Q&A. \nWith only fifteen years left of its demographic dividend\, India is staring at a stark future – it may age into a poorer nation. Millions remain unemployed\, underemployed or trapped in precarious work. From sluggish economic expansion to widening inequality as well as the disturbingly small presence of women in India’s workforce\, they unpack the paradox of jobless growth\, debunk the myth of significant poverty alleviation and reveal the systemic barriers holding millions back from a good life. Without urgent reform\, India faces a future of deepening inequality\, stagnant wages and sacrificed potential. \nThe race against time has begun\, and India is already alarmingly behind! \n\n\nCan India Grow Rich Before It Grows Old?\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdFBNdqxs9AIKdIQW_oY8zmRKZnPBLZ5pHbENdogyx_ecCYaQ/viewform?usp=pp_url)\n*Speakers*: Santosh Mehrotra\, Balaji Parthasarathy\, G Manjunath\, Sridhar Krishna\, Rajeev Gowda\n*Event Categories*: Books\, Development\, Nonfiction\, Society
+URL:https://bangaloreinternationalcentre.org/event/racing-against-time/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Development,Nonfiction,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/ThumbnailRAT.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260715T190000
+DTEND;TZID=Asia/Kolkata:20260715T203000
+DTSTAMP:20260715T033956
+CREATED:20260707T175412Z
+LAST-MODIFIED:20260714T044613Z
+UID:91723-1784142000-1784147400@bangaloreinternationalcentre.org
+SUMMARY:Atmageete
+DESCRIPTION:\n\n\n\n\n\n\nA multilingual concert by MD Pallavi\, accompanied by D Srinivas Achar on the guitar\, that brings together verses that imagine diverse\, ethical ways of relating to one another as well as to the world. \nThe passionate words of saints and poets from across the country and across the centuries illustrate diverse senses of equality. They enliven the moral imagination. The concert honours and celebrates this rich moral and aesthetic legacy. \nIn collaboration with: \n\n\n\n\n\n\n\n\n\n \n\nSupported by:\n\n\n\n\nSongs of Equality and Beyond\nRSVPs closed. Thank you for your interest.\n*Performers*: Pallavi MD\, D Srinivas Achar\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/atmageete/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_AG-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260716T190000
+DTEND;TZID=Asia/Kolkata:20260716T203000
+DTSTAMP:20260715T033956
+CREATED:20260628T121719Z
+LAST-MODIFIED:20260706T110135Z
+UID:91080-1784228400-1784233800@bangaloreinternationalcentre.org
+SUMMARY:Echoes of the Maihar Tradition
+DESCRIPTION:A concert of emotional connection to the timeless beauty of the monsoon ragas. \nThis evening\, sarod exponents Shiraz Ali Khan and Dwiptanil Bhattacharjee\, accompanied by tabla artist Mainak Biswas\, present a sarod duet. The conversation between two artists of the Maihar Senia Gharana unfolds as they explore the many shades of a Malhaar raga: from the meditative expansiveness of the aalap to the vibrant rhythmic dialogue with tabla in the concluding section. \nThe monsoon has inspired generations of musicians\, poets\, and artists across India. This concert revisits that tradition\, celebrating the expressive power of the Malhaar ragas and the depth\, imagination\, and emotional resonance that define this musical lineage. \nSupported by: \n \n\n\nA Sarod Duet\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfMnyj3nBkOdvSbI6j0BxN1LdDbq1XDDDah1xmbw6_4QxcwzA/viewform?usp=publish-editor)\n*Performers*: Shiraz Ali Khan\, Dwiptanil Bhattacharjee\, Mainak Biswas\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/echoes-of-the-maihar-tradition/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail-5.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260717T183000
+DTEND;TZID=Asia/Kolkata:20260717T201500
+DTSTAMP:20260715T033956
+CREATED:20260706T152655Z
+LAST-MODIFIED:20260706T160718Z
+UID:91357-1784313000-1784319300@bangaloreinternationalcentre.org
+SUMMARY:One Foot in Front of the Other
+DESCRIPTION:62 min | English and Hindi with English Subtitles \nThe film follows four runners on their route from Bengaluru to Chennai along the highway. No formal organisation\, no personal bests to beat\, no reward at the finish line. They run for the joy of it\, for the community\, for the adventure. Filmmaker Basav Biradar saw this as a radical act\, under a hypercapitalist system\, to pursue a goal with no end except unto itself. He follows the runners with his camera to understand their motivations\, the physical and mental training\, and their friendship. \nThe screening will be followed by an audience Q&A with the runners and filmmaker\, moderated by Gautam Sonti. \n\n\nThe Road\, the Run\, the Why\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScajUl6bcJw-TogrwKPjUyn2zJCeyOr39DmqbSY4PSph_kjZw/viewform?usp=pp_url)\n*Speakers*: Basav Biradar\, Santhosh Padmanabhan\, Chandra Gopalan\, Krishan Dhall\, Manikandan Seran\, Gautam Sonti\n*Event Categories*: Film\, Media\, Sports
+URL:https://bangaloreinternationalcentre.org/event/one-foot-in-front-of-the-other/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Film,Media,Sports
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/ThumbnailOFFO.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260717T183000
+DTEND;TZID=Asia/Kolkata:20260717T200000
+DTSTAMP:20260715T033956
+CREATED:20260708T103717Z
+LAST-MODIFIED:20260709T065116Z
+UID:91596-1784313000-1784318400@bangaloreinternationalcentre.org
+SUMMARY:The Worlds of Colonial Medicine
+DESCRIPTION:In much literary scholarship\, colonial medicine has been characterized as a site of racialized knowledge production\, cultural denigration and counterinsurgent rhetoric. In her book Imperial Pharmakon\, Sandhya Shetty acknowledges the bile on display in colonial discourse on native bodies\, but maintains that medicine as a “tool of empire” was never consistently oppressive\, evenly commanding\, or unrelievedly prosaic in its articulations. Guided by the insight that “what makes power hold good\, what makes it accepted\, is simply the fact that it doesn’t only weigh on us as a force that says no\, but that … it induces pleasure\, forms of knowledge\,” she tells a thick and tangled story about Western medicine’s divided enunciations and desultory goals\, and\, its erratic and errant reception on colonial soil. \nAttentive to the diverse ways in which desire for and pleasure in self-improvement inspired Indians to bold even risky experiments\, she argues that an exclusive focus on medicine’s combative posture risks singularizing what the archive nudges us to grasp as plural\, volatile\, and at times even generative. Reading this archive through a literary-critical lens\, the book distills a rich\, mixed brew of driving ideas and affects on both sides of the colonial divide\, drawing out medicine’s ability to stir the imagination of better worlds\, to liberate colonial subjects from ascriptive roles and to harbor a hostile war-making logic. \nIn her presentation\, Sandhya Shetty will expand on the conceptual infrastructure that bolsters the empirical details of the historical figures and events she discusses. Keywords such as “biopolitics\,” “ecology\,” “entanglement\,” and “pharmakon” are methodologically and substantively significant to her arguments\, while the friend/enemy dyad and the notion of “hospitality” help to formulate the ethical impasses of medicine in colonial conditions. She will also address the question of the Medical Humanities and conclude with reflections on the potency of the pharmakon as it moves this century toward engineering “new humans\,” quite unlike those birthed in colonial India circa 1835. The presentation will conclude with an audience Q&A. \n\n\nEmpire\, Ecologies\, Entanglements\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd4wXQ5Wp0ZsiicFGJHziDNsfr48QmrvqnHcxFlc8qLgEVjZg/viewform?usp=publish-editor)\n*Speaker*: Sandhya Shetty\n*Event Categories*: Books\, Health & Wellness\, History\, Literature\, Public Health\, Science\, Society
+URL:https://bangaloreinternationalcentre.org/event/the-worlds-of-colonial-medicine/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Health & Wellness,History,Literature,Public Health,Science,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/4_WOCM.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260717T190000
+DTEND;TZID=Asia/Kolkata:20260717T203000
+DTSTAMP:20260715T033956
+CREATED:20260709T113341Z
+LAST-MODIFIED:20260710T153549Z
+UID:91778-1784314800-1784320200@bangaloreinternationalcentre.org
+SUMMARY:J’ai Un Bleu | I Have A Bruise
+DESCRIPTION:J’ai un Bleu is a female-led dance performance based on a collection of interviews from women and activists\, made by WomanEwer in 2021. The work addresses womanhood from the sensitive issues and challenges to the celebration of survival and strength. The performance will be followed by a Q&A session with the audience. What happens when woman across the world are given a platform for their voices? \nDirected by Laura Kenyon in collaboration with the dancers in London\, the piece originally toured in the UK\, France\, Mexico and India. This performance is a culmination of the nine day long Dance Residency that was held in the BIC premises with a group of eight dancers\, inspired by their own stories of womanhood\, struggle and success. \nSupported by: \n \n\n\nThe Culminating Performance of the WomanEwer Dance Residency\nAges 18+\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfZ-KAo1NtI8ASNr_8H7wB2v24t1cB0SX55lk3ei8rmALyjeg/viewform?usp=publish-editor)\n*Performers*: Laura Kenyon\, Sara Maurizi\, Akshiti Roychowdhury\, Rashmi Mali\, Aswathy Chandran\, Greeshma Narendran\, Prakriti Sharma\, Tanaya Nair\, Henna Raisinghani\, Seher Noor Mehra\n*Event Categories*: Dance\, Gender\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/jai-un-bleu-i-have-a-bruise/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Dance,Gender,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_JUB.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260718T113000
+DTEND;TZID=Asia/Kolkata:20260718T130000
+DTSTAMP:20260715T033956
+CREATED:20260706T110607Z
+LAST-MODIFIED:20260706T110607Z
+UID:91252-1784374200-1784379600@bangaloreinternationalcentre.org
+SUMMARY:Symphony of Nature
+DESCRIPTION:Some ragas wait all year for their moment. A monsoon raga waits for the rains\, another waits for the hush after midnight. When the moment comes\, it carries joy\, longing\, serenity\, or deep devotion\, whatever the hour demands.  \nThis concert invites you to hear the ragas at their intended hour first hand\, and feel your own mood arrive with it. The performance brings together Deborshee Bhattacharjee on vocals\, Roopak Kallurkar on tabla\, and Vighnesh Bhagavat Yellapur on harmonium\, three classical musicians from distinct gharana traditions\, performing ragas at the hour they were written for. \nSupported by: \n \n  \n\n\nNature and Emotion through Indian Ragas\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSczkyCUxnVktAeQQe9qnfOkBnuskaIG5mgJM4YPSiiht7SFOg/viewform?usp=publish-editor)\n*Performers*: Deborshee Bhattacharjee\, Roopak Kallurkar\, Vighnesh Bhagavat Yellapur\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/symphony-of-nature/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_SoN2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260718T183000
+DTEND;TZID=Asia/Kolkata:20260718T200000
+DTSTAMP:20260715T033956
+CREATED:20260706T151407Z
+LAST-MODIFIED:20260707T051813Z
+UID:91325-1784399400-1784404800@bangaloreinternationalcentre.org
+SUMMARY:Cubbon Park
+DESCRIPTION:Twenty-six people. \nActivists\, lawyers\, historians\, artists\, and the park’s own former chief gardener\, all with something different to say about the same 300 acres of green in the middle of Bengaluru. \nCubbon Park: Citizens’ Perspectives and Many Visions for the Future gathers their voices into a single\, layered chronicle of one of the city’s most iconic landmarks\, moving beyond dry archives and simple nostalgia. The book reframes the historic 1870 park not just as a green refuge\, but as a democratic micro-cosmos of the city\, a site of citizen resistance\, urban identity\, and social coexistence\, while confronting gentrification\, rising surveillance\, and commercial encroachment head-on. \nThis session brings the book’s contributors together in conversation\, alongside a short film and an audience Q&A\, to explore what it takes to hold that many perspectives in one place\, and what it will take to keep Cubbon Park public. \n\n\nCitizens’ Perspectives and Many Visions for the Future\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfUUxKU3hZuuyZQ21SOqEmOnwM7fibyhJUhYgdgiD5S2LcBEQ/viewform?usp=publish-editor)\n*Speakers*: Chiranjiv Singh\, Madhu Bhushan\, Shakun Doundiyakhed\, Akkai Padmashali\, Suresh Jayaram\n*Event Categories*: Bangalore\, Books\, Society
+URL:https://bangaloreinternationalcentre.org/event/cubbon-park/
+LOCATION:7\, 4th Main Road\, Domlur II Stage\, Bengaluru\, Karnataka\, 560 071\, India
+CATEGORIES:Bangalore,Books,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_CP.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260719T110000
+DTEND;TZID=Asia/Kolkata:20260719T123000
+DTSTAMP:20260715T033956
+CREATED:20260703T061219Z
+LAST-MODIFIED:20260714T061712Z
+UID:91133-1784458800-1784464200@bangaloreinternationalcentre.org
+SUMMARY:Tales from the Hot Seat
+DESCRIPTION:Bangalore is sizzling! And young Ravi’s favourite sticker-covered water bottle is officially missing. \nHe and his mother hail an auto-rickshaw to retrace their steps. As they zip through the streets\, the missing bottle turns into something bigger: a ride through a city gasping in the heat. \nAuto Akka and the Hot Seat is a new children’s illustrated storybook that turns climate science into an urban adventure. In this session\, climate data and research transform into a sensory\, lived experience through storytelling. \n\nAround the World in 50 Sundays is a journey that begins\, not with a ticket\, but with opening a book. In a city like Bangalore where families are always in motion\, the BIC Library hopes to offer stillness and a quiet\, welcoming space for both parents and children where reading becomes a shared experience. \nEvery Sunday\, we open our doors to invite you into a library that listens; building a rhythm of return\, a habit of joy and a new community bound not just by books\, but by the weekly ritual of reading together. \nWe welcome your ideas and input. If you have suggestions for children’s events or activities that align with this vision\, we’d love to hear from you. Please reach out to us at library@bangaloreinternationalcentre.org \n\nSupported by:\n\n\n\nHop into an Auto to Tackle Bangalore’s Rising Temperatures\nFor Ages 6-12\nRSVPs will open Wed\, Jul 15 at 12pm.\n*Facilitators*: Ujjvala\, Radha\, Nithya\, Lakshita\n*Event Categories*: Around the World in 50 Sundays\, Children's Books\, Cities\, Climate Change\, Environment
+URL:https://bangaloreinternationalcentre.org/event/tales-from-the-hot-seat/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Around the World in 50 Sundays,Children's Books,Cities,Climate Change,Environment
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/06/Thumbnail_TFTHS.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260719T110000
+DTEND;TZID=Asia/Kolkata:20260719T130000
+DTSTAMP:20260715T033956
+CREATED:20260708T145517Z
+LAST-MODIFIED:20260709T115700Z
+UID:91642-1784458800-1784466000@bangaloreinternationalcentre.org
+SUMMARY:Science X Community: Reimagining Urban Lakes
+DESCRIPTION:For decades\, Bengaluru’s citizens\, institutions\, and experts have worked tirelessly to save the city’s lakes. Marking a step in that effort\, the Framework for Lake Rejuvenation is being launched. The comprehensive\, five-step document\, co-created by Friends of Lakes and WELL Labs along with Greater Bengaluru Authority\, citizen groups\, NGOs\, academics\, and experts\, addresses the need to capture collective knowledge in a common\, transparent\, and streamlined framework to guide future lake rejuvenation efforts across the city. \nThe launch will be followed by a panel discussion that brings together a diverse group of voices\, from citizen lake groups to researchers\, practitioners\, and environmental advocates\, to answer a simple question: how can Bengaluru move toward a scientifically grounded\, long-term strategy that ensures lakes remain healthy and functional for generations? \nThis event aims to spark a conversation about how the city can move from isolated projects to a shared\, science-based approach for rejuvenating and sustaining its lakes. \nPresented by: \n \n\n\nBuilding a Shared Lake Rejuvenation Framework for Resilient Cities\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd0zRqP6iHLcdYrrd-5JOCdQeo-HtmC0h9dnM4g6Qb-JJx6Tw/viewform?usp=pp_url)\n*Speakers*: Anupama Shetty\, V Ramprasad\, Avinash Krishnamurthy\, Sujata C Hingorani\, Veena Srinivasan\n*Event Categories*: Bangalore\, Environment\, Governance\, Policy & Regulation\, Public Health\, Society\, Sustainability
+URL:https://bangaloreinternationalcentre.org/event/science-x-community-reimagining-urban-lakes/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Bangalore,Environment,Governance,Policy & Regulation,Public Health,Society,Sustainability
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_SxC_RUL.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260719T110000
+DTEND;TZID=Asia/Kolkata:20260719T133000
+DTSTAMP:20260715T033956
+CREATED:20260709T102425Z
+LAST-MODIFIED:20260709T102425Z
+UID:91269-1784458800-1784467800@bangaloreinternationalcentre.org
+SUMMARY:IMF Mountain Film Festival – India Tour 2026
+DESCRIPTION:The Himalayan Club in collaboration with the Indian Mountaineering Foundation (IMF) Mountain Film Festival – India Tour 2026 brings a selection of short adventure films to the Bengaluru\, following the festival’s 7th edition held at the IMF Campus in New Delhi this past December. Organised by the Indian Mountaineering Foundation\, India’s governing body for mountaineering\, the tour carries the award-winning and popular films to audiences beyond Delhi.  \nThe discipline of a climb\, the patience of high altitude\, the quiet nerve it takes to cross terrain that offers no shortcuts: the films range as widely as the country’s own geography\, offering both a platform for the filmmakers behind them and a rare window into the scale of what is actually out there.  \nIn celebration of the climb\, the solitude\, and the mountains that outlive us all.  \nSchedule \nOpening Note: 11am – 11:05am \nFirst Session: 11:05am – 12:05pm \nShowing Up\n7 minutes | English | Prashant Madan\nA gruelling hike across the European Alps\, turning a 2\,000-kilometre\, 145\,000-metre-elevation trek into a raw journey of endurance\, self-discovery and redefinition of success. \nDuchess – Highland Gathering\n9 minutes | English | Kopal Goyal\nIn January 2025\, 15 women from across India gathered in Lonavala for the third Duchess Gathering — a weekend of highlining\, rigging workshops\, shared meals\, and camaraderie. This film celebrates learning\, laughter\, and the spirit of women coming together in a sport still dominated by men.\n \nNazia – The Shepherdess and Her School\n10 minutes | Hindi | Jalal Ud Din Baba\nThe journey of a young Gujjar Bakerwal shepherd-girl\, Nazia\, who balances tending sheep in the mountains with her dream of getting education.\n \nPapsura – Peak of Evil\n35 minutes | English | Morgan Shields\nA documentary by Patagonia that follows snowboarders Nick Russell and Jerry Mark as they journey from California to the remote Himalayan summit of Papsura and attempt the most extreme descent of their lives.\n \nBREAK: 12:05pm – 12:10pm \nSecond Session: 12:10pm – 1:15pm \nSeeing Red – Saving Red Pandas\n30 minutes | English | Mummun Dalaria\nA documentary that follows India’s captive-breeding and conservation efforts to protect the endangered red panda and prepare rescued cubs for a return to their Himalayan forest home.\n \nStepping Stone\n15 minutes | Marathi | Niraj Patil\nKokankada is a dramatic cliff its sweeping concave wall rising abruptly over the Konkan plains. Reaching its top is considered one of the toughest objectives for serious rock climbers in the Sahyadris. The film follows the remarkable journey of two women climbers who take on this formidable challenge\, capturing their grit and partnership.\n \nChangabang – Return to the Shining Mountain\n20 minutes | English | Nick Kowalski\nIn 1976\, British alpinists Peter Boardman and Joe Tasker made the first ascent of the West Wall of Changabang\, for the next four decades the route gained legendary status as climbers from around the world would come to attempt to successfully repeat this route in 2022\, three climbers from the New Zealand Alpine Team would try their luck on this infamous climb. Will they succeed?\n \nInteractive Session with Select Filmmakers: 1:15pm – 1:30pm \nIn collaboration with: \nIndian Mountaineering Foundation\nIndian Mountaineering Foundation (IMF) is the apex national body for mountaineering and allied sports. IMF supports\, promotes and regulates national and international climbing and mountaineering in India and is affiliated to the UIAA (International Mountaineering and Climbing Federation). IMF is also the regulatory body for the competitive Olympic sport of Sport Climbing and is affiliated to the IFSC (International Federation of Sport Climbing). IMF is also engaged in mountain protection work\, knowledge building and creating awareness of the Indian Himalaya. \nThe Himalayan Club\nThe Himalayan Club\, founded in 1928\, is one of the earliest mountaineering clubs to have been established in the sub-continent for promotion of adventure and mountaineering. The club has presence across the country and outside too. The club’s objectives is not confined to just mountain climbing but to a much wider range of interest and activities related to mountain world like publications\, awards\, lectures\, social activities\, sponsorships and mountain film festivals. First published in 1928\, The Himalayan Journal (THJ) has achieved a worldwide recognition as the most reliable reference on the Himalaya\, Karakoram and the Hindukush. Members of the club include some of the most famous and decorated mountaineers and explorers in India and abroad. The club would soon be celebrating its centenary year with a series of activities! \n     \nSupported by: \n \n\n\nA Celebration of Adventure and Mountain Spirit\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScV9DjqH1UeoC3veqLRg-DPYb1PaJdrB6lFFPZVvsW-U65dwA/viewform?usp=pp_url)\n*Event Categories*: Film\, Sports
+URL:https://bangaloreinternationalcentre.org/event/imf-mountain-film-festival-india-tour-2026/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Film,Sports
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail-2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260719T173000
+DTEND;TZID=Asia/Kolkata:20260719T190000
+DTSTAMP:20260715T033956
+CREATED:20260710T071756Z
+LAST-MODIFIED:20260714T051559Z
+UID:91632-1784482200-1784487600@bangaloreinternationalcentre.org
+SUMMARY:Secrets and Lines: A Short History of Boundaries in India
+DESCRIPTION:People never stop remaking the spaces they inhabit\, in languages and materials that shift with the times. In early modern India\, spatial practice encoded segregation and hierarchy\, but it also carried pleasure\, beauty\, and affect. \nFrom the nineteenth century\, India’s mapping history hardened into rigid visual\, legal\, and administrative lines\, often stripping out affect while retaining older structures of power. Historian Samira Sheikh\, Associate Professor at Vanderbilt University and the current Obaid Siddiqi Chair in the History and Culture of Science\, will deliver this year’s lecture series tracing that very history: from the missing archive of early modern mapping to the moment political boundaries entered Indian cartography. This final lecture completes the arc\, uncovering what survived beneath these lines. \nWhat happens to older spatial knowledge when a state redraws its lines? Where does affect go when power hardens into the administrative and the legal? And what does it mean for a practice to survive by living beneath\, beside\, and within a new order? \nThis lecture is part of the Obaid Siddiqi Lectures\, delivered annually by the Obaid Siddiqi Chair in the History and Culture of Science at the Archives at NCBS. \nImage Credit: Painted textile map of Gujarat (detail\, Champaner–Pavagadh). 18th century\, Baroda Museum and Picture Gallery\, Vadodara. Object no. GR 5631. \nIn collaboration with \n     \n\n\nThe 2026 Obaid Siddiqi Lectures\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScaQ3mw1oPOtuxrXuMMPMGnQl20mNM-lt8BLYw6wDtDHQmLng/viewform?usp=pp_url)\n*Speaker*: Samira Sheikh\n*Event Categories*: Design\, Heritage\, History\, Society
+URL:https://bangaloreinternationalcentre.org/event/secrets-and-lines-a-short-history-of-boundaries-in-india/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Design,Heritage,History,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/ThumbnailOS3.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260719T180000
+DTEND;TZID=Asia/Kolkata:20260719T200000
+DTSTAMP:20260715T033956
+CREATED:20260708T143407Z
+LAST-MODIFIED:20260714T143833Z
+UID:91147-1784484000-1784491200@bangaloreinternationalcentre.org
+SUMMARY:The Cosmic Space
+DESCRIPTION:We are cosmos\, and cosmos is us. \nThe panchabhutas\, the five elements\, are not only out there in the world; they live in us. Earth\, water\, fire\, air and space\, the same forces that shape mountains and rivers\, also hold our own bodies in balance. The four perceivable elements are first held within the fifth: the cosmos\, infinite\, and unmanifest. This is Shiva\, the cosmic space\, combined with the ever-changing energy of Shakti\, maintained by Vishnu himself. \nThrough live storytelling\, music and dance\, the performance traces the journey of these elements from the cosmic space to manifested forms\, followed by a short interaction with the audience. \nSupported by:\n \n\n\nSachidanandam Shivoham Shivoham — Music\, Dance\, Narration\nRSVPs closed. Thank you for your interest.\n*Artists*: R Vasudevan\, Anand Viswanathan\, Advaith Rishikesh\, Vanshika Sai Ramadurgam\, Sruthi Vasudevan\, Bharat Athreya\, Namish\, Sankeerth\n*Event Categories*: Dance\, Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/the-cosmic-space/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Dance,Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnailcosmic.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260723T190000
+DTEND;TZID=Asia/Kolkata:20260723T203000
+DTSTAMP:20260715T033956
+CREATED:20260713T080749Z
+LAST-MODIFIED:20260713T100848Z
+UID:91289-1784833200-1784838600@bangaloreinternationalcentre.org
+SUMMARY:Love Language
+DESCRIPTION:For immigrants\, love is an indulgence. Bharatanatyam has long told stories of romance\, but Love Language asks a different question: how does the beloved heroine look when she is far from the home she knows? \nThe work pays homage to the Bharatanatyam repertoire\, drawing on stories of immigrant belonging to explore how people lean on one another after building new lives in an unfamiliar world: a shared meal\, a borrowed hobby\, another person’s version of home slowly becoming one’s own. \nBuilt on the varnam\, the Bharatanatyam and Carnatic framework long considered the form’s most demanding piece\, the performance carries a story arc as complicated as distance itself. Hereditary dancers in South India\, the form’s progenitors\, most often explored romantic love through the varnam. “Love Language” nods to that tradition while filling a gap rarely addressed within it: the search for love and commonality in a foreign land\, as Indian Americans. \nWhat can Bharatanatyam be\, in a context it was never built for? \nCredits:\nVocal: S Adityanarayanan\nViolin: TV Sukanya\nNattuvangam: Priya Murle\nMridangam: Sarvesh Karthik\nLights: Keerthi Kumar \nThis performance is supported by YoungArts Fellowship and produced by Shreya Nagarajan Singh Arts Development Consultancy (SNS). \nIn collaboration with: \n \nSupported by: \n \n\n\nThe Making of a Varnam\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfts2ADCfNH4-sIYsoHAP3bbZrFefUkJPhj0cclm8NiND7fIg/viewform?usp=publish-editor)\n*Performers*: Preethi Ramaprasad\n*Event Categories*: Dance\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/love-language/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Dance,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/ThumbnailLL.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260725T190000
+DTEND;TZID=Asia/Kolkata:20260725T210000
+DTSTAMP:20260715T033956
+CREATED:20260714T065443Z
+LAST-MODIFIED:20260714T065443Z
+UID:91260-1785006000-1785013200@bangaloreinternationalcentre.org
+SUMMARY:The Stories and Songs of Kumar Gandharva
+DESCRIPTION:A friend’s forgotten invitation\, the name of a railway station\, an afternoon spent watching a tree flower\, turned almost on the spot into a raag\, a poem\, a bandish. \nSettled in his home on the slopes of a hill in 1960s Dewas\, surrounded by the contented countryside of Malwa\, bandishes seemed to come to Kumar Gandharva all the time\, from everywhere at once. He composed at a pace he himself called a ‘queue system’ too large to hold back. \nScholar and vocalist Srijan Deshpande spends this evening inside that one decade\, moving between narration and live singing. He traces the strikingly different sources\, the inherited\, recovered\, invented\, and overheard\, that found their way through one musician’s voice. \n\nSupported by:\n\n\n\nCompositions from His Most Prolific Decade\nRSVPs will open Sun\, Jul 19 at 7pm.\n*Musicians*: Srijan Deshpande\, Gautam Tembhekar\, Bharath Hegde\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/the-stories-and-songs-of-kumar-gandharva/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_TSASOKG.jpg
+END:VEVENT
+END:VCALENDAR
