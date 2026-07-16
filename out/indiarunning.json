@@ -1,6 +1,56 @@
 [
   {
     "@type": "SportsEvent",
+    "name": "Mini Forest Run and Rave at JP Nagar - PaceX",
+    "url": "https://indiarunning.com/events/mini_forest_run_at_jp_nagar__pacex_66966",
+    "startDate": "2026-07-26T07:00:00+05:30",
+    "endDate": "2026-07-26T10:30:00+05:30",
+    "description": "Sunrise miles through the lush \nMini Forest stretch at JP Nagar\n, fresh air, tree-lined roads, and high-energy vibes.\nAnd we don\u2019t stop at the finish line. We roll straight into our signature \nCoffee Rave\n at \nURU BREW PARK\n \u2615\ud83c\udfb6 fresh brews, music, open dance floor, and full post-run celebration mode.\nRun hard. Sip slow. Rave louder. \ud83d\udd25",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/07/26/mini-forest-run-at-jp-nagar---pacex-2026/banner1784140732301",
+    "location": {
+      "@type": "Place",
+      "name": "3rd Phase",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "WH7X+HCW Sukhdev Park, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560078",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9139795,
+        "longitude": 77.5985736
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "FIT INDIA BENGALURU RUN 2026",
     "url": "https://indiarunning.com/events/fit_india_bengaluru_run_2026_51726",
     "startDate": "2026-08-23T05:00:00+05:30",
@@ -66,10 +116,10 @@
     "image": "https://race-registration-cdn.indiarunning.com/events/2026/08/23/green-blr-2.0-2026/banner1783787392750",
     "location": {
       "@type": "Place",
-      "name": "D' Souza Layout",
+      "name": "KG Halli",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "St Joseph Indian High School, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "streetAddress": "XHCW+72P, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bengaluru",
         "addressRegion": "Karnataka",
         "postalCode": "560001",
@@ -77,8 +127,8 @@
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.9704029,
-        "longitude": 77.5952527
+        "latitude": 12.9707186,
+        "longitude": 77.5950664
       }
     },
     "sport": "Running",
