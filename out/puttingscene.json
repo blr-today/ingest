@@ -116,6 +116,30 @@
   },
   {
     "@type": "Event",
+    "name": "Murder Mystery Weekend with Varun Gwalani",
+    "url": "https://puttingscene.com/events/5160",
+    "startDate": "2026-07-19T11:00:00+05:30",
+    "endDate": "2026-07-19T13:00:00+05:30",
+    "description": "A theatre-of-the-mind murder mystery from bestselling author Varun Gwalani, with character sheets, maps and one killer to unmask",
+    "image": "https://cdn.puttingscene.com/event_images/5160/428d20e7-f0e0-4bd2-88b5-1f9dd7c16c1a.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.google.com/?cid=1552028387341754792"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Regular ticket",
+        "price": "634.75",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 3
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "The Weekend Breakfast by Kinya Coffee | Slow Sunday Coffee Club x 403",
     "url": "https://puttingscene.com/events/5183",
     "startDate": "2026-07-19T11:00:00+05:30",
@@ -254,30 +278,6 @@
   },
   {
     "@type": "Event",
-    "name": "Little Folds of Pasta: A Guided Tagliatelle -Making Experience",
-    "url": "https://puttingscene.com/events/5137",
-    "startDate": "2026-07-19T14:30:00+05:30",
-    "endDate": "2026-07-19T16:00:00+05:30",
-    "description": "Make fresh tagliatelle from scratch by hand, then finish it in a classic butter garlic sauce or fresh basil pesto",
-    "image": "https://cdn.puttingscene.com/event_images/5137/70ecbdae-d125-43a1-b7ae-eeb165497a97.jpg",
-    "location": {
-      "name": "Foodstories, Bangalore",
-      "address": "Foodstories, Bangalore, Bangalore",
-      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "General",
-        "price": "904.76",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "The Analog Club: Monsoon Edition",
     "url": "https://puttingscene.com/events/5144",
     "startDate": "2026-07-19T15:00:00+05:30",
@@ -296,31 +296,7 @@
         "price": "750.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 19
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Murder Mystery Weekend with Varun Gwalani",
-    "url": "https://puttingscene.com/events/5160",
-    "startDate": "2026-07-19T15:00:00+05:30",
-    "endDate": "2026-07-19T17:00:00+05:30",
-    "description": "A theatre-of-the-mind murder mystery from bestselling author Varun Gwalani, with character sheets, maps and one killer to unmask",
-    "image": "https://cdn.puttingscene.com/event_images/5160/428d20e7-f0e0-4bd2-88b5-1f9dd7c16c1a.jpg",
-    "location": {
-      "name": "Underline Center",
-      "address": "Underline Center, ",
-      "url": "https://maps.google.com/?cid=1552028387341754792"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Regular ticket",
-        "price": "634.75",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
+        "remainingAttendeeCapacity": 17
       }
     ]
   },
@@ -374,7 +350,7 @@
         "price": "750.48",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 8
+        "remainingAttendeeCapacity": 6
       }
     ]
   },
@@ -576,7 +552,7 @@
         "price": "999.05",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 35
+        "remainingAttendeeCapacity": 33
       }
     ]
   },
@@ -852,7 +828,7 @@
         "price": "508.47",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 98
+        "remainingAttendeeCapacity": 97
       }
     ]
   }
