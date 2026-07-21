@@ -107,7 +107,7 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-08-01T02:50:00.000+05:30",
+      "endDate": "2026-08-01T03:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -136,13 +136,13 @@
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Midnight Screening of Possession (1981) with Cinema Next Door",
       "sameAs": "https://underline.center/t/989",
-      "startDate": "2026-07-31T23:50:00.000+05:30",
-      "url": "tba"
+      "startDate": "2026-07-31T23:45:00.000+05:30",
+      "url": "https://www.district.in/midnight-screening-of-possession-1981-with-cinema-next-door-jul31-2026/event"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-07-31T23:00:00.000+05:30",
+      "endDate": "2026-07-31T22:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -171,8 +171,8 @@
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Bollywood Quiz with Calm Your Wits",
       "sameAs": "https://underline.center/t/987",
-      "startDate": "2026-07-31T21:00:00.000+05:30",
-      "url": "tba"
+      "startDate": "2026-07-31T20:00:00.000+05:30",
+      "url": "https://district.in/bollywood-quiz-with-calm-your-wits-jul31-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -485,6 +485,41 @@
       "sameAs": "https://underline.center/t/823",
       "startDate": "2026-07-24T21:00:00.000+05:30",
       "url": "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-07-24T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Creative Bloc Party Open Mic by Harsh Shah",
+      "sameAs": "https://underline.center/t/888",
+      "startDate": "2026-07-24T20:30:00.000+05:30",
+      "url": "https://district.in/creative-bloc-party-open-mic-by-harsh-shah-may3-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -1039,41 +1074,6 @@
       "sameAs": "https://underline.center/t/971",
       "startDate": "2026-07-13T19:00:00.000+05:30",
       "url": "https://district.in/munnudi-kannada-basic-spoken-kannada-classes-with-pradeep-khaadri-jul13-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-07-12T20:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Creative Bloc Party Open Mic by Harsh Shah",
-      "sameAs": "https://underline.center/t/888",
-      "startDate": "2026-07-12T18:00:00.000+05:30",
-      "url": "https://district.in/creative-bloc-party-open-mic-by-harsh-shah-may3-2026/event"
    },
    {
       "@context": "https://schema.org",
