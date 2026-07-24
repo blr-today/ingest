@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Patrice Baumel @ Mirage Bangalore",
+      "endDate": "2026-08-14T23:59:00",
+      "identifier": "com.skillboxes.38673",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1784893707GziGuumdDWPHz5RS.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, 1 Sobha, Sobha Mall, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9753013",
+            "longitude": "77.60249449999999"
+         },
+         "name": "Mirage"
+      },
+      "name": "Patrice Baumel @ Mirage Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Phase 1 Pass",
+            "url": "https://www.skillboxes.com/events/ticket/patrice-baumel-mirage-bangalore-sbeyipnf"
+         }
+      ],
+      "startDate": "2026-08-14T20:00:00",
+      "url": "https://www.skillboxes.com/events/patrice-baumel-mirage-bangalore-sbeyipnf"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "What happens when we stop chasing perfection?In an age where algorithms can generate music, polish performances, and erase every flaw, Comfortably Dumb is a quiet act of resistance. It ce",
       "endDate": "2026-09-05T23:59:00",
       "identifier": "com.skillboxes.38654",
@@ -142,7 +176,7 @@
       "endDate": "2026-08-16T23:59:00",
       "identifier": "com.skillboxes.38522",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZkNxa1ZhVzFlMW9pMnYzcDJ4TlRYdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1784469500nQ0d7Qa8KRFOQ68v.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Music Festivals"
       ],
@@ -157,15 +191,7 @@
          "name": "Fandom at Gilly's Redefined"
       },
       "name": "Metallica Tribute Night By Sceptr3",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 500,
-            "name": "General Pass",
-            "url": "https://www.skillboxes.com/events/ticket/metallica-tribute-night-by-sceptr3-sbsfxibm"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-08-16T20:00:00",
       "url": "https://www.skillboxes.com/events/metallica-tribute-night-by-sceptr3-sbsfxibm"
    },
@@ -196,7 +222,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free entry until 9:30 PM. Additional entry of INR 299 + Cover of INR 1000 is applicable at the gates post 9:30 PM.\n",
-            "inventoryLevel": 930,
+            "inventoryLevel": 881,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/n-a-sbzwvzwy"
          }
@@ -495,7 +521,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry to one person only.\n- ⁠Mandatory cover charges of 1000 per person applicable till 9PM. ⁠Cover charges may increase post 9PM.",
-            "inventoryLevel": 12,
+            "inventoryLevel": 8,
             "name": "Phase 1 GA Single Entry Pass",
             "url": "https://www.skillboxes.com/events/ticket/parvaaz-live-at-dnd-the-venue-sbflchjb"
          },
@@ -503,7 +529,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry to one male and one female only.\n- Mandatory cover charges of 1000 per person applicable till 9PM. Cover charges may increase post 9PM",
-            "inventoryLevel": 9,
+            "inventoryLevel": 5,
             "name": "Early Bird GA Couple Entry Pass",
             "url": "https://www.skillboxes.com/events/ticket/parvaaz-live-at-dnd-the-venue-sbflchjb"
          },
@@ -554,14 +580,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "(Please carry a valid college ID card for venue entry verification)\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 994,
             "name": "Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/primordium-vol-2-sberkfse"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 991,
+            "inventoryLevel": 987,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/primordium-vol-2-sberkfse"
          },
@@ -718,7 +744,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover of 1000 applicable at the gates, fully redeemable on FnB\n",
-            "inventoryLevel": 88,
+            "inventoryLevel": 84,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-9-pacifist-rascals-of-the-first-order-simplemanradio-sbaoeihd"
          },
@@ -827,7 +853,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 230,
+            "inventoryLevel": 227,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/krsnanubhavam-acharya-anugraham-sbwkykwc"
          }
