@@ -168,10 +168,45 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Magic: The Gathering with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/161",
+      "name": "Secrets of Strixhaven - Magic: The Gathering with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/992",
       "startDate": "2026-08-01T18:00:00.000+05:30",
       "url": "https://www.district.in/magic-the-gathering-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-08-01T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Weekend Games with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/664",
+      "startDate": "2026-08-01T18:00:00.000+05:30",
+      "url": "https://www.district.in/weekend-games-with-reroll/event"
    },
    {
       "@context": "https://schema.org",
@@ -587,10 +622,10 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Weekend Games with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/664",
+      "name": "Magic: The Gathering with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/161",
       "startDate": "2026-07-25T18:00:00.000+05:30",
-      "url": "https://www.district.in/weekend-games-with-reroll/event"
+      "url": "https://www.district.in/magic-the-gathering-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
@@ -6932,40 +6967,5 @@
       "sameAs": "https://underline.center/t/696",
       "startDate": "2025-11-01T19:00:00.000+05:30",
       "url": "https://district.in/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-11-01T17:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "IndieWebClub #13 with Ankur and Tanvi",
-      "sameAs": "https://underline.center/t/719",
-      "startDate": "2025-11-01T14:00:00.000+05:30",
-      "url": "https://district.in/indiewebclub-meetup/event"
    }
 ]
