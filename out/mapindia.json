@@ -1,6 +1,27 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "1364@map-india.org",
+    "name": "Bakarmax: The Art of Studied Irreverence",
+    "startDate": "2026-08-08T11:00:00+05:30",
+    "endDate": "2026-08-08T13:00:00+05:30",
+    "description": "What appears effortless in cartooning is often the product of careful observation, formal restraint, and a deliberate irreverence toward the familiar. This workshop examines comics not merely as illustration, but as a visual language capable of distilling complex ideas into deceptively simple forms.\n\nThrough a combination of conversation, drawing exercises, and storytelling, participants will explore how humour, sequence, and composition shape meaning on the page. Drawing from his practice as the founder of Bakarmax, Sumit Kumar reflects on cartooning as a discipline of looking closely, questioning conventions, and finding the extraordinary within the everyday.\n\nNo prior drawing experience is required\u2014only curiosity, attention, and a willingness to embrace imperfect lines.\n\nThis event is part of our public programming for the exhibition A Moving Line: 1500 Years of Indian Vidual Storytelling",
+    "url": "https://map-india.org/map-events/bakarmax-the-art-of-studied-irreverence/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "HDFC Ltd Learning Centre, HDFC Ltd Learning Centre, Lower Ground Floor, MAP, Bengaluru, India"
+    },
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/08/IMG_2390-scaled.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "1358@map-india.org",
     "name": "Between the Looms - The Hands that Time Unearthed",
