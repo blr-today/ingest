@@ -37,6 +37,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-09-02T22:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Whimsical Wednesday with Improv Lore",
+      "sameAs": "https://underline.center/t/19",
+      "startDate": "2026-09-02T20:00:00.000+05:30",
+      "url": "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-08-26T18:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -421,6 +456,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-08-12T22:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "After Hours with Eleven AM Club",
+      "sameAs": "https://underline.center/t/700",
+      "startDate": "2026-08-12T19:00:00.000+05:30",
+      "url": "https://district.in/after-hours-with-eleven-am-club/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-08-11T22:30:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -766,76 +836,6 @@
       "sameAs": "https://underline.center/t/17",
       "startDate": "2026-08-06T19:00:00.000+05:30",
       "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-05T22:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Whimsical Wednesday with Improv Lore",
-      "sameAs": "https://underline.center/t/19",
-      "startDate": "2026-08-05T20:00:00.000+05:30",
-      "url": "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-05T22:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "After Hours with Eleven AM Club",
-      "sameAs": "https://underline.center/t/700",
-      "startDate": "2026-08-05T19:00:00.000+05:30",
-      "url": "https://district.in/after-hours-with-eleven-am-club/event"
    },
    {
       "@context": "https://schema.org",
