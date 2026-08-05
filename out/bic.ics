@@ -1,151 +1,163 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <script>
-      (function(){
-          setTimeout(function(){
-              window.location.reload();
-          }, 5000);
-      }())
-  </script>
-  <link rel="icon" href="data:,">
-  <title>One moment, please...</title>
-  <style>
-.spinner {
-    -webkit-animation: spin 1s ease-out;
-    animation: spin 1s ease-out;
-}
-@keyframes spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -ms-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(360deg);
-        -moz-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-        -o-transform: rotate(360deg);
-        transform: rotate(360deg);
-    }
-}
-#outer-container {
-    text-align: center;
-}
-#container {
-        display: inline-block;
-        height: 100px;
-    }
-#text {
-    float: left;
-    height: 100px;
-    line-height: 100px;
-    font-size: 3rem;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    padding: 0 .4em 0 .2em;
-    letter-spacing: 0.06em;
-    color: rgba(38, 122, 72, 0.86);
-}
-@media (min-height: 180px) {
-    #outer-container {
-        margin-top: 0;
-    }
-}
-@media (min-height: 360px) {
-    #outer-container {
-        margin-top: 5%;
-    }
-}
-@media (min-height: 540px) {
-    #outer-container {
-        margin-top: 10%;
-    }
-}
-@media (min-height: 720px) {
-    #outer-container {
-        margin-top: 20%;
-    }
-}
-@media (min-width: 1450px) {
-    .throbber {
-        width: 90px;
-        height: 90px;
-        float: left;
-        padding: 5px 0 5px 5px;
-        opacity: 0.86;
-    }
-    #container {
-        display: inline-block;
-        border: 3px solid rgb(38, 122, 72, 0.86);
-        border-radius: 51px;
-        height: 100px;
-    }
-}
-
-  </style>
-</head>
-<body>
-  <div id="outer-container">
-    <div id="container">
-<div class="throbber">
-    <svg class="spinner" width="90px" height="90px" viewBox="0 0 47 47"
-         version="1.1"
-         xmlns="http://www.w3.org/2000/svg"
-         xmlns:xlink="http://www.w3.org/1999/xlink">
-        <title>Loader</title>
-        <defs>
-            <polygon id="path-1"
-                     points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
-        </defs>
-        <g id="Page-1" stroke="none" stroke-width="1" fill="none"
-           fill-rule="evenodd">
-            <g id="Logo" transform="translate(-5.000000, -2.000000)">
-                <g id="Group-2" transform="translate(5.000000, 2.000000)">
-                    <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z"
-                          id="Fill-1" fill="#467C45"></path>
-                    <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585"
-                          id="Fill-3" fill="#467C45"></path>
-                    <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049"
-                          id="Fill-5" fill="#467C45"></path>
-                    <g id="Group-9"
-                       transform="translate(0.000000, 11.919659)">
-                        <mask id="mask-2" fill="white">
-                            <use xlink:href="#path-1"></use>
-                        </mask>
-                        <g id="Clip-8"></g>
-                        <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146"
-                              id="Fill-7" fill="#467C45"
-                              mask="url(#mask-2)"></path>
-                    </g>
-                    <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049"
-                          id="Fill-10" fill="#467C45"></path>
-                    <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207"
-                          id="Fill-12" fill="#467C45"></path>
-                    <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555"
-                          id="Fill-14" fill="#467C45"></path>
-                    <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488"
-                          id="Fill-16" fill="#467C45"></path>
-                </g>
-            </g>
-        </g>
-    </svg>
-</div>
-      <div id="text">
-        Please wait while your request is being verified...
-      </div>
-    </div>
-  </div>
-  <div id="xfrg9gkjvxzx"></div>
-  <script>
-var a0J=a0L;function a0j(){var r=['userAgent','name','test','stener','addEventLi','ne;','apply','search','value','3110Xieold','cttl','Loaded','3758634qKRhpN','input','7fa3b767c4','appVersion','getElement','appendChil','ent','DOMContent','42WLchIu','open','hidden','ById','map','0950635027','93063aXjOGW','document','mimeTypes','type','prototype','99SOxwWg','createElem','constructo','attachEven','display:no','outerWidth','toString','21668340CgTfAa','__proto__','GET','d49030b349','style','form','outerHeigh','657603AnGYKS','60b54a2be4','method','language','1b41b08f12','languages','(((.+)+)+)','entries','append','navigator','filter','7576Oeitfx','10915289bPYhPu','plugins','1149488gVpWAk','length'];a0j=function(){return r;};return a0j();}(function(O,B){var a0v={O:0x125,B:0x14f,j:0x130,L:0x133},X=a0L,j=O();while(!![]){try{var L=parseInt(X(a0v.O))/0x1+-parseInt(X(0x149))/0x2*(-parseInt(X(a0v.B))/0x3)+parseInt(X(a0v.j))/0x4*(parseInt(X(0x13e))/0x5)+parseInt(X(0x141))/0x6+parseInt(X(0x131))/0x7+parseInt(X(a0v.L))/0x8*(-parseInt(X(0x154))/0x9)+-parseInt(X(0x11e))/0xa;if(L===B)break;else j['push'](j['shift']());}catch(f){j['push'](j['shift']());}}}(a0j,0xe1f3a));function a0L(O,B){var j=a0j();return a0L=function(L,f){L=L-0x11e;var s=j[L];return s;},a0L(O,B);}var a0f=window[a0J(0x12e)],a0s={'webdriverCheck':function(){return'webdriver'in window||!!a0f['webdriver'];},'userAgentCheck':function(){var a0E={O:0x137,B:0x135},n=a0J;return/headless|bytespider/i[n(a0E.O)](a0f[n(a0E.B)]);},'appVersionCheck':function(){var K=a0J;return/headless/i['test'](a0f[K(0x144)]);},'pluginArraySpoofing':function(){var a0T={O:0x132,B:0x11f},i=a0J;let O=PluginArray[i(0x153)]===a0f['plugins'][i(0x11f)];if(a0f[i(0x132)][i(0x134)]>0x0)O&=Plugin[i(0x153)]===a0f[i(a0T.O)][0x0][i(a0T.B)];return!O;},'mimeTypeArraySpoofing':function(){var a0R={O:0x134,B:0x151,j:0x11f},M=a0J;let O=MimeTypeArray[M(0x153)]===a0f[M(0x151)][M(0x11f)];if(a0f[M(0x151)][M(a0R.O)]>0x0)O&=MimeType[M(0x153)]===a0f[M(a0R.B)][0x0][M(a0R.j)];return!O;},'noLanguage':function(){var a0P={O:0x128,B:0x12a,j:0x134},u=a0J;return!a0f[u(a0P.O)]||a0f[u(a0P.B)][u(a0P.j)]===0x0;},'zeroOuterDimensions':function(){var a0p={O:0x124},l=a0J;return window[l(a0p.O)+'t']===0x0&&window[l(0x159)]===0x0;}},a0g=function(j,L){var a0A={O:0x139,B:0x138,j:0x139,L:0x138,f:0x148,s:0x140,g:0x150,x:0x157},a0N={O:0x15a,B:0x13c,j:0x12b},F=a0J,f=(function(){var g=!![];return function(x,d){var e=g?function(){var o=a0L;if(d){var c=d[o(0x13b)](x,arguments);return d=null,c;}}:function(){};return g=![],e;};}()),s=f(this,function(){var I=a0L;return s[I(a0N.O)]()[I(a0N.B)](I(0x12b)+'+$')[I(a0N.O)]()[I(0x156)+'r'](s)[I(0x13c)](I(a0N.j)+'+$');});s(),window[F(a0A.O)+F(a0A.B)]?window[F(0x150)][F(a0A.j)+F(a0A.L)](F(a0A.f)+F(a0A.s),j,L):window[F(a0A.g)][F(a0A.x)+'t']('onreadysta'+'techange',j);};a0g(function(){var a0V={O:0x145,B:0x14c,j:0x123,L:0x150,f:0x155,s:0x155,g:0x147,x:0x150,d:0x142,e:0x12f,c:0x12d,b:0x12d,q:0x120,w:0x13a,Y:0x127,G:0x13d,k:0x143,W:0x121,Q:0x136,z:0x152,Z:0x13d,J:0x14b,v:0x13d,a:0x146};setTimeout(function(){var C=a0L,O=window['document'][C(a0V.O)+C(a0V.B)]('xfrg9gkjvxzx'),B=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+![])+(+!+[]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![])),j=window['document']['createElem'+'ent'](C(a0V.j)),L=window[C(a0V.L)][C(a0V.f)+C(0x147)]('input'),f=window['document'][C(a0V.s)+C(a0V.g)]('input'),s=window[C(a0V.x)][C(0x155)+C(0x147)](C(0x142)),g=window['document'][C(0x155)+C(0x147)](C(a0V.d)),x=window[C(0x150)][C(a0V.f)+C(0x147)]('input'),d=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![])),e='wsidchk',c='pdata',b='https%3A%2F%2Fbangaloreinternationalcentre.org%2Fevents%2F%3Fical%3D1',q='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',w='failedChecks',Y=Object[C(0x12c)](a0s)[C(0x14d)](([Q,z])=>{try{return z()?Q:null;}catch(Z){return null;}})[C(a0V.e)](Q=>Q!==null),G=Y['length']>0x0;if(G){var k=new URLSearchParams();k[C(a0V.c)]('id','a6105c0a61'+C(0x129)+C(0x14e)+'9e'),k['append']('ts','1785920923'),k[C(0x12d)](e,B+d),k['append'](c,b),k[C(a0V.b)]('cttl','0'),Y['forEach'](Q=>k[C(0x12d)](w,Q));var W=new XMLHttpRequest();W[C(0x14a)](C(a0V.q),q+'?'+k['toString']()),W['send'](null);}else j['id']='xfrg9gkjvxzx',j[C(0x122)]=C(0x158)+C(a0V.w),j[C(a0V.Y)]=C(0x120),j['action']=q,L['id']='quwbvowf61bc',L['name']=e,L['value']=B+d,L['type']=C(0x14b),s[C(0x136)]='id',s[C(a0V.G)]=C(a0V.k)+C(0x126)+C(a0V.W)+'c7',s['type']='hidden',g[C(a0V.Q)]='ts',g[C(0x13d)]='1785920923',g[C(a0V.z)]=C(0x14b),f['id']='zmkztwj9fqqf',f[C(0x136)]=c,f[C(a0V.Z)]=b,f[C(0x152)]=C(a0V.J),x['name']=C(0x13f),x[C(a0V.v)]='0',x[C(0x152)]=C(a0V.J),j[C(a0V.a)+'d'](L),j[C(0x146)+'d'](f),j['appendChil'+'d'](s),j['appendChil'+'d'](g),j['appendChil'+'d'](x),O['appendChil'+'d'](j),j['submit']();},0x3e8);},![]);
-  </script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"3d6ea15f2a154a159b46de3d81d428d2","r":1}' crossorigin="anonymous"></script>
-</body>
-</html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bangalore International Centre - ECPv4.8.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bangalore International Centre
+X-ORIGINAL-URL:https://bangaloreinternationalcentre.org
+X-WR-CALDESC:Events for Bangalore International Centre
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260806T183000
+DTEND;TZID=Asia/Kolkata:20260806T200000
+DTSTAMP:20260805T143622
+CREATED:20260728T082758Z
+LAST-MODIFIED:20260804T073216Z
+UID:92234-1786041000-1786046400@bangaloreinternationalcentre.org
+SUMMARY:Lies\, Likes and LLMs
+DESCRIPTION:In a world where information travels faster than ever\, why is trust in facts\, experts\, and institutions collapsing? Vikas Swarup presents a lecture on the crisis of truth in the digital age. \nSocial media platforms reward content that attracts attention rather than accuracy\, while artificial intelligence can now generate persuasive text\, images\, audio\, and video at unprecedented scale. Swarup examines the technological\, psychological\, and societal forces driving this crisis\, its implications for democracy and social cohesion\, and the urgent need to foster critical thinking and digital literacy — including the role institutions like Azim Premji University can play in nurturing informed\, questioning\, and ethically grounded citizens. \nThis lecture is a part of Azim Premji University’s Public Lecture Series. \nPresented by: \n \nVenue: Seminar Halls\n\n\nSocial Media\, Artificial Intelligence and the Crisis of Truth\nRSVPs closed. Thank you for your interest.\n*Speaker*: Vikas Swarup\n*Event Categories*: Media\, Politics\, Society\, Technology
+URL:https://bangaloreinternationalcentre.org/event/lies-likes-and-llms/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Media,Politics,Society,Technology
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail-8.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260806T190000
+DTEND;TZID=Asia/Kolkata:20260806T203000
+DTSTAMP:20260805T143622
+CREATED:20260729T181153Z
+LAST-MODIFIED:20260731T154511Z
+UID:92162-1786042800-1786048200@bangaloreinternationalcentre.org
+SUMMARY:Journeys of Faith
+DESCRIPTION:One click and your stove is on. Is the mundane routine of preparing food far removed from the sacred practices of ritual cooking? \nNirupama Vaidhyanathan’s dance theatre production is a page-to-stage adaptation of Shoba Narayan’s book\, Food and Faith. The production involves theatrical storytelling and dance segments\, tracing the fascinating history and legends associated with sacred foods across India. \nSacred spaces nurtured culinary traditions in the most unique way. In Amritsar\, at the Golden Temple\, serving in the langar\, the free kitchen\, is itself considered worship. What impact do monsoon rains have on the fasting traditions of priests in Udupi? How do medicinal herbs found in the hills around Palani influence the jam-like panchamritham that the temple is famous for? In Puri\, when the cooks say a prayer to the Sun God and the Fire God before cooking\, what is the ritualistic practice that they celebrate? In Kottarakkara\, Kerala\, how do unni appams tie the present to kings from the past? \nSupported by: \n \nVenue: Auditorium\n  \n\n\nA Bharatanatyam Performance Based on the Book\, Food & Faith\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSc3ZRZbYKvYNCIkKrk7nGKCZDesLsQTyHIogES6NQUoFqNVOQ/viewform?usp=publish-editor)\n*Artists*: Shoba Narayan\, Nirupama Vaidhyanathan\n*Event Categories*: Dance\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/journeys-of-faith/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Dance,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail-4-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260807T183000
+DTEND;TZID=Asia/Kolkata:20260807T200000
+DTSTAMP:20260805T143622
+CREATED:20260730T134023Z
+LAST-MODIFIED:20260804T112418Z
+UID:92356-1786127400-1786132800@bangaloreinternationalcentre.org
+SUMMARY:TV News: Is This the End of the Road?
+DESCRIPTION:Is TV news at the end of its journey\, or on the cusp of reinvention? \nThis evening journalist and author Maya Sharma launches her new book\, Good News\, Bad News\, followed by a wide-ranging conversation with journalists Sharda Ugra and Dhanya Rajendran. Together\, they will reflect on the forces that have reshaped the newsroom from the 24-hour news cycle\, and the race for ratings\, to the influence of social media\, political polarization\, and the evolving expectations of audiences. \nA Q&A session will follow. \nVenue: Seminar Halls\n\n\nEthics\, Politics and Challenges Shaping Broadcast Journalism\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScmeziBKVJpUnsRZrTALNRyDk9gTibGAv4ATVwRX9YAW5zqeg/viewform?usp=publish-editor)\n*Speakers*: Maya Sharma\, Rajeev Gowda\, Dhanya Rajendran\, Sharda Ugra\n*Event Categories*: Books\, Media
+URL:https://bangaloreinternationalcentre.org/event/tv-news-is-this-the-end-of-the-road/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Media
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_GNBD.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260807T183000
+DTEND;TZID=Asia/Kolkata:20260807T200000
+DTSTAMP:20260805T143622
+CREATED:20260728T063910Z
+LAST-MODIFIED:20260728T063910Z
+UID:92243-1786127400-1786132800@bangaloreinternationalcentre.org
+SUMMARY:Hounderayana Valaga
+DESCRIPTION:A king’s name kept alive in a chorus\, a coconut flower tied at the waist\, this is a tradition few outsiders have ever seen. Shri Vijendra and troupe bring Hounderayana Valaga\, one of Coastal Karnataka’s rarest ritual performance traditions\, to the stage in a lecture-demonstration including the oral history\, and the full performance. \nPreserved today by only a handful of communities\, the tradition carries the memory of King Houndarasa of Barkur and surfaces at specific\, ritual moments during Karthika month\, at Tulasi Pooja\, and community vows (harake). Scholars have linked the music and movement to royal heritage\, Varuna worship\, and the nuanced coastal cultural practices. The evening explores the tradition’s six Sandhis\, the costume — white dhoti\, turban\, ankle bells\, coconut flower at the waist — and the recurring refrain\, “Hounderayana Valaga\, Houndeya Govinda.” \nAudience members are invited to learn and sing the signature chorus at the close of the session\, joining in the communal essence the tradition is built on. A Q&A with the artists follows the performance\, opening into a wider conversation on preserving an endangered oral tradition and how it is passed down across generations. \nThis performance is the eighth edition of the BIC Jaanapada series. \nBIC Jaanapada is a series\, programmed every two months\, celebrating Karnataka’s folk traditions through the lens of regional identity and cultural preservation. Curated in collaboration with Tvarita Arts Collective India\, the program combines scholarly discourse with live performances to explore the deep connections between geography and artistic expression. Through demonstrations\, performances\, and academic discussions\, each session examines how landscape and local culture have shaped these distinct artistic practices. \nIn collaboration with: \n \nVenue: Auditorium\n\n\nThe King\, the Vow\, and the Song of the Coast\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfv_BnyBt9TwA7gqR0nrr6AYud-Wd9PEb2FA6nkXQMcHasj-w/viewform?usp=pp_url)\n*Performers*: Gurumaruti Hounderayana Janapada Nritya Tanda\n*Event Categories*: Culture\, Faith\, Heritage\, Performing Arts\, Society\, Theatre
+URL:https://bangaloreinternationalcentre.org/event/hounderayana-valaga/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Culture,Faith,Heritage,Performing Arts,Society,Theatre
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_HV1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260808T110000
+DTEND;TZID=Asia/Kolkata:20260808T130000
+DTSTAMP:20260805T143622
+CREATED:20260731T162612Z
+LAST-MODIFIED:20260731T173613Z
+UID:92398-1786186800-1786194000@bangaloreinternationalcentre.org
+SUMMARY:From Indus to Exile
+DESCRIPTION:What happens to a spiritual practice when politics pulls the community apart? \nAmardeep Singh presents a talk on the Sindhi Nanak Panthi tradition\, with an introduction by Aruna Madnani\, founder and Managing Trustee of the Sindhi Cultural Foundation\, and a discussion with Chiranjeev Singh. The session also includes a book launch with Jitu Virwani. \nAcross the lower Indus basin\, a syncretic culture shaped by Guru Nanak’s teachings once transcended faith\, language\, and geography. In Sindh and Balochistan\, communities identifying as Nanak-Panthis worshipped at Darbars and gurdwaras where the Guru Granth Sahib stood alongside other sacred texts. Partition\, migration\, and reform movements fractured this fluid identity\, leaving it preserved only in fragments — memories\, shrines\, scattered communities. Drawing on field research from Lost Heritage: The Sikh Legacy in Pakistan\, The Quest Continues: Lost Heritage\, and the docuseries Allegory\, this session reconstructs that layered story. \nTea and snacks will be served from 10:15 AM. \nIn collaboration with : \n     \nVenue: Auditorium\n\n\nAn Exploration of Sindhi Nanak Panthis\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfl_I15An8bje9jVK73YmKw_W8ZTjGecRo4GDB7eN5zG6aaog/viewform?usp=publish-editor)\n*Speakers*: Amardeep Singh\, Chiranjiv Singh\, Aruna Madnani\n*Event Categories*: Heritage\, History
+URL:https://bangaloreinternationalcentre.org/event/from-indus-to-exile/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Heritage,History
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail-9.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260809T113000
+DTEND;TZID=Asia/Kolkata:20260809T130000
+DTSTAMP:20260805T143622
+CREATED:20260731T110552Z
+LAST-MODIFIED:20260804T065312Z
+UID:92438-1786275000-1786280400@bangaloreinternationalcentre.org
+SUMMARY:Shruti Samvaad
+DESCRIPTION:A morning of swar and naad\, where sound becomes a dialogue between artist and audience. \nDr. Shruti Jauhari\, distinguished Hindustani classical vocalist\, scholar\, and educator\, leads this musical performance\, accompanied by Ajay Kulkarni on tabla and Tejas Katoti on harmonium. Beginning with the slow and improvisational Khayal\, they move into Thumri\, its lighter\, more expressive counterpart centred in romance and devotion. The performance is an invitation to share in the rich experience of these musical traditions. The session closes with a samvaad\, an interactive session between the audience and the artists. \nSupported by: \n \nVenue: Auditorium\n\n\nA Hindustani Recital of Morning Ragas\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdNrDaVYO-hkMvbE5iylTXEYmZQoj7j3tWUVVNM5VdcDLc6Ng/viewform?usp=publish-editor)\n*Performers*: Shruti Jauhari \, Ajay Kulkarni\, Tejas Katoti\n*Event Categories*: Music\, Performing Arts
+URL:https://bangaloreinternationalcentre.org/event/shruti-samvaad/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_SS1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260809T113000
+DTEND;TZID=Asia/Kolkata:20260809T130000
+DTSTAMP:20260805T143622
+CREATED:20260802T061702Z
+LAST-MODIFIED:20260803T043251Z
+UID:92655-1786275000-1786280400@bangaloreinternationalcentre.org
+SUMMARY:Thinking Ecologically about Our Common Future
+DESCRIPTION:Can we protect\, restore\, and create ecosystems faster than we are building over them? \nHarini Nagendra\, ecologist and author\, returns to BIC nearly two decades after her 2009 talk here\, to ask the same question in a city transformed. \nIn 2009\, Nagendra warned that climate change and urbanization together would overwhelm old\, top-down models of conservation. Today\,  protected-area-focused thinking is inadequate for the crisis facing Indian cities. In Bangalore specifically\, the starkest change has been the devastation of peri-urban ecology\, alongside deepening social inequality and a widening disconnect between people and nature in the city. \nThis talk is part of a series marking twenty years of BIC\, in which speakers and artists from the institution’s early years return to revisit the topics they first addressed. Each session traces what has changed\, what has endured\, and what to make of the same topics two decades on. \nVenue: Seminar Halls\n\n\nTwenty Years On: Revisiting Voices from BIC’s Founding Years\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdMvBC4ZgMniYpBPiP-Ip2hEozKhRZIi_U0zm--h2ZvmZnbeQ/viewform?usp=pp_url)\n*Speaker*: Harini Nagendra\, Sukanya Basu\n*Event Categories*: Climate Change\, Environment\, Sustainability
+URL:https://bangaloreinternationalcentre.org/event/thinking-ecologically-about-our-common-future/
+LOCATION:7\, 4th Main Road\, Domlur II Stage\, Bengaluru\, Karnataka\, 560 071\, India
+CATEGORIES:Climate Change,Environment,Sustainability
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_TEAOCF.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260809T173000
+DTEND;TZID=Asia/Kolkata:20260809T190000
+DTSTAMP:20260805T143622
+CREATED:20260731T103042Z
+LAST-MODIFIED:20260731T154813Z
+UID:92369-1786296600-1786302000@bangaloreinternationalcentre.org
+SUMMARY:Through the Adivasi Gaze
+DESCRIPTION: Aabua Paika Kabu Bageya: We Won’t Let Go of Our Paika! | 26 mins |  Mundari | 2017 | India \nThis film screening and panel discussion explores the critical role of self-representation in reclaiming cultural identity. What changes when Adivasi culture is conveyed by Adivasis themselves\, rather than through an outside lens? \nThe program opens with a screening of the documentary Aabua Paika Kabu Bageya: We Won’t Let Go of Our Paika!\, centring on Paika\, a traditional Munda martial art dance form that serves as a living archive of historical struggle\, triumph\, and resilience. A panel discussion follows\, marking a fundamental shift in perspective: moving away from the historic\, colonial lens to honour the Adivasi gaze. Tribal culture\, the panel argues\, is not a static object to be documented by outsiders or kept in museums\, but a dynamic\, living identity best understood through narratives produced directly by members of the community themselves. The event concludes with an audience Q&A. \nIn collaboration with: \n \nVenue: Seminar Hall\n\n\nShifting From External Archives to Adivasi-Led Storytelling\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeE7Y1eH_Hgom8_0M8Qk_sbQsQxbmRKnKZA_jFuS6EDRwzdhA/viewform?usp=publish-editor)\n*Speakers*: Sneha Mundari\, Nandini Tank\n*Event Categories*: Film
+URL:https://bangaloreinternationalcentre.org/event/through-the-adivasi-gaze/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Film
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_TTAG.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260812T183000
+DTEND;TZID=Asia/Kolkata:20260812T200000
+DTSTAMP:20260805T143622
+CREATED:20260804T142758Z
+LAST-MODIFIED:20260804T143132Z
+UID:92550-1786559400-1786564800@bangaloreinternationalcentre.org
+SUMMARY:The Trembling Tiber
+DESCRIPTION:A contemporary voice echoes with Shakespeare’s language; a dialogue across four centuries. \nNeal Hall reads from The Trembling Tiber\, his award-winning poetry collection that enters into a conversation with Shakespeare’s Julius Caesar. The reading is followed by a discussion with Arul Mani\, and an audience Q&A. \nThe collection emerged during Hall’s residency as an Artist-in-Residence at the American Academy in Rome\, after he was stopped at gunpoint by Italian Special Forces while walking through an all-white area of the city on the Ides of March. That convergence of place\, history\, and date became the catalyst for this work\, which is not an adaptation of Julius Caesar but a conversation with it\, in which the past speaks to the present and the present answers back. \nVenue: Seminar Halls\n\n\nA Contemporary Conversation with Shakespeare\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfOhL-OLEz7B6k24PUnZU9mDYynsddOmf3VTRJc0nhf4vLtDg/viewform?usp=pp_url)\n*Speakers*: Neal Hall\, Arul Mani\n*Event Categories*: Poetry
+URL:https://bangaloreinternationalcentre.org/event/the-trembling-tiber/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Poetry
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/08/Thumbnail.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260813T190000
+DTEND;TZID=Asia/Kolkata:20260813T203000
+DTSTAMP:20260805T143622
+CREATED:20260804T135330Z
+LAST-MODIFIED:20260804T135330Z
+UID:92557-1786647600-1786653000@bangaloreinternationalcentre.org
+SUMMARY:Yayati - Life and Desire
+DESCRIPTION:\nHow far will a man go to prolong a life of indulgence? \nThis Kuttiyattam performance interweaves the special pakarnnattam technique with dance to tell the story of Yayati. \nDrawing on the Mahabharata\, the Puranas\, V. S. Khandekar’s celebrated novel\, and Girish Karnad’s play\, the story unfolds as Yayati openly marries Devayani\, daughter of Shukracharya\, preceptor of the Asuras\, and her friend\, the Asura princess Sharmishtha\, in secret. Bound by worldly pleasure\, he goes so far as to borrow his own son’s youth to prolong his indulgence. Will he reckon with the cost of his greed? \n\n\nCredits:\nDirector & Performer: Sooraj Nambiar\nProduction Manager & Coordinator: Aswathy Sarojini\nMizhavu Artistes: Kalamandalam Rajeev & Kalamandalam Vijay\nIdykka: Kalanilayam Unnikrishnan\nMakeup & Chutti: Kalamandalam Vyshak\nTalam: Saritha T. R. \nThis is the tenth edition of the ‘All For Dance’ series presented by Kalavaahini in association with BIC\, curated by Malavika Sarukkai. The ‘All For Dance’ series is presented every quarter at BIC to spotlight some of the best of classical dance from across India. The event is managed by Shreya Nagarajan Singh Arts Development Consultancy. \nIn collaboration with:\n \nVenue: Auditorium\n\n\n\nA Kutiyattam Recital\nPart of the All for Dance Series\nRSVPs open on Sat\, Aug 8 at 7pm.\n*Performer*: Sooraj Nambiar\n*Event Categories*: Culture\, Dance\, Heritage\, Performing Arts\, Theatre
+URL:https://bangaloreinternationalcentre.org/event/yayati-life-and-desire/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Culture,Dance,Heritage,Performing Arts,Theatre
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/07/Thumbnail_YLD.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260814T183000
+DTEND;TZID=Asia/Kolkata:20260814T200000
+DTSTAMP:20260805T143622
+CREATED:20260804T142453Z
+LAST-MODIFIED:20260804T142453Z
+UID:92775-1786732200-1786737600@bangaloreinternationalcentre.org
+SUMMARY:How the Partition Reshaped Indian Politics
+DESCRIPTION:The early republic chose liberty over equality\, and Heartland Rising argues that it was the wrong choice.  \nIn this session Javed Gaya presents his book\, a searing examination of the forces driving India’s contemporary majoritarian turn\, followed by a discussion with Aakar Patel and an audience Q&A. \nFrom the upheavals of the 1940s\, including Partition and the framing of the Constitution\, to the present\, Gaya revisits a foundational debate: should India be anchored in liberty\, defined as “one man\, one vote\,” or equality\, understood as meaningful political representation for minorities in a federal structure? He argues that the early republic’s choice of liberty over equality is why contemporary India now finds itself with neither. Gaya maps how Partition and the elevation of the Hindi heartland reshaped India’s social and economic trajectory\, amplifying caste and communal divisions\, weakening the judiciary and federalism\, and narrowing the space for pluralism. \nVenue: Library\n\n\nThe ‘Architecture of Hate’ and the Rise of Majoritarianism in India\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd10zpy47ajy2HSgre2js3u1QawmJyHZhl6af3f-n-No7PTbw/viewform?usp=pp_url)\n*Speakers*: Javed Gaya\, Aakar Patel\n*Event Categories*: Books\, Development\, Nonfiction\, Politics\, Society
+URL:https://bangaloreinternationalcentre.org/event/how-the-partition-reshaped-indian-politics/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Books,Development,Nonfiction,Politics,Society
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/2026/08/Thumbnail_HTPRI.jpg
+END:VEVENT
+END:VCALENDAR

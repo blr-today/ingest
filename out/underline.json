@@ -277,7 +277,7 @@
       "name": "Screening of House (1977) with Cinema Next Door",
       "sameAs": "https://underline.center/t/1004",
       "startDate": "2026-08-18T19:30:00.000+05:30",
-      "url": "tba"
+      "url": "https://www.district.in/screening-of-house-1977-with-cinema-next-door-aug18-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -347,7 +347,7 @@
       "name": "Screening of Girl, Interrupted (1999) with Cinema Next Door",
       "sameAs": "https://underline.center/t/1003",
       "startDate": "2026-08-16T14:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://www.district.in/screening-of-girl-interrupted-1999-with-cinema-next-door-aug16-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -382,6 +382,41 @@
       "name": "IndieWebClub #32",
       "sameAs": "https://underline.center/t/1000",
       "startDate": "2026-08-15T14:00:00.000+05:30"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-08-12T22:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
+      "sameAs": "https://underline.center/t/916",
+      "startDate": "2026-08-12T20:00:00.000+05:30",
+      "url": "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -555,7 +590,7 @@
       "name": "Screening of Maborosi (1995) with Cinema Next Door",
       "sameAs": "https://underline.center/t/1001",
       "startDate": "2026-08-09T14:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://www.district.in/screening-of-maborosi-1995-with-cinema-next-door-aug9-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -871,41 +906,6 @@
       "sameAs": "https://underline.center/t/996",
       "startDate": "2026-08-02T20:30:00.000+05:30",
       "url": "https://district.in/ghost-story-night-with-the-ghost-story-collective-aug2-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-02T18:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
-      "sameAs": "https://underline.center/t/916",
-      "startDate": "2026-08-02T16:00:00.000+05:30",
-      "url": "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
