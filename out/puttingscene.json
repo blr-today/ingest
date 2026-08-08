@@ -81,7 +81,7 @@
         "price": "875.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 19
+        "remainingAttendeeCapacity": 18
       }
     ]
   },
@@ -105,7 +105,7 @@
         "price": "1100.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -129,7 +129,7 @@
         "price": "800.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 21
+        "remainingAttendeeCapacity": 18
       }
     ]
   },
@@ -153,7 +153,7 @@
         "price": "951.43",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
+        "remainingAttendeeCapacity": 8
       }
     ]
   },
@@ -178,7 +178,7 @@
     "url": "https://puttingscene.com/events/5351",
     "startDate": "2026-08-08T12:30:00+05:30",
     "endDate": "2026-08-08T14:30:00+05:30",
-    "description": "<p>Let's be honest.</p><p>Bangalore has plenty of pizza. What it needs is pizza worth coming back for.</p><p>That's what we've built <strong>Serious Slice</strong> around\u201472-hour fermented sourdough, San Marzano pomodoro, a Neapolitan bake we refuse to rush, and a menu where the dough always takes centre stage.</p><p><strong>Indiranagar is next.</strong></p><p>Before we open to the public, we're hosting an exclusive pre-opening lunch.</p><p>A handful of seats. The first pizzas from our new oven. A limited menu, an intimate setting, and the chance to experience Serious Slice before everyone else.</p><p><strong>Honest pizza. Made properly. Served first, to a very short list.</strong></p>",
+    "description": "<p>Let's be honest.</p><p>Bangalore has plenty of pizza. What it needs is pizza worth coming back for.</p><p>That's what we've built <strong>Serious Slice</strong> around - 72-hour fermented sourdough, San Marzano pomodoro, a Neapolitan bake we refuse to rush, and a menu where the dough always takes centre stage.</p><p><strong>Indiranagar is next.</strong></p><p>Before we open to the public, we're hosting an exclusive pre-opening lunch.</p><p>A handful of seats. The first pizzas from our new oven. A limited menu, an intimate setting, and the chance to experience Serious Slice before everyone else.</p><p><strong>Honest pizza. Made properly. Served first, to a very short list.</strong></p>",
     "image": "https://cdn.puttingscene.com/event_images/5351/6a1b2851-0ccc-4d6d-93bb-d8a8aa8305c5.jpg",
     "location": {
       "name": "Serious slice Indiranagar",
@@ -396,30 +396,6 @@
   },
   {
     "@type": "Event",
-    "name": "Bollywood Quiz with Calm Your Wits",
-    "url": "https://puttingscene.com/events/5421",
-    "startDate": "2026-08-08T18:30:00+05:30",
-    "endDate": "2026-08-08T20:30:00+05:30",
-    "description": "Think you know your Bollywood? A hint-generous quiz night open to teams of up to six or lone wolves, with prizes for the winners",
-    "image": "https://cdn.puttingscene.com/event_images/5421/615009db-0816-4e86-abdd-95f337c6532b.jpg",
-    "location": {
-      "name": "Underline Center",
-      "address": "Underline Center, ",
-      "url": "https://maps.google.com/?cid=1552028387341754792"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Regular",
-        "price": "338.14",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
-      }
-    ]
-  },
-  {
-    "@type": "Event",
     "name": "Kombucha Tasting with Mountain Bee",
     "url": "https://puttingscene.com/events/5420",
     "startDate": "2026-08-08T19:00:00+05:30",
@@ -505,30 +481,6 @@
         "@type": "Offer",
         "price": "3500.00",
         "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Bollywood Quiz with Calm Your Wits",
-    "url": "https://puttingscene.com/events/5421",
-    "startDate": "2026-08-08T21:00:00+05:30",
-    "endDate": "2026-08-08T23:00:00+05:30",
-    "description": "Think you know your Bollywood? A hint-generous quiz night open to teams of up to six or lone wolves, with prizes for the winners",
-    "image": "https://cdn.puttingscene.com/event_images/5421/615009db-0816-4e86-abdd-95f337c6532b.jpg",
-    "location": {
-      "name": "Underline Center",
-      "address": "Underline Center, ",
-      "url": "https://maps.google.com/?cid=1552028387341754792"
-    },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Regular",
-        "price": "338.14",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 8
       }
     ]
   },
