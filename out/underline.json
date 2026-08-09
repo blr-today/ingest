@@ -492,6 +492,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-08-15T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Ghost Story Night with The Ghost Story Collective",
+      "sameAs": "https://underline.center/t/996",
+      "startDate": "2026-08-15T21:00:00.000+05:30",
+      "url": "https://district.in/ghost-story-night-with-the-ghost-story-collective-aug2-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-08-15T17:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -771,7 +806,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-08-09T18:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -800,7 +834,7 @@
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "A Brief Study of with the Eleven AM Club",
       "sameAs": "https://underline.center/t/970",
-      "startDate": "2026-08-09T15:00:00.000+05:30"
+      "startDate": null
    },
    {
       "@context": "https://schema.org",
@@ -941,41 +975,6 @@
       "sameAs": "https://underline.center/t/999",
       "startDate": "2026-08-04T19:30:00.000+05:30",
       "url": "https://www.district.in/screening-of-scott-pilgrim-vs-the-world-2010-with-cinema-next-door-aug4-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-02T22:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Ghost Story Night with The Ghost Story Collective",
-      "sameAs": "https://underline.center/t/996",
-      "startDate": "2026-08-02T20:30:00.000+05:30",
-      "url": "https://district.in/ghost-story-night-with-the-ghost-story-collective-aug2-2026/event"
    },
    {
       "@context": "https://schema.org",
