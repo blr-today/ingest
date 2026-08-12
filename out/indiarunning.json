@@ -1,6 +1,63 @@
 [
   {
     "@type": "SportsEvent",
+    "name": "Freedom Run with PaceX",
+    "url": "https://indiarunning.com/events/freedom_run_with_pacex_31803",
+    "startDate": "2026-08-15T07:00:00+05:30",
+    "endDate": "2026-08-15T08:30:00+05:30",
+    "description": "This Independence Day, lace up and celebrate freedom the PaceX way. \n\ud83c\uddee\ud83c\uddf3\ud83c\udfc3\u200d\u2640\ufe0f Join us for a refreshing morning run around \nPuttenahalli Lake\n, surrounded by the community, fresh air, and good energy. Come run, connect, and kick off the holiday with us. \u26a1",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/08/15/freedom-run-with-pacex-2026/banner1786438264039",
+    "location": {
+      "@type": "Place",
+      "name": "Puttenahalli",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Puttenahalli, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560078",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8938256,
+        "longitude": 77.5812849
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "100",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "100",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "100",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "100",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "BeAthlit Lake Run - August 2026 Edition",
     "url": "https://indiarunning.com/events/beathlit_lake_run__august_2026_edition_68584",
     "startDate": "2026-08-16T06:00:00+05:30",
@@ -137,6 +194,42 @@
         "@type": "Offer",
         "name": "10k",
         "price": "699",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "Wesness Run2zumba Bengaluru 2026",
+    "url": "https://indiarunning.com/events/wesness_run2zumba_bengaluru_2_2026_27999",
+    "startDate": "2026-08-23T06:00:00+05:30",
+    "endDate": "2026-08-23T08:00:00+05:30",
+    "description": "Get ready for a Sunday morning packed with movement, music, and unstoppable energy!\nJoin us at Westside Commercial Street, Bengaluru, for an exciting fitness experience that starts with a refreshing 2K run and culminates in an electrifying Zumba session. Imagine upbeat music, a vibrant community of women, and a morning where fitness feels more like a celebration than a workout. This is your chance to move, groove, and make your Sunday unforgettable.\n\ud83d\udcc5 Event Details\nDate: 23rd August 2026, Sunday\nLocation: Westside Stores, Commercial Street, Bengaluru\n\u23f0 Schedule\n6:00 AM \u2013 Reporting\n6:20 AM \u2013 Warm-up Session\n6:30 AM \u2013 2K Run Starts\n7:00 AM \u2013 2K Run Concludes\n7:10 AM - 7:20 AM \u2013 Hydration Break\n7:20 AM \u2013 ZUMBA BLAST BEGINS!\n\ud83c\udf81 What's Included\nA Wesness T-shirt\nLight refreshments & hydration\nGuided 2.5K run\nHigh-energy Zumba session\nAn unforgettable experience with an amazing community of women\n\u00a0\nWhy You Should Join\n\u2705 Feel energized and empowered\n\u2705 Dance your stress away\n\u2705 Connect with a vibrant community of women\n\u2705 Start your day with positivity, fitness, and fun\n\ud83c\udf9f\ufe0f Registration Fee -\n \u20b9499.\nLimited spots available. Register now. See you on 23rd August! \u2728",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/08/23/wesness-run2zumba-bengaluru-2-2026-2026/banner1786446861402",
+    "location": {
+      "@type": "Place",
+      "name": "Westside - New Commercial Street",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Westside - New Commercial Street, XJM6+388 CMJ, Prestige Site, Commercial Plaza Parking Point, Kamaraj Rd, near Commercial Street, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560042",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9825453,
+        "longitude": 77.6108788
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2K",
+        "price": "499",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
@@ -487,108 +580,6 @@
         "@type": "Offer",
         "name": "10k",
         "price": "650",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "Bengaluru Corporate Wellness Run 2026",
-    "url": "https://indiarunning.com/events/bengaluru_corporate_wellness_run_2026_27940",
-    "startDate": "2026-11-15T05:00:00+05:30",
-    "endDate": "2026-11-15T09:00:00+05:30",
-    "description": "Bengaluru Corporate Wellness Run 2026\nRun for a Healthy Life\nGlobal Events & Entertainment proudly presents the Bengaluru Corporate Wellness Run 2026\u2014a premier corporate fitness and wellness event designed to promote healthier lifestyles, workplace well-being, and community engagement.\nScheduled for Sunday, 15th November 2026, at the iconic NICE Road, Bengaluru, this flagship event will bring together corporate professionals, business leaders, entrepreneurs, fitness enthusiasts, students, and families for an unforgettable celebration of health, fitness, and teamwork.\nWhether you're aiming to achieve a personal best, strengthen team spirit, or simply enjoy an energetic morning with friends and family, the Bengaluru Corporate Wellness Run 2026 offers an inspiring experience for participants of all fitness levels.\nRace Categories\n\ud83c\udfc3 3 KM Fun Run \u2013 Perfect for beginners, families, and recreational runners.\n\u23f1\ufe0f 5 KM Timed Run \u2013 Ideal for fitness enthusiasts and corporate teams.\n\ud83c\udfc5 10 KM Timed Run \u2013 A competitive challenge for experienced runners.\nParticipant Benefits\nEvery registered participant will receive:\n- \ud83d\udc55 Premium Event T-Shirt\n- \ud83c\udfbd Official Race Bib\n- \ud83c\udfc5 Exclusive Finisher Medal\n- \ud83d\udcdc Digital Finisher Certificate\n- \ud83c\udf81 Goodie Bag\n- \ud83e\udd63 Healthy Breakfast\n- \ud83e\udd64 Refreshments & Hydration\n- \ud83d\ude91 Comprehensive Medical Support\n- \ud83d\udcf8 Professional Event Photography\n- \ud83d\udc83 High-Energy Zumba Warm-up Session\nEvent Details\n\ud83d\udcc5 Date: Sunday, 15th November 2026\n\ud83d\udccd Venue: NICE Road, Bengaluru\nLimited slots are available across all race categories. Register early to secure your place and be part of one of Bengaluru's most exciting corporate wellness events.\nCorporate Bookings & Partnership Opportunities\nWe invite organizations, corporate teams, brands, and institutions to partner with us in promoting health, wellness, and employee engagement through this landmark event.\nRun Together. Stay Healthy. Build Stronger Teams.\nNote: In the event of inclement weather, unforeseen circumstances, or any major incidents that pose a threat on the day of the event, the organizers retain the authority to reschedule the Event. Please note that no refunds will be provided in the event of such circumstances. Thank you for your understanding and cooperation.",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/15/bengaluru-corporate-wellness-run-2026-2026/banner1784274485486",
-    "location": {
-      "@type": "Place",
-      "name": "Dwaraka Nagar",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "WGPJ+JFW, Dwaraka Nagar, Hosakerehalli, Bengaluru, Karnataka 560026, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560026",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9366173,
-        "longitude": 77.53119319999999
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "3K",
-        "price": "800",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "800",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "800",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "TIMES INTERNET HALF MARATHON - BENGALURU",
-    "url": "https://indiarunning.com/events/times_internet_half_marathon__bengaluru_39648",
-    "startDate": "2026-12-13T05:30:00+05:30",
-    "endDate": "2026-12-13T05:00:00+05:30",
-    "description": "Times Internet Half Marathon\n is one of Bengaluru's most exciting running events, bringing together runners of all ages, fitness levels, and goals.\nIf you\u2019re searching for a \nhalf marathon in Bengaluru, a 10K timed run, a 5K fitness run, or a 3K family fun run\n, this event is designed for you.\nWhether you want to set a personal record, build a fitness routine, run with your partner or friends, or enjoy a memorable morning with your family \u2014 \nthis marathon offers the perfect platform\n.\nRace Categories\n21.1K Half Marathon \u2013 Timed Run\n10K Timed Run\n5K Timed Run\n3K Fun Run for beginners, kids & families\nThese categories ensure that both serious runners and first-time participants have a place at the starting line.\nWhy Participate in the TI Half Marathon\nThis event is curated to give every participant a safe, enjoyable, and high-value running experience.\nProfessionally measured & marked route\nMusic zones & high-energy cheer points\nHydration stations across the course\nOn-ground medical support & emergency response\nFinisher certificate for all categories\nOfficial timing chips for competitive runners\nRace kit with bib, T-shirt/Jersey\nSmooth, well-organised experience by Times Internet\nIf you are searching for a verified, well-managed running event in Bengaluru, this is your best choice.\nWho Should Join\nPerfect for:\nRunners preparing for major marathons\nFitness and wellness enthusiasts\nIndividuals starting their running journey\nFamilies looking for a morning outdoor activity\nKids and beginners participating in their first event\nCorporate teams & running clubs\nThis event caters to \nprofessionals, amateurs, hobby runners, and families\n \u2014 ensuring everyone enjoys the marathon environment.\nThe TI Marathon Experience\nThis marathon is more than a run \u2014 it\u2019s a city-wide fitness celebration.\nExpect a vibrant atmosphere, enthusiastic volunteers, energising music, and a route filled with runners pushing towards one common goal: to run their best race.\nIf you\u2019ve been looking to participate in a Bengaluru running event, join a fitness challenge, or complete your first marathon distance, this is the perfect opportunity.\nRegister Now \u2014 Early Bird Offer LIVE\nLimited Early Bird slots are available.\nSecure your place today and start preparing for one of Bengaluru's most inspiring running events.",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/12/13/times-internet-half-marathon---bengaluru-2026/banner1781663592184",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "3K",
-        "price": "1799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "1799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "1799",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "21.1K",
-        "price": "1799",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }

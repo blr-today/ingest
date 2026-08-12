@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charges applicable at the venue\n",
-            "inventoryLevel": 12,
+            "inventoryLevel": 3,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-flowdan-sbovhqtx"
          },
@@ -189,8 +189,8 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Job Kurian is a singer-songwriter from Alleppey, Kerala-the land of serene backwaters. Deeply rooted in Kerala's traditional folk music, his sound blends world music with alternative folk influences, fusing classic",
-      "endDate": "2026-10-10T23:59:00",
+      "description": "Job Kurian is a singer-songwriter from Alleppey, Kerala-the land of serene backwaters. Deeply rooted in Kerala's traditional folk music, his sound blends world music with alternative folk influences, fusing classical, contemporary, pop, and al",
+      "endDate": "2026-10-10T23:00:00",
       "identifier": "com.skillboxes.40412",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1786192675i1DQG7dICA2RzdAw.jpg.webp",
       "isAccessibleForFree": false,
@@ -199,20 +199,28 @@
       ],
       "location": {
          "@type": "Place",
-         "address": null,
+         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": null,
-            "longitude": null
+            "latitude": "13.0418817",
+            "longitude": "77.6160425"
          },
-         "name": null
+         "name": "ICB INDIAN CRAFT BREWERY"
       },
       "name": "Job Kurian Live",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 93,
+            "description": "Additional cover charge applicable at the venue full redeemable on F&B\n",
+            "inventoryLevel": 663,
+            "name": "Phase 1 GA Pass",
+            "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
          }
@@ -391,20 +399,15 @@
       ],
       "location": {
          "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
+         "address": "0",
+         "name": "To Be Decided"
       },
       "name": "Stan Kolev Live at High Ultra Lounge | Centre Stage",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges apply post 9:00 PM.\nINR 2000 cover charge applicable from 9:00 PM onwards || INR 3000 cover charge applicable from 10:00 PM onwards.",
+            "description": "Cover charges apply post 7:00 PM. || INR 2000 cover charge applicable from 7:00 PM onwards.\nINR 3000 cover charge applicable from 9:00 PM onwards.",
             "inventoryLevel": 1000,
             "name": "Early Bird - Solo Entry",
             "url": "https://www.skillboxes.com/events/ticket/stan-kolev-live-at-high-ultra-lounge-centre-stage-sbwctjop"
@@ -412,7 +415,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges apply for one couple post 9:00 PM.\nINR 2000 cover charge applicable from 9:00 PM onwards || INR 3000 cover charge applicable from 10:00 PM onwards.",
+            "description": "Cover charges apply post 7:00 PM. || INR 2000 cover charge applicable from 7:00 PM onwards.\nINR 3000 cover charge applicable from 9:00 PM onwards.",
             "inventoryLevel": 1000,
             "name": "Early Bird - Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/stan-kolev-live-at-high-ultra-lounge-centre-stage-sbwctjop"
@@ -420,13 +423,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Admits 3 individuals. Cover charges apply post 9:00 PM.\nINR 2000 cover charge applicable from 9:00 PM onwards || INR 3000 cover charge applicable from 10:00 PM onwards.",
+            "description": "Cover charges apply post 7:00 PM. || INR 2000 cover charge applicable from 7:00 PM onwards.\nINR 3000 cover charge applicable from 9:00 PM onwards.",
             "inventoryLevel": 1000,
             "name": "Early Bird - Group of 3 Entry",
             "url": "https://www.skillboxes.com/events/ticket/stan-kolev-live-at-high-ultra-lounge-centre-stage-sbwctjop"
          }
       ],
-      "startDate": "2026-08-15T20:00:00",
+      "startDate": "2026-08-15T16:00:00",
       "url": "https://www.skillboxes.com/events/stan-kolev-live-at-high-ultra-lounge-centre-stage-sbwctjop"
    },
    {
@@ -497,7 +500,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 1500 applicable at gates.\n",
-            "inventoryLevel": 148,
+            "inventoryLevel": 138,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/patrice-baumel-mirage-bangalore-sbeyipnf"
          }
@@ -649,7 +652,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry to one person in the concert.\n",
+            "description": "Allows one person to the event.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -657,7 +660,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows 1 kid from 5-14years of age to the concert accompanied by parents.\n",
+            "description": "Allows 1 kid from 5-14yrs of age to the concert accompanied by parents\n",
             "inventoryLevel": 1000,
             "name": "Kids Pass (5 to 14 Years)",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -665,7 +668,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows 1 person to the concert VIP standing zone\n",
+            "description": "Allows 1 person to the concert Vip standing zone\n",
             "inventoryLevel": 1000,
             "name": "Early Bird VIP Standing Pass",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -673,7 +676,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry to three people in the concert.\n",
+            "description": "Allows 3 person to the general access area.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird Pass || Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -681,7 +684,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows 1 person to the concert Fanpit zone\n",
+            "description": "Allows 1 person to the Fan pit zone.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird Fanpit Pass",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -689,7 +692,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry to five people in the concert.\n",
+            "description": "Allows 5 person to the general access area.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird Pass || Group of 5",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -697,7 +700,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows 1 person to the concert VIP standing zone\n- Allows one person to meet and greet artist.",
+            "description": "Allows one person to concert at Vip Standing zone\nAllows one person to meet and greet with artist.",
             "inventoryLevel": 1000,
             "name": "Early Bird Meet and Greet",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -705,7 +708,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Includes Table for 4\nIncludes 1 IMFL liquor bottle. Complimentary mixers",
+            "description": "Includes Table for 4 || Includes 1 IMFL liquor bottle\nComplimentary mixers",
             "inventoryLevel": 1000,
             "name": "Sukoon lounge for 4 Pass",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -713,7 +716,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Includes Table for 8\nIncludes 2 IMFL liquor bottle. Complimentary mixers",
+            "description": "Includes Table for 8 || Includes 2 IMFL liquor bottle\nComplimentary mixers",
             "inventoryLevel": 1000,
             "name": "Sukoon lounge for 8 Pass",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
@@ -748,7 +751,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 994,
+            "inventoryLevel": 993,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2-0-sbltfmlc"
          }
