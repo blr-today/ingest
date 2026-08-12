@@ -36,7 +36,7 @@ jobs:
         echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
     - name: Cache Requests SQLite
-      uses: actions/cache@v4
+      uses: actions/cache@v5
       with:
         path: /home/runner/.cache/event-fetcher-cache.sqlite
         key: "cache-requests-${{ github.run_id }}"
