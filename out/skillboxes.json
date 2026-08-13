@@ -53,6 +53,91 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready, Bangalore! The undisputed king of Futureprog is touching down to deliver a night of mind-bending beats, infectious energy, and pure dancefloor magic.\r\n\r\nOn September 12th, the legendary Mandragora",
+      "endDate": "2026-09-12T23:59:00",
+      "identifier": "com.skillboxes.40557",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1786644828gl8JPew6MxCpBm0K.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0418817",
+            "longitude": "77.61604249999999"
+         },
+         "name": "ICB INDIAN CRAFT BREWERY"
+      },
+      "name": "Mandragora Live In Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird GA Pass",
+            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird VIP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Backstage Pass",
+            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
+         }
+      ],
+      "startDate": "2026-09-12T19:00:00",
+      "url": "https://www.skillboxes.com/events/mandragora-live-in-bangalore-sbhncodb"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Grand Onam Sadhya Step into the vibrant world of Kerala at 1882, where age-old traditions and authentic flavours come together in a grand celebration of Onam. Curated by Chef Ram",
+      "endDate": "2026-08-26T23:59:00",
+      "identifier": "com.skillboxes.40556",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1786641470N2ZR5XdM2IHwKAiz.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food Festival"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9684536",
+            "longitude": "77.71682109999999"
+         },
+         "name": "DoubleTree by Hilton Bengaluru Whitefield"
+      },
+      "name": "The Grand Onam Sadhya",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-grand-onam-sadhya-sbhkxqvk"
+         }
+      ],
+      "startDate": "2026-08-17T12:30:00",
+      "url": "https://www.skillboxes.com/events/the-grand-onam-sadhya-sbhkxqvk"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Sufi & Qawwali Night Ft Mehfil-E-Nayab",
       "endDate": "2026-08-16T23:00:00",
       "identifier": "com.skillboxes.40479",
