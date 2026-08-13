@@ -282,6 +282,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-08-22T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "The Ultimate Comfort Show Quiz by Quizzing Nemo",
+      "sameAs": "https://underline.center/t/1011",
+      "startDate": "2026-08-22T21:30:00.000+05:30",
+      "url": "https://district.in/the-ultimate-comfort-show-quiz-by-quizzing-nemo-aug16-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-08-22T18:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -557,41 +592,6 @@
       "sameAs": "https://underline.center/t/1003",
       "startDate": "2026-08-16T14:00:00.000+05:30",
       "url": "https://www.district.in/screening-of-girl-interrupted-1999-with-cinema-next-door-aug16-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-16T12:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Ultimate Comfort Show Quiz by Quizzing Nemo",
-      "sameAs": "https://underline.center/t/1011",
-      "startDate": "2026-08-16T11:00:00.000+05:30",
-      "url": "https://district.in/the-ultimate-comfort-show-quiz-by-quizzing-nemo-aug16-2026/event"
    },
    {
       "@context": "https://schema.org",
