@@ -96,6 +96,38 @@
     "endDate": "2026-08-16T08:00:00+05:30"
   },
   {
+    "name": "Sisters & Misters Footy Gameday",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Mixed-gender-football-gameday-sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Mixed-gender-football-gameday-sunday",
+    "image": "https://sistersinsweat.com/images/event/20260814193027290.png",
+    "location": {
+      "name": "Rush Arena, Cooke Town",
+      "address": "Rush Arena, Cooke Town",
+      "type": "Place"
+    },
+    "startDate": "2026-08-16T08:00:00+05:30",
+    "endDate": "2026-08-16T10:00:00+05:30"
+  },
+  {
     "name": "Sisters and Misters Yoga Mornings",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun816",
