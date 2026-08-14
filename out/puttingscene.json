@@ -111,7 +111,7 @@
         "price": "904.76",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -188,7 +188,7 @@
         "price": "250.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 5
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -294,7 +294,7 @@
         "price": "400.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 29
+        "remainingAttendeeCapacity": 25
       }
     ]
   },
@@ -370,7 +370,7 @@
         "price": "904.76",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 6
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -537,7 +537,7 @@
         "price": "3000.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -545,7 +545,7 @@
         "price": "3000.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 4
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -601,7 +601,7 @@
         "price": "253.39",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 8
+        "remainingAttendeeCapacity": 6
       },
       {
         "@type": "Offer",
@@ -662,10 +662,10 @@
       {
         "@type": "Offer",
         "name": "Tennis Social",
-        "price": "2060.00",
+        "price": "2000.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
+        "remainingAttendeeCapacity": 7
       }
     ]
   },
@@ -704,7 +704,7 @@
         "price": "1641.90",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 48
+        "remainingAttendeeCapacity": 43
       }
     ]
   },
@@ -895,16 +895,7 @@
       "address": "IKOI Tokyo, ",
       "url": "https://maps.google.com/?cid=8501446458543180175"
     },
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "VIP",
-        "price": "2189.52",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 16
-      }
-    ]
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
