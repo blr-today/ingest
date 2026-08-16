@@ -16,15 +16,15 @@
       {
         "@type": "Offer",
         "name": "Regular",
-        "price": "875.00",
+        "price": "750.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 13
       },
       {
         "@type": "Offer",
         "name": "Foreign nationals",
-        "price": "875.00",
+        "price": "1000.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 4
@@ -322,7 +322,7 @@
         "price": "750.00",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
-        "remainingAttendeeCapacity": 18
+        "remainingAttendeeCapacity": 17
       }
     ]
   },
