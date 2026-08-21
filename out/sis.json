@@ -32,38 +32,6 @@
     "endDate": "2026-08-22T08:30:00+05:30"
   },
   {
-    "name": "SIS X THE KIND: Cold Brew Workshop & Tasting",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/event-detail/Women-Banglore-Cold-Brew-Workshop-And-Tasting-Aug22",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Cold",
-    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Banglore-Cold-Brew-Workshop-And-Tasting-Aug22",
-    "image": "https://www.sistersinsweat.com/images/event/20260813181607589.jpeg",
-    "location": {
-      "name": "At The Kind, Indiranagar",
-      "address": "2985, 12th Main Rd, HAL 2nd Stage, Indiranagar",
-      "type": "Place"
-    },
-    "startDate": "2026-08-22T10:30:00+05:30",
-    "endDate": "2026-08-22T12:00:00+05:30"
-  },
-  {
     "name": "SIS X HIVE CLUB: Women's Padel Coaching",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-event-Padel-coaching-22aug",
@@ -128,38 +96,6 @@
     "endDate": "2026-08-22T13:00:00+05:30"
   },
   {
-    "name": "Run with the Sisters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun23aug",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Run",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun23aug",
-    "image": "https://www.sistersinsweat.com/images/event/20260815094207207.jpeg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2026-08-23T06:45:00+05:30",
-    "endDate": "2026-08-23T08:00:00+05:30"
-  },
-  {
     "name": "Women's Beginner Basketball Coaching",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Sun23",
@@ -190,6 +126,38 @@
     },
     "startDate": "2026-08-23T07:30:00+05:30",
     "endDate": "2026-08-23T09:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-Sunday23",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Bangalore",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-Sunday23",
+    "image": "https://sistersinsweat.com/images/event/20260821113029849.JPG",
+    "location": {
+      "name": "Rush Arena, Cooke Town",
+      "address": "Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2026-08-23T08:00:00+05:30",
+    "endDate": "2026-08-23T09:30:00+05:30"
   },
   {
     "name": "Sisters and Misters Yoga Mornings",
@@ -479,6 +447,38 @@
     "endDate": "2026-08-29T13:00:00+05:30"
   },
   {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun23aug",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun23aug",
+    "image": "https://www.sistersinsweat.com/images/event/20260815094207207.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-08-30T06:45:00+05:30",
+    "endDate": "2026-08-30T08:00:00+05:30"
+  },
+  {
     "name": "Sisters and Misters Yoga Mornings",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun818",
@@ -572,6 +572,38 @@
     },
     "startDate": "2026-08-30T11:00:00+05:30",
     "endDate": "2026-08-30T12:30:00+05:30"
+  },
+  {
+    "name": "SIS x Grover: Sip & Sculpt",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Sip-Sculpt-Event-Sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Sip",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Sip-Sculpt-Event-Sunday",
+    "image": "https://sistersinsweat.com/images/event/20260821111434796.PNG",
+    "location": {
+      "name": "Rosmarino Neapolitan Pizza & Trattoria",
+      "address": "Unit Nos 21, 22, 23, Carlton Towers, 1, HAL Old Airport Rd, HAL 2nd Stage, Indiranagar, Kodihalli",
+      "type": "Place"
+    },
+    "startDate": "2026-08-30T16:30:00+05:30",
+    "endDate": "2026-08-30T18:30:00+05:30"
   },
   {
     "name": "Sisters & Misters Football Game Night - Bangalore",
