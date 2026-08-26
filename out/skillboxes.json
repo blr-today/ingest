@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "UN•DEUX — where house gets a little more playful.\r\n\r\n \r\n\r\nStep into a night of rolling basslines, warm grooves, infectious percussion and the kind of house music that keeps the floor moving without asking permission.",
+      "endDate": "2026-09-06T23:55:00",
+      "identifier": "com.skillboxes.40906",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1787748235Cqr2PCqyADTCAmMZ.png.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5, Field Marshal Cariappa Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715246",
+            "longitude": "77.6052942"
+         },
+         "name": "Cavore"
+      },
+      "name": "SoMAD x Cavore Presents Un•Deux Live",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry for One Single Lady All Night Long.\n",
+            "inventoryLevel": 1000,
+            "name": "Single Female Pass (Free Entry)",
+            "url": "https://www.skillboxes.com/events/ticket/somad-x-cavore-presents-un-deux-live-sbkwvfwg"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover charges will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "Stag Pass (Mandatory Full Cover)",
+            "url": "https://www.skillboxes.com/events/ticket/somad-x-cavore-presents-un-deux-live-sbkwvfwg"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to one couple till 9:00PM only, Post 9:00PM a mandatory Cover charge will be applicable as per club rules and regulations.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass (Free Entry)",
+            "url": "https://www.skillboxes.com/events/ticket/somad-x-cavore-presents-un-deux-live-sbkwvfwg"
+         }
+      ],
+      "startDate": "2026-09-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/somad-x-cavore-presents-un-deux-live-sbkwvfwg"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "HEATWAVESSummer reaches its boiling point this Sunday. Introducing HEATWAVES, a high-energy, pan-India touring IP kicking off its national takeover right at Mirage.Expect a",
       "endDate": "2026-08-31T01:00:00",
       "identifier": "com.skillboxes.40838",
@@ -332,7 +383,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 988,
+            "inventoryLevel": 987,
             "name": "Early Bird VIP Pass",
             "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
          },
@@ -370,15 +421,7 @@
          "name": "DoubleTree by Hilton Bengaluru Whitefield"
       },
       "name": "The Grand Onam Sadhya",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Regular Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-grand-onam-sadhya-sbhkxqvk"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-08-17T12:30:00",
       "url": "https://www.skillboxes.com/events/the-grand-onam-sadhya-sbhkxqvk"
    },
@@ -409,7 +452,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge applicable at the venue full redeemable on F&B\n",
-            "inventoryLevel": 576,
+            "inventoryLevel": 572,
             "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
          },
@@ -485,7 +528,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 500, redeemable against food and beverages, will apply at the venue.\nPlease check the event description to learn more about performing at the Soul Open Mic.",
-            "inventoryLevel": 121,
+            "inventoryLevel": 120,
             "name": "General Solo Pass",
             "url": "https://www.skillboxes.com/events/ticket/soul-jams-bengaluru-sbprepsl"
          },
@@ -493,7 +536,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This single ticket grants entry for 2 people\nAn additional cover charge of INR 500 per person, redeemable against food and beverages, will apply at the venue.",
-            "inventoryLevel": 152,
+            "inventoryLevel": 144,
             "name": "Duo Pass",
             "url": "https://www.skillboxes.com/events/ticket/soul-jams-bengaluru-sbprepsl"
          },
@@ -501,7 +544,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This single ticket grants entry for 3 people\nAn additional cover charge of INR 500 per person, redeemable against food and beverages, will apply at the venue.",
-            "inventoryLevel": 43,
+            "inventoryLevel": 39,
             "name": "Trio Pass",
             "url": "https://www.skillboxes.com/events/ticket/soul-jams-bengaluru-sbprepsl"
          },
@@ -543,7 +586,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 998,
+            "inventoryLevel": 996,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-train-driver-by-athol-fugard-sbtyaxwq"
          }
@@ -554,7 +597,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bangalores Biggest Open Air Qawwali Experience\n\nStep into an unforgettable evening where music, emotions and culture come together u",
+      "description": "Bangalores Biggest Open Air Qawwali Experience\r\n\r\nStep into an unforgettable evening where music, emotions and culture come together under the open sky.\r\n\r\nThis September, experience Sukoon Wali Qawwali live at Phoen",
       "endDate": "2026-09-12T23:59:00",
       "identifier": "com.skillboxes.38139",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1783508061rRnvhhYxHdVqdRTu.jpg.webp",
