@@ -212,6 +212,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-09-03T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Tabletop Thursday with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/17",
+      "startDate": "2026-09-03T19:00:00.000+05:30",
+      "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-09-02T22:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -243,6 +278,41 @@
       "sameAs": "https://underline.center/t/700",
       "startDate": "2026-09-02T19:00:00.000+05:30",
       "url": "https://district.in/after-hours-with-eleven-am-club/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-01T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Screening of Ek Din Pratidin (1979) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/1016",
+      "startDate": "2026-09-01T19:30:00.000+05:30",
+      "url": "https://www.district.in/screening-of-ek-din-pratidin-1979-with-cinema-next-door-sep1-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -487,41 +557,6 @@
       "sameAs": "https://underline.center/t/823",
       "startDate": "2026-08-28T21:00:00.000+05:30",
       "url": "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-27T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Tabletop Thursday with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/17",
-      "startDate": "2026-08-27T19:00:00.000+05:30",
-      "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
@@ -6929,40 +6964,5 @@
       "sameAs": "https://underline.center/t/769",
       "startDate": "2025-12-02T19:45:00.000+05:30",
       "url": "https://district.in/screening-of-pather-panchali-1955-with-cinema-next-door-dec2-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-11-30T16:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Möbius Strips and other Impossible Shapes with Pseudo",
-      "sameAs": "https://underline.center/t/762",
-      "startDate": "2025-11-30T14:00:00.000+05:30",
-      "url": "https://district.in/mbius-strips-and-other-impossible-shapes-with-pseudo-nov30-2025/event"
    }
 ]
