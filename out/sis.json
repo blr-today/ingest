@@ -256,6 +256,69 @@
     "endDate": "2026-09-05T13:30:00+05:30"
   },
   {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun6sep",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Session-Sun6sep",
+    "image": "https://www.sistersinsweat.com/images/event/20260830180749294.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-09-06T06:45:00+05:30",
+    "endDate": "2026-09-06T08:00:00+05:30"
+  },
+  {
+    "name": "Sisters and Misters Yoga Mornings",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun6sep",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun6sep",
+    "image": "https://www.sistersinsweat.com/images/event/20260830181022529.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2026-09-06T08:30:00+05:30",
+    "endDate": "2026-09-06T09:45:00+05:30"
+  },
+  {
     "name": "Sisters and Misters Yoga Mornings",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sun819",
