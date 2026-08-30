@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "F1 Italy Grand Prix | Live Screening | Underdoggs Whitefield.Date - 6th September.Timings - 6:30 PMVenue - Underdoggs Whitefield.",
+      "endDate": "2026-09-06T20:30:00",
+      "identifier": "com.skillboxes.41008",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1788043518Q6lsiCjWKDUSIx0k.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Second Floor, Unit 6, NO 18, Tower D, Primeco Union City, Sadaramangala Industrial Area Sy No 76 And 87 Sadaramangala, Hobli, Sadara Mangala Industrial Area, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9886125",
+            "longitude": "77.73316129999999"
+         },
+         "name": "Underdoggs Whitefield"
+      },
+      "name": "F1 Italy Grand Prix | Live Screening | Underdoggs Whitefield.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Single Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/f1-italy-grand-prix-live-screening-underdoggs-whitefield-sbtmapwy"
+         }
+      ],
+      "startDate": "2026-09-06T18:30:00",
+      "url": "https://www.skillboxes.com/events/f1-italy-grand-prix-live-screening-underdoggs-whitefield-sbtmapwy"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "To Forget is to Remember is to Forget is an intimate performance exploring memory, mirror, mind, and mother.  It brings together storytelling, video, photography, music and performance, to ask what it mean",
       "endDate": "2026-09-13T19:30:00",
       "identifier": "com.skillboxes.40990",
@@ -142,7 +176,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Early Bird\n",
-            "inventoryLevel": 14,
+            "inventoryLevel": 13,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/synthesia-fm-sbqwevtr"
          }
@@ -313,57 +347,6 @@
       ],
       "startDate": "2026-08-30T12:00:00",
       "url": "https://www.skillboxes.com/events/the-konkan-kitchen-chronicles-sbnrauov"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "ALMOST HUMAN",
-      "endDate": "2026-08-30T03:00:00",
-      "identifier": "com.skillboxes.40917",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1787754256MJzTr4gw56vyCqeq.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "SY NO 38, 38/5, Sarjapur Rd, Agara Village, 1st Block Koramangala, HSR Layout, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9239421",
-            "longitude": "77.6403078"
-         },
-         "name": "Atlantis"
-      },
-      "name": "ALMOST HUMAN",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges of INR 2000 applicable at gates till 9:00pm.\nPost 9pm, Cover charges applicable at INR 3000",
-            "inventoryLevel": 987,
-            "name": "Stag Pass || Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/almost-human-sbluxccl"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 9PM\nAn additional cover charge of INR 3000 per person will be applicable at the venue for entries after 9:00 PM",
-            "inventoryLevel": 999,
-            "name": "Couple Pass || Guestist",
-            "url": "https://www.skillboxes.com/events/ticket/almost-human-sbluxccl"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "An additional cover charge of INR 1000 will be applicable at the venue post 11PM\n",
-            "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/almost-human-sbluxccl"
-         }
-      ],
-      "startDate": "2026-08-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/almost-human-sbluxccl"
    },
    {
       "@context": "https://schema.org",
@@ -730,7 +713,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge applicable at the venue full redeemable on F&B\n",
-            "inventoryLevel": 568,
+            "inventoryLevel": 564,
             "name": "Phase 1 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
          },
@@ -938,7 +921,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 984,
+            "inventoryLevel": 983,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/apocalyptic-grid-2-0-sbltfmlc"
          }
