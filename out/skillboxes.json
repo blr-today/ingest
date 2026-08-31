@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Last time was one for the books 📖🔥 And now we're BACK!This Saturday, 5th September | 8PM onwards 📍 Atlantis, Bangalore",
+      "endDate": "2026-09-05T23:59:00",
+      "identifier": "com.skillboxes.41077",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/178819087318aKmooi6VqNooJ0.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "SY NO 38, 38/5, Sarjapur Rd, Agara Village, 1st Block Koramangala, HSR Layout, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9239421",
+            "longitude": "77.6403078"
+         },
+         "name": "Atlantis"
+      },
+      "name": "Tori Levett",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges of INR 2000 applicable at gates till 9:00pm.\nPost 9pm, Cover charges applicable at INR 3000",
+            "inventoryLevel": 1000,
+            "name": "Stag Pass || Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/tori-levett-sbzhalfb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 9PM\nAn additional cover charge of INR 3000 per person will be applicable at the venue for entries after 9:00 PM",
+            "inventoryLevel": 998,
+            "name": "Couple Pass || Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/tori-levett-sbzhalfb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An additional cover charge of INR 1000 will be applicable at the venue post 11PM\n",
+            "inventoryLevel": 1000,
+            "name": "Female Pass || Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/tori-levett-sbzhalfb"
+         }
+      ],
+      "startDate": "2026-09-05T20:00:00",
+      "url": "https://www.skillboxes.com/events/tori-levett-sbzhalfb"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "LIVE AT HAMILTON ft. BLACKSTRATBLUES\r\n\r\n \r\n\r\nGet ready for an immersive evening of powerful guitar-driven music as Blackstratblues takes the stage at Hamilton Cocktail Bar. 🎶\r\n\r\n \r\n\r\nKnown for their atmosph",
       "endDate": "2026-10-09T23:55:00",
       "identifier": "com.skillboxes.41065",
@@ -71,7 +122,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "To Forget is to Remember is to Forget is an intimate performance exploring memory, mirror, mind, and mother.  It brings together storytelling, video, photography, music and performance, to ask what it mean",
+      "description": "To Forget is to Remember is to Forget is an intimate performance exploring memory, mirror, mind, and mother.  \r\n\r\nIt brings together storytelling, video, photography, music and performance, to ask what it means to inherit loss. Pa",
       "endDate": "2026-09-13T19:30:00",
       "identifier": "com.skillboxes.40990",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1787985374T7bCyoPcEIRNMJ43.jpg.webp",
@@ -94,14 +145,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 15,
+            "inventoryLevel": 14,
             "name": "Regular Pass | 11th September |  6 PM",
             "url": "https://www.skillboxes.com/events/ticket/to-forget-is-to-remember-is-to-forget-sbryqmpe"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 20,
             "name": "Regular Pass | 12th September |  6 PM",
             "url": "https://www.skillboxes.com/events/ticket/to-forget-is-to-remember-is-to-forget-sbryqmpe"
          },
