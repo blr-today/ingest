@@ -2,6 +2,74 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Technoroom",
+      "endDate": "2026-09-11T23:55:00",
+      "identifier": "com.skillboxes.41232",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17886886771TqPVp3Epthjgjg4.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "TECHNO ROOM FESTIVAL — KITTY KO",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Free Pass",
+            "url": "https://www.skillboxes.com/events/ticket/technoroom-sbmifhvk"
+         }
+      ],
+      "startDate": "2026-09-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/technoroom-sbmifhvk"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Rock performance by H2S to celebrate live stage launch ",
+      "endDate": "2026-09-12T23:55:00",
+      "identifier": "com.skillboxes.41228",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1788674245ZA0eofeytDz3922c.jpeg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd Floor, Pillar No 56, K. P Square, 307, 100 Feet Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9808686",
+            "longitude": "77.6405355"
+         },
+         "name": "Bajaao Music Store | Live stage | Studio and Jam Room"
+      },
+      "name": "Bajaao Live Stage Launch",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bajaao-live-stage-launch-sblzlsqu"
+         }
+      ],
+      "startDate": "2026-09-12T20:30:00",
+      "url": "https://www.skillboxes.com/events/bajaao-live-stage-launch-sblzlsqu"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "B2N x VINYL AMBULANCESaturday, 26th SeptemberIndiranagar social",
       "endDate": "2026-09-27T00:30:00",
       "identifier": "com.skillboxes.41208",
