@@ -141,7 +141,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry for one couple\n- A cover charge of INR 1500 per person will be applicable for walk-in entries after 8:30PM at the venue",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Early Bird Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/redroom-ft-yellowheads-sbpafzgi"
          },
@@ -168,7 +168,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "SoMAD LAB presents Dave Nunes — coming to Bengaluru for a night built around global club sounds, infectious rhythms and a whole lot of energy.Known for his genre-bending approach to",
+      "description": "SoMAD LAB presents Dave Nunes — coming to Bengaluru for a night built around global club sounds, infectious rhythms and a whole lot of energy.\r\n\r\n \r\n\r\nKnown for his genre-bending approach to Afro, House, Baile Funk, Latin ",
       "endDate": "2026-09-26T23:55:00",
       "identifier": "com.skillboxes.41263",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1788782479b6hchUwxLUTWHq63.jpg.webp",
@@ -192,7 +192,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to one couple till 9:30pm only, post 9:30pm a mandatory cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 985,
             "name": "RSVP - Couple [Free Entry]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-ft-dave-nunes-and-friends-sboybbyr"
          },
@@ -200,7 +200,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to one single lady till 9:30pm only, post 9:30pm a mandatory cover charge will be applicable as per club rules and regulations.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 993,
             "name": "RSVP - Single Lady [FREE ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-ft-dave-nunes-and-friends-sboybbyr"
          },
@@ -242,7 +242,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 979,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/technoroom-sbmifhvk"
          }
@@ -276,7 +276,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 993,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/bajaao-live-stage-launch-sblzlsqu"
          }
@@ -713,15 +713,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates.\n",
-            "inventoryLevel": 5,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-maribou-state-sbgtuekg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at gates.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 45,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-maribou-state-sbgtuekg"
          },
@@ -729,8 +721,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates.\n",
-            "inventoryLevel": 50,
-            "name": "Couple Pass",
+            "inventoryLevel": 37,
+            "name": "Phase 1 Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-maribou-state-sbgtuekg"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charges applicable at gates.\n",
+            "inventoryLevel": 0,
+            "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/paradox-x-gylt-presents-maribou-state-sbgtuekg"
          }
       ],
