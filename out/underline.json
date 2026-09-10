@@ -37,6 +37,76 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-09-29T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Screening of The Apartment (1960) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/1025",
+      "startDate": "2026-09-29T19:30:00.000+05:30",
+      "url": "tba"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-22T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Screening of First Reformed (2017) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/1024",
+      "startDate": "2026-09-22T19:30:00.000+05:30",
+      "url": "https://www.district.in/screening-of-first-reformed-2017-with-cinema-next-door-sep22-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-09-19T17:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -206,6 +276,41 @@
       "sameAs": "https://underline.center/t/700",
       "startDate": "2026-09-16T19:00:00.000+05:30",
       "url": "https://district.in/after-hours-with-eleven-am-club/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-15T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Screening of Microhabitat (2017) with Cinema Next Door",
+      "sameAs": "https://underline.center/t/1023",
+      "startDate": "2026-09-15T19:30:00.000+05:30",
+      "url": "https://www.district.in/screening-of-microhabitat-2017-with-cinema-next-door-sep15-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -6857,110 +6962,5 @@
       "sameAs": "https://underline.center/t/141",
       "startDate": "2025-12-14T18:30:00.000+05:30",
       "url": "https://www.district.in/sunday-game-night-with-reroll-board-games/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-12-13T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Screening of The White Balloon (1995) with Cinema Next Door",
-      "sameAs": "https://underline.center/t/780",
-      "startDate": "2025-12-13T20:00:00.000+05:30",
-      "url": "https://www.district.in/screening-of-the-white-balloon-1995-with-cinema-next-door-dec13-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-12-13T17:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Piece-Off #16 - Speed Puzzling Competition with Playful Pursuits",
-      "sameAs": "https://underline.center/t/772",
-      "startDate": "2025-12-13T11:00:00.000+05:30",
-      "url": "https://www.district.in/piece-off-speed-puzzling-with-playful-pursuits/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-12-09T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Screening of Eternal Sunshine of the Spotless Mind (2004) with Cinema Next Door",
-      "sameAs": "https://underline.center/t/773",
-      "startDate": "2025-12-09T19:45:00.000+05:30",
-      "url": "https://www.district.in/events/screening-of-eternal-sunshine-of-the-spotless-mind-with-cinema-next-door-dec9-2025-buy-tickets?disableSSR=true"
    }
 ]
