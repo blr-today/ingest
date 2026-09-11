@@ -67,7 +67,7 @@
       "name": "Screening of The Apartment (1960) with Cinema Next Door",
       "sameAs": "https://underline.center/t/1025",
       "startDate": "2026-09-29T19:30:00.000+05:30",
-      "url": "tba"
+      "url": "https://www.district.in/screening-of-the-apartment-1960-with-cinema-next-door-sep29-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -240,7 +240,7 @@
       "name": "Bollywood Trivia Night by Quizzing Nemo",
       "sameAs": "https://underline.center/t/1026",
       "startDate": "2026-09-18T21:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://district.in/bollywood-trivia-night-by-quizzing-nemo-sep18-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -770,41 +770,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-09-06T17:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Jigsaw Junkies by Playful Pursuits",
-      "sameAs": "https://underline.center/t/60",
-      "startDate": "2026-09-06T12:00:00.000+05:30",
-      "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "endDate": "2026-09-05T22:30:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -940,6 +905,41 @@
       "sameAs": "https://underline.center/t/752",
       "startDate": "2026-09-04T20:30:00.000+05:30",
       "url": "https://district.in/the-clueless-crossword-by-quiz-pro-quo-may17-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-06T19:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Jigsaw Junkies by Playful Pursuits",
+      "sameAs": "https://underline.center/t/60",
+      "startDate": "2026-09-02T14:00:00.000+05:30",
+      "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
