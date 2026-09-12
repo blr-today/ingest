@@ -278,40 +278,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Rock performance by H2S to celebrate live stage launch ",
-      "endDate": "2026-09-12T23:55:00",
-      "identifier": "com.skillboxes.41228",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1788674245ZA0eofeytDz3922c.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "2nd Floor, Pillar No 56, K. P Square, 307, 100 Feet Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9808686",
-            "longitude": "77.6405355"
-         },
-         "name": "Bajaao Music Store | Live stage | Studio and Jam Room"
-      },
-      "name": "Bajaao Live Stage Launch",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 931,
-            "name": "Regular Pass",
-            "url": "https://www.skillboxes.com/events/ticket/bajaao-live-stage-launch-sblzlsqu"
-         }
-      ],
-      "startDate": "2026-09-12T20:30:00",
-      "url": "https://www.skillboxes.com/events/bajaao-live-stage-launch-sblzlsqu"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "B2N x VINYL AMBULANCE\r\n\r\nSaturday, 26th September\r\n\r\nIndiranagar social\r\n\r\n \r\n\r\n8 DJs - extended sets \r\nTwo dance-floors\r\n \r\n\r\n",
       "endDate": "2026-09-27T00:30:00",
       "identifier": "com.skillboxes.41208",
@@ -447,7 +413,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 499 applicable at gates.\n",
-            "inventoryLevel": 956,
+            "inventoryLevel": 954,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/rhythm-shaw-live-nothing-to-lose-india-tour-2026-bangalore-sbhprdiu"
          }
@@ -755,7 +721,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
-            "inventoryLevel": 29,
+            "inventoryLevel": 23,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
          },
@@ -763,15 +729,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
-            "inventoryLevel": 5,
-            "name": "Group of 2 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Group of 4 Pass",
             "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
          },
@@ -789,6 +747,14 @@
             "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
             "inventoryLevel": 19,
             "name": "Phase 1 Pass",
+            "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
+            "inventoryLevel": 0,
+            "name": "Group of 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
          }
       ],
@@ -821,7 +787,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 149,
+            "inventoryLevel": 147,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-big-bad-bash-ft-runt-hoirong-sbzcqqpt"
          }
@@ -856,7 +822,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 999 applicable at gates.\n",
-            "inventoryLevel": 928,
+            "inventoryLevel": 926,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/blackstratblues-at-hamilton-cocktail-bar-sbygtrrf"
          }
@@ -938,7 +904,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 120,
+            "inventoryLevel": 105,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/synthesia-fm-sbqwevtr"
          },
@@ -946,7 +912,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Group of 3\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 13,
             "name": "Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/synthesia-fm-sbqwevtr"
          }
@@ -1058,89 +1024,6 @@
       ],
       "startDate": "2026-08-01T12:00:00",
       "url": "https://www.skillboxes.com/events/the-konkan-kitchen-chronicles-sbnrauov"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "THE DEVOID EXPERIENCE 02\r\n\r\n12 SEPTEMBER 2026 | GYLT, BANGALORE\r\n\r\nDevoid returns with a new audiovisual experience built around one idea — to transform the space completely.\r\n\r\nExpect large-scale projection mapping, imm",
-      "endDate": "2026-09-12T23:59:00",
-      "identifier": "com.skillboxes.40828",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1787678757VFWLnNJJIgU7l18U.jpeg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "22, Hennur Bagalur Main Rd, Visthar, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0708502",
-            "longitude": "77.6519088"
-         },
-         "name": "GYLT"
-      },
-      "name": "The Devoid Experience | 12 September 2026 | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "GA Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 995,
-            "name": "GA Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "VIP Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "GA Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 998,
-            "name": "VIP Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "VIP Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird GA Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird GA Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
-         }
-      ],
-      "startDate": "2026-09-12T17:00:00",
-      "url": "https://www.skillboxes.com/events/the-devoid-experience-12-september-2026-bangalore-sbeidixg"
    },
    {
       "@context": "https://schema.org",
@@ -1278,105 +1161,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready, Bangalore! The undisputed king of Futureprog is touching down to deliver a night of mind-bending beats, infectious energy, and pure dancefloor magic.\r\n\r\nOn September 12th, the legendary Mandragora",
-      "endDate": "2026-09-12T23:59:00",
-      "identifier": "com.skillboxes.40557",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1786644828gl8JPew6MxCpBm0K.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0418817",
-            "longitude": "77.61604249999999"
-         },
-         "name": "ICB INDIAN CRAFT BREWERY"
-      },
-      "name": "Mandragora Live In Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 2 || GA Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 2 || VIP Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 || Backstage Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 2 || GA Pass || Group of 5",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 2 || VIP Pass || Group of 5",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird GA Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 987,
-            "name": "Early Bird VIP Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 || GA Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 || VIP Pass",
-            "url": "https://www.skillboxes.com/events/ticket/mandragora-live-in-bangalore-sbhncodb"
-         }
-      ],
-      "startDate": "2026-09-12T19:00:00",
-      "url": "https://www.skillboxes.com/events/mandragora-live-in-bangalore-sbhncodb"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Job Kurian is a singer-songwriter from Alleppey, Kerala-the land of serene backwaters. Deeply rooted in Kerala's traditional folk music, his sound blends world music with alternative folk influences, fusing classical, contemporary, pop, and al",
       "endDate": "2026-10-10T23:00:00",
       "identifier": "com.skillboxes.40412",
@@ -1401,7 +1185,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge applicable at the venue full redeemable on F&B\n",
-            "inventoryLevel": 621,
+            "inventoryLevel": 617,
             "name": "Phase 2 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
          },
@@ -1423,104 +1207,5 @@
       ],
       "startDate": "2026-10-10T20:00:00",
       "url": "https://www.skillboxes.com/events/job-kurian-live-sbvhuqlg"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Bangalores Biggest Open Air Qawwali Experience\r\n\r\nStep into an unforgettable evening where music, emotions and culture come together under the open sky.\r\n\r\nThis September, experience Sukoon Wali Qawwali live at Phoen",
-      "endDate": "2026-09-12T23:59:00",
-      "identifier": "com.skillboxes.38139",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1783508061rRnvhhYxHdVqdRTu.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Open Air Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "XMWW+XCV, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9973328",
-            "longitude": "77.6960943"
-         },
-         "name": "Phoenix Marketcity Courtyard"
-      },
-      "name": "SUKOON WALI QAWWALI : LIVE CONCERT EXPERIENCE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows one person to the event.\n",
-            "inventoryLevel": 999,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows 1 kid from 5-14yrs of age to the concert accompanied by parents\n",
-            "inventoryLevel": 1000,
-            "name": "Kids Pass (5 to 14 Years)",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows 1 person to the concert Vip standing zone\n",
-            "inventoryLevel": 998,
-            "name": "Early Bird VIP Standing Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows 3 person to the general access area.\n",
-            "inventoryLevel": 998,
-            "name": "Early Bird Pass || Group of 3",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows 1 person to the Fan pit zone.\n",
-            "inventoryLevel": 998,
-            "name": "Early Bird Fanpit Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows 5 person to the general access area.\n",
-            "inventoryLevel": 999,
-            "name": "Early Bird Pass || Group of 5",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows one person to concert at Vip Standing zone\nAllows one person to meet and greet with artist.",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Meet and Greet",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Includes Table for 4 || Includes 1 IMFL liquor bottle\nComplimentary mixers",
-            "inventoryLevel": 1000,
-            "name": "Sukoon lounge for 4 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Includes Table for 8 || Includes 2 IMFL liquor bottle\nComplimentary mixers",
-            "inventoryLevel": 1000,
-            "name": "Sukoon lounge for 8 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-live-concert-experience-sblzueib"
-         }
-      ],
-      "startDate": "2026-09-12T18:00:00",
-      "url": "https://www.skillboxes.com/events/sukoon-wali-qawwali-live-concert-experience-sblzueib"
    }
 ]
