@@ -2,6 +2,56 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Cincity Live at Mirage",
+      "endDate": "2026-09-19T01:00:00",
+      "identifier": "com.skillboxes.41454",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1789319129pScYhCdt6o6nNzTX.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, 1 Sobha, Sobha Mall, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9752892",
+            "longitude": "77.6024206"
+         },
+         "name": "Mirage"
+      },
+      "name": "Cincity Live at Mirage",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/cincity-live-at-mirage-sbfaafeo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Couples walk in free till 9:30 post that cover charges are applicable\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/cincity-live-at-mirage-sbfaafeo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Full Cover | Includes a cover charge of 499, an additional cover charge of 2500, applicable at the venue\n",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/cincity-live-at-mirage-sbfaafeo"
+         }
+      ],
+      "startDate": "2026-09-18T20:00:00",
+      "url": "https://www.skillboxes.com/events/cincity-live-at-mirage-sbfaafeo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Objection Overruled",
       "endDate": "2026-10-03T18:00:00",
       "identifier": "com.skillboxes.41394",
@@ -413,7 +463,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 499 applicable at gates.\n",
-            "inventoryLevel": 954,
+            "inventoryLevel": 950,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/rhythm-shaw-live-nothing-to-lose-india-tour-2026-bangalore-sbhprdiu"
          }
@@ -721,7 +771,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
-            "inventoryLevel": 23,
+            "inventoryLevel": 22,
             "name": "Phase 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
          },
@@ -729,7 +779,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 500 applicable at gates before 10:00pm. After 10:00pm cover charges of INR 1000 will be applicable.\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 2,
             "name": "Group of 4 Pass",
             "url": "https://www.skillboxes.com/events/ticket/space-session-presents-donn-bhat-sbbdedrl"
          },
@@ -787,7 +837,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 147,
+            "inventoryLevel": 145,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-big-bad-bash-ft-runt-hoirong-sbzcqqpt"
          }
@@ -822,55 +872,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges of INR 999 applicable at gates.\n",
-            "inventoryLevel": 926,
+            "inventoryLevel": 925,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/blackstratblues-at-hamilton-cocktail-bar-sbygtrrf"
          }
       ],
       "startDate": "2026-10-09T18:00:00",
       "url": "https://www.skillboxes.com/events/blackstratblues-at-hamilton-cocktail-bar-sbygtrrf"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Two bands, one night, absolute vibes. The Radio Magazines and Dreamstate are sharing a stage and dragging indie, synthwave, psych-rock and rocktronic into one messy, glowing pile of sound. Think lush pads wrapped in a fuzzy wall of guitars, a basslin",
-      "endDate": "2026-09-13T22:15:00",
-      "identifier": "com.skillboxes.40977",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UEZGaUlHNkNva3RMNGE1bi9YVmI3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1787914823BY6ylmRBLpp2Lt0s.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Live Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "2nd Floor, No 227, Leela Square Building, 3rd Main, 4th A Cross Rd, off Bannerghatta Road, Panduranga Nagar, Bengaluru, Karnataka 560076, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.8929802",
-            "longitude": "77.59561409999999"
-         },
-         "name": "Prism by Octavium"
-      },
-      "name": "Synthesia FM",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 105,
-            "name": "Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/synthesia-fm-sbqwevtr"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Group of 3\n",
-            "inventoryLevel": 13,
-            "name": "Group of 3",
-            "url": "https://www.skillboxes.com/events/ticket/synthesia-fm-sbqwevtr"
-         }
-      ],
-      "startDate": "2026-09-13T19:00:00",
-      "url": "https://www.skillboxes.com/events/synthesia-fm-sbqwevtr"
    },
    {
       "@context": "https://schema.org",
@@ -1004,7 +1012,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Only | This ticket admits one person. Additional cover charges will apply after 9:00 PM.\n",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/unit-909-x-mob-mind-presents-lokier-frozen-fader-priaa-on-19th-sep-at-indiranagar-social-bangalore-sbrylqqd"
          },
@@ -1137,7 +1145,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge applicable at the venue full redeemable on F&B\n",
-            "inventoryLevel": 617,
+            "inventoryLevel": 613,
             "name": "Phase 2 GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/job-kurian-live-sbvhuqlg"
          },
