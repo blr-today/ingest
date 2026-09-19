@@ -1,56 +1,6 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "Cubbon Park Run with PaceX",
-    "url": "https://indiarunning.com/events/cubbon_park_run_with_pacex_30630",
-    "startDate": "2026-09-19T07:00:00+05:30",
-    "endDate": "2026-09-19T08:30:00+05:30",
-    "description": "A relaxed Sunday morning run through the heart of Bangalore, followed by a chance to slow down, hang out, and actually get to know the people you run with.\n\ud83c\udfc3\u200d\u2640\ufe0f \nCommunity Run\n through Cubbon Park\n\ud83e\udd1d \nSocialising with the PaceX community\nCome for the miles, stay for the people. \nJust run, hang out, and have a good Sunday.",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/09/19/cubbon-park-run-with-pacex-2026/banner1787648882032",
-    "location": {
-      "@type": "Place",
-      "name": "Ambedkar Veedhi",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Cubbon Park, XHJW+36F, behind India Post - Bengaluru General Post Office, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9801793,
-        "longitude": 77.5955551
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "2.5K",
-        "price": "99",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "99",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "7K",
-        "price": "99",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "BeAthlit Lake Run - September 2026 Edition",
     "url": "https://indiarunning.com/events/beathlitlakerunseptember2026edition-36418",
     "startDate": "2026-09-20T06:00:00+05:30",
@@ -552,6 +502,56 @@
         "@type": "Offer",
         "name": "10k",
         "price": "1000",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "HRX HALF MARATHON 4 - Bengaluru",
+    "url": "https://indiarunning.com/events/hrx_4_half_marathon_bengaluru_37807",
+    "startDate": "2026-11-15T05:45:00+05:30",
+    "endDate": "2026-11-15T05:00:00+05:30",
+    "description": "HRX welcomes you to the HRX Half Marathon Bengaluru!\nBengaluru, it\u2019s time to run harder, push further, and test what you\u2019re capable of.\nThis November, thousands of runners from across the HRX community will come together on the iconic NICE Road for a morning fuelled by energy, endurance and the relentless drive to keep going.\nWhether you\u2019re taking your first step into running with the HRX RAVE5 - a 5K run to kickstart your journey, or pushing your pace with the HRX FAST10. And ofcourse taking on the ultimate challenge of the 21K Half Marathon, there\u2019s a distance waiting to challenge you.\nLast date of registration: \nNovember 2nd, 2026\nEvent Date: Sunday, 15th November 2026\nEvent Venue: NICE Road, Bengaluru\nLace up. Find your pace. Push past your limits. And when it gets tough, Keep Going.\nRun with the community. Run for the challenge. Run to become unstoppable.\n#RunWithHRX",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/15/hrx-4-half-marathon--bengaluru--2026/banner1789229889537",
+    "location": {
+      "@type": "Place",
+      "name": "Dwaraka Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "WGPJ+JFW, Dwaraka Nagar, Hosakerehalli, Bengaluru, Karnataka 560026, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560026",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9366173,
+        "longitude": 77.53119319999999
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "1062.50",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "1062.50",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "21.1K",
+        "price": "1062.50",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
