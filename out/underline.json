@@ -562,6 +562,76 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2026-09-26T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Weekend Games with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/664",
+      "startDate": "2026-09-26T18:00:00.000+05:30",
+      "url": "https://www.district.in/weekend-games-with-reroll/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-26T16:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
+      "sameAs": "https://underline.center/t/916",
+      "startDate": "2026-09-26T14:00:00.000+05:30",
+      "url": "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2026-09-25T23:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -663,6 +733,41 @@
       "sameAs": "https://underline.center/t/17",
       "startDate": "2026-09-24T19:00:00.000+05:30",
       "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-23T22:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Make an Improv Song: Musical Improv Jam by Improv Lore",
+      "sameAs": "https://underline.center/t/919",
+      "startDate": "2026-09-23T20:00:00.000+05:30",
+      "url": "https://district.in/make-an-improv-song-musical-improv-jam-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -838,41 +943,6 @@
       "sameAs": "https://underline.center/t/60",
       "startDate": "2026-09-20T14:00:00.000+05:30",
       "url": "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-09-19T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Weekend Games with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/664",
-      "startDate": "2026-09-19T18:00:00.000+05:30",
-      "url": "https://www.district.in/weekend-games-with-reroll/event"
    },
    {
       "@context": "https://schema.org",
@@ -1256,41 +1326,6 @@
       "sameAs": "https://underline.center/t/1009",
       "startDate": "2026-09-12T10:00:00.000+05:30",
       "url": "https://www.district.in/munnudi-kannada-basic-spoken-kannada-classes-with-pradeep-khaadri-sep12-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-09-09T22:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
-      "sameAs": "https://underline.center/t/916",
-      "startDate": "2026-09-09T20:00:00.000+05:30",
-      "url": "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -1813,41 +1848,6 @@
       "sameAs": "https://underline.center/t/785",
       "startDate": "2026-08-21T21:00:00.000+05:30",
       "url": "https://district.in/bengaluru-starter-pack-a-trivia-game-show-with-tasty-trivia-aug21-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-08-19T22:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Make an Improv Song: Musical Improv Jam by Improv Lore",
-      "sameAs": "https://underline.center/t/919",
-      "startDate": "2026-08-19T20:00:00.000+05:30",
-      "url": "https://district.in/make-an-improv-song-musical-improv-jam-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
