@@ -2,41 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2026-10-21T22:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Whimsical Wednesday with Improv Lore",
-      "sameAs": "https://underline.center/t/19",
-      "startDate": "2026-10-21T20:00:00.000+05:30",
-      "url": "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "endDate": "2026-10-11T20:30:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -172,7 +137,7 @@
       "name": "TheatreSports - All Play No Work by Improv Lore",
       "sameAs": "https://underline.center/t/1034",
       "startDate": "2026-10-02T23:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://district.in/theatresports-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -207,7 +172,7 @@
       "name": "Musical Improv Show - All Play No Work by Improv Lore",
       "sameAs": "https://underline.center/t/1033",
       "startDate": "2026-10-02T21:30:00.000+05:30",
-      "url": "tba"
+      "url": "https://district.in/musical-improv-show-by-improv-lore-world-music-day-jun21-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -347,7 +312,7 @@
       "name": "Yes, and Dragons - All Play No Work by Improv Lore",
       "sameAs": "https://underline.center/t/1029",
       "startDate": "2026-10-02T17:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://district.in/yes-and-dragons-a-dungeons-dragons-inspired-show-by-improv-lore-may1-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -382,7 +347,7 @@
       "name": "Maestro Impro™️- All Play No Work by Improv Lore",
       "sameAs": "https://underline.center/t/1028",
       "startDate": "2026-10-02T15:30:00.000+05:30",
-      "url": "tba"
+      "url": "https://district.in/maestro-impro-by-improv-lore-oct2-2026/event"
    },
    {
       "@context": "https://schema.org",
@@ -417,7 +382,42 @@
       "name": "PowerPoint Roulette - All Play No Work by Improv Lore",
       "sameAs": "https://underline.center/t/1027",
       "startDate": "2026-10-02T14:00:00.000+05:30",
-      "url": "tba"
+      "url": "https://district.in/powerpoint-roulette-by-improv-lore-may1-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-30T22:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Whimsical Wednesday with Improv Lore",
+      "sameAs": "https://underline.center/t/19",
+      "startDate": "2026-09-30T20:00:00.000+05:30",
+      "url": "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
@@ -453,6 +453,41 @@
       "sameAs": "https://underline.center/t/1025",
       "startDate": "2026-09-29T19:30:00.000+05:30",
       "url": "https://www.district.in/screening-of-the-apartment-1960-with-cinema-next-door-sep29-2026/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2026-09-28T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Bangalore Puzzle Pals with Playful Pursuits",
+      "sameAs": "https://underline.center/t/14",
+      "startDate": "2026-09-28T18:30:00.000+05:30",
+      "url": "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
@@ -838,41 +873,6 @@
       "sameAs": "https://underline.center/t/1024",
       "startDate": "2026-09-22T19:30:00.000+05:30",
       "url": "https://www.district.in/screening-of-first-reformed-2017-with-cinema-next-door-sep22-2026/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2026-09-21T22:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Bangalore Puzzle Pals with Playful Pursuits",
-      "sameAs": "https://underline.center/t/14",
-      "startDate": "2026-09-21T18:30:00.000+05:30",
-      "url": "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
