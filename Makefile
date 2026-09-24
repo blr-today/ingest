@@ -152,7 +152,7 @@ out/sis.json:
 	python -m src.sources.sis || $(call restore-file,$@)
 
 out/bcc.json:
-	wget -q "https://bangalorechessclub.in/api/upcoming.json" -O $@ || $(call restore-file,$@)
+	python -m src.sources.bcc || $(call restore-file,$@)
 
 out/pumarun.txt:
 	python -m src.sources.eventbrite pumarun | sort > $@ || $(call restore-file,$@)
