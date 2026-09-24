@@ -38,11 +38,13 @@ def generate_calendar():
         # fetch the event
         response = session.get(url, headers=HEADERS)
         soup = BeautifulSoup(response.text, "html.parser")
-        category = soup.select_one("article .sub-title").text
+        # The redesigned event page no longer exposes a category element
+        sub_title = soup.select_one("article .sub-title")
+        category = sub_title.text if sub_title else None
         response = session.get(url + "ical/", headers=HEADERS)
         if response.status_code == 200:
             for e in Calendar(response.text).events:
-                e.categories = [category, "MAP", "CBD"]
+                e.categories = [tag for tag in [category, "MAP", "CBD"] if tag]
                 c.events.add(e)
     return c
 
