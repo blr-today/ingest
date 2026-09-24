@@ -750,7 +750,10 @@ WHERE
   OR event_json ->> '$.name' LIKE 'dj %'
   OR event_json ->> '$.name' LIKE '%dj night%'
   OR event_json ->> '$.name' LIKE '%dj party%'
-  OR event_json ->> '$.name' LIKE '%karaoke%'
+  OR (
+    event_json ->> '$.name' LIKE '%karaoke%'
+    AND (url LIKE '%highape.com%' OR url LIKE '%allevents.in%' OR url LIKE '%district.in%' OR url LIKE '%skillboxes.com%')
+  )
   OR event_json ->> '$.name' LIKE '%theme night%'
   OR event_json ->> '$.name' LIKE '%theme party%'
   OR event_json ->> '$.name' LIKE '%tamil night%'
