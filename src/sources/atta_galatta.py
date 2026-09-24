@@ -29,9 +29,10 @@ def make_event(event):
     description = soup.select_one("#product-content").text.strip()
 
     divs = soup.select(".product-attribute")
-    subtitle = divs[0].text.strip()
-    performers = divs[1].text.strip()
-    keywords = [x.strip() for x in divs[2].text.split("|")]
+    # some events omit trailing attribute divs (e.g. no keywords)
+    subtitle = divs[0].text.strip() if len(divs) > 0 else ""
+    performers = divs[1].text.strip() if len(divs) > 1 else ""
+    keywords = [x.strip() for x in divs[2].text.split("|")] if len(divs) > 2 else []
 
     startTime = list(
         datefinder.find_dates(event["eventstarttime"], base_date=event["date"])
@@ -81,7 +82,12 @@ def make_event(event):
 
 
 if __name__ == "__main__":
-    data = [make_event(event) for event in fetch_events()]
+    data = []
+    for event in fetch_events():
+        try:
+            data.append(make_event(event))
+        except Exception as e:
+            print(f"skipping event {event.get('link')}: {e}")
 
     with open("out/atta_galatta.json", "w") as f:
         json.dump(data, f, indent=2)
