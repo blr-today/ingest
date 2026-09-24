@@ -133,9 +133,11 @@ def make_event(x):
                         else None
                     ),
                     "address": x["address"],
-                    "url": f"https://www.google.com/maps/search/?api=1&query=Google&query_place_id={x['google_place_id']}"
-                    if x.get("google_place_id")
-                    else None,
+                    **(
+                        {"url": f"https://www.google.com/maps/search/?api=1&query=Google&query_place_id={x['google_place_id']}"}
+                        if x.get("google_place_id")
+                        else {}
+                    ),
                     "latitude": x["lat"],
                     "longitude": x["lng"],
                 },
