@@ -31,7 +31,6 @@ wherever necessary.
 - Max Mueller Bhavan
 - Zomato Insider
 - PUMA Nitro Runs
-- PVR Cinema Movie Screenings
 - Sisters in Sweat
 - Skillboxes
 - Sofar

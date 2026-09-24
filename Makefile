@@ -125,9 +125,6 @@ out/creativemornings.txt:
 out/adidas.json:
 	python -m src.sources.adidas || $(call restore-file,$@)
 
-out/pvr-cinemas.csv:
-	python -m src.sources.pvr || ($(call restore-file,$@); $(call restore-file,"out/pvr-movies.csv"); $(call restore-file,"out/pvr-sessions.csv"))
-
 out/ticketnew/cinemas.csv:
 	mkdir -p out/ticketnew
 	python -m src.sources.ticketnew || echo "[TICKETNEW] FAILED";
@@ -217,7 +214,6 @@ fetch: out/allevents.txt \
  out/tonight.json \
  out/creativemornings.txt \
  out/adidas.json \
- out/pvr-cinemas.csv \
  out/ticketnew/cinemas.csv \
  out/trove.json \
  out/atta_galatta.json \

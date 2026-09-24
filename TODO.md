@@ -25,7 +25,6 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [Trove Experiences][trove]     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
 | [Tonight.is][tonight]          | ✔️      | ✔️     | ❌          | Only parties, regulars ignored for now.
-| PVR Cinemas                    | ✔️      | ✔️     | ❌          | Covers only PVR cinemas
 | Together.buzz                  | ✔️      | ✔️     | ✔️          | 
 | Creative Mornings BLR          | ✔️      | ✔️     | ✔️          | 
 | Adidas Runners                 | ✔️      | ✔️     | ✔️          | 
