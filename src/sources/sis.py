@@ -1,14 +1,12 @@
-from bs4 import BeautifulSoup
 import requests
 from common.tz import IST
-from html import escape
 import json
 import datetime
 import re
-import os
-import datefinder
 
 BASE_URL = "https://sistersinsweat.com"
+CITY_PATH = "/bengaluru"
+FUTURE_WINDOW = datetime.timedelta(days=90)
 KNOWN_SPORTS = {
     "frisbee": "Frisbee",
     "pickleball": "Pickleball",
@@ -23,41 +21,119 @@ KNOWN_SPORTS = {
 }
 
 
-def fetch_sessions_html(session):
-    body = """{
-      "City": "BENGALURU"
-    }
-    """
-    response = session.post(
-        BASE_URL + "/filter-events",
-        data=body,
-        headers={"content-type": "application/json"},
-    )
+def fetch_page(session, path):
+    response = session.get(BASE_URL + path)
+    response.raise_for_status()
     return response.text
 
 
-def make_event_details(soup):
-    l = soup.select_one(".box-button a").get("href")
-    if "package-detail" in l:
+# Page data ships as escaped JSON strings in Next.js self.__next_f.push() calls
+def extract_rsc_text(html):
+    chunks = re.findall(r"self\.__next_f\.push\(\[1,(\".*?\")\]\)", html, re.S)
+    return "".join(json.loads(c) for c in chunks)
+
+
+def extract_balanced_array(text, key):
+    idx = text.find(f'"{key}":')
+    if idx == -1:
         return None
-    if "Yoga" in l:
+    start = idx + len(key) + 3
+    depth = 0
+    in_str = False
+    esc = False
+    for i in range(start, len(text)):
+        c = text[i]
+        if in_str:
+            if esc:
+                esc = False
+            elif c == "\\":
+                esc = True
+            elif c == '"':
+                in_str = False
+        elif c == '"':
+            in_str = True
+        elif c == "[":
+            depth += 1
+        elif c == "]":
+            depth -= 1
+            if depth == 0:
+                return json.loads(text[start : i + 1])
+    return None
+
+
+def clean(value):
+    return None if value in (None, "$undefined") else value
+
+
+def fetch_cards(session):
+    text = extract_rsc_text(fetch_page(session, CITY_PATH))
+    return extract_balanced_array(text, "cards") or []
+
+
+def fetch_product_details(session, slug):
+    text = extract_rsc_text(fetch_page(session, f"{CITY_PATH}/products/{slug}"))
+    address_match = re.search(r'"rt-0-0",\{"children":"([^"]*)"\}', text)
+    address = address_match.group(1) if address_match else None
+    time_match = re.search(
+        r'"text-sm font-semibold text-ink-dark","children":(\["[^\]]*\]|"[^"]*")',
+        text,
+    )
+    end_time_text = None
+    if time_match:
+        value = json.loads(time_match.group(1))
+        if isinstance(value, list) and len(value) == 2:
+            end_time_text = value[1].strip(" –-")
+    return address, end_time_text
+
+
+def parse_end_time(start, end_time_text):
+    try:
+        end_time = datetime.datetime.strptime(end_time_text, "%I:%M %p").time()
+    except ValueError:
+        return None
+    end = datetime.datetime.combine(start.date(), end_time, tzinfo=start.tzinfo)
+    if end <= start:
+        end += datetime.timedelta(days=1)
+    return end
+
+
+def guess_sport(card, slug):
+    activity = clean(card.get("activityName"))
+    if activity:
+        return activity.strip().title()
+    for key, value in KNOWN_SPORTS.items():
+        if key in slug.lower():
+            return value
+    return None
+
+
+def make_events(session, card):
+    slug = card["slug"]
+    title = card["title"]
+    if "package-detail" in slug.lower():
+        return []
+    if any(word in title.lower() for word in ["subscription", "package"]):
+        return []
+    venue = clean(card.get("venueName"))
+    if venue and "virtual" in venue.lower():
+        return []
+
+    url = f"{BASE_URL}{CITY_PATH}/products/{slug}"
+    if "yoga" in slug.lower():
         event_type = "SocialEvent"
-    elif "Pizza" in l or "cooking" in l:
+    elif "pizza" in slug.lower() or "cooking" in slug.lower():
         event_type = "FoodEvent"
     else:
         event_type = "SportsEvent"
-    description = f"See more details at {BASE_URL + l}"
-    # Remove the price from the description
-    title = soup.select_one(".title").text.strip()
-    # Not an event
-    NOT_EVENT = ["subscription", "package"]
-    for word in NOT_EVENT:
-        if word in title.lower():
-            return None
-    event = {
+
+    address, end_time_text = fetch_product_details(session, slug)
+    price = clean(card.get("fromPricePaise")) or 0
+    price_rupees = price // 100
+
+    base = {
         "name": title,
         "@type": event_type,
-        "url": BASE_URL + l,
+        "url": url,
         "@context": "https://schema.org",
         "keywords": ["SISTERSINSWEAT"],
         "audience": {"@type": "Audience", "AudienceType": "women"},
@@ -69,79 +145,48 @@ def make_event_details(soup):
             "name": "Sisters In Sweat",
             "url": "https://sistersinsweat.com",
         },
+        "description": f"See more details at {url}",
+        "isAccessibleForFree": price_rupees == 0,
+        "offers": [
+            {"@type": "Offer", "price": str(price_rupees), "priceCurrency": "INR"}
+        ],
     }
-    # Since SISTERSINSWEAT events can be non-sport events as well
-    # we add a secondary tag as well to help with filtering
     if event_type == "SportsEvent":
-        event["keywords"].append("SISTERSINSWEAT/SPORTS")
-        try:
-            event["sport"] = l.split("-")[3]
-        except:
-            # Use KNOWN_SPORTS to determine the sport
-            for key, value in KNOWN_SPORTS.items():
-                if key in l.lower():
-                    event["sport"] = value
-                    break
+        base["keywords"].append("SISTERSINSWEAT/SPORTS")
+        sport = guess_sport(card, slug)
+        if sport:
+            base["sport"] = sport
     else:
-        event["keywords"].append("SISTERSINSWEAT/SESSION")
+        base["keywords"].append("SISTERSINSWEAT/SESSION")
 
-    event["description"] = description.replace("\n \n", "\n").strip()
+    image = clean(card.get("bannerImageUrl"))
+    if image:
+        base["image"] = BASE_URL + image
+    if venue and address:
+        base["location"] = {"name": venue, "address": address, "type": "Place"}
 
-    img = soup.select_one(".box-image img")
-    if img:
-        event["image"] = img.get("src")
-    v = soup.select_one(".box-city h3")
-    # Ignore virtual events
-    if v:
-        if "Virtual" in v.text:
-            return None
-        venue_text = v.text
-        if "cubbon park" in venue_text.lower():
-            venue_text = "Cubbon Park"
-            venue_address = "Kasturba Road, Bangalore"
-        else:
-            venue_address = v.find_next("p").get_text(" ")
-            # Drop all text after ", Bengaluru"
-            if ", Bengaluru" in venue_address:
-                venue_address = venue_address.split(", Bengaluru")[0]
-        event["location"] = {
-            "name": venue_text.strip(),
-            "address": venue_address.strip(),
-            "type": "Place",
-        }
-    date = soup.select_one(".box-date")
-    if date:
-        date_text = (
-            date.select_one(".box-date .date-text1").text.strip()
-            + " "
-            + date.select_one(".box-date .date-text2").text.strip()
-        )
-        time_text = date.select_one(".box-date .date-text3").text.strip()
-        start_time, end_time = time_text.split("-")
-
-        startDate = list(datefinder.find_dates(date_text + " " + start_time))[0]
-        endDate = list(datefinder.find_dates(date_text + " " + end_time))[0]
-
-        event["startDate"] = startDate.replace(tzinfo=IST).isoformat()
-        event["endDate"] = endDate.replace(tzinfo=IST).isoformat()
-    else:
-        print("No date found " + l)
-        return None
-    return event
-
-
-def fetch_event_boxes(html):
-    soup = BeautifulSoup(html, "html.parser")
-    return soup.select(".list-view-box")
+    now = datetime.datetime.now(IST)
+    horizon = now + FUTURE_WINDOW
+    occurrences = clean(card.get("occurrenceDates")) or []
+    events = []
+    for occurrence in occurrences:
+        start = datetime.datetime.fromisoformat(occurrence).astimezone(IST)
+        if start < now or start > horizon:
+            continue
+        event = dict(base)
+        event["startDate"] = start.isoformat()
+        if end_time_text and len(occurrences) == 1:
+            end = parse_end_time(start, end_time_text)
+            if end:
+                event["endDate"] = end.isoformat()
+        events.append(event)
+    return events
 
 
 if __name__ == "__main__":
     session = requests.Session()
-    html = fetch_sessions_html(session)
     events = []
-    for box_soup in fetch_event_boxes(html):
-        e = make_event_details(box_soup)
-        if e:
-            events.append(e)
+    for card in fetch_cards(session):
+        events.extend(make_events(session, card))
     with open("out/sis.json", "w") as f:
         json.dump(events, f, indent=2)
