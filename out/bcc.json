@@ -1,93 +1,74 @@
 [
-  
-  
-  
-
-  
-
-  
-    
-    
-    
-        {
-  "@context": "https://schema.org",
-  "@type": "SocialEvent",
-  "name": "Chess Connect - Rapid - Bangalore Chess Club",
-  "startDate": "2026-08-29T10:00:00+05:30",
-  "endDate": "2026-08-29T15:30:00+05:30",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-
-  "location": {
-    
-    "@type": "Place",
-    "name": "Blue Tokai",
-    "address": "WTC Annexe, Dr Rajkumar Road, Malleswaram, Rajajinagar, Bengaluru, Bengaluru, India"
-    
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "name": "Chess Connect - Rapid - Bangalore Chess Club",
+    "description": "## Event Details\n\nJoin us for the next edition of  **Chess Connect**\n\nEnjoy a day of friendly rapid chess, connect with fellow chess enthusiasts, and a lot of fun. Whether you\u2019re a regular tournament player or just getting back to the board, Chess Connect is designed to be fun, social, and welcoming for all levels.\n\nGreat games, good vibes, and exciting rewards await you at the board.",
+    "startDate": "2026-09-27T10:00:00+05:30",
+    "endDate": "2026-09-27T15:30:00+05:30",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Market Place",
+      "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India",
+      "hasMap": "https://maps.app.goo.gl/eCUD7AcNSVjBZeBu8"
+    },
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "300",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://bangalorechessclub.in/events/chess-connect-rapid-2026-09-27"
+      }
+    ],
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Chess Club",
+      "url": "https://bangalorechessclub.in"
+    },
+    "keywords": [
+      "bangalore chess club",
+      "chess"
+    ],
+    "url": "https://bangalorechessclub.in/events/chess-connect-rapid-2026-09-27"
   },
-  "isAccessibleForFree": false,
-  
-  "offers": [{
-    "@type": "Offer",
-    "price": "499",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_TI7awp4wNX7rBB/view/"
-  }],
-  
-  "organizer": {
-    "@type": "Organization",
-    "name": "Bangalore Chess Club",
-    "url": "https://bangalorechessclub.in"
-  },
-  "keywords": ["bangalore chess club", "chess"],
-  
-  "image": "https://bangalorechessclub.in/images/chessconnect_20260829.jpg",
-  
-  "url": "https://bangalorechessclub.in/chess-connect/2026-08-29/"
-}
-      
-    ,
-  
-    
-    
-    
-        {
-  "@context": "https://schema.org",
-  "@type": "SocialEvent",
-  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
-  "startDate": "2026-08-30T16:00:00+05:30",
-  "endDate": "2026-08-30T19:00:00+05:30",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-
-  "location": {
-    
-    "@type": "Place",
-    "name": "The Market Place",
-    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
-    
-  },
-  "isAccessibleForFree": false,
-  
-  "offers": [{
-    "@type": "Offer",
-    "price": "250",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_TSrS80gHhieear/view/"
-  }],
-  
-  "organizer": {
-    "@type": "Organization",
-    "name": "Bangalore Chess Club",
-    "url": "https://bangalorechessclub.in"
-  },
-  "keywords": ["bangalore chess club", "chess"],
-  
-  "image": "https://bangalorechessclub.in/images/chessconnect_20260830.jpg",
-  
-  "url": "https://bangalorechessclub.in/chess-connect/2026-08-30/"
-}
-      
-    
-  
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+    "description": "## Event Details\n\nJoin us for an exciting gathering of chess aficionados where we'll be combining our passion for the game with the pleasure of sipping on freshly brewed coffee. This event is all about camaraderie, friendly competition, and enjoying the intellectual challenge that chess brings.\n\n## What's Included\n\n- `Ticket includes food coupon \u20b9200`\n- 2.5 Hours of multiple Fun-filled Chess Variants",
+    "startDate": "2026-09-26T10:00:00+05:30",
+    "endDate": "2026-09-26T12:30:00+05:30",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Starbucks",
+      "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India",
+      "hasMap": "https://maps.app.goo.gl/2x4U2wbuN93VVbrd6"
+    },
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "350",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://bangalorechessclub.in/events/chess-cafe-a-chess-meetup-with-a-twist-2026-09-26"
+      }
+    ],
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Chess Club",
+      "url": "https://bangalorechessclub.in"
+    },
+    "keywords": [
+      "bangalore chess club",
+      "chess"
+    ],
+    "url": "https://bangalorechessclub.in/events/chess-cafe-a-chess-meetup-with-a-twist-2026-09-26"
+  }
 ]
