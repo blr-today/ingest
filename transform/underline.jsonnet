@@ -4,13 +4,22 @@ local transformEvent(event) =
     // Search for events with Cinema Club in title
     local cinema =
       std.length(std.findSubstr('cinema club', std.asciiLower(title))) > 0,
+    // Ticket link may be 'tba', so fall back to location URL, then the post
+    local location = std.get(event, 'location', ''),
+    local locationUrl =
+      if location != null && std.startsWith(location, 'http') then std.split(location, ' ')[0],
+    local eventUrl = std.get(event, 'url', ''),
+    local url =
+      if eventUrl != null && std.startsWith(eventUrl, 'http') then eventUrl
+      else if locationUrl != null then locationUrl
+      else 'https://underline.center' + event.post.url,
     '@context': 'https://schema.org',
     '@type': if cinema then 'ScreeningEvent' else 'SocialEvent',
     startDate: event.starts_at,
     keywords: ['UNDERLINE', 'INDIRANAGAR'],
     name: title,
     [if event.ends_at != null then 'endDate']: event.ends_at,
-    [if std.objectHas(event, 'url') then 'url']: event.url,
+    url: url,
     sameAs: 'https://underline.center/t/' + event.post.id,
     inLanguage: 'en',
     eventStatus: 'EventScheduled',
@@ -40,4 +49,5 @@ local transformEvent(event) =
 function(INPUT) [
   transformEvent(event)
   for event in std.parseJson(INPUT).events
+  if !std.get(event, 'is_expired', false)
 ]
