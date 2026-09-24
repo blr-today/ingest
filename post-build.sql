@@ -1,4 +1,8 @@
 -- Description: This script is executed before the build of the database
+-- json_replace is a no-op on missing keys, so give every event a keywords array
+UPDATE events SET event_json = json_set(event_json, '$.keywords', json('[]'))
+WHERE json_type(event_json, '$.keywords') IS NULL;
+
 -- Small World is not a good venue
 -- See 1/2 star rated reviews of their workshop at https://maps.app.goo.gl/UykxKFSYSgsEU6qCA
 -- Urban Solace is a good venue, but their events are all food discounts essentially.
@@ -15,7 +19,7 @@ SET
   )
 WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
-  OR event_json ->> '$.title' LIKE '%small world%'
+  OR event_json ->> '$.name' LIKE '%small world%'
   -- Gilly Super Bar in St Mark's Road is hosting mostly DJ nights
   -- and Small World events.
   OR ( 
@@ -103,18 +107,18 @@ SET
     )
   )
 WHERE
-  event_json ->> '$.organizer.name' = 'Odyssey vibes'
+  event_json ->> '$.organizer.name' LIKE 'Odyssey vibes'
   -- https://urbanaut.app/about-hightable
   -- Currently rated 2.7 at Urbanaut
   -- Mostly stranger meets which are anyway meh.
-  OR event_json ->> '$.organizer.name' = 'HighTable'
+  OR event_json ->> '$.organizer.name' LIKE 'HighTable'
   -- Stranger food meets rated 2.8
-  OR event_json ->> '$.organizer.name' = 'Bento Bento'
+  OR event_json ->> '$.organizer.name' LIKE 'Bento Bento'
   -- Singles Mixers
-  OR event_json ->> '$.organizer.name' = 'Lobster Search'
+  OR event_json ->> '$.organizer.name' LIKE 'Lobster Search'
   -- Low-quality Bangalore events or trips to outside BLR
   -- https://urbanaut.app/about-travel-trip-tourist
-  OR event_json ->> '$.organizer.name' = 'Travel Trip Tourist'
+  OR event_json ->> '$.organizer.name' LIKE 'Travel Trip Tourist'
   -- Coworking is not events.
   OR event_json ->> 'name' LIKE '%Co-Working%'
   -- Advertisement for Rage Room Indiranagar
@@ -211,7 +215,16 @@ WHERE
     OR event_json ->> '$.name' LIKE '%iskcon%'
     -- NOt exactly woowoo
     OR event_json ->> '$.organizer.name' LIKE '%ysmen international%'
+    -- Breathwork, ice baths and "reset rituals"
+    OR event_json ->> '$.organizer.name' LIKE '%soundsutraa%'
+    OR event_json ->> '$.name' LIKE '%family constellation%'
   );
+
+
+-- Religious bhajan sessions
+DELETE FROM events
+WHERE
+  event_json ->> '$.name' LIKE '%bhajan%';
 
 
 -- The Audacious Movement - WOOWOO
@@ -283,11 +296,24 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%vels studios and entertainment%'
   -- Indiranagar Mini Golf Arena advertisements
   OR event_json ->> '$.organizer.name' LIKE 'mini golf madness llp'
-  OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures'
+  OR event_json ->> '$.organizer.name' LIKE '%escape2explore%'
   OR event_json ->> '$.organizer.name' LIKE 'namma trip'
   OR event_json ->> '$.organizer.name' LIKE '%tripper trails%'
   OR event_json ->> '$.organizer.name' LIKE '%tripbae%'
   OR event_json ->> '$.organizer.name' LIKE '%bolantur prabhu keerthan%'
+  -- Around Big Cities treks list the organizer as a person
+  OR event_json ->> '$.organizer.name' LIKE 'ameeshi goenka'
+  OR event_json ->> '$.location.name' LIKE 'around big cities'
+  OR event_json ->> '$.organizer.name' LIKE '%wanderon%'
+  OR event_json ->> '$.organizer.name' LIKE 'thegreatbeyond.in'
+  OR event_json ->> '$.name' LIKE '%trek%'
+  OR event_json ->> '$.name' LIKE '%tour package%'
+  OR event_json ->> '$.name' LIKE '%astro camp%'
+  -- Multi-day trip packages that list a city pickup point as the venue
+  OR event_json ->> '$.description' LIKE '%package amount%'
+  OR event_json ->> '$.description' LIKE '%nights/days%'
+  -- Wellness retreat on the outskirts
+  OR event_json ->> '$.location.name' LIKE '%kshemavana%'
 
   -- All Travel events listed on HighApe
   OR (
@@ -345,7 +371,7 @@ WHERE
     OR event_json->>'$.keywords' LIKE '%Game Zones%'
     OR event_json->>'$.keywords' LIKE '%Go Karting%'
     OR event_json->>'$.keywords' LIKE '%Arcades%'
-    OR event_json->>'$.title' LIKE '%Agamer Game zone%'
+    OR event_json->>'$.name' LIKE '%Agamer Game zone%'
     OR event_json->>'$.keywords' LIKE '%Escape Room%'
     OR event_json->>'$.keywords' LIKE '%Trampoline Parks%'
     OR event_json->>'$.keywords' LIKE '%Shooting Range%'
@@ -437,9 +463,30 @@ WHERE
     -- Laser Hair Reduction sessions are not events
     'reflection facethetics bengaluru',
     'seed global education',
-    'etg career labs private limited'
-
+    'etg career labs private limited',
+    -- Startup meetups and pitches
+    'cedat',
+    -- Study abroad fairs
+    'career gyan',
+    -- Trade shows and summits
+    'asia jewels show',
+    'apparel resources pvt. ltd.',
+    'intoaec',
+    'world ai summit 2026',
+    'happiest health systems private limited',
+    -- Shopping exhibitions
+    'maya bazaar',
+    'brilarte media and marketing',
+    'house of indiexpo',
+    -- Finance, branding and founder sessions
+    'stockgro',
+    'creator chart',
+    'business beyond usual - think & build hours'
   )
+  OR lower(event_json ->> '$.organizer.name') LIKE '%exhibition%'
+  OR event_json ->> '$.name' LIKE '%lifestyle exhibition%'
+  OR event_json ->> '$.name' LIKE '%study abroad%'
+  OR event_json ->> '$.name' LIKE '%education fair%'
   OR (
     -- Hustle Business Venue in HSR
     event_json ->> '$.location' LIKE '%hustlehub%'
@@ -481,7 +528,7 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'BOARDGAMES')
   )
 WHERE
-  event_json ->> '$.organizer.name' = 'Games Lab'
+  event_json ->> '$.organizer.name' LIKE 'Games Lab'
   AND (
     event_json ->> '$.name' LIKE '%Board%'
     OR event_json ->> '$.name' LIKE '%Mafia%'
@@ -496,7 +543,7 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'UNDERLINE')
   )
 WHERE
-  event_json ->> '$.organizer.name' = 'Underline Center'
+  event_json ->> '$.organizer.name' LIKE 'Underline Center'
   AND event_json->'$.keywords' NOT LIKE '%underline%'
 ;
 
@@ -665,7 +712,7 @@ WHERE
   OR event_json ->> '$.name' LIKE '%athyachari monday%'
   OR event_json ->> '$.organizer.name' LIKE 'vro hospitality' -- highape music nights
   OR event_json ->> '$.organizer.name' LIKE 'avikk hospitality llp'
-  OR event_json ->> '$.organizer.name' LIKE 'vijay s (vnh events and entertainments)'
+  OR event_json ->> '$.organizer.name' LIKE '%vnh events%'
   OR event_json ->> '$.organizer.name' LIKE '%miami entertainment%'
   OR event_json ->> '$.organizer.name' LIKE '%sd events%'
   OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
@@ -679,7 +726,76 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE 'caridia official'
   OR url LIKE '%tuesday-lets-party%'
   OR url LIKE '%dinner-with-strangers%'
-  OR event_json->>'$.organizer.name' ='VOYAGIO' -- Urbanaut Stranger meets
+  OR event_json->>'$.organizer.name' LIKE 'VOYAGIO' -- Urbanaut Stranger meets
+  -- Club and DJ night promoters, mostly on HighApe
+  OR lower(event_json ->> '$.organizer.name') IN (
+    'toca', 'toca brigade', 'nighthype entertainments', 'atabb apromotions',
+    'rajata hospitality llp', 'urban ns events', 'brick & brew', 'hoot growth',
+    'hoot craftwork 2.0', 'sky high entertainment', 'namma vibes',
+    'jayasimha events', 'weapon entertainment', 'nitecrush events',
+    'shane events', 'bollybox events', 'dj guroove', 'aqua fire events',
+    'richboyz', 'hyp3 nightclub', 'gulp - pub | bar | restaurant',
+    'hello foodie', 'meghraj entertainment', 'centigrade india', 'reboot the pub'
+  )
+  -- Club venues
+  OR event_json ->> '$.location.name' LIKE '%budbee%'
+  OR event_json ->> '$.location.name' LIKE '%sugar factory%'
+  OR event_json ->> '$.location.name' LIKE '%badmaash%'
+  OR event_json ->> '$.location.name' LIKE '%hyp3%'
+  OR event_json ->> '$.location.name' LIKE '%hydra club%'
+  OR event_json ->> '$.location.name' LIKE '%house of dopamine%'
+  OR event_json ->> '$.location.name' LIKE '%sunburn union%'
+  OR event_json ->> '$.name' LIKE '%ft dj%'
+  OR event_json ->> '$.name' LIKE '%ft. dj%'
+  OR event_json ->> '$.name' LIKE 'dj %'
+  OR event_json ->> '$.name' LIKE '%dj night%'
+  OR event_json ->> '$.name' LIKE '%dj party%'
+  OR event_json ->> '$.name' LIKE '%karaoke%'
+  OR event_json ->> '$.name' LIKE '%theme night%'
+  OR event_json ->> '$.name' LIKE '%theme party%'
+  OR event_json ->> '$.name' LIKE '%tamil night%'
+  OR event_json ->> '$.name' LIKE '%bollytech%'
+  OR event_json ->> '$.name' LIKE '%bollyholly%'
+  OR event_json ->> '$.name' LIKE '%bhangra rave%'
+  OR event_json ->> '$.name' LIKE '%tipsy%'
+  OR event_json ->> '$.name' LIKE '%ladies%night%'
+  OR event_json ->> '$.name' LIKE '%sherlock nights%'
+;
+
+
+-- Mixers, venue ads and restaurant/pub promotions
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
+  )
+WHERE
+  event_json ->> '$.name' LIKE '%social mixer%'
+  OR event_json ->> '$.name' LIKE '%social meetup%'
+  OR event_json ->> '$.name' LIKE '%travellers meetup%'
+  OR event_json ->> '$.name' LIKE '%sunday social%'
+  OR event_json ->> '$.name' LIKE '%sundown socials%'
+  OR event_json ->> '$.name' LIKE '%pitch & pair%'
+  -- Venue and activity ads, not events
+  OR lower(event_json ->> '$.organizer.name') IN ('play arena', 'kanto aerosports')
+  OR event_json ->> '$.name' LIKE '%rage therapy%'
+  OR event_json ->> '$.name' LIKE '%photo shoot%'
+  OR event_json ->> '$.name' LIKE '%photoshoot%'
+  OR event_json ->> '$.name' LIKE '%klaydate%'
+  -- Pub and restaurant promotions
+  OR event_json ->> '$.name' LIKE '%oktoberfest%'
+  OR event_json ->> '$.name' LIKE '%milltober%'
+  OR event_json ->> '$.name' LIKE '%raise a stein%'
+  OR event_json ->> '$.name' LIKE '%cake buffet%'
+  OR lower(event_json ->> '$.organizer.name') = 'old mill brewing co.'
+  OR event_json ->> '$.location.name' LIKE '%doubletree by hilton%'
+  OR event_json ->> '$.location.name' LIKE '1882 restaurant%'
 ;
 
 
