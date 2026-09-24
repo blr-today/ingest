@@ -196,6 +196,12 @@ out/penciljam.json:
 out/mainmission.json:
 	python -m src.sources.mainmission || $(call restore-file,$@)
 
+out/iiwc.ics:
+	curl_chrome116 --silent "https://iiwc.in/events/?ical=1" --output $@ || $(call restore-file,$@)
+
+out/iiwc.json: out/iiwc.ics
+	python -m src.sources.iiwc || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -238,7 +244,8 @@ fetch: out/allevents.txt \
  out/sabha.json \
  out/indiarunning.json \
  out/penciljam.json \
- out/mainmission.json
+ out/mainmission.json \
+ out/iiwc.json
 	@echo "Done"
 
 clean:
