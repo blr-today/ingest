@@ -1,4 +1,5 @@
 import datefinder
+import re
 from datetime import timedelta
 from requests.exceptions import HTTPError
 import sys
@@ -47,6 +48,8 @@ It returns start_date and end_date timestamps
 
 
 def fetch_timings(date_str: str):
+    # datefinder doesn't recognize "Sept", only "Sep"
+    date_str = re.sub(r"\bSept\b", "Sep", date_str)
     date_parts = date_str.split(" | ")
     if len(date_parts) < 3:
         raise ValueError(f"date_str='{date_str}'")
@@ -77,7 +80,10 @@ def fetch_timings(date_str: str):
             date_part = date_parts[1]
             time_part = date_parts[2]
 
-    event_date = list(datefinder.find_dates(date_part))[0]
+    found_dates = list(datefinder.find_dates(date_part))
+    if not found_dates:
+        raise ValueError(f"Could not find date in '{date_part}' from " + date_str)
+    event_date = found_dates[0]
 
     if len(date_parts) < 2:
         print(f"Failed parsing {date_str}")
@@ -101,11 +107,10 @@ def fetch_timings(date_str: str):
         # check if time_str contains AM or PM
         if not ("AM" in time_str or "PM" in time_str):
             time_str += known_twelveness[0]
-        timestamps.append(
-            list(datefinder.find_dates(time_str, base_date=event_date))[0].replace(
-                tzinfo=IST
-            )
-        )
+        found_times = list(datefinder.find_dates(time_str, base_date=event_date))
+        if not found_times:
+            raise ValueError(f"Could not find time in '{time_str}' from " + date_str)
+        timestamps.append(found_times[0].replace(tzinfo=IST))
 
     if len(timestamps) ==0 :
         raise ValueError("Could not find time in " + date_str)
