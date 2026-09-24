@@ -20,5 +20,6 @@ class TestFetch:
     def test_time_splits(self):
         for date_str, expected_start, expected_end in DATE_FIXTURES:
             start_d, end_d = fetch_timings(date_str)
-            assert start_d == expected_start
-            assert end_d == expected_end
+            # datefinder infers the nearest year, so ignore it
+            assert start_d.replace(year=2024) == expected_start
+            assert end_d.replace(year=2024) == expected_end

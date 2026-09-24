@@ -10,7 +10,7 @@ dependencies = [
     "datefinder~=0.7",
     "html2text~=2025.4",
     "html5lib~=1.1",
-    "ics~=0.7",
+    "ics~=0.7.3",
     "lxml~=6.0",
     "python-dateutil~=2.9",
     "python-jsonpath~=2.0",
@@ -18,14 +18,13 @@ dependencies = [
     "PyYAML~=6.0",
     "requests-cache~=1.2",
     "requests~=2.32",
-    "ujson~=5.12",
+    "ujson~=6.0",
     "urllib3~=2.6",
     "w3lib~=2.4.0",
-    "pyld~=2.0.4",
+    "pyld~=3.3",
     "jsonschema~=4.26.0",
     "protego>=0.6.0",
     "jsonnet>=0.21.0",
-    "tatsu==5.16.0",
 ]
 [project.optional-dependencies]
 test = [
@@ -33,5 +32,6 @@ test = [
 ]
 [tool.pytest.ini_options]
 pythonpath = [
-  "src"
+  "src",
+  "src/sources"
 ]

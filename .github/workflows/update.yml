@@ -10,6 +10,7 @@ on:
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
+permissions: {}
 jobs:
   update:
     permissions:
@@ -36,17 +37,18 @@ jobs:
         echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
     - name: Cache Requests SQLite
-      uses: actions/cache@v4
+      uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:
         path: /home/runner/.cache/event-fetcher-cache.sqlite
         key: "cache-requests-${{ github.run_id }}"
         restore-keys: "cache-requests-"
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       name: Clone self repository
       with:
         ref: ${{ github.head_ref }}
+        persist-credentials: false
 
-    - uses: actions/setup-python@v6
+    - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
     - name: Setup
       run: |
         git config --global init.defaultBranch main
@@ -55,7 +57,7 @@ jobs:
     - name: Fetch updates
       run: make clean && make -s all
     - name: Upload Artifacts
-      uses: actions/upload-artifact@v5
+      uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
       id: upload
       with:
         name: events-db
@@ -65,21 +67,25 @@ jobs:
         retention-days: 1
 
     # Commit back some data so we can keep track of diffs
-    - uses: stefanzweifel/git-auto-commit-action@v6
-      name: Commit
-      with:
-        commit_message: |
-          Automatic Updates 🤖
-          
-          Database URL: ${{ steps.upload.outputs.artifact-url }}
-          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/workflow
-        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
-        add_options: "--ignore-removal --update"
-        file_pattern: "out/*"
-        status_options: '--untracked-files=no'
+    - name: Commit
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GH_TOKEN: ${{ github.token }}
+        ARTIFACT_URL: ${{ steps.upload.outputs.artifact-url }}
+        RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      run: |
+        git add --ignore-removal --update out/
+        git diff --cached --quiet && exit 0
+        git -c user.name='github-actions[bot]' \
+          -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+          commit -F - <<EOF
+        Automatic Updates 🤖
+
+        Database URL: $ARTIFACT_URL
+        Run: $RUN_URL
+        Workflow: $RUN_URL/workflow
+        EOF
+        gh auth setup-git
+        git push
 
   release:
     needs: update
@@ -88,16 +94,17 @@ jobs:
     name: Release
     steps:
     - name: fetch from artifact
-      uses: actions/download-artifact@v5
+      uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
       with:
         name: events-db
         path: .
-    - uses: actions/create-github-app-token@v2
+    - uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
       id: app-token
       with:
         app-id: ${{ vars.PUBLISH_APP_ID }}
         private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
         repositories: dataset
+        permission-contents: write
     - name: publish dataset
       env:
         GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}

@@ -37,9 +37,9 @@ class TestFetch:
 
     def test_default_cache_ignores_post(self, fetch):
         url = "https://httpbin.org" + '/post'
-        res = fetch.request("POST", url="https://httpbin.org".url + '/post')
+        res = fetch.request("POST", url=url)
         assert res.status_code == 200
-        assert res.url == "https://httpbin.org".url + '/post'
+        assert res.url == url
         assert isinstance(res, OriginalResponse)
 
     def test_cache_with_post_allowed(self, fetch_force_cache):
@@ -109,12 +109,12 @@ class TestFetch:
         assert isinstance(response.json(), dict)
 
     def test_cookies(self, chrome):
-        url = "https://httpbin.org" + "/cookies/set/test/cookie"
+        url = "https://httpbin.org" + "/response-headers?Set-Cookie=test%3Dcookie"
         response = chrome.request("GET", url=url, cache=True)
         print(response)
         assert response.status_code == 200
         assert chrome.cache.contains(url=url)
-        assert response.json()['cookies']['test'] == 'cookie'
+        assert response.json()['Set-Cookie'] == 'test=cookie'
 
         cookie = list(response.cookies)[0]
         assert cookie.name == 'test'
