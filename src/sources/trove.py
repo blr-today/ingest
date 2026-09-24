@@ -79,11 +79,20 @@ def get_location(soup):
     return (location_name, None)
 
 
-def make_event(product, sp: Shopify, session):
-    start_date, end_date = fetch_timings(product.variants[0].title)
+# Variant titles are now a "Coming Soon!" placeholder; the slot lives here
+def get_date_str(soup):
+    date_field = soup.select_one(".custom-field__date")
+    return date_field.get_text(strip=True) if date_field else None
 
+
+def make_event(product, sp: Shopify, session):
     res = session.get(product.url)
     soup = BeautifulSoup(res.text, "html.parser")
+
+    date_str = get_date_str(soup)
+    if not date_str:
+        return None
+    start_date, end_date = fetch_timings(date_str)
 
     location_name, address = get_location(soup)
     subtitle = get_subtitle(soup)
@@ -107,22 +116,15 @@ def make_event(product, sp: Shopify, session):
     return res
 
 
-# Ignore "Coming Soon" events
-def filter_products(products):
-    return filter(
-        lambda p: any("coming soon" not in v.title.lower() for v in p.variants),
-        products,
-    )
-
-
 if __name__ == "__main__":
     from common.session import get_cached_session
 
     session = get_cached_session()
     trove = Shopify(DOMAIN, session, COLLECTION)
     events = [
-        make_event(product, trove, session)
-        for product in filter_products(trove.products())
+        event
+        for product in trove.products()
+        if (event := make_event(product, trove, session)) is not None
     ]
     with open("out/trove.json", "w") as f:
         json.dump(events, f, indent=2)
