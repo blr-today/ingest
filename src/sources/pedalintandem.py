@@ -111,11 +111,12 @@ def make_event(soup):
         event_timings = find_timings(duration, event_date, event)
 
         # Starting time is always mentioned. So, there would be one element present in the dates
-        start_date = event_timings[0].astimezone(IST).isoformat()
+        # Times found are naive local (IST) text, so tag rather than convert
+        start_date = event_timings[0].replace(tzinfo=IST).isoformat()
 
         # If there are two datetime in dates then it has start and end time. If not we calculate using duration
         if len(event_timings) == 2:
-            end_date = event_timings[1].astimezone(IST).isoformat()
+            end_date = event_timings[1].replace(tzinfo=IST).isoformat()
         else:
             end_date = (
                 datetime.fromisoformat(start_date) + timedelta(hours=duration_in_hours)
@@ -240,7 +241,14 @@ def find_timings(duration, date, soup):
                 # "time: 8:30 am" pattern
                 (r"time:?\s+([^\.,]+(?:am|pm|AM|PM))", None)
             ],
-        }
+        },
+        # Source 3: text-box content without <li> (plain div layout, e.g. cycle-school)
+        {
+            "selector": "div.text-box div.trix-content div",
+            "patterns": [
+                (r"time:?\s+([^\.,]+(?:am|pm|AM|PM))", None)
+            ],
+        },
     ]
 
     # Check each source for timing information
@@ -337,7 +345,12 @@ def main():
     event_links = fetch_events_links(session)
     events_data = fetch_events(event_links, session)
 
-    events = list(map(lambda x: make_event(x), events_data))
+    events = []
+    for event_data in events_data:
+        try:
+            events.append(make_event(event_data))
+        except ValueError as e:
+            print(f"[PIT] {event_data[1]} skipped, {e}")
 
     with open("out/pedalintandem.json", "w") as f:
         json.dump(events, f, indent=2)
