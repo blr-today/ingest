@@ -202,6 +202,9 @@ out/iiwc.ics:
 out/iiwc.json: out/iiwc.ics
 	python -m src.sources.iiwc || $(call restore-file,$@)
 
+out/bac.json:
+	python -m src.sources.bac || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -245,7 +248,8 @@ fetch: out/allevents.txt \
  out/indiarunning.json \
  out/penciljam.json \
  out/mainmission.json \
- out/iiwc.json
+ out/iiwc.json \
+ out/bac.json
 	@echo "Done"
 
 clean:
