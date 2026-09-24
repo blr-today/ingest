@@ -5,9 +5,9 @@ import datetime
 from common.tz import IST
 import time
 
-"""Public API Key used for searching events"""
-TYPESENSE_API_KEY = "AYJefn98eRjmkyENmOlleSaqbXXQDKG6"
-SEARCH_URL = "https://search.urbanaut.app/collections/spot_approved/documents/search?"
+"""Public API key for search-v2, the typesense host urbanaut moved to"""
+TYPESENSE_API_KEY = "NSUWIvHiEDI8jvLN2GLhTfCzg3T6oYYV"
+SEARCH_URL = "https://search-v2.urbanaut.app/multi_search"
 BASE_IMAGE_URL = "https://d10y46cwh6y6x1.cloudfront.net"
 """
 urbanaut supports hosts, which are not necessarily venues
@@ -33,19 +33,22 @@ def parse_date(date_str):
     return datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
 
 
-def scrape_urbanaut(categories="12"):
+def scrape_urbanaut(category_name="Events"):
     ts = int(time.time())
 
     headers = {"x-typesense-api-key": TYPESENSE_API_KEY}
-    querystring = {
+    search = {
+        "collection": "spots",
         "q": "*",
-        "page": "1",
-        "per_page": "100",
-        "filter_by": f"enable_list_view:=true && city:=Bengaluru && categories:=[{categories}] && (end_timestamp:>={ts} || has_end_timestamp:false )",
+        "query_by": "name",
+        "page": 1,
+        "per_page": 100,
+        "filter_by": f"enable_list_view:=true && city:=Bengaluru && category_data.name:=[{category_name}] && (end_timestamp:>={ts} || has_end_timestamp:false )",
         "sort_by": "order:asc",
     }
 
-    return session.get(SEARCH_URL, headers=headers, params=querystring).json()
+    resp = session.post(SEARCH_URL, headers=headers, json={"searches": [search]})
+    return resp.json()["results"][0]
 
 
 def get_slots(slug):
@@ -59,7 +62,7 @@ def get_slots(slug):
 
 
 def get_age_range(x):
-    audience = " ".join([y["path"] for y in x["who_is_it_for_tags_data"]]).lower()
+    audience = " ".join([y["path"] for y in x.get("who_is_it_for_tag", [])]).lower()
     """
     Urbanaut marks these events with 18+
     but drinking age in BLR is 21
@@ -78,7 +81,7 @@ def get_age_range(x):
 
 
 def get_event_type(x):
-    tags = " ".join([y["path"] for y in x["genre_tags_data"]]).lower()
+    tags = " ".join([y["path"] for y in x.get("genre_tag", [])]).lower()
     name = x["name"].lower()
     if "screening" in name:
         return "ScreeningEvent"
@@ -91,8 +94,8 @@ def get_event_type(x):
 
 
 def get_keywords(x):
-    base = [y["name"] for y in x["genre_tags_data"]]
-    if x["account_data"].get("slug") == "courtyard":
+    base = [y["name"] for y in x.get("genre_tag", [])]
+    if x.get("account_slug") == "courtyard":
         base += ["COURTYARD"]
     return base + ["URBANAUT"]
 
@@ -111,28 +114,28 @@ def make_event(x):
             if available_slot_count > 1:
                 url += "#" + parse_date(slot["start"]).strftime("%Y-%m-%dT%H%M")
 
-            ad = x["account_data"]
-
             yield {
                 "@context": "https://schema.org",
                 "@type": get_event_type(x),
                 "name": x["name"],
                 "description": desc,
-                "image": [y["aws_url"] for y in x["medias"]],
+                "image": [BASE_IMAGE_URL + "/" + y["path"] for y in x["medias"]],
                 "startDate": parse_date(slot["start"]).isoformat(),
                 "endDate": parse_date(slot["end"]).isoformat(),
                 "location": {
                     "@type": "Place",
                     "name": (
-                        ad["company_name"]
+                        x["company_name"]
                         if (
-                            ad.get("slug") in KNOWN_HOST_VENUES
-                            or ad.get("company_name") in KNOWN_HOST_VENUES
+                            x.get("account_slug") in KNOWN_HOST_VENUES
+                            or x.get("company_name") in KNOWN_HOST_VENUES
                         )
                         else None
                     ),
                     "address": x["address"],
-                    "url": f"https://www.google.com/maps/search/?api=1&query=Google&query_place_id={x['google_place_id']}",
+                    "url": f"https://www.google.com/maps/search/?api=1&query=Google&query_place_id={x['google_place_id']}"
+                    if x.get("google_place_id")
+                    else None,
                     "latitude": x["lat"],
                     "longitude": x["lng"],
                 },
@@ -145,20 +148,16 @@ def make_event(x):
                     "@type": "Offer",
                     "price": x["price_starts_at"],
                     "availability": "LimitedAvailability",
-                    "priceCurrency": x["price_starts_at_currency"],
+                    "priceCurrency": x.get("price_starts_at_currency", "INR"),
                 },
                 "organizer": {
                     "@type": "Organization",
-                    "name": ad["company_name"],
-                    "description": ad.get("company_description"),
-                    "url": f"https://urbanaut.app/partner/{ad['slug']}"
-                    if "slug" in ad
+                    "name": x["company_name"],
+                    "description": x.get("company_description"),
+                    "url": f"https://urbanaut.app/partner/{x['account_slug']}"
+                    if "account_slug" in x
                     else None,
-                    "image": BASE_IMAGE_URL + ad["logo_path"],
-                    "contactPoint": {
-                        "@type": "ContactPoint",
-                        "telephone": ad["company_phone"],
-                    },
+                    "image": BASE_IMAGE_URL + "/" + x["logo_path"],
                 },
                 "url": url,
                 "keywords": get_keywords(x),
