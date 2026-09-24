@@ -118,9 +118,8 @@ out/gullytours.json:
 out/tonight.json:
 	python -m src.sources.tonight || $(call restore-file,$@)
 
-out/creativemornings.txt:
-	python -m src.sources.creativemornings | sort > $@ || $(call restore-file,$@)
-	echo "[CREATIVEMORNINGS] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/creativemornings.json:
+	python -m src.sources.creativemornings || $(call restore-file,$@)
 
 out/adidas.json:
 	python -m src.sources.adidas || $(call restore-file,$@)
@@ -212,7 +211,7 @@ fetch: out/allevents.txt \
  out/gullytours.json \
  out/townscript.txt \
  out/tonight.json \
- out/creativemornings.txt \
+ out/creativemornings.json \
  out/adidas.json \
  out/ticketnew/cinemas.csv \
  out/trove.json \

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CreativeMornings: Igniting Change with Beyond Carlton",
+    "startDate": "2026-09-27T04:30:00Z",
+    "endDate": "2026-09-27T06:30:00Z",
+    "image": "https://creativemornings.com/images/rainbow-logo.png",
+    "offers": [
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "price": 0,
+        "priceCurrency": "USD",
+        "validFrom": "2026-09-13T06:00:00Z",
+        "url": "https://creativemornings.com/talks/igniting-change-with-beyond-carlton?utm_source=google_events"
+      }
+    ],
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Uday Vijayan",
+        "sameAs": [
+          "https://www.beyondcarlton.org/team/"
+        ]
+      }
+    ],
+    "description": "Uday Vijayan is the Founder of \u2018Beyond Carlton\u2019, a citizen-led fire safety movement he initiated after the loss of his son in the tragic 2010 Carlton Towers fire in Bengaluru, by bringing together affected families to seek accountability and prevent future disasters. \n\nAs the Managing Trustee and President of Beyond Carlton, Uday has dedicated over 16 years to driving public Awareness, Advocacy and building Associations. He frequently speaks on issues to do with fire safety at various forums. Professionally, Uday is a senior marketing and brand development professional currently involved as a Co-Founder &amp; CMO of a start-up that aims to change the way homes do their laundry.",
+    "location": {
+      "@type": "Place",
+      "name": "Takshashila Institution",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 46/1, Church Street (Social building)",
+        "addressLocality": "Bangalore",
+        "postalCode": "560001",
+        "addressRegion": "Karnataka",
+        "addressCountry": "India"
+      },
+      "sameAs": "https://takshashila.org.in/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.975684554960473,
+        "longitude": 77.60273808651714
+      }
+    },
+    "url": "https://creativemornings.com/talks/igniting-change-with-beyond-carlton"
+  }
+]
