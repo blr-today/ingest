@@ -1,8 +1,7 @@
 [project]
 name = "blr-today-ingest"
 version = "0.0.1"
-# We are stuck till binary wheels for jsonnet are published
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
     "beautifulsoup4~=4.14",
     "cleanurl~=0.1",
