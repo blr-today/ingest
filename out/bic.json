@@ -93,6 +93,32 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "95453-1791226800-1791231300@bangaloreinternationalcentre.org",
+    "name": "The Belle of Amherst",
+    "startDate": "2026-10-05T19:00:00+05:30",
+    "endDate": "2026-10-05T20:15:00+05:30",
+    "description": "The Belle of Amherst by William Luce, written in 1976, is a play based on the life of American poet Emily Dickinson. It was first performed by Julie Harris, who won a Tony for her role, in 1977. The story, narrated by the eccentric Emily herself, liberally interspersed with her sublime poetry, is a truly soulful journey for both the character and her audience. Susan George will do a dramatised reading of the play. \nImage Credit\nThe portrait of Emily Dickinson is from the only currently authenticated photograph, a daguerreotype ca. 1847 in the Amherst College Archives & Special Collections. \nVenue: Library\n\n\nA Dramatised Reading on the Life and Work of Emily Dickinson\nRSVPs will open on Sun, Sep 27 at 12pm.\n*Performer*: Susan George\n*Event Categories*: Literature, Performing Arts, Poetry, Theatre",
+    "url": "https://bangaloreinternationalcentre.org/event/the-belle-of-amherst/",
+    "keywords": [
+      "Literature",
+      "Performing Arts",
+      "Poetry",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "The Belle of Amherst"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/09/Thumbnail-10.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "@id": "95241-1791129600-1791140400@bangaloreinternationalcentre.org",
     "name": "Understanding Body",
