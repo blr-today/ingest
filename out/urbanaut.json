@@ -30,11 +30,11 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 350,
-    "remainingAttendeeCapacity": 162,
+    "remainingAttendeeCapacity": 128,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": 2750.0,
+      "price": 3450.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -208,7 +208,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -394,53 +394,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/footprints-of-fraser-town",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bangalore by Post",
-    "description": "\"Bangalore by Post is a curated heritage walk that explores the evolution of postal communication in Bangalore during the colonial period. The walk focuses on Bangalore Cantonment and traces how communication systems developed from the 1860s to 1947.This is a research-driven experience that goes beyond buildings. Attendees will engage with original postal covers, postmarks, and archival material from Bangalore, offering a rare insight into how letters travelled, who used these systems, and what they reveal about everyday life in the city.Led by philatelist Varun Khanna, the experience includes a focused showcase of philatelic artefacts and detailed explanations of postal systems during the colonial period.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6CBBC49A6B544E92B74E0A06645FC5C1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D0256DCB814A422CA46D8AF06CAAE682_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E8532B58D51A420B905017F461E8B643_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/67A57646ABA24EE48E0537702B19ACC9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6F1E640CF83D4CA588493BAF95844DAE_converted_webp.webp"
-    ],
-    "startDate": "2026-09-26T10:00:00+05:30",
-    "endDate": "2026-09-26T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-      "latitude": "12.97983320000000000000",
-      "longitude": "77.58653930000001000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 900.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru Prayana",
-      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city\u2019s rich history, layered identity, and everyday diversity beyond its modern image.",
-      "url": "https://urbanaut.app/partner/bengaluru-prayana",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/bangalore-by-post-12965",
     "keywords": [
       "Walking Tour",
       "History & heritage",
@@ -659,7 +612,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -736,48 +689,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/2A0A39AC572E41DD90EA2655D3D2172B_converted_webp.webp"
     ],
-    "startDate": "2026-09-25T21:30:00+05:30",
-    "endDate": "2026-09-25T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-      "latitude": "12.98253250000000000000",
-      "longitude": "77.72177320000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 36,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1178.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Windmills Craftworks",
-      "description": null,
-      "url": "https://urbanaut.app/partner/windmills-craftworks",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F0E4EDFF616140FEB4A1A9CC729F1F5D_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/marta-pereira-da-costa#2026-09-25T2130",
-    "keywords": [
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Marta Pereira da Costa",
-    "description": "Marta Pereira da Costa is the world\u2019s first professional female Portuguese guitarist in the traditional genre of Fado, and has been described as \"the feminine soul of the Portuguese guitar\". An acclaimed instrumentalist and composer, she blends the soul of Portuguese Fado with influences from jazz and world music, captivating audiences worldwide with expressive performances that celebrate Portugal\u2019s rich musical heritage.Joining her are Jo\u00e3o Jos\u00e9 Pita Junior, a Brazilian guitarist, music producer, and educator based in Lisbon, and Carlos Antunes, one of Portugal\u2019s leading drummers and educators. Both are internationally acclaimed musicians who have collaborated with renowned artists across the Lusophone music scene and performed extensively at prestigious festivals and concert venues around the world. Together, the trio creates an evocative musical journey that bridges tradition and modernity, celebrating the depth, emotion, and enduring spirit of Portuguese music.Marta Silva Pereira da Costa \u2013 Portuguese GuitarCarlos Antunes \u2013 PercussionJo\u00e3o Jos\u00e9 Pita Junior \u2013 7 string Guitar",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2A0A39AC572E41DD90EA2655D3D2172B_converted_webp.webp"
-    ],
     "startDate": "2026-09-26T21:30:00+05:30",
     "endDate": "2026-09-26T23:00:00+05:30",
     "location": {
@@ -805,7 +716,7 @@
       "url": "https://urbanaut.app/partner/windmills-craftworks",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F0E4EDFF616140FEB4A1A9CC729F1F5D_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/marta-pereira-da-costa#2026-09-26T2130",
+    "url": "https://urbanaut.app/spot/marta-pereira-da-costa",
     "keywords": [
       "Music",
       "Food & drink",
@@ -835,7 +746,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1147,7 +1058,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1354,49 +1265,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Money Matters with Little Legends Lab",
-    "description": "Money lessons aren't just for grown-ups! \ud83d\udcb8Money Matters is a fun, hands-on financial literacy experience designed to introduce children to the basics of money, spending, saving, budgeting, and smart decision-making.Through stories, interactive activities, teamwork, and real-life scenarios, children explored how to make thoughtful choices with money. The session comes to life with a final supermarket challenge, where little shoppers are given a fixed budget and have to set priorities, weigh their options, and decide what is truly worth spending on.Because financial literacy isn't just an adult skill \u2014 learning how to make smart choices with money is a life skill, and it's never too early to start! \ud83c\udf1fAbout Priyanka AgarwalWith 15 years of experience in an investment bank, Priyanka brings real-world financial expertise into the world of children. Through Little Legends Lab, she makes understanding money easy-peasy, engaging and relatable.Her goal is simple: to help children understand money, saving, spending, smart choices and growing their money\u2014in ways that are practical, fun and easy to remember.Because financial confidence is a life skill, and it\u2019s never too early to start building it.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/87D8624997234F00983CF81A3E505F9D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/32C7A4BFAC0F4C2BA1D1CEEF541BF9D6_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/EB01AF6148FA4F73BC24505D02B07383_converted_webp.webp"
-    ],
-    "startDate": "2026-09-26T10:30:00+05:30",
-    "endDate": "2026-09-26T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "latitude": "12.96078240000000000000",
-      "longitude": "77.63721450000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 898.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/money-matters-little-legends-lab",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "The Conversation You've Been Avoiding",
     "description": "An afternoon on the one conversation you keep putting off.What We'll DoYou'll arrive with one conversation you've been avoiding - with a co-founder, a parent, a manager, a client, anyone. You write it down privately in the first few minutes and never have to say it out loud.From there we work in pairs and small groups. What happens in your body when you imagine starting it. The story you've already built about how it'll go, and what actually happened underneath that story. What you really want, versus what you'd ask for. And at the end, the opening line, practiced out loud, to someone you met that afternoon.You're on your feet more than you're seated. Nothing is scripted, nobody performs, and you can pass on anything without giving a reason.About Present TensePresent Tense is built around the feeling before a hard conversation - the stomach ache the night before the interview, the pitch, the talk you've been rehearsing for a month. We've seen people's bodies react before their minds caught up: shallow breath, cold hands, before anyone could name the feeling. More than one person found it easier to accept applause for a failure than for something they'd done well.None of that is a promise about what happens to you. It's what happened the last time we did this.This Is Perfect ForAnyone carrying a specific, real conversation they haven't had. Founders, managers, people newly leading a team, and anyone who's been rehearsing something for longer than they'd like to admit. Come alone, most people do.Meet Your HostsYash and Praveen have run rooms together for four years - around 250 sessions and over two thousand people, most of them first-timers. Yash spends most of his week in rooms full of business owners and is good at the part nobody notices: spotting the person who's gone quiet. Praveen has done improv for eight years and taught it for four, and also runs a company, which means the conversations this afternoon is built around are ones he's putting off too.Timing: Sunday 27 September, 2:00\u20135:30pmLocation: Kaarya Shared Workspaces, Bengaluru",
     "image": [
@@ -1462,7 +1330,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 87,
+    "remainingAttendeeCapacity": 85,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1640,7 +1508,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 95,
+    "remainingAttendeeCapacity": 94,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1726,7 +1594,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1743,59 +1611,6 @@
     },
     "url": "https://urbanaut.app/spot/ag-lit-sisters-presents-our-city-that-year",
     "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Kintsugi Art-Therapy Workshop",
-    "description": "Kintsugi is the Japanese practice of repairing broken pottery with gold. Instead of hiding the crack, you highlight it, and the piece ends up more interesting than it was before it broke.We use it as an art therapy process. You'll get your own ceramic piece, break it, and spend the morning putting it back together and finishing the seams in gold. Alongside the making, there's guided journaling and space to talk, so you're reflecting as you work rather than just doing a craft activity. The session is designed and led by psychologists, so the room is properly held.No artistic ability needed. Genuinely none. Most people arrive slightly unsure and leave not wanting to go.Meet the facilitators:Ayesha Dastagir - A psychologist and counsellor with 12+ years of experience, specializing in CBT and cognitive hypnotherapy. She blends mindfulness-based techniques to help individuals build self-awareness, resilience, and emotional well-being.Jeniffer Johnson - An art-based therapist, counsellor, and co-founder of Elevate Mind. She believes in the power of creativity for healing and helps individuals explore emotions, transitions, and self-discovery through artistic expression.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DEB6615BA50A42BA96FBC29959C27D71_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/65B817C6CE404FF38D8F4E6FC0DDFBE1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/95471107099D4CF18E4DADA9F9BCF7F7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/01AF1BEEA68043D7B371BA0FA44D1058_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3913DC958CF04021BE1F285EECA22245_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E66F182F21A54BE5968ECE9D6A498313_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/872B67C5630C4747BFB26CB4FEF16172_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/46E2B12E6A414E4787B785111CB2ABA1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7DCE9D07807841CE9585B37E8310194C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2CF43AD0BDAB4A3CA18DDD2A231CD1D7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6B8BE049DCFE4A59B5B4E26F27FDC9D0_converted_webp.webp"
-    ],
-    "startDate": "2026-09-26T10:00:00+05:30",
-    "endDate": "2026-09-26T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "12/2, Yeshwanthpur Industrial Suburb, Estate, Bengaluru, Karnataka 560086, India",
-      "latitude": "13.01388970000000000000",
-      "longitude": "77.54811140000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Elevate Mind",
-      "description": "A mental well-being partner for individuals and organizations alike.",
-      "url": "https://urbanaut.app/partner/elevate-mind",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/2E9D711A72A045E49328AB80B748A0FA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/kintsugi-art-therapy",
-    "keywords": [
-      "Wellness",
-      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1873,7 +1688,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 279,
+    "remainingAttendeeCapacity": 277,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1916,7 +1731,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 74,
+    "remainingAttendeeCapacity": 73,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1959,7 +1774,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2007,7 +1822,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2179,7 +1994,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 148,
+    "remainingAttendeeCapacity": 147,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2222,7 +2037,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 145,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2349,8 +2164,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 3,
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2481,7 +2296,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 72,
-    "remainingAttendeeCapacity": 61,
+    "remainingAttendeeCapacity": 60,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2619,7 +2434,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2660,7 +2475,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2785,7 +2600,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2804,48 +2619,6 @@
     "keywords": [
       "Leisure",
       "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Open Mic: Poetry, Rap, Music",
-    "description": "Open MicYour words. Your sound. Your stage.A warm, open space for poetry, rap, music and everything in between. Bring something you\u2019ve been working on, something you\u2019ve never shared before, or simply come to listen and cheer people on.No auditions. No judgement. Just a mic and a room ready to listen.No standup comedy.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F04180F3873B4FDEB1995BAD2E259D43_converted_webp.webp"
-    ],
-    "startDate": "2026-09-25T20:00:00+05:30",
-    "endDate": "2026-09-25T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746#2026-09-25T2000",
-    "keywords": [
-      "Music",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -2884,50 +2657,9 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746#2026-10-02T2000",
+    "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746",
     "keywords": [
       "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Dance Improv: Move With Each Other",
-    "description": "Dance is the universal cure for heartbreak, did you know? Bring your amateur, intermediate or professional selves to dance improv evenings, teach each other new styles, play, move and liberate! We have specific themes sometimes like Contact Improv or Line Dances.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0E6E08635F6740578CDEB60FC7FCBB09_converted_webp.webp"
-    ],
-    "startDate": "2026-09-25T19:00:00+05:30",
-    "endDate": "2026-09-25T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-brag-come-brag-about-you#2026-09-25T1900",
-    "keywords": [
       "Workshop",
       "URBANAUT"
     ]
@@ -2952,7 +2684,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2993,7 +2725,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3204,7 +2936,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3625,7 +3357,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3811,7 +3543,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 30,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3919,57 +3651,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Enter Stage Right - 3-Weekend Theatre Workshop",
-    "description": "Enter Stage Right back after 2.5yrs!!Tahatto is back with the 6th Edition of its much celebrated theatre program \"Enter Stage Right\". 3 Weekends. 15 Sessions. 1 Curated Show!Sept 26th - Oct. 11th 2026This 3-weekend workshop goes beyond just learning how to act on stage. It is designed for performers to experience end-to-end theatre production process and experience the language between the theatre maker and the audience! Sounds exciting? Keep reading... About the WorkshopA carefully designed 6-day, 3-weekend course that has been created by Tahatto as a detailed and passionate guided tour towards preparing oneself for the stage, for a role and for what it takes to practice theatre. Enter Stage Right 2026 will be spread over 3 Weekends - Saturdays & Sundays starting Sept 26th. It will entail exploring the skills that go into... well... entering stage right. The workshop has also been designed to stay focused on the final performance by the participants who will stage a complete performance on Oct 11th 2026. The performance will be based on original scripts written by Tahatto. This ensures that right from the commencement of Enter Stage Right, the participants work and experiment with a script, and apply the methods and modules learned as part of the workshop. Workshop SpecificationsThe workshop is scheduled across 3 Weekends. Spacing the sessions across weekends, of course, makes it easier for working professionals and students, but the larger reason is that the week in between enables participants to absorb material from the session and work on it either collectively or individually. Since the workshop is also built around a performance that already has its script ready, individuals can apply methods from the workshop sessions into the text they have and build it into their performances practically.The modules in the workshop touch upon critical aspects of theatre including:Introduction to theatre and its demands Understanding text Understanding the actor's tools - body, voice, and sensibility Stage presence & ensemble dynamics The importance of routine & preparationMethods of performance readinessThe workshop will be conducted at Angala, which also doubles up as the rehearsal space for the final performance slated to premiere on Oct 11th which will be open for audiences.Dates, Time & VenueEvery Saturday & Sunday, 26th Sept to 11th Oct'26Timings: 9:00 AM to 5:00 PM  Eligibility: 16 years and aboveLocation - Angala, Cox TownWorkshop Fees Fees: Rs.14999 (includes Lunch & Snacks on all days)Registration is limited to the first 15 attendees only. Last date of Registration: 20th Sept'26Earlybird discount of Rs.2000 available - Only 2 Seats Left!FAQs1. I am not available on all days of the workshop. Is that fine? The workshop has been designed with the expectations that all participants are available on all the required days. We recommend to look out for our future workshops incase you are not available on all days as per current schedule.2. What is the content of the workshop and what modules are covered?Workshop will mainly include introduction to theatre, understanding text, stage presence, voice, body and methods of performance readiness. It will culminate with a public performance on 11th Oct'2026.3. Do I need to get something along for the workshop?Absolutely not. Any materials needed will be provided by the facilitators.4. How can I confirm my Registration?Please ensure that you make a payment of the workshop fees either using our online or offline method. Once completed, you will receive a payment confirmation mail from Razorpay. Tahatto team will get in touch closer to the workshop dates with further instructions.5. What is the last date for registering?Registration closes on 20th Sept'26. Registration will be considered only after the payment is done. Only first 15 paid registrations will be considered for the workshop.6. What do I wear for the workshops?Please wear loose and comfortable clothing. Avoid jeans.7. If I register now and not attend the workshop for any reason, will the amount be refunded?Since the workshop is open to a limited number of attendees, the registration fees cannot be refunded. Please plan accordingly and book only if your plan is confirmed.8. Where will the workshop be organized?ANGALA130/1-2, Wheeler RoadCox TownBangalore 560005Just 15mins from Indiranagar or MG RoadDirections - https://maps.app.goo.gl/dHrmyxhsus89MGVw99. How can I get in touch with Tahatto?You can drop us an email at hello@tahatto.com or call Piyush at +91-9739-450835About Tahatto Tahatto is Bangalore based Theatre company that has been engaging and entertaining the audience since 2009. They create original and impactful collective experiences between an audience and a performer through stories that are playful, honest and rooted in the time and place we live in.Through live performances, workshops, storytelling, and interventions, Tahatto aims to build more frequent audience engagements and build more compelling, yet entertainingcontent. For corporates, Tahatto offers theatre-based workshops to enhance workplace culture, build effective leaders and improve team dynamics.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/52FB5841E8294632AD4BB0559DAEB602_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/695BB97193504044A7DD66CF260002E4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4AF313D1E4C44DDC97447B97EEEDA423_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D1CF61F7C5DE45F68E9435344F8BD5B4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/ACEFA0B17FE7485B95612B6A6E58D76C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/AF9D4DD1AFB94F0582A622018E784F3B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/01EBADE92CF74501BF5952EB96924A05_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/AEE9721E2E554DE5A2D5C931842F98DF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F1EAE75B092049928F76913E5F6E456A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C27E38BA7475487EBC51958D12AD6C2B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/89A1F7E80CB0425A8FC539E880ED6CA5_converted_webp.webp"
-    ],
-    "startDate": "2026-09-26T09:00:00+05:30",
-    "endDate": "2026-09-26T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 1,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": 14999.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tahatto Theatre",
-      "description": "Bangalore based award-winning theatre company",
-      "url": "https://urbanaut.app/partner/tahatto-theatre",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/EE48E2CBA94E42BC9BAB466D8FD282F2_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/enter-stage-right-theatre-workshop-2026",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Lino Printmaking Experience",
     "description": "Lino Printmaking WorkshopStep into my home studio in Indiranagar and discover the beautiful art of lino printmaking. You\u2019ll learn how to design, carve, ink and hand-print your own artwork. No prior experience is needed\u2014just come curious and ready to create. You\u2019ll leave with your own handmade prints and a new creative skill to take home.",
@@ -4043,7 +3724,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 39,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4137,7 +3818,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 46,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4312,8 +3993,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 3,
-    "remainingAttendeeCapacity": 3,
+    "maximumAttendeeCapacity": 2,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4343,8 +4024,8 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/4276D522AAA74AE09B529B4F824F2C0A_converted_webp.webp"
     ],
-    "startDate": "2026-09-26T14:00:00+05:30",
-    "endDate": "2026-09-26T19:00:00+05:30",
+    "startDate": "2026-09-26T16:00:00+05:30",
+    "endDate": "2026-09-26T22:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -4372,48 +4053,6 @@
     },
     "url": "https://urbanaut.app/spot/propaganda-of-ideology",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Nerd Out Session: ABC, Darling!",
-    "description": "ABC, DARLING!Same grape, four countries, four continents, four very different personalities. Chardonnay can be buttery, mineral, tropical, lean, oaky or completely unexpected, shaped as much by where it grows as by how it\u2019s made. Taste four labels from four corners of the world and explore how the same grape can take on an entirely different character depending on its climate, soil and winemaking. From crisp and mineral to rich and textured, discover the many faces of \u2018The Chard\u2019, and perhaps why it hasn\u2019t always been everyone\u2019s cup of tea. An evening of tasting, comparison and discovery, looking at how place, climate and craft can turn one grape into four completely different experiences.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DB2609B815EC41F0AFCEBC49CCA371B6_converted_webp.webp"
-    ],
-    "startDate": "2026-09-27T17:00:00+05:30",
-    "endDate": "2026-09-27T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 14,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1614.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png"
-    },
-    "url": "https://urbanaut.app/spot/nerd-out-session-abc-darling",
-    "keywords": [
-      "Leisure",
-      "COURTYARD",
       "URBANAUT"
     ]
   },
@@ -4483,7 +4122,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 148,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4719,50 +4358,43 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Ramen, Sushi & Bubble Tea Workshop",
-    "description": "*Vegetarian and Beginner Friendly**Suitable for kids, teens and adults**SPECIAL OFFER - TWO FOR LESS OPTION AVAILABLE*CHOICE OF VEG / NON VEG RAMEN- SEPARATE STATIONS WILL BE PROVIDEDCook along with Chef Natasha Celmi in this fun, hands-on session where comfort meets creativity. Learn to build a flavourful ramen from broth to toppings \u2014 and balance it with refreshing, chewy bubble tea made just right. Roll your own sushi and learn the tricks to perfectionMENU: INCLUDES LUNCHSpicy Tofu and Avocado cucumber maki rollRamen (Veg/Non-veg)Bubble tea/BobaWhether you bring a friend or come solo, this relaxed cook-along is all about good food, easy techniques, and enjoying the food together to wrap it up.",
+    "@type": "Event",
+    "name": "Stories at Sunset",
+    "description": "How about sitting in a circle and listening to stories as the sun goes down? The late evening Performance storytelling session for adults by Vikram Sridhar will explore stories from folklore, mythology, heritage, and travel narratives across the country for over an hour. Being interactive in nature , the stories will evoke emotions such as love, valor, humour, and joy. ",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E2B992A2B5564D2F8900235DD8324FE5_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5C3F4096F10C4FDF833B3BEBFD4E3998_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8C14BFB068C14A25BF7900957E4203B2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/912BD7D9840843D4A8B55C8460EDABBC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1E2C770EE3F740C28A039063C155EA71_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/072A036971FE4A3880E2E9CE3042C7AD_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9B4EED91A0D64417BBD39E5D05AE57AA_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8DB9F6A1FC574E5988D1B54C1C5D9105_converted_webp.webp"
     ],
-    "startDate": "2026-09-26T11:00:00+05:30",
-    "endDate": "2026-09-26T13:00:00+05:30",
+    "startDate": "2026-10-04T19:00:00+05:30",
+    "endDate": "2026-10-04T20:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "latitude": "12.96729590000000000000",
-      "longitude": "77.64263400000000000000"
+      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
-    "typicalAgeRange": "5+",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 2500.0,
+      "price": 300.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Canella Studio",
-      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
-      "url": "https://urbanaut.app/partner/canellastudio",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/bubblesushiworkshop",
+    "url": "https://urbanaut.app/spot/stories-at-sunset",
     "keywords": [
-      "Leisure",
-      "Workshop",
-      "Food & drink",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   }
