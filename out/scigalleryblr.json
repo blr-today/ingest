@@ -24,33 +24,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Signalling Showdown",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/zDThc5Ws9PvEWicj6"
-    },
-    "startDate": "2026-09-26T14:00:00+05:30",
-    "endDate": "2026-09-26T16:00:00+05:30",
-    "description": "What happens when biology meets the chaos of a card game?\n\nThis session invites you to play a science-based card game. If you find yourself fighting with your friends over a game of Ludo or UNO, this session is for you. Or if you find biology cool, this session is especially for you. \n\nJoin us for an afternoon of chasing a bacterium as a macrophage, and competing with others to catch it first. Meet the makers of the game and tell them what you think makes the game cool/uncool.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=signalling-showdown",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FIMG_1365%20Medium.jpeg-1789122115620?alt=media&token=b4a85524-6840-4832-9aea-368b0aa968ca",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Ipsa Jain"
-      },
-      {
-        "@type": "Person",
-        "name": "Ipshita Raj"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "(QUANTUM) Science Writing",
     "location": {
       "@type": "Place",
@@ -123,32 +96,6 @@
       {
         "@type": "Person",
         "name": "Suvrat Raju"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
-    "startDate": "2026-09-26T16:00:00+05:30",
-    "endDate": "2026-09-26T17:30:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join our Experimentors, Ajay and Hrithika, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en9",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Hrithika CA"
-      },
-      {
-        "@type": "Person",
-        "name": "Ajay R H"
       }
     ]
   },
@@ -332,6 +279,29 @@
       {
         "@type": "Person",
         "name": "Playful Pursuits"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Visualising Quantum Mechanics",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/UnHBLM46YZLDG5KH6"
+    },
+    "startDate": "2026-10-10T11:00:00+05:30",
+    "endDate": "2026-10-10T13:30:00+05:30",
+    "description": "Quantum mechanics, like all of physics, aims to predict what happens, albeit in a probabilistic manner.  But what does it actually mean?  What is happening under the surface? Moving through a visual essay in your browser, you will examine this gap during the workshop. \n\nVivek Vaidya will guide you through the hidden aspects of the double-slit experiment, decoherence, Bohm\u2019s pilot wave, and the many-worlds interpretation. Between each topic, you play: aim a wavefunction at a target you cannot strike directly, read a barrier from a quantum-potential landscape, or herd thirty-two worlds that repel one another. The games use the same solvers as the essay figures, so the intuitions you develop reflect the physics.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=visualising-quantum-mechanics",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "20",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FScreenshot%202026-09-26%20at%202.27.50%E2%80%AFPM%20Large.jpg-1790413555975?alt=media&token=7f909d5a-9498-4ede-93d4-c339f2f5486d",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Vivek Prabhakar Vaidya "
       }
     ]
   }
