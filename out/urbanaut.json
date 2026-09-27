@@ -326,7 +326,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -735,7 +735,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -915,7 +915,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 85,
+    "remainingAttendeeCapacity": 80,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1041,7 +1041,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 94,
+    "remainingAttendeeCapacity": 93,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1180,7 +1180,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 277,
+    "remainingAttendeeCapacity": 254,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1223,7 +1223,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 73,
+    "remainingAttendeeCapacity": 72,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1309,7 +1309,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1353,7 +1353,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 147,
+    "remainingAttendeeCapacity": 145,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1396,7 +1396,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 145,
+    "remainingAttendeeCapacity": 138,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1570,7 +1570,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 72,
-    "remainingAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 58,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1617,7 +1617,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1738,47 +1738,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/0E6E08635F6740578CDEB60FC7FCBB09_converted_webp.webp"
     ],
-    "startDate": "2026-09-26T19:00:00+05:30",
-    "endDate": "2026-09-26T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-brag-come-brag-about-you#2026-09-26T1900",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Dance Improv: Move With Each Other",
-    "description": "Dance is the universal cure for heartbreak, did you know? Bring your amateur, intermediate or professional selves to dance improv evenings, teach each other new styles, play, move and liberate! We have specific themes sometimes like Contact Improv or Line Dances.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0E6E08635F6740578CDEB60FC7FCBB09_converted_webp.webp"
-    ],
     "startDate": "2026-10-02T19:00:00+05:30",
     "endDate": "2026-10-02T21:00:00+05:30",
     "location": {
@@ -1806,53 +1765,9 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/open-brag-come-brag-about-you#2026-10-02T1900",
+    "url": "https://urbanaut.app/spot/open-brag-come-brag-about-you",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Open Practice: Amateur Calisthenics Lab",
-    "description": "Space to train, experiment and play with your body.Bring your calisthenics practices of strength, mobility, balance, handstands, flows or skills that you\u2019re working towards and use the space to practise at your own pace, alongside other movement enthusiasts.No class. No curriculum. Just practice, play and community.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2D0F5ACA21B74BFFBD23C6EDE9B4EA09_converted_webp.webp"
-    ],
-    "startDate": "2026-09-27T07:00:00+05:30",
-    "endDate": "2026-09-27T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-practice-amateur-calisthenics-lab#2026-09-27T0700",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Eco Friendly",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -1891,7 +1806,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/open-practice-amateur-calisthenics-lab#2026-10-04T0700",
+    "url": "https://urbanaut.app/spot/open-practice-amateur-calisthenics-lab",
     "keywords": [
       "Wellness",
       "Workshop",
@@ -2084,7 +1999,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2168,7 +2083,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2210,7 +2125,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2339,7 +2254,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2434,7 +2349,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2478,7 +2393,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2606,7 +2521,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2869,7 +2784,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 148,
+    "remainingAttendeeCapacity": 146,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3083,7 +2998,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 149,
+    "remainingAttendeeCapacity": 146,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3190,98 +3105,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Avenue Road (Pete) heritage walk.",
-    "description": "Step into Bengaluru\u2019s oldest quarter and travel almost 500 years into the past to the original Pete\u2014a world of fortified walls, bustling bazaars, temples, mosques, merchants, and craftsmen.This is where the city\u2019s story begins, from one end of Avenue Road to the other. Meet Kempe Gowda I, the visionary chieftain who founded Bengaluru, and discover why he chose this unlikely corner of the Deccan. What drew him here, and what strange signs, according to legend, foretold the birth of the city?Next comes one of Bengaluru\u2019s most haunting tales: the legend of the Southern Gate of the Pete, involving a pregnant woman, a sacrifice, and the building of the city\u2019s earliest fortifications.Kempe Gowda\u2019s settlement, however, was never destined to remain a small fortified town. Within a century, Bengaluru\u2019s strategic location and growing wealth made it a coveted prize for the Bijapur Sultanate, the Marathas, and eventually the Mughals, before the city passed into the hands of the Mysore kingdom and, after the Fourth Anglo-Mysore War, the British.What made Bengaluru so valuable? What did the original Bangalore Fort look like? And how did this fortified town of bazaars and bastions evolve into the sprawling metropolis we know today?Beyond the monuments, we discover the people who made the Pete thrive\u2014merchants, craftsmen, saints, philanthropists, and religious communities whose stories still linger in its streets. Along the way, you will discover historic temples, the KR Market, Sufi shrines, forgotten landmarks, and some of Bengaluru\u2019s oldest neighbourhoods.No journey through the Pete is complete without food, so we will finish with delicious local snacks at an iconic old eatery tucked just off the road.Come discover the Bengaluru that came before the metropolis. Walk its oldest streets, uncover its forgotten stories, and see the city through an entirely new lens.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/949D36E1E73C4273BA59F095CA0F0597_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B196058F18CE44F3940117C0C8B2307C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8FA7AD0469F14BFC9607C2B7182FC875_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E892B8F6FD14A29A770F64A59AF3860_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/742796A7ED144ACCB5E427FF1358947A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4B64F7A8E63D474D9FD3FE7AF187C9EE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/927462BD6F0D4B26863BC1CDE492BC6C_converted_webp.webp"
-    ],
-    "startDate": "2026-09-27T08:00:00+05:30",
-    "endDate": "2026-09-27T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Avenue Rd, Old Tharagupet, Mamulpet, Bengaluru, Karnataka, India",
-      "latitude": "12.96547190000000000000",
-      "longitude": "77.57746970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 750.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru by foot",
-      "description": "Heritage, food & architectural walks in Bangalore.",
-      "url": "https://urbanaut.app/partner/benbyfoot",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/avenue-road",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Max Urb_n X Wanandaf The Rap Hunt",
-    "description": "MAX URB_N x Wanandaf THE RAP HUNT | BENGALURUNot on the stage? You\u2019re still in the Cypher. \ud83d\udd25Bengaluru, the mic is open. Get ready for an evening built around raw rap, live energy and the city\u2019s hip-hop community.Join us for MAX URB_N X Wanamdaf The Rap Hunt, featuring a high-energy Rap Cypher, DJ Live Set, SPOTOUT and Rap Showcase. Whether you\u2019re a rapper, hip-hop head, artist, creator, or simply someone who wants to experience Bengaluru\u2019s rap culture up close this is your circle.Come through, bring your crew, catch the performances, discover new voices and be part of the cypher.\ud83d\udccd Concept01, Koramangala, Bengaluru\ud83d\udcc5 Sunday, 27 September 2026\u23f0 5:30 PM onwardsNo stage? No problem. The cypher is still yours.\ud83c\udf9f\ufe0f RSVP now & pull up.Be there. Be loud. Be part of the next wave.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/79E714BF165B422980FEFA6A8EA3DEBA_converted_webp.webp"
-    ],
-    "startDate": "2026-09-27T17:00:00+05:30",
-    "endDate": "2026-09-27T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2nd Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
-      "latitude": "12.92993360000000000000",
-      "longitude": "77.63865580000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 257,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Clan Bokka Phod",
-      "description": null,
-      "url": "https://urbanaut.app/partner/cbp",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9E9BF7E09C3444AC95609C4502468418_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/maxurbanxwanandafraphunt",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Festival",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Blr - Strangers Trip to South Goa, Differently \ud83c\udf34",
     "description": "Not every Goa trip needs to be about partying till sunrise.Some are about getting on a scooty and taking the road into the jungle, finding a waterfall, swimming in a natural pool, eating oysters, chasing sunsets - and then spending a couple of days doing absolutely nothing by the beach.That's what Tiri Tara is all about.This Gandhi Jayanthi long weekend, we're heading to South Goa to explore a side of Goa that's a little slower, wilder and far away from the usual tourist trail.\ud83d\udcc5 2nd October (Friday morning) \u2013 5th October (Monday evening)Meet the gang directly in Agonda (location and stay details will be disclosed after booking) on 2nd October around 11AM, and you can plan to leave us on 5th October around 4pm\ud83d\udcb0 \u20b913,499 per personCome solo or bring a friend. Either way, we'll take care of the getting there, staying there and figuring out where to go.You just need to show up, get on a scooty, and come find the South Goa that nobody really talks about.",
     "image": [
@@ -3328,52 +3151,6 @@
       "Local",
       "Adventure",
       "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Yoga in the wilderness, Cubbon park edition :)",
-    "description": "Join us for a serene and rejuvenating yoga session amidst the vast greenery of Cubbon Park, Bangalore. This free and open-to-all event invites you to connect with nature while grounding yourself through the power of yoga. Whether you\u2019re a beginner or an experienced yogi, this session, led by the experienced Rakshith, will help you find balance, flexibility, and peace. With over 7 years of experience guiding clients on their yoga journeys, Rakshith brings expertise and mindfulness to every session.The only contribution we ask for is punctuality, ensuring we can begin our practice together as one. Come with an open mind and a willing heart\u2014your mat, your breath, and the beautiful outdoors are all you need. See you on the mat!Join us for a serene and rejuvenating yoga session amidst the vast greenery of Cubbon Park, Bangalore. This free and open-to-all event invites you to connect with nature while grounding yourself through the power of yoga. Whether you\u2019re a beginner or an experienced yogi, this session, led by the experienced Rakshith, will help you find balance, flexibility, and peace. With over 7 years of experience guiding clients on their yoga journeys, Rakshith brings expertise and mindfulness to every session.The only contribution we ask for is punctuality, ensuring we can begin our practice together as one. Come with an open mind and a willing heart\u2014your mat, your breath, and the beautiful outdoors are all you need. See you on the mat!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/93ACAA0FDEDE4FE195AC31F2E32F5D52_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1D370A8E6F5D4B6A9766068D81A09E6B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7C1B4CE151B44F9AA96F2EFD54C3B0E7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A7729153377F44988388BEBC6C471CA6_converted_webp.webp"
-    ],
-    "startDate": "2026-09-27T09:00:00+05:30",
-    "endDate": "2026-09-27T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XHJW+9QR, Cubbon Rd, Ambedkar Veedhi, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
-      "latitude": "12.98097970000000000000",
-      "longitude": "77.59690560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rakshith, Triyanga yoga shala",
-      "description": "@triyangayogashala (instagram)",
-      "url": "https://urbanaut.app/partner/rakshith-triyanga-yoga-shala-267",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/C514611B7DFF40FC820BBA93EC2A37A7_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/tys27092026",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -3735,7 +3512,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3818,7 +3595,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
