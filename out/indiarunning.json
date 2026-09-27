@@ -1,63 +1,6 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "PaceX - Mini Forest Run at JP Nagar",
-    "url": "https://indiarunning.com/events/pacex__mini_forest_run_at_jp_nagar_37460",
-    "startDate": "2026-09-27T07:00:00+05:30",
-    "endDate": "2026-09-27T10:30:00+05:30",
-    "description": "Sunrise miles through the lush Mini Forest stretch at JP Nagar, fresh air, tree-lined roads, and high-energy vibes.\nAnd we don\u2019t stop at the finish line. We roll straight into our signature Coffee Rave at URU BREW PARK \u2615\ud83c\udfb6 fresh brews, music, open dance floor, and full post-run celebration mode.\nRun hard. Sip slow. Rave louder. \ud83d\udd25",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/09/27/pacex---mini-forest-run-at-jp-nagar-2026/banner1789986284686",
-    "location": {
-      "@type": "Place",
-      "name": "3rd Phase",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "WH7X+HCW Sukhdev Park, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560078",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9139795,
-        "longitude": 77.5985736
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "2.5K",
-        "price": "399",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "399",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "7K",
-        "price": "399",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "399",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "World Mental Health Day Run 2026",
     "url": "https://indiarunning.com/events/world_mental_health_day_run_2026_85710",
     "startDate": "2026-10-04T05:00:00+05:30",
@@ -603,6 +546,56 @@
         "@type": "Offer",
         "name": "32K",
         "price": "700",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "Chalo Bharat Walkathon Bengaluru Edition 2027",
+    "url": "https://indiarunning.com/events/chalo_bharat_walkathon_bengaluru_edition_2026_43370",
+    "startDate": "2027-03-14T05:30:00+05:30",
+    "endDate": "2027-03-14T11:00:00+05:30",
+    "description": "Bengaluru Edition | Chalo Bharat Walkathon\nLace up your shoes, Bengaluru!\nThe \nChalo Bharat Walkathon\n arrives in the city to celebrate fitness, community, and an active lifestyle. Join us on \n14th March 2027\n for a high-energy morning filled with movement, music, and positivity.\nFrom casual walkers to fitness lovers\u2014everyone is invited to be part of this vibrant experience.\nRace Categories:-\n3K Walk - Untimed Walk\n5K Walk - Timed Walk\n10K Walk - Timed Walk\nEvent Highlights:-\nLively atmosphere with music & entertainment\nCommunity-driven fitness experience\nIconic city route (venue to be announced soo\nParticipant Benefits:-\nT-shirt\nFinisher Medal\nVouchers\nBreakfast\nEvent Details:-\nDate: 14th March 2027\nVenue: To be announced\nBIB Collection: 12 & 13 March 2027\nAge Group: \nOpen to all\nLet\u2019s make every step count, Bengaluru!",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/12/20/chalo-bharat-walkathon-bengaluru-edition-2026-2026/banner1785499387076",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Karnataka, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9628957,
+        "longitude": 77.57754
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "3K",
+        "price": "850",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "850",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "850",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
