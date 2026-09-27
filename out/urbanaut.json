@@ -3284,5 +3284,47 @@
     "keywords": [
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Intro to Mahjong",
+    "description": "Intro to mahjong\u00a0Price - Rs 5000Venue - The mahjong lounge\u00a0Timing - 3 hours (11am - 2pm or 3pm - 6pm , you suggest)\u00a0What will be covered -\u00a0Tile identification\u00a0The fundamentals of Chinese & Indian mahjong\u00a0Passport 9-6-5\u00a0Goulash (without scoring)\u00a0Mahjong etiquette and table rules",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D846F37B41754ED3AD3819490ECFCDC8_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/2FD6C5348CE34446BEBC18A53CD93BEE_converted_webp.webp"
+    ],
+    "startDate": "2026-10-09T10:30:00+05:30",
+    "endDate": "2026-10-09T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "439, 8th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "latitude": "12.93345910000000000000",
+      "longitude": "77.62699260000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mahjong Lounge",
+      "description": "mahjong community for Bangalore",
+      "url": "https://urbanaut.app/partner/mahjonglounge",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/806C8B7E5EF64B708C3B664E98B70C30_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/intro-to-mahjong",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
