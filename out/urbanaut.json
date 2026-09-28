@@ -66,7 +66,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -284,7 +284,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -333,7 +333,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -695,7 +695,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 254,
+    "remainingAttendeeCapacity": 249,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -738,7 +738,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 72,
+    "remainingAttendeeCapacity": 68,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -824,7 +824,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 145,
+    "remainingAttendeeCapacity": 144,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -867,7 +867,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 138,
+    "remainingAttendeeCapacity": 137,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1047,7 +1047,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 98,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1204,47 +1204,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/BCBAA213F0274364BC903313BA717B98_converted_webp.webp"
     ],
-    "startDate": "2026-09-27T11:00:00+05:30",
-    "endDate": "2026-09-27T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/all-grown-up-take-on-admin-tasks-together#2026-09-27T1100",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "All Grown Up: Take on Admin Tasks together",
-    "description": "All those admin tasks that are piling up silently only needs threat of an audience to get done. Bring your data transfers, insurance bills, email clearances, closing accounts, and other radical administrative tasks to the meetup and take a crack at them together. Open to all ages.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BCBAA213F0274364BC903313BA717B98_converted_webp.webp"
-    ],
     "startDate": "2026-10-04T11:00:00+05:30",
     "endDate": "2026-10-04T13:00:00+05:30",
     "location": {
@@ -1272,48 +1231,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/all-grown-up-take-on-admin-tasks-together#2026-10-04T1100",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Metta Practice",
-    "description": "Monday Morning VipassanaBegin the week in silence and stillness.A shared morning meditation for Vipassana practitioners, creating space to sit together, return to the practice, and begin the week with awareness and equanimity.For old students who have completed a 10 day course only.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5F39BFA5A2494D6FAA1758AC600DE97D_converted_webp.webp"
-    ],
-    "startDate": "2026-09-28T06:30:00+05:30",
-    "endDate": "2026-09-28T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 11,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/metta-practice#2026-09-28T0630",
+    "url": "https://urbanaut.app/spot/all-grown-up-take-on-admin-tasks-together",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -1354,7 +1272,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/metta-practice#2026-10-05T0630",
+    "url": "https://urbanaut.app/spot/metta-practice",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -1730,7 +1648,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1899,7 +1817,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 43,
+    "remainingAttendeeCapacity": 41,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2031,7 +1949,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2203,7 +2121,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 146,
+    "remainingAttendeeCapacity": 142,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2384,7 +2302,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -2511,7 +2429,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2676,7 +2594,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3289,7 +3207,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Intro to Mahjong",
-    "description": "Intro to mahjong\u00a0Price - Rs 5000Venue - The mahjong lounge\u00a0Timing - 3 hours (11am - 2pm or 3pm - 6pm , you suggest)\u00a0What will be covered -\u00a0Tile identification\u00a0The fundamentals of Chinese & Indian mahjong\u00a0Passport 9-6-5\u00a0Goulash (without scoring)\u00a0Mahjong etiquette and table rules",
+    "description": "Intro to mahjong\u00a0Price - Rs 3000Venue - The mahjong lounge\u00a0Timing - 3 hours (10:30-1:30pm)What will be covered -\u00a0Tile identification\u00a0The fundamentals of Chinese & Indian mahjong\u00a0Passport 9-6-5\u00a0Goulash (without scoring)\u00a0Mahjong etiquette and table rules",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/D846F37B41754ED3AD3819490ECFCDC8_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/2FD6C5348CE34446BEBC18A53CD93BEE_converted_webp.webp"
@@ -3310,7 +3228,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 0.0,
+      "price": 3000.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
