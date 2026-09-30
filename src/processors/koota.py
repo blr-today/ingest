@@ -1,8 +1,8 @@
-import html
 from .base import Processor
 
 
 class Koota(Processor):
+    PRIORITY = -10  # Fix dates before SchemaFixer parses them
     URL_REGEX = r"^https?://(www\.)?courtyardkoota\.com/"
 
     @staticmethod
