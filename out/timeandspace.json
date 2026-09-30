@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "The Haren Thakur Show",
+    "description": "Haren Thakur is recognized as a modernist artist whose work intricately weaves together traditional tribal art forms with contemporary aesthetics. His art reflects a deep engagement with nature, life, and...\\n",
+    "image": "https://timeandspace.gallery/wp-content/uploads/2026/09/IMG_2098-scaled-e1790670002529.jpg",
+    "url": "https://timeandspace.gallery/event/the-haren-thakur-show/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-09-19T11:00:00+05:30",
+    "endDate": "2026-10-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Gallery Time and Space",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
+        "addressLocality": "Bangalore",
+        "addressRegion": "karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "+917760394808",
+      "sameAs": "https://timeandspace.gallery"
+    }
+  }
+]
