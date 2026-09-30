@@ -4601,45 +4601,6 @@
       "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
       "type": "Place"
     },
-    "startDate": "2026-09-30T20:00:00+05:30"
-  },
-  {
-    "name": "Women's Beginner Basketball Coaching",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Beginner",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Beginner",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "550",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Basketball",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BASKETBALL%20BEGINNER%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
-      "type": "Place"
-    },
     "startDate": "2026-10-07T20:00:00+05:30"
   },
   {
@@ -5540,6 +5501,45 @@
     "startDate": "2026-12-22T20:00:00+05:30"
   },
   {
+    "name": "Sisters & Misters Basketball Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Basketball-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Basketball-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "495",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Basketball",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BASKETBALL%20S%26M%20GAME%20NIGHT_%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
+      "type": "Place"
+    },
+    "startDate": "2026-12-29T20:00:00+05:30"
+  },
+  {
     "name": "Sisters & Misters Football Game Night - Bangalore",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
@@ -6006,5 +6006,44 @@
       "type": "Place"
     },
     "startDate": "2026-12-22T20:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Sisters%20%26%20Misters%20footy%20game-night.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "type": "Place"
+    },
+    "startDate": "2026-12-29T20:00:00+05:30"
   }
 ]
