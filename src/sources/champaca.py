@@ -5,7 +5,6 @@ from common.tz import IST
 import dateutil.parser
 import re
 from lxml import etree
-import datefinder
 import urllib.parse
 from math import ceil
 from bs4 import BeautifulSoup
@@ -56,7 +55,7 @@ def guess_event_type(title):
 
 
 # Generate as per the schema.org/Event specification
-def make_event(title, starttime, description, url, product_urls):
+def make_event(title, starttime, endtime, description, url, product_urls):
     performer_regexes = [
         r"/by (?P<name>(\w|\s)+)\s(\||:)/",
         r"/with (?P<name>(\w|\s)+)\s(\||:)/",
@@ -68,12 +67,15 @@ def make_event(title, starttime, description, url, product_urls):
             performer = match.group("name")
             break
     starttime = starttime.replace(tzinfo=IST)
+    endtime = (endtime or starttime + datetime.timedelta(hours=2)).replace(tzinfo=IST)
+    parts = [p.strip() for p in title.split("|")]
+    name = " | ".join(p for p in parts if not (re.search(r"\d", p) and len(p) < 25))
 
     e = {
         "@type": guess_event_type(title),
-        "name": title.split("|")[0].strip(),
+        "name": name,
         "startDate": starttime.isoformat(),
-        "endDate": (starttime + datetime.timedelta(hours=2)).isoformat(),
+        "endDate": endtime.isoformat(),
         "description": description,
         "url": url,
         "offers": [],
@@ -106,6 +108,37 @@ def make_event(title, starttime, description, url, product_urls):
     return e
 
 
+TIME_RE = r"\d{1,2}(?::\d{2})?\s*[ap]\.?m"
+
+
+def parse_schedule(text, published):
+    text = re.sub(r"\s+", " ", text.replace("\xa0", " "))
+    date_match = re.search(r"Date:\s*(.+?)(?=Time:|Venue:|Price:|$)", text)
+    if not date_match:
+        return None, None
+    # Multi-day ranges like "26th and 27th September" start on the first day
+    date_str = re.sub(
+        r"(\d{1,2})(?:st|nd|rd|th)?\s*(?:and|&|-|to)\s*\d{1,2}(?:st|nd|rd|th)?",
+        r"\1",
+        date_match.group(1),
+    )
+    date_str = re.sub(r"[()&]", " ", date_str)
+    time_match = re.search(r"Time:\s*(.+?)(?=Venue:|Price:|Date:|$)", text)
+    time_str = re.sub(r"\(.*?\)", "", time_match.group(1)) if time_match else ""
+    times = re.findall(TIME_RE, time_str, re.IGNORECASE)
+    default = datetime.datetime(published.year, published.month, published.day)
+    try:
+        start = dateutil.parser.parse(date_str, fuzzy=True, default=default)
+        if start < default:
+            start = start.replace(year=start.year + 1)
+        if times:
+            start = dateutil.parser.parse(times[0], default=start)
+        end = dateutil.parser.parse(times[1], default=start) if len(times) > 1 else None
+    except ValueError, OverflowError:
+        return None, None
+    return start, end
+
+
 def fetch_events():
     url = "https://champaca.in/blogs/events.atom"
     res = make_request(url)
@@ -115,51 +148,33 @@ def fetch_events():
     except etree.XMLSyntaxError:
         return []
 
+    ns = {"xmlns": "http://www.w3.org/2005/Atom"}
     events = []
+    now = datetime.datetime.now()
 
-    # Iterate over each entry in the feed
-    for entry in tree.xpath(
-        "//xmlns:entry", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
-    )[0:5]:
-        title = entry.find(
-            ".//xmlns:title", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
-        ).text
+    for entry in tree.xpath("//xmlns:entry", namespaces=ns):
+        title = entry.find(".//xmlns:title", namespaces=ns).text
         if "online" in title.lower():
             continue
-        html_content = entry.find(
-            ".//xmlns:content", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
-        ).text
-        # get all text from div or P elements
-        description_text = " ".join(
-            [p for p in etree.HTML(html_content).xpath("//div//text() | //p//text()")]
+        html_content = entry.find(".//xmlns:content", namespaces=ns).text
+        if not html_content:
+            continue
+        published = dateutil.parser.parse(
+            entry.find(".//xmlns:published", namespaces=ns).text
         )
-        url = entry.find(
-            ".//xmlns:link", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
-        ).attrib["href"]
-
         doc = etree.HTML(html_content)
+        description_text = " ".join(doc.xpath("//div//text() | //p//text()"))
+        url = entry.find(".//xmlns:link", namespaces=ns).attrib["href"]
         links = doc.xpath(
             '//a[starts-with(@href, "https://champaca.in/products/")]/@href'
         )
-        # Find future dates in the title
-        future_dates = list(datefinder.find_dates(title, index=True, source=True))
-        if future_dates:
-            # Get the first future date found
-            future_date = next(
-                (
-                    date
-                    for date, idx, src in future_dates
-                    if date > datetime.datetime.now()
-                ),
-                None,
-            )
-            if future_date:
-                # Calculate the difference in days between now and the future date
-                days_difference = (future_date - datetime.datetime.now()).days
-                if days_difference <= 30 and days_difference >= 0:
-                    events.append(
-                        make_event(title, future_date, description_text, url, links)
-                    )
+
+        start, end = parse_schedule(" ".join(doc.xpath("//text()")), published)
+        if not start:
+            print(f"[CHAMPACA] Could not find date for {title}")
+            continue
+        if 0 <= (start - now).days <= 30:
+            events.append(make_event(title, start, end, description_text, url, links))
 
     return events
 
