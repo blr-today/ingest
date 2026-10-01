@@ -1,4 +1,7 @@
 local transformEvent(event) =
+  // Field names cannot see object locals, so these sit outside it
+  local description = std.get(event, 'description', '');
+  local image = std.get(event, 'image_upload', null);
   {
     local title = event.post.topic.title,
     // Search for events with Cinema Club in title
@@ -9,10 +12,12 @@ local transformEvent(event) =
     local locationUrl =
       if location != null && std.startsWith(location, 'http') then std.split(location, ' ')[0],
     local eventUrl = std.get(event, 'url', ''),
+    local topic = event.post.topic,
+    local postUrl = 'https://underline.center/t/' + std.get(topic, 'slug', 'topic') + '/' + topic.id,
     local url =
       if eventUrl != null && std.startsWith(eventUrl, 'http') then eventUrl
       else if locationUrl != null then locationUrl
-      else 'https://underline.center' + event.post.url,
+      else postUrl,
     '@context': 'https://schema.org',
     '@type': if cinema then 'ScreeningEvent' else 'SocialEvent',
     startDate: event.starts_at,
@@ -20,7 +25,9 @@ local transformEvent(event) =
     name: title,
     [if event.ends_at != null then 'endDate']: event.ends_at,
     url: url,
-    sameAs: 'https://underline.center/t/' + event.post.id,
+    sameAs: postUrl,
+    [if description != null && description != '' then 'description']: description,
+    [if image != null then 'image']: image.url,
     inLanguage: 'en',
     eventStatus: 'EventScheduled',
     maximumAttendeeCapacity: 45,
