@@ -663,45 +663,6 @@
       "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
       "type": "Place"
     },
-    "startDate": "2026-10-04T06:45:00+05:30"
-  },
-  {
-    "name": "Run with the Sisters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "200",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Run",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20RUN%20WITH%20THE%20SISTERS%206_45-8_15%20AM%20_%20CUBBON%20PARK%20(2).webp",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
-      "type": "Place"
-    },
     "startDate": "2026-10-11T06:45:00+05:30"
   },
   {
@@ -781,6 +742,45 @@
       "type": "Place"
     },
     "startDate": "2026-10-25T06:45:00+05:30"
+  },
+  {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Run",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20RUN%20WITH%20THE%20SISTERS%206_45-8_15%20AM%20_%20CUBBON%20PARK%20(2).webp",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
+      "type": "Place"
+    },
+    "startDate": "2026-11-01T06:45:00+05:30"
   },
   {
     "name": "Badminton Coaching-Beginner & Intermediate",
@@ -1287,45 +1287,6 @@
       "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
       "type": "Place"
     },
-    "startDate": "2026-10-01T19:30:00+05:30"
-  },
-  {
-    "name": "Women's Beginner Football Coaching- Jakkur",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "500",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Jakkur.webp",
-    "location": {
-      "name": "The Shri Ram Universal School, Jakkur",
-      "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
-      "type": "Place"
-    },
     "startDate": "2026-10-08T19:30:00+05:30"
   },
   {
@@ -1405,6 +1366,45 @@
       "type": "Place"
     },
     "startDate": "2026-10-22T19:30:00+05:30"
+  },
+  {
+    "name": "Women's Beginner Football Coaching- Jakkur",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "500",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Jakkur.webp",
+    "location": {
+      "name": "The Shri Ram Universal School, Jakkur",
+      "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
+      "type": "Place"
+    },
+    "startDate": "2026-10-29T19:30:00+05:30"
   },
   {
     "name": "Women's Beginner Basketball Coaching",
