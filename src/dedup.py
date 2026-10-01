@@ -92,8 +92,28 @@ def merge(kept, dropped, dropped_url):
         as_list(kept.get("sameAs")) + [dropped_url] + as_list(dropped.get("sameAs"))
     )
     kept["sameAs"] = list(dict.fromkeys(u for u in same_as if u != kept.get("url")))
-    if "endDate" not in kept and "endDate" in dropped:
-        kept["endDate"] = dropped["endDate"]
+    images = as_list(kept.get("image")) + as_list(dropped.get("image"))
+    if images and all(isinstance(i, str) for i in images):
+        kept["image"] = list(dict.fromkeys(images))
+    fill(kept, dropped)
+
+
+def is_empty(value):
+    return value is None or value == "" or value == [] or value == {}
+
+
+def fill(kept, other):
+    for key, value in other.items():
+        if is_empty(value):
+            continue
+        if key not in kept or is_empty(kept[key]):
+            kept[key] = value
+        elif (
+            isinstance(kept[key], dict)
+            and isinstance(value, dict)
+            and kept[key].get("@type") == value.get("@type")
+        ):
+            fill(kept[key], value)
 
 
 def dedup(db_path="events.db"):
