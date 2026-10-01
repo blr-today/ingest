@@ -59,18 +59,11 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%rashid mubarak nadaf%';
 
 
--- BIC lists their events on District, but we have their original calendar
--- BCC lists their events on District, but we have their original calendar
+-- https://www.district.in/events/parsec-jayanagar-by-param-2025-buy-tickets
+-- These are regular museum tickets, not special events
 DELETE FROM events
 WHERE
-  lower(event_json ->> '$.organizer.name') IN (
-    'bangalore international centre',
-    'tarun rajendra mittal (bangalore chess club)',
-    -- https://www.district.in/events/parsec-jayanagar-by-param-2025-buy-tickets
-    -- These are regular museum tickets
-    -- not special events
-    'PARAM FOUNDATION'
-  );
+  lower(event_json ->> '$.organizer.name') = 'param foundation';
 
 
 DELETE FROM events
@@ -83,15 +76,6 @@ WHERE
 -- The last date to apply is gone (25 May)
 ,   'https://map-india.org/map-events/training-course-in-conservation-of-photographs-in-museums-archives-and-collections/'
   );
-
-
--- Ideally,we would mark them using sameAs, but too much work for now
--- TODO: Pick up BMS/District Links using links in the event HTML 
--- at attagalatta.com event page, and then mark them using sameAs
-DELETE FROM events
-WHERE
-  event_json ->> '$.location.name' LIKE '%Atta Galata%'
-  AND url LIKE 'https://district.in%';
 
 
 -- Low Quality events, and trips/treks from OdysseyVibes.in
