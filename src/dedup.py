@@ -5,21 +5,28 @@ from collections import defaultdict
 from datetime import datetime
 from urllib.parse import urlparse
 
-# Lower rank wins; organiser sites beat aggregators that relist their events
+# Mirrors calendar types: venues/organisers win, then aggregators, then curators
 AGGREGATORS = [
-    "puttingscene.com",
-    "urbanaut.app",
     "district.in",
-    "skillboxes.com",
-    "highape.com",
+    "urbanaut.app",
     "allevents.in",
+    "highape.com",
+    "skillboxes.com",
 ]
+CURATORS = [
+    "puttingscene.com",
+    "indiarunning.com",
+    "bhaagoindia.com",
+    "bengalurusustainabilityforum.org",
+    "tonight.is",
+]
+RANKED = AGGREGATORS + CURATORS
 ALWAYS_MERGE = ["improv lore"]
 
 
 def rank(url):
     domain = urlparse(url).netloc.removeprefix("www.")
-    return AGGREGATORS.index(domain) + 1 if domain in AGGREGATORS else 0
+    return RANKED.index(domain) + 1 if domain in RANKED else 0
 
 
 def normalize(text):
