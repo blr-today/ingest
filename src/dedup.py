@@ -3,7 +3,7 @@ import re
 import sqlite3
 from collections import defaultdict
 from datetime import datetime
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 # Mirrors calendar types: venues/organisers win, then aggregators, then curators
 AGGREGATORS = [
@@ -30,7 +30,8 @@ def rank(url):
 
 
 def normalize(text):
-    return " ".join(re.sub(r"[^a-z0-9]+", " ", text.lower()).split())
+    text = re.sub(r"['’]", "", text.lower())
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", text).split())
 
 
 def core_title(name):
@@ -44,7 +45,18 @@ def text_of(event, key):
     return value if isinstance(value, str) else ""
 
 
+def links(event):
+    urls = [event.get("url")] + as_list(event.get("sameAs"))
+    return {
+        re.sub(r"^https?://(www\.)?", "", unquote(u).lower()).rstrip("/")
+        for u in urls
+        if isinstance(u, str) and u
+    }
+
+
 def is_duplicate(a, b):
+    if links(a) & links(b):
+        return True
     host = (text_of(a, "name") + text_of(a, "organizer")).lower()
     other = (text_of(b, "name") + text_of(b, "organizer")).lower()
     if any(n in host and n in other for n in ALWAYS_MERGE):
