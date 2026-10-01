@@ -7,6 +7,8 @@ import re
 BASE_URL = "https://sistersinsweat.com"
 CITY_PATH = "/bengaluru"
 FUTURE_WINDOW = datetime.timedelta(days=90)
+# Recurring sessions only list their next few dates
+MAX_OCCURRENCES = 4
 KNOWN_SPORTS = {
     "frisbee": "Frisbee",
     "pickleball": "Pickleball",
@@ -168,11 +170,15 @@ def make_events(session, card):
     now = datetime.datetime.now(IST)
     horizon = now + FUTURE_WINDOW
     occurrences = clean(card.get("occurrenceDates")) or []
+    starts = sorted(
+        start
+        for start in (
+            datetime.datetime.fromisoformat(o).astimezone(IST) for o in occurrences
+        )
+        if now <= start <= horizon
+    )
     events = []
-    for occurrence in occurrences:
-        start = datetime.datetime.fromisoformat(occurrence).astimezone(IST)
-        if start < now or start > horizon:
-            continue
+    for start in starts[:MAX_OCCURRENCES]:
         event = dict(base)
         event["startDate"] = start.isoformat()
         if end_time_text and len(occurrences) == 1:
