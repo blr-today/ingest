@@ -303,6 +303,48 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The BWW Short Story Community",
+    "description": "The BWW Short Fiction Community at Atta Galatta will discuss BloodchildBy Octavia E. ButlerBloodchild is a tense and thought-provoking science fiction story set on an alien planet where humanity lives in a delicate, symbiotic relationship with a species known as the T'Gatoi. The story explores complex themes of survival, power, intimacy, and sacrifice as young Gan faces the unsettling reality of what it truly means to bear life and ensure the mutual survival of both species.Read the text and come to the event.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/456E9D65928147369A9D122FE1673A94_converted_webp.webp"
+    ],
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1250.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-bww-short-story-community",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Silliest Show Tonight by Improv Lore",
     "description": "A classic good ol\u2019 improv show packed with riddles, tongue twisters, and some nostalgia. If you\u2019ve been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!We promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.Who are Improv Lore?We are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical.",
     "image": [
@@ -4200,7 +4242,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Cloud Capped Star Rhitwik Ghatak - TPCC",
+    "name": "The Angel (L'Ange) by Patrick Bukanowski - TPCC",
     "description": "A selfless young woman, the daughter of a middle-class refugee family from East Pakistan, sacrifices her own happiness for her unappreciative family.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/46EFE443CA314347BFE073480578F000_converted_webp.webp"
@@ -4947,48 +4989,6 @@
     "url": "https://urbanaut.app/spot/books-movies-pop-culture-trivia",
     "keywords": [
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Navratri Curiosity Lab",
-    "description": "There\u2019s no textbook.There\u2019s no \u201cright\u201d way to think.And there are no boring questions!Just challenges, experiments, creativity, games and BIG \u201cAHA!\u201d moments.Come with your curiosity.Leave with a whole new set of questions!Timing: 5.30 pm - 7 pmAge Group: For little explorers aged 5 to 10 yearsTicket Price: Rs. 400 for child + parent  ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B3405E4353DC4FDE970C29956A3FF077_converted_webp.webp"
-    ],
-    "startDate": "2026-10-03T17:30:00+05:30",
-    "endDate": "2026-10-03T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 472.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/navratri-curiosity-lab",
-    "keywords": [
-      "Workshop",
-      "History & heritage",
       "URBANAUT"
     ]
   }
