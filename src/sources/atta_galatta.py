@@ -89,5 +89,5 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"skipping event {event.get('link')}: {e}")
 
-    with open("out/atta_galatta.json", "w") as f:
+    with open("out/attagalatta.json", "w") as f:
         json.dump(data, f, indent=2)

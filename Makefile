@@ -35,7 +35,7 @@ out/skillboxes.jsonnet:
 out/skillboxes.json: out/skillboxes.jsonnet
 	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
 
-out/atta_galatta.json:
+out/attagalatta.json:
 	python -m src.sources.atta_galatta || $(call restore-file,$@)
 
 out/champaca.json:
@@ -144,7 +144,7 @@ out/koota.txt:
 	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ || $(call restore-file,$@)
 		echo "[KOOTA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
-out/sis.json:
+out/sistersinsweat.json:
 	python -m src.sources.sis || $(call restore-file,$@)
 
 out/bcc.json:
@@ -227,11 +227,11 @@ fetch: out/allevents.txt \
  out/adidas.json \
  out/ticketnew/cinemas.csv \
  out/trove.json \
- out/atta_galatta.json \
+ out/attagalatta.json \
  out/koota.txt \
  out/te.json \
  out/underline.json \
- out/sis.json \
+ out/sistersinsweat.json \
  out/bcc.json \
  out/pumarun.txt \
  out/tpcc.json \

@@ -188,5 +188,5 @@ if __name__ == "__main__":
     events = []
     for card in fetch_cards(session):
         events.extend(make_events(session, card))
-    with open("out/sis.json", "w") as f:
+    with open("out/sistersinsweat.json", "w") as f:
         json.dump(events, f, indent=2)
