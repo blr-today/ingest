@@ -47,10 +47,18 @@ def is_duplicate(a, b):
     )
     if not x:
         return False
+    if normalize(a.get("name", "")) == normalize(b.get("name", "")):
+        return True
     return x == y or (len(x.split()) >= 3 and y.startswith(x + " "))
 
 
-def merge_keywords(kept, dropped):
+def as_list(value):
+    if isinstance(value, str):
+        return [value]
+    return value if isinstance(value, list) else []
+
+
+def merge(kept, dropped, dropped_url):
     keywords = []
     for event in (kept, dropped):
         k = event.get("keywords", [])
@@ -58,6 +66,12 @@ def merge_keywords(kept, dropped):
     kept["keywords"] = list(
         dict.fromkeys(k for k in keywords if isinstance(k, str) and k)
     )
+    same_as = (
+        as_list(kept.get("sameAs")) + [dropped_url] + as_list(dropped.get("sameAs"))
+    )
+    kept["sameAs"] = list(dict.fromkeys(u for u in same_as if u != kept.get("url")))
+    if "endDate" not in kept and "endDate" in dropped:
+        kept["endDate"] = dropped["endDate"]
 
 
 def dedup(db_path="events.db"):
@@ -82,7 +96,7 @@ def dedup(db_path="events.db"):
             if not match:
                 kept.append(row)
                 continue
-            merge_keywords(match[2], row[2])
+            merge(match[2], row[2], row[1])
             merged[match[0]] = match[2]
             conn.execute("DELETE FROM events WHERE rowid = ?", (row[0],))
             print(f"[DEDUP] {row[1]} -> {match[1]}")
