@@ -24,9 +24,12 @@ RANKED = AGGREGATORS + CURATORS
 ALWAYS_MERGE = ["improv lore"]
 
 
+def domain(url):
+    return urlparse(url).netloc.removeprefix("www.")
+
+
 def rank(url):
-    domain = urlparse(url).netloc.removeprefix("www.")
-    return RANKED.index(domain) + 1 if domain in RANKED else 0
+    return RANKED.index(domain(url)) + 1 if domain(url) in RANKED else 0
 
 
 def normalize(text):
@@ -111,7 +114,15 @@ def dedup(db_path="events.db"):
         events.sort(key=lambda e: (rank(e[1]), e[0]))
         kept, merged = [], {}
         for row in events:
-            match = next((k for k in kept if is_duplicate(k[2], row[2])), None)
+            # A site listing two events at one time means two different events
+            match = next(
+                (
+                    k
+                    for k in kept
+                    if domain(k[1]) != domain(row[1]) and is_duplicate(k[2], row[2])
+                ),
+                None,
+            )
             if not match:
                 kept.append(row)
                 continue
