@@ -238,7 +238,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1171,7 +1171,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 242,
+    "remainingAttendeeCapacity": 239,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1213,8 +1213,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 64,
+    "maximumAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 86,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1300,7 +1300,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 140,
+    "remainingAttendeeCapacity": 132,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1343,7 +1343,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 123,
+    "remainingAttendeeCapacity": 116,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1476,7 +1476,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 72,
-    "remainingAttendeeCapacity": 54,
+    "remainingAttendeeCapacity": 52,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1523,7 +1523,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 97,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1816,7 +1816,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1835,48 +1835,6 @@
     "keywords": [
       "Workshop",
       "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Knitty Kitty: Crochet, Macrame, Knit Together",
-    "description": "A cosy gathering for people who make things with their hands.Bring your knitting, crochet, macram\u00e9 or any fibre-based craft and spend an evening making, sharing skills, swapping ideas and chatting with fellow makers.No workshop. No pressure to be productive. Just good company, good threads and something lovely taking shape.Bring your project. Come make together.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/62C79A30BE6A42119C77D6330E53763D_converted_webp.webp"
-    ],
-    "startDate": "2026-09-30T17:00:00+05:30",
-    "endDate": "2026-09-30T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 16,
-    "remainingAttendeeCapacity": 16,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together#2026-09-30T1700",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1915,7 +1873,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together#2026-10-07T1700",
+    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together",
     "keywords": [
       "Workshop",
       "Art & culture",
@@ -2088,7 +2046,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2216,7 +2174,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2257,7 +2215,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2389,7 +2347,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2430,7 +2388,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2561,7 +2519,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 139,
+    "remainingAttendeeCapacity": 136,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2774,7 +2732,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2817,7 +2775,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2900,7 +2858,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3023,7 +2981,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3106,7 +3064,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 42,
+    "remainingAttendeeCapacity": 41,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3401,7 +3359,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3617,7 +3575,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3760,7 +3718,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3812,7 +3770,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3828,58 +3786,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1200",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Goa is a Bebinca - A Food Theatre Experience",
-    "description": "What makes a place linger in your memory\u2014its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! \u2728).We\u2019re turning back the clock and inviting you into a bustling, atmospheric Goan taverna\u2014a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary\u2014a total firecracker of a woman who is determined to put her family\u2019s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch\u2014you\u2019ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn\u2019t just a show or a meal\u2014it\u2019s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect\ud83c\udfad 90 Minutes of Pure Immersive TheatreStep into the narrative, interact with characters, and be part of the story as it unfolds around you!\ud83c\udf78 Bar Bites & SpiritsIncludes a curated menu of contemporary Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol.\ud83d\udccd Bangalore RunOnly in October!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5EBF778982F34F79AEC939DAD55D886A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/553C1392CCD944768F44C8CCFB4F5F7C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D86975F8160E4088A7D0DB27083E30BE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FA521654EE6B4C8B97D4353A07AC13C9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A29D79E447F3487B9A939CF779F0F324_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0C581237DEBE43198E4DDB7A33B40D9F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7C7AF5A099204E1F917A300BCAE0753E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E8C1AB473FE42558CF93D7BF5B56A39_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T16:00:00+05:30",
-    "endDate": "2026-10-11T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd, Jayabharath Nagar, M.E.G. Officers Colony, Cooke Town, Bengaluru, Karnataka 560033, India",
-      "latitude": "13.00115250000000000000",
-      "longitude": "77.62922130000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2360.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "paChaak",
-      "description": null,
-      "url": "https://urbanaut.app/partner/pachaak",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1600",
     "keywords": [
       "History & heritage",
       "Food & drink",
@@ -4092,7 +3998,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4270,7 +4176,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4471,7 +4377,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4761,7 +4667,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4937,7 +4843,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
