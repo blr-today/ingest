@@ -22,6 +22,18 @@ CURATORS = [
 ]
 RANKED = AGGREGATORS + CURATORS
 ALWAYS_MERGE = ["improv lore"]
+SOCIAL = [
+    "instagram.com",
+    "facebook.com",
+    "x.com",
+    "twitter.com",
+    "youtube.com",
+    "linktr.ee",
+    "wa.me",
+    "whatsapp.com",
+    "forms.gle",
+    "docs.google.com",
+]
 
 
 def domain(url):
@@ -116,6 +128,25 @@ def fill(kept, other):
             fill(kept[key], value)
 
 
+def promote(event):
+    url = event.get("url", "")
+    if domain(url) not in CURATORS:
+        return False
+    for link in as_list(event.get("sameAs")):
+        if not isinstance(link, str) or not link.startswith("http"):
+            continue
+        host = domain(link)
+        if host in RANKED:
+            continue
+        if any(host == s or host.endswith("." + s) for s in SOCIAL):
+            continue
+        event["url"] = link
+        event["sameAs"] = [url] + [u for u in as_list(event["sameAs"]) if u != link]
+        print(f"[DEDUP] {url} links to {link}")
+        return True
+    return False
+
+
 def dedup(db_path="events.db"):
     conn = sqlite3.connect(db_path)
     groups = defaultdict(list)
@@ -151,6 +182,10 @@ def dedup(db_path="events.db"):
             conn.execute("DELETE FROM events WHERE rowid = ?", (row[0],))
             print(f"[DEDUP] {row[1]} -> {match[1]}")
             removed += 1
+        # Curators point at the organiser's own page, a better main link
+        for rowid, _, event in kept:
+            if promote(event):
+                merged[rowid] = event
         for rowid, event in merged.items():
             conn.execute(
                 "UPDATE events SET event_json = ? WHERE rowid = ?",
