@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IIWC - ECPv6.17.5.1//NONSGML v1.0//EN
+PRODID:-//IIWC - ECPv6.18.0//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:IIWC
@@ -18,34 +18,6 @@ TZNAME:IST
 DTSTART:20250101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20261002T103000
-DTEND;TZID=Asia/Kolkata:20261002T123000
-DTSTAMP:20260926T090216Z
-CREATED:20260926T090216Z
-LAST-MODIFIED:20260926T090216Z
-UID:2484-1790937000-1790944200@iiwc.in
-SUMMARY:Gandhi Jayanti Discussion on Martin Luther King Jr.
-DESCRIPTION:
-URL:https://iiwc.in/event/gandhi-jayanti-discussion-on-martin-luther-king-jr/
-LOCATION:Wadia Hall\, The Indian Institute of World Culture\, #6\, Shri B P Wadia Road\,\, Bangalore\, Karnataka\, 560004\, India
-CATEGORIES:Lecture
-ATTACH;FMTTYPE=image/jpeg:https://iiwc.in/wp-content/uploads/2026/09/2Oct-Lecture.jpeg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20261002T180000
-DTEND;TZID=Asia/Kolkata:20261002T200000
-DTSTAMP:20260926T090442Z
-CREATED:20260926T090442Z
-LAST-MODIFIED:20260926T090442Z
-UID:2488-1790964000-1790971200@iiwc.in
-SUMMARY:Higher Life Institute -Mystical poetry recitation
-DESCRIPTION:
-URL:https://iiwc.in/event/higher-life-institute-mystical-poetry-recitation/
-LOCATION:Wadia Hall\, The Indian Institute of World Culture\, #6\, Shri B P Wadia Road\,\, Bangalore\, Karnataka\, 560004\, India
-CATEGORIES:Cultural Programs
-ATTACH;FMTTYPE=image/jpeg:https://iiwc.in/wp-content/uploads/2026/09/2Oct-Music.jpeg
-END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261003T103000
 DTEND;TZID=Asia/Kolkata:20261003T123000
