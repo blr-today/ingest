@@ -198,8 +198,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -284,7 +284,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -408,8 +408,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -452,8 +452,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -495,8 +495,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -538,8 +538,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -581,8 +581,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -601,49 +601,6 @@
     "keywords": [
       "Leisure",
       "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tabletop Thursday with ReRoll Board Games",
-    "description": "We're here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!You don\u2019t need to have any experience with these kinds of board games before\u2014we love introducing people to new ones! We\u2019ll help you pick a game, set it up, and explain the rules.You can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases while making some friends in the process.Come solo, with a date, or in a group\u2014we've got something for everyone!Who are ReRoll Board Games?We\u2019re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We\u2019ve been doing this part-time for almost nine years now.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/14CFA1171B734589BBB06DAE191E5DA6_converted_webp.webp"
-    ],
-    "startDate": "2026-10-01T19:00:00+05:30",
-    "endDate": "2026-10-01T23:59:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/tabletop-thursday-with-reroll-board-games#2026-10-01T1900",
-    "keywords": [
-      "Leisure",
-      "Local",
       "Art & culture",
       "URBANAUT"
     ]
@@ -849,7 +806,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1035,7 +992,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1259,7 +1216,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 239,
+    "remainingAttendeeCapacity": 235,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1302,7 +1259,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 86,
+    "remainingAttendeeCapacity": 76,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1388,7 +1345,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 132,
+    "remainingAttendeeCapacity": 131,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1431,7 +1388,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 116,
+    "remainingAttendeeCapacity": 115,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1474,7 +1431,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 39,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1517,7 +1474,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1563,8 +1520,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 72,
-    "remainingAttendeeCapacity": 52,
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1611,7 +1568,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 97,
+    "remainingAttendeeCapacity": 96,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1653,7 +1610,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1695,7 +1652,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2134,7 +2091,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2262,7 +2219,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 33,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2303,7 +2260,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2435,7 +2392,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2476,7 +2433,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2565,7 +2522,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 98,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2607,7 +2564,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 136,
+    "remainingAttendeeCapacity": 135,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2647,7 +2604,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2820,7 +2777,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2934,47 +2891,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/42C698DADA4741E4B302DD87D49FD38A_converted_webp.webp"
     ],
-    "startDate": "2026-10-01T17:00:00+05:30",
-    "endDate": "2026-10-01T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-01T1700",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Photo Meetup - Shoot Together",
-    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/42C698DADA4741E4B302DD87D49FD38A_converted_webp.webp"
-    ],
     "startDate": "2026-10-08T17:00:00+05:30",
     "endDate": "2026-10-08T19:00:00+05:30",
     "location": {
@@ -3002,7 +2918,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-08T1700",
+    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -3152,7 +3068,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 41,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3363,7 +3279,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3405,7 +3321,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3447,7 +3363,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3622,7 +3538,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 16,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3714,7 +3630,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3754,8 +3670,8 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
     ],
-    "startDate": "2026-10-10T16:00:00+05:30",
-    "endDate": "2026-10-10T17:30:00+05:30",
+    "startDate": "2026-10-11T12:00:00+05:30",
+    "endDate": "2026-10-11T13:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -3765,8 +3681,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 5,
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3781,7 +3697,7 @@
       "url": "https://urbanaut.app/partner/pachaak",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-10T1600",
+    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1200",
     "keywords": [
       "History & heritage",
       "Food & drink",
@@ -3806,8 +3722,8 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
     ],
-    "startDate": "2026-10-11T12:00:00+05:30",
-    "endDate": "2026-10-11T13:30:00+05:30",
+    "startDate": "2026-10-11T16:00:00+05:30",
+    "endDate": "2026-10-11T17:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -3817,7 +3733,7 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
+    "maximumAttendeeCapacity": 17,
     "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
@@ -3833,7 +3749,7 @@
       "url": "https://urbanaut.app/partner/pachaak",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1200",
+    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1600",
     "keywords": [
       "History & heritage",
       "Food & drink",
@@ -4026,50 +3942,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Life Admin Deli",
-    "description": "Emails you\u2019ve been putting off, appointments you need to book, that return you still haven\u2019t made, and the never-ending little list in your notes app.This long weekend, we are introducing the Life Admin Deli \u2014 a dedicated morning to finally get your life together, one task at a time.Bring your laptop, to-do list, notebook, or simply everything you\u2019ve been meaning to sort out. Settle into our sunlit studio caf\u00e9, and spend a few unhurried hours getting through the life admin that\u2019s been quietly taking up space in your head.And you won\u2019t be doing it alone. The Life Admin Deli lets you get productive alongside others who are also getting their lives in order,\u00a0because everything feels a little easier when you do it together.Once the to-do list starts shrinking, take a break and enjoy a delicious, nourishing brunch by Copper + Cloves.Good food, a fresh drink, a little conversation, and the satisfying feeling of having actually gotten things done!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F8E9B16F27DE46F99C5E62AE80939845_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/ABB0696FD7284A9382640B00CD5B783D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6DB8A74286E14008A1233B3FB867D020_converted_webp.webp"
-    ],
-    "startDate": "2026-10-02T11:00:00+05:30",
-    "endDate": "2026-10-02T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Copper + Cloves / the Studio",
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "latitude": "12.96391480000000000000",
-      "longitude": "77.63842380000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 840.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Copper + Cloves / the Studio",
-      "description": "We are all about nourishing food and creating spaces for connection",
-      "url": "https://urbanaut.app/partner/copperandcloves",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg"
-    },
-    "url": "https://urbanaut.app/spot/life-admin-deli",
-    "keywords": [
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Rethinking Work in Midlife",
     "description": "What does work look like in the second half of life?For many professionals, midlife brings a shift in how they think about work, purpose, identity, and financial security. The questions begin to change. Do I want to continue doing what I've always done? What else could I explore? How can I use my experience in new and meaningful ways?Rethinking Work in Midlife is a Zuva Life series that explores the evolving relationship between work and life in our 40s, 50s, and beyond.Through conversations with professionals, practitioners, and people who have navigated their own transitions, we explore different pathways to staying economically active and engaged, from teaching and consulting to entrepreneurship, advisory roles, and opportunities beyond traditional corporate careers.The series is about opening up possibilities, sharing real experiences, and helping people discover practical pathways to shape their next chapter of work.",
@@ -4088,7 +3960,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4224,7 +4096,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4590,8 +4462,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4715,7 +4587,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4805,7 +4677,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4846,7 +4718,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 148,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4891,7 +4763,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4933,8 +4805,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
