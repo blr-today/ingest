@@ -240,7 +240,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -731,7 +731,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -955,7 +955,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 235,
+    "remainingAttendeeCapacity": 196,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -998,7 +998,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 76,
+    "remainingAttendeeCapacity": 65,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1084,7 +1084,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 131,
+    "remainingAttendeeCapacity": 129,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1127,7 +1127,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 115,
+    "remainingAttendeeCapacity": 109,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1259,8 +1259,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 14,
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1746,8 +1746,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 15,
+    "maximumAttendeeCapacity": 55,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1875,7 +1875,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1916,7 +1916,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2031,47 +2031,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Nartaki ManoLeela",
-    "description": "I\u2019m delighted to invite you to Nartaki ManoLeela, an evening showcasing a glimpse into a young, whimsical girl\u2019s mind.Don\u2019t you sometimes feel like your mind dances more than you do?Thoughts come and go, creating little worlds of their own.Come join me as I perform at Atta Galatta on 3rd October at 5:00 PM. It would be a joy to share this special evening of playfulness and movement, where we ground ourselves through breath and rhythm.\ud83c\udf9f\ufe0f Free entry | Registration requiredLooking forward to seeing you there! \u2728",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2556C61F5AA240DBAAE2C2DC7CB4D3D1_converted_webp.webp"
-    ],
-    "startDate": "2026-10-03T17:00:00+05:30",
-    "endDate": "2026-10-03T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/nartaki-manoleela",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Weaving A Story",
     "description": "Join us for a curated storytelling evening - Weaving a story (A curated exploration of the history of Kanchivaram)Step into the wonderful world of vibrant silk sarees and rich Indian tradition. Storyteller Aparna Jaishankar will be in conversation with classical dancer Swarathmika. Learn how skilled weavers spend weeks bringing intricate temple borders and timeless motifs to life on the loom. Discover how this age-old weaving heritage continues to evolve, and explore Swarathmika\u2019s personal collection of beautiful Kanchivaram sarees. Beyond the rich threads and stunning designs, it\u2019s the stories of the weavers, their dedication, artistry, and heritage, that will truly captivate you. Whether you love textiles, Indian history, or classical art, this event will wrap you in the magic and beauty of tradition.About the Saree Connoisseur:Swarathmika is a dancer who has been training for over 20 years and continues to perform and evolve under the guidance of Smt. Chitra Chandrasekhar Dasarathy.Swarathmika fell in love with sarees at a young age, and her love for the various weaving traditions has been shaped by the women around her who live their lives in them. Her fascination and curiosity for the \u201ceveryday beautiful\u201d \u2013 our clothes and the spaces we live in often take her down some wonderful rabbit holes, and this presentation is a culmination of one such adventure.She comes to every stage - as performer, choreographer, writer, and witness with the same intent: to remain a student of what art and life continue to offer.About the Storyteller:Aparna Jaishankar is a Storyteller, Educator and Corporate Trainer.Aparna\u2019s passion lies in exploring Indic Mythology with a contemporary lens. She enjoys the various versions of these stories found in the nooks and crannies of the Indian subcontinent in the form of songs, theatre, dance, weaving, rituals and practices. She incorporates these rich sources in her Storytelling performances.",
     "image": [
@@ -2089,7 +2048,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2132,7 +2091,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2433,7 +2392,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2641,7 +2600,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2923,90 +2882,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/7F7B91496BA94E6292C0F1198F5DEBA4_converted_webp.webp"
     ],
-    "startDate": "2026-10-02T13:00:00+05:30",
-    "endDate": "2026-10-02T14:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "No 4, 2nd Main Rd, Sarvabhoumanagar, Sundar Ram Shetty Nagar, Bilekahalli, Bengaluru, Karnataka 560076, India",
-      "latitude": "12.89217280000000000000",
-      "longitude": "77.60251230000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 439.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chavadi Native Kitchen",
-      "description": "We are a Native Kitchen & Community Cafe located in the heart of Bannerghatta, Bengaluru. Come for the best of South Indian delicacies, and stay for our vibrant communal events, live music, and more.",
-      "url": "https://urbanaut.app/partner/chavadi-native-kitchenn",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/7BA7CA864B614C36B7D9A379E0E81F36_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/holige-habba#2026-10-02T1300",
-    "keywords": [
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Holige Habba",
-    "description": "Come celebrate the rich flavors and timeless traditions of Karnataka with Holige Habba \u2013 A Davangere Style Oota! \u2728Get ready for a delicious feast inspired by the authentic flavors of Davangere, where every dish brings a taste of home, tradition, and togetherness. The star of the celebration is the beloved Holige, served alongside a spread of flavorful Karnataka-style delicacies.\u2728Our Festive Menu:Bele HoligeBili HoligeHeere + Menasinkayi PalyaBadnekayi PalyaKaarada ChutneyKosambari ChitrannaAnnaHolige SaaruMosaruHapla SandigeMenasinkayi BajjiIruli HatthikayiUpinkayi, Chutney PudiMajjigeOnde Oota, Ondu Sambhrama! \ud83c\udf38",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7F7B91496BA94E6292C0F1198F5DEBA4_converted_webp.webp"
-    ],
-    "startDate": "2026-10-02T14:15:00+05:30",
-    "endDate": "2026-10-02T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "No 4, 2nd Main Rd, Sarvabhoumanagar, Sundar Ram Shetty Nagar, Bilekahalli, Bengaluru, Karnataka 560076, India",
-      "latitude": "12.89217280000000000000",
-      "longitude": "77.60251230000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 439.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chavadi Native Kitchen",
-      "description": "We are a Native Kitchen & Community Cafe located in the heart of Bannerghatta, Bengaluru. Come for the best of South Indian delicacies, and stay for our vibrant communal events, live music, and more.",
-      "url": "https://urbanaut.app/partner/chavadi-native-kitchenn",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/7BA7CA864B614C36B7D9A379E0E81F36_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/holige-habba#2026-10-02T1415",
-    "keywords": [
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Holige Habba",
-    "description": "Come celebrate the rich flavors and timeless traditions of Karnataka with Holige Habba \u2013 A Davangere Style Oota! \u2728Get ready for a delicious feast inspired by the authentic flavors of Davangere, where every dish brings a taste of home, tradition, and togetherness. The star of the celebration is the beloved Holige, served alongside a spread of flavorful Karnataka-style delicacies.\u2728Our Festive Menu:Bele HoligeBili HoligeHeere + Menasinkayi PalyaBadnekayi PalyaKaarada ChutneyKosambari ChitrannaAnnaHolige SaaruMosaruHapla SandigeMenasinkayi BajjiIruli HatthikayiUpinkayi, Chutney PudiMajjigeOnde Oota, Ondu Sambhrama! \ud83c\udf38",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7F7B91496BA94E6292C0F1198F5DEBA4_converted_webp.webp"
-    ],
     "startDate": "2026-10-04T13:00:00+05:30",
     "endDate": "2026-10-04T14:15:00+05:30",
     "location": {
@@ -3019,7 +2894,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3212,48 +3087,6 @@
     "url": "https://urbanaut.app/spot/mezze-mingle",
     "keywords": [
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Intro to Mahjong",
-    "description": "Intro to mahjong\u00a03 day course (Oct 9, 10, 11)Price - Rs 6500Venue - The mahjong lounge\u00a0Timing - 3 hours (10:30-1:30pm)What will be covered -\u00a0Tile identification\u00a0The fundamentals of Chinese & Indian mahjong\u00a0Passport 9-6-5\u00a0Goulash (without scoring)\u00a0Mahjong etiquette and table rules",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8249457AA9C04D33994A5A8D4A30103B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/415A4E883D8D40709B236A3B54783E73_converted_webp.webp"
-    ],
-    "startDate": "2026-10-09T10:30:00+05:30",
-    "endDate": "2026-10-09T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "439, 8th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "latitude": "12.93345910000000000000",
-      "longitude": "77.62699260000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 6500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mahjong Lounge",
-      "description": "mahjong community for Bangalore",
-      "url": "https://urbanaut.app/partner/mahjonglounge",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/806C8B7E5EF64B708C3B664E98B70C30_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/intro-to-mahjong",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -3793,7 +3626,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4333,7 +4166,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4392,53 +4225,6 @@
     "url": "https://urbanaut.app/spot/ariana-grande-billie-eilish-tribute-by-kbc",
     "keywords": [
       "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bring Your Own Book \u2014 Reading Social by Toffee & Talk",
-    "description": "Come for a laid-back Reading Social at Toffee & Talk. Bring your own book and read with a room full of book lovers!We\u2019ll kick things off with 60 minutes of uninteruppted reading. Settle into your spot with a delicious beverage in a cosy setting. Then, for the final 30 minutes we\u2019ll gather around in our community area to socialise. Here, you'll have the chance to talk about what you're reading, why you picked it, and whether you would recommend it and also connect with fellow readers.Limited spots only \u2014 book your spot now!When: 4th October, 2026  | 2 PM - 3.30 PMLocation:\ud83d\udccd Toffee & Talk, JayanagarFind more details on the @toffeeandtalk.bookclub Instagram page.Terms & Conditions: Please show us the booking confirmation email to be a part of the event.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CE555CFF8E594903A3A6D2836F82529A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/856459CA7BCD4A5E89C1FF6A0ED23BE0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E3A7EA55503B476E89D677E3581002E5_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4F89F906DF624C01B70CC6E031A72EE0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4804BD8DE67543A680CDBE14CA3B9EB2_converted_webp.webp"
-    ],
-    "startDate": "2026-10-04T14:00:00+05:30",
-    "endDate": "2026-10-04T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "36th Cross, 20th Main Rd, 4th T Block East, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
-      "latitude": "12.92315820000000000000",
-      "longitude": "77.59066050000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toffee and Talk",
-      "description": "At Toffee & Talk, we believe the best moments are shared over good coffee and meaningful conversations. Our events bring people together through art, hobbies & creativity. Join us for thoughtfully curated experiences that turn everyday moments into something special.",
-      "url": "https://urbanaut.app/partner/toffee-and-talk",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/22FACA17BB9E4855A6B0F86B0ADA91FD_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/toffeeandtalk-readingsocial",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -4642,7 +4428,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 93,
+    "remainingAttendeeCapacity": 85,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4973,6 +4759,92 @@
       "Leisure",
       "Local",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Oota, The Kodava Way",
+    "description": "At Paytey, we\u2019re setting the leaf for a long Kodava lunch. Think crisp mutton cutlets, fiery pork chudals, chicken liver and gizzard pepper fry, soft kadambutt with pandi curry, and ghee rice with chicken curry. To finish, coffee, cardamom and orange cr\u00e8me br\u00fbl\u00e9e. That\u2019s just a taste of what\u2019s coming - there\u2019s a place for you at the table.Date: 10 OctTime: 12PM & 2PM SlotsLocation: PayTey, New Bel Road",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/12556084BF554093917A77426010E8D3_converted_webp.webp"
+    ],
+    "startDate": "2026-10-10T12:00:00+05:30",
+    "endDate": "2026-10-10T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, 204, New BEL Rd, KGE Layout, Devasandra Layout, Bengaluru, Karnataka 560054, India",
+      "latitude": "13.03015110000000000000",
+      "longitude": "77.57055270000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2352.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trippy Goat",
+      "description": "Bringing in the cool and casual into wine & dine\u2026 & dare we say truly sustainable coffees, handpicked from small and medium farms in the Western Ghats",
+      "url": "https://urbanaut.app/partner/trippygoat",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BC98E2FBE79545159908D9FDDF5ACB27_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/oota-the-kodava-way#2026-10-10T1200",
+    "keywords": [
+      "Pop-up Event",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Oota, The Kodava Way",
+    "description": "At Paytey, we\u2019re setting the leaf for a long Kodava lunch. Think crisp mutton cutlets, fiery pork chudals, chicken liver and gizzard pepper fry, soft kadambutt with pandi curry, and ghee rice with chicken curry. To finish, coffee, cardamom and orange cr\u00e8me br\u00fbl\u00e9e. That\u2019s just a taste of what\u2019s coming - there\u2019s a place for you at the table.Date: 10 OctTime: 12PM & 2PM SlotsLocation: PayTey, New Bel Road",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/12556084BF554093917A77426010E8D3_converted_webp.webp"
+    ],
+    "startDate": "2026-10-10T14:00:00+05:30",
+    "endDate": "2026-10-10T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, 204, New BEL Rd, KGE Layout, Devasandra Layout, Bengaluru, Karnataka 560054, India",
+      "latitude": "13.03015110000000000000",
+      "longitude": "77.57055270000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2352.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trippy Goat",
+      "description": "Bringing in the cool and casual into wine & dine\u2026 & dare we say truly sustainable coffees, handpicked from small and medium farms in the Western Ghats",
+      "url": "https://urbanaut.app/partner/trippygoat",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BC98E2FBE79545159908D9FDDF5ACB27_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/oota-the-kodava-way#2026-10-10T1400",
+    "keywords": [
+      "Pop-up Event",
+      "History & heritage",
+      "Food & drink",
       "URBANAUT"
     ]
   }
