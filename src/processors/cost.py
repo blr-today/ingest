@@ -2,7 +2,7 @@ import re
 
 from .base import Processor
 
-TAGS = ["FREE", "₹", "₹₹", "₹₹₹"]
+TAGS = ["FREE", "BUDGET", "VALUE", "PRICEY"]
 
 
 def flatten(offers):
@@ -35,8 +35,8 @@ def tag(amount):
     if amount == 0:
         return "FREE"
     if amount < 500:
-        return "₹"
-    return "₹₹" if amount < 2000 else "₹₹₹"
+        return "BUDGET"
+    return "VALUE" if amount < 2000 else "PRICEY"
 
 
 def as_keywords(keywords):
