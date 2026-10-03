@@ -5,6 +5,7 @@ from common.session import get_cached_session
 import datefinder
 from common.tz import IST
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
 session = get_cached_session()
 # TODO: Some events have more than one event, we don't handle that case
@@ -32,6 +33,16 @@ def ticket_link(soup, title):
         if parts and 2 * sum(w in words for w in parts) >= len(parts):
             return a["href"]
     return None
+
+
+def links_out(soup):
+    # Walk-in events put text such as "Walk in" or "NA" in the ticket button
+    for a in soup.select("a#registerbtn[href]"):
+        url = urlparse(a["href"].strip())
+        return url.scheme in ("http", "https") and not url.netloc.endswith(
+            "attagalatta.com"
+        )
+    return False
 
 
 def make_event(event):
@@ -89,6 +100,16 @@ def make_event(event):
     link = ticket_link(soup, e["name"])
     if link:
         e["sameAs"] = link
+    if not links_out(soup):
+        e["isAccessibleForFree"] = True
+        e["offers"] = [
+            {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "url": event["link"],
+            }
+        ]
 
     if len(startTime) > 0:
         e["startDate"] = startTime[0].replace(tzinfo=IST).isoformat()
