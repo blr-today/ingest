@@ -2,14 +2,44 @@ import sqlite3
 import json
 import logging
 import os
+from collections import Counter
 from typing import Dict, List, Any, Optional
 from dataclasses import dataclass
+from urllib.parse import urlparse
+import requests
+import yaml
 from pyld import jsonld
 from jsonschema import Draft7Validator
 from jsonschema.exceptions import ValidationError
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+IMAGE_CDN_URL = (
+    "https://raw.githubusercontent.com/blr-today/website/main/_data/image_cdn.yml"
+)
+
+
+def image_urls(event: Dict[str, Any]) -> List[str]:
+    images = event.get("image")
+    images = images if isinstance(images, list) else [images]
+    urls = [i.get("url") if isinstance(i, dict) else i for i in images]
+    return [u for u in urls if isinstance(u, str) and u.startswith("http")]
+
+
+def unsupported_image_hosts(urls: List[str]) -> Optional[List[tuple]]:
+    """Count image hosts the website's Netlify Image CDN does not proxy."""
+    try:
+        res = requests.get(IMAGE_CDN_URL, timeout=30)
+        res.raise_for_status()
+        prefixes = tuple(yaml.safe_load(res.text))
+    except Exception as e:
+        logger.warning(f"Could not fetch image CDN list: {e}")
+        return None
+    misses = [u for u in urls if not u.startswith(prefixes)]
+    counts = Counter(urlparse(u).netloc for u in misses)
+    examples = {urlparse(u).netloc: u for u in misses}
+    return [(host, n, examples[host]) for host, n in counts.most_common()]
 
 
 @dataclass
@@ -207,7 +237,9 @@ class SchemaOrgValidator:
         return errors, warnings
 
 
-def write_github_step_summary(stats: Dict[str, int], results: List[tuple]) -> None:
+def write_github_step_summary(
+    stats: Dict[str, int], results: List[tuple], image_hosts: Optional[List[tuple]]
+) -> None:
     """Write validation results to GitHub Step Summary."""
     github_step_summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if not github_step_summary:
@@ -228,6 +260,18 @@ def write_github_step_summary(stats: Dict[str, int], results: List[tuple]) -> No
         f.write(
             f"- **Events with Warnings**: {stats['warnings']} ({stats['warnings'] / stats['total'] * 100:.1f}%)\n\n"
         )
+
+        f.write("## Unsupported Image Hosts\n\n")
+        if image_hosts is None:
+            f.write(f"Could not fetch {IMAGE_CDN_URL}\n\n")
+        elif not image_hosts:
+            f.write("All event images are served via the image CDN.\n\n")
+        else:
+            f.write("Add these to `_data/image_cdn.yml` on the website:\n\n")
+            f.write("| Host | Images | Example |\n|---|---|---|\n")
+            for host, count, example in image_hosts:
+                f.write(f"| {host} | {count} | {example} |\n")
+            f.write("\n")
 
         # Failed events
         failed_results = [result for _, result in results if not result.is_valid]
@@ -268,12 +312,14 @@ def validate_all_events(output_file: str = None, verbose: bool = False):
 
     validator = SchemaOrgValidator()
     results = []
+    images = []
 
     logger.info("Starting validation with PyLD + jsonschema...")
 
     for rowid, url, event_json_str in cursor:
         try:
             event = json.loads(event_json_str)
+            images += image_urls(event)
             result = validator.validate_event(event, url)
             results.append((rowid, result))
 
@@ -298,8 +344,12 @@ def validate_all_events(output_file: str = None, verbose: bool = False):
         f"Warnings: {stats['warnings']} ({stats['warnings'] / stats['total'] * 100:.1f}%)"
     )
 
+    image_hosts = unsupported_image_hosts(images)
+    if image_hosts:
+        logger.info(f"🖼️  Unsupported image hosts: {[h for h, _, _ in image_hosts]}")
+
     # Write to GitHub Step Summary
-    write_github_step_summary(stats, results)
+    write_github_step_summary(stats, results, image_hosts)
 
     if output_file:
         with open(output_file, "w") as f:
