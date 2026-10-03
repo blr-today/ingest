@@ -17,7 +17,7 @@ def fetch_events():
     events = []
     for event in session.get("https://attagalatta.com/events.php").json()["value"]:
         dates = list(datefinder.find_dates(event["eventday"]))
-        if len(dates) > 0 and dates[0].date() > datetime.datetime.today().date():
+        if len(dates) > 0 and dates[0].date() >= datetime.datetime.today().date():
             event["date"] = dates[0].replace(tzinfo=IST)
             yield event
 
