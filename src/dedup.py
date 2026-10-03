@@ -5,7 +5,7 @@ from collections import defaultdict
 from datetime import datetime
 from urllib.parse import unquote, urlparse
 
-from src.processors.cost import TAGS as COST_TAGS
+from src.processors.cost import TAGS as COST_TAGS, Cost, price
 
 # Mirrors calendar types: venues/organisers win, then aggregators, then curators
 AGGREGATORS = [
@@ -94,25 +94,56 @@ def as_list(value):
     return value if isinstance(value, list) else []
 
 
+def offer_list(offers):
+    if isinstance(offers, dict):
+        return [offers]
+    return (
+        [o for o in offers if isinstance(o, dict)] if isinstance(offers, list) else []
+    )
+
+
+def combine_offers(kept, dropped):
+    seen, offers = set(), []
+    for offer in offer_list(kept.get("offers")) + offer_list(dropped.get("offers")):
+        amount = price(offer)
+        key = json.dumps(offer, sort_keys=True) if amount is None else amount
+        if (key, offer.get("priceCurrency") or "INR") not in seen:
+            seen.add((key, offer.get("priceCurrency") or "INR"))
+            offers.append(offer)
+    return offers
+
+
 def merge(kept, dropped, dropped_url):
     keywords = []
     for event in (kept, dropped):
         k = event.get("keywords", [])
         keywords += [s.strip() for s in k.split(",")] if isinstance(k, str) else k
-    # Kept offers win, so only one cost tag survives
+    # One cost tag survives if the merged offers cannot price the event
     costs = [k for k in keywords if k in COST_TAGS]
     keywords = [k for k in keywords if k not in COST_TAGS or k == costs[0]]
-    kept["keywords"] = list(
-        dict.fromkeys(k for k in keywords if isinstance(k, str) and k)
-    )
+    keywords = list(dict.fromkeys(k for k in keywords if isinstance(k, str) and k))
     same_as = (
         as_list(kept.get("sameAs")) + [dropped_url] + as_list(dropped.get("sameAs"))
     )
-    kept["sameAs"] = list(dict.fromkeys(u for u in same_as if u != kept.get("url")))
+    same_as = list(dict.fromkeys(u for u in same_as if u != kept.get("url")))
     images = as_list(kept.get("image")) + as_list(dropped.get("image"))
+    original = kept.get("offers")
+    offers = combine_offers(kept, dropped)
+    fill(kept, dropped)
+    kept["keywords"] = keywords
+    kept["sameAs"] = same_as
     if images and all(isinstance(i, str) for i in images):
         kept["image"] = list(dict.fromkeys(images))
-    fill(kept, dropped)
+    # Both copies' tickets are kept, but only one per price
+    if not offers:
+        pass
+    elif offers == offer_list(original):
+        kept["offers"] = original
+    elif offers == offer_list(dropped.get("offers")):
+        kept["offers"] = dropped["offers"]
+    elif offers:
+        kept["offers"] = offers
+    Cost.process(kept.get("url"), kept)
 
 
 def is_empty(value):
@@ -125,6 +156,8 @@ def fill(kept, other):
             continue
         if key not in kept or is_empty(kept[key]):
             kept[key] = value
+        elif isinstance(kept[key], list) and isinstance(value, list):
+            kept[key] = kept[key] + [v for v in value if v not in kept[key]]
         elif (
             isinstance(kept[key], dict)
             and isinstance(value, dict)
