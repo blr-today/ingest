@@ -118,6 +118,16 @@ def make_events(event: dict) -> list:
             continue
         e = dict(base, startDate=slot["start_at"], endDate=slot.get("end_at") or slot["start_at"])
         offers = make_offers(slot)
+        price = event.get("price_from") or {}
+        # Some slots list no ticket tiers, only the event's starting price
+        if not offers and price.get("amount_in_minor_units"):
+            offers = [
+                {
+                    "@type": "Offer",
+                    "price": f"{price['amount_in_minor_units'] / 100:.2f}",
+                    "priceCurrency": price.get("currency", "INR"),
+                }
+            ]
         if event.get("is_paid") and offers:
             e["offers"] = offers
         elif not event.get("is_paid"):
