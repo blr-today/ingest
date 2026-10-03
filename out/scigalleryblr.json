@@ -245,5 +245,36 @@
         "name": "Rajath J"
       }
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Bengaluru Uncertainty Principle",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-25T17:00:00+05:30",
+    "endDate": "2026-10-25T19:00:00+05:30",
+    "description": "What does Bengaluru have to do with quantum physics? Quite a bit, as it turns out.\n\nThis quiz will explore the surprising connections between the city and the quantum world\u2014from C. V. Raman and IISc to present-day quantum research, homegrown startups and a few unexpected detours through Bengaluru\u2019s history and culture.\n\nNo physics degree required. The questions are designed to be beginner-friendly and workoutable, so curiosity and good guessing will take you a long way.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=the-bengaluru-uncertainty-principle",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FSGB00520%20Medium.jpeg-1791029539960?alt=media&token=a48ff53f-0511-4290-afc1-16f393b63301",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Md Saqlain Jameel "
+      },
+      {
+        "@type": "Person",
+        "name": "Raksha Nagaraj"
+      },
+      {
+        "@type": "Person",
+        "name": "Suyash Kumar"
+      }
+    ]
   }
 ]
