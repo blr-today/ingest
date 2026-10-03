@@ -33,12 +33,18 @@ RULES = [
     (
         "SocialEvent",
         r"\btrivia\b|\bquiz|\bboard games?\b|\btabletop\b|\bchess\b"
-        r"|\bmeet-?up\b|\bopen mic\b",
+        r"|\bmeet-?up\b|\bopen mic\b|\bcraft night\b",
         [],
     ),
 ]
-# Talks about music are still talks
-TALK = r"\b(this|a) (talk|lecture)\b"
+# Descriptions name the format, and a talk about music is still a talk
+DESCRIPTIONS = [
+    (
+        "EducationEvent",
+        r"\b(this|a) ([\w-]+ )?(talk|lecture|workshop|panel discussion)\b",
+    ),
+    ("MusicEvent", r"\bthis concert\b"),
+]
 
 
 class EventType(Processor):
@@ -49,9 +55,11 @@ class EventType(Processor):
         if event.get("@type") not in (None, "Event"):
             return event
         name = str(event.get("name") or "").lower()
-        if re.search(TALK, str(event.get("description") or "").lower()):
-            event["@type"] = "EducationEvent"
-            return event
+        description = str(event.get("description") or "").lower()
+        for kind, pattern in DESCRIPTIONS:
+            if re.search(pattern, description):
+                event["@type"] = kind
+                return event
         keywords = set(as_keywords(event.get("keywords")))
         for kind, pattern, tags in RULES:
             if re.search(pattern, name) or keywords & set(tags):

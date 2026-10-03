@@ -31,3 +31,13 @@ def test_keywords_and_talks():
 
 def test_specific_types_are_kept():
     assert kind("Kids Workshop", type_="LiteraryEvent") == "LiteraryEvent"
+
+
+def test_descriptions():
+    hands_on = "In this hands-on workshop, you will make a puzzle"
+    assert kind("Laser Cut Puzzles", description=hands_on) == "EducationEvent"
+    assert (
+        kind("Beyond the Buzz", description="This panel discussion examines")
+        == "EducationEvent"
+    )
+    assert kind("Dakshin Diaries", description="this concert explores") == "MusicEvent"
