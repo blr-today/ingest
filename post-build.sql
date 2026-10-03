@@ -878,6 +878,7 @@ WHERE
     event_json LIKE '%domlur%'
     OR event_json LIKE '%indiranagar%'
     OR event_json LIKE '%old airport road%'
+    OR event_json ->> '$.location' LIKE '%hal 3rd stage%'
   );
 
 
@@ -890,7 +891,9 @@ SET
   )
 WHERE
 -- Avoid matching Vijayanagar
-  event_json LIKE '% jayanagar%';
+  event_json LIKE '% jayanagar%'
+  OR event_json ->> '$.location' LIKE '%"jayanagar%'
+  OR event_json ->> '$.location' LIKE '%ashoka pillar%';
 
 
 UPDATE events
@@ -918,7 +921,8 @@ SET
   )
 WHERE
   event_json ->> '$.location' LIKE '%whitefield%'
-  OR event_json ->> '$.location' LIKE '%brookefield%';
+  OR event_json ->> '$.location' LIKE '%brookefield%'
+  OR event_json ->> '$.location' LIKE '%brookfield%';
 
 
 UPDATE events
@@ -974,7 +978,12 @@ WHERE
     OR event_json ->> '$.location' LIKE '%st mark road%'
     OR event_json ->> '$.location' LIKE '%st.mark road%'
     OR event_json ->> '$.location' LIKE '%st.mark''s road%'
+    OR event_json ->> '$.location' LIKE '%st marks road%'
     OR event_json ->> '$.location' LIKE '%shanthala nagar%'
+    OR event_json ->> '$.location' LIKE '%kasturba%'
+    OR event_json ->> '$.location' LIKE '%ulsoor%'
+    OR event_json ->> '$.location' LIKE '%halasuru%'
+    OR event_json ->> '$.location' LIKE '%vasanth nagar%'
     -- The university has multiple colleges and campuses
     -- But most are near or within CBD
     OR event_json ->> '$.location' LIKE '%st. joseph''s%'
