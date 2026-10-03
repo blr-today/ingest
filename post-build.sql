@@ -1273,3 +1273,16 @@ WHERE
     OR event_json ->> '$.location' LIKE '%Kota%'
     OR event_json ->> '$.location' LIKE '%Bareilly%'
   );
+
+
+-- Atta Galatta links the wrong Urbanaut page for the Harry Potter
+-- discussion, so point it at the right one for dedup to match
+UPDATE events
+SET
+  event_json = json_set(
+    event_json,
+    '$.sameAs',
+    'https://urbanaut.app/spot/lahe-lahe-caravan-presents-harry-potter-book-disc'
+  )
+WHERE
+  url = 'https://attagalatta.com/event_page.php?eventid=EVT2171';
