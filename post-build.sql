@@ -1200,6 +1200,14 @@ WHERE
   event_json ->> '$.keywords' LIKE '%"TPCC"%'
   AND coalesce(event_json ->> '$.@type', '') != 'LiteraryEvent';
 
+-- Eleven AM Club runs recurring make-and-chat sessions
+UPDATE events
+SET
+  event_json = json_set(event_json, '$.@type', 'SocialEvent')
+WHERE
+  event_json ->> '$.name' LIKE '%eleven am club%'
+  AND coalesce(event_json ->> '$.@type', 'Event') = 'Event';
+
 DELETE FROM events WHERE event_json->> '$.location' LIKE '%andhra pradesh%';
 
 
