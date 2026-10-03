@@ -34,40 +34,6 @@
     "endDate": "2026-10-11T10:00:00+05:30"
   },
   {
-    "name": "SIS x Mahjong Workshop",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Mahjong-Workshop2",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Mahjong-Workshop2",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "4000",
-        "priceCurrency": "INR"
-      }
-    ],
-    "image": "https://sistersinsweat.com/api/media/file/WhatsApp%20Image%202026-09-11%20at%2010.59.04%20AM.jpeg",
-    "startDate": "2026-10-03T14:30:00+05:30",
-    "endDate": "2026-10-03T17:30:00+05:30"
-  },
-  {
     "name": "SIS x WeWork - Off The Clock Run",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Wework-OTC-Run",
@@ -663,45 +629,6 @@
       "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
       "type": "Place"
     },
-    "startDate": "2026-10-03T11:00:00+05:30"
-  },
-  {
-    "name": "Badminton Coaching-Beginner & Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "425",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Badminton",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
-    "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
-      "type": "Place"
-    },
     "startDate": "2026-10-10T11:00:00+05:30"
   },
   {
@@ -781,6 +708,45 @@
       "type": "Place"
     },
     "startDate": "2026-10-24T11:00:00+05:30"
+  },
+  {
+    "name": "Badminton Coaching-Beginner & Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "425",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Badminton",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
+    "location": {
+      "name": "Game Theory, Double Road, Indiranagar",
+      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+      "type": "Place"
+    },
+    "startDate": "2026-10-31T11:00:00+05:30"
   },
   {
     "name": "Women's Football Coaching - Beginner",
