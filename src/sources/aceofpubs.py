@@ -1,52 +1,73 @@
-import sys
 import datetime
+import html
 import json
-from ..common import icalendar
-from ..common.tz import IST
+import re
+
+from ..common import USER_AGENT_HEADERS
+from ..common.jsonld import JsonLdExtractor
+from ..common.remote import find_event
+from ..common.session import get_cached_session
+
+SITEMAP = "https://aceofpubs.com/wp-sitemap-posts-mep_events-1.xml"
+ORGANIZER = {
+    "@type": "Organization",
+    "name": "Ace of Pubs",
+    "url": "https://aceofpubs.com/",
+}
 
 
-def fix_date(date_str):
-    d = datetime.datetime.fromisoformat(date_str)
-    d.replace(tzinfo=IST)
-    return d.isoformat()
+def event_urls(session):
+    xml = session.get(SITEMAP, headers=USER_AGENT_HEADERS, timeout=30).text
+    return re.findall(r"<loc>([^<]+)</loc>", xml)
 
 
-def get_location(location_str):
-    location_str = location_str.replace("—", "-").replace("–", "-").replace("|", "-")
-    first = location_str.split(",")[0]
-    rest = " ".join(location_str.split(",")[1:]).strip()
-    splits = [x.strip() for x in first.replace("\t", " ").split("-")]
-    if splits[-1].lower() in ["bangalore", "bengaluru"]:
-        splits.pop()
-    return {"name": " ".join(splits), "@type": "Place", "address": rest}
+def page_event(session, url):
+    r = session.get(url, headers=USER_AGENT_HEADERS, timeout=30)
+    data = JsonLdExtractor().extract(r.text)
+    graphs = [find_event(x["@graph"]) for x in data if x.get("@graph")]
+    return next(filter(None, graphs), None) or find_event(data)
 
 
-def modify_event(event):
-    event["keywords"] = [x.strip() for x in event["keywords"][0].split(",")]
-    event["name"] = event["name"].split("|")[0].strip()
-    if event["description"] == "":
-        event["description"] = "A Pub hosted by Ace of Pubs"
-    event["startDate"] = fix_date(event["startDate"])
-    event["endDate"] = fix_date(event["endDate"])
-    event["location"] = get_location(event["location"]["name"])
+def clean(event, url):
+    name = html.unescape(event["name"])
+    event["name"] = re.sub(r"\s*[–-]\s*(Bengaluru|Bangalore)\s*$", "", name)
+    event["description"] = html.unescape(event.get("description") or "")
+    event["url"] = url
+    # The events plugin fills these with placeholders
+    event["organizer"] = ORGANIZER
+    event.pop("performer", None)
+    event.pop("previousStartDate", None)
+    event["eventStatus"] = "https://schema.org/EventScheduled"
+    address = event.get("location", {}).get("address")
+    if isinstance(address, dict):
+        address["addressRegion"] = "Karnataka"
     return event
 
 
-if __name__ == "__main__":
-    input_ics_file = "out/aceofpubs.ics"
-    output_json_file = "out/aceofpubs.json"
+def in_bangalore(event):
+    location = json.dumps(event.get("location", {})).lower()
+    return "bengaluru" in location or "bangalore" in location
 
-    json_data = icalendar.convert_ics_to_events(input_ics_file)
-    json_data = [
-        modify_event(event)
-        for event in json_data
-        if (
-            "bangalore" in event["location"]["name"].lower()
-            or "bengaluru" in event["location"]["name"].lower()
+
+def upcoming(event):
+    end = event.get("endDate") or event.get("startDate")
+    try:
+        return datetime.datetime.fromisoformat(end) > datetime.datetime.now(
+            datetime.timezone.utc
         )
-    ]
+    except TypeError, ValueError:
+        return False
 
-    with open(output_json_file, "w") as output_file:
-        output_file.write(json.dumps(json_data, indent=2))
 
-    print(f"[AOP] {len(json_data)} events")
+if __name__ == "__main__":
+    session = get_cached_session()
+    events = []
+    for url in event_urls(session):
+        event = page_event(session, url)
+        if event and in_bangalore(event) and upcoming(event):
+            events.append(clean(event, url))
+
+    with open("out/aceofpubs.json", "w") as f:
+        json.dump(events, f, indent=2)
+
+    print(f"[AOP] {len(events)} events")
