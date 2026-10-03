@@ -21,6 +21,7 @@
     },
     "startDate": "2026-10-03T08:00:00+05:30",
     "endDate": "2026-10-03T09:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -54,6 +55,7 @@
     },
     "startDate": "2026-10-03T09:00:00+05:30",
     "endDate": "2026-10-03T10:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -114,6 +116,7 @@
     },
     "startDate": "2026-10-03T11:00:00+05:30",
     "endDate": "2026-10-03T12:30:00+05:30",
+    "maximumAttendeeCapacity": 50,
     "offers": [
       {
         "@type": "Offer",
@@ -147,6 +150,7 @@
     },
     "startDate": "2026-10-03T11:30:00+05:30",
     "endDate": "2026-10-03T13:00:00+05:30",
+    "maximumAttendeeCapacity": 15,
     "offers": [
       {
         "@type": "Offer",
@@ -180,6 +184,7 @@
     },
     "startDate": "2026-10-03T11:30:00+05:30",
     "endDate": "2026-10-03T14:00:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -212,6 +217,7 @@
     },
     "startDate": "2026-10-03T14:00:00+05:30",
     "endDate": "2026-10-03T15:30:00+05:30",
+    "maximumAttendeeCapacity": 50,
     "isAccessibleForFree": true
   },
   {
@@ -236,6 +242,7 @@
     },
     "startDate": "2026-10-03T16:00:00+05:30",
     "endDate": "2026-10-03T18:00:00+05:30",
+    "maximumAttendeeCapacity": 30,
     "isAccessibleForFree": true
   },
   {
@@ -314,6 +321,7 @@
     },
     "startDate": "2026-10-03T17:00:00+05:30",
     "endDate": "2026-10-03T18:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -347,14 +355,14 @@
     },
     "startDate": "2026-10-03T18:00:00+05:30",
     "endDate": "2026-10-03T19:00:00+05:30",
+    "maximumAttendeeCapacity": 4,
     "offers": [
       {
         "@type": "Offer",
         "name": "Individual",
         "price": "999.00",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/SoldOut",
-        "remainingAttendeeCapacity": 2
+        "availability": "https://schema.org/SoldOut"
       }
     ]
   },
@@ -401,6 +409,7 @@
     },
     "startDate": "2026-10-03T18:00:00+05:30",
     "endDate": "2026-10-03T23:00:00+05:30",
+    "maximumAttendeeCapacity": 30,
     "offers": [
       {
         "@type": "Offer",
@@ -434,6 +443,7 @@
     },
     "startDate": "2026-10-03T18:00:00+05:30",
     "endDate": "2026-10-03T20:00:00+05:30",
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -467,6 +477,7 @@
     },
     "startDate": "2026-10-03T18:00:00+05:30",
     "endDate": "2026-10-03T19:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -527,6 +538,7 @@
     },
     "startDate": "2026-10-03T20:00:00+05:30",
     "endDate": "2026-10-03T23:00:00+05:30",
+    "maximumAttendeeCapacity": 30,
     "offers": [
       {
         "@type": "Offer",
@@ -568,6 +580,7 @@
     },
     "startDate": "2026-10-03T21:00:00+05:30",
     "endDate": "2026-10-03T23:59:00+05:30",
+    "maximumAttendeeCapacity": 150,
     "offers": [
       {
         "@type": "Offer",
@@ -601,6 +614,7 @@
     },
     "startDate": "2026-10-04T08:00:00+05:30",
     "endDate": "2026-10-04T23:00:00+05:30",
+    "maximumAttendeeCapacity": 15,
     "offers": [
       {
         "@type": "Offer",
@@ -661,6 +675,7 @@
     },
     "startDate": "2026-10-04T08:00:00+05:30",
     "endDate": "2026-10-04T09:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -694,6 +709,7 @@
     },
     "startDate": "2026-10-04T09:00:00+05:30",
     "endDate": "2026-10-04T10:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -727,6 +743,7 @@
     },
     "startDate": "2026-10-04T09:00:00+05:30",
     "endDate": "2026-10-04T11:00:00+05:30",
+    "maximumAttendeeCapacity": 10,
     "offers": [
       {
         "@type": "Offer",
@@ -768,6 +785,7 @@
     },
     "startDate": "2026-10-04T10:30:00+05:30",
     "endDate": "2026-10-04T14:00:00+05:30",
+    "maximumAttendeeCapacity": 10,
     "offers": [
       {
         "@type": "Offer",
@@ -828,6 +846,7 @@
     },
     "startDate": "2026-10-04T11:00:00+05:30",
     "endDate": "2026-10-04T14:00:00+05:30",
+    "maximumAttendeeCapacity": 12,
     "offers": [
       {
         "@type": "Offer",
@@ -861,22 +880,21 @@
     },
     "startDate": "2026-10-04T11:00:00+05:30",
     "endDate": "2026-10-04T13:00:00+05:30",
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
         "name": "General",
         "price": "500.00",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/SoldOut",
-        "remainingAttendeeCapacity": 12
+        "availability": "https://schema.org/SoldOut"
       },
       {
         "@type": "Offer",
         "name": "Access Pass Members",
         "price": "500.00",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/SoldOut",
-        "remainingAttendeeCapacity": 5
+        "availability": "https://schema.org/SoldOut"
       }
     ]
   },
@@ -923,6 +941,7 @@
     },
     "startDate": "2026-10-04T14:00:00+05:30",
     "endDate": "2026-10-04T17:00:00+05:30",
+    "maximumAttendeeCapacity": 5,
     "offers": [
       {
         "@type": "Offer",
@@ -977,6 +996,7 @@
     },
     "startDate": "2026-10-04T17:00:00+05:30",
     "endDate": "2026-10-04T18:30:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -1010,6 +1030,7 @@
     },
     "startDate": "2026-10-04T18:00:00+05:30",
     "endDate": "2026-10-04T19:00:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -1119,6 +1140,7 @@
     },
     "startDate": "2026-10-07T19:00:00+05:30",
     "endDate": "2026-10-07T21:00:00+05:30",
+    "maximumAttendeeCapacity": 9,
     "offers": [
       {
         "@type": "Offer",
@@ -1152,6 +1174,7 @@
     },
     "startDate": "2026-10-09T20:00:00+05:30",
     "endDate": "2026-10-10T00:30:00+05:30",
+    "maximumAttendeeCapacity": 180,
     "offers": [
       {
         "@type": "Offer",
@@ -1192,6 +1215,7 @@
     },
     "startDate": "2026-10-09T20:00:00+05:30",
     "endDate": "2026-10-10T01:00:00+05:30",
+    "maximumAttendeeCapacity": 10,
     "offers": [
       {
         "@type": "Offer",
@@ -1233,6 +1257,7 @@
     },
     "startDate": "2026-10-09T20:00:00+05:30",
     "endDate": "2026-10-09T22:00:00+05:30",
+    "maximumAttendeeCapacity": 40,
     "offers": [
       {
         "@type": "Offer",
@@ -1266,6 +1291,7 @@
     },
     "startDate": "2026-10-10T09:30:00+05:30",
     "endDate": "2026-10-10T17:00:00+05:30",
+    "maximumAttendeeCapacity": 400,
     "offers": [
       {
         "@type": "Offer",
@@ -1307,6 +1333,7 @@
     },
     "startDate": "2026-10-10T10:00:00+05:30",
     "endDate": "2026-10-10T11:00:00+05:30",
+    "maximumAttendeeCapacity": 5,
     "offers": [
       {
         "@type": "Offer",
@@ -1340,6 +1367,7 @@
     },
     "startDate": "2026-10-10T11:00:00+05:30",
     "endDate": "2026-10-10T12:00:00+05:30",
+    "maximumAttendeeCapacity": 7,
     "offers": [
       {
         "@type": "Offer",
@@ -1373,6 +1401,7 @@
     },
     "startDate": "2026-10-10T12:00:00+05:30",
     "endDate": "2026-10-10T17:00:00+05:30",
+    "maximumAttendeeCapacity": 50,
     "offers": [
       {
         "@type": "Offer",
@@ -1406,6 +1435,7 @@
     },
     "startDate": "2026-10-10T12:00:00+05:30",
     "endDate": "2026-10-10T13:00:00+05:30",
+    "maximumAttendeeCapacity": 7,
     "offers": [
       {
         "@type": "Offer",
@@ -1439,6 +1469,7 @@
     },
     "startDate": "2026-10-10T12:00:00+05:30",
     "endDate": "2026-10-10T13:00:00+05:30",
+    "maximumAttendeeCapacity": 50,
     "offers": [
       {
         "@type": "Offer",
@@ -1472,6 +1503,7 @@
     },
     "startDate": "2026-10-10T13:00:00+05:30",
     "endDate": "2026-10-10T14:00:00+05:30",
+    "maximumAttendeeCapacity": 7,
     "offers": [
       {
         "@type": "Offer",
@@ -1505,6 +1537,7 @@
     },
     "startDate": "2026-10-10T14:00:00+05:30",
     "endDate": "2026-10-10T15:00:00+05:30",
+    "maximumAttendeeCapacity": 50,
     "offers": [
       {
         "@type": "Offer",
@@ -1538,6 +1571,7 @@
     },
     "startDate": "2026-10-10T15:00:00+05:30",
     "endDate": "2026-10-10T19:00:00+05:30",
+    "maximumAttendeeCapacity": 60,
     "offers": [
       {
         "@type": "Offer",
@@ -1571,6 +1605,7 @@
     },
     "startDate": "2026-10-10T17:00:00+05:30",
     "endDate": "2026-10-10T18:30:00+05:30",
+    "maximumAttendeeCapacity": 10,
     "offers": [
       {
         "@type": "Offer",
@@ -1604,6 +1639,7 @@
     },
     "startDate": "2026-10-10T18:00:00+05:30",
     "endDate": "2026-10-10T19:00:00+05:30",
+    "maximumAttendeeCapacity": 6,
     "offers": [
       {
         "@type": "Offer",
@@ -1637,6 +1673,7 @@
     },
     "startDate": "2026-10-11T18:00:00+05:30",
     "endDate": "2026-10-11T20:00:00+05:30",
+    "maximumAttendeeCapacity": 40,
     "offers": [
       {
         "@type": "Offer",
@@ -1670,6 +1707,7 @@
     },
     "startDate": "2026-10-25T08:00:00+05:30",
     "endDate": "2026-10-25T11:00:00+05:30",
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -1703,6 +1741,7 @@
     },
     "startDate": "2026-10-25T19:00:00+05:30",
     "endDate": "2026-10-25T20:15:00+05:30",
+    "maximumAttendeeCapacity": 30,
     "offers": [
       {
         "@type": "Offer",
