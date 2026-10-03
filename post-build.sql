@@ -1188,18 +1188,17 @@ WHERE
   url LIKE '%urbanaut.app%'
   AND event_json ->> '$.name' LIKE '%TPCC%';
 
--- For events tagged as TPCC, if the description contains "screening", we can change 
--- event type to ScreeningEvent
+-- TPCC events are film screenings, apart from their book readings
 UPDATE events
 SET
-  event_json = json_replace(
+  event_json = json_set(
     event_json,
     '$.@type',
     'ScreeningEvent'
   )
 WHERE
-  event_json ->> '$.keywords' LIKE '%TPCC%'
-  AND event_json ->> '$.description' LIKE '%screening%';
+  event_json ->> '$.keywords' LIKE '%"TPCC"%'
+  AND coalesce(event_json ->> '$.@type', '') != 'LiteraryEvent';
 
 DELETE FROM events WHERE event_json->> '$.location' LIKE '%andhra pradesh%';
 
