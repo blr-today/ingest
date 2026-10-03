@@ -28,6 +28,7 @@ local transformEvent(event) =
     sameAs: postUrl,
     [if description != null && description != '' then 'description']: description,
     [if image != null then 'image']: image.url,
+    [if std.objectHas(event, 'offers') then 'offers']: event.offers,
     inLanguage: 'en',
     eventStatus: 'EventScheduled',
     maximumAttendeeCapacity: 45,
