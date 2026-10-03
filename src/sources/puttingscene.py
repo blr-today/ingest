@@ -11,6 +11,7 @@ Each upcoming slot becomes one schema.org Event.
 import json
 import logging
 from ..common.fetch import Fetch
+from ..common.maps import resolve
 
 logger = logging.getLogger("PUTTINGSCENE")
 
@@ -97,6 +98,15 @@ def make_events(event: dict) -> list:
     }
     if venue.get("google_maps_url"):
         base["location"]["url"] = venue["google_maps_url"]
+        place = resolve(venue["google_maps_url"])
+        if place:
+            address, lat, lng = place
+            base["location"]["address"] = address
+            base["location"]["geo"] = {
+                "@type": "GeoCoordinates",
+                "latitude": lat,
+                "longitude": lng,
+            }
     if event.get("external_url"):
         base["sameAs"] = event["external_url"]
     if (event.get("org_details") or {}).get("name"):
