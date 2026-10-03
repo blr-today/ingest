@@ -1,5 +1,6 @@
 import datetime
 import json
+import re
 from common.session import get_cached_session
 import datefinder
 from common.tz import IST
@@ -20,6 +21,17 @@ def fetch_events():
         if len(dates) > 0 and dates[0].date() >= datetime.datetime.today().date():
             event["date"] = dates[0].replace(tzinfo=IST)
             yield event
+
+
+def ticket_link(soup, title):
+    # Some pages carry another event's Urbanaut link, so the slug must match
+    words = set(re.findall(r"[a-z0-9]+", title.lower()))
+    for a in soup.select('a[href*="urbanaut.app/spot/"]'):
+        slug = re.split(r"[#?]", a["href"].split("/spot/")[1])[0]
+        parts = [w for w in slug.split("-") if w and not w.isdigit()]
+        if parts and 2 * sum(w in words for w in parts) >= len(parts):
+            return a["href"]
+    return None
 
 
 def make_event(event):
@@ -73,6 +85,10 @@ def make_event(event):
         e["@type"] = "EducationEvent"
     else:
         e["@type"] = "LiteraryEvent"
+
+    link = ticket_link(soup, e["name"])
+    if link:
+        e["sameAs"] = link
 
     if len(startTime) > 0:
         e["startDate"] = startTime[0].replace(tzinfo=IST).isoformat()
