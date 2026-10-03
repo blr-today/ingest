@@ -65,10 +65,7 @@ out/underline.json: out/underline.jsonnet
 	python src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
 
 out/district.txt:
-	curl_chrome116 --silent \
-	--url 'https://api.insider.in/home?city=bengaluru&eventType=physical&filterBy=go-out&norm=1&select=lite&typeFilter=physical' | \
-	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > $@ ||  $(call restore-file,$@)
-	sed -i 's|https://insider.in/|https://district.in/|g' $@
+	python -m src.sources.district | sort > $@ || $(call restore-file,$@)
 	echo "[DISTRICT] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/artzo.txt:
