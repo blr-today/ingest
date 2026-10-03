@@ -5,6 +5,8 @@ from collections import defaultdict
 from datetime import datetime
 from urllib.parse import unquote, urlparse
 
+from src.processors.cost import TAGS as COST_TAGS
+
 # Mirrors calendar types: venues/organisers win, then aggregators, then curators
 AGGREGATORS = [
     "district.in",
@@ -97,6 +99,9 @@ def merge(kept, dropped, dropped_url):
     for event in (kept, dropped):
         k = event.get("keywords", [])
         keywords += [s.strip() for s in k.split(",")] if isinstance(k, str) else k
+    # Kept offers win, so only one cost tag survives
+    costs = [k for k in keywords if k in COST_TAGS]
+    keywords = [k for k in keywords if k not in COST_TAGS or k == costs[0]]
     kept["keywords"] = list(
         dict.fromkeys(k for k in keywords if isinstance(k, str) and k)
     )
