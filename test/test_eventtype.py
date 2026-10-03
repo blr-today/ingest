@@ -41,3 +41,20 @@ def test_descriptions():
         == "EducationEvent"
     )
     assert kind("Dakshin Diaries", description="this concert explores") == "MusicEvent"
+
+
+def test_food_making_is_food():
+    event = {"@type": "Event", "name": "Learn Brahmi: a workshop and Mauryan Lunch"}
+    EventType.process("u", event)
+    assert event["@type"] == "FoodEvent"
+    assert event["additionalType"] == ["https://schema.org/EducationEvent"]
+    assert kind("Blackstratblues at Hamilton Cocktail Bar") == "Event"
+    assert kind("Dandiya Night - Old Mill Brewing") == "Event"
+    assert kind("Reformer Pilates X Matcha Making Workshop") == "FoodEvent"
+    assert (
+        kind("Pastry Making Workshop", description="this hands-on workshop")
+        == "FoodEvent"
+    )
+    assert kind("Mixology Masterclass") == "FoodEvent"
+    assert kind("Home Coffee Brewing Workshop") == "FoodEvent"
+    assert kind("Crochet & Coffee Workshop") == "EducationEvent"

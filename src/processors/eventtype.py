@@ -3,26 +3,39 @@ import re
 from .base import Processor
 from .cost import as_keywords
 
-# First match wins, so narrower types sit above broader ones
+# The first match is the type, so narrower types sit above broader ones
 RULES = [
     ("ChildrensEvent", r"\bkids?\b|\bchildren|\bplaydate", []),
     ("ScreeningEvent", r"\bscreening", []),
     ("TheaterEvent", r"\bplay\b|\btheat(re|er)\b|\bpuppet|\bimprov\b", []),
     (
         "LiteraryEvent",
-        r"\bbook (launch|club|reading)|\breading\b|\bpoetry\b|\bstory\b",
+        r"\bbook (launch|club|reading)|\breading\b|\bpoetry\b|(?<!long )\bstory\b",
         [],
     ),
     ("ComedyEvent", r"\broast\b|\bcomedy\b|\bstand-?up\b", []),
-    ("BusinessEvent", r"\bstartups?\b|\bfounders?\b|\bnetworking\b", []),
+    (
+        "BusinessEvent",
+        r"\bstartups?\b|\bfounders?'?s? (room|pitch|meetup)|\bnetworking\b",
+        [],
+    ),
+    (
+        "FoodEvent",
+        r"\btasting\b|\bdinner\b|\blunch\b|\bbrunch\b|\bmatcha\b|\bpastr(y|ies)\b"
+        r"|\bmixology\b|\bcocktail (making|workshop|masterclass|class)\b"
+        r"|\bbak(e|ing)\b|\bcooking\b|\bchocolate"
+        r"|\bkombucha\b|\bsushi\b|\bpasta\b|\bbread\b|\bdim ?sum\b|\bcheese\b"
+        r"|\bcakes?\b|\b(coffee|beer) brewing\b|\bbrewing (workshop|class)\b"
+        r"|\bcupping\b",
+        [],
+    ),
     (
         "EducationEvent",
-        r"\bworkshop|\bmasterclass|\bclass\b|\bcourse\b|\blearn\b|\btalk\b"
-        r"|\bdiy\b|\bmaking\b",
+        r"\bworkshop|\bmasterclass|\bclass\b|\bcourse\b|\blearn\b"
+        r"|\b(a|the) talk\b|\btalk (on|by)\b|\bdiy\b|\bmaking\b",
         ["Talks"],
     ),
     ("VisualArtsEvent", r"\bsketch", []),
-    ("FoodEvent", r"\btasting\b|\bdinner\b|\blunch\b|\bbrunch\b", []),
     ("DanceEvent", r"\bdance\b", ["Dance"]),
     (
         "MusicEvent",
@@ -37,7 +50,7 @@ RULES = [
         [],
     ),
 ]
-# Descriptions name the format, and a talk about music is still a talk
+# Without a telling name, descriptions name the format before categories do
 DESCRIPTIONS = [
     (
         "EducationEvent",
@@ -56,13 +69,15 @@ class EventType(Processor):
             return event
         name = str(event.get("name") or "").lower()
         description = str(event.get("description") or "").lower()
-        for kind, pattern in DESCRIPTIONS:
-            if re.search(pattern, description):
-                event["@type"] = kind
-                return event
         keywords = set(as_keywords(event.get("keywords")))
-        for kind, pattern, tags in RULES:
-            if re.search(pattern, name) or keywords & set(tags):
-                event["@type"] = kind
-                break
+        kinds = [k for k, pattern, _ in RULES if re.search(pattern, name)]
+        kinds = kinds or [
+            next((k for k, p in DESCRIPTIONS if re.search(p, description)), None)
+            or next((k for k, _, tags in RULES if keywords & set(tags)), None)
+        ]
+        if kinds[0]:
+            event["@type"] = kinds[0]
+        # Pages read @type as one string, so the other matches go here
+        if len(kinds) > 1:
+            event["additionalType"] = [f"https://schema.org/{k}" for k in kinds[1:]]
         return event
