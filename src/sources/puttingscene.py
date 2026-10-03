@@ -62,16 +62,16 @@ def make_offers(slot: dict) -> list:
     for tier in slot.get("ticket_tiers", []):
         price = tier.get("price_with_tax") or tier.get("price") or {}
         available = tier.get("available_capacity") or 0
+        sold_out = tier.get("is_sold_out") or available <= 0
         offer = {
             "@type": "Offer",
             "name": tier.get("name", ""),
             "price": f"{price.get('amount_in_minor_units', 0) / 100:.2f}",
             "priceCurrency": price.get("currency", "INR"),
-            "availability": "https://schema.org/SoldOut"
-            if tier.get("is_sold_out") or available <= 0
-            else "https://schema.org/InStock",
+            "availability": "https://schema.org/SoldOut" if sold_out else "https://schema.org/InStock",
         }
-        if available > 0:
+        # is_sold_out also means booking closed, which can leave seats unsold
+        if not sold_out:
             offer["remainingAttendeeCapacity"] = available
         offers.append(offer)
     return offers
