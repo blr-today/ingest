@@ -1,4 +1,5 @@
 import json
+import math
 import sqlite3
 from functools import cache
 
@@ -6,6 +7,7 @@ from .base import Processor
 from .cost import as_keywords, flatten
 
 LIMIT = 8
+SHARE = 0.1
 
 
 def count(value):
@@ -36,6 +38,18 @@ def tickets_left(event):
     return total
 
 
+def capacity(event):
+    return count(event.get("maximumAttendeeCapacity"))
+
+
+def threshold(total):
+    return math.ceil(total * SHARE) if total else LIMIT
+
+
+def add(a, b):
+    return None if a is None or b is None else a + b
+
+
 def listing(url):
     return url.split("#")[0]
 
@@ -49,11 +63,9 @@ def slot_totals(db="events.db"):
             "SELECT url, event_json FROM events"
         )
         for url, event_json in rows:
-            left = tickets_left(json.loads(event_json))
-            key = listing(url)
-            if key in totals and totals[key] is None:
-                continue
-            totals[key] = None if left is None else totals.get(key, 0) + left
+            event = json.loads(event_json)
+            left, seats = totals.get(listing(url), (0, 0))
+            totals[listing(url)] = (add(left, tickets_left(event)), add(seats, capacity(event)))
     except sqlite3.Error:
         return {}
     return totals
@@ -64,8 +76,8 @@ class LastCall(Processor):
 
     @staticmethod
     def process(url, event):
-        left = slot_totals().get(listing(url), tickets_left(event))
+        left, seats = slot_totals().get(listing(url), (tickets_left(event), capacity(event)))
         keywords = as_keywords(event.get("keywords"))
-        if left is not None and 0 < left <= LIMIT and "LASTCALL" not in keywords:
+        if left is not None and 0 < left <= threshold(seats) and "LASTCALL" not in keywords:
             event["keywords"] = keywords + ["LASTCALL"]
         return event

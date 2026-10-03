@@ -117,6 +117,8 @@ def make_events(event: dict) -> list:
         if slot.get("is_in_past") or not slot.get("start_at"):
             continue
         e = dict(base, startDate=slot["start_at"], endDate=slot.get("end_at") or slot["start_at"])
+        if (slot.get("max_attendees") or 0) > 0:
+            e["maximumAttendeeCapacity"] = slot["max_attendees"]
         offers = make_offers(slot)
         price = event.get("price_from") or {}
         # Some slots list no ticket tiers, only the event's starting price

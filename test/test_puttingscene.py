@@ -1,4 +1,4 @@
-from src.sources.puttingscene import make_offers
+from src.sources.puttingscene import make_events, make_offers
 
 
 def tier(**kw):
@@ -22,3 +22,12 @@ def test_empty_tier_is_sold_out():
     assert offer["availability"] == "https://schema.org/SoldOut"
     assert "remainingAttendeeCapacity" not in offer
 
+
+def test_slot_capacity_is_the_total():
+    event = {"id": "E1", "title": "Workshop", "is_paid": True, "slots": [
+        {"start_at": "2026-10-10T18:00:00+05:30", "max_attendees": 6, "ticket_tiers": [tier(available_capacity=6)]},
+        {"start_at": "2026-10-17T18:00:00+05:30", "ticket_tiers": [tier(available_capacity=6)]},
+    ]}
+    first, second = make_events(event)
+    assert first["maximumAttendeeCapacity"] == 6
+    assert "maximumAttendeeCapacity" not in second

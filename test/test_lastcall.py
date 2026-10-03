@@ -14,6 +14,18 @@ def test_event_count():
     assert tags({"keywords": [], "remainingAttendeeCapacity": 0}) == []
 
 
+def test_known_capacity_uses_a_tenth():
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 20, "maximumAttendeeCapacity": 200}) == ["LASTCALL"]
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 21, "maximumAttendeeCapacity": 200}) == []
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 8, "maximumAttendeeCapacity": 20}) == []
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 2, "maximumAttendeeCapacity": 20}) == ["LASTCALL"]
+
+
+def test_small_capacity_rounds_up():
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 1, "maximumAttendeeCapacity": 6}) == ["LASTCALL"]
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 2, "maximumAttendeeCapacity": 6}) == []
+
+
 def test_slots_add_up():
     offers = [{"remainingAttendeeCapacity": 5}, {"remainingAttendeeCapacity": 3}]
     assert tags({"keywords": [], "offers": offers}) == ["LASTCALL"]
@@ -48,11 +60,11 @@ def test_slots_of_one_listing_add_up(tmp_path):
     rows = [
         ("https://a/x", {"remainingAttendeeCapacity": 6}),
         ("https://a/x", {"remainingAttendeeCapacity": 6}),
-        ("https://u/y#2026-10-01T1900", {"remainingAttendeeCapacity": 3}),
-        ("https://u/y#2026-10-08T1900", {"remainingAttendeeCapacity": 4}),
+        ("https://u/y#2026-10-01T1900", {"remainingAttendeeCapacity": 3, "maximumAttendeeCapacity": 40}),
+        ("https://u/y#2026-10-08T1900", {"remainingAttendeeCapacity": 4, "maximumAttendeeCapacity": 40}),
         ("https://u/z#1", {"remainingAttendeeCapacity": 2}),
         ("https://u/z#2", {"offers": [{"price": "100"}]}),
     ]
     conn.executemany("INSERT INTO events VALUES (?, ?)", [(u, json.dumps(e)) for u, e in rows])
     conn.commit()
-    assert slot_totals(str(db)) == {"https://a/x": 12, "https://u/y": 7, "https://u/z": None}
+    assert slot_totals(str(db)) == {"https://a/x": (12, None), "https://u/y": (7, 80), "https://u/z": (None, None)}
