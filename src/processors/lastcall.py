@@ -26,10 +26,13 @@ def tickets_left(event):
         return None
     total = 0
     for offer in offers:
+        # Sources mark a slot sold out once booking closes, even with seats unsold
+        if "SoldOut" in str(offer.get("availability")):
+            continue
         n = count(offer.get("remainingAttendeeCapacity", offer.get("inventoryLevel")))
-        if n is None and "SoldOut" not in str(offer.get("availability")):
+        if n is None:
             return None
-        total += n or 0
+        total += n
     return total
 
 

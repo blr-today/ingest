@@ -26,6 +26,16 @@ def test_sold_out_tiers_count_as_zero():
     assert tags({"keywords": [], "offers": offers}) == ["LASTCALL"]
 
 
+def test_sold_out_tiers_ignore_their_count():
+    offers = [{"availability": "https://schema.org/SoldOut", "remainingAttendeeCapacity": 2},
+              {"availability": "https://schema.org/InStock", "remainingAttendeeCapacity": 7}]
+    assert tags({"keywords": [], "offers": offers}) == ["LASTCALL"]
+    offers[1]["remainingAttendeeCapacity"] = 8
+    assert tags({"keywords": [], "offers": offers}) == ["LASTCALL"]
+    offers[1]["remainingAttendeeCapacity"] = 9
+    assert tags({"keywords": [], "offers": offers}) == []
+
+
 def test_uncounted_tier_is_unknown():
     offers = [{"inventoryLevel": 2}, {"price": "500"}]
     assert tags({"keywords": [], "offers": offers}) == []
