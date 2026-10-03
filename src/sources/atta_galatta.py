@@ -80,7 +80,7 @@ def make_event(event):
         e["@type"] = "LiteraryEvent"
 
     elif subtitle == "Theatre Performance":
-        e["@type"] = "TheatreEvent"
+        e["@type"] = "TheaterEvent"
     elif "Music Performance" in e["name"]:
         e["@type"] = "MusicEvent"
 
