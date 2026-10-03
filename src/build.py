@@ -1,4 +1,4 @@
-from common.remote import fetch_remote_events
+from common.remote import add_source, fetch_remote_events
 import os
 import sqlite3
 import json
@@ -37,12 +37,7 @@ def fetch_local_events(file_filter=None):
         with open(json_file, "r") as f:
             data = json.load(f)
             for event in data:
-                keywords = event.get("keywords", [])
-                if isinstance(keywords, str):
-                    keywords = ", " + basename.upper() + ", " + keywords
-                elif isinstance(keywords, list):
-                    keywords = list(set([basename.upper()] + keywords))
-                event["keywords"] = keywords
+                add_source(event, basename)
                 if "url" in event:
                     yield (event["url"], event)
                 else:

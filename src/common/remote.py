@@ -16,12 +16,23 @@ def find_event(l):
             return d
 
 
+def add_source(event, source):
+    keywords = event.get("keywords", [])
+    if isinstance(keywords, str):
+        keywords = ", " + source.upper() + ", " + keywords
+    elif isinstance(keywords, list):
+        keywords = list(set([source.upper()] + keywords))
+    event["keywords"] = keywords
+    return event
+
+
 def fetch_remote_events(file_filter=None):
     session = get_cached_session()
     URL_FILES = glob.glob("out/*.txt")
     for url_file in URL_FILES:
         if file_filter and url_file != file_filter:
             continue
+        source = os.path.basename(url_file)[:-4]
         with open(url_file, "r") as f:
             urls = f.readlines()
             for url in urls:
@@ -57,6 +68,6 @@ def fetch_remote_events(file_filter=None):
                         event = event or find_event(x["@graph"])
                 event = event or find_event(data)
                 if event:
-                    yield (url, event)
+                    yield (url, add_source(event, source))
                 else:
                     print(f"Could not find event in {url}")

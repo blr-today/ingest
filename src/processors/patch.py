@@ -23,7 +23,6 @@ def get_patch(url):
     return None
 
 
-# TODO: Patch PUMARUN and TOWNSCRIPT events correctly somehow
 class Patch(Processor):
     URL_REGEX = None
 
