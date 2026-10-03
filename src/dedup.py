@@ -85,7 +85,7 @@ def is_duplicate(a, b):
         return False
     if normalize(a.get("name", "")) == normalize(b.get("name", "")):
         return True
-    return x == y or (len(x.split()) >= 3 and y.startswith(x + " "))
+    return x == y or (len(x.split()) >= 3 and f" {x} " in f" {y} ")
 
 
 def as_list(value):
