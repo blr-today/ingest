@@ -1031,13 +1031,13 @@ WHERE
   );
 
 
--- NORTH only claims events no other area has
+-- NORTHBLR only claims events no other area has
 UPDATE events
 SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'NORTH')
+    json_insert(event_json -> '$.keywords', '$[#]', 'NORTHBLR')
   )
 WHERE
   NOT EXISTS (
@@ -1074,7 +1074,7 @@ WITH
       ('JAYANAGAR', 12.915, 77.578, 12.945, 77.605),
       ('JPNAGAR', 12.865, 77.565, 12.915, 77.605),
       ('WHITEFIELD', 12.940, 77.665, 13.035, 77.780),
-      ('NORTH', 13.012, 77.565, 13.150, 77.665)
+      ('NORTHBLR', 13.012, 77.565, 13.150, 77.665)
   ),
   point(id, lat, lng) AS (
     SELECT
@@ -1107,7 +1107,7 @@ WHERE
   rowid IN (SELECT id FROM spot)
   AND NOT EXISTS (
     SELECT 1 FROM json_each(event_json -> '$.keywords')
-    WHERE value IN ('CBD', 'HSR', 'INDIRANAGAR', 'JAYANAGAR', 'JPNAGAR', 'KORAMANGALA', 'WHITEFIELD', 'NORTH')
+    WHERE value IN ('CBD', 'HSR', 'INDIRANAGAR', 'JAYANAGAR', 'JPNAGAR', 'KORAMANGALA', 'WHITEFIELD', 'NORTHBLR')
   );
 
 
