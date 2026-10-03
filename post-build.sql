@@ -911,7 +911,7 @@ WHERE
   OR event_json ->> '$.location' LIKE '%j.p nagar%';
 
 
--- Merge Brookefield with whitefield for now
+-- WHITEFIELD covers most of East Bangalore
 UPDATE events
 SET
   event_json = json_replace(
@@ -922,7 +922,18 @@ SET
 WHERE
   event_json ->> '$.location' LIKE '%whitefield%'
   OR event_json ->> '$.location' LIKE '%brookefield%'
-  OR event_json ->> '$.location' LIKE '%brookfield%';
+  OR event_json ->> '$.location' LIKE '%brookfield%'
+  OR event_json ->> '$.location' LIKE '%marathahalli%'
+  OR event_json ->> '$.location' LIKE '%mahadevapura%'
+  OR event_json ->> '$.location' LIKE '%k r puram%'
+  OR event_json ->> '$.location' LIKE '%kr puram%'
+  OR event_json ->> '$.location' LIKE '%varthur%'
+  OR event_json ->> '$.location' LIKE '%kundalahalli%'
+  OR event_json ->> '$.location' LIKE '%kadugodi%'
+  OR event_json ->> '$.location' LIKE '%itpl%'
+  OR event_json ->> '$.location' LIKE '%hoodi%'
+  OR event_json ->> '$.location' LIKE '%panathur%'
+  OR event_json ->> '$.location' LIKE '%kadubeesanahalli%';
 
 
 UPDATE events
@@ -944,7 +955,12 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'HEBBAL')
   )
 WHERE
-  event_json ->> '$.location' LIKE '%HEBBAL%';
+  event_json ->> '$.location' LIKE '%HEBBAL%'
+  -- Science Gallery also runs programmes away from the gallery
+  OR (
+    event_json ->> '$.keywords' LIKE '%"SCIGALLERY%'
+    AND event_json ->> '$.location.name' LIKE '%science gallery%'
+  );
 
 
 -- CBD
@@ -984,6 +1000,10 @@ WHERE
     OR event_json ->> '$.location' LIKE '%ulsoor%'
     OR event_json ->> '$.location' LIKE '%halasuru%'
     OR event_json ->> '$.location' LIKE '%vasanth nagar%'
+    OR event_json ->> '$.location' LIKE '%cox town%'
+    OR event_json ->> '$.location' LIKE '%cooke town%'
+    OR event_json ->> '$.location' LIKE '%frazer town%'
+    OR event_json ->> '$.location' LIKE '%richards town%'
     -- The university has multiple colleges and campuses
     -- But most are near or within CBD
     OR event_json ->> '$.location' LIKE '%st. joseph''s%'
@@ -1004,6 +1024,86 @@ WHERE
     OR event_json ->> '$.location' LIKE '%e-city%'
     OR event_json ->> '$.location' LIKE '%electroniccity%'
     OR event_json ->> '$.location' LIKE '%electronic-city%'
+  );
+
+
+-- NORTH only claims events no other area has
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'NORTH')
+  )
+WHERE
+  NOT EXISTS (
+    SELECT 1 FROM json_each(event_json -> '$.keywords')
+    WHERE value IN ('CBD', 'HSR', 'INDIRANAGAR', 'JAYANAGAR', 'JPNAGAR', 'KORAMANGALA', 'WHITEFIELD')
+  )
+  AND (
+    event_json ->> '$.keywords' LIKE '%"HEBBAL"%'
+    OR event_json ->> '$.keywords' LIKE '%"JAKKUR"%'
+    OR event_json ->> '$.location' LIKE '%rt nagar%'
+    OR event_json ->> '$.location' LIKE '%kalyan nagar%'
+    OR event_json ->> '$.location' LIKE '%hrbr layout%'
+    OR event_json ->> '$.location' LIKE '%hbr layout%'
+    OR event_json ->> '$.location' LIKE '%hennur%'
+    OR event_json ->> '$.location' LIKE '%sahakar nagar%'
+    OR event_json ->> '$.location' LIKE '%yelahanka%'
+    OR event_json ->> '$.location' LIKE '%thanisandra%'
+    OR event_json ->> '$.location' LIKE '%manyata%'
+    OR event_json ->> '$.location' LIKE '%kammanahalli%'
+    OR event_json ->> '$.location' LIKE '%banaswadi%'
+    OR event_json ->> '$.location' LIKE '%sanjay%nagar%'
+    OR event_json ->> '$.location' LIKE '%vidyaranyapura%'
+  );
+
+
+-- Events no address rule placed fall back to rough boxes on coordinates
+WITH
+  area(tag, south, west, north, east) AS (
+    VALUES
+      ('CBD', 12.960, 77.575, 13.012, 77.625),
+      ('INDIRANAGAR', 12.955, 77.625, 12.995, 77.665),
+      ('KORAMANGALA', 12.920, 77.605, 12.955, 77.640),
+      ('HSR', 12.895, 77.630, 12.920, 77.665),
+      ('JAYANAGAR', 12.915, 77.578, 12.945, 77.605),
+      ('JPNAGAR', 12.865, 77.565, 12.915, 77.605),
+      ('WHITEFIELD', 12.940, 77.665, 13.035, 77.780),
+      ('NORTH', 13.012, 77.565, 13.150, 77.665)
+  ),
+  point(id, lat, lng) AS (
+    SELECT
+      rowid,
+      CAST(coalesce(event_json ->> '$.location.geo.latitude', event_json ->> '$.location.latitude') AS REAL),
+      CAST(coalesce(event_json ->> '$.location.geo.longitude', event_json ->> '$.location.longitude') AS REAL)
+    FROM events
+  ),
+  spot(id, tag) AS (
+    SELECT id, tag FROM point, area
+    WHERE
+      lat BETWEEN south AND north
+      AND lng BETWEEN west AND east
+      -- Geocoders put a bare "Bengaluru" on these city centres
+      AND NOT (round(lat, 3) = 12.972 AND round(lng, 3) = 77.595)
+      AND NOT (round(lat, 3) = 12.963 AND round(lng, 3) = 77.578)
+  )
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      (SELECT tag FROM spot WHERE id = events.rowid)
+    )
+  )
+WHERE
+  rowid IN (SELECT id FROM spot)
+  AND NOT EXISTS (
+    SELECT 1 FROM json_each(event_json -> '$.keywords')
+    WHERE value IN ('CBD', 'HSR', 'INDIRANAGAR', 'JAYANAGAR', 'JPNAGAR', 'KORAMANGALA', 'WHITEFIELD', 'NORTH')
   );
 
 
