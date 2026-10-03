@@ -2,30 +2,22 @@ local transformEvent(event) =
   // Field names cannot see object locals, so these sit outside it
   local description = std.get(event, 'description', '');
   local image = std.get(event, 'image_upload', null);
+  local links = std.get(event, 'links', []);
   {
     local title = event.post.topic.title,
     // Search for events with Cinema Club in title
     local cinema =
       std.length(std.findSubstr('cinema club', std.asciiLower(title))) > 0,
-    // Ticket link may be 'tba', so fall back to location URL, then the post
-    local location = std.get(event, 'location', ''),
-    local locationUrl =
-      if location != null && std.startsWith(location, 'http') then std.split(location, ' ')[0],
-    local eventUrl = std.get(event, 'url', ''),
     local topic = event.post.topic,
-    local postUrl = 'https://underline.center/t/' + std.get(topic, 'slug', 'topic') + '/' + topic.id,
-    local url =
-      if eventUrl != null && std.startsWith(eventUrl, 'http') then eventUrl
-      else if locationUrl != null then locationUrl
-      else postUrl,
     '@context': 'https://schema.org',
     '@type': if cinema then 'ScreeningEvent' else 'SocialEvent',
     startDate: event.starts_at,
     keywords: ['UNDERLINE', 'INDIRANAGAR'],
     name: title,
     [if event.ends_at != null then 'endDate']: event.ends_at,
-    url: url,
-    sameAs: postUrl,
+    // Ticket links go in sameAs, so dedup can merge with their listings
+    url: 'https://underline.center/t/' + std.get(topic, 'slug', 'topic') + '/' + topic.id,
+    [if std.length(links) > 0 then 'sameAs']: links,
     [if description != null && description != '' then 'description']: description,
     [if image != null then 'image']: image.url,
     [if std.objectHas(event, 'offers') then 'offers']: event.offers,
