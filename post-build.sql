@@ -309,8 +309,7 @@ WHERE
   );
 
 
--- Music events listed on HIGHAPE that are
--- Free Entry are low-quality
+-- Free HIGHAPE club nights and brunches are pub promotions
 UPDATE events
 SET
   event_json = json_replace(
@@ -323,14 +322,16 @@ SET
     )
   )
 WHERE
-  event_json ->> '$.keywords' LIKE '%"highape"%'
-  AND event_json ->> '$.keywords' LIKE '%"free entry"%'
+  event_json ->> '$.keywords' LIKE '%"HIGHAPE"%'
+  AND event_json ->> '$.keywords' LIKE '%"FREE"%'
   AND (
-    event_json ->> '$.keywords' LIKE '%bollywood night%'
-    OR event_json ->> '$.keywords' LIKE '%bollywood night%'
-    OR event_json ->> '$.keywords' LIKE '%dj night%'
-    OR event_json ->> '$.keywords' LIKE '%commercial music%'
-    OR event_json ->> '$.keywords' LIKE '%karaoke night%'
+    event_json ->> '$.description' LIKE '%DJ %'
+    OR event_json ->> '$.description' LIKE '%on the decks%'
+    OR event_json ->> '$.description' LIKE '%dance floor%'
+    OR event_json ->> '$.description' LIKE '%club night%'
+    OR event_json ->> '$.description' LIKE '%party night%'
+    OR event_json ->> '$.description' LIKE '%for ladies%'
+    OR event_json ->> '$.name' LIKE '%brunch%'
   );
 
 UPDATE events
@@ -1038,7 +1039,7 @@ WHERE
   AND substr(event_json ->> '$.startDate', 0, 10) != substr(event_json ->> '$.endDate', 0, 10);
 
 -- Mark events where the description includes the words
--- "online session" or "zoom link" as ONLINE
+-- "online session" or "zoom link", or listed online, as ONLINE
 UPDATE events
 SET
   event_json = json_replace(
@@ -1052,7 +1053,10 @@ SET
   )
 WHERE
  event_json ->> '$.description' LIKE '%online session%'
- OR event_json ->> '$.description' LIKE '%zoom link%';
+ OR event_json ->> '$.description' LIKE '%zoom link%'
+ OR event_json ->> '$.location.name' LIKE 'online%'
+ OR event_json ->> '$.location.@type' = 'VirtualLocation'
+ OR event_json ->> '$.eventAttendanceMode' LIKE '%OnlineEventAttendanceMode';
 
 -- Everything with a urbanaut.app url and TPCC in capital in the title
 -- should be tagged as TPCC
