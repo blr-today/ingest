@@ -114,6 +114,9 @@ def combine_offers(kept, dropped):
 
 
 def merge(kept, dropped, dropped_url):
+    # A specific type such as ScreeningEvent beats a plain Event
+    if kept.get("@type") in (None, "Event") and isinstance(dropped.get("@type"), str):
+        kept["@type"] = dropped["@type"]
     keywords = []
     for event in (kept, dropped):
         k = event.get("keywords", [])
