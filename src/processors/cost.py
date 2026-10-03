@@ -2,7 +2,7 @@ import re
 
 from .base import Processor
 
-TAGS = ["FREE", "BUDGET", "VALUE", "PRICEY"]
+TAGS = ["FREE", "BUDGET", "PRICEY"]
 
 
 def flatten(offers):
@@ -36,7 +36,8 @@ def tag(amount):
         return "FREE"
     if amount < 500:
         return "BUDGET"
-    return "VALUE" if amount < 2000 else "PRICEY"
+    # Mid-priced events get no tag
+    return "PRICEY" if amount >= 2000 else None
 
 
 def as_keywords(keywords):
@@ -69,5 +70,5 @@ class Cost(Processor):
         else:
             return event
         keywords = [k for k in as_keywords(event.get("keywords")) if k not in TAGS]
-        event["keywords"] = keywords + [label]
+        event["keywords"] = keywords + ([label] if label else [])
         return event
