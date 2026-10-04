@@ -135,7 +135,7 @@ out/aceofpubs.json:
 	python -m src.sources.aceofpubs || $(call restore-file,$@)
 
 out/koota.txt:
-	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ || $(call restore-file,$@)
+	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ && test -s $@ || $(call restore-file,$@)
 		echo "[KOOTA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/sistersinsweat.json:
