@@ -819,7 +819,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 176,
+    "remainingAttendeeCapacity": 172,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -905,7 +905,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 129,
+    "remainingAttendeeCapacity": 126,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1081,7 +1081,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1476,7 +1476,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1688,7 +1688,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1979,7 +1979,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3181,7 +3181,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 45,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 42,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3348,7 +3348,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3791,7 +3791,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4875,7 +4875,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4935,6 +4935,50 @@
     "url": "https://urbanaut.app/spot/introduction-to-design-thinking-17205",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "THE FESTIVE PRINT ATELIER",
+    "description": "THE FESTIVE PRINT ATELIER \u2728This festive season, step away from the usual and spend an afternoon creating something beautiful with your hands.Join us at Studio Common Roof for an intimate printmaking experience inspired by Indian botanicals, festive motifs and the art of slow making.You\u2019ll learn the basics of block printing, create your own festive design and turn it into a beautiful collection of handmade prints and stationery.What you\u2019ll create\ud83c\udf3f Your own hand-carved printing block\ud83d\uddbc\ufe0f Limited-edition art prints\ud83d\udc8c Handmade festive Prints / Cards \u2615 Chai/coffee & festive treatsNo prior art experience required. Everything you need is provided.Duration: 2\u20132.5 hoursGroup size: Limited to 6\u20138 guestsLocation: Studio Common Roof, Indiranagar, BengaluruExperience level: Beginner-friendlyCome for the making. Leave with something worth keeping.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/75BAECC005E84CE9926DB39A3C69E8A9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-31T11:00:00+05:30",
+    "endDate": "2026-10-31T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "267, 1st Main Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "latitude": "12.97735510000000000000",
+      "longitude": "77.64558650000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1711.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Common Roof",
+      "description": "A shared roof for creativity and community.",
+      "url": "https://urbanaut.app/partner/studio-common-roof",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/8C72A1A505374EE6A9F17EA052499514_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-festive-print-atelier",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
       "URBANAUT"
     ]
   }
