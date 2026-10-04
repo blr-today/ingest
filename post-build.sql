@@ -38,6 +38,8 @@ WHERE
   -- But even if they aren't, the reviews are very bad.
   -- And sound exactly like the Small world reviews
   OR event_json ->> '$.organizer.name' LIKE '%growth sailor%'
+  -- Same mass-produced art dates and socials, 241 listings at a time
+  OR event_json ->> '$.organizer.name' LIKE '%social sailor%'
   -- Silly dating events: https://district.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
   -- Silly dating events on district
