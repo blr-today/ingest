@@ -822,6 +822,27 @@ WHERE
 
 
 
+-- Book clubs, launches and readings, wherever they are listed
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'BOOKS')
+  )
+WHERE
+  event_json ->> '$.name' LIKE '%book club%'
+  OR event_json ->> '$.name' LIKE '%book launch%'
+  OR event_json ->> '$.name' LIKE '%book discussion%'
+  OR event_json ->> '$.name' LIKE '%book reading%'
+  OR event_json ->> '$.name' LIKE '%reading session%'
+  OR event_json ->> '$.name' LIKE '%silent reading%'
+  OR event_json ->> '$.name' LIKE '%readers%'
+  OR event_json ->> '$.name' LIKE '%meet the author%'
+  OR event_json ->> '$.name' LIKE '%bibliophile%'
+  OR event_json ->> '$.name' LIKE '%dialogues with books%';
+
+
 -- I host Puzzled Pint BLR, and it is a 100% certified quality event.
 UPDATE events
 SET
