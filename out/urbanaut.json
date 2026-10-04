@@ -2301,48 +2301,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Holige Habba",
-    "description": "Come celebrate the rich flavors and timeless traditions of Karnataka with Holige Habba \u2013 A Davangere Style Oota! \u2728Get ready for a delicious feast inspired by the authentic flavors of Davangere, where every dish brings a taste of home, tradition, and togetherness. The star of the celebration is the beloved Holige, served alongside a spread of flavorful Karnataka-style delicacies.\u2728Our Festive Menu:Bele HoligeBili HoligeHeere + Menasinkayi PalyaBadnekayi PalyaKaarada ChutneyKosambari ChitrannaAnnaHolige SaaruMosaruHapla SandigeMenasinkayi BajjiIruli HatthikayiUpinkayi, Chutney PudiMajjigeOnde Oota, Ondu Sambhrama! \ud83c\udf38",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7F7B91496BA94E6292C0F1198F5DEBA4_converted_webp.webp"
-    ],
-    "startDate": "2026-10-04T14:15:00+05:30",
-    "endDate": "2026-10-04T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "No 4, 2nd Main Rd, Sarvabhoumanagar, Sundar Ram Shetty Nagar, Bilekahalli, Bengaluru, Karnataka 560076, India",
-      "latitude": "12.89217280000000000000",
-      "longitude": "77.60251230000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 440.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chavadi Native Kitchen",
-      "description": "We are a Native Kitchen & Community Cafe located in the heart of Bannerghatta, Bengaluru. Come for the best of South Indian delicacies, and stay for our vibrant communal events, live music, and more.",
-      "url": "https://urbanaut.app/partner/chavadi-native-kitchenn",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/7BA7CA864B614C36B7D9A379E0E81F36_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/holige-habba",
-    "keywords": [
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Discover Kalari : A 2-Day Beginner Workshop",
     "description": "\u200b\ud83d\udcc5 Date & Time\u200bDay 1: Saturday, 11 October 2026 | 7:00 AM \u2013 8:00 AM\u200bDay 2: Sunday, 12 October2026 | 7:00 AM \u2013 8:00 AM\u200b\ud83d\udccd Venue: Marathahalli, Bangalore\u200bLimited 6 slots available\u26a0\ufe0f\u200bCome discover the joy of moving with purpose, learning with curiosity, and beginning a journey into one of India's richest martial traditions.\u200b#Registration fee\u200b\u20b92499 - For Adults\u200b\u20b92229 - For Students\u200b\u20b91999 - For Duos",
@@ -4882,6 +4840,47 @@
     "keywords": [
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Catan Tournament",
+    "description": "Think you have what it takes to build an empire, negotiate your way to victory, and outsmart everyone at the table?Join us for a gathering of strategy, friendly rivalries, unexpected alliances, and a little bit of betrayal.Whether you're a seasoned CATAN player or simply looking for a fun way to meet new people, this is your chance to roll the dice, trade resources, build settlements, and see where your strategy takes you.With four players at each table, every game brings a new mix of personalities, negotiations, and competitive energy.Expect good conversations, playful competition, and thrift goodie bags for the winners!Part of our weekly and monthly open gatherings designed to bring people together through play, conversations, and conscious social mingling.\ud83c\udfb2 Age: 16+\ud83d\udc65 Players: 4 per tableCome with friends and leave with enemies.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/14FDE8918012455A922ABDD7F73D2B8C_converted_webp.webp"
+    ],
+    "startDate": "2026-10-25T12:00:00+05:30",
+    "endDate": "2026-10-25T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "latitude": "12.99677590000000000000",
+      "longitude": "77.61986830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 149.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/catan-tournament",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   }
