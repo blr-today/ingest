@@ -1,5 +1,6 @@
 import html
 from .base import Processor
+from .cost import as_keywords
 from urllib.parse import urlparse
 import datefinder
 from datetime import datetime, timedelta
@@ -53,5 +54,9 @@ class SchemaFixer(Processor):
             pass
         if event.get("LOCATION"):
             event["location"] = event.pop("LOCATION")
+
+        # post-build.sql can only append tags to a keywords array
+        keywords = (k.strip() for k in as_keywords(event.get("keywords")) if isinstance(k, str))
+        event["keywords"] = list(dict.fromkeys(k for k in keywords if k))
 
         return event

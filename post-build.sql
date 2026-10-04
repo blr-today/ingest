@@ -1321,3 +1321,23 @@ SET
   )
 WHERE
   url = 'https://attagalatta.com/event_page.php?eventid=EVT2171';
+
+
+-- Rules above append without checking, so drop repeated tags last
+UPDATE events
+SET
+  event_json = json_set(
+    event_json,
+    '$.keywords',
+    (
+      SELECT json_group_array(value)
+      FROM (
+        SELECT value FROM json_each(event_json, '$.keywords')
+        GROUP BY value ORDER BY min(key)
+      )
+    )
+  )
+WHERE
+  json_array_length(event_json, '$.keywords') > (
+    SELECT count(DISTINCT value) FROM json_each(event_json, '$.keywords')
+  );
