@@ -149,6 +149,10 @@ out/pumarun.txt:
 	python -m src.sources.eventbrite pumarun | sort > $@ || $(call restore-file,$@)
 	echo "[PUMARUN] $$(wc -l $@ | cut -d ' ' -f 1)"
 
+out/hsrmeetups.txt:
+	python -m src.sources.eventbrite hsrmeetups | sort > $@ || $(call restore-file,$@)
+	echo "[HSRMEETUPS] $$(wc -l $@ | cut -d ' ' -f 1)"
+
 # we just do a minimal transform to remove extra bits we don't need
 out/tpcc.jsonnet:
 	curl_chrome116 --silent 'https://x2qnegor.apicdn.sanity.io/v2024-09-06/data/query/production?query=*%5B_type+%3D%3D+%22event%22%5D%7B%0A++++++++_id%2C%0A++++++++title%2C%0A++++++++date%2C%0A++++++++online_date%2C%0A++++++++director%2C%0A++++++++note%2C%0A++++++++%22theme%22%3A+theme-%3Etheme%2C%0A++++++++%22poster%22%3A+poster.asset-%3Eurl%2C%0A++++++++%22city%22%3A+city-%3E%7Bcity%2C+color%7D%2C%0A++++++++%22location%22%3A+location-%3E%7Bname%2C+url%7D%2C%0A++++++++rsvpLink%0A++++++%7D&returnQuery=false' | jq \
@@ -229,6 +233,7 @@ fetch: out/allevents.txt \
  out/sistersinsweat.json \
  out/bcc.json \
  out/pumarun.txt \
+ out/hsrmeetups.txt \
  out/tpcc.json \
  out/skillboxes.json \
  out/thewhitebox.json \

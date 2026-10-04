@@ -833,6 +833,34 @@ SET
 WHERE
   url LIKE '%puzzled-pint-bangalore%';
 
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'HSRMEETUPS')
+  )
+WHERE
+  event_json ->> '$.organizer.name' LIKE 'HSR meetups'
+  AND NOT EXISTS (
+    SELECT 1 FROM json_each(event_json -> '$.keywords')
+    WHERE value = 'HSRMEETUPS'
+  );
+
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'CURATED')
+  )
+WHERE
+  event_json ->> '$.organizer.name' LIKE 'HSR meetups'
+  AND (
+    event_json ->> '$.name' LIKE '%board%gam%'
+    OR event_json ->> '$.description' LIKE '%board%gam%'
+  );
+
 
 -- Tag location as HSR
 UPDATE events
