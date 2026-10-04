@@ -12,39 +12,45 @@ concurrency:
   cancel-in-progress: true
 permissions: {}
 jobs:
-  district:
-    # Akamai blocks GitHub-hosted runner IPs for the District API
-    runs-on: [self-hosted, sel, steamos]
-    continue-on-error: true
-    timeout-minutes: 15
-    permissions:
-      contents: read
-    name: Fetch District
+  runner:
+    name: Pick runner
+    runs-on: ubuntu-latest
+    outputs:
+      labels: ${{ steps.pick.outputs.labels }}
     steps:
-    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+    - uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+      id: app-token
+      continue-on-error: true
       with:
-        persist-credentials: false
-    - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
-    - name: Fetch District events
-      run: uv run --frozen python -m src.sources.district | sort > district.txt
-    - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
-      with:
-        name: district
-        path: district.txt
-        if-no-files-found: error
-        retention-days: 1
+        app-id: ${{ vars.PUBLISH_APP_ID }}
+        private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
+        owner: ${{ github.repository_owner }}
+        permission-organization-self-hosted-runners: read
+    - name: Use sel when it is online
+      id: pick
+      env:
+        GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        ORG: ${{ github.repository_owner }}
+      run: |
+        labels='"ubuntu-22.04"'
+        if [ -n "$GH_TOKEN" ] && gh api "orgs/$ORG/actions/runners" \
+          --jq '.runners[] | select(.status == "online") | .labels[].name' | grep -x sel > /dev/null; then
+          labels='["self-hosted","sel","steamos"]'
+        fi
+        echo "Running on $labels"
+        echo "labels=$labels" >> "$GITHUB_OUTPUT"
 
   update:
-    needs: district
-    if: ${{ !cancelled() }}
+    needs: runner
     permissions:
       contents: write
     name: Update data
-    # We run this on our own infra, to avoid cloud IP egress
-    runs-on: ubuntu-22.04
+    # sel avoids cloud IP blocks (District); GitHub-hosted is the fallback
+    runs-on: ${{ fromJSON(needs.runner.outputs.labels) }}
     steps:
     # This needs to come before the checkout, since checkout depends on git
     - name: Install Dependencies
+      if: runner.environment == 'github-hosted'
       run: |
         sudo apt-get update && sudo apt-get install --yes libnss3 nss-plugin-pem ca-certificates wget jq git build-essential unzip \
         libatk1.0-0 libatk-bridge2.0-0 libcups2 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2 libatspi2.0-0
@@ -64,10 +70,36 @@ jobs:
         wget "https://github.com/lightpanda-io/browser/releases/download/0.4.1/lightpanda-x86_64-linux" -O /tmp/lightpanda
         echo "1d40801e72c0bc61b2cbd3f3562bcfc46de7b79e0568f33f686b64f2e587610a  /tmp/lightpanda" | sha256sum --check --status
         sudo install -m 755 /tmp/lightpanda /usr/bin/lightpanda
+    - name: Install Dependencies (self-hosted)
+      if: runner.environment == 'self-hosted'
+      run: |
+        missing=""
+        for tool in git gh jq wget unzip gcc curl; do
+          command -v "$tool" > /dev/null || missing="$missing $tool"
+        done
+        if [ -n "$missing" ]; then
+          echo "::error::Missing on $RUNNER_NAME:$missing"
+          exit 1
+        fi
+        bin="$RUNNER_TOOL_CACHE/ingest-bin"
+        mkdir -p "$bin"
+        if [ ! -x "$bin/curl_chrome116" ]; then
+          wget -q "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O "$RUNNER_TEMP/curl-impersonate.tar.gz"
+          echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  $RUNNER_TEMP/curl-impersonate.tar.gz" | sha256sum --check --status
+          tar -xzf "$RUNNER_TEMP/curl-impersonate.tar.gz" -C "$bin"
+        fi
+        if [ ! -x "$bin/lightpanda" ]; then
+          wget -q "https://github.com/lightpanda-io/browser/releases/download/0.4.1/lightpanda-x86_64-linux" -O "$RUNNER_TEMP/lightpanda"
+          echo "1d40801e72c0bc61b2cbd3f3562bcfc46de7b79e0568f33f686b64f2e587610a  $RUNNER_TEMP/lightpanda" | sha256sum --check --status
+          install -m 755 "$RUNNER_TEMP/lightpanda" "$bin/lightpanda"
+        fi
+        echo "$bin" >> "$GITHUB_PATH"
     - name: Cache Requests SQLite
+      # sel keeps its cache on disk between runs
+      if: runner.environment == 'github-hosted'
       uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:
-        path: /home/runner/.cache/event-fetcher-cache.sqlite
+        path: ~/.cache/event-fetcher-cache.sqlite
         key: "cache-requests-${{ github.run_id }}"
         restore-keys: "cache-requests-"
     - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -76,25 +108,16 @@ jobs:
         ref: ${{ github.head_ref }}
         persist-credentials: false
 
-    - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+    - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+      with:
+        activate-environment: true
     - name: Setup
       run: |
         git config --global init.defaultBranch main
         git config --global extensions.partialClone true
-        pip install .
-    - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
-      continue-on-error: true
-      with:
-        name: district
-        path: ${{ runner.temp }}/district
+        uv sync --frozen
     - name: Fetch updates
-      run: |
-        make clean
-        if [ -s "$RUNNER_TEMP/district/district.txt" ]; then
-          cp "$RUNNER_TEMP/district/district.txt" out/district.txt
-          echo "[DISTRICT] $(wc -l < out/district.txt) from self-hosted runner"
-        fi
-        make -s all
+      run: make clean && make -s all
     - name: Upload Artifacts
       uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
       id: upload
