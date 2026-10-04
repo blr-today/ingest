@@ -100,32 +100,6 @@
       "address": "Science Gallery, Bangalore",
       "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
     },
-    "startDate": "2026-10-04T16:30:00+05:30",
-    "endDate": "2026-10-04T18:00:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join our Experimentors, Deepak and Anusha, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en12",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Anusha YG"
-      },
-      {
-        "@type": "Person",
-        "name": "Deepak V S"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
     "startDate": "2026-10-10T16:30:00+05:30",
     "endDate": "2026-10-10T18:00:00+05:30",
     "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Sushma and Nidhi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
@@ -220,6 +194,29 @@
       {
         "@type": "Person",
         "name": "Suyash Kumar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "RECYCLERS: Urban Animation",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T17:00:00+05:30",
+    "description": "What happens when a wilted vegetable, a fallen leaf, or a forgotten spoon becomes a character?\n\nIn this hands-on stop-motion workshop, we\u2019ll turn found objects and organic waste into curious characters, strange creatures and animated stories. Using vegetables, plants, leaves, stones and everyday food-related objects, join Nikki Schuster in bringing together a  stop-motion animation\u2014turning the inanimate to life, one frame at a time.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=recyclers-urban-animation",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "12",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FStill2%20Medium.jpeg-1791109571458?alt=media&token=0b63885d-3530-4604-a763-f8aa3c220db5",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Nikki Schuster"
       }
     ]
   }
