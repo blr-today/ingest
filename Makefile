@@ -64,9 +64,8 @@ out/underline.jsonnet:
 out/underline.json: out/underline.jsonnet
 	python src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
 
-out/district.txt:
-	python -m src.sources.district | sort > $@ || $(call restore-file,$@)
-	echo "[DISTRICT] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/district.json:
+	python -m src.sources.district > $@ || (echo "FAIL $@" && echo '[]' > $@)
 
 out/artzo.txt:
 	python -m src.sources.artzo | sort > $@ || $(call restore-file,$@)
@@ -208,7 +207,7 @@ fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
  out/bic.ics \
- out/district.txt \
+ out/district.json \
  out/bhaagoindia.txt \
  out/scigalleryblr.json \
  out/goethe.json \

@@ -1,6 +1,11 @@
+import json
 import sys
 import curl_cffi
 import requests
+from common import USER_AGENT_HEADERS
+from common.jsonld import JsonLdExtractor
+from common.remote import find_event
+from common.session import get_cached_session
 
 URL = "https://www.district.in/gw/web/get_discovery_results"
 LAT, LNG = 12.9716, 77.5946
@@ -71,6 +76,20 @@ def events(node):
             yield from events(value)
 
 
+def page_event(session, url):
+    try:
+        r = session.get(url, headers=USER_AGENT_HEADERS, timeout=30)
+        data = JsonLdExtractor().extract(r.text)
+    except Exception as e:
+        log("failed", url, e)
+        return None
+    event = None
+    for x in data:
+        if x.get("@graph"):
+            event = event or find_event(x["@graph"])
+    return event or find_event(data)
+
+
 if __name__ == "__main__":
     slugs = set()
     for response in pages(requests.Session()):
@@ -78,5 +97,13 @@ if __name__ == "__main__":
             if event.get("city") in CITIES and event.get("event_slug"):
                 slugs.add(event["event_slug"])
     log(len(slugs), "Bengaluru events")
+    session = get_cached_session()
+    found = []
     for slug in sorted(slugs):
-        print(f"https://district.in/{slug}/event")
+        url = f"https://district.in/{slug}/event"
+        event = page_event(session, url)
+        if event:
+            event.setdefault("url", url)
+            found.append(event)
+    log(len(found), "pages had event data")
+    json.dump(found, sys.stdout, indent=2)
