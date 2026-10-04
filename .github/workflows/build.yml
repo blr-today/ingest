@@ -1,0 +1,118 @@
+name: Build
+
+on:
+  workflow_call:
+    inputs:
+      runs-on:
+        description: JSON runs-on value for the build job
+        required: true
+        type: string
+permissions: {}
+jobs:
+  update:
+    permissions:
+      contents: write
+    name: Update data
+    runs-on: ${{ fromJSON(inputs.runs-on) }}
+    steps:
+    # This needs to come before the checkout, since checkout depends on git
+    - name: Install Dependencies
+      if: runner.environment == 'github-hosted'
+      run: |
+        sudo apt-get update && sudo apt-get install --yes libnss3 nss-plugin-pem ca-certificates wget jq git build-essential unzip \
+        libatk1.0-0 libatk-bridge2.0-0 libcups2 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2 libatspi2.0-0
+        
+        sudo mkdir -p -m 755 /etc/apt/keyrings \
+        && wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null \
+        && sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+        && echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
+        && sudo apt update \
+        && sudo apt install gh -y
+
+        # TODO: Consider switching to https://github.com/lexiforest/curl-impersonate fork
+        wget "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O /tmp/curl-impersonate.tar.gz
+        echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
+        sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
+
+        wget "https://github.com/lightpanda-io/browser/releases/download/0.4.1/lightpanda-x86_64-linux" -O /tmp/lightpanda
+        echo "1d40801e72c0bc61b2cbd3f3562bcfc46de7b79e0568f33f686b64f2e587610a  /tmp/lightpanda" | sha256sum --check --status
+        sudo install -m 755 /tmp/lightpanda /usr/bin/lightpanda
+    - name: Install Dependencies (self-hosted)
+      if: runner.environment == 'self-hosted'
+      run: |
+        missing=""
+        for tool in git gh jq wget unzip gcc curl; do
+          command -v "$tool" > /dev/null || missing="$missing $tool"
+        done
+        if [ -n "$missing" ]; then
+          echo "::error::Missing on $RUNNER_NAME:$missing"
+          exit 1
+        fi
+        bin="$RUNNER_TOOL_CACHE/ingest-bin"
+        mkdir -p "$bin"
+        if [ ! -x "$bin/curl_chrome116" ]; then
+          wget -q "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O "$RUNNER_TEMP/curl-impersonate.tar.gz"
+          echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  $RUNNER_TEMP/curl-impersonate.tar.gz" | sha256sum --check --status
+          tar -xzf "$RUNNER_TEMP/curl-impersonate.tar.gz" -C "$bin"
+        fi
+        if [ ! -x "$bin/lightpanda" ]; then
+          wget -q "https://github.com/lightpanda-io/browser/releases/download/0.4.1/lightpanda-x86_64-linux" -O "$RUNNER_TEMP/lightpanda"
+          echo "1d40801e72c0bc61b2cbd3f3562bcfc46de7b79e0568f33f686b64f2e587610a  $RUNNER_TEMP/lightpanda" | sha256sum --check --status
+          install -m 755 "$RUNNER_TEMP/lightpanda" "$bin/lightpanda"
+        fi
+        echo "$bin" >> "$GITHUB_PATH"
+    - name: Cache Requests SQLite
+      # sel keeps its cache on disk between runs
+      if: runner.environment == 'github-hosted'
+      uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: ~/.cache/event-fetcher-cache.sqlite
+        key: "cache-requests-${{ github.run_id }}"
+        restore-keys: "cache-requests-"
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      name: Clone self repository
+      with:
+        ref: ${{ github.head_ref }}
+        persist-credentials: false
+
+    - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+      with:
+        activate-environment: true
+    - name: Setup
+      run: |
+        git config --global init.defaultBranch main
+        git config --global extensions.partialClone true
+        uv sync --frozen
+    - name: Fetch updates
+      run: make clean && make -s all
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+      id: upload
+      with:
+        name: events-db
+        path: |
+          events.db
+        if-no-files-found: error
+        retention-days: 1
+        overwrite: true
+
+    # Commit back some data so we can keep track of diffs
+    - name: Commit
+      env:
+        GH_TOKEN: ${{ github.token }}
+        ARTIFACT_URL: ${{ steps.upload.outputs.artifact-url }}
+        RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      run: |
+        git add --ignore-removal --update out/
+        git diff --cached --quiet && exit 0
+        git -c user.name='github-actions[bot]' \
+          -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+          commit -F - <<EOF
+        Automatic Updates 🤖
+
+        Database URL: $ARTIFACT_URL
+        Run: $RUN_URL
+        Workflow: $RUN_URL/workflow
+        EOF
+        gh auth setup-git
+        git push
