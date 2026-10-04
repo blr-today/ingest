@@ -1,3 +1,5 @@
+import sys
+import curl_cffi
 import requests
 
 URL = "https://www.district.in/gw/web/get_discovery_results"
@@ -12,13 +14,41 @@ HEADERS = {
     "x-user-lng": str(LNG),
 }
 LOCATION = {"user_lat": LAT, "user_lng": LNG, "gps_lat": LAT, "gps_lng": LNG}
+DEBUG_HEADERS = ("content-type", "server", "server-timing", "x-cache", "akamai-grn")
+
+
+def log(*args):
+    print("[DISTRICT]", *args, file=sys.stderr)
+
+
+def describe(client, r):
+    headers = {k: r.headers.get(k) for k in DEBUG_HEADERS if r.headers.get(k)}
+    log(client, r.status_code, len(r.content), "bytes", headers)
+
+
+def post(session, body):
+    r = session.post(URL, headers=HEADERS, json=body, timeout=30)
+    describe("requests", r)
+    try:
+        return r.json()
+    except ValueError:
+        log("non-JSON body:", r.text[:500])
+    r = curl_cffi.post(
+        URL, headers=HEADERS, json=body, timeout=30, impersonate="chrome"
+    )
+    describe("curl_cffi", r)
+    try:
+        return r.json()
+    except ValueError:
+        log("non-JSON body:", r.text[:500])
+        raise
 
 
 def pages(session, limit=300):
     body = {"location": LOCATION, "layout_type": "events_home_v2"}
-    for _ in range(limit):
-        data = session.post(URL, headers=HEADERS, json=body, timeout=30).json()
-        response = data["EDSResponse"]
+    for page in range(limit):
+        response = post(session, body)["EDSResponse"]
+        log("page", page, "has_more", response.get("has_more"))
         yield response
         if not response.get("has_more"):
             break
@@ -47,5 +77,6 @@ if __name__ == "__main__":
         for event in events(response.get("rails")):
             if event.get("city") in CITIES and event.get("event_slug"):
                 slugs.add(event["event_slug"])
+    log(len(slugs), "Bengaluru events")
     for slug in sorted(slugs):
         print(f"https://district.in/{slug}/event")
