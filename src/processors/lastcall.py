@@ -43,7 +43,8 @@ def capacity(event):
 
 
 def threshold(total):
-    return math.ceil(total * SHARE) if total else LIMIT
+    # A tenth works for big venues, but small events also count once mostly sold
+    return max(math.ceil(total * SHARE), min(LIMIT, total // 4)) if total else LIMIT
 
 
 def add(a, b):

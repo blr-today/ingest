@@ -21,6 +21,13 @@ def test_known_capacity_uses_a_tenth():
     assert tags({"keywords": [], "remainingAttendeeCapacity": 2, "maximumAttendeeCapacity": 20}) == ["LASTCALL"]
 
 
+def test_mid_capacity_uses_a_quarter_up_to_the_limit():
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 8, "maximumAttendeeCapacity": 45}) == ["LASTCALL"]
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 9, "maximumAttendeeCapacity": 45}) == []
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 3, "maximumAttendeeCapacity": 15}) == ["LASTCALL"]
+    assert tags({"keywords": [], "remainingAttendeeCapacity": 4, "maximumAttendeeCapacity": 15}) == []
+
+
 def test_small_capacity_rounds_up():
     assert tags({"keywords": [], "remainingAttendeeCapacity": 1, "maximumAttendeeCapacity": 6}) == ["LASTCALL"]
     assert tags({"keywords": [], "remainingAttendeeCapacity": 2, "maximumAttendeeCapacity": 6}) == []
