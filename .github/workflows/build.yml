@@ -7,12 +7,18 @@ on:
         description: JSON runs-on value for the build job
         required: true
         type: string
+    outputs:
+      built:
+        description: Whether events.db was uploaded
+        value: ${{ jobs.update.outputs.built }}
 permissions: {}
 jobs:
   update:
     permissions:
       contents: write
     name: Update data
+    outputs:
+      built: ${{ steps.upload.outputs.artifact-id != '' }}
     runs-on: ${{ fromJSON(inputs.runs-on) }}
     steps:
     # This needs to come before the checkout, since checkout depends on git
@@ -115,4 +121,6 @@ jobs:
         Workflow: $RUN_URL/workflow
         EOF
         gh auth setup-git
+        # Long builds and re-runs start from an older main
+        git pull --rebase -X theirs
         git push

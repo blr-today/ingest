@@ -51,7 +51,7 @@ jobs:
 
   fallback:
     needs: [runner, update]
-    if: ${{ failure() && contains(needs.runner.outputs.labels, 'sel') }}
+    if: ${{ failure() && contains(needs.runner.outputs.labels, 'sel') && needs.update.outputs.built != 'true' }}
     permissions:
       contents: write
     uses: ./.github/workflows/build.yml
@@ -60,7 +60,7 @@ jobs:
 
   release:
     needs: [update, fallback]
-    if: ${{ !cancelled() && (needs.update.result == 'success' || needs.fallback.result == 'success') && github.event_name == 'schedule' }}
+    if: ${{ !cancelled() && (needs.update.outputs.built == 'true' || needs.fallback.result == 'success') && github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     name: Release
     steps:
@@ -84,7 +84,7 @@ jobs:
         gh release create "v$VERSION" events.db --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
   publish:
     needs: [update, fallback]
-    if: ${{ !cancelled() && (needs.update.result == 'success' || needs.fallback.result == 'success') }}
+    if: ${{ !cancelled() && (needs.update.outputs.built == 'true' || needs.fallback.result == 'success') }}
     runs-on: ubuntu-latest
     name: Publish Website
     steps:
