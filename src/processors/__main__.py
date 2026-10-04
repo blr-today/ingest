@@ -7,7 +7,7 @@ import importlib
 import pkgutil
 import logging
 from typing import List, Type
-from .base import Processor
+from .base import DROP, Processor
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -70,6 +70,7 @@ def process_events():
     logger.info(f"Processing {len(events)} events")
 
     modified_count = 0
+    dropped_count = 0
 
     for rowid, url, event_json_str in events:
         try:
@@ -77,16 +78,24 @@ def process_events():
             original_event = json.dumps(event, sort_keys=True)
 
             # Process with each applicable processor
+            result = None
             for processor_class in processors:
                 if should_process_url(processor_class, url):
                     try:
                         result = processor_class.process(url, event)
+                        if result == DROP:
+                            break
                         if result is not None:
                             event = result
                     except Exception as e:
                         logger.error(
                             f"Error in processor {processor_class.__name__} for URL {url}: {e}"
                         )
+
+            if result == DROP:
+                cursor.execute("DELETE FROM events WHERE rowid = ?", (rowid,))
+                dropped_count += 1
+                continue
 
             # Check if event was modified
             if json.dumps(event, sort_keys=True) != original_event:
@@ -109,7 +118,9 @@ def process_events():
     conn.commit()
     conn.close()
 
-    logger.info(f"Processing complete. Modified {modified_count} events")
+    logger.info(
+        f"Processing complete. Modified {modified_count} events, dropped {dropped_count}"
+    )
 
 
 if __name__ == "__main__":
