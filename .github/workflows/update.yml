@@ -48,6 +48,8 @@ jobs:
     uses: ./.github/workflows/build.yml
     with:
       runs-on: ${{ needs.runner.outputs.labels }}
+    secrets:
+      TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
 
   fallback:
     needs: [runner, update]
@@ -57,6 +59,8 @@ jobs:
     uses: ./.github/workflows/build.yml
     with:
       runs-on: '"ubuntu-22.04"'
+    secrets:
+      TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
 
   release:
     needs: [update, fallback]

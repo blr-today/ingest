@@ -1,10 +1,10 @@
 import json
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from curl_cffi import requests
-from common.tz import IST
+from common.jev import ask, clock, end_clock, time_questions
+from typesafe_sdk import TypeSafeClient
 from bs4 import BeautifulSoup
 import re
-import datefinder
 
 BASE_URL = "https://www.pedalintandem.com"
 BLR_LOCATIONS = [
@@ -76,7 +76,7 @@ def fetch_events(event_links, session):
     return events
 
 
-def make_event(soup):
+def make_event(soup, client):
     event = soup[0]
     url = soup[1]
 
@@ -92,42 +92,32 @@ def make_event(soup):
     date_opts = offers_selector.select(
         'div.product-variations-variety select[name="variety_id"] option'
     )
-    for date_opt in date_opts:
-        # This date is not really reliable though
-        # so we use it to validate the event
-        # but don't publish it
-        if "data-booking-begin-at" not in date_opt.attrs:
-            continue
+    days = sorted(
+        {
+            datetime.strptime(opt.get_text().strip(), "%d-%b-%Y").date()
+            for opt in date_opts
+            if "data-booking-begin-at" in opt.attrs
+        }
+    )
+    days = [d for d in days if d >= date.today()]
+    if not days:
+        raise ValueError("no upcoming dates")
 
-        event_dates = list(
-            datefinder.find_dates(date_opt.get_text().strip(), base_date=datetime.now())
-        )
-        if len(event_dates) == 0:
-            raise ValueError(
-                f"Could not find date in {date_opt.get_text().strip()} for {url}"
-            )
-        # pick the first future date from event_dates
-        event_date = next((d for d in event_dates if d > datetime.now()), None)
-        event_timings = find_timings(duration, event_date, event)
-
-        # Starting time is always mentioned. So, there would be one element present in the dates
-        # Times found are naive local (IST) text, so tag rather than convert
-        start_date = event_timings[0].replace(tzinfo=IST).isoformat()
-
-        # If there are two datetime in dates then it has start and end time. If not we calculate using duration
-        if len(event_timings) == 2:
-            end_date = event_timings[1].replace(tzinfo=IST).isoformat()
-        else:
-            end_date = (
-                datetime.fromisoformat(start_date) + timedelta(hours=duration_in_hours)
-            ).isoformat()
-
-    # Fetch duration from timings if the duration_in_hours is set to 0
-    if duration_in_hours == 0:
-        duration_in_hours = (
-            datetime.fromisoformat(end_date).hour
-            - datetime.fromisoformat(start_date).hour
-        )
+    itinerary = event.select_one("div.text-box div.trix-content")
+    state = {
+        "ride": heading,
+        "duration": duration,
+        "itinerary": itinerary.get_text("\n", strip=True) if itinerary else "",
+        "description": event.select_one("div.trix-content div").get_text(
+            "\n", strip=True
+        ),
+    }
+    nouls, picks = ask(client, state, time_questions("the ride or session"))
+    start = clock(picks, "start")
+    if not start:
+        raise ValueError("no start time")
+    end = end_clock(nouls, picks)
+    length = timedelta(hours=duration_in_hours or 2)
 
     offers = get_offers(offers_selector)
 
@@ -142,19 +132,27 @@ def make_event(soup):
 
     description = event.select_one("div.trix-content div").get_text()
 
-    return {
-        "@context": "https://schema.org",
-        "@type": "SportsEvent",
-        "name": heading,
-        "sports": "Cycling",
-        "location": location,
-        "offers": offers,
-        "startDate": start_date,
-        "endDate": end_date,
-        "description": process_description(description) + "\n" + str(metrics),
-        "url": BASE_URL + url,
-        "keywords": [url.split("/")[2], "PEDALINTANDEM"],
-    }
+    events = []
+    for day in days:
+        begin = datetime.combine(day, start)
+        events.append(
+            {
+                "@context": "https://schema.org",
+                "@type": "SportsEvent",
+                "name": heading,
+                "sports": "Cycling",
+                "location": location,
+                "offers": offers,
+                "startDate": begin.isoformat(),
+                "endDate": (
+                    datetime.combine(day, end) if end else begin + length
+                ).isoformat(),
+                "description": process_description(description) + "\n" + str(metrics),
+                "url": BASE_URL + url + (f"#{day}" if len(days) > 1 else ""),
+                "keywords": [url.split("/")[2], "PEDALINTANDEM"],
+            }
+        )
+    return events
 
 
 def find_location(soup):
@@ -202,92 +200,6 @@ def find_location(soup):
         location["address"] = address
     return location
 
-
-def find_timings(duration, date, soup):
-    """
-    Extract timing information from various sources in the soup.
-
-    Args:
-        duration: String containing possible duration and time information
-        date: Date to associate with the extracted time
-        soup: BeautifulSoup object containing the HTML
-
-    Returns:
-        Parsed time from parse_time function
-    """
-    # Check if timing is in the duration string
-    if "," in duration:
-        timings_str = duration.split(",")[1].strip().lower()
-        possible_time = parse_time(timings_str, date)
-        if len(possible_time) > 0:
-            return possible_time
-
-    # Define sources to check for timing information
-    timing_sources = [
-        # Source 1: Check itinerary in text-box
-        {
-            "selector": "div.text-box div.trix-content li",
-            "patterns": [
-                # "Meet at [X?], by 3 pm" pattern
-                (r"\s+([^\.,]+(?:\d\s+am|pm|AM|PM))", "meet at"),
-                # "Meeting time: 6:30 am" pattern
-                (r"meeting\s+time:?\s+([^\.,]+(?:am|pm|AM|PM))", None),
-            ],
-        },
-        # Source 2: Check description
-        {
-            "selector": "div.description div.description-style div.trix-content div",
-            "patterns": [
-                # "time: 8:30 am" pattern
-                (r"time:?\s+([^\.,]+(?:am|pm|AM|PM))", None)
-            ],
-        },
-        # Source 3: text-box content without <li> (plain div layout, e.g. cycle-school)
-        {
-            "selector": "div.text-box div.trix-content div",
-            "patterns": [
-                (r"time:?\s+([^\.,]+(?:am|pm|AM|PM))", None)
-            ],
-        },
-    ]
-
-    # Check each source for timing information
-    for source in timing_sources:
-        for element in soup.select(source["selector"]):
-            text = element.get_text().strip().lower()
-
-            for pattern, flag in source["patterns"]:
-                # If flag is None or the flag text is in the content
-                if flag is None or flag in text:
-                    matches = re.search(pattern, text)
-                    if matches:
-                        return parse_time(matches.group(1), date)
-
-    # If no timing was found, raise an exception
-    raise ValueError(
-        "Could not find timing information in any of the expected locations"
-    )
-
-
-def parse_time(timings, event_date):
-    # We pass event date to get the correct date time of event
-    for splitter in ["to", "-"]:
-        if splitter in timings:
-            timings = timings.replace(f"{splitter}", " to ")
-
-    # Convert the timings from "hh to hh pm" to "hh:mm to hh:mm pm" format for datefinder to work properly.
-    if bool(re.search(r"\d+\s+to\s+\d+[\s]*.m", timings)):
-        match = re.match(r"(\d+)\s+to\s+(\d+)[\s]*(am|pm)", timings)
-        start_time, end_time, period = match.groups()
-
-        timings = re.sub(r"\d+\s+to", f"{start_time}:00 to", timings, count=1)
-        timings = re.sub(r"to\s+\d+", f"to {end_time}:00", timings, count=1)
-
-    # Convert to "hh:mm pm to hh:mm pm". Otherwise it takes first time as am
-    if "am" not in timings and timings.count("pm") == 1:
-        timings = timings.replace("to", "pm to")
-
-    return list(datefinder.find_dates(timings, base_date=event_date))
 
 def convert_duration_in_hours(duration):
     duration_range = duration.split(",")[0]
@@ -346,11 +258,12 @@ def main():
     events_data = fetch_events(event_links, session)
 
     events = []
-    for event_data in events_data:
-        try:
-            events.append(make_event(event_data))
-        except ValueError as e:
-            print(f"[PIT] {event_data[1]} skipped, {e}")
+    with TypeSafeClient() as client:
+        for event_data in events_data:
+            try:
+                events.extend(make_event(event_data, client))
+            except ValueError as e:
+                print(f"[PIT] {event_data[1]} skipped, {e}")
 
     with open("out/pedalintandem.json", "w") as f:
         json.dump(events, f, indent=2)

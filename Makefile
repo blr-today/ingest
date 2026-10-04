@@ -148,6 +148,9 @@ out/pumarun.txt:
 	python -m src.sources.eventbrite pumarun | sort > $@ || $(call restore-file,$@)
 	echo "[PUMARUN] $$(wc -l $@ | cut -d ' ' -f 1)"
 
+out/bbb.json:
+	python -m src.sources.bbb || $(call restore-file,$@)
+
 out/hsrmeetups.txt:
 	python -m src.sources.eventbrite hsrmeetups | sort > $@ || $(call restore-file,$@)
 	echo "[HSRMEETUPS] $$(wc -l $@ | cut -d ' ' -f 1)"
@@ -233,6 +236,7 @@ fetch: out/allevents.txt \
  out/bcc.json \
  out/pumarun.txt \
  out/hsrmeetups.txt \
+ out/bbb.json \
  out/tpcc.json \
  out/skillboxes.json \
  out/thewhitebox.json \

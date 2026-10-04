@@ -7,6 +7,10 @@ on:
         description: JSON runs-on value for the build job
         required: true
         type: string
+    secrets:
+      TYPESAFE_JEV_API_KEY:
+        description: TypeSafe key for sources that use Jev
+        required: false
     outputs:
       built:
         description: Whether events.db was uploaded
@@ -90,6 +94,8 @@ jobs:
         git config --global extensions.partialClone true
         uv sync --frozen
     - name: Fetch updates
+      env:
+        TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
       run: make clean && make -s all
     - name: Upload Artifacts
       uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
