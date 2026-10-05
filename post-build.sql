@@ -1114,6 +1114,56 @@ WHERE
   );
 
 
+-- Venues still to be announced carry made-up coordinates, so drop them
+UPDATE events
+SET
+  event_json = json_remove(event_json, '$.location.geo')
+WHERE
+  json_type(event_json, '$.location') = 'object'
+  AND (
+    event_json ->> '$.location.name' LIKE '%to be announced%'
+    OR event_json ->> '$.location.name' LIKE '%to be decided%'
+    OR lower(event_json ->> '$.location.name') IN ('tba', 'tbd', 'venue tba', 'venue tbd')
+  );
+
+
+-- Pin venues whose sources carry no coordinates, so listings share one point
+WITH
+  venue(pattern, lat, lng) AS (
+    VALUES
+      ('bangalore international cent%', 12.9666826, 77.6352903),
+      ('%science gallery bengaluru', 13.025262, 77.5849359),
+      ('lavonne academy', 12.966835, 77.636901),
+      ('hive club, thanisandra', 13.061936, 77.635726),
+      ('sufc, ulsoor', 12.98173, 77.614347),
+      ('cubbon park', 12.974253, 77.592191),
+      ('rush arena', 13.003556, 77.626499),
+      ('st. joseph''s arts and science college', 12.962879, 77.5968),
+      ('the shri ram universal school, jakkur', 13.088071, 77.624833),
+      ('adidas store indiranagar', 12.964732, 77.641907),
+      ('hsr agara lake%', 12.920174, 77.641824)
+  ),
+  pin(id, lat, lng) AS (
+    SELECT events.rowid, lat, lng FROM events, venue
+    WHERE
+      json_type(event_json, '$.location') = 'object'
+      AND event_json ->> '$.location.name' LIKE pattern
+  )
+UPDATE events
+SET
+  event_json = json_set(
+    event_json,
+    '$.location.geo',
+    json_object(
+      '@type', 'GeoCoordinates',
+      'latitude', (SELECT lat FROM pin WHERE id = events.rowid),
+      'longitude', (SELECT lng FROM pin WHERE id = events.rowid)
+    )
+  )
+WHERE
+  rowid IN (SELECT id FROM pin);
+
+
 -- Events no address rule placed fall back to rough boxes on coordinates
 WITH
   area(tag, south, west, north, east) AS (
