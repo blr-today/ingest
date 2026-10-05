@@ -230,6 +230,59 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Italian Cooking Workshop",
+    "description": "*INCLUDES GOURMET LUNCH**BEGINNER AND VEGETARIAN FRIENDLY*Step into a relaxed, home-style Italian cooking workshop where Chef Natasha Celmi shares recipes passed down through her family. This workshop focuses on simple, comforting dishes \u2014 from classic appetizers to slow-cooked mains and a traditional dessert.Learn how to build flavour the Italian way, working with fresh ingredients and everyday techniques that can be easily recreated at home. From preparing a rich, signature white sauce to assembling baked dishes and finishing with a Almond Panacotta , the session is designed to be hands-on, approachable, and rooted in authentic home cooking.Menu:Stuffed Zucchini Rolls Orange beetroot feta salad Chef\u2019s signature veg lasagna Healthy veg Bolognese sauceLow-fat white sauce Rosemary Roast Vegetables Coffee Almond Pannacotta",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/DC47D01F6C6E41E190174430D0C57F04_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/835608954DB64B0198495E59224E6249_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/117F7EAA32ED4CE4BDF637B6A92D1EF0_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/54698BAB22D8443BA22B4A395B046B3D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7F9AB5B34D474E33A617B8C9CE4056FB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9A8AD7222D6A423E931693C86111F6DC_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8D933976997C42A19FACF1FD45EDAD00_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D542AE3324704C37824148C464798A9E_converted_webp.webp"
+    ],
+    "startDate": "2026-10-08T11:00:00+05:30",
+    "endDate": "2026-10-08T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672959,
+        "longitude": 77.642634
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canella Studio",
+      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
+      "url": "https://urbanaut.app/partner/canellastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/italian-cooking-workshop",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Tabletop Thursday with ReRoll Board Games",
     "description": "We're here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!You don\u2019t need to have any experience with these kinds of board games before\u2014we love introducing people to new ones! We\u2019ll help you pick a game, set it up, and explain the rules.You can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases while making some friends in the process.Come solo, with a date, or in a group\u2014we've got something for everyone!Who are ReRoll Board Games?We\u2019re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We\u2019ve been doing this part-time for almost nine years now.",
@@ -5731,50 +5784,6 @@
     "keywords": [
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Understanding Transitions",
-    "description": "Midlife can bring change across many parts of our lives work, relationships, identity, health, priorities, and how we imagine the future. But not everything needs to change.This conversation invites us to pause and look more closely at our transitions: What is changing? What is staying steady? And how do we navigate the space between the two?Together, we will explore how to make sense of transitions in midlife, distinguish between changes we can influence and those we need to respond to, and find greater clarity about what we want to carry forward and what we might want to leave behind.Join us for a thoughtful, open conversation about understanding your own transitions and finding your way forward.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/96A15C5CBF0941658754C5EFB62DC14E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-13T18:00:00+05:30",
-    "endDate": "2026-10-13T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9628957,
-        "longitude": 77.57754
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 199.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zuva Life",
-      "description": "Zuva Life offers spaces for people in midlife to pause, reflect, and think through what comes next. Our workshops and small group experiences are designed for those navigating shifts in work, identity, and direction, combining reflection with a thoughtful approach to what comes next.",
-      "url": "https://urbanaut.app/partner/zuvalife",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/transitions-in-midlife",
-    "keywords": [
-      "Virtual",
       "URBANAUT"
     ]
   }
