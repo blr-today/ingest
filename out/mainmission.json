@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Sunday Lore 5K | OCT 11",
+    "startDate": "2026-10-11T07:00:00+05:30",
+    "endDate": "2026-10-11T09:00:00+05:30",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "url": "https://mainmission.in/#/events/AozzYFx3LVhp6exQX4dt",
+    "location": {
+      "@type": "Place",
+      "name": "Cubbon Park",
+      "address": "Cubbon Park, Bengaluru, Karnataka, India"
+    },
+    "isAccessibleForFree": true,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mainmission.in/#/events/AozzYFx3LVhp6exQX4dt"
+      }
+    ],
+    "organizer": {
+      "@type": "Organization",
+      "name": "Main Mission",
+      "url": "https://mainmission.in"
+    },
+    "description": "<h2><strong>Sunday Lore: The Weekly Chapter (Invite Only)</strong></h2><p><strong>POV:</strong> The morning air is sharp, the vibe is electric, and you're exactly where you need to be to kick off the week.</p><p>Welcome to <strong>Sunday Lore</strong>, our weekly ritual where the community matters more than the pace. This isn't just another workout; it’s our space to reset, reconnect, and write the next chapter of our journey together.</p><h3><strong>The Mission: New Beginnings</strong></h3><p>This week, we’re all about the \"Day One.\" You know that person who’s been saying they’ll start running \"eventually\"? This is their formal invitation. Drag your roommate, your best friend, or that colleague out of bed, we’re making sure nobody runs alone.</p><h3><strong>What’s on the Menu?</strong></h3><ul><li><p><strong>Your First 5K:</strong> Expect a full hype squad to cheer you across the line.</p></li><li><p><strong>Just the Vibes:</strong> As always, the energy is unmatched.</p></li></ul><h3><strong>Who Are We?</strong></h3><p>We are <strong>Main Mission</strong> (the crew formerly known as <em>Indiranagar Run Club</em>). We believe the best miles are the ones shared with friends. Come for the run, stay for the community and yes, the <strong>post-run coffee</strong> is on us.</p>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fmc-43566484-d5f6d.firebasestorage.app/o/events%2FEaXsj6Tk8gCOTI0ffxJ1%2FDSC09280_VSCO_high.jpg?alt=media&token=d30033e9-5a23-4681-b28e-eba075049e0e",
+    "keywords": [
+      "5k",
+      "Beginner-friendly",
+      "Fun",
+      "Community"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "FormLab by MM (In-Person Session) | OCT 11",
+    "startDate": "2026-10-11T12:00:00+05:30",
+    "endDate": "2026-10-11T14:00:00+05:30",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "url": "https://mainmission.in/#/events/qkLFFge9qyshYxoxJoLq",
+    "location": {
+      "@type": "Place",
+      "name": "Woohoo Health Club",
+      "address": "Woohoo Health Club, Bengaluru, Karnataka, India"
+    },
+    "isAccessibleForFree": true,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mainmission.in/#/events/qkLFFge9qyshYxoxJoLq"
+      }
+    ],
+    "organizer": {
+      "@type": "Organization",
+      "name": "Main Mission",
+      "url": "https://mainmission.in"
+    },
+    "description": "<h2><strong>ABOUT THIS EVENT</strong></h2><p>FormLab is an in-person, AI-powered running assessment designed to help you decode your biomechanics and run smarter. You should come because even small tweaks to your form can drastically improve your running economy, reduce the risk of injury, and help you break through plateaus without guessing what&#39;s wrong.</p><h2><strong>WHAT TO EXPECT</strong></h2><h3><strong>Strap In:</strong></h3><p>Step onto the treadmill for a quick, natural 3-minute run.</p><h3><strong>AI Video Capture:</strong></h3><p>Advanced AI records and analyzes your movement in real time, tracking metrics like your cadence, knee angles, and stride.</p><h3><strong>The Report &amp; One Fix:</strong></h3><p>Walk away with a comprehensive report highlighting your metrics and, most importantly, the one thing you need to focus on during your next session.</p><h2><strong>WHO IS THIS FOR</strong></h2><h3><strong>Target Audience:</strong></h3><p>Runners of all levels—whether you are a beginner looking to build a safe foundation or an experienced runner trying to optimize your speed and efficiency.</p><h3><strong>Requirements &amp; Restrictions:</strong></h3><p>This is an in-person session held at Woohoo Health Club, capped at strictly 20 slots only to ensure personalized attention.</p><h2><strong>WHAT&#39;S INCLUDED</strong></h2><h3><strong>3-Minute Treadmill Run:</strong></h3><p>A dedicated slot to run on a treadmill while your movement is recorded.</p><h3><strong>Detailed AI Biomechanics Report:</strong></h3><p>Instant data covering your cadence, knee angles at contact, trunk lean, and overstride metrics.</p>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fmc-43566484-d5f6d.firebasestorage.app/o/events%2FqkLFFge9qyshYxoxJoLq%2FScreenshot%202026-10-05%20192220_high.png?alt=media&token=cf4154fa-d8fe-44e0-8698-9e626f3f23b7",
+    "keywords": [
+      "Your One Fix",
+      "AI Form Analysis"
+    ]
+  }
+]
