@@ -878,7 +878,7 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'CURATED')
   )
 WHERE
-  event_json ->> '$.organizer.name' LIKE 'HSR meetups'
+  event_json -> '$.keywords' LIKE '%"HSRMEETUPS"%'
   AND (
     event_json ->> '$.name' LIKE '%board%gam%'
     OR event_json ->> '$.description' LIKE '%board%gam%'
@@ -1300,6 +1300,13 @@ SET
 WHERE
   event_json ->> '$.keywords' LIKE '%"TPCC"%'
   AND coalesce(event_json ->> '$.@type', '') != 'LiteraryEvent';
+
+-- HSR Meetups only runs board game and social deduction nights
+UPDATE events
+SET
+  event_json = json_set(event_json, '$.@type', 'SocialEvent')
+WHERE
+  event_json -> '$.keywords' LIKE '%"HSRMEETUPS"%';
 
 -- Eleven AM Club runs recurring make-and-chat sessions
 UPDATE events

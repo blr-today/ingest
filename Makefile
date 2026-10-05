@@ -151,9 +151,8 @@ out/pumarun.txt:
 out/bbb.json:
 	python -m src.sources.bbb || $(call restore-file,$@)
 
-out/hsrmeetups.txt:
-	python -m src.sources.eventbrite hsrmeetups | sort > $@ || $(call restore-file,$@)
-	echo "[HSRMEETUPS] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/hsrmeetups.json:
+	python -m src.sources.meetup hsrmeetups || $(call restore-file,$@)
 
 # we just do a minimal transform to remove extra bits we don't need
 out/tpcc.jsonnet:
@@ -235,7 +234,7 @@ fetch: out/allevents.txt \
  out/sistersinsweat.json \
  out/bcc.json \
  out/pumarun.txt \
- out/hsrmeetups.txt \
+ out/hsrmeetups.json \
  out/bbb.json \
  out/tpcc.json \
  out/skillboxes.json \
