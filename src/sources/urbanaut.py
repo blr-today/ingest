@@ -138,8 +138,17 @@ def make_event(x):
                         if x.get("google_place_id")
                         else {}
                     ),
-                    "latitude": x["lat"],
-                    "longitude": x["lng"],
+                    **(
+                        {
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": float(x["lat"]),
+                                "longitude": float(x["lng"]),
+                            }
+                        }
+                        if x.get("lat") and x.get("lng")
+                        else {}
+                    ),
                 },
                 "eventAttendanceMode": "OfflineEventAttendanceMode",
                 "eventStatus": "EventScheduled",
