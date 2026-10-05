@@ -11,6 +11,9 @@ on:
       TYPESAFE_JEV_API_KEY:
         description: TypeSafe key for sources that use Jev
         required: false
+      GRAFANA_INFLUX_TOKEN:
+        description: Grafana Cloud token for pushing build metrics
+        required: false
     outputs:
       built:
         description: Whether events.db was uploaded
@@ -25,6 +28,8 @@ jobs:
       built: ${{ steps.upload.outputs.artifact-id != '' }}
     runs-on: ${{ fromJSON(inputs.runs-on) }}
     steps:
+    - name: Record start time
+      run: echo "BUILD_START=$(date +%s)" >> "$GITHUB_ENV"
     # This needs to come before the checkout, since checkout depends on git
     - name: Install Dependencies
       if: runner.environment == 'github-hosted'
@@ -107,6 +112,16 @@ jobs:
         if-no-files-found: error
         retention-days: 1
         overwrite: true
+
+    - name: Push metrics
+      if: ${{ !cancelled() && github.ref == 'refs/heads/main' }}
+      env:
+        BUILD_STATUS: ${{ job.status }}
+        RUNNER_ENVIRONMENT: ${{ runner.environment }}
+        GRAFANA_INFLUX_URL: ${{ vars.GRAFANA_INFLUX_URL }}
+        GRAFANA_INFLUX_USER: ${{ vars.GRAFANA_INFLUX_USER }}
+        GRAFANA_INFLUX_TOKEN: ${{ secrets.GRAFANA_INFLUX_TOKEN }}
+      run: python3 src/metrics.py
 
     # Commit back some data so we can keep track of diffs
     - name: Commit

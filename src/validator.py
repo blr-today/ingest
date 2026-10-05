@@ -356,6 +356,7 @@ def validate_all_events(output_file: str = None, verbose: bool = False):
             json.dump(
                 {
                     "stats": stats,
+                    "unsupported_image_hosts": len(image_hosts or []),
                     "results": [
                         {
                             "url": result.url,

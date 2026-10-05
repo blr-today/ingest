@@ -50,6 +50,7 @@ jobs:
       runs-on: ${{ needs.runner.outputs.labels }}
     secrets:
       TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+      GRAFANA_INFLUX_TOKEN: ${{ secrets.GRAFANA_INFLUX_TOKEN }}
 
   fallback:
     needs: [runner, update]
@@ -61,6 +62,7 @@ jobs:
       runs-on: '"ubuntu-22.04"'
     secrets:
       TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+      GRAFANA_INFLUX_TOKEN: ${{ secrets.GRAFANA_INFLUX_TOKEN }}
 
   release:
     needs: [update, fallback]
