@@ -550,7 +550,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -775,7 +775,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 172,
+    "remainingAttendeeCapacity": 162,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -846,7 +846,7 @@
     "name": "\u0936\u0942\u0928\u094d\u092f \u0936\u093f\u0916\u0930 - Shoonya Shikhar",
     "description": "Shoonya \u2014 emptiness, the zero, the point past which nothing further needs saying \u2014 is where this evening is headed. Rather than build to a peak, this is a night that quietens, note by note, until only stillness remains.Vedanth Bharadwaj and Gurupriya Atreya begin. They start with the Bhakti poets, songs that still have some movement and argument in them, lullabies from across the world and then turn gradually towards gentler pieces, the kind that ask the room to lean in rather than sit back.Mir Rajak and Group follow, Mirasi musicians from Pugal in Rajasthan, whose families have sung the Sufiyana kalam for generations. Their music is often full-throated, built for courtyards and long nights. Tonight they sing Kabir, Bulleh Shah and other Sufi poets in its softer, more inward register, the way these songs are sung when the gathering is small and no one is in a hurry.By the end, if it works, the last note will not feel like a finish. It will feel like the room has simply gone quiet.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/99B6D800431A477FAF2A4383D3352B7B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/36615B46CCFF4C84984DF8AB2BB67D6A_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/67CA38799AC649A6B310FC240E117733_converted_webp.webp"
     ],
     "startDate": "2026-10-24T19:00:00+05:30",
@@ -861,7 +861,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 126,
+    "remainingAttendeeCapacity": 125,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -904,7 +904,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 107,
+    "remainingAttendeeCapacity": 106,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1037,7 +1037,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1062,47 +1062,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Metta Practice",
-    "description": "Monday Morning VipassanaBegin the week in silence and stillness.A shared morning meditation for Vipassana practitioners, creating space to sit together, return to the practice, and begin the week with awareness and equanimity.For old students who have completed a 10 day course only.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5F39BFA5A2494D6FAA1758AC600DE97D_converted_webp.webp"
-    ],
-    "startDate": "2026-10-05T06:30:00+05:30",
-    "endDate": "2026-10-05T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/metta-practice",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Music Jam",
     "description": "Bring an instrument, bring your curiosity, and make some beautiful noise together.A playful, open jam for exploring sounds, rhythms and instruments you don't hear every day. No setlist, no pressure, no Bollywood, pop, or reel music: just musicians listening, experimenting and building something together.Come to play, listen, improvise or discover.",
     "image": [
@@ -1120,7 +1079,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1604,7 +1563,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 135,
+    "remainingAttendeeCapacity": 134,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1728,7 +1687,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2909,47 +2868,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bangalore Readers Community - Reading Session #1",
-    "description": "Welcome to the Reading Session by Bangalore Readers Community! This is a space for people who love to read \u2014 not a book club with assigned reading, not a discussion group you're obligated to speak in. Just a quiet, comfortable space to read your own book, surrounded by other readers.What to expect:The first 1.5 hours are for silent reading. Bring any book you're currently reading \u2014 fiction, non-fiction, poetry, whatever you're into. Find a comfortable spot, order your coffee, and read at your own pace alongside other members.The last 30 minutes are for conversation \u2014 entirely optional. If you'd like to talk about what you're reading, you're welcome to do so. Or you can just listen to what others share. No pressure.Come alone or with a friend. Many of our members are meeting fellow readers for the first time \u2014 it's a relaxed, low-stakes way to be around people who enjoy books as much as you do.What to bring:Just your book (or e-reader/Kindle). No assigned reading, no reading schedule to catch up on.A few things to know:Entry by RSVP only, no walk-ins allowed.Spots are limited, so an RSVP here reserves your place.The event is free but we encourage you to place a food or drink order at the cafe.Come spend a quiet Saturday morning doing something you probably don't make enough time for \u2014 reading, uninterrupted, in good company.And follow us on Instagram here: https://www.instagram.com/bangalorereaderscommunity/See you at the event! \ud83d\udcd6",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-10T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "28, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-      "latitude": "12.93173920000000000000",
-      "longitude": "77.63259680000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 3,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Readers Community",
-      "description": "A community for readers in Koramangala. We meet to sit and read our own books in comfortable silence, then talk about what we're reading \u2014 entirely optional. No assigned books, no pressure. Just readers, together.",
-      "url": "https://urbanaut.app/partner/brc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/brc-reading-session-1",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Au Hasard Balthazar by Robert Bresson - TPCC",
     "description": "The story of a donkey Balthazar as he is passed from owner to owner, some kind and some cruel but all with motivations beyond his understanding. Balthazar, whose life parallels that of his first keeper, Marie, is truly a beast of burden, suffering the sins of humankind. But despite his powerlessness, he accepts his fate nobly.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
     "image": [
@@ -3174,7 +3092,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3616,7 +3534,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3708,7 +3626,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4893,6 +4811,555 @@
     "url": "https://urbanaut.app/spot/mezzeandmingle",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Money Matters with Little Legends Lab",
+    "description": "Money lessons aren't just for grown-ups! \ud83d\udcb8Money Matters is a fun, hands-on financial literacy experience designed to introduce children to the basics of money, spending, saving, budgeting, and smart decision-making.Through stories, interactive activities, teamwork, and real-life scenarios, children explored how to make thoughtful choices with money. The session comes to life with a final supermarket challenge, where little shoppers are given a fixed budget and have to set priorities, weigh their options, and decide what is truly worth spending on.Because financial literacy isn't just an adult skill \u2014 learning how to make smart choices with money is a life skill, and it's never too early to start! \ud83c\udf1fAbout Priyanka AgarwalWith 15 years of experience in an investment bank, Priyanka brings real-world financial expertise into the world of children. Through Little Legends Lab, she makes understanding money easy-peasy, engaging and relatable.Her goal is simple: to help children understand money, saving, spending, smart choices and growing their money\u2014in ways that are practical, fun and easy to remember.Because financial confidence is a life skill, and it\u2019s never too early to start building it.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8C6EB33D21CF4AD6A627138D830055AE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/32C7A4BFAC0F4C2BA1D1CEEF541BF9D6_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F51C866FCCD849D794966F96AFC045E8_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/751C27243398430ABF3E96B407028425_converted_webp.webp"
+    ],
+    "startDate": "2026-10-14T16:00:00+05:30",
+    "endDate": "2026-10-14T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "latitude": "12.96078240000000000000",
+      "longitude": "77.63721450000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 898.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/corospace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/moneymatters#2026-10-14T1600",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Money Matters with Little Legends Lab",
+    "description": "Money lessons aren't just for grown-ups! \ud83d\udcb8Money Matters is a fun, hands-on financial literacy experience designed to introduce children to the basics of money, spending, saving, budgeting, and smart decision-making.Through stories, interactive activities, teamwork, and real-life scenarios, children explored how to make thoughtful choices with money. The session comes to life with a final supermarket challenge, where little shoppers are given a fixed budget and have to set priorities, weigh their options, and decide what is truly worth spending on.Because financial literacy isn't just an adult skill \u2014 learning how to make smart choices with money is a life skill, and it's never too early to start! \ud83c\udf1fAbout Priyanka AgarwalWith 15 years of experience in an investment bank, Priyanka brings real-world financial expertise into the world of children. Through Little Legends Lab, she makes understanding money easy-peasy, engaging and relatable.Her goal is simple: to help children understand money, saving, spending, smart choices and growing their money\u2014in ways that are practical, fun and easy to remember.Because financial confidence is a life skill, and it\u2019s never too early to start building it.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8C6EB33D21CF4AD6A627138D830055AE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/32C7A4BFAC0F4C2BA1D1CEEF541BF9D6_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F51C866FCCD849D794966F96AFC045E8_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/751C27243398430ABF3E96B407028425_converted_webp.webp"
+    ],
+    "startDate": "2026-10-21T16:00:00+05:30",
+    "endDate": "2026-10-21T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "latitude": "12.96078240000000000000",
+      "longitude": "77.63721450000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 898.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/corospace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/moneymatters#2026-10-21T1600",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-10T19:00:00+05:30",
+    "endDate": "2026-10-10T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-10T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-11T19:00:00+05:30",
+    "endDate": "2026-10-11T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-11T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-12T19:00:00+05:30",
+    "endDate": "2026-10-12T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-12T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-13T19:00:00+05:30",
+    "endDate": "2026-10-13T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-13T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-14T19:00:00+05:30",
+    "endDate": "2026-10-14T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-14T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-15T19:00:00+05:30",
+    "endDate": "2026-10-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-15T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-16T19:00:00+05:30",
+    "endDate": "2026-10-16T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-16T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-17T19:00:00+05:30",
+    "endDate": "2026-10-17T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-17T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-18T19:00:00+05:30",
+    "endDate": "2026-10-18T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-18T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-19T19:00:00+05:30",
+    "endDate": "2026-10-19T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special#2026-10-19T1900",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Transitions in Midlife",
+    "description": "Midlife can bring change across many parts of our lives work, relationships, identity, health, priorities, and how we imagine the future. But not everything needs to change.This conversation invites us to pause and look more closely at our transitions: What is changing? What is staying steady? And how do we navigate the space between the two?Together, we will explore how to make sense of transitions in midlife, distinguish between changes we can influence and those we need to respond to, and find greater clarity about what we want to carry forward and what we might want to leave behind.Join us for a thoughtful, open conversation about understanding your own transitions and finding your way forward.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/935C9C2BE5344CD4AAC0F4DAA4EE1381_converted_webp.webp"
+    ],
+    "startDate": "2026-10-13T18:00:00+05:30",
+    "endDate": "2026-10-13T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "latitude": "12.96289570000000000000",
+      "longitude": "77.57754000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 199.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "Zuva Life offers spaces for people in midlife to pause, reflect, and think through what comes next. Our workshops and small group experiences are designed for those navigating shifts in work, identity, and direction, combining reflection with a thoughtful approach to what comes next.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/transitions-in-midlife",
+    "keywords": [
+      "Virtual",
       "URBANAUT"
     ]
   }
