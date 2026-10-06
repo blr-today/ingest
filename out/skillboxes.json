@@ -1,6 +1,115 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "LVDS Bootcamp\r\n\r\n \r\n\r\n🔥 READY TO LEVEL UP YOUR SOCIAL JIVE?\r\n\r\n \r\n\r\nJoin Lourd Vijay for a high-energy 4-hour Social Jive Bootcamp — technique, styling, combinations, musicality and loads of dancing. ",
+      "endDate": "2026-10-10T13:30:00",
+      "identifier": "com.skillboxes.42142",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791281866eV05AoeJAR6c9qU4.jpeg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5th floor, 35, Cunningham Road, Chaman Business Centre, Ali Asker Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9865712",
+            "longitude": "77.595031"
+         },
+         "name": "Lourd Vijay’s Dance Studio - LVDS"
+      },
+      "name": "LVDS Bootcamp",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/lvds-bootcamp-sbkxopsk"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/lvds-bootcamp-sbkxopsk"
+         }
+      ],
+      "startDate": "2026-10-10T09:30:00",
+      "url": "https://www.skillboxes.com/events/lvds-bootcamp-sbkxopsk"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Rock n Roll Halloween party",
+      "endDate": "2026-10-31T23:55:00",
+      "identifier": "com.skillboxes.42136",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791277283fJUz1a2aAaTIAQFk.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Halloween 2026"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No. 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313404",
+            "longitude": "77.6330762"
+         },
+         "name": "The Beer Café"
+      },
+      "name": "Western Express Highway’s",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Pass",
+            "url": "https://www.skillboxes.com/events/ticket/western-express-highway-s-sbkklfym"
+         }
+      ],
+      "startDate": "2026-10-31T19:30:00",
+      "url": "https://www.skillboxes.com/events/western-express-highway-s-sbkklfym"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "F1 Singapore Grand Prix | Live Screening |Hardrock Cafe, MG Road, Bangalore.Date -   11th October",
+      "endDate": "2026-10-11T23:59:00",
+      "identifier": "com.skillboxes.42133",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791275344fz3ikFmOwgDSH2Q3.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9761788",
+            "longitude": "77.6015427"
+         },
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "F1 Singapore Grand Prix | Live Screening | Hardrock Cafe, MG Road, Bangalore.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 120,
+            "name": "Single Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/f1-singapore-grand-prix-live-screening-hardrock-cafe-mg-road-bangalore-sbkdwobn"
+         }
+      ],
+      "startDate": "2026-10-11T20:30:00",
+      "url": "https://www.skillboxes.com/events/f1-singapore-grand-prix-live-screening-hardrock-cafe-mg-road-bangalore-sbkdwobn"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "A Retro Musical Celebration.",
       "endDate": "2026-10-11T19:00:00",
