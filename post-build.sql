@@ -619,7 +619,7 @@ WHERE
   AND event_json LIKE '%screening%';
 
 
--- Too Many Dandiya events, so we tag them out.
+-- Too many Navratri nights (dandiya, garba), so we tag them out, but keep dance lessons and kids' events.
 UPDATE events
 SET
   event_json = json_replace(
@@ -628,7 +628,36 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'DANDIYA')
   )
 WHERE
-  event_json LIKE '%dandiya%';
+  (
+    event_json LIKE '%dandiya%'
+    OR event_json ->> '$.name' LIKE '%garba%'
+    OR event_json ->> '$.name' LIKE '%navratri%'
+    OR event_json ->> '$.name' LIKE '%navaratri%'
+    OR event_json ->> '$.name' LIKE '%navartri%'
+    OR event_json ->> '$.name' LIKE '%rock n dhol%'
+  )
+  AND event_json ->> '$.name' NOT LIKE '%workshop%'
+  AND event_json ->> '$.name' NOT LIKE '% class'
+  AND event_json ->> '$.name' NOT LIKE '% class %'
+  AND event_json ->> '$.name' NOT LIKE '%classes%'
+  AND event_json ->> '$.name' NOT LIKE '%lesson%'
+  AND event_json ->> '$.@type' != 'EducationEvent'
+  AND event_json NOT LIKE '%playdate%';
+
+-- Durga Puja pandals and celebrations
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  event_json LIKE '%durga puj%'
+  OR event_json LIKE '%durga pooj%'
+  OR event_json ->> '$.name' LIKE '%durgotsav%'
+  OR event_json ->> '$.name' LIKE '%durga utsav%'
+  OR event_json ->> '$.name' LIKE '%pujo%';
 
 
 -- Low Quality drinking focused events
