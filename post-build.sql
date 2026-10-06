@@ -204,6 +204,9 @@ WHERE
     -- Breathwork, ice baths and "reset rituals"
     OR event_json ->> '$.organizer.name' LIKE '%soundsutraa%'
     OR event_json ->> '$.name' LIKE '%family constellation%'
+    -- https://urbanaut.app/about-healclinicin: "9 Devi energies" healing days
+    OR event_json ->> '$.organizer.name' LIKE '%healclinic%'
+    OR event_json ->> '$.organizer.url' LIKE '%/partner/healclinicin%'
   );
 
 
