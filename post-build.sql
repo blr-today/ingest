@@ -888,6 +888,12 @@ SET
 WHERE
   url LIKE '%puzzled-pint-bangalore%';
 
+-- HSR Meetups is scraped from meetup.com, skip the allevents copies
+DELETE FROM events
+WHERE
+  url LIKE 'https://allevents.in/%'
+  AND event_json ->> '$.organizer.url' LIKE '%allevents.in/org/hsr-meetups/%';
+
 UPDATE events
 SET
   event_json = json_replace(
