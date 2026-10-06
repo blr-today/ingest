@@ -484,6 +484,45 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!\n\nLearn more at \nhttps://cinemanextdoor.com\n and \n@cinemanextdoor_\n on Instagram.",
+      "endDate": "2026-10-10T17:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "image": "https://underline.center/uploads/default/original/2X/1/1e2e4ffbdf0124fa93c93fc75ab6b80545e637ba.jpeg",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Screening of The Sound of Music (1965) with Cinema Next Door",
+      "sameAs": [
+         "https://cinemanextdoor.com"
+      ],
+      "startDate": "2026-10-10T13:00:00.000+05:30",
+      "url": "https://underline.center/t/screening-of-the-sound-of-music-1965-with-cinema-next-door/893"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "description": "A classic good ol’ improv show packed with riddles, tongue twisters, and some nostalgia. If you’ve been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!\n\nWe promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
       "endDate": "2026-10-09T22:30:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
