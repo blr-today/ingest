@@ -12,7 +12,12 @@
     "location": {
       "@type": "Place",
       "name": "KFC Signal, Indiranagar",
-      "address": "KFC Signal, 100 Feet Road, Indiranagar, Bengaluru, Karnataka"
+      "address": "KFC Signal, 100 Feet Road and CMH Road junction, Indiranagar, Bengaluru, Karnataka",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9782444,
+        "longitude": 77.6407376
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -20,6 +25,8 @@
       "url": "https://www.deardk.com/?ref=blr.today"
     },
     "isAccessibleForFree": true,
-    "keywords": ["CURATED"]
+    "keywords": [
+      "CURATED"
+    ]
   }
 ]
