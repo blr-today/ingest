@@ -257,7 +257,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -302,7 +302,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -397,7 +397,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -673,7 +673,7 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/78DC8FAB7CD74BB09E5334B5EE8EDF65_converted_webp.webp"
     ],
     "startDate": "2026-10-10T12:00:00+05:30",
-    "endDate": "2026-10-10T14:00:00+05:30",
+    "endDate": "2026-10-10T13:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -688,7 +688,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -703,7 +703,62 @@
       "url": "https://urbanaut.app/partner/theoleproject",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5F5E5CB1B1E24D9CB4218E4488F307CF_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/jawari-watsons-edition",
+    "url": "https://urbanaut.app/spot/jawari-watsons-edition#2026-10-10T1200",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Jawari - Cuisine of North Karnataka Beyond Rotti",
+    "description": "Beyond the roti and yennegayi lies a North Karnataka that is far more diverse than it is often given credit for.Stretching from Bidar through Haveri, Hubballi, Ranebennur and beyond, and shaped by its proximity to Maharashtra, Telangana and Andhra Pradesh, this is a landscape of dry earth, hardy crops, bold flavours and deeply rooted food traditions. The Krishna and Tungabhadra rivers cut through this otherwise arid terrain, creating pockets of fertile land and shaping the food cultures that have grown around them.For this seven-course fine dining experience, we look beyond the familiar dishes of the khanavali and revisit some of the lesser-known, forgotten and disappearing foods of North Karnataka. These dishes have been reimagined and presented in a new format, while staying rooted in the ingredients, flavours and stories of the region.The experience begins with a seated seven-course plated lunch that explores North Karnataka through a contemporary lens with a culinary anthropology session weaved inAnd because a good meal deserves something to remember it by, every guest will leave with a curated goody bag inspired by the region.Come hungry, curious, and ready to discover a side of North Karnataka that rarely makes it to the mainstream table.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/433D482A2BA54A4A86D66E42CC332416_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0A8A52FD083040ADA49A0F9C5928CE8F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/630426CD357B42D49F2C7095E1B8AAAC_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5229B1B256C14D0AA640B1FB0F638324_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/DF9D0BF0D04740CABBB39FBD5C322973_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D61820DB723A4A08BA5CDC681EFB528A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/97E6DF73322F4164A1EE5D0837D585A5_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CA255216C7A3445684AEB6927E903AC6_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/78DC8FAB7CD74BB09E5334B5EE8EDF65_converted_webp.webp"
+    ],
+    "startDate": "2026-10-10T14:00:00+05:30",
+    "endDate": "2026-10-10T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, Kodava Samaja Building, KODAVA SAMAJA, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJux5Jh0EWrjsR5I4-v2273lk",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9942946,
+        "longitude": 77.5946577
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2699.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The \u014cle Project",
+      "description": "Research to document the wisdom about regional vegetation, heirloom recipes and the indigenous cuisine of Karnataka",
+      "url": "https://urbanaut.app/partner/theoleproject",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5F5E5CB1B1E24D9CB4218E4488F307CF_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/jawari-watsons-edition#2026-10-10T1400",
     "keywords": [
       "Leisure",
       "History & heritage",
@@ -737,7 +792,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1073,7 +1128,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 129,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1165,7 +1220,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 115,
+    "remainingAttendeeCapacity": 112,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1211,7 +1266,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 96,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1353,7 +1408,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2414,8 +2469,8 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/991A78BA7020462D8C0702CA8062A7CF_converted_webp.webp"
     ],
-    "startDate": "2026-10-07T06:30:00+05:30",
-    "endDate": "2026-10-07T08:00:00+05:30",
+    "startDate": "2026-10-14T06:30:00+05:30",
+    "endDate": "2026-10-14T08:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2428,8 +2483,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 21,
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2444,7 +2499,97 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/plant-play-garden-together",
+    "url": "https://urbanaut.app/spot/plant-play-garden-together#2026-10-14T0630",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Plant & Play: Garden Together",
+    "description": "Get your hands in the soil and grow something together.A relaxed community gardening session for planting, tending, learning and getting to know the people around you. No gardening experience needed \u2014 just come ready to get a little dirty.Plant something. Meet someone. Watch it grow.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/991A78BA7020462D8C0702CA8062A7CF_converted_webp.webp"
+    ],
+    "startDate": "2026-10-21T06:30:00+05:30",
+    "endDate": "2026-10-21T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/plant-play-garden-together#2026-10-21T0630",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Plant & Play: Garden Together",
+    "description": "Get your hands in the soil and grow something together.A relaxed community gardening session for planting, tending, learning and getting to know the people around you. No gardening experience needed \u2014 just come ready to get a little dirty.Plant something. Meet someone. Watch it grow.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/991A78BA7020462D8C0702CA8062A7CF_converted_webp.webp"
+    ],
+    "startDate": "2026-10-28T06:30:00+05:30",
+    "endDate": "2026-10-28T08:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/plant-play-garden-together#2026-10-28T0630",
     "keywords": [
       "Workshop",
       "Eco Friendly",
@@ -2489,7 +2634,142 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together",
+    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together#2026-10-07T1700",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Knitty Kitty: Crochet, Macrame, Knit Together",
+    "description": "A cosy gathering for people who make things with their hands.Bring your knitting, crochet, macram\u00e9 or any fibre-based craft and spend an evening making, sharing skills, swapping ideas and chatting with fellow makers.No workshop. No pressure to be productive. Just good company, good threads and something lovely taking shape.Bring your project. Come make together.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1D5F3D3B8499435B9093453ABB6E5F8C_converted_webp.webp"
+    ],
+    "startDate": "2026-10-14T17:00:00+05:30",
+    "endDate": "2026-10-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together#2026-10-14T1700",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Knitty Kitty: Crochet, Macrame, Knit Together",
+    "description": "A cosy gathering for people who make things with their hands.Bring your knitting, crochet, macram\u00e9 or any fibre-based craft and spend an evening making, sharing skills, swapping ideas and chatting with fellow makers.No workshop. No pressure to be productive. Just good company, good threads and something lovely taking shape.Bring your project. Come make together.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1D5F3D3B8499435B9093453ABB6E5F8C_converted_webp.webp"
+    ],
+    "startDate": "2026-10-21T17:00:00+05:30",
+    "endDate": "2026-10-21T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together#2026-10-21T1700",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Knitty Kitty: Crochet, Macrame, Knit Together",
+    "description": "A cosy gathering for people who make things with their hands.Bring your knitting, crochet, macram\u00e9 or any fibre-based craft and spend an evening making, sharing skills, swapping ideas and chatting with fellow makers.No workshop. No pressure to be productive. Just good company, good threads and something lovely taking shape.Bring your project. Come make together.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1D5F3D3B8499435B9093453ABB6E5F8C_converted_webp.webp"
+    ],
+    "startDate": "2026-10-28T17:00:00+05:30",
+    "endDate": "2026-10-28T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together#2026-10-28T1700",
     "keywords": [
       "Workshop",
       "Art & culture",
@@ -2717,7 +2997,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2901,7 +3181,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 131,
+    "remainingAttendeeCapacity": 122,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2989,7 +3269,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3034,7 +3314,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3138,7 +3418,139 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together",
+    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-08T1700",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Photo Meetup - Shoot Together",
+    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
+    ],
+    "startDate": "2026-10-15T17:00:00+05:30",
+    "endDate": "2026-10-15T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-15T1700",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Photo Meetup - Shoot Together",
+    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
+    ],
+    "startDate": "2026-10-22T17:00:00+05:30",
+    "endDate": "2026-10-22T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-22T1700",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Photo Meetup - Shoot Together",
+    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
+    ],
+    "startDate": "2026-10-29T17:00:00+05:30",
+    "endDate": "2026-10-29T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 99.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-29T1700",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -3211,7 +3623,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 31,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3878,8 +4290,8 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
     ],
-    "startDate": "2026-10-10T12:00:00+05:30",
-    "endDate": "2026-10-10T13:30:00+05:30",
+    "startDate": "2026-10-14T19:00:00+05:30",
+    "endDate": "2026-10-14T20:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -3892,8 +4304,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 4,
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3908,117 +4320,7 @@
       "url": "https://urbanaut.app/partner/pachaak",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-10T1200",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Goa is a Bebinca - A Food Theatre Experience",
-    "description": "What makes a place linger in your memory\u2014its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! \u2728).We\u2019re turning back the clock and inviting you into a bustling, atmospheric Goan taverna\u2014a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary\u2014a total firecracker of a woman who is determined to put her family\u2019s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch\u2014you\u2019ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn\u2019t just a show or a meal\u2014it\u2019s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect\ud83c\udfad 90 Minutes of Pure Immersive TheatreStep into the narrative, interact with characters, and be part of the story as it unfolds around you!\ud83c\udf78 Bar Bites & SpiritsIncludes a curated menu of contemporary Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol.\ud83d\udccd Bangalore RunOnly in October!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5EBF778982F34F79AEC939DAD55D886A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/553C1392CCD944768F44C8CCFB4F5F7C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D86975F8160E4088A7D0DB27083E30BE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FA521654EE6B4C8B97D4353A07AC13C9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A29D79E447F3487B9A939CF779F0F324_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0C581237DEBE43198E4DDB7A33B40D9F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7C7AF5A099204E1F917A300BCAE0753E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E8C1AB473FE42558CF93D7BF5B56A39_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T12:00:00+05:30",
-    "endDate": "2026-10-11T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd, Jayabharath Nagar, M.E.G. Officers Colony, Cooke Town, Bengaluru, Karnataka 560033, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0011525,
-        "longitude": 77.6292213
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2360.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "paChaak",
-      "description": null,
-      "url": "https://urbanaut.app/partner/pachaak",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1200",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Goa is a Bebinca - A Food Theatre Experience",
-    "description": "What makes a place linger in your memory\u2014its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! \u2728).We\u2019re turning back the clock and inviting you into a bustling, atmospheric Goan taverna\u2014a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary\u2014a total firecracker of a woman who is determined to put her family\u2019s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch\u2014you\u2019ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn\u2019t just a show or a meal\u2014it\u2019s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect\ud83c\udfad 90 Minutes of Pure Immersive TheatreStep into the narrative, interact with characters, and be part of the story as it unfolds around you!\ud83c\udf78 Bar Bites & SpiritsIncludes a curated menu of contemporary Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol.\ud83d\udccd Bangalore RunOnly in October!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5EBF778982F34F79AEC939DAD55D886A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/553C1392CCD944768F44C8CCFB4F5F7C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D86975F8160E4088A7D0DB27083E30BE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FA521654EE6B4C8B97D4353A07AC13C9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A29D79E447F3487B9A939CF779F0F324_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0C581237DEBE43198E4DDB7A33B40D9F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7C7AF5A099204E1F917A300BCAE0753E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E8C1AB473FE42558CF93D7BF5B56A39_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T16:00:00+05:30",
-    "endDate": "2026-10-11T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd, Jayabharath Nagar, M.E.G. Officers Colony, Cooke Town, Bengaluru, Karnataka 560033, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0011525,
-        "longitude": 77.6292213
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 17,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2360.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "paChaak",
-      "description": null,
-      "url": "https://urbanaut.app/partner/pachaak",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-11T1600",
+    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience",
     "keywords": [
       "History & heritage",
       "Food & drink",
@@ -4343,7 +4645,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4696,7 +4998,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4741,7 +5043,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4977,7 +5279,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5023,7 +5325,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 39,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5168,7 +5470,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5214,7 +5516,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5740,7 +6042,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 1627.0,
+      "price": 1049.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -6093,7 +6395,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6236,7 +6538,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
