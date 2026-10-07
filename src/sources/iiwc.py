@@ -33,8 +33,8 @@ ADDRESS = {
 
 def get_location(raw_name):
     venue = raw_name.split(",")[0].strip()
-    if venue.lower().startswith("indian institute") or venue.lower().startswith(
-        "the indian institute"
+    if not venue or venue.lower().startswith(
+        ("indian institute", "the indian institute")
     ):
         name = "Indian Institute of World Culture, Basavanagudi, Bengaluru"
     else:
@@ -53,7 +53,7 @@ def modify_event(event):
                 event["@type"] = etype
                 break
 
-    event["location"] = get_location(event["location"]["name"])
+    event["location"] = get_location(event.get("location", {}).get("name", ""))
     return event
 
 
