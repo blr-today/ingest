@@ -212,7 +212,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 39,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -302,7 +302,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1038,52 +1038,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/14CFA1171B734589BBB06DAE191E5DA6_converted_webp.webp"
     ],
-    "startDate": "2026-10-08T19:00:00+05:30",
-    "endDate": "2026-10-08T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672214,
-        "longitude": 77.6366982
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/tabletop-thursday-with-reroll-board-games#2026-10-08T1900",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tabletop Thursday with ReRoll Board Games",
-    "description": "We're here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!You don\u2019t need to have any experience with these kinds of board games before\u2014we love introducing people to new ones! We\u2019ll help you pick a game, set it up, and explain the rules.You can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases while making some friends in the process.Come solo, with a date, or in a group\u2014we've got something for everyone!Who are ReRoll Board Games?We\u2019re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We\u2019ve been doing this part-time for almost nine years now.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/14CFA1171B734589BBB06DAE191E5DA6_converted_webp.webp"
-    ],
     "startDate": "2026-10-15T19:00:00+05:30",
     "endDate": "2026-10-15T23:00:00+05:30",
     "location": {
@@ -1637,7 +1591,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 117,
+    "remainingAttendeeCapacity": 105,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1775,7 +1729,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 90,
+    "remainingAttendeeCapacity": 88,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1917,7 +1871,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1936,51 +1890,6 @@
     "keywords": [
       "Local",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Open Mic: Poetry, Rap, Music",
-    "description": "Open MicYour words. Your sound. Your stage.A warm, open space for poetry, rap, music and everything in between. Bring something you\u2019ve been working on, something you\u2019ve never shared before, or simply come to listen and cheer people on.No auditions. No judgement. Just a mic and a room ready to listen.No standup comedy.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E26BFB3B78CF409C9D2F25EDE95E9A2C_converted_webp.webp"
-    ],
-    "startDate": "2026-10-09T20:00:00+05:30",
-    "endDate": "2026-10-09T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746#2026-10-09T2000",
-    "keywords": [
-      "Music",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -2142,7 +2051,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3554,7 +3463,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 136,
+    "remainingAttendeeCapacity": 134,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3645,7 +3554,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 117,
+    "remainingAttendeeCapacity": 115,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3733,7 +3642,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3777,7 +3686,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 27,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3796,50 +3705,6 @@
     "keywords": [
       "Leisure",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Photo Meetup - Shoot Together",
-    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-08T17:00:00+05:30",
-    "endDate": "2026-10-08T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-08T1700",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -4042,7 +3907,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4556,59 +4421,6 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/9B8C3815EBA8476D85B169193DC69324_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/B981DF52F1A64B5F937F41E4D0B590D8_converted_webp.webp"
     ],
-    "startDate": "2026-10-08T19:00:00+05:30",
-    "endDate": "2026-10-08T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "535A , 3rd floor 15th Cross, 17th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9137354,
-        "longitude": 77.6419873
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 352.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sanctuary Creative Studio",
-      "description": null,
-      "url": "https://urbanaut.app/partner/sanctuary-creative-studio2",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/274C5CDBED6F42F0A61D8C8546FC7024_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/afterhoursoct8#2026-10-08T1900",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "After Hours by Eleven AM Club",
-    "description": "When was the last time you made something - just because? You walk in. It\u2019s been a long day, probably. You see strangers working, chatting, and sometimes doing nothing. You join a table. Or sit alone. Whatever floats your boat. You set your space and begin your unfinished project: a piece of writing you\u2019re finishing, crochet, a Lego set, postcards waiting to be written, or sketches that might turn into something new. Or \u2014 you could dive into what we have here: Use the colourful papers, old magazines for collages, and books to inspire you. Use a medium you haven\u2019t tried before. No two After Hours are the same, since each evening is shaped by the people who attend. One thing is certain \u2014 you are going to have a gala time. See you at the club! About the Eleven AM Club: Where do we meet new people in the city anymore? A space for slow, intentional gatherings where time stretches, stories unfold, and creativity finds room to breathe. At Eleven AM Club, we come together to write, draw, cook, read, play, or simply be\u2014no rush, no agenda, just a day well spent.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/902AA62A4E0348B381EB090F8A8AB018_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B3BEE314A90B43E58829ADAA15F62E60_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/075526F3B24645469CEA809DCD4EE27C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7F31145FF6D84091B7186C92A9EEE23F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3E11502545CE47569EF4D7C369F01A6B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DC625CAE67D6457C93DE8C3C6705AE00_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9B8C3815EBA8476D85B169193DC69324_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B981DF52F1A64B5F937F41E4D0B590D8_converted_webp.webp"
-    ],
     "startDate": "2026-10-22T19:00:00+05:30",
     "endDate": "2026-10-22T21:00:00+05:30",
     "location": {
@@ -4639,10 +4451,65 @@
       "url": "https://urbanaut.app/partner/sanctuary-creative-studio2",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/274C5CDBED6F42F0A61D8C8546FC7024_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/afterhoursoct8#2026-10-22T1900",
+    "url": "https://urbanaut.app/spot/afterhoursoct8",
     "keywords": [
       "Leisure",
       "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Goa is a Bebinca - A Food Theatre Experience",
+    "description": "What makes a place linger in your memory\u2014its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! \u2728).We\u2019re turning back the clock and inviting you into a bustling, atmospheric Goan taverna\u2014a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary\u2014a total firecracker of a woman who is determined to put her family\u2019s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch\u2014you\u2019ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn\u2019t just a show or a meal\u2014it\u2019s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect\ud83c\udfad 90 Minutes of Pure Immersive Theatre Step into the narrative, interact with characters, and be part of the story as it unfolds around you!\ud83c\udf78 Bar Bites & Spirits Includes a curated menu of contemporary Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol. Note: Entry allowed for guests above 21 years, as alcohol is being served \ud83d\udccd Bangalore Run Only in October!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7218664A2A8E4A138EBAC6044B9A8F80_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/553C1392CCD944768F44C8CCFB4F5F7C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D86975F8160E4088A7D0DB27083E30BE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FA521654EE6B4C8B97D4353A07AC13C9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A29D79E447F3487B9A939CF779F0F324_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0C581237DEBE43198E4DDB7A33B40D9F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7C7AF5A099204E1F917A300BCAE0753E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5E8C1AB473FE42558CF93D7BF5B56A39_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
+    ],
+    "startDate": "2026-10-14T20:00:00+05:30",
+    "endDate": "2026-10-14T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd, Jayabharath Nagar, M.E.G. Officers Colony, Cooke Town, Bengaluru, Karnataka 560033, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0011525,
+        "longitude": 77.6292213
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2950.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "paChaak",
+      "description": null,
+      "url": "https://urbanaut.app/partner/pachaak",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -4964,7 +4831,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4983,49 +4850,6 @@
     "keywords": [
       "Workshop",
       "Walking Tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Report to Mother by John Abraham - TPCC",
-    "description": "Purushan, a student on his way to Delhi, becomes obsessed with the tragic suicide of a young drummer. He collects many people to go with him to tell the boy\u2019s mother.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/15F7999D77FC44D99E1F8A73F0CB5B07_converted_webp.webp"
-    ],
-    "startDate": "2026-10-08T19:45:00+05:30",
-    "endDate": "2026-10-08T22:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 25,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 375.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ammaariyen-johnabraham",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -5317,7 +5141,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5908,53 +5732,7 @@
       "url": "https://urbanaut.app/partner/trippygoat",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BC98E2FBE79545159908D9FDDF5ACB27_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/oota-the-kodava-way#2026-10-10T1200",
-    "keywords": [
-      "Pop-up Event",
-      "History & heritage",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Oota, The Kodava Way",
-    "description": "At Paytey, we\u2019re setting the leaf for a long Kodava lunch. Think crisp mutton cutlets, fiery pork chudals, chicken liver and gizzard pepper fry, soft kadambutt with pandi curry, and ghee rice with chicken curry. To finish, coffee, cardamom and orange cr\u00e8me br\u00fbl\u00e9e. That\u2019s just a taste of what\u2019s coming - there\u2019s a place for you at the table.Date: 10 OctTime: 12PM & 2PM SlotsLocation: PayTey, New Bel Road",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/12556084BF554093917A77426010E8D3_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T14:00:00+05:30",
-    "endDate": "2026-10-10T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, 204, New BEL Rd, KGE Layout, Devasandra Layout, Bengaluru, Karnataka 560054, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0301511,
-        "longitude": 77.5705527
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2352.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trippy Goat",
-      "description": "Bringing in the cool and casual into wine & dine\u2026 & dare we say truly sustainable coffees, handpicked from small and medium farms in the Western Ghats",
-      "url": "https://urbanaut.app/partner/trippygoat",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BC98E2FBE79545159908D9FDDF5ACB27_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/oota-the-kodava-way#2026-10-10T1400",
+    "url": "https://urbanaut.app/spot/oota-the-kodava-way",
     "keywords": [
       "Pop-up Event",
       "History & heritage",
@@ -6247,10 +6025,10 @@
     "name": "Raga Meditation | AM Club | The Brown Table",
     "description": "AM Club | Edition 03RAGA Meditation at The Brown Table by Annada Prasanna Pattanaik (Flutist Butto)An early Saturday morning at The Brown Table. For this edition of AM Club, we're bringing together the flute, morning ragas, and a quieter way to begin your weekend, all hosted at The Brown Table in Sadashiv Nagar.The morning begins at 7 AM with a 60-minute raga meditation led by Annada Prasanna Pattanaik, fondly known as Flutist Butto. Live flute, morning ragas, and nothing to do but close your eyes and listen. Post-session, stay back at The Brown Table for a drink of your choice.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/63F632AEF3D24D05AAD3029808645007_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3F6E0AEAE59B4873ABCFCFDC9BA5CEE1_converted_webp.webp"
     ],
-    "startDate": "2026-10-10T07:00:00+05:30",
-    "endDate": "2026-10-10T08:00:00+05:30",
+    "startDate": "2026-10-10T08:00:00+05:30",
+    "endDate": "2026-10-10T09:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -6264,7 +6042,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -6416,6 +6194,51 @@
     "url": "https://urbanaut.app/spot/tht-presents-baawari-basanti",
     "keywords": [
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Angala Listening Room: Radiohead",
+    "description": "Some albums are not just heard. They are experienced.Step into the sonic world of Radiohead's OK Computer \u2014 an album that explores technology, disconnection, modern life and the feeling of being caught between it all.Join us for an immersive album listening experience at the Angala Listening Room. Put your distractions aside, settle in, and experience the music together.RADIOHEAD \u2014 OK COMPUTERCome for the music. Stay for the experience.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/AA256A9FD5C7467CBFE27A612B1290F3_converted_webp.webp"
+    ],
+    "startDate": "2026-10-09T20:00:00+05:30",
+    "endDate": "2026-10-09T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 149.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Angala",
+      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
+      "url": "https://urbanaut.app/partner/angala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-angala-listening-room-radiohead",
+    "keywords": [
+      "Music",
+      "Workshop",
       "URBANAUT"
     ]
   }

@@ -72,7 +72,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "And Then?: An Improv Show by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 299,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-24T19:30:00.000Z",
+               "name": "Early Bird",
+               "price": 299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
+               "validFrom": "2026-07-22T10:05:53.630Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-25T15:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
+               "validFrom": "2026-07-22T10:05:53.630Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/and-then-an-improv-show-by-improv-lore-jul26-2026/event"
       ],
@@ -112,7 +141,56 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Uke Jam: Bangalore by Ukulele With Luv",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 499,
+         "lowPrice": 199,
+         "offerCount": 4,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-25T05:00:00.000Z",
+               "name": "Jam Participant - Early Bird",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/uke-jam-bangalore-by-ukulele-with-luv-oct25-2026-buy-tickets",
+               "validFrom": "2026-10-07T14:53:06.446Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-25T08:00:00.000Z",
+               "name": "Jam Participant - Regular Ticket",
+               "price": 499,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/uke-jam-bangalore-by-ukulele-with-luv-oct25-2026-buy-tickets",
+               "validFrom": "2026-10-07T14:53:06.446Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-25T05:00:00.000Z",
+               "name": "Spectator - Early Bird",
+               "price": 199,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/uke-jam-bangalore-by-ukulele-with-luv-oct25-2026-buy-tickets",
+               "validFrom": "2026-10-07T14:53:06.446Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-25T08:00:00.000Z",
+               "name": "Spectator - Regular Ticket",
+               "price": 249,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/uke-jam-bangalore-by-ukulele-with-luv-oct25-2026-buy-tickets",
+               "validFrom": "2026-10-07T14:53:06.446Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/uke-jam-bangalore-by-ukulele-with-luv-oct25-2026-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/uke-jam-bangalore-by-ukulele-with-luv-oct25-2026/event"
       ],
@@ -152,7 +230,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Make an Improv Song: Musical Improv Jam by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 499,
+         "lowPrice": 399,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-21T14:30:00.000Z",
+               "name": "Early Bird",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/make-an-improv-song-musical-improv-jam-by-improv-lore-may1-2026-buy-tickets",
+               "validFrom": "2026-04-24T06:41:07.147Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-21T16:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 499,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/make-an-improv-song-musical-improv-jam-by-improv-lore-may1-2026-buy-tickets",
+               "validFrom": "2026-04-24T06:41:07.147Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/make-an-improv-song-musical-improv-jam-by-improv-lore-may1-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/make-an-improv-song-musical-improv-jam-by-improv-lore-may1-2026/event"
       ],
@@ -192,7 +299,26 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "PowerPoint Roulette by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 399,
+         "offerCount": 1,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-18T15:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/powerpoint-roulette-by-improv-lore-may1-2026-buy-tickets",
+               "validFrom": "2026-04-23T11:49:23.047Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/powerpoint-roulette-by-improv-lore-may1-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/powerpoint-roulette-by-improv-lore-may1-2026/event"
       ],
@@ -232,7 +358,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Made of Dreams: An Evening of Poetry & Possibility by Aditi Sinha",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 199,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-18T10:00:00.000Z",
+               "name": "Audience Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/made-of-dreams-an-evening-of-poetry-possibility-by-aditi-sinha-oct18-2026-buy-tickets",
+               "validFrom": "2026-10-05T10:23:02.660Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-18T08:30:00.000Z",
+               "name": "Performer Ticket | Open Mic",
+               "price": 199,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/made-of-dreams-an-evening-of-poetry-possibility-by-aditi-sinha-oct18-2026-buy-tickets",
+               "validFrom": "2026-10-05T10:23:02.660Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/made-of-dreams-an-evening-of-poetry-possibility-by-aditi-sinha-oct18-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/made-of-dreams-an-evening-of-poetry-possibility-by-aditi-sinha-oct18-2026/event"
       ],
@@ -272,7 +427,46 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Improv 101: How Not to Panic on Stage | Workshop by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 5999,
+         "lowPrice": 3999,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-17T04:30:00.000Z",
+               "name": "Early Bird",
+               "price": 3999,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/improv-101-how-not-to-panic-on-stage-workshop-by-improv-lore-jun20-2026-buy-tickets",
+               "validFrom": "2026-06-04T11:47:40.866Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-20T11:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 4999,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/improv-101-how-not-to-panic-on-stage-workshop-by-improv-lore-jun20-2026-buy-tickets",
+               "validFrom": "2026-06-04T11:47:40.866Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-20T11:30:00.000Z",
+               "name": "Late Bird",
+               "price": 5999,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/improv-101-how-not-to-panic-on-stage-workshop-by-improv-lore-jun20-2026-buy-tickets",
+               "validFrom": "2026-06-04T11:47:40.866Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/improv-101-how-not-to-panic-on-stage-workshop-by-improv-lore-jun20-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/improv-101-how-not-to-panic-on-stage-workshop-by-improv-lore-jun20-2026/event"
       ],
@@ -312,12 +506,120 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Not-so-friendly Game Night with Quiztickles",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 499,
+         "lowPrice": 399,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-16T15:30:00.000Z",
+               "name": "Early Bird",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/notsofriendly-game-night-with-quiztickles-aug28-2026-buy-tickets",
+               "validFrom": "2026-08-25T16:18:21.246Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-16T17:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 499,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/notsofriendly-game-night-with-quiztickles-aug28-2026-buy-tickets",
+               "validFrom": "2026-08-25T16:18:21.246Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/notsofriendly-game-night-with-quiztickles-aug28-2026-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/notsofriendly-game-night-with-quiztickles-aug28-2026/event"
       ],
       "startDate": "2026-10-16T21:00:00.000+05:30",
       "url": "https://underline.center/t/not-so-friendly-game-night-with-quiztickles/865"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!",
+      "endDate": "2026-10-15T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "image": "https://underline.center/uploads/default/original/1X/9a55d70aaf39454cb10b6083ae683370875ee1c9.png",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Tabletop Thursday with ReRoll Board Games",
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 299,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-15T13:30:00.000Z",
+               "name": "Early Bird ",
+               "price": 299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T09:45:23.684Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-15T13:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T09:45:23.684Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-15T17:30:00.000Z",
+               "name": "Walk-In",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T09:45:23.684Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets"
+      },
+      "sameAs": [
+         "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
+      ],
+      "startDate": "2026-10-15T19:00:00.000+05:30",
+      "url": "https://underline.center/t/tabletop-thursday-with-reroll-board-games/13"
    },
    {
       "@context": "https://schema.org",
@@ -352,7 +654,26 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 499,
+         "lowPrice": 499,
+         "offerCount": 1,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-14T16:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 499,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026-buy-tickets",
+               "validFrom": "2026-04-24T06:31:49.032Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
       ],
@@ -392,7 +713,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "After Hours with Eleven AM Club",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 349,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-14T13:30:00.000Z",
+               "name": "Early Bird",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/after-hours-with-eleven-am-club-buy-tickets",
+               "validFrom": "2026-03-26T07:28:57.590Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-14T13:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/after-hours-with-eleven-am-club-buy-tickets",
+               "validFrom": "2026-03-26T07:28:57.590Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/after-hours-with-eleven-am-club-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/after-hours-with-eleven-am-club/event"
       ],
@@ -432,7 +782,46 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Bangalore Puzzle Pals with Playful Pursuits",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 299,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-12T13:00:00.000Z",
+               "name": "Early Bird",
+               "price": 299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-26T07:36:17.449Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-12T13:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-26T07:36:17.449Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-12T17:00:00.000Z",
+               "name": "Walk-In",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-26T07:36:17.449Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
       ],
@@ -472,7 +861,26 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Pop Culture Quiz by Calm Your Wits Quizzing",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 399,
+         "offerCount": 1,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-11T15:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/pop-culture-quiz-by-calm-your-wits-quizzing-oct11-2026-buy-tickets",
+               "validFrom": "2026-09-13T13:18:52.655Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/pop-culture-quiz-by-calm-your-wits-quizzing-oct11-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/pop-culture-quiz-by-calm-your-wits-quizzing-oct11-2026/event"
       ],
@@ -512,7 +920,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Creative Bloc Party Open Mic by Harsh Shah",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 249,
+         "lowPrice": 249,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-11T14:30:00.000Z",
+               "name": "Performer Ticket",
+               "price": 249,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/creative-bloc-party-open-mic-by-harsh-shah-may3-2026-buy-tickets",
+               "validFrom": "2026-04-16T13:10:33.504Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-11T14:30:00.000Z",
+               "name": "Audience Ticket",
+               "price": 249,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/creative-bloc-party-open-mic-by-harsh-shah-may3-2026-buy-tickets",
+               "validFrom": "2026-04-16T13:10:33.504Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/creative-bloc-party-open-mic-by-harsh-shah-may3-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/creative-bloc-party-open-mic-by-harsh-shah-may3-2026/event"
       ],
@@ -552,7 +989,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Modular Type Workshop by A Letter Atelier",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 1499,
+         "lowPrice": 1299,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-11T08:30:00.000Z",
+               "name": "Early Bird Ticket",
+               "price": 1299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/modular-type-workshop-by-a-letter-atelier-sep19-2026-buy-tickets",
+               "validFrom": "2026-09-08T09:50:08.162Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-11T11:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 1499,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/modular-type-workshop-by-a-letter-atelier-sep19-2026-buy-tickets",
+               "validFrom": "2026-09-08T09:50:08.162Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/modular-type-workshop-by-a-letter-atelier-sep19-2026-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/modular-type-workshop-by-a-letter-atelier-sep19-2026/event"
       ],
@@ -592,7 +1058,46 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Jigsaw Junkies by Playful Pursuits",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 449,
+         "lowPrice": 349,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-11T06:30:00.000Z",
+               "name": "Early Bird",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/jigsaw-junkies-by-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-31T11:48:58.352Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-11T06:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/jigsaw-junkies-by-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-31T11:48:58.352Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-11T11:30:00.000Z",
+               "name": "Late Bird Ticket",
+               "price": 449,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/jigsaw-junkies-by-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-31T11:48:58.352Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/jigsaw-junkies-by-playful-pursuits-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/jigsaw-junkies-by-playful-pursuits/event",
          "https://playfulpursuits.in/chat"
@@ -633,7 +1138,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Gossip, The Gameshow with Tasty Trivia",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 499,
+         "lowPrice": 449,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-10T15:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 449,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/gossip-the-gameshow-with-tasty-trivia-sep12-2026-buy-tickets",
+               "validFrom": "2026-08-04T09:00:42.724Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-10T17:30:00.000Z",
+               "name": "Walk-in",
+               "price": 499,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/gossip-the-gameshow-with-tasty-trivia-sep12-2026-buy-tickets",
+               "validFrom": "2026-08-04T09:00:42.724Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/gossip-the-gameshow-with-tasty-trivia-sep12-2026-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/gossip-the-gameshow-with-tasty-trivia-sep12-2026/event"
       ],
@@ -712,7 +1246,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Magic: The Gathering with ReRoll Board Games",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 349,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-10T12:30:00.000Z",
+               "name": " Early Bird - Casual Play",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T11:16:25.614Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-10T17:30:00.000Z",
+               "name": " Regular Ticket - Casual Play",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T11:16:25.614Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
          "https://magic.wizards.com/en/intro"
@@ -753,7 +1316,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Screening of The Sound of Music (1965) with Cinema Next Door",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 299,
+         "lowPrice": 249,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-10T07:30:00.000Z",
+               "name": "Early Bird",
+               "price": 249,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026-buy-tickets",
+               "validFrom": "2026-10-06T20:12:36.388Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-10T11:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026-buy-tickets",
+               "validFrom": "2026-10-06T20:12:36.388Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026/event",
          "https://cinemanextdoor.com"
@@ -794,7 +1386,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "The Silliest Show Tonight by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 249,
+         "lowPrice": 199,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/SoldOut",
+               "availabilityEnds": "2026-10-09T15:30:00.000Z",
+               "name": "Early Bird",
+               "price": 199,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
+               "validFrom": "2026-03-26T07:29:43.028Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-09T17:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 249,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
+               "validFrom": "2026-03-26T07:29:43.028Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
       ],
@@ -834,51 +1455,30 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "The Clueless Crossword | Quiz Pro Quo",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 399,
+         "offerCount": 1,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-09T18:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/the-clueless-crossword-by-quiz-pro-quo-may17-2026-buy-tickets",
+               "validFrom": "2026-05-08T11:17:15.867Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/the-clueless-crossword-by-quiz-pro-quo-may17-2026-buy-tickets"
+      },
       "sameAs": [
          "https://district.in/the-clueless-crossword-by-quiz-pro-quo-may17-2026/event"
       ],
       "startDate": "2026-10-09T20:30:00.000+05:30",
       "url": "https://underline.center/t/the-clueless-crossword-quiz-pro-quo/618"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!",
-      "endDate": "2026-10-08T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "image": "https://underline.center/uploads/default/original/1X/9a55d70aaf39454cb10b6083ae683370875ee1c9.png",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Tabletop Thursday with ReRoll Board Games",
-      "offers": null,
-      "sameAs": [
-         "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
-      ],
-      "startDate": "2026-10-08T19:00:00.000+05:30",
-      "url": "https://underline.center/t/tabletop-thursday-with-reroll-board-games/13"
    }
 ]
