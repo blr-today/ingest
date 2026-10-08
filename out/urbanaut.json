@@ -369,6 +369,62 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Kids Pizza and Cupcakes Workshop",
+    "description": "Suitable for ages 5\u201313Get ready for a fun and delicious hands-on experience designed especially for little chefs! Kids will have the opportunity to make their own pizza, make yummy cupcakes and decorate their very own ice-cream sundaes. It\u2019s a playful cooking experience where children can get creative, explore food and enjoy making something delicious with their own little hands.What\u2019s Included\ud83c\udf55 Make your own pizza\ud83e\uddc1 Bake and decorate yummy cupcakes\ud83c\udf68 Create your own ice-cream sundae\ud83c\udf7f Popcorn will be servedPerfect for a delicious, hands-on Sunday filled with creativity, fun and lots of yummy treats! \ud83d\udc9b",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/97F252609D37469698CD0A28BC7A3BB0_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FEDD33647EA94C1E900B39262D9F48C8_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C6BE1E2D89D34ADCA431EB10128BF0AA_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8B7EBEF3E75640F3BACB5EE0F0D60D41_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/83871FC4DEB54CB89D82847569591186_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CFEBC73587BF41948E597CBA15B23570_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E3D17D166DFD45748CD3EAD817B7E3DF_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9AD9FFBA836C431888EF6D7C0D65151D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/DB3FFFFA73A9495FB78CFAB4EBD72323_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/30B24AD899C644248B9C90586B5B815B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CE25C9B456E34C0F83F1BBF945133462_converted_webp.webp"
+    ],
+    "startDate": "2026-10-11T11:00:00+05:30",
+    "endDate": "2026-10-11T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtzoryR4VrjsRbCBdFmh67aQ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672959,
+        "longitude": 77.642634
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 2500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canella Studio",
+      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
+      "url": "https://urbanaut.app/partner/canellastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/copy-of-kids-baking-workshop-christmas-treats",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Malleshwaram Heritage Trail",
     "description": "\"The Malleshwaram Heritage Walk is a guided, storytelling-led walk that explores one of Bengaluru\u2019s oldest neighbourhoods beyond its well-known identity as a planned suburb. The event focuses on uncovering Malleshwaram\u2019s deeper history, going back to its temple-centred origins, forest landscape, and community life that existed long before modern city planning.Through temples, water bodies, markets, and cultural institutions, the walk connects historical records, local memory, and everyday spaces to show how Malleshwaram evolved into a centre of education, culture, and lived heritage. This event is designed for those who want to understand Bengaluru slowly, thoughtfully, and through stories rooted in place and people.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
@@ -471,6 +527,51 @@
       "Local",
       "Walking Tour",
       "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rhyme & Rasam: Poetry That\u2019s Easy to Love",
+    "description": "Can the city be a muse? Is it merely a backdrop, or is it a character of its own? In this edition of Rhyme & Rasam, we look at poems that pay attention to urban life in all its complexity.Come for an evening of guided readings, and share what the poems make you think, feel and notice. Rhyme & Rasam is designed to deepen your love of words. You don't even have to love poetry to join. We keep it accessible to everyone. Depth of flavour assured!Theme: Poetry about CitiesHosted by writer and poet Suchi GovindarajanWhat's included:Tea and Coffee (and maybe rasam)",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3A027C1265FA43168B7C2C60F7CD1A11_converted_webp.webp"
+    ],
+    "startDate": "2026-10-23T18:00:00+05:30",
+    "endDate": "2026-10-23T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 199.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/rhyme-rasam-poetry-thats-easy-to-love",
+    "keywords": [
+      "Local",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1865,7 +1966,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1910,7 +2011,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1955,7 +2056,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2000,7 +2101,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2494,7 +2595,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2538,7 +2639,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2582,7 +2683,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2761,7 +2862,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2806,7 +2907,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2851,7 +2952,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 99.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -3561,51 +3662,6 @@
     },
     "url": "https://urbanaut.app/spot/daisies-vra-chytilov",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "URJA - \u090a\u0930\u094d\u091c\u093e",
-    "description": "Urja explores energy through the masculine body and the classical language of Kathak. The work moves through three expressions of devotion - Shaiva, Shakta and Madhurya Bhakti - exploring strength, intensity, grace, tenderness and surrender. Through rhythm, movement and Abhinaya, these contrasting energies gradually come together, revealing that the masculine and feminine are not opposites, but two expressions of the same force. Urja is the union of these energies a state where strength meets grace, and devotion becomes movement.About the ArtistPramod Wagh Pramod is a Pune-based Kathak dancer with a strong foundation in both science and the performing arts. After completing my SSC and HSC in the science stream, he pursued a B.A. and M.A. in Kathak, transforming his passion into a profession. With over a decade of rigorous training under Guru Shama Bhate, Pramod Wahg has developed as both a soloist and a group performer. Driven by curiosity, he continuously explore new concepts, striving to express original ideas and meaningful perspectives through his dance.No age restrictions; a ticket is needed for anyone above 5 years.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4879D815C96442EAAD4B7DB632EB4F22_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T19:30:00+05:30",
-    "endDate": "2026-10-10T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9596437,
-        "longitude": 77.5873823
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 80,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 400.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shoonya - Centre for Art and Somatic Practices",
-      "description": null,
-      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/urja",
-    "keywords": [
-      "Live GIG",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -4790,7 +4846,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Rethinking Work in Midlife",
-    "description": "What does work look like in the second half of life?For many professionals, midlife brings a shift in how they think about work, purpose, identity, and financial security. The questions begin to change. Do I want to continue doing what I've always done? What else could I explore? How can I use my experience in new and meaningful ways?Rethinking Work in Midlife is a Zuva Life series that explores the evolving relationship between work and life in our 40s, 50s, and beyond.Through conversations with professionals, practitioners, and people who have navigated their own transitions, we explore different pathways to staying economically active and engaged, from teaching and consulting to entrepreneurship, advisory roles, and opportunities beyond traditional corporate careers.The series is about opening up possibilities, sharing real experiences, and helping people discover practical pathways to shape their next chapter of work.",
+    "description": "From Leadership to the Boardroom: What Does It Take?After years of leading teams, building businesses and making decisions, have you ever wondered whether a board role could be part of your next chapter?Board roles and independent directorships are often seen as a natural progression for experienced professionals. But what does it really mean to move from running a business or leading a function to contributing at the board level?How do people find their way into these roles? What does a board look for? And what are the responsibilities, expectations and trade-offs that may not be obvious from the outside?Join us for the next conversation in Zuva Life's Rethinking Work in Midlife series, where we'll hear from experienced board directors about their own journeys, how they got started, what they've learnt along the way and what they wish they had known earlier.This isn't a workshop on how to become an independent director. It's an open, practical conversation about the possibilities and realities of board work, with time for your questions.What we'll exploreHow experienced professionals find their way into board rolesWhat changes when you move from an executive role to a board roleWhat boards look for in independent directorsThe responsibilities, risks and trade-offs involvedHow you can begin exploring this path before making a larger commitmentWho is this for?Experienced professionals, senior leaders, entrepreneurs and independent professionals who are curious about board roles and independent directorships, whether as a future possibility or something they are already beginning to explore.",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/9CF5EEF1850C48DEBE39614E7221CA33_converted_webp.webp"
     ],
@@ -6168,7 +6224,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 1999.0,
+      "price": 2499.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -6325,7 +6381,7 @@
     "name": "The Humming Tree presents Bawari Basanti",
     "description": "Seating is available on a first-come, first-served basis. For group table bookings, please call 9845035980.About the Artist:Bawari Basanti (Mahima Dayal Mathur) is an independent storyteller and musician whose work blends Hindustani musical traditions with contemporary folk and original songwriting. A trained Hindustani vocalist, she began her solo journey in 2014 and has since released two EPs, Underwater and Aarzoo, alongside collaborations and original music for film, television and OTT. She has performed at festivals and stages including Jodhpur RIFF, Hornbill Festival, HCL Concerts and VH1 Supermoon, and was a 2022 OneBeat Virtual Fellow.The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore\u2019s independent music, art, and cultural ecosystem. Now, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it\u2019s a hub for creativity, culture and collaboration.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F128D1D0C7B747DC9DD77FA2A90CB8BB_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FFE3A64FBDA64B93A007B0D3C2BCD11D_converted_webp.webp"
     ],
     "startDate": "2026-10-29T21:00:00+05:30",
     "endDate": "2026-10-29T23:57:00+05:30",

@@ -269,5 +269,51 @@
         "name": "Nikki Schuster"
       }
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Keeping Secrets in a Post-Quantum World",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-17T11:00:00+05:30",
+    "endDate": "2026-10-17T14:00:00+05:30",
+    "description": "What makes a secret impossible, or possible, to crack?\n\nCome ready to crack codes, experiment with colour, and uncover the surprising ideas behind encryption. Join Rithvik Upadhya to take part in code-breaking games inspired by real events, to explore how information can be hidden in unexpected ways, and to discover how our methods of keeping secrets have evolved from ancient ciphers to the computers of today. We\u2019ll also look ahead to quantum computers and how they could change the way we protect information.\n\nNo prior knowledge of physics, mathematics or computers is needed. The activities are designed to be fun and accessible, with plenty of room to get curious and dive deeper into the science and maths behind them. Whether you love puzzles, technology, or simply want to know how secrets are kept, there\u2019s something here for you.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=keeping-secrets-in-post-quantum-world",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FQuantum_computer%2C_Germany_(10).jpg-1791462155236?alt=media&token=28dd868a-d6bd-4803-bcb9-d30a59fa6ff1",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Rithvik Upadhya"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "A Glimpse Into the Quantum World",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-18T11:00:00+05:30",
+    "endDate": "2026-10-18T13:00:00+05:30",
+    "description": "How did the quantum world change our understanding of reality and lead to quantum computing?\n\nJoin Arvind for a journey through the remarkable story of quantum physics, from the First Quantum Revolution and the birth of quantum mechanics to the emerging Second Quantum Revolution of today. Discover the counterintuitive world of superposition, measurement, and entanglement, and explore the landmark ideas of the EPR paradox, Bell\u2019s inequalities, and their experimental verification. The talk will also highlight how quantum theory transformed technology through semiconductors, lasers, and superconductors, before turning to the exciting frontiers of quantum computing, quantum communication, and quantum metrology.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=a-glimpse-into-the-quantum-world",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FBell_test_for_entangled_qubits%20Large.jpeg-1791462107195?alt=media&token=73ab26a5-6e68-4d03-b628-9e8d6f829f59",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Arvind"
+      }
+    ]
   }
 ]
