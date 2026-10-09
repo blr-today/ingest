@@ -1,5 +1,39 @@
 [
   {
+    "name": "SIS x 9Round - Sisters & Misters Kickboxing HIIT (Batch 2)",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-kickboxing-9round2",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-kickboxing-9round2",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "600",
+        "priceCurrency": "INR"
+      }
+    ],
+    "image": "https://sistersinsweat.com/api/media/file/DSC07035.JPG%20(1)-1.jpeg",
+    "startDate": "2026-10-11T10:00:00+05:30",
+    "endDate": "2026-10-11T11:00:00+05:30"
+  },
+  {
     "name": "SIS x The Circular Square - ART WORKSHOP",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-TCS-ART",
@@ -33,40 +67,6 @@
     "image": "https://sistersinsweat.com/api/media/file/Line%20and%20Wash%20Workshop%20Image%207%20(1).JPG",
     "startDate": "2026-10-17T15:00:00+05:30",
     "endDate": "2026-10-17T17:00:00+05:30"
-  },
-  {
-    "name": "SIS x 9Round - Sisters & Misters Kickboxing HIIT ",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-kickboxing-9round",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-kickboxing-9round",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "600",
-        "priceCurrency": "INR"
-      }
-    ],
-    "image": "https://sistersinsweat.com/api/media/file/DSC07035.JPG%20(1).jpeg",
-    "startDate": "2026-10-11T09:00:00+05:30",
-    "endDate": "2026-10-11T10:00:00+05:30"
   },
   {
     "name": "SIS x WeWork - Off The Clock Run",
@@ -936,45 +936,6 @@
       "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
       "type": "Place"
     },
-    "startDate": "2026-10-09T07:00:00+05:30"
-  },
-  {
-    "name": "Basketball with the Sisters - Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Intermediate",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Intermediate",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "550",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Basketball",
-    "image": "https://sistersinsweat.com/api/media/file/BASKETBALL%20BEGINNER%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
-      "type": "Place"
-    },
     "startDate": "2026-10-16T07:00:00+05:30"
   },
   {
@@ -1054,6 +1015,45 @@
       "type": "Place"
     },
     "startDate": "2026-10-30T07:00:00+05:30"
+  },
+  {
+    "name": "Basketball with the Sisters - Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Intermediate",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Intermediate",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "550",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Basketball",
+    "image": "https://sistersinsweat.com/api/media/file/BASKETBALL%20BEGINNER%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
+      "type": "Place"
+    },
+    "startDate": "2026-11-06T07:00:00+05:30"
   },
   {
     "name": "Women's Beginner Football Coaching- Jakkur",
@@ -1210,6 +1210,162 @@
       "type": "Place"
     },
     "startDate": "2026-11-05T19:30:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "type": "Place"
+    },
+    "startDate": "2026-10-16T07:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "type": "Place"
+    },
+    "startDate": "2026-10-23T07:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "type": "Place"
+    },
+    "startDate": "2026-10-30T07:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "type": "Place"
+    },
+    "startDate": "2026-11-06T07:00:00+05:30"
   },
   {
     "name": "Women's Beginner Basketball Coaching",
