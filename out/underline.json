@@ -545,6 +545,46 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "description": "A classic good ol’ improv show packed with riddles, tongue twisters, and some nostalgia. If you’ve been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!\n\nWe promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
+      "endDate": "2026-10-16T22:30:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "image": "https://underline.center/uploads/default/original/1X/8413a71cb4a03eb0e02b646e8624ed9a458922fd.jpeg",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "The Silliest Show Tonight by Improv Lore",
+      "offers": null,
+      "sameAs": [
+         "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
+      ],
+      "startDate": "2026-10-16T21:00:00.000+05:30",
+      "url": "https://underline.center/t/the-silliest-show-tonight-by-improv-lore/678"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!",
       "endDate": "2026-10-15T23:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1352,133 +1392,5 @@
       ],
       "startDate": "2026-10-10T13:00:00.000+05:30",
       "url": "https://underline.center/t/screening-of-the-sound-of-music-1965-with-cinema-next-door/893"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "A classic good ol’ improv show packed with riddles, tongue twisters, and some nostalgia. If you’ve been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!\n\nWe promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
-      "endDate": "2026-10-09T22:30:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "image": "https://underline.center/uploads/default/original/1X/8413a71cb4a03eb0e02b646e8624ed9a458922fd.jpeg",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Silliest Show Tonight by Improv Lore",
-      "offers": {
-         "@type": "AggregateOffer",
-         "highPrice": 249,
-         "lowPrice": 199,
-         "offerCount": 2,
-         "offers": [
-            {
-               "@type": "Offer",
-               "availability": "http://schema.org/SoldOut",
-               "availabilityEnds": "2026-10-09T15:30:00.000Z",
-               "name": "Early Bird",
-               "price": 199,
-               "priceCurrency": "INR",
-               "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
-               "validFrom": "2026-03-26T07:29:43.028Z"
-            },
-            {
-               "@type": "Offer",
-               "availability": "http://schema.org/InStock",
-               "availabilityEnds": "2026-10-09T17:00:00.000Z",
-               "name": "Regular Ticket",
-               "price": 249,
-               "priceCurrency": "INR",
-               "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
-               "validFrom": "2026-03-26T07:29:43.028Z"
-            }
-         ],
-         "priceCurrency": "INR",
-         "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets"
-      },
-      "sameAs": [
-         "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
-      ],
-      "startDate": "2026-10-09T21:00:00.000+05:30",
-      "url": "https://underline.center/t/the-silliest-show-tonight-by-improv-lore/678"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "The Clueless Crossword: A Game where Crossword meets 20 Questions!\n\nA unique quiz meets trivia meets crossword meets gameshow!\n\nAre you ready to tackle the ultimate brain-teasing challenge? Gather your team and step into the world of Clueless Crossword, where solving the puzzle means asking the right questions!\n\nHere’s the twist:\n\n• We’ve created a crossword with 20 answers, but there are no direct clues.\n\n• Teams take turns asking yes/no questions to narrow down the possibilities.\n\n• Example: “Is 2 down a musician?” or “Is 5 across a musical instrument?”\n\n• Keep going until someone cracks the grid and takes the crown!\n\nWhether you’re a trivia master, a crossword enthusiast, or just love a fun challenge, this is your chance to shine. Come solo or bring a team, your wits, and your best questions!\n\nAbout Quiz Pro Quo?\n\nQPQ is a community to introduce people to quizzing. They come together every week to crack questions on everyday topics. They have been hosting quizzes online and in person since May 2020. You can follow QPQ on their Instagram \n@quiz.pro.quo",
-      "endDate": "2026-10-09T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "image": "https://underline.center/uploads/default/original/1X/57ce932267a47037ad993936216892ebab39ea24.jpeg",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Clueless Crossword | Quiz Pro Quo",
-      "offers": {
-         "@type": "AggregateOffer",
-         "highPrice": 399,
-         "lowPrice": 399,
-         "offerCount": 1,
-         "offers": [
-            {
-               "@type": "Offer",
-               "availability": "http://schema.org/InStock",
-               "availabilityEnds": "2026-10-09T18:00:00.000Z",
-               "name": "Regular Ticket",
-               "price": 399,
-               "priceCurrency": "INR",
-               "url": "https://www.district.in/events/the-clueless-crossword-by-quiz-pro-quo-may17-2026-buy-tickets",
-               "validFrom": "2026-05-08T11:17:15.867Z"
-            }
-         ],
-         "priceCurrency": "INR",
-         "url": "https://www.district.in/events/the-clueless-crossword-by-quiz-pro-quo-may17-2026-buy-tickets"
-      },
-      "sameAs": [
-         "https://district.in/the-clueless-crossword-by-quiz-pro-quo-may17-2026/event"
-      ],
-      "startDate": "2026-10-09T20:30:00.000+05:30",
-      "url": "https://underline.center/t/the-clueless-crossword-quiz-pro-quo/618"
    }
 ]
