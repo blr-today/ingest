@@ -172,6 +172,32 @@
   },
   {
     "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-10-17T16:30:00+05:30",
+    "endDate": "2026-10-17T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Aizaz and Anusha as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en15",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Anusha YG"
+      },
+      {
+        "@type": "Person",
+        "name": "Mulla Aizaz Muzawar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
     "name": "Unfolding Through Folding",
     "location": {
       "@type": "Place",
@@ -212,15 +238,15 @@
     "performer": [
       {
         "@type": "Person",
-        "name": "Md Saqlain Jameel "
-      },
-      {
-        "@type": "Person",
         "name": "Raksha Nagaraj"
       },
       {
         "@type": "Person",
         "name": "Suyash Kumar"
+      },
+      {
+        "@type": "Person",
+        "name": "Sumeet Pai"
       }
     ]
   },
@@ -313,6 +339,80 @@
       {
         "@type": "Person",
         "name": "Arvind"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-10-18T16:30:00+05:30",
+    "endDate": "2026-10-18T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join Aditi from the Learning Team as she traces the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en16",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Aditi Rajesh Narayanan"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-10-24T16:30:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Sparsh and Vaishnavi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en17",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sparsh Bhatt"
+      },
+      {
+        "@type": "Person",
+        "name": "Vaishnavi Rajesh"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-10-31T16:30:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ashi and Manasvi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en18",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ashi Mishra"
+      },
+      {
+        "@type": "Person",
+        "name": "Manasvi J"
       }
     ]
   }

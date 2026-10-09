@@ -23,7 +23,8 @@
         "addressCountry": "IN"
       }
     },
-    "inLanguage": "en"
+    "inLanguage": "en",
+    "image": "https://iiwc.in/wp-content/uploads/2026/10/11Oct-Music.jpeg"
   },
   {
     "@context": "https://schema.org",
@@ -141,10 +142,9 @@
     "keywords": [
       "Art Gallery"
     ],
-    "inLanguage": "en",
     "location": {
       "@type": "Place",
-      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -153,7 +153,8 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    }
+    },
+    "inLanguage": "en"
   },
   {
     "@context": "https://schema.org",
@@ -270,10 +271,9 @@
     "keywords": [
       "Lecture"
     ],
-    "inLanguage": "en",
     "location": {
       "@type": "Place",
-      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -282,7 +282,8 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    }
+    },
+    "inLanguage": "en"
   },
   {
     "@context": "https://schema.org",
@@ -309,6 +310,33 @@
       }
     },
     "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "DanceEvent",
+    "@id": "3424-1791653400-1791662400@iiwc.in",
+    "name": "Pancharatna Natyamargah : By Shruthi Raju",
+    "startDate": "2026-10-10T17:30:00+05:30",
+    "endDate": "2026-10-10T20:00:00+05:30",
+    "description": "",
+    "url": "https://iiwc.in/event/pancharatna-natyamargah-by-shruthi-raju/",
+    "keywords": [
+      "Bharata Natyam"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Wadia Hall, Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560004",
+        "addressCountry": "IN"
+      }
+    },
+    "inLanguage": "en",
+    "image": "https://iiwc.in/wp-content/uploads/2026/10/10Oct-Dance.jpeg"
   },
   {
     "@context": "https://schema.org",
@@ -369,10 +397,9 @@
     "endDate": "2026-10-24T13:00:00+05:30",
     "description": "",
     "url": "https://iiwc.in/event/repair-reuse-workshop-by-saahas/",
-    "inLanguage": "en",
     "location": {
       "@type": "Place",
-      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -381,7 +408,8 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    }
+    },
+    "inLanguage": "en"
   },
   {
     "@context": "https://schema.org",
