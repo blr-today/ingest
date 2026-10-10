@@ -624,45 +624,6 @@
       "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
       "type": "Place"
     },
-    "startDate": "2026-10-10T11:00:00+05:30"
-  },
-  {
-    "name": "Badminton Coaching-Beginner & Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "425",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Badminton",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
-    "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
-      "type": "Place"
-    },
     "startDate": "2026-10-17T11:00:00+05:30"
   },
   {
@@ -744,9 +705,9 @@
     "startDate": "2026-10-31T11:00:00+05:30"
   },
   {
-    "name": "Women's Football Coaching - Beginner",
+    "name": "Badminton Coaching-Beginner & Intermediate",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -764,23 +725,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "550",
+        "price": "425",
         "priceCurrency": "INR"
       }
     ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Bullring%2C%20Indira%20Nagar.webp",
+    "sport": "Badminton",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
     "location": {
-      "name": "Bullring, Indiranagar",
-      "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+      "name": "Game Theory, Double Road, Indiranagar",
+      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
       "type": "Place"
     },
-    "startDate": "2026-10-10T07:00:00+05:30"
+    "startDate": "2026-11-07T11:00:00+05:30"
   },
   {
     "name": "Women's Football Coaching - Beginner",
@@ -898,6 +859,45 @@
       "type": "Place"
     },
     "startDate": "2026-10-31T07:00:00+05:30"
+  },
+  {
+    "name": "Women's Football Coaching - Beginner",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "550",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Bullring%2C%20Indira%20Nagar.webp",
+    "location": {
+      "name": "Bullring, Indiranagar",
+      "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+      "type": "Place"
+    },
+    "startDate": "2026-11-07T07:00:00+05:30"
   },
   {
     "name": "Basketball with the Sisters - Intermediate",
