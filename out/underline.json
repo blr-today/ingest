@@ -397,6 +397,85 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group\n.\n\nCome solo, with a date, or in a group—we’ve got something for everyone!",
+      "endDate": "2026-10-17T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "image": "https://underline.center/uploads/default/original/1X/07e46d67990b577742e434b3810ab9bfa74949af.jpeg",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Weekend Games with ReRoll Board Games",
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 299,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-17T12:30:00.000Z",
+               "name": "Early Bird",
+               "price": 299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+               "validFrom": "2026-03-30T15:13:19.423Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-17T12:30:00.000Z",
+               "name": "Regular Ticket",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+               "validFrom": "2026-03-30T15:13:19.423Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-17T17:30:00.000Z",
+               "name": "Walk-In",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+               "validFrom": "2026-03-30T15:13:19.423Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets"
+      },
+      "sameAs": [
+         "https://www.district.in/weekend-games-with-reroll/event"
+      ],
+      "startDate": "2026-10-17T18:00:00.000+05:30",
+      "url": "https://underline.center/t/weekend-games-with-reroll-board-games/549"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "description": "Most people think improvisers are fearless; the truth is they’ve just learnt what to do when they don’t know what to do.\n\nThis beginner-friendly introduction to improv is designed for anyone who’s ever worried about saying the wrong thing, running out of ideas, or freezing up in front of others. Through fun games, simple exercises, and guided scene work, you’ll learn how to trust your instincts, embrace uncertainty, and stay present when things don’t go according to plan.\n\nThrough the course, we’ll explore some core principles of improvisation, collaborative storytelling, and spontaneous creativity in a supportive, low-stake environment.\n\nNo acting or stage experience required. You don’t need to be funny, quick-witted, or confident. You just need a willingness to step on stage and discover that you can handle more than you think.\n\nSchedule:\n\nThis course runs over four consecutive days:\n\nSaturday, October 17 - 10:00 AM to 1:00 PM\n\nSunday, October 18 - 10:00 AM to 1:00 PM\n\nMonday, October 19 - 2:00 PM to 5:00 PM\n\nTuesday, October 20 - 2:00 PM to 5:00 PM\n\nThere’s a special Graduation Show tentatively on Sunday, November 1st, from 11:00AM - 12:30PM. This audience of this show will comprise solely of your friends and family; it will not be open to the public. This is to ensure a supportive audience for you taking to the stage for the first time!\n\nWho are Improv Lore?\n\nWe are a Bangalore-based community-theatre troupe, working towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
       "endDate": "2026-10-17T13:00:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -575,7 +654,36 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "The Silliest Show Tonight by Improv Lore",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 249,
+         "lowPrice": 199,
+         "offerCount": 2,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-16T15:30:00.000Z",
+               "name": "Early Bird",
+               "price": 199,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
+               "validFrom": "2026-03-26T07:29:43.028Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-16T17:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 249,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
+               "validFrom": "2026-03-26T07:29:43.028Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
       ],
@@ -830,7 +938,7 @@
          "offers": [
             {
                "@type": "Offer",
-               "availability": "http://schema.org/InStock",
+               "availability": "http://schema.org/SoldOut",
                "availabilityEnds": "2026-10-12T13:00:00.000Z",
                "name": "Early Bird",
                "price": 299,
@@ -1322,75 +1430,5 @@
       ],
       "startDate": "2026-10-10T18:00:00.000+05:30",
       "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!\n\nLearn more at \nhttps://cinemanextdoor.com\n and \n@cinemanextdoor_\n on Instagram.",
-      "endDate": "2026-10-10T17:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "image": "https://underline.center/uploads/default/original/2X/1/1e2e4ffbdf0124fa93c93fc75ab6b80545e637ba.jpeg",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Screening of The Sound of Music (1965) with Cinema Next Door",
-      "offers": {
-         "@type": "AggregateOffer",
-         "highPrice": 299,
-         "lowPrice": 249,
-         "offerCount": 2,
-         "offers": [
-            {
-               "@type": "Offer",
-               "availability": "http://schema.org/SoldOut",
-               "availabilityEnds": "2026-10-10T07:30:00.000Z",
-               "name": "Early Bird",
-               "price": 249,
-               "priceCurrency": "INR",
-               "url": "https://www.district.in/events/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026-buy-tickets",
-               "validFrom": "2026-10-06T20:12:36.388Z"
-            },
-            {
-               "@type": "Offer",
-               "availability": "http://schema.org/InStock",
-               "availabilityEnds": "2026-10-10T11:30:00.000Z",
-               "name": "Regular Ticket",
-               "price": 299,
-               "priceCurrency": "INR",
-               "url": "https://www.district.in/events/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026-buy-tickets",
-               "validFrom": "2026-10-06T20:12:36.388Z"
-            }
-         ],
-         "priceCurrency": "INR",
-         "url": "https://www.district.in/events/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026-buy-tickets"
-      },
-      "sameAs": [
-         "https://district.in/screening-of-the-sound-of-music-1965-with-cinema-next-door-oct10-2026/event",
-         "https://cinemanextdoor.com"
-      ],
-      "startDate": "2026-10-10T13:00:00.000+05:30",
-      "url": "https://underline.center/t/screening-of-the-sound-of-music-1965-with-cinema-next-door/893"
    }
 ]

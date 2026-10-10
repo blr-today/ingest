@@ -280,62 +280,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Kids Pizza and Cupcakes Workshop",
-    "description": "Suitable for ages 5\u201313Get ready for a fun and delicious hands-on experience designed especially for little chefs! Kids will have the opportunity to make their own pizza, make yummy cupcakes and decorate their very own ice-cream sundaes. It\u2019s a playful cooking experience where children can get creative, explore food and enjoy making something delicious with their own little hands.What\u2019s Included\ud83c\udf55 Make your own pizza\ud83e\uddc1 Bake and decorate yummy cupcakes\ud83c\udf68 Create your own ice-cream sundae\ud83c\udf7f Popcorn will be servedPerfect for a delicious, hands-on Sunday filled with creativity, fun and lots of yummy treats! \ud83d\udc9b",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/97F252609D37469698CD0A28BC7A3BB0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FEDD33647EA94C1E900B39262D9F48C8_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C6BE1E2D89D34ADCA431EB10128BF0AA_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8B7EBEF3E75640F3BACB5EE0F0D60D41_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/83871FC4DEB54CB89D82847569591186_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CFEBC73587BF41948E597CBA15B23570_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E3D17D166DFD45748CD3EAD817B7E3DF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9AD9FFBA836C431888EF6D7C0D65151D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DB3FFFFA73A9495FB78CFAB4EBD72323_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/30B24AD899C644248B9C90586B5B815B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CE25C9B456E34C0F83F1BBF945133462_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T11:00:00+05:30",
-    "endDate": "2026-10-11T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtzoryR4VrjsRbCBdFmh67aQ",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672959,
-        "longitude": 77.642634
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Canella Studio",
-      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
-      "url": "https://urbanaut.app/partner/canellastudio",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/copy-of-kids-baking-workshop-christmas-treats",
-    "keywords": [
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Malleshwaram Heritage Trail",
     "description": "\"The Malleshwaram Heritage Walk is a guided, storytelling-led walk that explores one of Bengaluru\u2019s oldest neighbourhoods beyond its well-known identity as a planned suburb. The event focuses on uncovering Malleshwaram\u2019s deeper history, going back to its temple-centred origins, forest landscape, and community life that existed long before modern city planning.Through temples, water bodies, markets, and cultural institutions, the walk connects historical records, local memory, and everyday spaces to show how Malleshwaram evolved into a centre of education, culture, and lived heritage. This event is designed for those who want to understand Bengaluru slowly, thoughtfully, and through stories rooted in place and people.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
@@ -483,56 +427,6 @@
     "keywords": [
       "Local",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Warrior Sufi Saints",
-    "description": "\"This is a guided heritage walk focused on the warrior Sufi saints of Bengaluru.The walk explores how Sufi saints were not only spiritual figures, but also protectors of communities, mediators in conflicts, and active participants in the social life of the city.Through this trail, participants will:- Visit multiple historic dargahs in central Bengaluru- Learn who these saints were and why they mattered- Understand how faith, trade, bazaars, and daily city life were closely connected- See parts of Bengaluru that most people pass through but never truly noticeThe walk uses storytelling, history, and local context to explain how these Sufi spaces shaped neighbourhoods like Halasuru and KR Market.This is a historical and cultural exploration of the city through the lens of Sufi traditions.The trail is designed for people who are curious about Bengaluru\u2019s layered past and want to understand the city beyond landmarks.\"",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A656BF20E5B245A6AE9F8BE0E85D34BB_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CEC4C7CBCE844695AB2A1353813A3F2E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7BEF4BBEC27740D0A89BDE4E2F7B9168_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BD300C2770084BA2904CD78640D3F505_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C5A98EDB0CB0402AA711C639714C8A87_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-10T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Nagarathpete, Bengaluru, Karnataka 560002, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9662107,
-        "longitude": 77.581944
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 900.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru Prayana",
-      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city\u2019s rich history, layered identity, and everyday diversity beyond its modern image.",
-      "url": "https://urbanaut.app/partner/bengaluru-prayana",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/warrior-sufi-saints",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -795,58 +689,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "PAINT AND BAKE WORKSHOP",
-    "description": "SUITABLE FOR ADULTS AND KIDS AGED 10+Paint & Bake is a fun, hands-on experience designed for anyone who wants to slow down, get creative and spend a few hours doing something a little different. Begin your afternoon by sipping on refreshing matcha latte, then let your creativity take over as you paint and experiment with colours, shapes and your own artistic expression.Once you\u2019ve had your creative moment, it\u2019s time to get into the kitchen and bake delicious cookies. Enjoy the process of mixing, creating and baking, and leave with your freshly baked cookies to enjoy later or share with someone you love.Along the way, there\u2019s plenty of room to meet new people, have easy conversations and make new connections in a relaxed and welcoming setting.Whether you\u2019re coming with friends, looking for a solo activity, or simply want to try something new, Paint & Bake is an afternoon to sip, create, bake, connect and have fun. \ud83c\udf3fNo prior painting or baking experience is required \u2014 just come with an open mind and a willingness to create!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/62004FC068DB41FC98BF2A5E0067646B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D8E90A7FEF1341C2BCA2D4F1E9F6943C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/63E73D19D7D34F58AF5DEF769D771EB9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FE7E383EB28B44E094DC83A2792D34A9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B137ACE3141D4D409A4308B63BC9FA5B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DB90F86C584F4936AEEBEC3711DDBA8F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4C74AC4E1B534925BA065A21AF1DAA3C_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T15:00:00+05:30",
-    "endDate": "2026-10-10T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672959,
-        "longitude": 77.642634
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Canella Studio",
-      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
-      "url": "https://urbanaut.app/partner/canellastudio",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/kids-painting-workshop",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Army Town and Its Tales",
     "description": "NOTE: This experience is valid only for Indians with an Aadhaar card.\"The Army Town and Its Tales walk explores the military and colonial foundations of Bangalore through the historic Cantonment area. Once one of the most important and sought-after army postings in India, this district played a key role in shaping the city\u2019s planning, architecture, and daily life.Through streets like MG Road and Cubbon Road, this experience connects the past with the present using maps, photographs, letters, and stories that reveal how the Army Town influenced the evolution of modern Bangalore.https://bengaluruprayana.com/terms-conditions-walks/\"",
@@ -938,6 +780,60 @@
     "keywords": [
       "Walking Tour",
       "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Pan-Asian Cooking Workshop",
+    "description": "*Beginner friendly**Gourment Lunch Included*Join us to explore the flavors of Asia in this dynamic, interactive demo workshop by Chef Natasha Celmi. Journey across Thailand, Japan, Vietnam and more and learn about signature ingredients, techniques, and traditions. The recipes are designed to be approachable and easy to recreate, making them ideal for everyday meals or relaxed home entertaining.You will cook as a group while the chef demonstrates various dishes, talking about variations, secret tips. You also get to cook along and practice your skills practically.Enjoy a delicious lunch of the gourmet spread that is cooked.MENU :Burmese Khao Suey (Veg/Chicken)Vietnamese rice paper rollsKung Pao tofuHomemade sriracha sauceThai SaladHomemade Chilli Oil",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/10E598F8EE2F4D4DA3BACFFADAB8A7FB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6402C34CFBF04A1C9CDDD2EE914E93A4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/52F556616A0F40F98BB8E18809A8C5FF_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9F0FC8796E054B0EB38F65A2173E1057_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C4BFA2F04D274EC783CE6601DEA11658_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/26278271B2A7435F88925EC94E33D1D4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/540A83D52D654AE491D5FB82F5C094D5_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D309E6395C3245FCA237FBB5DF76B74C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F7285F04A30B41F9BC3F4EB2138A56A0_converted_webp.webp"
+    ],
+    "startDate": "2026-10-13T11:00:00+05:30",
+    "endDate": "2026-10-13T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672959,
+        "longitude": 77.642634
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canella Studio",
+      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
+      "url": "https://urbanaut.app/partner/canellastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/panasianworkshop",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -1076,55 +972,6 @@
       "Leisure",
       "Local",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "ENABL & UNWIND - \"Move. Nourish. Connect\"",
-    "description": "Move. Nourish. Connect.Join Enabl Life for an intimate morning created around everything we believe in \u2014 movement, mindful living, better choices and meaningful connection.Set at Copper + Cloves, Bangalore, the experience begins with a guided yoga session with Sandhya, followed by a wholesome, plant-based brunch designed to leave you feeling as good as you moved.But this is more than a yoga class.It\u2019s your chance to experience Enabl Life \u2014 not just see it.Designed for the modern, conscious woman, Enabl Life is a technical yoga & pilates wear brand, engineered for movement, comfort and performance. During the session, you\u2019ll wear Enabl Life and experience the fit, fabric and functionality firsthand \u2014 from the way it moves with your body to the way it feels through every pose.And you don't just wear it for the morning. Your complete Enabl Life outfit is yours to take home.Why Enabl Life?Because what you wear should work as hard as you do.Thoughtfully engineered fabrics. Functional design. A considered approach to conscious living.Come move in Enabl Life, discover what makes our clothing different, enjoy a nourishing meal, and spend a morning with women who believe wellness is more than a workout.Who is this for?For women who love yoga, pilates, movement, wellness, conscious living, great food and good company.Whether you're already part of the wellness community or simply curious about finding your next favourite way to move \u2014 come as you are.Limited spots available. Come for the movement. Stay for the community. Leave in Enabl Life.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/EDE5CA2F93FD41B3BD4D1250EB4E599D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E70B33D4A21442FAA88D84C3FDD71F79_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5565D411AB9946D5B4F69B096941B60C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/46FBCADE00B14C8D9AD5664856DA779A_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-10T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9639148,
-        "longitude": 77.6384238
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2006.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Enabl Life",
-      "description": "Enabl Life creates technical activewear for yoga, Pilates and movement\u2014engineered to move with you, breathe with you and stay out of your way. Because when your clothes stop distracting you, you can be fully present in your practice, your movement and yourself.",
-      "url": "https://urbanaut.app/partner/enabl-life",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F39CF4B568C349FCA5A19FB0E4E40740_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/enabl-unwind-move-eat-connect",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -2914,60 +2761,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Wedding Planning Career Masterclass",
-    "description": "The WB Edit - 2The Wedding Blueprint is a learning initiative designed to give aspiring planners and event enthusiasts an inside view of the wedding industry. It brings together years of expertise, real-world insights, and creative know-how to help participants understand every aspect of wedding planning.The Creative Minds Behind the Magic Niveditha Nishanth - Co-Founder & Creative Director \u2013 Crimson and Cherry Scripting unforgettable stories for each couple has been her mantra, propelling her vision for Crimson and Cherry through nearly a decade of wedding craftsmanship. With over 120 weddings planned and designed, Niveditha brings creativity, warmth, and precision to each celebration, building Crimson and Cherry into a name known for elegance, personalisation, and timeless experiencesDeepika Shetty - Founder and Creative Director \u2013 Best Day Ever By Deepika Shetty An architect turned curator of celebrations, she began her journey 9 years ago designing spaces and planning soulful weddings. Since then, her company has grown to curate nearly 250 social events. From weddings to life\u2019s cherished milestones, she has crafted celebrations with detail, elegance, depth, and emotion\u2014where every element, every experience, and every memory is built to last.What you\u2019ll learn - Understanding the role of a wedding planner.Basics of consultation and coordination services.Working with and managing vendors. Mastering timelines for smooth execution. Smart budgeting for weddings.Effective pitching strategies for clients.The importance of aesthetics in weddings. Introduction to design and d\u00e9cor essentials. Key aspects of production management. Crafting memorable guest experiences.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9F61094114B44C40BF5AFD8ECA89918D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/20CDB15CCA394FBDA30F3C5F8245FF1D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A12C021F5F3B4CADA1FC5D3E34576424_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D9405BA862A346D4ACEA17088EDCB308_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CB8EF2F81AB8406B87664F1DF330A786_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9B4D69074C934581978E7BC7890E9120_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D4E01C3242004026A859307DDADFE69D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C6556600688E4B19967F8458B9D12ACC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B508921CC9B749E1B1A164B3304E2B68_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6606F92C4D23429D9D759D904B5C2A77_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/482D939BF79B47BABE5EC2F3181BAAAE_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T10:30:00+05:30",
-    "endDate": "2026-10-10T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "445/1P, Kalkere Main Road Kalkere, Horamavu Post, K R Puram Hobli, Bengaluru, Karnataka 560016, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0272551,
-        "longitude": 77.67717290000002
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2990.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Wedding Blueprint",
-      "description": "",
-      "url": "https://urbanaut.app/partner/theweddingbluprint",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/58BD440899734BFCB128DB2B6D444C54_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/theweddingplanningcareermasterclass",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Puppy Yoga - Bangalore",
     "description": "Join us for a beginner-friendly yoga session surrounded by the sweetest shelter puppies. It\u2019s a light, relaxing flow where the pups freely wander around your mat, making the experience calm, happy, and a little chaotic in the best way.All the puppies are from local shelters and up for adoption, and a part of your ticket goes toward their care. You don\u2019t need any yoga experience - the session is guided and open to all.The class is 60 minutes long. Please arrive 15 minutes early, and feel free to stay back a bit after to spend more time with the dogs.Seats fill up fast - book your spot soon!",
@@ -3008,52 +2801,6 @@
     "url": "https://urbanaut.app/spot/puppyyogabangalore",
     "keywords": [
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Paint Pumpkins with Puppies - Bangalore",
-    "description": "Ready for a wholesome Halloween plan? Come paint your very own pumpkin while adorable shelter puppies and dogs play around you! We\u2019ll have everything you need to get creative - just pick up a brush, paint your pumpkin, and enjoy some quality time with our four-legged friends.Take a little break from your usual routine, get creative, unwind, and spend some time surrounded by happy paws. Expect pumpkins, paint, puppy cuddles, and a few curious paws trying to join your artwork! The dogs at Pawga come from shelters and fosters and are looking for loving forever homes. These sessions give them a safe space to socialise, interact with people, and potentially meet their future adopters.Plus, a portion of your ticket goes towards animal welfare and supporting shelter animals. Make your Halloween plans a little more fun (and a lot more wholesome). Grab your seat, pick up a paintbrush, and come spend some time with the Pawga pups! \ud83d\udc36\ud83c\udf83Limited spots available - book your ticket now and join us for a day of pumpkins, paint and puppy cuddles.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/81623E8CD65D4A18A6DF1177DEBF33D7_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-10T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "90, 17th B Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvQSY6tMVrjsRFcolfXccGro",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9345749,
-        "longitude": 77.620448
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 13,
-    "remainingAttendeeCapacity": 13,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1863.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pawga Pets Yoga",
-      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
-      "url": "https://urbanaut.app/partner/pawga",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/56384ED1915F45B195D3A130290A4940_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/paintpumpkinswithpuppiesbangalore",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3283,51 +3030,6 @@
     },
     "url": "https://urbanaut.app/spot/daisies-vra-chytilov",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Write & Heal",
-    "description": "Inner Gold Circle is a warm, guided community where meaningful conversations become a catalyst for healing and growth. Every gathering explores a unique theme through practices like meditation, mantra, breathwork, emotional awareness, and collective healing practices.THIS MONTH'S THEME: WRITE & HEALYou\u2019ve listened to everyone else.You\u2019ve listened to your chatterbox brain.Now let\u2019s pen it around. \ud83d\ude09Journaling can be more than putting your thoughts on paper. It\u2019s an entirely different way to listen to yourself.Through surprise prompts and guided reflection, we\u2019ll create a little space to pause, write, explore and see what comes up.No perfect words. No writing experience. No pressure to share.Keep it private, or share a little \u2014 your call. Come solo, or bring your partner, a friend, or a family member. Everyone is welcome.WHAT YOU WILL EXPERIENCEGuided journaling through fun, unexpected prompts.A chance to slow down and feel lighter.A warm, low-pressure circle where you can simply be yourself.Moments of surprise, insight, laughter and connection.WHO IS THIS FORThis gathering is for anyone who wants to:Make space for self-reflection without making it heavy.Understand their thoughts and feelings a little better.Discover things about themselves they may not have noticed before.Spend a couple of unhurried hours with themselves and a like-minded circle.WHAT YOU WILL LEAVE WITHA fresh way to use journaling for self-reflection and clarity.New prompts and ideas you can take into your own journaling practice.A little more clarity about what\u2019s been on your mind.A few new connections and sweet memories for the dayMEET YOUR FACILITATORSaloni Kumar is the Founder of Healing Garden, a Life Coach and Shadow Work Facilitator (IPHM, UK).Her work brings together shadow work, neuroscience, meditation, somatic awareness and Vedic wisdom to create experiences that are practical, compassionate and deeply human.Before stepping into this path, she spent 15 years in the corporate world. With a deepening love for psychology, human behaviour and healing, Saloni chose to follow her passion fulltime and dedicate herself to supporting people through their journeys of self-discovery and transformation for over 5 years now.For her, guiding people through their own journeys of transformation gives purpose to everything she has learned and experienced over the years.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2AA7FA1501084C789241072EE78BB64F_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T11:00:00+05:30",
-    "endDate": "2026-10-10T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 199.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/write-heal",
-    "keywords": [
-      "Wellness",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -4130,7 +3832,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Goa is a Bebinca - A Food Theatre Experience",
-    "description": "What makes a place linger in your memory\u2014its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! \u2728).We\u2019re turning back the clock and inviting you into a bustling, atmospheric Goan taverna\u2014a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary\u2014a total firecracker of a woman who is determined to put her family\u2019s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch\u2014you\u2019ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn\u2019t just a show or a meal\u2014it\u2019s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect\ud83c\udfad 90 Minutes of Pure Immersive Theatre Step into the narrative, interact with characters, and be part of the story as it unfolds around you!\ud83c\udf78 Bar Bites & Spirits Includes a curated menu of contemporary Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol. Note: Entry allowed for guests above 21 years, as alcohol is being served \ud83d\udccd Bangalore Run Only in October!",
+    "description": "What makes a place linger in your memory\u2014its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! \u2728).We\u2019re turning back the clock and inviting you into a bustling, atmospheric Goan taverna\u2014a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary\u2014a total firecracker of a woman who is determined to put her family\u2019s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch\u2014you\u2019ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn\u2019t just a show or a meal\u2014it\u2019s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect\ud83c\udfad 90 Minutes of Pure Immersive Theatre Step into the narrative, interact with characters, and be part of the story as it unfolds around you!\ud83c\udf78 Bar Bites & Spirits Includes a curated menu of contemporary Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol. Note: Entry allowed for guests above 21 years, as alcohol is being served.Meat served is Pork and note Bebinca contains egg\ud83d\udccd Bangalore Run Only in October!",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/7218664A2A8E4A138EBAC6044B9A8F80_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/553C1392CCD944768F44C8CCFB4F5F7C_converted_webp.webp",
@@ -4422,56 +4124,6 @@
       "Wellness",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Ehsaas",
-    "description": "Ehsaas: come walk through Ajji Mane at The Commons with us\ud83d\udcc5 10 October | \ud83d\udccd The Commons, BangaloreEhsaas is Urdu for feeling, for realisation. And we'd love for you to come feel it with us.Why we're doing thisThe desi household look was never a style. It was just how our homes looked, growing up. Then it got called dated, then gaudy, and now everyone is chasing it again. We didn't want to explain it to you. We wanted to invite you back inside it.The Commons shape-shifts around whatever idea it's holding. This time, the foundation was already here: Ajji Mane, Ajji House itself. So we curated it into an experience you can simply walk into, and know what The Commons truly means.What you'll experienceEhsaas is a sensorial walkthrough of an ajji's house, room by room. Every room carries its own smell, built into the space itself. A look at the zones:Sparsh (touch): Start in the tulsi courtyard. Sit with a potter and shape your own matka, guided from start to finish, with clay on your hands.Awaaz (sound): Sit a while. Listen to nostalgic audios, the jingles, the suprabhatam in the background, the quiet-loud of a house full of people.Zaika (taste), curated by Subko: Kaccha mango, pickles laid out for tasting, hot chips in crinkly packets, steel plates, a striped cloth hand towel.Nazar (sight): Step into a living room pulled straight from your grandmother's house.And at the end, the memory wall, so you can write down everything the space brought back.Your ticket includes Pottery Workshop, Sensorial Experience and F&BEntry to the full Ehsaas walkthrough, all zonesThe Sparsh pottery workshop, guided by a potter, and the piece to take back homeThe Zaika food spread, curated by SubkoBring your friends, bring your family, bring whoever you'd want next to you in an ajji's living room. We'd love to have you all.Book your ticket and come Ehsaas with us.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/24E0EF661DB944D4841C05F2F62C34ED_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CB8D81D01A764EA5BAAA47912E4593CE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/380816569C834E1297C522C27C349307_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3A6155661C804C1DA06D617F0004842D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/67209143BADC4747B2902F4569EA4DCF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C781D8F19AB04F049F52067DDF085844_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T12:00:00+05:30",
-    "endDate": "2026-10-10T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9584305,
-        "longitude": 77.59289509999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1178.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Black&Beige Creative Hub",
-      "description": null,
-      "url": "https://urbanaut.app/partner/blackbeige-creative-hub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/FE868B57D5B34261BDE7B366D1DF8236_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ehsaas",
-    "keywords": [
-      "Workshop",
-      "Walking Tour",
       "URBANAUT"
     ]
   },
@@ -5023,104 +4675,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "New Moon Rituals: Restorative Yin + Sound Healing",
-    "description": "NEW MOON RITUALS: YIN YOGA + SOUND HEALINGA restorative evening to release, reset & set intentions for the new lunar cycle.Through Restorative Yin Yoga, we\u2019ll explore slow, supported postures that invite the body to soften and release, while Sound Healing uses soothing vibrations to deepen relaxation and create a sense of inner stillness.No pushing.No performing. No need to achieve anything.Just time to pause, breathe, listen, and reconnect with yourself.Come as you are. Leave a little lighter.About Soundarya, Yin Yoga Instructor My classes focus on nervous system regulation, mindful movement, and creating a sustainable relationship with the body. I blend traditional yoga practices with modern mobility techniques to support strength, stillness, and overall well-being. A large part of my work is centered around women\u2019s wellness and hormonal health through yoga asanas and pranayama. My intention is to create a space where people can slow down, embrace stillness in this day and age, and reconnect with their body and breath.About Sneha, Sound Healing Practitioner My journey into healing and mindfulness started with a deep curiosity about people, emotions, and why each person, even in the same situation, experiences life so differently. I was also deeply curious about why changing certain patterns feels so difficult, even when we know they no longer serve us. Even while spending over a decade in the corporate world as a Chartered Accountant, I found myself constantly drawn toward understanding the inner world \u2014 the mind, emotions, awareness, and the connection we have with ourselves. Over time, by following my intuition and inner guidance, one experience naturally led to another, eventually bringing me to mindfulness, psychology, sound healing, and the work I do today. Today, I create spaces that help people slow down, reconnect with themselves, and find greater balance and inner well-being amidst the pace of modern life. I believe healing begins when we return to who we truly are beneath the patterns and noise. ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/EE3E21F07C2A47F391815CDB5966B5F0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8B0866DE60D34D76856AFD5103CA01BB_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/16F38CB1D16C4D90A4DC2DD92E481473_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A705A838EBD34ACDB160E0998FCE5580_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/516355010DB6495195849A9D6461BE6E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T19:00:00+05:30",
-    "endDate": "2026-10-10T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Copper + Cloves / the Studio",
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9639148,
-        "longitude": 77.6384238
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 4,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1573.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Copper + Cloves / the Studio",
-      "description": "We are all about nourishing food and creating spaces for connection",
-      "url": "https://urbanaut.app/partner/copperandcloves",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg"
-    },
-    "url": "https://urbanaut.app/spot/newmoonyinsoundhealing",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Looroo Club: Art Cafe",
-    "description": "ART CAF\u00c9 \u2014 THE COLOUR EDITIONA morning of art and play for grown-ups and children, happening simultaneously across two spaces at Coro.While the adults slow down with a hands-on art workshop, the children step into a playful world of colour with The LooRoo Club.For the Grown-upsThe Nature PaletteAn exploration of colour through nature.A slow, tactile art session where participants discover natural pigments from flowers, leaves, spices and other everyday materials, experimenting with colour, texture and mark-making to create their own nature-inspired artwork.For the kidsThe Day the Colours QuitInspired by The Day the Crayons Quit, we begin with a story and a simple question:What happens when the crayons quit? Where else can we find colour?From mixing and making to painting, sensory play and open-ended exploration, children discover colour in unexpected ways. The session brings together art, imagination and play, with each child creating something of their own to take home.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3619C82DBEA84B9EAADD7E07C63369A7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/079CF78770124CF085B0245FA9D9DB03_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/73101C08EA4048FEB3D87A5BD6B0D1D1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3542936F42FB443DA670F90AFE54BC9D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/AA9B0C97108E4DC0A127EB562E6004BE_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T10:30:00+05:30",
-    "endDate": "2026-10-10T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9607824,
-        "longitude": 77.6372145
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 13,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 1534.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/art-cafe-the-colour-edition",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Food in Literature",
     "description": "A journey is never just about the distance travelled; it is also about the lives, struggles, and hopes carried along the way. In \u201cThe Long March\u201d, Namita Waikar turns our attention to India\u2019s farmers and the realities that shape their lives, tracing stories of resilience, protest, and the fight to be heard. What can their journey teach us about rural India, inequality, and the people whose labour sustains the country yet so often remains unseen?Book of the month: The Long March by Namita WaikarWhen: Saturday, 31st October, 2026 at 11 a.m.Where: Atta Galatta Bookstore, Indira NagarAges: 18+Hosted by: Prachi GroverRegistration is mandatory as we have limited spots.The session is free & copies of the book are available at the store. Prachi Grover is a culinary consultant and educator and is the founder of \u201cFrom Words to Wok,\u201d a community for people who love to read and eat.",
@@ -5214,106 +4768,6 @@
       "Leisure",
       "Local",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Navratri Celebration",
-    "description": "SKYLIME X PLAYCOVENAVRATRI PLAYDATEA little story. A little wonder.A whole lot of festive play.1 HR~ Story led Festive PlayA Navratri story brought to life through movement | creative making | music & play1 HR~ Open PlayOpen-ended play, exploration & plenty of room for little imaginations.2 Hours. One Festive Adventure.Come festive. Come curious. Come PLAY.\ud83d\uddd3\ufe0f Saturday, 10 October\ud83d\udd52 11:30 AM to 1:30 PM\ud83d\udc67\ud83c\udffb 2-10 years\ud83d\udccd Skylime - Happy Minds, JP Nagar ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/71A3FBDEFB64410C930A827F67D3EF71_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D77A65D1E02841ED809F43D1BB1531EE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/EFC8F3CAA8384639903F6FB813550CAE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/295DC9DB016B4202B01DE83456DB0BFC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A2D9B67C6F0C46A29945565CC9F5A3D2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6810438311F94A4C9D2C4CFE44CE7FB4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F1679F652AC849DA9A6064A38F9C0070_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A2E81B99B2724333A6C82398798C09E1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0AE4FC5A73E94A4CB49EF7658CB6778B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1507CBBD7CE34FF49132396881C1161E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T11:30:00+05:30",
-    "endDate": "2026-10-10T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1st floor, Manjushree\" #1310, 9th Cross Rd, above IDFC First Bank, ITI Layout, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9107174,
-        "longitude": 77.58379839999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 1399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Skylime - Happy Minds",
-      "description": "India's first inclusive, sensory based play area for all children aged 2 to 12 years old.",
-      "url": "https://urbanaut.app/partner/skylime-happy-minds",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/FD98C0CFCED645EEA48458647B4E55B2_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/navratricelebration",
-    "keywords": [
-      "Pop-up Event",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Oota, The Kodava Way",
-    "description": "At Paytey, we\u2019re setting the leaf for a long Kodava lunch. Think crisp mutton cutlets, fiery pork chudals, chicken liver and gizzard pepper fry, soft kadambutt with pandi curry, and ghee rice with chicken curry. To finish, coffee, cardamom and orange cr\u00e8me br\u00fbl\u00e9e. That\u2019s just a taste of what\u2019s coming - there\u2019s a place for you at the table.Date: 10 OctTime: 12PM & 2PM SlotsLocation: PayTey, New Bel Road",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/12556084BF554093917A77426010E8D3_converted_webp.webp"
-    ],
-    "startDate": "2026-10-10T12:00:00+05:30",
-    "endDate": "2026-10-10T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, 204, New BEL Rd, KGE Layout, Devasandra Layout, Bengaluru, Karnataka 560054, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0301511,
-        "longitude": 77.5705527
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2352.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trippy Goat",
-      "description": "Bringing in the cool and casual into wine & dine\u2026 & dare we say truly sustainable coffees, handpicked from small and medium farms in the Western Ghats",
-      "url": "https://urbanaut.app/partner/trippygoat",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BC98E2FBE79545159908D9FDDF5ACB27_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/oota-the-kodava-way",
-    "keywords": [
-      "Pop-up Event",
-      "History & heritage",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -6154,6 +5608,549 @@
     "url": "https://urbanaut.app/spot/moneymatters#2026-10-21T1600",
     "keywords": [
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Manthan 2026 - Navratri Special",
+    "description": "10 Days. 10 Healing Experiences. 9 Devi Energies. Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.Which energy do you need right now?There are days when you need courage, or need to let go or you feel stuck and need clarity or maybe need to put yourself first.Manthan is a 10-day journey through 9 Devi energies, created to help you explore the different energies you may need in your everyday life.Each day brings a different healing experience \u2014 helping you pause, reflect and work with one aspect of yourself.You don't need to know which Devi you need.Just come as you are.Your Journey Through the Program10 Days. 10 Opportunities to Pause.Each day of Manthan 2026 brings a different healing experience inspired by Devi energy.10 Oct | Saturday | Day 0 \u2014 Begin Your ManthanUnderstanding the Devi energiesBefore we begin, we'll explore what Devi energy means in everyday life \u2014 the balance of feminine and masculine energies, and how different qualities can support us through different situations.Takeaway: Understand what energy you may be needing right now.11 Oct | Sunday | Day 1 \u2014 When You Need StabilityDevi Shailaputri: Ground yourself. Find your centre.When everything around you feels uncertain, stability begins within.This day can help you: feel more grounded, connected and present.12 Oct | Monday| Day 2 \u2014 When You Need DisciplineDevi Brahmacharini: Show up every day, before any result has appearedA pursuit that continues even when nothing is promisedThis day can help you: build inner alignment and take that next step.13 Oct | Tuesday | Day 3 \u2014 When You Need BoundariesDevi Chandraghanta: Hold your ground, but without losing composure.Old emotions, relationships, beliefs and patterns that are still influening you today.This day can help you: recognise what you're ready to release and create space for something new.14 Oct | Wednesday | Day 4 \u2014 When You Need Creation with ConsciosunessDevi Kushmanda: Create new possibilities for yourself.Creation that begins from conciousness and not external pressureThis day can help you: identify limiting beliefs and create new possibilities for you.15 Oct | Thursday | Day 5 \u2014 When You Need to hold SpaceDevi Skandmata: Taps into her strength to protect othersHold space so that others can step into their strengthThis day can help you: find your strength, compassion and nurturance16 Oct | Friday | Day 6 \u2014 When You Need TransformationDevi Katyayni: Break the pattern, Choose differentlyAwareness is the first step. Change begins when we start responding differently.This day can help you: recognise recurring patternm and explore a new way forward17 Oct | Saturday | Day 7 \u2014 When You Need FearlessnessDevi Kalaratri: Take fear head on at its sourceExploring deeper hidden patterns and Moving through darkness without hesitationThis day can help you: Undertand what is ready to be released and release what needs to be18 Oct | Sunday | Day 8 \u2014 When You Need to Let goDevi Mahagauri: Come back to alignmentIn the middle of relationships, responsibilities and expectations, it's easy to lose touch with yourself.This day can help you: reconnect with your emotions, intuition and inner self.19 Oct | Monday | Day 9 \u2014 When You Need to Feel CompleteDevi Siddhidatri: Clarity about your path.Your power isn't about controlling everything around you. It's about knowing who you are and standing in that awareness.This day can help you: reconnect with confidence, personal power and purpose.What You May Take AwayManthan isn't meant to end when the 10 days are over.Take a moment to look back at what surfaced, what shifted and what you want to take into your everyday life.Your Manthan continues beyond these 10 days.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4D48A03F61E84E9FACA1CAE647EE6EF9_converted_webp.webp"
+    ],
+    "startDate": "2026-10-10T19:00:00+05:30",
+    "endDate": "2026-10-10T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9628957,
+        "longitude": 77.57754
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 418.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Healclinic.in",
+      "description": "Healclinic is a Bengaluru-based holistic wellness centre offering transformative experiences that blend mindfulness, emotional healing, spirituality, and self-discovery. Through guided travels, workshops, and experiential learning, we help people reconnect with themselves and the world around them.",
+      "url": "https://urbanaut.app/partner/healclinicin",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/98278A0B5EBB4830943E710DBF18C00F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/manthan-2026-navratri-special",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Understanding Transitions",
+    "description": "Midlife can bring change across many parts of our lives work, relationships, identity, health, priorities, and how we imagine the future. But not everything needs to change.This conversation invites us to pause and look more closely at our transitions: What is changing? What is staying steady? And how do we navigate the space between the two?Together, we will explore how to make sense of transitions in midlife, distinguish between changes we can influence and those we need to respond to, and find greater clarity about what we want to carry forward and what we might want to leave behind.Join us for a thoughtful, open conversation about understanding your own transitions and finding your way forward.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/96A15C5CBF0941658754C5EFB62DC14E_converted_webp.webp"
+    ],
+    "startDate": "2026-10-13T18:00:00+05:30",
+    "endDate": "2026-10-13T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9628957,
+        "longitude": 77.57754
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 299.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "Zuva Life offers spaces for people in midlife to pause, reflect, and think through what comes next. Our workshops and small group experiences are designed for those navigating shifts in work, identity, and direction, combining reflection with a thoughtful approach to what comes next.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/transitions-in-midlife",
+    "keywords": [
+      "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Analog Club: Halloween Edition",
+    "description": "Step back in time at The Analog Club: Halloween Edition, an event series by the Studio by Copper + Cloves.Imagine walking into a busy cafe and seeing not a single phone, no one taking selfies, and no one around you scrolling \u2014 just people dressed up, chatting, creating, reading, and enjoying being present.Disconnect from devices for 3 hours of unplugged time \u2014 we'll have books, board games, music, crochet, and, of course, spooky-themed food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid \u2014 you can dip into activities if you want, chat to new people, graze at our high tea counter, or get creative at our Halloween-themed art corner.And because it\u2019s Halloween, your best costume is a MUST! \ud83d\udc7b Come dressed up, get into the spirit, and make the most of our spooky little corner of the analog world.Meet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones).Embrace the analog experience, slow down, and reconnect in this crazy digital age \u2014 with a little Halloween magic.Info: Strictly no devices (no laptops or iPads, and you will be asked to keep your phone in a basket or in your bag\u2014not in your pocket or on a table. E-books are allowed). We will not be using social media on our phones at the event; at times we will only take photos with a camera.Tickets are for entry, all games and art supplies, Halloween-themed food, and unlimited high tea from our renowned deli counter. Do not purchase a ticket if you are unwilling to surrender your devices for 3 hours.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E2206F4A2B214A69A3451BD8FCD0B650_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E19E81CCAA334CDC8F81823F580E754E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7B16852218FA4AEBA57A1EA22902EBC2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6A96AF67568A4DC7A9098E537482E5B4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8AA650A890054B48AED87E6051FF8B6F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/232347104EF44374A78F17E08AD22A97_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/AB4BBD0DBEC94317B9FD60139E7A6838_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9C2C40C1F3DD48F0AC8920413FF02C2B_converted_webp.webp"
+    ],
+    "startDate": "2026-10-18T15:00:00+05:30",
+    "endDate": "2026-10-18T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves / the Studio",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9639148,
+        "longitude": 77.6384238
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 39,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 630.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves / the Studio",
+      "description": "We are all about nourishing food and creating spaces for connection",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg"
+    },
+    "url": "https://urbanaut.app/spot/theanalogclubhalloween",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bangalore Documentary Film Festival - NOV 5-8",
+    "description": "Full Programme Here --Schedule Here -- The documentary tradition in India is as vibrant as it is groundbreaking. Join BDFF in keeping the documentary tradition going. Our film festival brings together contemporary filmmakers whose films offer a multi-faceted portrayal of India. Taking place between November 5th to November 8th, we invite everyone to come along and enjoy the cinematic achievements of various artists from around the country. ",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FCD2A09DE8C74F2395B9A6DF3FDAE52F_converted_webp.webp"
+    ],
+    "startDate": "2026-11-05T17:00:00+05:30",
+    "endDate": "2026-11-05T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "716, Chinmaya Mission Hospital Rd, First Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9782458,
+        "longitude": 77.64430279999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1180.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
+      "url": "https://urbanaut.app/partner/bff",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/bdff",
+    "keywords": [
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Japanese Decoden Photo Frame Workshop",
+    "description": "Turn an ordinary photo frame into a Kawaii dream! Get ready for a super-cute Japanese Decoden Photo Frame Workshop where creativity meets maximum cuteness! \ud83c\udf38\ud83e\uddf8\u2728Create your very own overloaded, colourful masterpiece using adorable charms, sweets, bows, pearls and all things kawaii! \ud83c\udf53\ud83c\udf80\ud83d\udc96All materials included ",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CE7EB5EB4BD145529CC2781BBC13444D_converted_webp.webp"
+    ],
+    "startDate": "2026-10-18T15:30:00+05:30",
+    "endDate": "2026-10-18T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1200.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/japanese-decoden-photo-frame-workshop",
+    "keywords": [
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Who Gets to Adapt? Online webinar",
+    "description": "Who Gets to Adapt? Gender, Care and Everyday Life in a Changing ClimateWe\u2019re often told that adapting to climate change means changing how we live \u2013 travelling differently, staying indoors during extreme heat, finding ways to cope with flooding, conserving water, or changing our routines.But adaptation isn\u2019t equally available to everyone.What happens when your ability to adapt is shaped by your gender, the work you do, how you move through the city, how much you earn, whether you feel safe, or the people you are responsible for caring for?And when climate disruption enters everyday life, who absorbs the extra work of making things function \u2014 changing schedules, finding water, caring for others, navigating unsafe conditions, or simply carrying on?This conversation asks a deceptively simple question: who gets to adapt?And perhaps more importantly: when we ask people to adapt to a changing climate, who is actually absorbing the cost of that adaptation?",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1C7AF3855A824BF0836ED0A435B39D11_converted_webp.webp"
+    ],
+    "startDate": "2026-10-15T19:00:00+05:30",
+    "endDate": "2026-10-15T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9628957,
+        "longitude": 77.57754
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mudito",
+      "description": "Mudito is a social enterprise working to build safer futures across public and digital systems.",
+      "url": "https://urbanaut.app/partner/mudito",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/B0BF1000A1254EAA888D78B8FDDDC486_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/who-gets-to-adapt-online-webinar",
+    "keywords": [
+      "Virtual",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Floating Sound Bath & Ancestral Healing Ceremony",
+    "description": "PARTS OF YOU \u2013 Ancestral Healing WorkshopThis Pitrupaksha, join us at Uruvana Wellness for a sacred journey of remembering, healing, and receiving the gifts of your lineage.\u2022 We begin by a healing ceremony for both your maternal and paternal halves, a prayer to both lineages.\u2022 You\u2019ll then create a sacred art - tree of ancestral gifts - a piece of your ancestry to carry home to your altar.\u2022 Next, we invite you into a gentle aromatherapy ritual, working with plant spirits to set intentions.\u2022 From there, sink into our floating aerial hammocks, as a unique sound bath with rare instruments guides you into deep meditation.\u2022 The experience ends with a hand blended herbal tea and quiet reflectionsA space to re-witness, heal, and embrace the parts of you carried through generations.\ud83d\udccd Uruvana Wellness\ud83d\udcc5 October 11th , 5-8 pm\u2728 Register by sending a DM to or calling +91 63666 31748",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CB06F22ECC5A46F3BB7E5669029E89B8_converted_webp.webp"
+    ],
+    "startDate": "2026-10-11T17:00:00+05:30",
+    "endDate": "2026-10-11T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2nd floor, no.21, 17th F Cross Road, Stage 2, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9814139,
+        "longitude": 77.63377489999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 3333.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Uruvana Wellness",
+      "description": "Uruvana Wellness is a holistic wellbeing space in Bengaluru offering sound healing instruments, plant-based wellness, and immersive healing experiences. Through sound baths, 1:1 sessions, rituals, and community gatherings, we support mind\u2013body\u2013soul harmony. Home of the Healing Arts.",
+      "url": "https://urbanaut.app/partner/uruvanawellness",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1829DA454A784F8B9C5A39CE13475668_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/floating-sound-bath-ancestral-healing-ceremony",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pop Culture Quiz by Calm Your Wits Quizzing",
+    "description": "Is your Instagram screentime begging for overtime pay? Are your friendships tested every time there is a Marvel vs DC debate?If you are someone who knows the next brainrot song before it goes viral, join us to test your pop culture knowledge and stand a chance to win bragging rights and prizes!The quiz will cover sitcoms, memes, entertainment, music, anime, and overall internet & pop culture. If you have never attended a quiz before, this is a great place to start. Every question is framed in a way that will let you work out the answer, and we are liberal with hints.About Calm Your WitsCalm Your Wits Quizzing is a Bengaluru-based quizzing collective that curates and hosts engaging, beginner-friendly pub quizzes across India. Founded by quizmaster Sanket Mandal, they have expanded beyond the Bengaluru quizzing circuit to host regular events in Mumbai, Pune, Delhi, and Hyderabad. Launched with the intention of avoiding the intimidating archetype of traditional academic trivia, their style leans towards long-form questions, with lots of clues and audio-visual elements thrown in to help participants arrive at the answer. Quizmaster Sanket also draws heavily from humour on social media, cleverly using tweets, Instagram reels, and memes to make questions on even the most serious of topics. It's a way of reminding people that all that doomscrolling can actually come in handy, and that knowledge can come from anywhere if we're open to the possibilities. Expect questions that keep you guessing, hints that reward lateral thinking, and a few intentional misdirects that may have you arguing with your teammates. Come early, and come curious.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5F8DEE9AFB864085AEAB997B8E2AB106_converted_webp.webp"
+    ],
+    "startDate": "2026-10-11T18:30:00+05:30",
+    "endDate": "2026-10-11T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672214,
+        "longitude": 77.6366982
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 399.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/pop-culture-quiz-by-calm-your-wits-quizzing",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lasya Ft. Anika Kulkarni and Nireeksha G",
+    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Anika Kulkarni and Nireeksha G RaoJoin us and watch them create magic on stage.Open to all ages. Tickets mandatory for ages 5 and above.Note: Valid institutional student ID has to be mandatorily furnished to avail entry for \"Student Pass\" holders",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D16316A07C0D449A9B26E8152DFE9FA2_converted_webp.webp"
+    ],
+    "startDate": "2026-10-23T19:30:00+05:30",
+    "endDate": "2026-10-23T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9596437,
+        "longitude": 77.5873823
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 44,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 250.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "description": null,
+      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lasya-ft-anika-kulkarni-and-nireeksha-g",
+    "keywords": [
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lasya Ft. Chinmayi D and Shravani Satish.",
+    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side.  This edition features Chinmayi D and Shravani Satish.Join us and watch them create magic on stage.Open to all ages, tickets applicable for attendees above 5 years of ageNote: Valid institutional to be mandatorily produced for entry of  'Student Pass' holders.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8614D8FB84424224A88B6901F3ADFD29_converted_webp.webp"
+    ],
+    "startDate": "2026-10-30T19:30:00+05:30",
+    "endDate": "2026-10-30T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9596437,
+        "longitude": 77.5873823
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 54,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 250.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "description": null,
+      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lasya-ft-chinmayi-d-and-shravani-satish",
+    "keywords": [
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Slow Cinema Weekend - TPCC",
+    "description": "This weekend, we have two films on slow cinema.Film 1: Nostos - The Return by Franco PiovaliAt the end of the war, Odysseus, the wandering hero, with his companions begins his sail back home to the Mediterranean. The conclusion of his adventure is delayed by many natural obstacles and he takes an internal journey of fleeting memories of his childhood, his parents, love for a beautiful girl, nostalgia for the past, regret for what he did, and the deep silence that envelops everything. He confronts the most terrible loneliness following a shipwreck in which all the comrades perish.Film 2: Landscape Suicides by James BenningBenning continues his examination of Americana in this film through the stories of two murderers. Ed Gein was a Wisconsin farmer and multiple murderer who taxidermied his victims in the 1950s. Bernadette Protti was a California teenager who stabbed a friend to death over an insult in 1984.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/DB245C6155664571A2EE8C0B02531579_converted_webp.webp"
+    ],
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/slowcinema",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Theorema by Pier Paolo Pasolini - TPCC",
+    "description": "There are only 923 words spoken in \u201cTeorema\u201d \u2013 but it says everything!A wealthy Italian household is turned upside down when a handsome stranger arrives, seduces every family member and then disappears. Each has an epiphany of sorts, but none can figure out who the seductive visitor was or why he came.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D6C1641DEBD84A31BF40577021EED87C_converted_webp.webp"
+    ],
+    "startDate": "2026-10-20T19:45:00+05:30",
+    "endDate": "2026-10-20T22:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/theorema",
+    "keywords": [
       "URBANAUT"
     ]
   }
