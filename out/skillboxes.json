@@ -1,6 +1,96 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "🔥 ZERO TO JIVE KING & QUEEN! 👑💃🕺\r\n\r\n \r\n\r\nMaster the Jive in just 4 + 4 hours!\r\n\r\n \r\n\r\n📅 LEVEL 1: BEGINNERS BOOTCAMP\r\n\r\n🗓️ Sunday, 18th October | 11 AM – 4 PM\r\n\r\n🍽",
+      "endDate": "2026-11-15T23:55:00",
+      "identifier": "com.skillboxes.42274",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1791712749Aq1QRpxJtxs1HHiE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Announced"
+      },
+      "name": "ZERO TO JIVE KING & QUEEN!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "1 Level Pass || Individual Pass",
+            "url": "https://www.skillboxes.com/events/ticket/zero-to-jive-king-queen-sbwakwos"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Both Level || Individual Pass",
+            "url": "https://www.skillboxes.com/events/ticket/zero-to-jive-king-queen-sbwakwos"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "1 Level Pass || Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/zero-to-jive-king-queen-sbwakwos"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Both Level || Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/zero-to-jive-king-queen-sbwakwos"
+         }
+      ],
+      "startDate": "2026-10-18T11:00:00",
+      "url": "https://www.skillboxes.com/events/zero-to-jive-king-queen-sbwakwos"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "KURUKSHETRA By Aditya & Prerna \r\nDebut Album Launch Concert \r\n\r\nAn album launch that unfolds like a film.\r\n\r\n\"You are a manifestation of the universe experiencing itself.\" \r\n\r\n ",
+      "endDate": "2026-11-19T23:55:00",
+      "identifier": "com.skillboxes.42272",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17917070921BAS7UxHwOnmhqC0.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Album launch Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711178",
+            "longitude": "77.6410673"
+         },
+         "name": "THE HUMMING TREE"
+      },
+      "name": "KURUKSHETRA By Aditya & Prerna",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges of INR 500 applicable at gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
+         }
+      ],
+      "startDate": "2026-11-19T18:30:00",
+      "url": "https://www.skillboxes.com/events/kurukshetra-by-aditya-prerna-sbvwbbzk"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "This Halloween, Bangalore's famous red soil is hosting more than just traffic jams and late-night tech support. Beneath the gleaming glass towers of IT parks and the majestic canopy of old cantonment trees, three musical frequencies are set to p",
       "endDate": "2026-10-30T23:55:00",
@@ -240,7 +330,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges of INR 500 applicable at gates.\nFully redeemable on Food and beverages",
-            "inventoryLevel": 80,
+            "inventoryLevel": 76,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/western-express-highway-s-sbkklfym"
          }
@@ -274,7 +364,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 120,
+            "inventoryLevel": 119,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/f1-singapore-grand-prix-live-screening-hardrock-cafe-mg-road-bangalore-sbkdwobn"
          }
@@ -308,7 +398,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 39,
+            "inventoryLevel": 22,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/dummy-sbixbcqs"
          }
@@ -342,7 +432,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 118,
+            "inventoryLevel": 112,
             "name": "Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/f1-singapore-grand-prix-live-screening-watson-s-indiranagar-bangalore-sbdmztuw"
          }
@@ -412,7 +502,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | Free Entry To The Event Without Cover Charges Till 6:30 PM | Post 6:30 PM, An Additional Cover Charge Of INR 500 Per Person Will Be Applicable As Per Club Rules And Regulations.\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 987,
             "name": "Phase 1 - Single Lady Pass",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },
@@ -420,7 +510,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | 3 Pax | Valid For Free Entry For 3 Single Ladies Till 6:30 PM. • Post 6:30 PM, An Additional Cover Charge Of INR 500 Per Person Will Be Applicable As Per Club Rules And Regulations.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "Phase 1 - Girls Night Out | Group Of 3",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },
@@ -428,7 +518,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | • Valid For Free Entry For 1 Couple Till 6:30 PM. • Post 6:30 PM, An Additional Cover Charge Of INR 1000 Per Person Will Be Applicable As Per Club Rules And Regulations.\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 989,
             "name": "Phase 1 - Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },
@@ -436,7 +526,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | 4 Pax | • Valid For Free Entry For 2 Couples Till 6:30 PM. • Post 6:30 PM, An Additional Cover Charge Of INR 1000 Per Person Will Be Applicable As Per Club Rules And Regulation\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 998,
             "name": "Phase 1 - Double Date | Group Of 2 Couples",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },
@@ -444,7 +534,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | • Valid For Free Entry For 1 Male Stag Till 6:30 PM. • Post 6:30 PM, An Additional Cover Charge Of INR 2000 Per Person Will Be Applicable As Per Club Rules And Regulations.\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 984,
             "name": "Phase 1 - Stag Pass",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },
@@ -452,7 +542,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | • Valid For Entry For 1 Individual, 1 Couple, Or 2 Single Ladies. • No Cover Charges Are Applicable All Night.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 976,
             "name": "Phase 1 - VIP Pass",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },
@@ -460,7 +550,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only Entry | • Valid For Entry For 1 Couple Or 2 Single Ladies. • No Cover Charges Are Applicable All Night. • Includes Exclusive Backstage Access.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Phase 1 - VVIP Pass | Backstage Access + Anytime Entry",
             "url": "https://www.skillboxes.com/events/ticket/somad-the-humming-tree-present-dar-disku-sbouazhl"
          },

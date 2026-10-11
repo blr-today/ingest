@@ -1,55 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Designing the Future",
-    "location": {
-      "@type": "Place",
-      "name": "Gallery 5, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/oKcxDijXkjPYwXa17"
-    },
-    "startDate": "2026-10-11T14:00:00+05:30",
-    "endDate": "2026-10-11T16:00:00+05:30",
-    "description": "How can art help us imagine possible futures?\n\nJoin Abel Korinsky for a collaborative crafting session, exploring how familiar materials and technologies might evolve into unexpected forms of life. Observe how everyday elements of the technosphere, be it plastic, electronics, or sensors, already shape our world and then speculate on what they could become.\n\nExperimenting with motors, recycled plastics, and found materials, you will build a small moving organism of the future. Your speculative creatures might adapt to pollution, communicate with machines, survive in extreme environments, or develop entirely new relationships with humans and ecosystems.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=designing-the-future",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FDSC08519%20Large.jpg-1789907245643?alt=media&token=501b6ae9-790f-4cfa-a7f6-435e02fc7a5a",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Abel Korinsky"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
-    "startDate": "2026-10-11T16:30:00+05:30",
-    "endDate": "2026-10-11T18:00:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Apoorva and Sakshi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en14",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Apoorva Masade"
-      },
-      {
-        "@type": "Person",
-        "name": "Sakshi C Choradia"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "QUANTUM Trails",
     "location": {
       "@type": "Place",
@@ -120,11 +71,11 @@
       },
       {
         "@type": "Person",
-        "name": "Suyash Kumar"
+        "name": "Sumeet Pai"
       },
       {
         "@type": "Person",
-        "name": "Sumeet Pai"
+        "name": "Suyash Kumar"
       }
     ]
   },
@@ -185,7 +136,7 @@
     },
     "startDate": "2026-10-17T11:00:00+05:30",
     "endDate": "2026-10-17T14:00:00+05:30",
-    "description": "What makes a secret impossible, or possible, to crack?\n\nFrom 1500 BCE Mesopotamian clay tablets hiding trade secrets to folk songs used by enslaved African Americans to mask escape routes, encryption has a rich history. Today, it faces its next major challenge: quantum computers.\n\nCome ready to crack codes, experiment with colour, and uncover the surprising ideas behind encryption. In this hands-on workshop, you\u2019ll take part in code-breaking games inspired by real events, explore how information can be hidden in unexpected ways, and discover how our methods of keeping secrets have evolved, from ancient ciphers to the computers of today. We\u2019ll also look ahead to quantum computers and how they could change the way we protect information.\n\nNo prior knowledge of physics, mathematics or computers is needed. The activities are designed to be fun and accessible, with plenty of room to get curious and dive deeper into the science and maths behind them. Whether you love puzzles, technology, or simply want to know how secrets are kept, there\u2019s something here for you.\n",
+    "description": "In this workshop, we'll use fun code-breaking games inspired by real events, experiments with color, collaborative discussions, and demonstrations in order to understand the evolution of encryption techniques and how quantum computers will alter the landscape. You don't need any prior technical knowledge of computers or physics to attend. This workshop builds intuition through fun activities which are designed to scale with your curiosity about the underlying science.\n\n**Setting the stage**\nOur ability to keep and communicate our secrets with one another has been crucial for our survival and success well before computers came along. From 1500 BCE Mesopotamian clay tablets hiding trade secrets, to the Hebrew Bible concealing the names of people and places in 500 BCE, encryption has a rich and storied history. Moreover, encryption is not an idea native to mathematics; you can see its roots even in music and language. During the 1800s, enslaved African Americans sang spirituals with hidden double meanings, to safely share plans of escape.\n\nHowever, encryption techniques didn't evolve in isolation; our ability to code-break has helped make them more sophisticated. The very first programmable electronic digital computer, called Colossus, was built in complete secrecy by the British during WW2 out of a need to break the Lorenz cipher used by the Germans. Unlike Colossus, the next big disruptor, the quantum computer, is being developed largely in public view, giving us the unique opportunity to come together and discuss the next disruption even before it has arrived!\n\n**Key takeaways**\nHere\u2019s what you can expect to learn! Since this is an interactive workshop, you will also have ample opportunity to ask questions and build your intuition in a collective space.\n\nAbout encryption:\nSome cool encryption ciphers and their history.\nEach major logical evolution of encryption technology.\nLearning to use a mathematically unbreakable cipher (used during WW2).\nBalancing the need for secrecy vs. convenience.\nRandomness of keys as a source of strength in encryption.\nHow we exchange the encryption key itself with our recipient securely on the internet.\n\nAbout quantum computing:\nBuild a mental model of what a quantum computer is and how it works.\nHow concepts such as superposition, entanglement, tunneling, and interference contribute to quantum computing.\nHow quantum computers speed up the process of guessing keys and why this isn't a threat.\nWhat actually breaks when large quantum computers arrive and how we are rising to the challenge.\n",
     "url": "https://quantum.scigalleryblr.org/programmes?p=keeping-secrets-in-post-quantum-world",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "50",
@@ -212,7 +163,7 @@
     "url": "https://quantum.scigalleryblr.org/programmes?p=a-glimpse-into-the-quantum-world",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "80",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FBell_test_for_entangled_qubits%20Large.jpeg-1791462107195?alt=media&token=73ab26a5-6e68-4d03-b628-9e8d6f829f59",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FQuantum_foam%20Large.jpg-1791708650101?alt=media&token=1962efbd-2d09-4030-8d7f-45a4e19e0ffa",
     "performer": [
       {
         "@type": "Person",
@@ -291,6 +242,100 @@
       {
         "@type": "Person",
         "name": "Manasvi J"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "A Joke in Two States: QUANTUM Through Memes",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-10-25T16:30:00+05:30",
+    "endDate": "2026-10-25T18:30:00+05:30",
+    "description": "A neutron walks into a bar and asks, \"How much for a drink?\" The bartender replies, \"For you, no charge!\" \u2014 This joke may or may not land, but we'll leave that up to you!\n\nQuantum physics is many things: complicated, strange, and quirky, among others. But what if we could have some fun while learning about the many mysteries of our universe? Making an exhibition on quantum physics was difficult, sure! It also included a string of shared memes, silly jokes that appeared out of nowhere and of course, one too many cats!\n\nJoin David and Sarasi from the Curatorial Team, for a walkthrough where we walk you through our experience of learning about quantum physics, but purely through memes. We invite you to look up from the doom scroll and towards our exhibition. Don't be scared of the big terms and symbols, pick up some fun facts along the way!",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=themed-walkthrough-01",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "David Verghese"
+      },
+      {
+        "@type": "Person",
+        "name": "Sarasi Ganguly"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Kathegalu with Aunty Lakshmi",
+    "location": {
+      "@type": "Place",
+      "name": "Patio, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-24T14:00:00+05:30",
+    "endDate": "2026-10-24T16:00:00+05:30",
+    "description": "Kathegalu with Aunty Lakshmi is an afternoon of read-aloud stories, songs, movement, and laughter for children aged 2\u201310 and their accompanying adults.\n\nAcross four 30-minute sessions, Aunty Lakshmi from Kadhaigal will bring Indian children\u2019s books to life through stories of empathy, curiosity, humour, and wonder. Expect lots of fun and play rather than a sit-still-and-listen story session: children can sing, move, respond, imagine, and enjoy stories together.\n\nThis is the first event in a new collaboration between Curious Wednesdays @ Kadhaigal and Science Gallery Bengaluru\u2019s Co-Series programme\u2014creating welcoming public spaces to read, make, question, and explore ideas together.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=kathegalu-with-aunty-lakshmi",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FWhatsApp%20Image%202026-10-07%20at%2021.26.02%20-%20Kadhaigal.jpg-1791710919769?alt=media&token=1e8e0d76-2b72-4885-bbde-310bd724f203",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Lakshmi Selvakumaran"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Big Machines to Study Molecules",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-25T11:00:00+05:30",
+    "endDate": "2026-10-25T13:00:00+05:30",
+    "description": "How does quantum physics help big machines unravel the mysteries of life?\n\nLife is organised in a hierarchy, from atoms and molecules to organelles, cells, tissues, organs, populations, ecosystems, and ultimately the biosphere. At the heart of this intricate organisation lie molecules, whose structures, interactions, and changes shape the evolution of organisms and influence health and disease. Yet, understanding these tiny building blocks of life is no small feat. It requires extraordinarily sophisticated scientific instruments, some of which are so large that they span hundreds of meters or even kilometres. In this lecture, Vinoth will explore how these large scientific machines, relying on quantum physics, reveal the molecular processes that sustain life and influence health and disease.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=big-machines-to-study-molecules",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FScreenshot%202026-10-11%20at%204.57.30%E2%80%AFPM%20Medium.jpeg-1791718684918?alt=media&token=0c0f24c8-8e1b-40fc-8382-ee5e640d4cdf",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Vinothkumar Kutti Ragunath"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Exploring the Molecular World",
+    "location": {
+      "@type": "Place",
+      "name": "National Centre for Biological Sciences (NCBS)",
+      "address": "Bangalore",
+      "url": "."
+    },
+    "startDate": "2026-10-24T11:00:00+05:30",
+    "endDate": "2026-10-24T13:00:00+05:30",
+    "description": "Step into the world of advanced scientific instrumentation with a visit to the TEM, cryo-TEM, and NMR facilities at NCBS. Discover how powerful imaging and spectroscopic techniques allow scientists to visualise and probe biological structures, and uncover the intricate architecture of life at the nanoscale.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=quantum-life-science-machines",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "30",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Vinothkumar Kutti Ragunath"
       }
     ]
   }
