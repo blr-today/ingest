@@ -749,8 +749,8 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/D309E6395C3245FCA237FBB5DF76B74C_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/F7285F04A30B41F9BC3F4EB2138A56A0_converted_webp.webp"
     ],
-    "startDate": "2026-10-13T11:00:00+05:30",
-    "endDate": "2026-10-13T13:30:00+05:30",
+    "startDate": "2026-10-13T11:30:00+05:30",
+    "endDate": "2026-10-13T14:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -764,7 +764,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1189,7 +1189,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 57,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1236,7 +1236,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 106,
+    "remainingAttendeeCapacity": 105,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1282,7 +1282,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 81,
+    "remainingAttendeeCapacity": 79,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2135,7 +2135,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2564,52 +2564,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Mama T's Table Thanksgiving Edition",
-    "description": "About the Event:Join us at Mama T\u2019s Table for a Canadian Thanksgiving dinner by Chef Tori Macdonald, bringing together flavours inspired by her Canadian roots. Settle in and enjoy a sit-down dinner full of friends both old and new, comforting flavours and a whole lot of laughs. The evening includes a buffet dinner featuring a selection of vegetarian and non-vegetarian dishes.The menu for the evening is shared below so you can get a little taste of what\u2019s in store.About the Chef:Tori Macdonald is a chef who feeds both the stomach and the spirit. Though Canadian by birth, she has called Bangalore home for over twelve years, and the city\u2019s warmth now runs through her cooking as much as her own family roots. Her love affair with the kitchen began at age four, standing beside her mom, grandmas, and great-grandma, who encouraged her to turn passion into profession. Known for food that is simple, soulful, and deeply comforting, Tori believes the kitchen is the true heart of a home. After five years at The Humming Tree, she now brings that philosophy to Slurp Culinary Academy, where she teaches students to find the story, and the soul, behind every plate.The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore\u2019s independent music, art, and cultural ecosystem. Now, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it\u2019s a hub for creativity, culture and collaboration.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8C17C8F470B347A7AAAEAE4DFC74DD1D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B7B42A566A5D43D3B8A59249549D66E4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BC997EC2642C4729AAAAD9B5B39E9477_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T18:00:00+05:30",
-    "endDate": "2026-10-11T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9711178,
-        "longitude": 77.6410673
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2800.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Humming Tree",
-      "description": "The Humming Tree, a cornerstone of Bangalore\u2019s independent music, art, and culture (2013\u20132019), returns in 2026 with a purpose-built Indiranagar space. With 600+ capacity, world-class sound and lighting, and diverse F&B, it\u2019s a hub for creativity and collaboration.",
-      "url": "https://urbanaut.app/partner/thehummingtree",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/203368D76E7346A98A12879ECDCDF0AD_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/mama-ts-table-thanksgiving-edition",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "What's on your Cards",
     "description": "About the reader:  I\u2019m Mayuri Bansall, a Certified Numerologist and Tarot Reader. I come from a finance background, having worked as an HNI Wealth Manager until 2020. Today, I use Tarot as a tool for reflection and clarity, helping people understand situations from a fresh perspective. Outside work, I enjoy travelling, reading, spirituality, and discovering good food.About the session: \ud83d\udd2e 20-Minute Tarot Insight SessionAt a crossroads? Seeking clarity?Get intuitive insights into your life decisions, relationships, career & current situations.\u2728 20 minutes. Unlimited questions. Fresh perspective.We request for your approval on the poster and write-up; once done we will arrange the printed flyers at the store.",
@@ -2675,7 +2629,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2853,7 +2807,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3345,7 +3299,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3810,7 +3764,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4130,144 +4084,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Ghost Story Night",
-    "description": "Ghost Story Night is an unscripted storytelling session in which event-goers sign up as either storytellers or listeners. Storytellers are given up to 10 minutes to narrate a ghost story (they can share their own story or the story of someone else) for the audience. The storytelling session will be followed by a social hangout. If you\u2019ve ever enjoyed telling scary stories around the campfire, this is the event for you!Slots are limited (especially storyteller slots), so sign up as soon as you can. We look forward to hearing your very best fright night stories!About the Collective:The Ghost Story Collective is a community-driven storytelling organization with a focus on raw, unscripted ghost story events. Instead of telling well-known ghost stories, we invite interested audience members to sign up as storytellers and to tell the story that\u2019s been haunting them (\u00e0 la \u201cAre You Afraid of the Dark,\u201d for any 90s TV fans). We believe that stories of the ghostly and supernatural speak to the inherent drama of our lives, and to the challenges of the societies in which we live. To that end, we hope to bring together a variety of people to tell their own ghost stories or stories of people they know, and thus, to reveal something frightening, truthful, and even beautiful about the world we inhabit.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5CBDCB42FD2B4CEA8F0FA55CC6CE702E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T19:00:00+05:30",
-    "endDate": "2026-10-11T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "966, 12th Main Rd, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCy73P3wVrjsR1ZYB9XTD10E",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9699919,
-        "longitude": 77.6395209
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 34,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 299.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Ghost Story Collective",
-      "description": null,
-      "url": "https://urbanaut.app/partner/the-ghost-story-collective",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/74F08394576A4024BBE7A2D4699BF207_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ghost-story-nightblr",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Long Story Short - 5 Comic Shorts. 1 Fun Play.",
-    "description": "Long Story Short is an anthology of 5 original short plays by Tahatto, performed by the participants of Tahatto's 3-Weekend Theatre Workshop - Enter Stage Right.Five stories. Five sets of characters. Five totally different facets of life.From the banalities of daily existence to the hilariously unexpected, in each story you get introduced to people from all walks of life along with their quirks, choices, struggles and little moments of frenzy. Funny, heartwarming and at times delightfully ridiculous, Long Story Short looks at humor in the mundane and drama of the ordinary.Written by Prashanth Nair and Badarivishal Kinhal, join us for an evening of laughs, merriment and introspection. Only 50 Tickets per show! Book your seat now!CastKris ThomasShreyansh jainPrachi IndurkarAditi KulkarniKushagra MadaanJyothi RamachandranPriyanka SPrateek JoseVansh M ShaAnoushka GuptaGaurav DeoraKripa AnneKusum RaoSatarupa GuptaTripti TripathiSookthi IjariWritten byPrashanth NairBadarivishal KinhalDirectorsNirmal ThrideepAnuradha YadavSwastika DasguptaPrithesh BhandaryKhyati Raja",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BC4B73514D1C4D288AE69F1CFBE73132_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T16:00:00+05:30",
-    "endDate": "2026-10-11T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tahatto Theatre",
-      "description": "Bangalore based award-winning theatre company",
-      "url": "https://urbanaut.app/partner/tahatto-theatre",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/EE48E2CBA94E42BC9BAB466D8FD282F2_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/long-story-short-play#2026-10-11T1600",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Long Story Short - 5 Comic Shorts. 1 Fun Play.",
-    "description": "Long Story Short is an anthology of 5 original short plays by Tahatto, performed by the participants of Tahatto's 3-Weekend Theatre Workshop - Enter Stage Right.Five stories. Five sets of characters. Five totally different facets of life.From the banalities of daily existence to the hilariously unexpected, in each story you get introduced to people from all walks of life along with their quirks, choices, struggles and little moments of frenzy. Funny, heartwarming and at times delightfully ridiculous, Long Story Short looks at humor in the mundane and drama of the ordinary.Written by Prashanth Nair and Badarivishal Kinhal, join us for an evening of laughs, merriment and introspection. Only 50 Tickets per show! Book your seat now!CastKris ThomasShreyansh jainPrachi IndurkarAditi KulkarniKushagra MadaanJyothi RamachandranPriyanka SPrateek JoseVansh M ShaAnoushka GuptaGaurav DeoraKripa AnneKusum RaoSatarupa GuptaTripti TripathiSookthi IjariWritten byPrashanth NairBadarivishal KinhalDirectorsNirmal ThrideepAnuradha YadavSwastika DasguptaPrithesh BhandaryKhyati Raja",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BC4B73514D1C4D288AE69F1CFBE73132_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T19:00:00+05:30",
-    "endDate": "2026-10-11T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tahatto Theatre",
-      "description": "Bangalore based award-winning theatre company",
-      "url": "https://urbanaut.app/partner/tahatto-theatre",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/EE48E2CBA94E42BC9BAB466D8FD282F2_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/long-story-short-play#2026-10-11T1900",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Beku Book Club - White Elephant by Jeyamohan",
     "description": "White Elephant by Jeyamohan, set during the Great Indian Famine of 1878, follows Irish police officer Aiden Byrne as he\u2019s faced with the devastating realities of famine, colonial imperialism, and India\u2019s caste system.When Byrne witnesses two labourers from the Tudor Ice Company being brutally whipped in the countryside, he is deeply disturbed. When the two men suddenly disappear, he attempts to investigate, but faces resistance from the company\u2019s management. His search leads him into the heart of a famine whose scale and horrors are too difficult to comprehend.Join us on this extraordinarily vivid journey through a crucial moment in history, as we explore the world Jeyamohan brings to life with striking detail.",
     "image": [
@@ -4571,7 +4387,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 36,
+    "remainingAttendeeCapacity": 32,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4759,7 +4575,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5054,98 +4870,6 @@
     "url": "https://urbanaut.app/spot/who-gets-to-adapt-online-webinar",
     "keywords": [
       "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Floating Sound Bath & Ancestral Healing Ceremony",
-    "description": "PARTS OF YOU \u2013 Ancestral Healing WorkshopThis Pitrupaksha, join us at Uruvana Wellness for a sacred journey of remembering, healing, and receiving the gifts of your lineage.\u2022 We begin by a healing ceremony for both your maternal and paternal halves, a prayer to both lineages.\u2022 You\u2019ll then create a sacred art - tree of ancestral gifts - a piece of your ancestry to carry home to your altar.\u2022 Next, we invite you into a gentle aromatherapy ritual, working with plant spirits to set intentions.\u2022 From there, sink into our floating aerial hammocks, as a unique sound bath with rare instruments guides you into deep meditation.\u2022 The experience ends with a hand blended herbal tea and quiet reflectionsA space to re-witness, heal, and embrace the parts of you carried through generations.\ud83d\udccd Uruvana Wellness\ud83d\udcc5 October 11th , 5-8 pm\u2728 Register by sending a DM to or calling +91 63666 31748",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CB06F22ECC5A46F3BB7E5669029E89B8_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T17:00:00+05:30",
-    "endDate": "2026-10-11T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2nd floor, no.21, 17th F Cross Road, Stage 2, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9814139,
-        "longitude": 77.63377489999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 3333.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Uruvana Wellness",
-      "description": "Uruvana Wellness is a holistic wellbeing space in Bengaluru offering sound healing instruments, plant-based wellness, and immersive healing experiences. Through sound baths, 1:1 sessions, rituals, and community gatherings, we support mind\u2013body\u2013soul harmony. Home of the Healing Arts.",
-      "url": "https://urbanaut.app/partner/uruvanawellness",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1829DA454A784F8B9C5A39CE13475668_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/floating-sound-bath-ancestral-healing-ceremony",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pop Culture Quiz by Calm Your Wits Quizzing",
-    "description": "Is your Instagram screentime begging for overtime pay? Are your friendships tested every time there is a Marvel vs DC debate?If you are someone who knows the next brainrot song before it goes viral, join us to test your pop culture knowledge and stand a chance to win bragging rights and prizes!The quiz will cover sitcoms, memes, entertainment, music, anime, and overall internet & pop culture. If you have never attended a quiz before, this is a great place to start. Every question is framed in a way that will let you work out the answer, and we are liberal with hints.About Calm Your WitsCalm Your Wits Quizzing is a Bengaluru-based quizzing collective that curates and hosts engaging, beginner-friendly pub quizzes across India. Founded by quizmaster Sanket Mandal, they have expanded beyond the Bengaluru quizzing circuit to host regular events in Mumbai, Pune, Delhi, and Hyderabad. Launched with the intention of avoiding the intimidating archetype of traditional academic trivia, their style leans towards long-form questions, with lots of clues and audio-visual elements thrown in to help participants arrive at the answer. Quizmaster Sanket also draws heavily from humour on social media, cleverly using tweets, Instagram reels, and memes to make questions on even the most serious of topics. It's a way of reminding people that all that doomscrolling can actually come in handy, and that knowledge can come from anywhere if we're open to the possibilities. Expect questions that keep you guessing, hints that reward lateral thinking, and a few intentional misdirects that may have you arguing with your teammates. Come early, and come curious.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5F8DEE9AFB864085AEAB997B8E2AB106_converted_webp.webp"
-    ],
-    "startDate": "2026-10-11T18:30:00+05:30",
-    "endDate": "2026-10-11T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672214,
-        "longitude": 77.6366982
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/pop-culture-quiz-by-calm-your-wits-quizzing",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -5946,6 +5670,267 @@
     },
     "url": "https://urbanaut.app/spot/cloud-capped-star",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Opening Night by John Cassavetes - TPCC",
+    "description": "The Show Must Go On\u2026Actress Myrtle Gordon is a functioning alcoholic who is a few days from the opening night of her latest play, concerning a woman distraught about aging. One night a car kills one of Myrtle\u2019s fans who is chasing her limousine in an attempt to get the star\u2019s attention. Myrtle internalizes the accident and goes on a spiritual quest, but fails to finds the answers she is after. As opening night inches closer and closer, fragile Myrtle must find a way to make the show go on.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9840CD06979F4C93A6FE6E45586676AF_converted_webp.webp"
+    ],
+    "startDate": "2026-11-19T19:45:00+05:30",
+    "endDate": "2026-11-19T22:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/opening-night",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Documenteur by Agnes Varda - TPCC",
+    "description": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/AD61029E2EDC454CAB4F767DA9916AD4_converted_webp.webp"
+    ],
+    "startDate": "2026-11-21T10:30:00+05:30",
+    "endDate": "2026-11-21T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/documenteur",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Wild Pear Tree by Nuri Bilge Ceylan - TPCC",
+    "description": "All these small-minded, bigoted people like peas in a pod.Fresh out of university, a Turkish young man with literary aspirations returns to his home village and starts scraping together money to publish his book. While trying to reconnect with his old friends and environment; his uncertainty, existential struggle and his father\u2019s gambling addiction bring him grave difficulties.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A76AC889F461493F898340751461E02A_converted_webp.webp"
+    ],
+    "startDate": "2026-11-24T19:45:00+05:30",
+    "endDate": "2026-11-24T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/wild-pear-tree",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Viva l\u2019Italia! by Roberto Rossellini - TPCC",
+    "description": "The film shows how Italy\u2019s historic national hero Giuseppe Garibaldi (embodied by Renzo Ricci) leads a military campaign known as Expedition of the Thousand in 1860 and conquers Sicily and Naples. When the Bourbon monarchy has left Southern Italy, he supports Victor Emmanuel II of Italy who achieves a lasting unification under the aegis the House of Savoy. Roberto Rossellini has said he was prouder of this film than of any other film he ever made.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/32FAED26C09F4B7C8C5BFBD563F32CB5_converted_webp.webp"
+    ],
+    "startDate": "2026-11-26T19:45:00+05:30",
+    "endDate": "2026-11-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/viva-italia",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Red Persimmons by Shinsuke Ogawa, Peng Xiaolian - TPCC",
+    "description": "The ostensible subject of this film is the growing, drying, peeling and packaging of persimmons in the tiny Japanese village of Kaminoyama. The inhabitants explain that it is the perfect combination of earth, wind and rain that makes their village\u2019s persimmons superior to those grown anywhere else, including the village just a few miles away. The film\u2019s larger subject, however, is the disappearance of Japan\u2019s traditional culture, the end of a centuries-old way of life.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E5904EC334F544B8B44BC731107E15D4_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T14:00:00+05:30",
+    "endDate": "2026-11-28T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/red-persimmons",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "'Dariya Prem Ka' - Sufi Songs of Love & Devotion",
+    "description": "DARIYA PREM KA - Sufi songs of love and devotion\u2728An evening with 'Anahita', entering the world of Sufi poetry through song, longing, surrender and devotion.Drawing from the words of mystic poets and the living traditions of Sufi and Bhakti music, 'Dariya Prem Ka' is an intimate concert that invites us to listen a little more deeply \u2014 to poetry that has travelled across generations speaking of love, separation, yearning and the search for the beloved.Anahita is a singer and student of the Sufi and Bhakti traditions whose work brings together mystic poetry, music, storytelling and reflection. Her practice explores the poetry of saints and mystics across languages and traditions, creating intimate spaces where these centuries-old verses can be experienced not simply as songs, but as living questions about love, devotion and the self.Join us for a quiet, immersive evening of 'Sufi songs of love and devotion'.Day & Date : Friday, 16 October Time : 7:30 PM \u2013 9 PM Venue: \ud83d\udccdSabha BLRCome sit with us by the 'dariya' \u2014 the river of love. \u2728",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/2005E934A25A487B941193C20190C957_converted_webp.webp"
+    ],
+    "startDate": "2026-10-16T19:30:00+05:30",
+    "endDate": "2026-10-16T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.983484,
+        "longitude": 77.61101699999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 80,
+    "remainingAttendeeCapacity": 71,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 399.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ekta's Gatherings",
+      "description": null,
+      "url": "https://urbanaut.app/partner/ektas-gatherings",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/D0910B009A164F07BEEA62444133BDBC_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/dariya-prem-ka-sufi-songs-of-love-devotion",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Local",
       "URBANAUT"
     ]
   }
