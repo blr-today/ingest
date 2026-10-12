@@ -1,10 +1,13 @@
+# curl-impersonate's newest Chrome profile, keep in sync with .github/workflows/build.yml
+CURL_CHROME := curl_chrome150
+
 AE_START_TS := $(shell date +%s)
 AE_END_TS := $(shell date +%s --date="1 month")
 
 START_TS := $(shell date +"%Y-%m-%d")
 END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
-TOTAL_ENVIRONMENT_API_TOKEN := $(shell curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token')
+TOTAL_ENVIRONMENT_API_TOKEN := $(shell $(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token')
 
 # Set PYTHONPATH for module imports
 export PYTHONPATH := $(CURDIR)/src
@@ -14,8 +17,8 @@ define restore-file
 endef
 
 out/allevents.txt:
-	curl_chrome116 --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
-	curl_chrome116 --silent --cookie /tmp/allevents.cookies --request POST \
+	$(CURL_CHROME) --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
+	$(CURL_CHROME) --silent --cookie /tmp/allevents.cookies --request POST \
 	  --url https://allevents.in/api/index.php/categorization/web/v1/list \
 	  --header 'Referer: https://allevents.in/bangalore/all' \
 	  --header "Content-Type: application/json" \
@@ -24,7 +27,7 @@ out/allevents.txt:
 	echo "[ALLEVENTS] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/te.jsonnet:
-	curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
+	$(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
 
 out/te.json: out/te.jsonnet
 	python src/jsonnet.py out/te.jsonnet || $(call restore-file,$@)
@@ -52,7 +55,7 @@ out/mapindia.json: out/mapindia.ics
 	python src/ics-to-event.py out/mapindia.ics $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.ics:
-	curl_chrome116 --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" --output $@ || $(call restore-file,$@)
+	$(CURL_CHROME) --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" --output $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
 	python src/ics-to-event.py out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
@@ -88,7 +91,7 @@ out/urbanaut.json:
 	python -m src.sources.urbanaut || $(call restore-file,$@)
 
 out/bic.ics:
-	curl_chrome116 --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
+	$(CURL_CHROME) --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
 
 out/bic.json: out/bic.ics
 	python src/ics-to-event.py out/bic.ics $@ || $(call restore-file,$@)
@@ -135,7 +138,7 @@ out/aceofpubs.json:
 	python -m src.sources.aceofpubs || $(call restore-file,$@)
 
 out/koota.txt:
-	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ && test -s $@ || $(call restore-file,$@)
+	$(CURL_CHROME) --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ && test -s $@ || $(call restore-file,$@)
 		echo "[KOOTA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/sistersinsweat.json:
@@ -156,7 +159,7 @@ out/hsrmeetups.json:
 
 # we just do a minimal transform to remove extra bits we don't need
 out/tpcc.jsonnet:
-	curl_chrome116 --silent 'https://x2qnegor.apicdn.sanity.io/v2024-09-06/data/query/production?query=*%5B_type+%3D%3D+%22event%22%5D%7B%0A++++++++_id%2C%0A++++++++title%2C%0A++++++++date%2C%0A++++++++online_date%2C%0A++++++++director%2C%0A++++++++note%2C%0A++++++++%22theme%22%3A+theme-%3Etheme%2C%0A++++++++%22poster%22%3A+poster.asset-%3Eurl%2C%0A++++++++%22city%22%3A+city-%3E%7Bcity%2C+color%7D%2C%0A++++++++%22location%22%3A+location-%3E%7Bname%2C+url%7D%2C%0A++++++++rsvpLink%0A++++++%7D&returnQuery=false' | jq \
+	$(CURL_CHROME) --silent 'https://x2qnegor.apicdn.sanity.io/v2024-09-06/data/query/production?query=*%5B_type+%3D%3D+%22event%22%5D%7B%0A++++++++_id%2C%0A++++++++title%2C%0A++++++++date%2C%0A++++++++online_date%2C%0A++++++++director%2C%0A++++++++note%2C%0A++++++++%22theme%22%3A+theme-%3Etheme%2C%0A++++++++%22poster%22%3A+poster.asset-%3Eurl%2C%0A++++++++%22city%22%3A+city-%3E%7Bcity%2C+color%7D%2C%0A++++++++%22location%22%3A+location-%3E%7Bname%2C+url%7D%2C%0A++++++++rsvpLink%0A++++++%7D&returnQuery=false' | jq \
 		'[.result[]|select(.online_date==null) | {id:._id, image:.poster, location:.location, link:.rsvpLink, date:.date, theme:.theme, city:.city.city, title:.title, director: .director} |select(.city=="Bangalore") | select(.date> (now|strftime("%Y-%m-%d")))]' > $@ || $(call restore-file,$@)
 
 out/tpcc.json: out/tpcc.jsonnet
@@ -197,7 +200,7 @@ out/mainmission.json:
 	python -m src.sources.mainmission || $(call restore-file,$@)
 
 out/iiwc.ics:
-	curl_chrome116 --silent "https://iiwc.in/events/?ical=1" --output $@ || $(call restore-file,$@)
+	$(CURL_CHROME) --silent "https://iiwc.in/events/?ical=1" --output $@ || $(call restore-file,$@)
 
 out/iiwc.json: out/iiwc.ics
 	python -m src.sources.iiwc || $(call restore-file,$@)
