@@ -85,3 +85,10 @@ def test_bad_urls_do_not_stop_the_file(site, monkeypatch):
     lines = ["https://example.com/empty", "", "https://example.com/badjson", EVENT_URL]
     pathlib.Path("out/koota.txt").write_text("\n".join(lines) + "\n")
     assert [url for url, _ in remote.fetch_remote_events()] == [EVENT_URL]
+
+
+def test_blank_pages_are_skipped(site, capsys):
+    PAGES["https://example.com/blank"] = " \n"
+    pathlib.Path("out/koota.txt").write_text(f"https://example.com/blank\n{EVENT_URL}\n")
+    assert [url for url, _ in remote.fetch_remote_events()] == [EVENT_URL]
+    assert "Error parsing HTML for https://example.com/blank" in capsys.readouterr().out

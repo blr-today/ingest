@@ -6,6 +6,7 @@ from . import USER_AGENT_HEADERS
 import json
 import sys
 import os
+import lxml.etree
 
 
 def find_event(l):
@@ -50,6 +51,9 @@ def fetch_remote_events(file_filter=None):
                     data = JsonLdExtractor().extract(r.text)
                 except json.decoder.JSONDecodeError:
                     print(f"Error parsing JSON for {url}")
+                    continue
+                except lxml.etree.ParserError:
+                    print(f"Error parsing HTML for {url}")
                     continue
 
                 event = None
