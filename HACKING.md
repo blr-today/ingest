@@ -135,13 +135,13 @@ Run with: `uv run python -m src.jsonnet out/source.jsonnet`
 
 ## Processors
 
-Post-processing logic in `src/processors/`. Processors run after events are in the database.
+Post-processing logic in `src/processors/`, run after the build in the order of `PROCESSORS` in `registry.py`; add new classes there in order.
+Any exception stops the run, so handle known bad data and log a warning with the URL.
 
 ```python
 from .base import Processor
 
 class MyProcessor(Processor):
-    PRIORITY = 90  # Lower runs first
     URL_REGEX = r"https://example\.com/.*"  # Optional: filter by URL
 
     @staticmethod
