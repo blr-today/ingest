@@ -9,6 +9,7 @@ from pathlib import Path
 from typesafe_sdk import Choice, Noul, TypeSafeClient, TypeSafeError
 
 from src.common.activities import (
+    EXCLUDE,
     TAGS,
     THRESHOLDS,
     TYPE_CONFIDENCE,
@@ -22,8 +23,6 @@ log = logging.getLogger(__name__)
 logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("typesafe_sdk").setLevel(logging.WARNING)
 
-# Same list as the website's excludeTags, minus SPORTS-SCREENING which we split up
-EXCLUDE = {"BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"}
 SOURCES = {"All", "DISTRICT", "URBANAUT", "HIGHAPE", "INSIDER", "ALLEVENTS"}
 # Tags we classify but do not want to show
 DEMOTE = {

@@ -5,6 +5,7 @@ from collections import defaultdict
 from datetime import datetime
 from urllib.parse import unquote, urlparse
 
+from src.common.activities import EXCLUDE
 from src.processors.cost import TAGS as COST_TAGS, Cost, price
 
 # Mirrors calendar types: venues/organisers win, then aggregators, then curators
@@ -29,8 +30,6 @@ ONE_ROOM = ["new york dance"]
 GENERIC = {"a", "and", "at", "by", "for", "in", "the", "with", "dance", "dancing"}
 GENERIC |= {"workshop", "workshops", "beginner", "beginners", "class", "classes"}
 GENERIC |= {"nydc", "new", "york"}
-# Same list as the website's excludeTags, so hidden listings stay apart
-HIDDEN = {"BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"}
 SOCIAL = [
     "instagram.com",
     "facebook.com",
@@ -94,7 +93,7 @@ def styles(event):
 
 def hidden(event):
     k = event.get("keywords", [])
-    return bool(HIDDEN & set(k.split(",") if isinstance(k, str) else k))
+    return bool(EXCLUDE & set(k.split(",") if isinstance(k, str) else k))
 
 
 def same_session(a, b):

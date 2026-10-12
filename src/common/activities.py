@@ -267,6 +267,8 @@ TAGS = {
         "Does this event take attendees on a trip or tour to a place outside Bangalore?",
     ),
 }
+# Hidden events are neither tagged nor merged; the website's excludeTags has these too
+EXCLUDE = {"BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"}
 
 
 def with_parents(tags):
