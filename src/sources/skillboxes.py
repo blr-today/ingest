@@ -3,6 +3,7 @@ import json
 import sys
 import uuid
 from ..common.fetch import Fetch
+from ..jsonnet import transform
 
 BROWSER_CODE = "safari260_ios"
 BASE_URL = "https://www.skillboxes.com/servers"
@@ -11,6 +12,7 @@ HEADERS = {
 }
 
 SKILLBOX_DEBUG_LIMIT = None
+CITIES = ("9", "1105542")
 
 fetcher = Fetch(
     cache={
@@ -40,8 +42,7 @@ def get_events(city, page=1):
     )
 
     if res.status_code != 200:
-        print("[SKILLBOXES] Failed to get list of events.", file=sys.stderr)
-        sys.exit(0)
+        raise RuntimeError(f"Failed to get list of events: HTTP {res.status_code}")
     data = res.json()
     for item in data["items"]:
         yield item["slug"]
@@ -89,7 +90,7 @@ def get_event_tickets(slug):
             return []
 
 
-def __main__(cities, debug_limit=None):
+def fetch_events(cities, debug_limit=None):
     events = []
     for city in cities:
         count = 0
@@ -103,13 +104,8 @@ def __main__(cities, debug_limit=None):
                 events.append(details)
             count += 1
 
-    with open("out/skillboxes.jsonnet", "w") as f:
-        json.dump(events, f, indent=2)
+    return events
 
 
-if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        cities = sys.argv[1:]
-        __main__(cities, debug_limit=SKILLBOX_DEBUG_LIMIT)
-    else:
-        raise Exception("City ID is required. Bangalore=9")
+def events():
+    return transform("skillboxes", json.dumps(fetch_events(CITIES, SKILLBOX_DEBUG_LIMIT)))

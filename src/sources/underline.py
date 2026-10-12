@@ -1,6 +1,5 @@
 import json
 import re
-import sys
 from datetime import datetime
 from urllib.parse import urlparse
 
@@ -10,6 +9,7 @@ from src.common import USER_AGENT_HEADERS
 from src.common.jsonld import JsonLdExtractor
 from src.common.remote import find_event
 from src.common.session import get_cached_session
+from src.jsonnet import transform
 
 SITE_URL = "https://underline.center"
 SKIP = ("underline.center", "instagram.com", "whatsapp.com", "facebook.com", "wa.me")
@@ -53,9 +53,7 @@ def ticket_offers(session, url, starts_at):
 
 
 # The events feed leaves descriptions empty, so read each event's post
-def main(path):
-    with open(path) as f:
-        data = json.load(f)
+def enrich(data):
     session = get_cached_session()
     for event in data["events"]:
         if event.get("is_expired"):
@@ -78,9 +76,10 @@ def main(path):
                 event["offers"] = ticket_offers(session, url, event["starts_at"])
             except Exception as e:
                 print(f"[UNDERLINE] Could not read {url}: {e}")
-    with open(path, "w") as f:
-        json.dump(data, f)
 
 
-if __name__ == "__main__":
-    main(sys.argv[1])
+def events():
+    with open("out/underline.jsonnet") as f:
+        data = json.load(f)
+    enrich(data)
+    return transform("underline", json.dumps(data))

@@ -130,7 +130,9 @@ def test_empty_calendar_is_skipped(tmp_path, capsys):
 def test_text_matches_file(events):
     with open(MAP) as f:
         text = f.read()
-    assert icalendar.convert_ics_text_to_events(text) == list(events(MAP).values())
+    got = icalendar.convert_ics_text_to_events(text)
+    assert got == list(events(MAP).values())
+    assert sorted(e["@id"] for e in got) == ["1418@map-india.org", "1419@map-india.org", "1420@map-india.org"]
 
 
 def test_bic_reads_out_ics(events, tmp_path, monkeypatch):

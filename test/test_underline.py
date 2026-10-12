@@ -72,18 +72,15 @@ def test_ticket_offers_ignore_other_shows():
     assert ticket_offers(FakeSession(), "https://district.in/other/event", "2026-10-11T18:30:00+05:30") is None
 
 
-def test_main_enriches_events(monkeypatch, tmp_path):
-    path = tmp_path / "underline.json"
-    shutil.copy(FIXTURES / "events.json", path)
-    data = json.loads(path.read_text())
+def test_enrich_reads_each_post(monkeypatch):
+    data = json.loads((FIXTURES / "events.json").read_text())
     data["events"][1]["image_upload"] = None
     expired = dict(data["events"][0], is_expired=True)
     missing = dict(data["events"][0], post={"id": 1})
     data["events"] += [expired, missing]
-    path.write_text(json.dumps(data))
     monkeypatch.setattr(underline, "get_cached_session", FakeSession)
-    underline.main(path)
-    quiz, ninjas, iwc, expired, missing = json.loads(path.read_text())["events"]
+    underline.enrich(data)
+    quiz, ninjas, iwc, expired, missing = data["events"]
     assert quiz["description"].startswith("Is your Instagram screentime")
     assert quiz["links"] == [POP_QUIZ]
     assert quiz["offers"]["lowPrice"] == 399
@@ -92,3 +89,16 @@ def test_main_enriches_events(monkeypatch, tmp_path):
     assert ninjas["links"] == ["https://district.in/folding-ninjas-with-roligami/event"]
     assert ninjas["image_upload"]["url"].endswith("/original/1X/49f160d758e3e619005b68de67f09b1ba365500f.jpeg")
     assert "links" not in expired and "links" not in missing
+
+
+def test_events_transform_the_enriched_feed(monkeypatch, tmp_path):
+    (tmp_path / "out").mkdir()
+    (tmp_path / "transform").mkdir()
+    shutil.copy(FIXTURES / "events.json", tmp_path / "out/underline.jsonnet")
+    shutil.copy("transform/underline.jsonnet", tmp_path / "transform/underline.jsonnet")
+    monkeypatch.setattr(underline, "get_cached_session", FakeSession)
+    monkeypatch.chdir(tmp_path)
+    events = underline.events()
+    assert len(events) == 3
+    assert events[0]["offers"]["lowPrice"] == 399
+    assert all("UNDERLINE" in e["keywords"] for e in events)

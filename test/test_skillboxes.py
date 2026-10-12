@@ -57,11 +57,10 @@ def test_empty_city(monkeypatch):
     assert list(skillboxes.get_events(9)) == []
 
 
-def test_failed_listing_exits_quietly(monkeypatch):
+def test_failed_listing_raises(monkeypatch):
     monkeypatch.setattr(skillboxes, "fetcher", FakeFetcher())
-    with pytest.raises(SystemExit) as exit:
+    with pytest.raises(RuntimeError, match="HTTP 503"):
         list(skillboxes.get_events(9))
-    assert exit.value.code == 0
 
 
 def test_event_details(monkeypatch):
@@ -84,7 +83,7 @@ def test_event_tickets(monkeypatch):
     assert skillboxes.get_event_tickets("broken") == []
 
 
-def test_main_keeps_city_events_with_tickets(monkeypatch, tmp_path):
+def test_fetch_keeps_city_events_with_tickets(monkeypatch):
     events = details()
     other = dict(events["sunday-sundowner-3"], city_id="3")
     fetcher = FakeFetcher(
@@ -93,23 +92,31 @@ def test_main_keeps_city_events_with_tickets(monkeypatch, tmp_path):
         tickets={"shimza": FakeResponse(200, {"success": True, "data": events["shimza"]["tickets"]})},
     )
     monkeypatch.setattr(skillboxes, "fetcher", fetcher)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    skillboxes.__main__(["9"])
-    [event] = json.loads((tmp_path / "out" / "skillboxes.jsonnet").read_text())
+    [event] = skillboxes.fetch_events(["9"])
     assert event == events["shimza"]
 
 
-def test_main_debug_limit(monkeypatch, tmp_path):
+def test_fetch_debug_limit(monkeypatch):
     events = details()
     fetcher = FakeFetcher(
         pages=[listing("shimza", "sunday-sundowner-3")],
         details={slug: FakeResponse(200, {"data": e}) for slug, e in events.items()},
     )
     monkeypatch.setattr(skillboxes, "fetcher", fetcher)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    skillboxes.__main__(["9"], debug_limit=1)
-    [event] = json.loads((tmp_path / "out" / "skillboxes.jsonnet").read_text())
+    [event] = skillboxes.fetch_events(["9"], debug_limit=1)
     assert event["slug"] == "shimza"
     assert event["tickets"] == []
+
+
+def test_events_transform_both_cities(monkeypatch):
+    events = details()
+    fetcher = FakeFetcher(
+        pages=[listing("shimza")],
+        details={"shimza": FakeResponse(200, {"data": events["shimza"]})},
+        tickets={"shimza": FakeResponse(200, {"success": True, "data": events["shimza"]["tickets"]})},
+    )
+    monkeypatch.setattr(skillboxes, "fetcher", fetcher)
+    monkeypatch.setattr(skillboxes, "transform", lambda stem, raw: [{"stem": stem, "raw": json.loads(raw)}])
+    assert skillboxes.events() == [{"stem": "skillboxes", "raw": [events["shimza"]]}]
+    cities = [body["city"] for url, body, _ in fetcher.calls if url == "get-event"]
+    assert cities == [9, 1105542]

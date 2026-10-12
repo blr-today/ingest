@@ -131,7 +131,7 @@ function(INPUT) [
 ]
 ```
 
-Run with: `uv run python -m src.jsonnet out/source.jsonnet`
+Return `transform("source", raw_text)` from `src/sources/source.py`'s `events()`.
 
 ## Processors
 
