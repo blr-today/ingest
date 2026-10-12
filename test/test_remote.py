@@ -43,23 +43,6 @@ def test_add_source_tags_list_keywords():
     assert sorted(event["keywords"]) == ["COMEDY", "KOOTA"]
 
 
-def test_fetches_events_from_url_lists(site, capsys):
-    pathlib.Path("out/bac.txt").write_text(f"{GRAPH_URL}\nhttps://example.com/about\nhttps://example.com/down\n")
-    pathlib.Path("out/koota.txt").write_text(EVENT_URL + "\n")
-    got = dict(remote.fetch_remote_events())
-    assert set(got) == {GRAPH_URL, EVENT_URL}
-    graph = got[GRAPH_URL]
-    assert graph["@id"] == GRAPH_URL + "#event"
-    assert graph["startDate"] == "2026-10-20T16:00:00+05:30"
-    assert graph["keywords"] == ["BAC"]
-    assert got[EVENT_URL]["name"] == "Bengaluru Boy by Danish Sait | Stand Up Comedy"
-    assert got[EVENT_URL]["keywords"] == ["KOOTA"]
-    out = capsys.readouterr().out
-    assert "Could not find event in https://example.com/about" in out
-    assert "Error fetching https://example.com/down: offline" in out
-    assert all(h == remote.USER_AGENT_HEADERS for _, h in site)
-
-
 def test_events_from_urls_keep_page_data(site, capsys):
     PAGES["https://example.com/short"] = (
         '<script type="application/ld+json">'
@@ -99,39 +82,8 @@ def test_events_from_urls_skip_bad_pages(site, monkeypatch, capsys):
     assert "Error parsing HTML for https://example.com/blank" in out
 
 
-def test_file_filter_limits_sources(site):
-    pathlib.Path("out/bac.txt").write_text(GRAPH_URL + "\n")
-    pathlib.Path("out/koota.txt").write_text(EVENT_URL + "\n")
-    got = list(remote.fetch_remote_events("out/koota.txt"))
-    assert [url for url, _ in got] == [EVENT_URL]
-    assert [url for url, _ in site] == [EVENT_URL]
-
-
 def test_add_source_prefixes_string_keywords():
     assert remote.add_source({"keywords": "comedy"}, "koota") == {"keywords": "KOOTA, comedy"}
-
-
-def test_bad_urls_do_not_stop_the_file(site, monkeypatch):
-    PAGES["https://example.com/empty"] = ""
-    PAGES["https://example.com/badjson"] = "<html></html>"
-    real = remote.JsonLdExtractor
-
-    class Extractor(real):
-        def extract(self, text):
-            if text == "<html></html>":
-                raise remote.json.decoder.JSONDecodeError("bad", text, 0)
-            return real().extract(text)
-    monkeypatch.setattr(remote, "JsonLdExtractor", Extractor)
-    lines = ["https://example.com/empty", "", "https://example.com/badjson", EVENT_URL]
-    pathlib.Path("out/koota.txt").write_text("\n".join(lines) + "\n")
-    assert [url for url, _ in remote.fetch_remote_events()] == [EVENT_URL]
-
-
-def test_blank_pages_are_skipped(site, capsys):
-    PAGES["https://example.com/blank"] = " \n"
-    pathlib.Path("out/koota.txt").write_text(f"https://example.com/blank\n{EVENT_URL}\n")
-    assert [url for url, _ in remote.fetch_remote_events()] == [EVENT_URL]
-    assert "Error parsing HTML for https://example.com/blank" in capsys.readouterr().out
 
 
 @pytest.mark.parametrize("name", ["allevents", "koota"])

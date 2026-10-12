@@ -16,6 +16,7 @@ import pytest
 REPO = Path(__file__).resolve().parents[1]
 FIXTURES = REPO / "test/fixtures/e2e"
 STEPS = {
+    "allevents": ["src.sources", "allevents"],
     "build": ["src.build"],
     "processors": ["src.processors"],
     "sql": ["sqlite3", "events.db"],
@@ -30,6 +31,8 @@ BIRDS = "https://walks.example/2030/bird-walk"
 MYSURU = "https://walks.example/2030/mysuru-palace"
 MOTHS = "https://walks.example/2030/monsoon-moths"
 KIDS = "https://kids.example/little-explorers"
+COMEDY = "https://comedy.example/shows/filter-coffee-chronicles"
+CHESS = "https://chess.example/meetups/sunday"
 
 pytestmark = pytest.mark.skipif(
     sqlite3.sqlite_version_info < (3, 38), reason="post-build.sql needs ->>"
@@ -78,7 +81,7 @@ def pipeline(tmp_path_factory):
     before = mtimes()
     with serve(FIXTURES / "pages") as base, open(REPO / "post-build.sql") as sql:
         urls = f"{base}/comedy.html\n\n{base}/missing.html\n{base}/chess.html\n"
-        (work / "out/local.txt").write_text(urls)
+        (work / "out/allevents.txt").write_text(urls)
         runs = {
             name: run(work, args, sql if name == "sql" else subprocess.DEVNULL)
             for name, args in STEPS.items()
@@ -96,25 +99,29 @@ def keywords(pipeline, url):
     return set(pipeline.events[url]["keywords"])
 
 
+def test_url_list_source(pipeline):
+    run = pipeline.runs["allevents"]
+    assert run.stdout.endswith("[ALLEVENTS] 2 events\n")
+    assert f"Could not find event in {pipeline.base}/missing.html" in run.stdout
+    listed = json.loads((pipeline.work / "out/allevents.json").read_text())
+    assert [e["url"] for e in listed] == [COMEDY, CHESS]
+
+
 def test_build_skips_bad_inputs(pipeline):
-    out = pipeline.runs["build"].stdout
-    assert "Event in out/manual.json has no URL" in out
-    assert f"Could not find event in {pipeline.base}/missing.html" in out
+    assert "Event in out/manual.json has no URL" in pipeline.runs["build"].stdout
 
 
 def test_final_events(pipeline):
-    remote = {f"{pipeline.base}/comedy.html", f"{pipeline.base}/chess.html"}
     assert len(pipeline.rows) == 8
-    assert set(pipeline.events) == remote | {QUIZ, POTTERY, BIRDS, MYSURU, MOTHS, KIDS}
+    assert set(pipeline.events) == {COMEDY, CHESS, QUIZ, POTTERY, BIRDS, MYSURU, MOTHS, KIDS}
 
 
-def test_remote_events_keep_the_listed_url(pipeline):
-    comedy = pipeline.events[f"{pipeline.base}/comedy.html"]
-    chess = pipeline.events[f"{pipeline.base}/chess.html"]
-    assert comedy["url"] == "https://comedy.example/shows/filter-coffee-chronicles"
+def test_url_list_rows_use_the_json_ld_url(pipeline):
+    comedy, chess = pipeline.events[COMEDY], pipeline.events[CHESS]
+    assert comedy["url"] == COMEDY
     assert comedy["name"] == "Filter Coffee Chronicles | Stand-up Comedy Show"
     assert chess["@id"] == "https://chess.example/meetups/sunday#event"
-    assert {"LOCAL"} <= set(comedy["keywords"]) & set(chess["keywords"])
+    assert {"ALLEVENTS"} <= set(comedy["keywords"]) & set(chess["keywords"])
 
 
 def test_processors(pipeline):
@@ -151,7 +158,7 @@ def test_post_build_sql(pipeline):
     assert {"HSR"} <= keywords(pipeline, BIRDS)
     assert {"INDIRANAGAR"} <= keywords(pipeline, QUIZ)
     assert {"ONLINE"} <= keywords(pipeline, MOTHS)
-    assert {"CBD"} <= keywords(pipeline, f"{pipeline.base}/comedy.html")
+    assert {"CBD"} <= keywords(pipeline, COMEDY)
     assert pipeline.events[POTTERY]["keywords"].count("HSR") == 1
 
 
@@ -162,8 +169,8 @@ def test_tagger(pipeline):
     assert {"BIRDING", "NATURE-WALK"} <= keywords(pipeline, BIRDS)
     assert {"POTTERY"} <= keywords(pipeline, POTTERY)
     assert {"KIDS"} <= keywords(pipeline, KIDS)
-    assert {"STANDUP-COMEDY"} <= keywords(pipeline, f"{pipeline.base}/comedy.html")
-    assert {"CHESS"} <= keywords(pipeline, f"{pipeline.base}/chess.html")
+    assert {"STANDUP-COMEDY"} <= keywords(pipeline, COMEDY)
+    assert {"CHESS"} <= keywords(pipeline, CHESS)
     assert "HERITAGE-WALK" not in keywords(pipeline, MYSURU)
 
 
@@ -186,7 +193,8 @@ def test_invariants(pipeline):
     copied = {str(p.relative_to(FIXTURES)) for d in ("out", "patch") for p in (FIXTURES / d).iterdir()}
     assert files == copied | {
         "events.db",
-        "out/local.txt",
+        "out/allevents.txt",
+        "out/allevents.json",
         "home/.cache/event-fetcher-cache.sqlite",
         "home/.cache/ingest-activities.sqlite",
     }
