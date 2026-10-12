@@ -1,5 +1,4 @@
 from curl_cffi import requests as curl
-from requests_cache import CachedSession
 from requests_cache import CacheActions
 from requests_cache.models import (
     AnyResponse,
@@ -12,32 +11,7 @@ from requests.models import PreparedRequest
 from .response import CorrectResponse
 from io import BytesIO
 
-from datetime import timedelta
-
-
-def get_cached_session(
-    cache_name="event-fetcher-cache",
-    days=1,
-    allowable_codes=(200,),
-    allowable_methods=["GET"],
-    backend="sqlite",
-    serializer=None,
-):
-    """
-    Initializes and returns a CachedSession instance with common settings.
-    """
-    session = CachedSession(
-        cache_name=cache_name,
-        expire_after=timedelta(days=days),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-        allowable_codes=allowable_codes,
-        allowable_methods=allowable_methods,
-        backend=backend,
-        serializer=serializer,
-    )
-    return session
+from .session import get_cached_session
 
 
 class Fetch:

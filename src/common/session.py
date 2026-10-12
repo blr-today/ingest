@@ -8,6 +8,7 @@ def get_cached_session(
     allowable_codes=(200,),
     allowable_methods=["GET"],
     backend="sqlite",
+    serializer=None,
 ):
     """
     Initializes and returns a CachedSession instance with common settings.
@@ -21,5 +22,6 @@ def get_cached_session(
         allowable_codes=allowable_codes,
         allowable_methods=allowable_methods,
         backend=backend,
+        serializer=serializer,
     )
     return session
