@@ -70,11 +70,18 @@ def make_event(session, event_dict):
     )
     startTime = datetime.datetime.strptime(startTimeText, "%Y-%m-%dT%I:%M %p")
 
+    # Unverified: no multi-day listing seen yet, so date_end_full mirrors date_start_full
+    endDay = (event_dict.get("date_end_full") or event_dict["date_start_full"])[0:10]
+    unknown = [k for k in event_dict if "end" in k and k not in ("date_end_full", "time_end_txt")]
+    if unknown:
+        print("[GOETHE] Unhandled end fields:", unknown, event_dict["object_id"])
     if event_dict.get("time_end_txt"):
-        endTime = event_dict["date_start_full"][0:10] + "T" + event_dict["time_end_txt"]
+        endTime = endDay + "T" + event_dict["time_end_txt"]
         endTime = datetime.datetime.strptime(endTime, "%Y-%m-%dT%I:%M %p")
     else:
-        endTime = startTime + datetime.timedelta(hours=2)
+        endTime = datetime.datetime.strptime(endDay, "%Y-%m-%d").replace(
+            hour=startTime.hour, minute=startTime.minute
+        ) + datetime.timedelta(hours=2)
 
     details = {
         "name": event_dict["headline"],

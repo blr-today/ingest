@@ -1,7 +1,6 @@
 import datetime
 import json
 from pathlib import Path
-from types import SimpleNamespace
 
 import goethe
 from goethe import fetch_events, get_event_details, get_event_type, make_event
@@ -117,11 +116,12 @@ def test_empty_price_is_free():
 
 
 def test_long_events_are_dropped(monkeypatch):
-    def timedelta(hours=0, days=0):
-        return datetime.timedelta(days=5 if hours else days)
+    long = item() | {"date_end_full": "2026-08-05 00:00:00.0", "time_end_txt": ""}
+    event = make_event(session(), long)
+    assert event["endDate"] == "2026-08-05T21:30:00"
+    assert event["@type"] is None
 
-    week = SimpleNamespace(datetime=datetime.datetime, timedelta=timedelta)
-    monkeypatch.setattr(goethe, "datetime", week)
-    monkeypatch.setattr(goethe, "get_cached_session", session)
-    assert make_event(session(), item())["@type"] is None
-    assert fetch_events() == []
+
+def test_unknown_end_fields_are_logged(capsys):
+    make_event(session(), item() | {"enddate": "2026-08-05"})
+    assert "Unhandled end fields: ['enddate']" in capsys.readouterr().out
