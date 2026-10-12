@@ -939,6 +939,9 @@ WHERE
   OR event_json ->> '$.name' LIKE '%raise a stein%'
   OR event_json ->> '$.name' LIKE '%cake buffet%'
   OR lower(event_json ->> '$.organizer.name') = 'old mill brewing co.'
+  -- Chianti lists the same set dinner at each outlet
+  OR lower(event_json ->> '$.organizer.name') = 'grateful bread hospitality private limited'
+  OR event_json ->> '$.name' LIKE '%candlelight dinner%'
   OR event_json ->> '$.location.name' LIKE '%doubletree by hilton%'
   OR event_json ->> '$.location.name' LIKE '1882 restaurant%'
 ;
