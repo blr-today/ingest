@@ -78,8 +78,6 @@ def slot_totals(db="events.db"):
 
 
 class LastCall(Processor):
-    PRIORITY = 900
-
     @staticmethod
     def process(url, event):
         left, seats = slot_totals().get(listing(url), (tickets_left(event), capacity(event)))

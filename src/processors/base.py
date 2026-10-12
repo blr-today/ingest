@@ -3,7 +3,6 @@ DROP = "DROP"
 
 
 class Processor:
-    PRIORITY = 100
     URL_REGEX = None
 
     @staticmethod

@@ -51,8 +51,6 @@ def extract_coords(event):
 
 
 class GeoProcessor(Processor):
-    PRIORITY = 90  # Run before most other processors
-
     @staticmethod
     def process(url, event):
         lat, lng = extract_coords(event)

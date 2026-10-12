@@ -6,8 +6,6 @@ LIMIT = 15000
 
 class Costly(Processor):
     # Runs early so dropped events skip the slower processors
-    PRIORITY = 1
-
     @staticmethod
     def process(url, event):
         prices = (

@@ -61,8 +61,6 @@ DESCRIPTIONS = [
 
 
 class EventType(Processor):
-    PRIORITY = 800
-
     @staticmethod
     def process(url, event):
         if event.get("@type") not in (None, "Event"):

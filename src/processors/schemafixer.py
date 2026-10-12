@@ -20,7 +20,6 @@ def get_domain(url):
 
 
 class SchemaFixer(Processor):
-    PRIORITY = 0
     URL_REGEX = None
 
     @staticmethod

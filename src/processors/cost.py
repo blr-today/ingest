@@ -49,8 +49,6 @@ def as_keywords(keywords):
 
 
 class Cost(Processor):
-    PRIORITY = 900
-
     @staticmethod
     def process(url, event):
         prices = []

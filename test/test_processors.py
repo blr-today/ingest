@@ -1,19 +1,16 @@
+import importlib
 import json
+import pkgutil
 import sqlite3
 from pathlib import Path
 
 import pytest
 
-from src.processors import ignored_events, koota, lastcall, patch, venues
-from src.processors.__main__ import (
-    discover_processors,
-    process_events,
-    should_process_url,
-)
+from src.processors import ignored_events, koota, lastcall, patch, registry, venues
+from src.processors.__main__ import process_events, should_process_url
 from src.processors.base import Processor
-from src.processors.cost import Cost
 from src.processors.highape import HighApe
-from src.processors.koota import Koota
+from src.processors.registry import PROCESSORS
 from src.processors.schemafixer import SchemaFixer
 
 ROWS = json.loads(
@@ -56,17 +53,24 @@ def test_base_processor_does_nothing():
     assert Processor.process("u", {"name": "x"}) is None
 
 
-def test_discovery_orders_by_priority():
-    found = discover_processors()
-    assert (
-        found.index(Koota)
-        < found.index(SchemaFixer)
-        < found.index(HighApe)
-        < found.index(Cost)
-    )
-    assert Processor not in found
-    priorities = [p.PRIORITY for p in found]
-    assert priorities == sorted(priorities)
+def test_registry_order():
+    assert [p.__name__ for p in PROCESSORS] == [
+        "Koota", "SchemaFixer", "Costly", "BookMyShow", "Exhibition",
+        "GeoProcessor", "AllEvents", "BhaagoIndia", "District", "HighApe",
+        "IgnoredEvents", "ScriptLanguage", "Patch", "Venues", "EventType",
+        "Cost", "LastCall",
+    ]
+
+
+def test_every_processor_is_registered():
+    names = [m.name for m in pkgutil.iter_modules([Path(registry.__file__).parent])]
+    found = {
+        obj
+        for name in names
+        for obj in vars(importlib.import_module(f"src.processors.{name}")).values()
+        if isinstance(obj, type) and issubclass(obj, Processor) and obj is not Processor
+    }
+    assert found == set(PROCESSORS) and len(found) == len(PROCESSORS)
 
 
 def test_url_filters():

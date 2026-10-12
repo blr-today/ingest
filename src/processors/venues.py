@@ -30,8 +30,6 @@ def lookup(name):
 
 class Venues(Processor):
     # Runs after AllEvents drops its placeholder coordinates
-    PRIORITY = 120
-
     @staticmethod
     def process(url, event):
         place = event.get("location")

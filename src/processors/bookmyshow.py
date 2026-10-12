@@ -16,8 +16,6 @@ def bms_link(event):
 
 class BookMyShow(Processor):
     # Fill gaps from the linked BMS page, before cost and type processors run
-    PRIORITY = 5
-
     @staticmethod
     def process(url, event):
         link = bms_link(event)

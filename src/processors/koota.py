@@ -66,7 +66,7 @@ def apply_record(event, record):
 
 
 class Koota(Processor):
-    PRIORITY = -10  # Fix dates before SchemaFixer parses them
+    # Fix dates before SchemaFixer parses them
     URL_REGEX = r"^https?://(www\.)?courtyardkoota\.com/"
 
     @staticmethod
