@@ -88,15 +88,20 @@ def convert_to_event_json(event):
     return e
 
 
-with open("fixtures/tonight-is-parties.json", "r") as f:
-    data = list(fetch_parties())
-    data = firebase.Firebase.parse_firebase_struct(data)
-    data = [
-        convert_to_event_json(e)
-        for e in data
-        if "startDate" in e
-        and datetime.fromisoformat(e["startDate"]).date() > datetime.now().date()
-    ]
+def main():
+    with open("fixtures/tonight-is-parties.json", "r") as f:
+        data = list(fetch_parties())
+        data = firebase.Firebase.parse_firebase_struct(data)
+        data = [
+            convert_to_event_json(e)
+            for e in data
+            if "startDate" in e
+            and datetime.fromisoformat(e["startDate"]).date() > datetime.now().date()
+        ]
 
-    with open("out/tonight.json", "w") as file:
-        json.dump(data, file, indent=2)
+        with open("out/tonight.json", "w") as file:
+            json.dump(data, file, indent=2)
+
+
+if __name__ == "__main__":
+    main()
