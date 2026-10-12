@@ -1,0 +1,65 @@
+name: Test
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+    - "src/**"
+    - "test/**"
+    - "pyproject.toml"
+    - "uv.lock"
+    - ".github/workflows/test.yml"
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+permissions: {}
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      coverage: ${{ steps.coverage.outputs.total }}
+    steps:
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      with:
+        persist-credentials: false
+    - uses: astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
+    - name: Run tests
+      run: |
+        uv run --frozen --extra test coverage run -m pytest -q
+    - name: Report coverage
+      id: coverage
+      run: |
+        uv run --frozen --extra test coverage report --format=markdown >> "$GITHUB_STEP_SUMMARY"
+        echo "total=$(uv run --frozen --extra test coverage report --format=total)" >> "$GITHUB_OUTPUT"
+
+  badge:
+    name: Publish coverage badge
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Point the badges branch at a commit holding only coverage.json
+      env:
+        GH_TOKEN: ${{ github.token }}
+        REPO: ${{ github.repository }}
+        TOTAL: ${{ needs.test.outputs.coverage }}
+      run: |
+        color=red
+        [ "$TOTAL" -ge 60 ] && color=yellow
+        [ "$TOTAL" -ge 80 ] && color=green
+        [ "$TOTAL" -ge 90 ] && color=brightgreen
+        json=$(jq -nc --arg m "$TOTAL%" --arg c "$color" \
+          '{schemaVersion: 1, label: "coverage", message: $m, color: $c}')
+        tree=$(gh api "repos/$REPO/git/trees" -f 'tree[][path]=coverage.json' \
+          -f 'tree[][mode]=100644' -f 'tree[][type]=blob' -f "tree[][content]=$json" --jq .sha)
+        commit=$(gh api "repos/$REPO/git/commits" -f "message=Coverage $TOTAL%" \
+          -f "tree=$tree" --jq .sha)
+        gh api -X PATCH "repos/$REPO/git/refs/heads/badges" -f "sha=$commit" -F force=true \
+          || gh api "repos/$REPO/git/refs" -f ref=refs/heads/badges -f "sha=$commit"

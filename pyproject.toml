@@ -28,7 +28,8 @@ dependencies = [
 ]
 [project.optional-dependencies]
 test = [
-    "pytest~=9.0"
+    "coverage~=7.16",
+    "pytest~=9.0",
 ]
 [tool.pytest.ini_options]
 pythonpath = [
@@ -36,3 +37,7 @@ pythonpath = [
   "src",
   "src/sources"
 ]
+[tool.coverage.run]
+source = ["src"]
+[tool.coverage.report]
+include_namespace_packages = true

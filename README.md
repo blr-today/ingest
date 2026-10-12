@@ -1,5 +1,7 @@
 # blr.today ingestion
 
+[![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/blr-today/ingest/badges/coverage.json)](https://github.com/blr-today/ingest/actions/workflows/test.yml)
+
 This is the source code for the BLR.Today ingestion pipeline. This code does the following:
 
 1. Fetches events from dozens of sources.
