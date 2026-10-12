@@ -156,12 +156,10 @@ Key processors:
 - `geo.py` - Tags events >50km from Bangalore as NOTINBLR
 - `schemafixer.py` - Fixes common schema issues
 
-## Post-build SQL
+## Event types and tags
 
-`post-build.sql` runs after all processing for bulk updates:
-- Tag low-quality events
-- Mark events outside Bangalore
-- Add location-based keywords (HSR, INDIRANAGAR, etc.)
-- Delete duplicate/unwanted events
-
-Uses SQLite JSON functions and REGEXP for pattern matching.
+- **Sources** set a specific `@type` when they know it.
+- **Source processors** (AllEvents, District, HighApe, Koota, BhaagoIndia) fix one source's data, such as a type it stamps on everything.
+- **`eventtype.py`** owns general typing from names, descriptions and keywords, and only fills a missing or plain `Event` type.
+- **`src/tagger.py`** owns activity tags from `src/common/activities.py`: name rules, Jev answers, KIDS, MOVIE-SCREENING and WOMEN-ONLY, plus Jev typing for events still left as `Event`. It skips events with an `EXCLUDE` tag, and reads the same names as `eventtype.py` for tags instead of types, so their rules overlap on purpose.
+- **`post-build.sql`** runs between the processors and the tagger and owns curation: exclusion and quality tags, area and source tags, ONLINE, BSF/MULTIDAY, CURATED, data fixes, deletions and keyword cleanup. It keeps specific type or tag overrides for named events, venues and organisers; general rules for types and activity tags go in `eventtype.py` and the tagger. Its `->>` needs SQLite 3.38.
