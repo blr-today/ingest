@@ -1,0 +1,147 @@
+{
+ "id": "EPL7R5",
+ "title": "Weekend Games with ReRoll",
+ "images": [
+  {
+   "id": "21cc66f8-bd5b-52af-8da9-f8fd1f467cb4",
+   "url": "https://cdn.puttingscene.com/event_images/5694/d9159290-be2b-4431-a3fe-e67c1f29a9d2.jpg",
+   "external_url": null,
+   "alt_text": "cropped-j7eTCpN0zXQJiyOzYwFut.jpg",
+   "is_primary": false,
+   "is_gif": false
+  }
+ ],
+ "venue": {
+  "name": "Underline Center",
+  "google_maps_url": "https://maps.google.com/?cid=1552028387341754792"
+ },
+ "kind": "ticketed",
+ "category": "normal",
+ "next_bookable_slot": {
+  "start_datetime": "2026-10-03T12:30:00Z",
+  "end_datetime": "2026-10-03T17:30:00Z"
+ },
+ "last_bookable_slot": {
+  "start_datetime": "2026-10-03T12:30:00Z",
+  "end_datetime": "2026-10-03T17:30:00Z"
+ },
+ "is_sold_out": false,
+ "is_in_past": false,
+ "price_from": {
+  "amount_in_minor_units": 39900,
+  "currency": "INR",
+  "display": "₹399"
+ },
+ "external_url": null,
+ "org_details": {
+  "id": "3927913d-d03e-584e-b80f-6b5ac39ef2d1",
+  "name": "Underline Center"
+ },
+ "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\n**Who are ReRoll Board Games?**\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nCome solo, with a date, or in a group—we’ve got something for everyone!",
+ "short_description": "",
+ "is_paid": true,
+ "terms_and_conditions": "Each ticket grants entry to one individual to the event. Tickets will be refunded if the event is cancelled.",
+ "slots": [
+  {
+   "id": "b7259d7b-64c4-4d47-aac6-4ce7d5460ee0",
+   "start_at": "2026-09-19T18:00:00+05:30",
+   "end_at": "2026-09-19T23:00:00+05:30",
+   "max_attendees": 30,
+   "is_in_past": true,
+   "ticket_tiers": [
+    {
+     "slot_tier_id": "26c89f27-55db-46b1-bcad-a5ab67199d4c",
+     "ticket_tier_id": "d8ebd41e-62fc-4e46-8a74-8a7148cee004",
+     "name": "Regular",
+     "description": "Each ticket grants entry to one individual to the event.\n\nEach ticket grants access to 100s of games across all skill levels for the duration of the event.\n\nMembers of Reroll will be present to help you understand the rules of the games.",
+     "price": {
+      "amount_in_minor_units": 39900,
+      "currency": "INR",
+      "display": "₹399"
+     },
+     "tax_amount": {
+      "amount_in_minor_units": 0,
+      "currency": "INR",
+      "display": "₹0"
+     },
+     "price_with_tax": {
+      "amount_in_minor_units": 39900,
+      "currency": "INR",
+      "display": "₹399"
+     },
+     "max_seats_per_user": 20,
+     "memberships_applied_to_tickettier": [],
+     "seating_capacity": 30,
+     "available_capacity": 30,
+     "is_sold_out": true,
+     "requires_guest_approval": false,
+     "approval_queries": {},
+     "participation_request": null,
+     "bookability": {
+      "is_bookable": false,
+      "reason": {
+       "type": "slot_in_past"
+      }
+     },
+     "tax": {
+      "name": "GST 0%",
+      "total_percentage": "0.00",
+      "is_inclusive": true,
+      "breakdown": {}
+     }
+    }
+   ]
+  },
+  {
+   "id": "69c8421c-e403-4f23-aa1d-8b746aa17f27",
+   "start_at": "2026-10-03T18:00:00+05:30",
+   "end_at": "2026-10-03T23:00:00+05:30",
+   "max_attendees": 30,
+   "is_in_past": false,
+   "ticket_tiers": [
+    {
+     "slot_tier_id": "91239ee5-33c5-4198-93aa-f0c204743980",
+     "ticket_tier_id": "d8ebd41e-62fc-4e46-8a74-8a7148cee004",
+     "name": "Regular",
+     "description": "Each ticket grants entry to one individual to the event.\n\nEach ticket grants access to 100s of games across all skill levels for the duration of the event.\n\nMembers of Reroll will be present to help you understand the rules of the games.",
+     "price": {
+      "amount_in_minor_units": 39900,
+      "currency": "INR",
+      "display": "₹399"
+     },
+     "tax_amount": {
+      "amount_in_minor_units": 0,
+      "currency": "INR",
+      "display": "₹0"
+     },
+     "price_with_tax": {
+      "amount_in_minor_units": 39900,
+      "currency": "INR",
+      "display": "₹399"
+     },
+     "max_seats_per_user": 20,
+     "memberships_applied_to_tickettier": [],
+     "seating_capacity": 30,
+     "available_capacity": 28,
+     "is_sold_out": false,
+     "requires_guest_approval": false,
+     "approval_queries": {},
+     "participation_request": null,
+     "bookability": {
+      "is_bookable": false,
+      "reason": {
+       "type": "unauthenticated"
+      }
+     },
+     "tax": {
+      "name": "GST 0%",
+      "total_percentage": "0.00",
+      "is_inclusive": true,
+      "breakdown": {}
+     }
+    }
+   ]
+  }
+ ],
+ "bookings": []
+}
