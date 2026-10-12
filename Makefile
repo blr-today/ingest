@@ -205,6 +205,12 @@ out/iiwc.ics:
 out/iiwc.json: out/iiwc.ics
 	python -m src.sources.iiwc || $(call restore-file,$@)
 
+out/afbangalore.ics:
+	curl --silent --location "https://bangalore.afindia.org/events.ics" --output $@ || $(call restore-file,$@)
+
+out/afbangalore.json: out/afbangalore.ics
+	python -m src.sources.afbangalore || $(call restore-file,$@)
+
 out/bac.json:
 	python -m src.sources.bac || $(call restore-file,$@)
 
@@ -257,6 +263,7 @@ fetch: out/allevents.txt \
  out/penciljam.json \
  out/mainmission.json \
  out/iiwc.json \
+ out/afbangalore.json \
  out/bac.json \
  out/aceofpubs.json \
  out/manual.json
