@@ -110,4 +110,5 @@ def test_bad_rows_are_skipped(build, caplog):
     starts = [json.loads(e)["startDate"] for u, e in events.items() if "#" in u]
     assert starts == ["2026-10-11T14:00:00+05:30"] * 21
     assert "Error processing event at URL https://x.in/bad" in caplog.text
-    assert "Error in processor SchemaFixer for URL https://x.in/nodate" in caplog.text
+    assert json.loads(events["https://x.in/nodate"])["@context"] == "https://schema.org"
+    assert "Error in processor" not in caplog.text

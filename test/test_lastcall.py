@@ -75,3 +75,14 @@ def test_slots_of_one_listing_add_up(tmp_path):
     conn.executemany("INSERT INTO events VALUES (?, ?)", [(u, json.dumps(e)) for u, e in rows])
     conn.commit()
     assert slot_totals(str(db)) == {"https://a/x": (12, None), "https://u/y": (7, 80), "https://u/z": (None, None)}
+
+
+def test_broken_rows_are_skipped(tmp_path):
+    db = tmp_path / "events.db"
+    conn = sqlite3.connect(db)
+    conn.execute("CREATE TABLE events (url TEXT, event_json TEXT)")
+    rows = [("https://a/x", "{not json"), ("https://a/x", "null"), ("https://a/x", "[1]"), ("https://a/x", None),
+            ("https://a/x", json.dumps({"remainingAttendeeCapacity": 3}))]
+    conn.executemany("INSERT INTO events VALUES (?, ?)", rows)
+    conn.commit()
+    assert slot_totals(str(db)) == {"https://a/x": (3, None)}

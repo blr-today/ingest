@@ -64,7 +64,12 @@ def slot_totals(db="events.db"):
             "SELECT url, event_json FROM events"
         )
         for url, event_json in rows:
-            event = json.loads(event_json)
+            try:
+                event = json.loads(event_json)
+            except TypeError, ValueError:
+                continue
+            if not isinstance(event, dict):
+                continue
             left, seats = totals.get(listing(url), (0, 0))
             totals[listing(url)] = (add(left, tickets_left(event)), add(seats, capacity(event)))
     except sqlite3.Error:

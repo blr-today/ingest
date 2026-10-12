@@ -1,3 +1,4 @@
+import time
 from src.processors.schemafixer import EDGES, SchemaFixer, get_domain
 
 
@@ -97,3 +98,20 @@ def test_keywords_become_a_clean_list():
 def test_get_domain():
     assert get_domain("https://www.district.in/events/x") == "district.in"
     assert get_domain("https://allevents.in/bangalore/1") == "allevents.in"
+
+
+def test_naive_dates_are_local(monkeypatch):
+    monkeypatch.setenv("TZ", "UTC")
+    time.tzset()
+    try:
+        event = fix({"startDate": "2026-10-17T20:00:00"})
+    finally:
+        monkeypatch.undo()
+        time.tzset()
+    assert event["startDate"] == "2026-10-17T20:00:00+05:30"
+    assert event["endDate"] == "2026-10-17T22:00:00+05:30"
+
+
+def test_missing_or_bad_start_is_left_alone(capsys):
+    assert "endDate" not in fix({"name": "No date"})
+    assert "endDate" not in fix({"startDate": "Oct 5"})

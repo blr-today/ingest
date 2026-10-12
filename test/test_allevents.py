@@ -16,9 +16,9 @@ def listing():
     return url, json.loads(json.dumps(event))
 
 
-@pytest.fixture
-def utc(monkeypatch):
-    monkeypatch.setenv("TZ", "UTC")
+@pytest.fixture(params=["UTC", "Asia/Tokyo"])
+def utc(monkeypatch, request):
+    monkeypatch.setenv("TZ", request.param)
     time.tzset()
     yield
     monkeypatch.undo()

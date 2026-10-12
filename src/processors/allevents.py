@@ -1,6 +1,6 @@
 import html
 from .base import Processor
-from datetime import datetime
+from datetime import datetime, timezone
 from ..common.tz import IST
 
 
@@ -11,9 +11,8 @@ class AllEvents(Processor):
     def process(url, event):
         for x in ["startDate", "endDate"]:
             if event[x].endswith("+.000+0"):
-                event[x] = (
-                    datetime.fromisoformat(event[x][0:19]).astimezone(IST).isoformat()
-                )
+                naive = datetime.fromisoformat(event[x][0:19])
+                event[x] = naive.replace(tzinfo=timezone.utc).astimezone(IST).isoformat()
         place = event.get("location")
         geo = place.get("geo") if isinstance(place, dict) else None
         # Unknown venues sit on Google's centre of Bangalore, which is wrong

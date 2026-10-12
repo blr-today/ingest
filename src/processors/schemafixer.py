@@ -41,17 +41,20 @@ class SchemaFixer(Processor):
         for x in ["startDate", "endDate"]:
             if x in event:
                 try:
-                    event[x] = (
-                        datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
-                    )
+                    date = datetime.fromisoformat(event[x])
+                    date = date if date.tzinfo else date.replace(tzinfo=IST)
+                    event[x] = date.astimezone(IST).isoformat()
                 except Exception as e:
                     print(f"[IMP] Error parsing {x} for {event['url']}: {e}")
                     pass
 
-        if "endDate" not in event:
-            event["endDate"] = (
-                datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
-            ).isoformat()
+        if "endDate" not in event and "startDate" in event:
+            try:
+                event["endDate"] = (
+                    datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
+                ).isoformat()
+            except ValueError:
+                pass
 
         try:
             if isinstance(event["organizer"], list) and len(event["organizer"]) == 1:
