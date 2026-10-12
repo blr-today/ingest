@@ -211,6 +211,9 @@ out/afbangalore.ics:
 out/afbangalore.json: out/afbangalore.ics
 	python -m src.sources.afbangalore || $(call restore-file,$@)
 
+out/rangashankara.json:
+	python -m src.sources.rangashankara || $(call restore-file,$@)
+
 out/bac.json:
 	python -m src.sources.bac || $(call restore-file,$@)
 
@@ -264,6 +267,7 @@ fetch: out/allevents.txt \
  out/mainmission.json \
  out/iiwc.json \
  out/afbangalore.json \
+ out/rangashankara.json \
  out/bac.json \
  out/aceofpubs.json \
  out/manual.json
