@@ -338,5 +338,35 @@
         "name": "Vinothkumar Kutti Ragunath"
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Meow Street Mystery",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
+    },
+    "startDate": "2026-10-31T18:00:00+05:30",
+    "endDate": "2026-10-31T20:00:00+05:30",
+    "description": "We, the Three, of 13, Meow Street, host this treasure hunt and call upon your aid! O brave, capable and well-dressed strangers, might you find it in your hearts to follow the trail of our lost cat? \n\nPass the trials of tricks, in this maze of mysteries, to perhaps find treasures and treats. Might you, bedecked in imaginative quantum garb, at once Dr Jekyll and Mr Hyde or the Cheshire Cat alike, be the ones to band together and untangle this cat's cradle?\n",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=Meow-Street-Mystery",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "35",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Anandita Balsavar"
+      },
+      {
+        "@type": "Person",
+        "name": "Manasi Narula"
+      },
+      {
+        "@type": "Person",
+        "name": "Rohit Taeja Kumar"
+      }
+    ]
   }
 ]
