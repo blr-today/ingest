@@ -19,8 +19,8 @@ class TestFetch:
     def fetch_force_cache(self):
         return Fetch(cache={"name":"test-cache", "backend": "memory", "allowable_methods": ["GET", "HEAD", "POST"], "allowable_codes": [200, 302]})
 
-    def test_requests_cache(self, fetch):
-        url = "https://httpbin.org" + '/get'
+    def test_requests_cache(self, fetch, httpbin):
+        url = httpbin.url + '/get'
         res = fetch.request("GET", url=url)
         assert res.status_code == 200
         assert res.url == url
@@ -35,15 +35,15 @@ class TestFetch:
         assert res.url == url
         assert isinstance(res, CachedResponse)
 
-    def test_default_cache_ignores_post(self, fetch):
-        url = "https://httpbin.org" + '/post'
+    def test_default_cache_ignores_post(self, fetch, httpbin):
+        url = httpbin.url + '/post'
         res = fetch.request("POST", url=url)
         assert res.status_code == 200
         assert res.url == url
         assert isinstance(res, OriginalResponse)
 
-    def test_cache_with_post_allowed(self, fetch_force_cache):
-        url = "https://httpbin.org" + "/post"
+    def test_cache_with_post_allowed(self, fetch_force_cache, httpbin):
+        url = httpbin.url + "/post"
         assert not fetch_force_cache.cache.contains(url=url)
         res = fetch_force_cache.request("POST", url=url)
         assert res.status_code == 200
@@ -58,8 +58,8 @@ class TestFetch:
         assert res.url == url
         assert isinstance(res, CachedResponse)
 
-    def test_chrome_request(self, chrome, fetch):
-        url = "https://httpbin.org" + '/headers'
+    def test_chrome_request(self, chrome, fetch, httpbin):
+        url = httpbin.url + '/headers'
         res = chrome.request("GET", url=url)
         assert res.status_code == 200
         assert res.url == url
@@ -75,18 +75,18 @@ class TestFetch:
         assert res.url == url
         assert isinstance(res, CachedResponse)
 
-    def test_chrome_no_cache(self, chrome):
-        url = "https://httpbin.org" + '/get'
+    def test_chrome_no_cache(self, chrome, httpbin):
+        url = httpbin.url + '/get'
         res = chrome.request("GET", url=url, cache=False)
         assert res.status_code == 200
         assert res.url == url
         assert isinstance(res, RequestsResponse)
 
 
-    def test_encoding_cache(self, chrome):
+    def test_encoding_cache(self, chrome, httpbin):
         formats = ['brotli', 'deflate', 'gzip', 'json',]
         for response_format in formats:
-            url = "https://httpbin.org" + f'/{response_format}'
+            url = httpbin.url + f'/{response_format}'
             response = chrome.request("GET", url=url, cache=True)
             assert response.status_code == 200
             assert chrome.cache.contains(url=url)
@@ -97,8 +97,8 @@ class TestFetch:
             response = chrome.request("GET", url=url, cache=True)
             assert isinstance(response, CachedResponse)
 
-    def test_post_cache(self, chrome):
-        url = "https://httpbin.org" + '/anything'
+    def test_post_cache(self, chrome, httpbin):
+        url = httpbin.url + '/anything'
         data = {"key": "value"}
         request = PreparedRequest()
         request.prepare(json=data, url=url)
@@ -108,8 +108,8 @@ class TestFetch:
         assert chrome.cache.contains(request=request)
         assert isinstance(response.json(), dict)
 
-    def test_cookies(self, chrome):
-        url = "https://httpbin.org" + "/response-headers?Set-Cookie=test%3Dcookie"
+    def test_cookies(self, chrome, httpbin):
+        url = httpbin.url + "/response-headers?Set-Cookie=test%3Dcookie"
         response = chrome.request("GET", url=url, cache=True)
         print(response)
         assert response.status_code == 200

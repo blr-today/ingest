@@ -30,6 +30,7 @@ dependencies = [
 test = [
     "coverage~=7.16",
     "pytest~=9.1",
+    "pytest-httpbin~=2.1",
 ]
 [tool.pytest.ini_options]
 pythonpath = ["."]
