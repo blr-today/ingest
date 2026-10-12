@@ -810,7 +810,7 @@
          "offers": [
             {
                "@type": "Offer",
-               "availability": "http://schema.org/InStock",
+               "availability": "http://schema.org/SoldOut",
                "availabilityEnds": "2026-10-14T16:30:00.000Z",
                "name": "Regular Ticket",
                "price": 499,
@@ -869,7 +869,7 @@
          "offers": [
             {
                "@type": "Offer",
-               "availability": "http://schema.org/InStock",
+               "availability": "http://schema.org/SoldOut",
                "availabilityEnds": "2026-10-14T13:30:00.000Z",
                "name": "Early Bird",
                "price": 349,
