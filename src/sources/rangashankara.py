@@ -12,6 +12,13 @@ PAGE_URL = "https://rangashankara.org/book-tickets-2/"
 MONTH_RE = re.compile(r"^([A-Z][a-z]+) (\d{4})$")
 DAY_RE = re.compile(r"^[A-Za-z]{3}\.?,?\s*(\d{1,2})(?:st|nd|rd|th)?\s*\|\s*(.+)$", re.S)
 TIME_RE = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*([ap]m)?", re.I)
+AGE_RE = re.compile(r"(\d+)\s*\+\s*years?", re.I)
+LANGUAGES = {
+    "kan": "kn", "kannada": "kn", "eng": "en", "english": "en",
+    "hin": "hi", "hindi": "hi", "mal": "ml", "malayalam": "ml",
+    "bangla": "bn", "bengali": "bn", "tamil": "ta", "telugu": "te",
+    "marathi": "mr", "urdu": "ur", "konkani": "kok", "tulu": "tcy",
+}
 
 LOCATION = {
     "@type": "Place",
@@ -59,8 +66,13 @@ def parse_card(texts, link, month, year):
         return []
 
     info = re.sub(r"\s+", " ", day.group(2).split("min.", 1)[-1]).strip(" |.")
-    info = f"Language: {info}" if info else ""
-    details = " | ".join(c for c in [info, *clean[1:-2]] if c)
+    age = AGE_RE.search(info)
+    spoken = [
+        LANGUAGES.get(l.lower(), l.title())
+        for l in re.split(r"\s*(?:,|&|/|\band\b)\s*", AGE_RE.sub("", info).strip(" .|"))
+        if l
+    ]
+    details = " | ".join(c for c in clean[1:-2] if c)
     duration = re.search(r"(\d+)\s*min", clean[0])
     events = []
     for start_time in clock:
@@ -72,9 +84,14 @@ def parse_card(texts, link, month, year):
             "name": name,
             "url": f"{PAGE_URL}#{start:%Y%m%d-%H%M}",
             "startDate": start.isoformat(),
-            "description": details,
             "location": LOCATION,
         }
+        if details:
+            event["description"] = details
+        if spoken:
+            event["inLanguage"] = spoken
+        if age:
+            event["typicalAgeRange"] = f"{age[1]}+"
         if duration:
             event["endDate"] = (start + timedelta(minutes=int(duration[1]))).isoformat()
         if link:
