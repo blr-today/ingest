@@ -59,6 +59,45 @@ def test_fetches_events_from_url_lists(site, capsys):
     assert all(h == remote.USER_AGENT_HEADERS for _, h in site)
 
 
+def test_events_from_urls_keep_page_data(site, capsys):
+    PAGES["https://example.com/short"] = (
+        '<script type="application/ld+json">'
+        '{"@type": "Event", "name": "Short", "url": "https://example.com/canonical"}</script>'
+    )
+    urls = [GRAPH_URL, "https://example.com/about", "", "https://example.com/down", "https://example.com/short\n", EVENT_URL]
+    graph, short, koota = remote.events_from_urls(urls)
+    assert graph["@id"] == GRAPH_URL + "#event"
+    assert graph["startDate"] == "2026-10-20T16:00:00+05:30"
+    assert short == {"@type": "Event", "name": "Short", "url": "https://example.com/canonical"}
+    assert koota["name"] == "Bengaluru Boy by Danish Sait | Stand Up Comedy"
+    assert "KOOTA" not in koota.get("keywords", []) and "BAC" not in graph.get("keywords", [])
+    out = capsys.readouterr().out
+    assert "Could not find event in https://example.com/about" in out
+    assert "Error fetching https://example.com/down: offline" in out
+    assert [url for url, _ in site] == [u.strip() for u in urls if u]
+    assert all(h == remote.USER_AGENT_HEADERS for _, h in site)
+
+
+def test_events_from_urls_skip_bad_pages(site, monkeypatch, capsys):
+    PAGES["https://example.com/empty"] = ""
+    PAGES["https://example.com/badjson"] = "<html></html>"
+    PAGES["https://example.com/blank"] = " \n"
+    real = remote.JsonLdExtractor
+
+    class Extractor(real):
+        def extract(self, text):
+            if text == "<html></html>":
+                raise remote.json.decoder.JSONDecodeError("bad", text, 0)
+            return real().extract(text)
+    monkeypatch.setattr(remote, "JsonLdExtractor", Extractor)
+    urls = ["https://example.com/empty", "https://example.com/badjson", "https://example.com/blank", EVENT_URL]
+    assert [e["name"] for e in remote.events_from_urls(urls)] == ["Bengaluru Boy by Danish Sait | Stand Up Comedy"]
+    out = capsys.readouterr().out
+    assert "No content for  https://example.com/empty" in out
+    assert "Error parsing JSON for https://example.com/badjson" in out
+    assert "Error parsing HTML for https://example.com/blank" in out
+
+
 def test_file_filter_limits_sources(site):
     pathlib.Path("out/bac.txt").write_text(GRAPH_URL + "\n")
     pathlib.Path("out/koota.txt").write_text(EVENT_URL + "\n")
