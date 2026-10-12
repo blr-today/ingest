@@ -29,10 +29,10 @@ package are also valid. No `PYTHONPATH` setup is needed.
 ## Event Source Scraping Style Guide
 
 ### Script Structure
-- **Name**: `src/sources/venue_name.py` (lowercase, underscores)
-- **Output**: `out/venue_name.json` with event count log `[VENUE] N events`
+- **Name**: `src/sources/venue.py`; `venue` is the output stem and source keyword
+- **Contract**: `events()` returns Event dicts and writes nothing; `python -m src.sources venue` writes `out/venue.json` and logs `[VENUE] N events`
 - **Dependencies**: Use existing packages from `pyproject.toml`
-- **Makefile**: Add target and include in `fetch` dependencies
+- **Makefile**: List `out/venue.json` in `fetch`; a raw download gets a rule plus `out/venue.json: out/venue.ics`
 
 ### HTTP Requests
 
