@@ -80,6 +80,9 @@ We have some data available or change notifications configured, but there needs 
 - [ ] [Dance Workshops from ARDS](https://www.ardsindia.co.in/studio-classes)
 - [ ] [Claystation trainings](https://claystation.in/classes/)
 
+## Testing
+- [ ] E2E pipeline test: fixture `out/` files through build, processors, `post-build.sql`, tagger and dedup into one SQLite DB, offline. Build `libsqlite.so` in CI for REGEXP, or skip when missing.
+
 ## Known Issues
 
 - [ ] Events with multiple dates are not handled well. Need to split them into separate events. Examples: 
