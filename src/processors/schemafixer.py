@@ -5,6 +5,11 @@ from urllib.parse import urlparse
 import datefinder
 from datetime import datetime, timedelta
 from ..common.tz import IST
+import re
+
+# Emoji, arrows, dingbats and object-replacement marks that decorate titles
+SYMBOL = "[\U0001f000-\U0001faff\u2190-\u21ff\u2300-\u23ff\u25a0-\u27bf\u2b00-\u2bff\ufe0e\ufe0f\u200d\u20e3\ufffc]"
+EDGES = re.compile(rf"^(?:{SYMBOL}|\s)+|(?:{SYMBOL}|\s)+$")
 
 
 def get_domain(url):
@@ -23,6 +28,7 @@ class SchemaFixer(Processor):
         # Insider events often include &apos; &quot; etc.
         if "name" in event:
             event["name"] = html.unescape(event["name"])
+            event["name"] = EDGES.sub("", event["name"]) or event["name"]
 
         # force https here
         event["@context"] = "https://schema.org"
