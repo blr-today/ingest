@@ -1,0 +1,203 @@
+{
+ "data": {
+  "sessionDates": [
+   "2026-10-13",
+   "2026-10-14"
+  ]
+ },
+ "pageData": {
+  "sessions": {
+   "52080": [
+    {
+     "sid": "46624",
+     "pid": 3,
+     "pkey": "miraj",
+     "cid": 52080,
+     "mid": "OBDAZO",
+     "fid": "36nydr19vse",
+     "showTime": "2026-10-13T10:35",
+     "closeTime": "2026-10-13T11:20",
+     "mandatoryItems": [],
+     "areas": [
+      {
+       "code": "0000000001",
+       "label": "SILVER",
+       "description": null,
+       "typeCode": "0002",
+       "sType": "fixed",
+       "sAvail": 34,
+       "seatsAvail": null,
+       "sTotal": 34,
+       "seatAvailability": null,
+       "seatsTotal": null,
+       "price": 150.0,
+       "statusColor": "G"
+      },
+      {
+       "code": "0000000002",
+       "label": "GOLD",
+       "description": null,
+       "typeCode": "0001",
+       "sType": "fixed",
+       "sAvail": 143,
+       "seatsAvail": null,
+       "sTotal": 145,
+       "seatAvailability": null,
+       "seatsTotal": null,
+       "price": 170.0,
+       "statusColor": "G"
+      }
+     ],
+     "total": 179,
+     "avail": 177,
+     "audi": "SCREEN 1",
+     "premium": 0,
+     "premiumLabel": "2K LASER",
+     "tFeePkupTime": 0,
+     "sType": 0,
+     "tFee": 0,
+     "grpSeats": 0,
+     "maxTkt": 10,
+     "lang": "Tamil",
+     "scrnFmt": "2D",
+     "gnrs": [
+      "Thriller"
+     ],
+     "statusColor": "G",
+     "subtitle": ""
+    }
+   ],
+   "1039754": [
+    {
+     "sid": "17292",
+     "pid": 1867,
+     "pkey": "vista_common_food",
+     "cid": 1039754,
+     "mid": "OBDAZO",
+     "fid": "36nydr19vse",
+     "showTime": "2026-10-13T04:30",
+     "closeTime": "2026-10-13T04:55",
+     "mandatoryItems": [],
+     "areas": [
+      {
+       "code": "0000000004",
+       "label": "GOLD",
+       "description": null,
+       "typeCode": "0002",
+       "sType": "fixed",
+       "sAvail": 110,
+       "seatsAvail": null,
+       "sTotal": 110,
+       "seatAvailability": null,
+       "seatsTotal": null,
+       "price": 150.0,
+       "statusColor": "G"
+      },
+      {
+       "code": "0000000005",
+       "label": "SILVER",
+       "description": null,
+       "typeCode": "0003",
+       "sType": "fixed",
+       "sAvail": 28,
+       "seatsAvail": null,
+       "sTotal": 28,
+       "seatAvailability": null,
+       "seatsTotal": null,
+       "price": 150.0,
+       "statusColor": "G"
+      },
+      {
+       "code": "0000000008",
+       "label": "RECLINER",
+       "description": null,
+       "typeCode": "0011",
+       "sType": "fixed",
+       "sAvail": 12,
+       "seatsAvail": null,
+       "sTotal": 12,
+       "seatAvailability": null,
+       "seatsTotal": null,
+       "price": 300.0,
+       "statusColor": "G"
+      }
+     ],
+     "total": 150,
+     "avail": 150,
+     "audi": "AUDI 1",
+     "premium": 0,
+     "premiumLabel": "DOLBY 7.1 (2K PROJECTER)",
+     "tFeePkupTime": 0,
+     "sType": 0,
+     "tFee": 0,
+     "grpSeats": 0,
+     "maxTkt": 10,
+     "lang": "Tamil",
+     "scrnFmt": "2D",
+     "gnrs": [
+      "Thriller"
+     ],
+     "statusColor": "G",
+     "subtitle": ""
+    }
+   ],
+   "10940": [
+    {
+     "sid": "35198__1791883800__84__2124109",
+     "pid": 1424,
+     "pkey": "ticketnew",
+     "cid": 10940,
+     "mid": "OBDAZO",
+     "fid": "36nydr19vse",
+     "showTime": "2026-10-13T09:30",
+     "closeTime": "2026-10-13T09:00",
+     "mandatoryItems": [],
+     "areas": [
+      {
+       "code": "151",
+       "label": "PREMIUM",
+       "description": null,
+       "typeCode": "35198__1791883800__84__2124109_Premium",
+       "sType": "fixed",
+       "sAvail": 29,
+       "seatsAvail": null,
+       "sTotal": 36,
+       "seatAvailability": null,
+       "seatsTotal": null,
+       "price": 150.0,
+       "statusColor": "G"
+      }
+     ],
+     "total": 36,
+     "avail": 29,
+     "audi": "SCREEN7",
+     "premium": 0,
+     "premiumLabel": "SCREEN7",
+     "tFeePkupTime": 0,
+     "sType": 0,
+     "tFee": 0,
+     "grpSeats": 0,
+     "maxTkt": 10,
+     "lang": "Tamil",
+     "scrnFmt": "2D",
+     "gnrs": [
+      "Thriller"
+     ],
+     "statusColor": "G",
+     "subtitle": ""
+    }
+   ]
+  }
+ },
+ "meta": {
+  "movies": [
+   {
+    "id": "OBDAZO",
+    "frmtId": "36nydr19vse",
+    "name": "Kitti",
+    "contentId": 231756,
+    "lang": "Tamil"
+   }
+  ]
+ }
+}
