@@ -14,4 +14,5 @@ def scrape_together():
             print(event["data"]["action"])
 
 
-scrape_together()
+if __name__ == "__main__":
+    scrape_together()
