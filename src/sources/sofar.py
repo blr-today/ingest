@@ -134,15 +134,9 @@ query GetEventsForFanWithAttendees(
 url = "https://www.sofarsounds.com/api/v2/graphql?on=GetEventsForFanWithAttendees"
 
 
-def main():
+def events():
     response = make_graphql_request(query, "bangalore", url)
     events = []
     for d in response["data"]["events"]["events"]:
         events.append(to_schema_org_music_event(d))
-    with open("out/sofar.json", "w") as f:
-        json.dump(events, f, indent=2)
-    print(f"[SOFAR] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return events

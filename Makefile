@@ -36,10 +36,10 @@ out/skillboxes.json: out/skillboxes.jsonnet
 	python -m src.jsonnet out/skillboxes.jsonnet || $(call restore-file,$@)
 
 out/attagalatta.json:
-	python -m src.sources.atta_galatta || $(call restore-file,$@)
+	python -m src.sources attagalatta || $(call restore-file,$@)
 
 out/champaca.json:
-	python -m src.sources.champaca || $(call restore-file,$@)
+	python -m src.sources champaca || $(call restore-file,$@)
 
 out/highape.txt:
 	python -m src.sources.highape | sort > $@ || $(call restore-file,$@)
@@ -65,7 +65,7 @@ out/underline.json: out/underline.jsonnet
 	python -m src.jsonnet out/underline.jsonnet || $(call restore-file,$@)
 
 out/district.json:
-	python -m src.sources.district > $@ || (echo "FAIL $@" && echo '[]' > $@)
+	python -m src.sources district || (echo "FAIL $@" && echo '[]' > $@)
 
 out/artzo.txt:
 	python -m src.sources.artzo | sort > $@ || $(call restore-file,$@)
@@ -76,16 +76,16 @@ out/bhaagoindia.txt:
 	echo "[BHAAGOINDIA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/scigalleryblr.json:
-	python -m src.sources.scigallery || $(call restore-file,$@)
+	python -m src.sources scigalleryblr || $(call restore-file,$@)
 
 out/puttingscene.json:
-	python -m src.sources.puttingscene || $(call restore-file,$@)
+	python -m src.sources puttingscene || $(call restore-file,$@)
 
 out/goethe.json:
-	python -m src.sources.goethe || $(call restore-file,$@)
+	python -m src.sources goethe || $(call restore-file,$@)
 
 out/urbanaut.json:
-	python -m src.sources.urbanaut || $(call restore-file,$@)
+	python -m src.sources urbanaut || $(call restore-file,$@)
 
 out/bic.ics:
 	$(CURL_CHROME) --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
@@ -94,65 +94,65 @@ out/bic.json: out/bic.ics
 	python -m src.ics_to_event out/bic.ics $@ || $(call restore-file,$@)
 
 out/sofar.json:
-	python -m src.sources.sofar || $(call restore-file,$@)
+	python -m src.sources sofar || $(call restore-file,$@)
 
 out/sumukha.json:
-	python -m src.sources.sumukha || $(call restore-file,$@)
+	python -m src.sources sumukha || $(call restore-file,$@)
 
 out/timeandspace.json:
-	python -m src.sources.timeandspace || $(call restore-file,$@)
+	python -m src.sources timeandspace || $(call restore-file,$@)
 
 out/townscript.txt:
 	python -m src.sources.townscript | sort -u > $@ || $(call restore-file,$@)
 	echo "[TOWNSCRIPT] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/bluetokai.json:
-	python -m src.sources.bluetokai || $(call restore-file,$@)
+	python -m src.sources bluetokai || $(call restore-file,$@)
 
 out/gullytours.json:
-	python -m src.sources.gullytours || $(call restore-file,$@)
+	python -m src.sources gullytours || $(call restore-file,$@)
 
 out/tonight.json:
-	python -m src.sources.tonight || $(call restore-file,$@)
+	python -m src.sources tonight || $(call restore-file,$@)
 
 out/creativemornings.json:
-	python -m src.sources.creativemornings || $(call restore-file,$@)
+	python -m src.sources creativemornings || $(call restore-file,$@)
 
 out/adidas.json:
-	python -m src.sources.adidas || $(call restore-file,$@)
+	python -m src.sources adidas || $(call restore-file,$@)
 
 out/ticketnew/cinemas.csv:
 	mkdir -p out/ticketnew
 	python -m src.sources.ticketnew || echo "[TICKETNEW] FAILED";
 
 out/trove.json:
-	python -m src.sources.trove || $(call restore-file,$@)
+	python -m src.sources trove || $(call restore-file,$@)
 
 out/thewhitebox.json:
-	python -m src.sources.thewhitebox || $(call restore-file,$@)
+	python -m src.sources thewhitebox || $(call restore-file,$@)
 
 out/aceofpubs.json:
-	python -m src.sources.aceofpubs || $(call restore-file,$@)
+	python -m src.sources aceofpubs || $(call restore-file,$@)
 
 out/koota.txt:
 	$(CURL_CHROME) --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ && test -s $@ || $(call restore-file,$@)
 		echo "[KOOTA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/sistersinsweat.json:
-	python -m src.sources.sis || $(call restore-file,$@)
+	python -m src.sources sistersinsweat || $(call restore-file,$@)
 
 out/bcc.json:
-	python -m src.sources.bcc || $(call restore-file,$@)
+	python -m src.sources bcc || $(call restore-file,$@)
 
 out/pumarun.txt:
 	python -m src.sources.eventbrite pumarun | sort > $@ || $(call restore-file,$@)
 	echo "[PUMARUN] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/bbb.json:
-	python -m src.sources.bbb || $(call restore-file,$@)
+	python -m src.sources bbb || $(call restore-file,$@)
 
 out/hsrmeetups.json:
-	python -m src.sources.meetup hsrmeetups || $(call restore-file,$@)
+	python -m src.sources hsrmeetups || $(call restore-file,$@)
 
 # we just do a minimal transform to remove extra bits we don't need
 out/tpcc.jsonnet:
@@ -173,28 +173,28 @@ out/cksl.json: out/cksl.jsonnet
 	python -m src.jsonnet out/cksl.jsonnet || $(call restore-file,$@)
 
 out/lavonne.json:
-	python -m src.sources.lavonne || $(call restore-file,$@)
+	python -m src.sources lavonne || $(call restore-file,$@)
 
 out/blrbirders.json:
-	python -m src.sources.blrbirders || $(call restore-file,$@)
+	python -m src.sources blrbirders || $(call restore-file,$@)
 
 out/paintbar.json:
-	python -m src.sources.paintbar || $(call restore-file,$@)
+	python -m src.sources paintbar || $(call restore-file,$@)
 
 out/pedalintandem.json:
-	python -m src.sources.pedalintandem || $(call restore-file,$@)
+	python -m src.sources pedalintandem || $(call restore-file,$@)
 
 out/sabha.json:
-	python -m src.sources.sabha || $(call restore-file,$@)
+	python -m src.sources sabha || $(call restore-file,$@)
 
 out/indiarunning.json:
-	python -m src.sources.indiarunning || $(call restore-file,$@)
+	python -m src.sources indiarunning || $(call restore-file,$@)
 
 out/penciljam.json:
-	python -m src.sources.penciljam || $(call restore-file,$@)
+	python -m src.sources penciljam || $(call restore-file,$@)
 
 out/mainmission.json:
-	python -m src.sources.mainmission || $(call restore-file,$@)
+	python -m src.sources mainmission || $(call restore-file,$@)
 
 out/iiwc.ics:
 	$(CURL_CHROME) --silent "https://iiwc.in/events/?ical=1" --output $@ || $(call restore-file,$@)
@@ -209,10 +209,10 @@ out/afbangalore.json: out/afbangalore.ics
 	python -m src.sources.afbangalore || $(call restore-file,$@)
 
 out/rangashankara.json:
-	python -m src.sources.rangashankara || $(call restore-file,$@)
+	python -m src.sources rangashankara || $(call restore-file,$@)
 
 out/bac.json:
-	python -m src.sources.bac || $(call restore-file,$@)
+	python -m src.sources bac || $(call restore-file,$@)
 
 out/manual.json: in/manual.json
 	cp in/manual.json $@

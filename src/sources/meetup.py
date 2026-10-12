@@ -8,7 +8,7 @@ from src.common import USER_AGENT_HEADERS
 from src.common.jsonld import JsonLdExtractor
 from src.common.session import get_cached_session
 
-# Usage: python -m src.sources.meetup <group-slug>, writes out/<group-slug>.json
+# Each group gets a stem module, see hsrmeetups.py
 NEXT_DATA = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)
 PRICE = re.compile(r"₹\s?(\d+) per person")
 
@@ -70,10 +70,6 @@ def make_event(session, url):
     return event
 
 
-if __name__ == "__main__":
-    group = sys.argv[1]
+def events(group):
     session = get_cached_session()
-    events = [e for e in (make_event(session, url) for url in event_urls(session, group)) if e]
-    with open(f"out/{group}.json", "w") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-    print(f"[MEETUP/{group}] {len(events)} events")
+    return [e for e in (make_event(session, url) for url in event_urls(session, group)) if e]

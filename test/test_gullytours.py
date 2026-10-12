@@ -70,11 +70,8 @@ def test_read_config():
     assert CRAWL in gullytours.read_config()
 
 
-def test_main_writes_events(monkeypatch, tmp_path):
+def test_events(monkeypatch):
     monkeypatch.setattr(gullytours, "get_cached_session", FakeSession)
     monkeypatch.setattr(gullytours, "read_config", lambda: [CRAWL, PETE])
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    gullytours.main()
-    [event] = json.loads((tmp_path / "out/gullytours.json").read_text())
+    [event] = gullytours.events()
     assert event["url"] == CRAWL["url"]

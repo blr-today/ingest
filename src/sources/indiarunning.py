@@ -7,7 +7,6 @@ API: POST https://registrations-api.indiarunning.com/ir/events/autoCompleteEvent
 Request: {"type":"event_city","name":"Bengaluru"}
 """
 
-import json
 from bs4 import BeautifulSoup
 from datetime import datetime
 from src.common.session import get_cached_session
@@ -156,7 +155,7 @@ def convert_to_schema_org(event):
     return schema_event
 
 
-def main():
+def events():
     events = fetch_events()
     schema_events = []
 
@@ -168,11 +167,4 @@ def main():
     # Sort by start date
     schema_events.sort(key=lambda x: x["startDate"])
 
-    with open("out/indiarunning.json", "w") as f:
-        json.dump(schema_events, f, indent=2)
-
-    print(f"[INDIARUNNING] {len(schema_events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return schema_events

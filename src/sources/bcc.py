@@ -1,4 +1,3 @@
-import json
 import datetime
 import requests
 from src.common.tz import IST
@@ -78,8 +77,6 @@ def make_event(e):
     return event
 
 
-if __name__ == "__main__":
+def events():
     session = requests.Session()
-    events = [make_event(e) for e in fetch_events(session) if not e.get("is_past")]
-    with open("out/bcc.json", "w") as f:
-        json.dump(events, f, indent=2)
+    return [make_event(e) for e in fetch_events(session) if not e.get("is_past")]

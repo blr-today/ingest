@@ -130,12 +130,9 @@ def test_fetch_events_failure_is_empty(monkeypatch):
     assert fetch_events() == []
 
 
-def test_main_writes_sorted_events(monkeypatch, tmp_path):
+def test_events_are_sorted(monkeypatch):
     events = api_events()
     events.insert(0, dict(events[0], title=""))
     monkeypatch.setattr(indiarunning, "fetch_events", lambda: list(reversed(events)))
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    indiarunning.main()
-    out = json.loads((tmp_path / "out" / "indiarunning.json").read_text())
+    out = indiarunning.events()
     assert [e["name"] for e in out] == ["Wesness Move with Glow Bengaluru", "Nivia Sports x PaceX", "Kanyathon 2026"]

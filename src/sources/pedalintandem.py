@@ -1,4 +1,3 @@
-import json
 from datetime import date, datetime, timedelta
 from curl_cffi import requests
 from src.common.jev import ask, clock, end_clock, time_questions
@@ -255,7 +254,7 @@ def process_description(description):
     return processed_text
 
 
-def main():
+def events():
     session = requests.Session()
     event_links = fetch_events_links(session)
     events_data = fetch_events(event_links, session)
@@ -268,9 +267,4 @@ def main():
             except ValueError as e:
                 print(f"[PIT] {event_data[1]} skipped, {e}")
 
-    with open("out/pedalintandem.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-
-if __name__ == "__main__":
-    main()
+    return events

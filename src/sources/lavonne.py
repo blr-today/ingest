@@ -69,12 +69,8 @@ def make_event(c):
     }
 
 
-if __name__ == "__main__":
+def events():
     session = get_cached_session()
     response = session.get(URL)
     classes = fetch_classes(response.text)
-    events = [make_event(c) for c in classes if c.get("location") == "Bangalore"]
-
-    with open("out/lavonne.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-        print(f"[LAVONNE] {len(events)} events")
+    return [make_event(c) for c in classes if c.get("location") == "Bangalore"]

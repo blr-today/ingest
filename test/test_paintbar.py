@@ -1,13 +1,12 @@
 import dataclasses
 import json
-import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
 
-import src.common.session
 from src.common.shopify import Shopify
+from src.sources import paintbar
 from src.sources.paintbar import COLLECTION, DOMAIN, fetch_timings, make_event, make_name, make_offers
 
 PRODUCTS = json.loads((Path(__file__).parent / "fixtures/paintbar/products.json").read_text())
@@ -54,13 +53,10 @@ def test_make_event():
     assert event["endDate"].endswith("T21:30:00+05:30")
 
 
-def test_main_writes_events(monkeypatch, tmp_path):
+def test_events(monkeypatch):
     data = {"products": [dict(PRODUCTS["products"][0], title=TITLE)]}
-    monkeypatch.setattr(src.common.session, "get_cached_session", lambda: session_for(data))
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    runpy.run_module("src.sources.paintbar", run_name="__main__")
-    [event] = json.loads((tmp_path / "out/paintbar.json").read_text())
+    monkeypatch.setattr(paintbar, "get_cached_session", lambda: session_for(data))
+    [event] = paintbar.events()
     assert event["startDate"].endswith("T19:30:00+05:30")
 
 

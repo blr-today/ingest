@@ -148,9 +148,5 @@ def fetch_events():
     return events
 
 
-if __name__ == "__main__":
-    events = fetch_events()
-    # Write output JSON file
-    with open("out/goethe.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-        print(f"[GOETHE] {len(events)} events")
+def events():
+    return fetch_events()

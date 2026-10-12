@@ -1,4 +1,3 @@
-import json
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -46,8 +45,5 @@ def test_fetch_events(requests):
     assert dance["description"] == "Dance fitness @ Cult Indiranagar"
 
 
-def test_main_writes_events(requests, monkeypatch, tmp_path):
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    adidas.main()
-    assert len(json.loads((tmp_path / "out/adidas.json").read_text())) == 3
+def test_events(requests):
+    assert len(adidas.events()) == 3

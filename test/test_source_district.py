@@ -41,9 +41,9 @@ def discovery(page):
     return FakeResponse((FIXTURES / f"discovery-{page}.json").read_text())
 
 
-def test_events_walks_nested_rails():
+def test_event_data_walks_nested_rails():
     rails = json.loads((FIXTURES / "discovery-1.json").read_text())["EDSResponse"]["rails"]
-    events = list(district.events(rails))
+    events = list(district.event_data(rails))
     assert [e.get("event_slug") for e in events] == [
         "experience-dosa-and-chutney-making-sep7-2026",
         "somad-halloween-carnival-2026-oct31-2026",

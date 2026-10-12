@@ -1,5 +1,4 @@
 import yaml
-import json
 from datetime import timedelta, datetime
 from src.common.tz import IST
 from src.common.session import get_cached_session
@@ -44,7 +43,7 @@ def get_calendar(session, tour_id):
                 yield trip_details
 
 
-def main():
+def events():
     session = get_cached_session()
 
     events = []
@@ -54,9 +53,7 @@ def main():
             if trip:
                 events.append(make_event(tour, description, trip))
 
-    with open("out/gullytours.json", "w") as f:
-        json.dump(events, f, indent=2)
-        print(f"[GULLYTOURS] {len(events)} events")
+    return events
 
 
 def make_event(tour, description, trip):
@@ -94,7 +91,3 @@ def make_event(tour, description, trip):
 
 def read_config():
     return yaml.safe_load(open("in/known-hosts.yml"))["gullytours"]
-
-
-if __name__ == "__main__":
-    main()

@@ -1,10 +1,7 @@
-import json
-import runpy
-import sys
 from pathlib import Path
 from types import SimpleNamespace
 
-import src.common.session
+from src.sources import hsrmeetups, meetup
 from src.sources.meetup import event_urls, make_event, page_event
 
 FIXTURES = Path(__file__).parent / "fixtures/meetup"
@@ -55,11 +52,7 @@ def test_page_event_picks_matching_url():
     assert page_event({}, "c") == {}
 
 
-def test_main_writes_group_file(monkeypatch, tmp_path):
-    monkeypatch.setattr(src.common.session, "get_cached_session", lambda: SESSION)
-    monkeypatch.setattr(sys, "argv", ["meetup", "hsrmeetups"])
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    runpy.run_module("src.sources.meetup", run_name="__main__")
-    events = json.loads((tmp_path / "out/hsrmeetups.json").read_text())
+def test_hsrmeetups_events(monkeypatch):
+    monkeypatch.setattr(meetup, "get_cached_session", lambda: SESSION)
+    events = hsrmeetups.events()
     assert [e["url"] for e in events] == [BASE + "316624038/", BASE + "dqbnbvyjcnbrb/"]

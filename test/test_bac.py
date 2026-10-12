@@ -122,7 +122,7 @@ def test_fetch_events_pages_through():
     assert [p["page"] for p in session.params] == [1, 2]
 
 
-def test_main_writes_upcoming_events(monkeypatch, tmp_path):
+def test_events_are_upcoming(monkeypatch):
     class FrozenDatetime(datetime):
         @classmethod
         def now(cls, tz=None):
@@ -130,8 +130,5 @@ def test_main_writes_upcoming_events(monkeypatch, tmp_path):
 
     monkeypatch.setattr(bac, "datetime", FrozenDatetime)
     monkeypatch.setattr(bac, "get_cached_session", FakeSession)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    bac.main()
-    [event] = json.loads((tmp_path / "out" / "bac.json").read_text())
+    [event] = bac.events()
     assert event["url"] == EXHIBITION

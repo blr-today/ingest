@@ -1,12 +1,9 @@
-import json
-import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
 from bs4 import BeautifulSoup
 
-import src.common.fetch
 from src.sources import blrbirders
 
 FIXTURES = Path(__file__).parent / "fixtures/blrbirders"
@@ -66,12 +63,9 @@ def test_truncated_jsonld_is_repaired(events):
 
 
 @pytest.mark.filterwarnings("ignore::RuntimeWarning")
-def test_main_writes_events(monkeypatch, tmp_path):
-    monkeypatch.setattr(src.common.fetch, "Fetch", FakeFetch)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    runpy.run_module("src.sources.blrbirders", run_name="__main__")
-    assert len(json.loads((tmp_path / "out/blrbirders.json").read_text())) == 3
+def test_events(monkeypatch):
+    monkeypatch.setattr(blrbirders, "fetcher", FakeFetch())
+    assert len(blrbirders.events()) == 3
 
 
 def test_unparseable_jsonld_is_skipped(monkeypatch, capsys):

@@ -148,7 +148,7 @@ def parse_exhibition_page(url, main_image):
     }
 
 
-def main():
+def events():
     candidates = fetch_exhibition_candidates()
     events = []
 
@@ -160,11 +160,4 @@ def main():
 
     events.sort(key=lambda x: x["startDate"])
 
-    with open("out/sumukha.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-    print(f"[SUMUKHA] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return events

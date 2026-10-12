@@ -1,4 +1,3 @@
-import json
 from datetime import datetime
 from pathlib import Path
 
@@ -95,13 +94,10 @@ def test_locations_without_coordinates_have_no_geo():
         assert event["location"]["name"].startswith("Blue Tokai")
 
 
-def test_main_skips_products_without_timing(monkeypatch, tmp_path, capsys):
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
+def test_events_skip_products_without_timing(monkeypatch, capsys):
     monkeypatch.setattr(bluetokai, "fetch_html", lambda: '<div location="Bengaluru"><a href="/products/pour-over">x</a></div>')
     monkeypatch.setattr(bluetokai, "fetch_product_json", lambda slug: product(body="<p>Koramangala, Bengaluru</p>"))
-    bluetokai.main()
-    assert json.loads((tmp_path / "out" / "bluetokai.json").read_text()) == []
+    assert bluetokai.events() == []
     assert "Could not find timings" in capsys.readouterr().out
 
 
@@ -111,12 +107,9 @@ def test_event_without_blr_location(capsys):
     assert "Could not find a location" in capsys.readouterr().out
 
 
-def test_main_writes_events(monkeypatch, tmp_path):
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
+def test_events(monkeypatch):
     monkeypatch.setattr(bluetokai, "fetch_html", lambda: '<div location="Bengaluru"><a href="/products/pour-over#a">x</a></div>')
     monkeypatch.setattr(bluetokai, "fetch_product_json", lambda slug: product())
-    bluetokai.main()
-    [event] = json.loads((tmp_path / "out" / "bluetokai.json").read_text())
+    [event] = bluetokai.events()
     assert event["name"] == "Pour Over Workshop"
     assert event["startDate"][4:] == "-10-18T11:00:00+05:30"

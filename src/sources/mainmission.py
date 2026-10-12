@@ -1,4 +1,3 @@
-import json
 import re
 from datetime import datetime, timedelta, time
 import dateutil.parser
@@ -208,12 +207,10 @@ def make_event(e, now):
     return event
 
 
-if __name__ == "__main__":
+def events():
     session = get_cached_session()
     docs = fetch_events(session)
     now = datetime.now(IST)
     events = [ev for ev in (make_event(e, now) for e in docs) if ev]
     events.sort(key=lambda ev: ev["startDate"])
-    with open("out/mainmission.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-    print(f"[MAINMISSION] {len(events)} events")
+    return events

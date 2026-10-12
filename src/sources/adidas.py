@@ -47,12 +47,5 @@ def fetch_events():
     return events
 
 
-def main():
-    with open("out/adidas.json", "w") as f:
-        events = fetch_events()
-        print(f"[ADIDAS] {len(events)} events")
-        json.dump(events, f, indent=2)
-
-
-if __name__ == "__main__":
-    main()
+def events():
+    return fetch_events()

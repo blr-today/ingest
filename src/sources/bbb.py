@@ -1,5 +1,4 @@
 import calendar
-import json
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -238,7 +237,7 @@ def read_posts(session):
         }
 
 
-def main():
+def events():
     session = get_cached_session()
     events = {}
     with TypeSafeClient() as client:
@@ -254,10 +253,4 @@ def main():
             if event and event["startDate"][:10] >= date.today().isoformat():
                 # The feed is newest first, so a later post about the same day loses
                 events.setdefault(event["startDate"][:10], event)
-    with open("out/bbb.json", "w") as f:
-        json.dump(list(events.values()), f, indent=2, ensure_ascii=False)
-    log(len(events), "upcoming events")
-
-
-if __name__ == "__main__":
-    main()
+    return list(events.values())

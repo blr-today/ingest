@@ -1,7 +1,7 @@
 import datefinder
-import json
 from bs4 import BeautifulSoup
 from src.common.tz import IST
+from src.common.session import get_cached_session
 from src.common.shopify import Shopify, ShopifyProduct, ShopifyVariant
 
 DOMAIN = "troveexperiences.com"
@@ -117,16 +117,11 @@ def make_event(product, sp: Shopify, session):
     return res
 
 
-if __name__ == "__main__":
-    from src.common.session import get_cached_session
-
+def events():
     session = get_cached_session()
     trove = Shopify(DOMAIN, session, COLLECTION)
-    events = [
+    return [
         event
         for product in trove.products()
         if (event := make_event(product, trove, session)) is not None
     ]
-    with open("out/trove.json", "w") as f:
-        json.dump(events, f, indent=2)
-        print(f"[TROVE] {len(events)} events")

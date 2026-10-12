@@ -1,5 +1,4 @@
 import datetime
-import json
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -95,17 +94,11 @@ def test_events_outside_bangalore_are_skipped():
     assert conosh.parse_event_page(LISTING) == []
 
 
-def test_main_keeps_future_events(monkeypatch, tmp_path):
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
+def test_events_keep_future_events(monkeypatch):
     monkeypatch.setattr(conosh, "datetime", clock(2025, 8, 1))
-    conosh.main()
-    assert len(json.loads((tmp_path / "out" / "conosh.json").read_text())) == 2
+    assert len(conosh.events()) == 2
 
 
-def test_main_drops_past_events(monkeypatch, tmp_path):
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
+def test_events_drop_past_events(monkeypatch):
     monkeypatch.setattr(conosh, "datetime", clock(2026, 12, 1))
-    conosh.main()
-    assert json.loads((tmp_path / "out" / "conosh.json").read_text()) == []
+    assert conosh.events() == []

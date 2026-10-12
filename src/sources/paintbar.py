@@ -1,7 +1,7 @@
 import datefinder
-import json
 from datetime import datetime
 from src.common.tz import IST
+from src.common.session import get_cached_session
 from src.common.shopify import Shopify, ShopifyProduct
 
 DOMAIN = "www.paintbar.in"
@@ -76,13 +76,7 @@ def make_event(product, sp: Shopify):
     }
 
 
-if __name__ == "__main__":
-    from src.common.session import get_cached_session
-
+def events():
     session = get_cached_session()
     paint_bar = Shopify(DOMAIN, session, COLLECTION)
-    events = [make_event(p, paint_bar) for p in paint_bar.products()]
-
-    with open("out/paintbar.json", "w") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-        print(f"[PAINTBAR] {len(events)} events")
+    return [make_event(p, paint_bar) for p in paint_bar.products()]

@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 from types import SimpleNamespace
 
-from src.sources import scigallery
+from src.sources import scigalleryblr as scigallery
 from src.common.tz import IST
-from src.sources.scigallery import filter_data, get_performer_type, guess_event_type, parse_duration_hours, parse_timestamp
+from src.sources.scigalleryblr import filter_data, get_performer_type, guess_event_type, parse_duration_hours, parse_timestamp
 
 FIXTURES = Path(__file__).parent / "fixtures" / "scigallery"
 
@@ -85,7 +85,7 @@ def test_programme_without_known_experts(monkeypatch):
     assert "performer" not in event
 
 
-def test_main_fetches_season_db(monkeypatch, tmp_path):
+def test_events_fetch_season_db(monkeypatch):
     freeze(monkeypatch, 2026, 10, 20)
     urls = []
 
@@ -95,9 +95,6 @@ def test_main_fetches_season_db(monkeypatch, tmp_path):
         return SimpleNamespace(json=lambda: data)
 
     monkeypatch.setattr(scigallery.requests, "get", get)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    scigallery.main()
-    events = json.loads((tmp_path / "out" / "scigalleryblr.json").read_text())
+    events = scigallery.events()
     assert [e["name"] for e in events] == ["The Bengaluru Uncertainty Principle", "Exploring the Molecular World"]
     assert urls == [f"{scigallery.SEASON_DB_HOST}/quantum/en/programmes.json", f"{scigallery.SEASON_DB_HOST}/quantum/en/experts.json"]

@@ -4,7 +4,7 @@ from types import SimpleNamespace
 
 import pytest
 
-from src.sources import sis
+from src.sources import sistersinsweat as sis
 from src.common.tz import IST
 
 FIXTURES = Path(__file__).parent / "fixtures" / "sis"

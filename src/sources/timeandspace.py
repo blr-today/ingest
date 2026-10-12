@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 from src.common.session import get_cached_session
-import json
 import html
 from datetime import datetime, timedelta
 
@@ -28,15 +27,6 @@ def fetch_event_ids(session):
     return [event["id"] for event in events]
 
 
-def main():
+def events():
     session = get_cached_session()
-    events = [fetch_event(session, id) for id in fetch_event_ids(session)]
-
-    with open("out/timeandspace.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-    print(f"[TIMEANDSPACE] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return [fetch_event(session, id) for id in fetch_event_ids(session)]

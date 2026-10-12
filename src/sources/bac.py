@@ -1,5 +1,4 @@
 import html
-import json
 import re
 from datetime import datetime
 
@@ -127,17 +126,8 @@ def make_event(session, e, now):
     return event
 
 
-def main():
+def events():
     session = get_cached_session()
     now = datetime.now(IST)
     raw_events = fetch_events(session)
-    events = [ev for ev in (make_event(session, e, now) for e in raw_events) if ev]
-
-    with open("out/bac.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-    print(f"[BAC] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return [ev for ev in (make_event(session, e, now) for e in raw_events) if ev]

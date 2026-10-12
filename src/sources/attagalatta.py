@@ -1,5 +1,4 @@
 import datetime
-import json
 import re
 from src.common.session import get_cached_session
 import datefinder
@@ -118,13 +117,11 @@ def make_event(event):
     return e
 
 
-if __name__ == "__main__":
+def events():
     data = []
     for event in fetch_events():
         try:
             data.append(make_event(event))
         except Exception as e:
             print(f"skipping event {event.get('link')}: {e}")
-
-    with open("out/attagalatta.json", "w") as f:
-        json.dump(data, f, indent=2)
+    return data

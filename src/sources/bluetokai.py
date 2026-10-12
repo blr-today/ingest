@@ -1,5 +1,4 @@
 import requests
-import json
 from bs4 import BeautifulSoup
 import re
 from datetime import datetime
@@ -236,7 +235,7 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
     return event
 
 
-def main():
+def events():
     html = fetch_html()
     links = parse_html(html)
     events = []
@@ -255,10 +254,4 @@ def main():
             )
             if event:
                 events.append(event)
-    with open("out/bluetokai.json", "w") as f:
-        json.dump(events, f, indent=2)
-    print(f"[BLUETOKAI] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return events

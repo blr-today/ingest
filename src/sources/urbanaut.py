@@ -1,4 +1,3 @@
-import json
 from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 import datetime
@@ -175,11 +174,9 @@ def make_event(x):
             }
 
 
-if __name__ == "__main__":
+def events():
     events = []
-    with open("out/urbanaut.json", "w") as f:
-        for x in scrape_urbanaut()["hits"]:
-            for event in make_event(x["document"]):
-                events.append(event)
-        json.dump(events, f, indent=2)
-        print(f"[URBANAUT] {len(events)} events")
+    for x in scrape_urbanaut()["hits"]:
+        for event in make_event(x["document"]):
+            events.append(event)
+    return events

@@ -59,15 +59,11 @@ def upcoming(event):
         return False
 
 
-if __name__ == "__main__":
+def events():
     session = get_cached_session()
     events = []
     for url in event_urls(session):
         event = page_event(session, url)
         if event and in_bangalore(event) and upcoming(event):
             events.append(clean(event, url))
-
-    with open("out/aceofpubs.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-    print(f"[AOP] {len(events)} events")
+    return events

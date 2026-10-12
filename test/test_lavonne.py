@@ -1,9 +1,7 @@
-import json
-import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
-import src.common.session
+from src.sources import lavonne
 from src.sources.lavonne import URL, fetch_classes, make_event, parse_time_range
 
 HTML = (Path(__file__).parent / "fixtures/lavonne/weekend-classes.html").read_text()
@@ -39,12 +37,9 @@ def test_class_with_seats_left():
     assert offer["remainingAttendeeCapacity"] == 16
 
 
-def test_main_keeps_bangalore_classes(monkeypatch, tmp_path):
+def test_events_keep_bangalore_classes(monkeypatch):
     session = SimpleNamespace(get=lambda url: SimpleNamespace(text=HTML))
-    monkeypatch.setattr(src.common.session, "get_cached_session", lambda: session)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    runpy.run_module("src.sources.lavonne", run_name="__main__")
-    events = json.loads((tmp_path / "out/lavonne.json").read_text())
+    monkeypatch.setattr(lavonne, "get_cached_session", lambda: session)
+    events = lavonne.events()
     assert len(events) == 3
     assert all(e["location"]["name"] == "Lavonne Academy" for e in events)

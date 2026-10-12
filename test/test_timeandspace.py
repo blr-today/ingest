@@ -40,10 +40,7 @@ def test_event_cleanup():
     assert event["location"]["address"]["streetAddress"] == "2nd Floor, The Guild, 55, Lavelle Road"
 
 
-def test_main_writes_events(monkeypatch, tmp_path):
+def test_events(monkeypatch):
     monkeypatch.setattr(timeandspace, "get_cached_session", FakeSession)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    timeandspace.main()
-    [event] = json.loads((tmp_path / "out/timeandspace.json").read_text())
+    [event] = timeandspace.events()
     assert event["url"] == "https://timeandspace.gallery/event/the-haren-thakur-show/"

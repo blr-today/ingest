@@ -8,7 +8,6 @@ Uses the v2 API the Android app talks to (no auth needed):
 Each upcoming slot becomes one schema.org Event.
 """
 
-import json
 import logging
 from ..common.fetch import Fetch
 from ..common.maps import resolve
@@ -149,8 +148,5 @@ def fetch_putting_scenes() -> list:
     return sorted(all_events, key=lambda x: (x["startDate"], x["url"]))
 
 
-if __name__ == "__main__":
-    with open("out/puttingscene.json", "w") as f:
-        events = fetch_putting_scenes()
-        json.dump(events, f, indent=2)
-        print(f"[PUTTINGSCENE] {len(events)} events")
+def events():
+    return fetch_putting_scenes()

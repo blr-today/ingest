@@ -82,7 +82,7 @@ def test_fetch_parties_follows_page_token(monkeypatch):
     assert session.urls == [tonight.URL, f"{tonight.URL}&pageToken=abc"]
 
 
-def test_main_writes_upcoming_parties(monkeypatch, tmp_path):
+def test_events_are_upcoming_parties(monkeypatch):
     class FrozenDatetime(datetime):
         @classmethod
         def now(cls, tz=None):
@@ -90,12 +90,7 @@ def test_main_writes_upcoming_parties(monkeypatch, tmp_path):
 
     paged(monkeypatch)
     monkeypatch.setattr(tonight, "datetime", FrozenDatetime)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    (tmp_path / "fixtures").mkdir()
-    (tmp_path / "fixtures" / "tonight-is-parties.json").write_text("{}")
-    tonight.main()
-    events = json.loads((tmp_path / "out" / "tonight.json").read_text())
+    events = tonight.events()
     assert [e["name"] for e in events] == ["Boiler Room Bangalore", "Sunburn Arena Ft. Alan Walker - Bengaluru"]
 
 

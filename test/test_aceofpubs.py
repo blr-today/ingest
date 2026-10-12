@@ -1,11 +1,8 @@
 import datetime
-import json
-import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
-import src.common.session
 from src.sources import aceofpubs
 from src.sources.aceofpubs import clean, event_urls, in_bangalore, page_event, upcoming
 
@@ -73,10 +70,8 @@ def test_upcoming(monkeypatch):
 
 
 @pytest.mark.filterwarnings("ignore::RuntimeWarning")
-def test_main_keeps_upcoming_bangalore_events(monkeypatch, tmp_path):
-    monkeypatch.setattr(src.common.session, "get_cached_session", lambda: SESSION)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
+def test_events_keep_upcoming_bangalore_events(monkeypatch):
+    monkeypatch.setattr(aceofpubs, "get_cached_session", lambda: SESSION)
     real_datetime = datetime.datetime
 
     class Fixed(real_datetime):
@@ -85,6 +80,5 @@ def test_main_keeps_upcoming_bangalore_events(monkeypatch, tmp_path):
             return real_datetime(2026, 9, 1, tzinfo=tz)
 
     monkeypatch.setattr(datetime, "datetime", Fixed)
-    runpy.run_module("src.sources.aceofpubs", run_name="__main__")
-    [event] = json.loads((tmp_path / "out/aceofpubs.json").read_text())
+    [event] = aceofpubs.events()
     assert event["url"] == BADMAASH

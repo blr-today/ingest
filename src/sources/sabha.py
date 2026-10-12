@@ -282,14 +282,5 @@ def fetch_events():
         return []
 
 
-def main():
-    events = fetch_events()
-
-    with open("out/sabha.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-    print(f"[SABHA] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+def events():
+    return fetch_events()

@@ -189,10 +189,9 @@ def make_events(session, card):
     return events
 
 
-if __name__ == "__main__":
+def events():
     session = requests.Session()
     events = []
     for card in fetch_cards(session):
         events.extend(make_events(session, card))
-    with open("out/sistersinsweat.json", "w") as f:
-        json.dump(events, f, indent=2)
+    return events

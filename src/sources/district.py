@@ -1,4 +1,3 @@
-import json
 import sys
 import curl_cffi
 import requests
@@ -65,15 +64,15 @@ def pages(session, limit=300):
         }
 
 
-def events(node):
+def event_data(node):
     if isinstance(node, dict):
         if "EventData" in node:
             yield node["EventData"]
         for value in node.values():
-            yield from events(value)
+            yield from event_data(value)
     elif isinstance(node, list):
         for value in node:
-            yield from events(value)
+            yield from event_data(value)
 
 
 def page_event(session, url):
@@ -90,10 +89,10 @@ def page_event(session, url):
     return event or find_event(data)
 
 
-if __name__ == "__main__":
+def events():
     slugs = set()
     for response in pages(requests.Session()):
-        for event in events(response.get("rails")):
+        for event in event_data(response.get("rails")):
             if event.get("city") in CITIES and event.get("event_slug"):
                 slugs.add(event["event_slug"])
     log(len(slugs), "Bengaluru events")
@@ -106,4 +105,4 @@ if __name__ == "__main__":
             event.setdefault("url", url)
             found.append(event)
     log(len(found), "pages had event data")
-    json.dump(found, sys.stdout, indent=2)
+    return found

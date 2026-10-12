@@ -1,4 +1,3 @@
-import json
 from pathlib import Path
 
 from src.sources import penciljam
@@ -79,13 +78,10 @@ def test_fetch_ical(monkeypatch):
     assert fetch_ical(CUBBON) is None
 
 
-def test_main_writes_events(monkeypatch, tmp_path):
+def test_events(monkeypatch):
     monkeypatch.setattr(penciljam, "session", FakeSession({
         penciljam.EVENTS_URL: (FIXTURES / "events.html").read_text(),
         URL + "ical/": ical(),
     }))
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    penciljam.main()
-    [event] = json.loads((tmp_path / "out" / "penciljam.json").read_text())
+    [event] = penciljam.events()
     assert event["url"] == URL

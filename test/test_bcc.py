@@ -1,10 +1,10 @@
 import json
-import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
 import requests
 
+from src.sources import bcc
 from src.sources.bcc import API_URL, fetch_events, make_event, to_ist
 
 DATA = json.loads((Path(__file__).parent / "fixtures/bcc/events.json").read_text())
@@ -78,13 +78,10 @@ def test_image_paths():
     assert make_event(dict(e, image_path="https://cdn.example/a.jpg"))["image"] == "https://cdn.example/a.jpg"
 
 
-def test_main_skips_past_events(monkeypatch, tmp_path):
+def test_events_skip_past_events(monkeypatch):
     past = dict(DATA["events"][1], is_past=True)
     data = dict(DATA, events=[DATA["events"][0], past])
     session = SimpleNamespace(get=lambda url, params, timeout: SimpleNamespace(json=lambda: data))
     monkeypatch.setattr(requests, "Session", lambda: session)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    runpy.run_module("src.sources.bcc", run_name="__main__")
-    [event] = json.loads((tmp_path / "out/bcc.json").read_text())
+    [event] = bcc.events()
     assert event["name"] == "Chess Connect - Blitz - Bangalore Chess Club"

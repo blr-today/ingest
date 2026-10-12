@@ -10,7 +10,6 @@ Process:
 4. Parse iCal and convert to Schema.org Event format
 """
 
-import json
 from datetime import timedelta
 from bs4 import BeautifulSoup
 import ics
@@ -101,7 +100,7 @@ def parse_ical_event(ical_text, event_url):
         return None
 
 
-def main():
+def events():
     event_urls = fetch_event_urls()
     events = []
 
@@ -115,11 +114,4 @@ def main():
     # Sort by start date
     events.sort(key=lambda x: x["startDate"])
 
-    with open("out/penciljam.json", "w") as f:
-        json.dump(events, f, indent=2)
-
-    print(f"[PENCILJAM] {len(events)} events")
-
-
-if __name__ == "__main__":
-    main()
+    return events

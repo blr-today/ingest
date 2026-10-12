@@ -1,5 +1,4 @@
 import datetime
-import json
 import cleanurl
 from src.common.tz import IST
 import dateutil.parser
@@ -179,8 +178,5 @@ def fetch_events():
     return events
 
 
-if __name__ == "__main__":
-    events = fetch_events()
-    with open("out/champaca.json", "w") as f:
-        json.dump(events, f, indent=2)
-    print(f"[CHAMPACA] {len(events)} events")
+def events():
+    return fetch_events()

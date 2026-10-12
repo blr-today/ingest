@@ -46,13 +46,10 @@ def test_unconfirmed_venue_falls_back_to_city():
     assert to_schema_org_music_event(raw)["name"] == "Sofar concert in Bangalore"
 
 
-def test_main_writes_events(monkeypatch, tmp_path):
+def test_events(monkeypatch):
     calls = []
     monkeypatch.setattr(sofar, "make_graphql_request", lambda *args: calls.append(args) or response())
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    sofar.main()
-    [event] = json.loads((tmp_path / "out" / "sofar.json").read_text())
+    [event] = sofar.events()
     assert event["url"] == "https://www.sofarsounds.com/events/67871"
     assert calls[0][1] == "bangalore"
 

@@ -66,12 +66,7 @@ def parse_bng_bird_events(soup):
     return events
 
 
-if __name__ == "__main__":
+def events():
     response = fetcher.get(url=URL)
     soup = BeautifulSoup(response.text, "html.parser")
-
-    events = parse_bng_bird_events(soup)
-
-    with open("out/blrbirders.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-        print(f"[BLRBIRDERS] {len(events)} events")
+    return parse_bng_bird_events(soup)

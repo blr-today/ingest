@@ -1,7 +1,6 @@
 from src.common.jsonld import JsonLdExtractor
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
-import json
 import os
 import re
 import subprocess
@@ -62,8 +61,5 @@ def scrape_cm(location):
     return events
 
 
-if __name__ == "__main__":
-    events = scrape_cm("BLR")
-    with open("out/creativemornings.json", "w") as f:
-        json.dump(events, f, indent=2)
-    print(f"[CREATIVEMORNINGS] {len(events)} events")
+def events():
+    return scrape_cm("BLR")

@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from src.common.session import get_cached_session
 from src.common.tz import IST
-import json
 import logging
 import os
 import re
@@ -123,8 +122,5 @@ def get_events():
     return [e for e in events if datetime.fromisoformat(e["startDate"]).date() >= today]
 
 
-if __name__ == "__main__":
-    events = get_events()
-    with open("out/rangashankara.json", "w") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-    print(f"[RANGASHANKARA] {len(events)} events")
+def events():
+    return get_events()

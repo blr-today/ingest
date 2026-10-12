@@ -1,4 +1,3 @@
-import json
 from datetime import datetime
 from pathlib import Path
 
@@ -106,11 +105,8 @@ def test_malformed_pages_are_skipped(monkeypatch):
         assert parse_exhibition_page(url, None) is None
 
 
-def test_main_writes_current_exhibitions(monkeypatch, tmp_path):
+def test_events_are_current_exhibitions(monkeypatch):
     serve(monkeypatch)
     frozen(monkeypatch, 2026, 10, 1)
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    sumukha.main()
-    [event] = json.loads((tmp_path / "out" / "sumukha.json").read_text())
+    [event] = sumukha.events()
     assert event["url"] == PAGE_URL

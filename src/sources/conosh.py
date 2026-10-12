@@ -1,5 +1,4 @@
 import datetime
-import json
 import re
 from bs4 import BeautifulSoup
 from src.common.session import get_cached_session
@@ -175,7 +174,7 @@ def parse_event_page(event_url):
     return events
 
 
-def main():
+def events():
     """Main function to scrape conosh events"""
     events = []
 
@@ -202,16 +201,8 @@ def main():
             except:
                 continue
 
-        # Output results
-        with open("out/conosh.json", "w") as f:
-            json.dump(future_events, f, indent=2)
-
-        print(f"[CONOSH] {len(future_events)} events")
+        return future_events
 
     except Exception as e:
         logging.error(f"Failed to scrape conosh events: {e}")
         return []
-
-
-if __name__ == "__main__":
-    main()

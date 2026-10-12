@@ -1,5 +1,4 @@
 import requests
-import json
 import datetime
 from urllib.parse import urlencode
 from src.common.tz import IST
@@ -118,14 +117,9 @@ def filter_data(data, experts):
     return events
 
 
-def main():
+def events():
     data = requests.get(
         f"{SEASON_DB_HOST}/{SEASON}/en/programmes.json"
     ).json().values()
     experts = requests.get(f"{SEASON_DB_HOST}/{SEASON}/en/experts.json").json() or {}
-    with open("out/scigalleryblr.json", "w") as f:
-        json.dump(filter_data(data, experts), f, indent=2)
-
-
-if __name__ == "__main__":
-    main()
+    return filter_data(data, experts)
