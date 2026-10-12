@@ -86,3 +86,9 @@ def test_broken_rows_are_skipped(tmp_path):
     conn.executemany("INSERT INTO events VALUES (?, ?)", rows)
     conn.commit()
     assert slot_totals(str(db)) == {"https://a/x": (3, None)}
+
+
+def test_infinite_counts_are_ignored():
+    assert tags({"keywords": [], "remainingAttendeeCapacity": "inf"}) == []
+    event = {"keywords": [], "remainingAttendeeCapacity": 5, "maximumAttendeeCapacity": 1e999}
+    assert tags(event) == ["LASTCALL"]

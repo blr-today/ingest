@@ -57,3 +57,13 @@ def test_odd_geo_is_kept():
         assert AllEvents.process(url, event)["location"]["geo"] == geo
     event["location"] = "Bangalore"
     assert AllEvents.process(url, event)["location"] == "Bangalore"
+
+
+def test_missing_or_unreadable_dates_are_kept(caplog):
+    url, event = listing()
+    del event["endDate"]
+    event["startDate"] = None
+    assert AllEvents.process(url, json.loads(json.dumps(event))) == event
+    event["startDate"] = "TBA+.000+0"
+    assert AllEvents.process(url, json.loads(json.dumps(event))) == event
+    assert f"AllEvents could not read startDate 'TBA+.000+0' for {url}" in caplog.text

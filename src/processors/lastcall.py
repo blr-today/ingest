@@ -15,7 +15,7 @@ def count(value):
         value = value.get("value")
     try:
         return int(float(value))
-    except (TypeError, ValueError):
+    except OverflowError, TypeError, ValueError:
         return None
 
 

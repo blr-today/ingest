@@ -75,3 +75,14 @@ def test_failed_lookup_is_skipped(api, caplog):
     event = Koota.process(EVENTS[1]["url"], dict(EVENTS[1]))
     assert event["@type"] == "Event" and "description" not in event
     assert "Koota REST lookup failed" in caplog.text
+
+
+def test_unreadable_dates_are_left_alone(api):
+    event = {"startDate": "Tue, 5 Oct 2026", "endDate": None, "name": "x"}
+    assert Koota.process("u", dict(event)) == event
+
+
+def test_unexpected_response_is_skipped(api, caplog):
+    api.records = {"code": "rest_no_route"}
+    assert fetch_record("https://courtyardkoota.com/events/x/") is None
+    assert "Koota REST lookup failed" in caplog.text

@@ -20,3 +20,12 @@ def test_afternoon_dates():
     event = BhaagoIndia.process("u", event)
     assert event["startDate"] == "2026-03-01T18:00:00+05:30"
     assert event["endDate"] == "2026-03-01T21:15:00+05:30"
+
+
+def test_unreadable_dates_are_kept(caplog):
+    url = "https://bhaagoindia.com/events/x"
+    event = {"startDate": "To be announced", "endDate": None}
+    assert BhaagoIndia.process(url, dict(event)) == event
+    assert f"no date in startDate 'To be announced' for {url}" in caplog.text
+    assert f"no date in endDate None for {url}" in caplog.text
+    assert BhaagoIndia.process(url, {"name": "x"}) == {"name": "x"}

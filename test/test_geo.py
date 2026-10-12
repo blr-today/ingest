@@ -57,3 +57,11 @@ def test_zero_coordinates_are_dropped():
     event = GeoProcessor.process("u", at(0, 77.6, ["X"]))
     assert event == {"location": {"name": "Somewhere"}, "keywords": ["X"]}
     assert "geo" not in GeoProcessor.process("u", at("12.9", "0"))["location"]
+
+
+def test_impossible_coordinates_are_skipped(caplog):
+    for lat, lng in ((95, 77.6), (12.9, 400), ("nan", 77.6), ("-Infinity", 77.6)):
+        event = at(lat, lng, ["X"])
+        assert GeoProcessor.process("https://x.in/e", json.loads(json.dumps(event))) == event
+    assert caplog.text.count("GeoProcessor skipped coordinates") == 4
+    assert "skipped coordinates 95.0, 77.6 for https://x.in/e" in caplog.text

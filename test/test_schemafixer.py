@@ -115,3 +115,11 @@ def test_naive_dates_are_local(monkeypatch):
 def test_missing_or_bad_start_is_left_alone(capsys):
     assert "endDate" not in fix({"name": "No date"})
     assert "endDate" not in fix({"startDate": "Oct 5"})
+
+
+def test_odd_names_and_starts_are_kept(caplog, capsys):
+    event = fix({"name": ["A", "B"], "startDate": None})
+    assert event["name"] == ["A", "B"]
+    assert event["startDate"] is None and "endDate" not in event
+    assert "SchemaFixer found a name that is not text for https://courtyardkoota" in caplog.text
+    assert "[IMP] Error parsing startDate" in capsys.readouterr().out

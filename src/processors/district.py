@@ -15,24 +15,18 @@ class District(Processor):
                     event["inLanguage"]["language"], "und"
                 )
                 del event["inLanguage"]["language"]
-        except:
+        except KeyError, TypeError:
             pass
 
         try:
             if event["typicalAgeRange"]["@type"] == "Age-Range":
                 event["typicalAgeRange"] = event["typicalAgeRange"]["language"]
-        except:
+        except KeyError, TypeError:
             pass
 
         # insider reports keywords as a dict (incorrectly) so we ignore and rewrite
         # from meta tags
-        if "keywords" in event:
-            try:
-                current_keywords = event["keywords"]
-                if isinstance(current_keywords, str):
-                    keywords = ",".join(set(current_keywords.split(",")))
-                    event["keywords"] = keywords
-            except:
-                pass
+        if isinstance(event.get("keywords"), str):
+            event["keywords"] = ",".join(set(event["keywords"].split(",")))
 
         return event

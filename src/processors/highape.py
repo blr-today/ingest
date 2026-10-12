@@ -18,6 +18,6 @@ class HighApe(Processor):
                 and event["offers"][-1]["name"] == "Entry"
             ):
                 del event["offers"][-1]
-        except (KeyError, IndexError):
+        except KeyError, IndexError, TypeError:
             pass
         return event

@@ -5,6 +5,7 @@ Checks if events are within Bangalore (50km radius) based on their geo coordinat
 Tags events outside this radius with NOTINBLR keyword.
 """
 
+import logging
 from math import radians, sin, cos, sqrt, atan2
 from .base import Processor
 
@@ -63,6 +64,10 @@ class GeoProcessor(Processor):
             location = event.get("location")
             if isinstance(location, dict) and "geo" in location:
                 del location["geo"]
+            return event
+
+        if not (-90 <= lat <= 90 and -180 <= lng <= 180):
+            logging.warning("GeoProcessor skipped coordinates %s, %s for %s", lat, lng, url)
             return event
 
         distance = haversine_distance(lat, lng, BLR_LAT, BLR_LNG)

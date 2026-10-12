@@ -1,4 +1,5 @@
 import html
+import logging
 from .base import Processor
 from datetime import datetime, timezone
 from ..common.tz import IST
@@ -10,9 +11,15 @@ class AllEvents(Processor):
     @staticmethod
     def process(url, event):
         for x in ["startDate", "endDate"]:
-            if event[x].endswith("+.000+0"):
-                naive = datetime.fromisoformat(event[x][0:19])
-                event[x] = naive.replace(tzinfo=timezone.utc).astimezone(IST).isoformat()
+            value = event.get(x)
+            if not isinstance(value, str) or not value.endswith("+.000+0"):
+                continue
+            try:
+                naive = datetime.fromisoformat(value[0:19])
+            except ValueError:
+                logging.warning("AllEvents could not read %s %r for %s", x, value, url)
+                continue
+            event[x] = naive.replace(tzinfo=timezone.utc).astimezone(IST).isoformat()
         place = event.get("location")
         geo = place.get("geo") if isinstance(place, dict) else None
         # Unknown venues sit on Google's centre of Bangalore, which is wrong

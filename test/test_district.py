@@ -36,3 +36,13 @@ def test_age_range_is_flattened():
 def test_keyword_dicts_are_left_alone():
     keywords = {"@type": "Description", "content": "Standup Comedy Special ,All"}
     assert District.process("u", {"keywords": keywords})["keywords"] is keywords
+
+
+def test_odd_shapes_are_left_alone():
+    for event in (
+        {"inLanguage": None, "typicalAgeRange": None},
+        {"inLanguage": "Sign language", "typicalAgeRange": ["18+"]},
+        {"inLanguage": ["English"], "typicalAgeRange": {"@type": "Age-Range"}},
+        {"keywords": ["A", "A"]},
+    ):
+        assert District.process("u", json.loads(json.dumps(event))) == event

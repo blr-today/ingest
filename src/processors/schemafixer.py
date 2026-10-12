@@ -1,4 +1,5 @@
 import html
+import logging
 from .base import Processor
 from .cost import as_keywords
 from urllib.parse import urlparse
@@ -25,9 +26,11 @@ class SchemaFixer(Processor):
     @staticmethod
     def process(url, event):
         # Insider events often include &apos; &quot; etc.
-        if "name" in event:
+        if isinstance(event.get("name"), str):
             event["name"] = html.unescape(event["name"])
             event["name"] = EDGES.sub("", event["name"]) or event["name"]
+        elif "name" in event:
+            logging.warning("SchemaFixer found a name that is not text for %s", url)
 
         # force https here
         event["@context"] = "https://schema.org"
@@ -52,7 +55,7 @@ class SchemaFixer(Processor):
                 event["endDate"] = (
                     datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
                 ).isoformat()
-            except ValueError:
+            except TypeError, ValueError:
                 pass
 
         try:

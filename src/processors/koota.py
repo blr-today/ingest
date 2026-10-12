@@ -45,10 +45,10 @@ def fetch_record(url):
         response = get_cached_session().get(API, params={"slug": slug}, timeout=30)
         response.raise_for_status()
         records = response.json()
+        return records[0] if records else None
     except Exception as e:
         logging.warning("Koota REST lookup failed for %s: %s", url, e)
         return None
-    return records[0] if records else None
 
 
 def apply_record(event, record):
@@ -76,23 +76,16 @@ class Koota(Processor):
             apply_record(event, record)
 
         for x in ["startDate", "endDate"]:
-            if x in event:
-                # HACK: This is specific to Courtyard Koota
-                # where dates are not in ISO format
-                event[x] = event[x].replace("+5.5:00", "+05:30")
-                time = year = None
-                if "T" in event[x]:
-                    date, time = event[x].split("T")
-                    year, month, day = date.split("-")
-                else:
-                    yy = event[x].split("-")
-                    if len(yy) == 3:
-                        year, month, day = yy
-                if year:
-                    month = month.zfill(2)
-                    day = day.zfill(2)
-                    event[x] = f"{year}-{month}-{day}"
-                    if time:
-                        event[x] = f"{event[x]}T{time}"
+            if not isinstance(event.get(x), str):
+                continue
+            # HACK: Courtyard Koota dates are not in ISO format; SchemaFixer flags the rest
+            value = event[x].replace("+5.5:00", "+05:30")
+            date, _, time = value.partition("T")
+            parts = date.split("-")
+            if len(parts) == 3 and parts[0]:
+                year, month, day = parts
+                value = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+                value += f"T{time}" if time else ""
+            event[x] = value
 
         return event

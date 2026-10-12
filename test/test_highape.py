@@ -25,3 +25,8 @@ def test_real_offers_are_kept():
 def test_missing_offers():
     assert HighApe.process("u", {"name": "x"}) == {"name": "x"}
     assert HighApe.process("u", {"offers": []}) == {"offers": []}
+
+
+def test_odd_offers_are_kept():
+    for event in ({"offers": "Free"}, {"offers": None}, {"offers": ["Entry"]}):
+        assert HighApe.process("u", dict(event)) == event
