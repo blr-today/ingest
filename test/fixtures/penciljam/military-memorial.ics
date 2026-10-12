@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wp-events-plugin.com//7.4.3//EN
+BEGIN:VEVENT
+UID:223@penciljam.com
+DTSTART;TZID=Asia/Kolkata:20261011T100000
+DTEND;TZID=Asia/Kolkata:20261011T120000
+DTSTAMP:20261008T061529Z
+URL:https://penciljam.com/main/events/penciljam-at-military-memorial-igmf/
+SUMMARY:Penciljam at Military memorial (IGMF)
+DESCRIPTION:\n\n📆 11th Oct 2026\n⏱️ 10:00 am - 12:00 pm\n📍 Milita
+ ry Memorial/ Indira Gandhi Musical Fountain Park\nhttps://maps.app.goo.gl/
+ VUEeDR66aMZdxg4m9\n\nWe are drawing the Military Memorial / Indira Gandhi 
+ Musical Fountain Park (IGMF) this Sunday.\n\nThe National Military Memoria
+ l (NMM) in Bengaluru is a beautiful park that stands as a solemn tribute t
+ o India’s fallen soldiers. The park also features exhibits such as milit
+ ary vehicles such a battle tanks\, APCs\, a fighter jet and a scale model 
+ of a battleship.\nRead more about IGMF here: https://drawingbengaluru.com/
+ web/2025/09/national-military-memorial/\nHow to join this session\nYou don
+ 't need artistic skill to participate in this event - just boundless curio
+ sity and a love for drawing. To connect with other participants\, please u
+ se our community on Discord.\nhttps://penciljam.com/main/community/\n\nIf 
+ this is your first time and would like future update on events\, and more.
+  Please register here.\n\nOnce you arrive at the location\, choose a spot 
+ you'd like to sketch and get comfortable.\nThings to carry for this sessio
+ n\n\n 	A sketchbook/paper/drawing surface\n 	Pencils or any medium you wou
+ ld like to try out\n 	A portable chair/mat. If the location has no seating
+ \, we tend to sit on the ground\n 	Water bottle and snacks\n
+ATTACH;FMTTYPE=image/jpeg:https://i0.wp.com/penciljam.com/main/wp-content/
+ uploads/2026/10/Oct_penciljam_02.jpg?fit=1080%2C1350&ssl=1
+CATEGORIES:Bengaluru Penciljam,Drawing bengaluru,SketchJournal,Weekend Jam
+LOCATION:https://maps.app.goo.gl/VUEeDR66aMZdxg4m9
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+DTSTART:20251011T100000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR
