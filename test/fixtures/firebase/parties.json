@@ -1,0 +1,134 @@
+{
+ "documents": [
+  {
+   "name": "projects/tonight-is/databases/(default)/documents/parties/4lfn9CPe75RI12kiGtcC",
+   "fields": {
+    "id": {
+     "stringValue": "4lfn9CPe75RI12kiGtcC"
+    },
+    "featured": {
+     "booleanValue": false
+    },
+    "genres": {
+     "arrayValue": {
+      "values": [
+       {
+        "mapValue": {
+         "fields": {
+          "id": {
+           "stringValue": "housD"
+          },
+          "name": {
+           "stringValue": "Rock"
+          }
+         }
+        }
+       }
+      ]
+     }
+    },
+    "available": {
+     "booleanValue": true
+    },
+    "description": {
+     "stringValue": "Experience the iconic sounds of U2 under the stars at U2 Much, a tribute concert featuring Sarvesh Venkatesh, Shashank Kandachar, and Neilroy Miranda. Enjoy BYOB, free meads from Moonshine Meadery, and a 15-minute stand-up set by Meghana.  Plus, one tree is planted with every ticket!\n"
+    },
+    "startDate": {
+     "timestampValue": "2025-05-10T13:30:00Z"
+    },
+    "bannerImages": {
+     "arrayValue": {
+      "values": [
+       {
+        "mapValue": {
+         "fields": {
+          "name": {
+           "stringValue": "y3e9dtofjcfelagrs7yu.jpg"
+          },
+          "type": {
+           "stringValue": "image/jpg"
+          },
+          "downloadURL": {
+           "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F4lfn9CPe75RI12kiGtcC%2FbannerImages%2Fy3e9dtofjcfelagrs7yu.jpg?alt=media&token=00000000-0000-0000-0000-000000000000"
+          },
+          "lastModifiedTS": {
+           "integerValue": "1746526876401"
+          },
+          "ref": {
+           "stringValue": "parties/4lfn9CPe75RI12kiGtcC/bannerImages/y3e9dtofjcfelagrs7yu.jpg"
+          }
+         }
+        }
+       }
+      ]
+     }
+    },
+    "featuredImages": {
+     "arrayValue": {}
+    },
+    "genreIds": {
+     "arrayValue": {
+      "values": [
+       {
+        "stringValue": "housD"
+       }
+      ]
+     }
+    },
+    "venues": {
+     "arrayValue": {
+      "values": [
+       {
+        "mapValue": {
+         "fields": {
+          "description": {
+           "stringValue": "1st Main, Near Mantri Classic, ST Bed Cauvery Colony, Nirguna Mandir Extn, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560095, India"
+          },
+          "name": {
+           "stringValue": "ANAA Infra's Signature"
+          },
+          "id": {
+           "stringValue": "YAIVMzbLukYPE5Rg1ZJB"
+          },
+          "location": {
+           "stringValue": "12.9327477,77.6346542"
+          }
+         }
+        }
+       }
+      ]
+     }
+    },
+    "venueIds": {
+     "arrayValue": {
+      "values": [
+       {
+        "stringValue": "YAIVMzbLukYPE5Rg1ZJB"
+       }
+      ]
+     }
+    },
+    "city": {
+     "stringValue": "Bangalore"
+    },
+    "published": {
+     "booleanValue": true
+    },
+    "endDate": {
+     "timestampValue": "2025-05-10T15:30:00Z"
+    },
+    "name": {
+     "stringValue": "U2 Much - A Tribute to the Legendary Band"
+    },
+    "youtubeUrl": {
+     "nullValue": null
+    },
+    "ticketUrl": {
+     "stringValue": "https://www.district.in/event/events/buy-page"
+    }
+   },
+   "createTime": "2025-05-06T10:21:16.484047Z",
+   "updateTime": "2025-05-06T10:21:16.484047Z"
+  }
+ ]
+}
