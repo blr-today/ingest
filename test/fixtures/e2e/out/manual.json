@@ -1,0 +1,15 @@
+[
+  {
+    "@type": "Event",
+    "name": "Draft listing without a link",
+    "startDate": "2030-01-20T10:00:00+05:30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ChildrensEvent",
+    "name": "Little Explorers Saturday",
+    "url": "https://kids.example/little-explorers",
+    "startDate": "2030-01-18T10:00:00+05:30",
+    "location": {"@type": "Place", "name": "Reading Nook", "address": "8th Cross, Bengaluru"}
+  }
+]

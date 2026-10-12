@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "First Sunday Bird Walk",
+    "url": "https://walks.example/2030/bird-walk",
+    "startDate": "2030-01-06T06:30:00+05:30",
+    "endDate": "2030-01-06T09:00:00+05:30",
+    "keywords": ["Nature"],
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 5,
+    "location": {
+      "@type": "Place",
+      "name": "Agara Lake",
+      "address": "Agara, Bengaluru",
+      "geo": {"@type": "GeoCoordinates", "latitude": 12.9081, "longitude": 77.6476}
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mysuru Palace Heritage Walk",
+    "url": "https://walks.example/2030/mysuru-palace",
+    "startDate": "2030-01-19T07:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Mysuru Palace",
+      "address": "Sayyaji Rao Road, Mysuru",
+      "geo": {"@type": "GeoCoordinates", "latitude": 12.3052, "longitude": 76.6552}
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Monsoon Moths and Where to Find Them",
+    "url": "https://walks.example/2030/monsoon-moths",
+    "startDate": "2030-01-08T18:30:00+05:30",
+    "description": "An illustrated evening on the moths of the Western Ghats. The zoom link will be emailed after registration."
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay &amp; Chai Pottery Workshop",
+    "url": "https://www.district.in/events/clay-and-chai-pottery-workshop-buy-tickets",
+    "startDate": "2030-01-11T10:30:00.000Z",
+    "endDate": "2030-01-11T13:30:00.000Z",
+    "keywords": "Workshops, HSR",
+    "inLanguage": {"@type": "Language", "language": "English"},
+    "typicalAgeRange": {"@type": "Age-Range", "language": "16+"},
+    "location": {
+      "@type": "Place",
+      "name": "Mud Room Collective",
+      "address": "27th Main Road, Bengaluru"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": 2500,
+      "highPrice": 2500,
+      "priceCurrency": "INR",
+      "offerCount": 1,
+      "offers": [
+        {"@type": "Offer", "name": "Single Seat", "price": 2500, "priceCurrency": "INR"}
+      ]
+    }
+  }
+]

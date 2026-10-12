@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Horn OK Quiz Night | Bengaluru",
+    "url": "https://highape.com/bangalore/events/horn-ok-quiz-night-qn2030",
+    "startDate": "2030-01-05T19:00:00+05:30",
+    "keywords": ["Quiz"],
+    "location": {
+      "@type": "Place",
+      "name": "Horn OK Studio",
+      "address": "12 Lantern Lane, Bengaluru"
+    },
+    "offers": [
+      {"@type": "Offer", "name": "Team Seat", "price": "300", "priceCurrency": "INR"},
+      {"@type": "Offer", "name": "Entry", "price": "0", "priceCurrency": "INR"}
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Royal Palace Weekend Retreat",
+    "url": "https://highape.com/bangalore/events/royal-palace-weekend-retreat-rp2030",
+    "startDate": "2030-01-12T08:00:00+05:30",
+    "offers": [
+      {"@type": "Offer", "name": "Twin Sharing", "price": "18000", "priceCurrency": "INR"}
+    ]
+  }
+]
