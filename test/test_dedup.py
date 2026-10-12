@@ -1,4 +1,26 @@
-from src.dedup import is_duplicate, name_session, same_session
+import json
+import sqlite3
+from pathlib import Path
+
+from src.dedup import (
+    AGGREGATORS,
+    as_list,
+    combine_offers,
+    core_title,
+    dedup,
+    fill,
+    geo,
+    hidden,
+    is_duplicate,
+    links,
+    merge,
+    name_session,
+    normalize,
+    offer_list,
+    promote,
+    rank,
+    same_session,
+)
 
 STUDIO = {"@type": "Place", "name": "New York dance classes"}
 
@@ -64,3 +86,247 @@ def test_session_name_lists_choices():
     assert event["description"].startswith(
         "Choose from: Sip and Clay; Sip and Paint; Kintsugi."
     )
+
+
+ROWS = json.loads((Path(__file__).parent / "fixtures/dedup/events.json").read_text())
+
+
+def run(tmp_path, rows):
+    db = tmp_path / "events.db"
+    conn = sqlite3.connect(db)
+    conn.execute("CREATE TABLE events (url TEXT, event_json TEXT)")
+    conn.executemany(
+        "INSERT INTO events VALUES (?, ?)", [(u, json.dumps(e)) for u, e in rows]
+    )
+    conn.commit()
+    dedup(str(db))
+    return {
+        u: json.loads(e) for u, e in conn.execute("SELECT url, event_json FROM events")
+    }
+
+
+def test_rank_and_titles():
+    assert rank("https://www.district.in/x") == 1
+    assert rank("https://puttingscene.com/events/1") == len(AGGREGATORS) + 1
+    assert rank("https://courtyardkoota.com/events/x/") == 0
+    assert normalize("Rock ’n’ Roll -- Night!") == "rock n roll night"
+    assert (
+        core_title("Rage Room | Bengaluru")
+        == core_title("Rage Room - Bangalore")
+        == "rage room"
+    )
+    assert core_title("Pop Culture Quiz by Calm Your Wits") == "pop culture quiz"
+
+
+def test_links_ignore_scheme_and_case():
+    a = {
+        "url": "https://www.Penciljam.com/main/events/x/",
+        "sameAs": ["http://a.in/%7Eb", 5],
+    }
+    assert links(a) == {"penciljam.com/main/events/x", "a.in/~b"}
+    assert is_duplicate({"name": "A", "url": "https://penciljam.com/main/events/x"}, a)
+
+
+def test_titles_must_overlap_enough():
+    def dup(x, y):
+        return is_duplicate(
+            {"name": x, "url": "https://a.in/1"}, {"name": y, "url": "https://b.in/2"}
+        )
+
+    assert dup("Rage Room | Bengaluru", "Rage Room | Bangalore")
+    assert dup("Horn OK Quiz", "Horn OK Quiz!")
+    assert dup(
+        "Screening of Amour (2012)", "Screening of Amour (2012) with Cinema Next Door"
+    )
+    assert not dup("Amour", "Screening of Amour")
+    assert not dup("", "Amour")
+    assert not dup("- Rage Room", "- Rage Room Bengaluru")
+
+
+def test_improv_lore_always_merges():
+    a = {
+        "name": "The Silliest Show Tonight by Improv Lore",
+        "url": "https://district.in/a",
+    }
+    b = {
+        "name": "Friday Show",
+        "url": "https://a.in/b",
+        "organizer": {"name": "Improv Lore"},
+    }
+    assert is_duplicate(a, b)
+
+
+def test_hidden_and_geo():
+    assert hidden({"keywords": "DISTRICT,LOW-QUALITY"})
+    assert not hidden({"keywords": ["DISTRICT"]})
+    assert geo({"location": {"geo": {"latitude": "12.9", "longitude": "77.6"}}}) == (
+        12.9,
+        77.6,
+    )
+    assert geo({"location": {"geo": {"latitude": "?"}}}) is None
+    assert geo({"location": "Koota"}) is None
+
+
+def test_session_needs_an_aggregator_and_organizer():
+    a = listing("Sip and Clay", "URU - JP Nagar", 12.9, 77.6)
+    b = listing("Sip and Paint", "URU - JP Nagar", 12.9, 77.6)
+    assert same_session(a, b)
+    assert not same_session(a | {"url": "https://courtyardkoota.com/x"}, b)
+    assert not same_session(a | {"organizer": {}}, b | {"organizer": {}})
+
+
+def test_fill_only_adds():
+    kept = {
+        "name": "A",
+        "image": ["x"],
+        "offers": [],
+        "location": {"@type": "Place", "name": "Koota"},
+    }
+    other = {
+        "name": "B",
+        "image": ["x", "y"],
+        "offers": [{"price": 1}],
+        "description": "",
+        "location": {"@type": "Place", "address": "Jayanagar"},
+        "organizer": {"name": "O"},
+    }
+    fill(kept, other)
+    assert kept == {
+        "name": "A",
+        "image": ["x", "y"],
+        "offers": [{"price": 1}],
+        "location": {"@type": "Place", "name": "Koota", "address": "Jayanagar"},
+        "organizer": {"name": "O"},
+    }
+    kept = {"location": {"@type": "Place", "name": "Koota"}}
+    fill(kept, {"location": {"@type": "VirtualLocation", "url": "u"}})
+    assert kept == {"location": {"@type": "Place", "name": "Koota"}}
+
+
+def test_offers_are_kept_once_per_price():
+    kept = {"offers": [{"price": "500"}, {"name": "TBA"}]}
+    dropped = {"offers": {"price": 500.0, "name": "Stag"}}
+    assert combine_offers(kept, dropped) == kept["offers"]
+    dropped = {
+        "offers": [{"price": "500", "priceCurrency": "USD"}, {"name": "TBA"}, "x"]
+    }
+    assert combine_offers(kept, dropped) == kept["offers"] + [
+        {"price": "500", "priceCurrency": "USD"}
+    ]
+    assert offer_list(None) == [] and as_list(None) == []
+
+
+def test_merge_combines_listings():
+    kept = {
+        "@type": "Event",
+        "url": "https://district.in/a",
+        "keywords": "DISTRICT, PRICEY",
+        "image": "a.png",
+    }
+    dropped = {
+        "@type": "ScreeningEvent",
+        "url": "https://highape.com/b",
+        "keywords": ["HIGHAPE", "BUDGET", ""],
+        "image": ["b.png", "a.png"],
+        "sameAs": ["https://district.in/a", "https://ig.com/b"],
+        "description": "From HighApe",
+    }
+    merge(kept, dropped, "https://highape.com/b")
+    assert kept["@type"] == "ScreeningEvent"
+    assert kept["keywords"] == ["DISTRICT", "PRICEY", "HIGHAPE"]
+    assert kept["sameAs"] == ["https://highape.com/b", "https://ig.com/b"]
+    assert kept["image"] == ["a.png", "b.png"]
+    assert kept["description"] == "From HighApe"
+    assert "offers" not in kept
+
+
+def test_merge_reprices_from_both_offers():
+    kept = {"url": "k", "keywords": ["PRICEY"], "offers": {"price": "2500"}}
+    merge(kept, {"offers": [{"price": "300"}]}, "d")
+    assert kept["offers"] == [{"price": "2500"}, {"price": "300"}]
+    assert kept["keywords"] == ["BUDGET"]
+    kept = {"url": "k", "@type": "MusicEvent", "image": "a"}
+    merge(
+        kept, {"@type": "Event", "offers": {"price": "0"}, "image": {"url": "b"}}, "d"
+    )
+    assert kept["offers"] == {"price": "0"} and kept["keywords"] == ["FREE"]
+    assert kept["@type"] == "MusicEvent" and kept["image"] == ["a"]
+    kept = {"url": "k", "offers": {"price": "0"}}
+    merge(kept, {"offers": {"price": 0}}, "d")
+    assert kept["offers"] == {"price": "0"}
+
+
+def test_curators_promote_the_organiser_page():
+    event = {
+        "url": "https://puttingscene.com/events/1",
+        "sameAs": [
+            "mailto:a@b.in",
+            "https://district.in/x",
+            "https://m.facebook.com/e",
+            "https://koota.in/e",
+        ],
+    }
+    assert promote(event)
+    assert event["url"] == "https://koota.in/e"
+    assert event["sameAs"] == [
+        "https://puttingscene.com/events/1",
+        "mailto:a@b.in",
+        "https://district.in/x",
+        "https://m.facebook.com/e",
+    ]
+    assert not promote({"url": "https://district.in/a", "sameAs": "https://koota.in/e"})
+    assert not promote(
+        {"url": "https://tonight.is/a", "sameAs": ["https://instagram.com/p/1"]}
+    )
+
+
+def test_dedup_scraped_listings(tmp_path, capsys):
+    events = run(tmp_path, ROWS)
+    assert len(events) == len(ROWS) - 1
+    rage = events["https://district.in/rage-room-bangalore-2025/event"]
+    assert rage["sameAs"] == [ROWS[1][0]]
+    assert rage["keywords"] == [
+        "DISTRICT",
+        "INDIRANAGAR",
+        "INSIDER",
+        "LOW-QUALITY",
+        "HIGHAPE",
+        "BUDGET",
+    ]
+    assert len(rage["image"]) == 2 and len(rage["offers"]) == 2
+    # Two Amoeba branches on one site stay apart
+    assert "https://district.in/amoeba-itpl-bengaluru-jun-2025/event" in events
+    trove = events["https://puttingscene.com/events/2908"]
+    assert trove["url"].startswith("https://troveexperiences.com/")
+    assert trove["sameAs"] == ["https://puttingscene.com/events/2908"]
+    assert events["https://puttingscene.com/events/2918"] == ROWS[6][1]
+    assert "Removed 1 duplicate events" in capsys.readouterr().out
+
+
+def test_dedup_names_sessions(tmp_path):
+    rows = []
+    for name in ("Sip and Clay", "Sip and Paint", "Kintsugi"):
+        event = listing(name, "URU - JP Nagar", 12.9057826, 77.6011616)
+        rows.append((event["url"], event | {"startDate": "2026-10-17T16:00:00+05:30"}))
+    rows.append(("https://district.in/undated", {"name": "No date"}))
+    events = run(tmp_path, rows)
+    assert len(events) == 2
+    session = events[rows[0][0]]
+    assert session["name"] == "Sip and Clay and 2 more"
+    assert (
+        session["description"] == "Choose from: Sip and Clay; Sip and Paint; Kintsugi."
+    )
+
+
+def test_dedup_rounds_one_room_slots(tmp_path):
+    a = nydc("Salsa Workshop", "https://district.in/a") | {
+        "startDate": "2026-10-17T18:05:00+05:30"
+    }
+    b = nydc("Salsa Bootcamp", "https://district.in/b") | {
+        "startDate": "2026-10-17T18:10:00+05:30"
+    }
+    c = nydc("Salsa Social", "https://district.in/c") | {
+        "startDate": "2026-10-17T18:20:00+05:30"
+    }
+    events = run(tmp_path, [(e["url"], e) for e in (a, b, c)])
+    assert set(events) == {"https://district.in/a", "https://district.in/c"}
