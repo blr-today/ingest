@@ -15,7 +15,11 @@ def scrape_highape(location):
         yield f"https://www.highape.com/bangalore/events/{event['permalink']}"
 
 
-# Example usage:
-location = "bangalore"
-for url in scrape_highape(location):
-    print(url)
+def main():
+    location = "bangalore"
+    for url in scrape_highape(location):
+        print(url)
+
+
+if __name__ == "__main__":
+    main()
