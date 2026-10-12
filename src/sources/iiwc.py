@@ -1,5 +1,4 @@
 import re
-import json
 from ..common import icalendar
 
 CATEGORY_TYPES = {
@@ -57,14 +56,5 @@ def modify_event(event):
     return event
 
 
-if __name__ == "__main__":
-    input_ics_file = "out/iiwc.ics"
-    output_json_file = "out/iiwc.json"
-
-    json_data = icalendar.convert_ics_to_events(input_ics_file)
-    json_data = [modify_event(event) for event in json_data]
-
-    with open(output_json_file, "w") as output_file:
-        output_file.write(json.dumps(json_data, indent=2))
-
-    print(f"[IIWC] {len(json_data)} events")
+def events():
+    return [modify_event(e) for e in icalendar.convert_ics_to_events("out/iiwc.ics")]

@@ -1,6 +1,4 @@
 import datetime
-import json
-import runpy
 import shutil
 from pathlib import Path
 from types import SimpleNamespace
@@ -8,6 +6,7 @@ from types import SimpleNamespace
 import pytest
 
 from src.common import icalendar
+from src.sources import iiwc
 from src.sources.iiwc import get_location, modify_event
 
 ICS = Path(__file__).parent / "fixtures/iiwc/events.ics"
@@ -67,11 +66,8 @@ def test_institute_and_empty_locations():
     assert get_location("")["name"] == expected
 
 
-@pytest.mark.filterwarnings("ignore::RuntimeWarning")
-def test_main_writes_json(monkeypatch, tmp_path):
+def test_events_read_out_ics(monkeypatch, tmp_path):
     (tmp_path / "out").mkdir()
     shutil.copy(ICS, tmp_path / "out/iiwc.ics")
     monkeypatch.chdir(tmp_path)
-    runpy.run_module("src.sources.iiwc", run_name="__main__")
-    data = json.loads((tmp_path / "out/iiwc.json").read_text())
-    assert len(data) == 7
+    assert len(iiwc.events()) == 7

@@ -45,11 +45,8 @@ out/highape.txt:
 	python -m src.sources.highape | sort > $@ || $(call restore-file,$@)
 	echo "[HIGHAPE] $$(wc -l $@ | cut -d ' ' -f 1)"
 
-out/mapindia.ics:
-	python -m src.sources.mapindia || $(call restore-file,$@)
-
-out/mapindia.json: out/mapindia.ics
-	python -m src.ics_to_event out/mapindia.ics $@ || $(call restore-file,$@)
+out/mapindia.json:
+	python -m src.sources mapindia || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.ics:
 	$(CURL_CHROME) --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" --output $@ || $(call restore-file,$@)
@@ -91,7 +88,7 @@ out/bic.ics:
 	$(CURL_CHROME) --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
 
 out/bic.json: out/bic.ics
-	python -m src.ics_to_event out/bic.ics $@ || $(call restore-file,$@)
+	python -m src.sources bic || $(call restore-file,$@)
 
 out/sofar.json:
 	python -m src.sources sofar || $(call restore-file,$@)
@@ -200,13 +197,13 @@ out/iiwc.ics:
 	$(CURL_CHROME) --silent "https://iiwc.in/events/?ical=1" --output $@ || $(call restore-file,$@)
 
 out/iiwc.json: out/iiwc.ics
-	python -m src.sources.iiwc || $(call restore-file,$@)
+	python -m src.sources iiwc || $(call restore-file,$@)
 
 out/afbangalore.ics:
 	curl --silent --location "https://bangalore.afindia.org/events.ics" --output $@ || $(call restore-file,$@)
 
 out/afbangalore.json: out/afbangalore.ics
-	python -m src.sources.afbangalore || $(call restore-file,$@)
+	python -m src.sources afbangalore || $(call restore-file,$@)
 
 out/rangashankara.json:
 	python -m src.sources rangashankara || $(call restore-file,$@)

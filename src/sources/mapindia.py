@@ -2,7 +2,7 @@ from datetime import datetime, timedelta, timezone
 from ics import Calendar, Event
 from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
-from src.common import USER_AGENT_HEADERS as HEADERS
+from src.common import USER_AGENT_HEADERS as HEADERS, icalendar
 
 """
 TODO: This script currently only works on Events, and not Exhibits or Installations
@@ -49,12 +49,5 @@ def generate_calendar():
     return c
 
 
-def main():
-    with open("out/mapindia.ics", "w") as f:
-        c = generate_calendar()
-        f.writelines(c.serialize_iter())
-        print(f"[MAP] {len(c.events)} events")
-
-
-if __name__ == "__main__":
-    main()
+def events():
+    return icalendar.convert_ics_text_to_events("".join(generate_calendar().serialize_iter()))

@@ -1,9 +1,11 @@
 import datetime
+import shutil
 import types
 
 import pytest
 
 from src.common import icalendar
+from src.sources import bic
 
 BIC = "test/fixtures/icalendar/bic.ics"
 MAP = "test/fixtures/icalendar/mapindia.ics"
@@ -114,3 +116,26 @@ def test_language_is_the_first_spoken_one(events, tmp_path):
     )
     got = {e["name"]: e["inLanguage"] for e in icalendar.convert_ics_to_events(path)}
     assert got == {"A": "hi", "B": "ta", "C": "en"}
+
+
+def test_empty_calendar_is_skipped(tmp_path, capsys):
+    empty = tmp_path / "empty.ics"
+    empty.write_text("")
+    assert icalendar.convert_ics_to_events(str(empty)) == []
+    assert f"{empty}: ICS Calendar is invalid or empty" in capsys.readouterr().out
+    with pytest.raises(FileNotFoundError):
+        icalendar.convert_ics_to_events(str(tmp_path / "missing.ics"))
+
+
+def test_text_matches_file(events):
+    with open(MAP) as f:
+        text = f.read()
+    assert icalendar.convert_ics_text_to_events(text) == list(events(MAP).values())
+
+
+def test_bic_reads_out_ics(events, tmp_path, monkeypatch):
+    expected = list(events(BIC))
+    (tmp_path / "out").mkdir()
+    shutil.copy(BIC, tmp_path / "out/bic.ics")
+    monkeypatch.chdir(tmp_path)
+    assert expected and [e["name"] for e in bic.events()] == expected

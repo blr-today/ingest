@@ -25,12 +25,17 @@ LANGUAGE_MAP = {
 
 
 def convert_ics_to_events(ics_file_path):
-    events = []
-
     with open(ics_file_path, "r") as file:
-        calendar = ics.Calendar(file.read())
+        text = file.read()
+    if not text:
+        print(f"{ics_file_path}: ICS Calendar is invalid or empty")
+        return []
+    return convert_ics_text_to_events(text)
 
-    for event in calendar.events:
+
+def convert_ics_text_to_events(text):
+    events = []
+    for event in ics.Calendar(text).events:
         if event.end == event.begin:
             event.end = event.begin + timedelta(hours=2)
         event_json = {

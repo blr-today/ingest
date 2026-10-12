@@ -1,4 +1,3 @@
-import json
 from datetime import datetime
 from ..common import icalendar
 
@@ -38,11 +37,7 @@ def is_short(event):
     return (end - start).days <= 3
 
 
-if __name__ == "__main__":
+def events():
     events = icalendar.convert_ics_to_events("out/afbangalore.ics")
     # Longer events are courses such as the weekly French Choir
-    events = [modify_event(e) for e in events if is_short(e)]
-
-    with open("out/afbangalore.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-    print(f"[AFBANGALORE] {len(events)} events")
+    return [modify_event(e) for e in events if is_short(e)]

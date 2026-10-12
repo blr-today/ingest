@@ -1,8 +1,11 @@
+import datetime
 import json
 from pathlib import Path
 from types import SimpleNamespace
 
+from src.common import icalendar
 from src.sources import mapindia
+
 FIXTURES = Path(__file__).parent / "fixtures/mapindia"
 EVENT = "https://map-india.org/map-events/drawing-the-everyday/"
 # Post ids are real; where the other two redirect to is made up for the test
@@ -50,10 +53,15 @@ def test_calendar_keeps_events_with_ical(monkeypatch):
     assert event.begin.isoformat() == "2026-10-17T05:30:00+00:00"
 
 
-def test_main_writes_ics(monkeypatch, tmp_path, capsys):
+def test_events_convert_the_calendar(monkeypatch):
+    class Frozen(datetime.datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return datetime.datetime(2026, 10, 1, tzinfo=tz)
     monkeypatch.setattr(mapindia, "session", FakeSession())
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
-    mapindia.main()
-    assert "SUMMARY:Drawing the Everyday" in (tmp_path / "out/mapindia.ics").read_text()
-    assert "[MAP] 1 events" in capsys.readouterr().out
+    monkeypatch.setattr(icalendar, "datetime", SimpleNamespace(datetime=Frozen))
+    [event] = mapindia.events()
+    assert event["name"] == "Drawing the Everyday"
+    assert event["url"] == EVENT
+    assert event["keywords"] == ["CBD", "MAP", "Workshops"]
+    assert event["startDate"] == "2026-10-17T11:00:00+05:30"
