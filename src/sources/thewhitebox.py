@@ -146,10 +146,28 @@ def make_event(product, sp: Shopify):
     }
 
 
-# Ignore "TO BE ANNOUNCED" events
+BLR_RE = re.compile(r"\b(bangalore|bengaluru|blr)\b", re.I)
+OTHER_CITY_RE = re.compile(
+    r"\b(mumbai|delhi|gurgaon|gurugram|noida|pune|hyderabad|chennai|kolkata"
+    r"|goa|jaipur|ahmedabad|chandigarh|kochi)\b",
+    re.I,
+)
+
+
+# Drop products that name another city and never mention Bangalore
+def is_other_city(product):
+    texts = [product.title, product.handle.replace("-", " ")]
+    texts += [v.title for v in product.variants]
+    if any(BLR_RE.search(t) for t in texts):
+        return False
+    return any(OTHER_CITY_RE.search(t) for t in texts)
+
+
+# Ignore "TO BE ANNOUNCED" and non-Bangalore events
 def filter_products(products):
     return filter(
-        lambda p: any("to be announced" not in v.title.lower() for v in p.variants),
+        lambda p: any("to be announced" not in v.title.lower() for v in p.variants)
+        and not is_other_city(p),
         products,
     )
 
