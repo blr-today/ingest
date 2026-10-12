@@ -32,7 +32,12 @@ def test_event_urls(monkeypatch):
     assert headers == {"Accept-Encoding": "gzip"}
 
 
-def test_main_prints_urls(monkeypatch, capsys):
+def test_urls(monkeypatch):
     serve(monkeypatch)
-    highape.main()
-    assert capsys.readouterr().out.splitlines() == URLS
+    assert highape.urls() == URLS
+
+
+def test_events_fetch_sorted_urls(monkeypatch):
+    serve(monkeypatch)
+    monkeypatch.setattr(highape, "events_from_urls", lambda urls: [{"url": u} for u in urls])
+    assert highape.events() == [{"url": u} for u in sorted(URLS)]

@@ -1,5 +1,5 @@
 from src.sources import townscript
-from src.sources.townscript import get_event_urls, main
+from src.sources.townscript import get_event_urls, urls
 
 # The listing endpoint now 404s; names come from cached townscript.com/e/ pages
 LISTING = {
@@ -30,14 +30,20 @@ def test_event_urls(monkeypatch):
     assert FakeFetch.urls[-1] == "https://www.townscript.com/listings/event/upcoming/userId/1306109"
 
 
-def test_main_skips_other_cities(monkeypatch, capsys):
-    def urls(org_id):
-        yield f"https://www.townscript.com/e/{org_id}-bangalore"
-        yield f"https://www.townscript.com/e/{org_id}-pune"
+def org_urls(org_id):
+    yield f"https://www.townscript.com/e/{org_id}-bangalore"
+    yield f"https://www.townscript.com/e/{org_id}-pune"
 
-    monkeypatch.setattr(townscript, "get_event_urls", urls)
-    main()
-    lines = capsys.readouterr().out.splitlines()
+
+def test_urls_skip_other_cities(monkeypatch):
+    monkeypatch.setattr(townscript, "get_event_urls", org_urls)
+    lines = urls()
     assert "https://www.townscript.com/e/5378763-bangalore" in lines
     assert "https://www.townscript.com/e/1306109-bangalore" in lines
     assert not any(line.endswith("-pune") for line in lines)
+
+
+def test_events_fetch_unique_sorted_urls(monkeypatch):
+    monkeypatch.setattr(townscript, "urls", lambda: ["https://t.com/e/b", "https://t.com/e/a", "https://t.com/e/b"])
+    monkeypatch.setattr(townscript, "events_from_urls", lambda urls: [{"url": u} for u in urls])
+    assert townscript.events() == [{"url": "https://t.com/e/a"}, {"url": "https://t.com/e/b"}]

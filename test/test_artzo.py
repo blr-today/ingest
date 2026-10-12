@@ -1,11 +1,8 @@
 import json
-import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
-import pytest
-
-import src.common.session
+from src.sources import artzo
 from src.sources.artzo import URL, fetch_events
 
 HTML = (Path(__file__).parent / "fixtures/artzo/events-and-workshops.html").read_text()
@@ -20,28 +17,25 @@ def session(html=HTML):
     return SimpleNamespace(get=get)
 
 
-def test_no_listed_events(capsys):
-    fetch_events(session())
-    assert capsys.readouterr().out == ""
+def test_no_listed_events():
+    assert fetch_events(session()) == []
 
 
-def test_prints_event_urls(capsys):
+def test_lists_event_urls():
     events = json.dumps([{"slug": "watercolour-basics"}, {"slug": "clay-day"}])
-    fetch_events(session(HTML.replace(WIDGET, WIDGET[:-2] + events)))
-    assert capsys.readouterr().out.splitlines() == [
+    assert fetch_events(session(HTML.replace(WIDGET, WIDGET[:-2] + events))) == [
         "https://www.artzo.in/event-details/watercolour-basics",
         "https://www.artzo.in/event-details/clay-day",
     ]
 
 
-def test_page_without_events_widget(capsys):
-    fetch_events(session(HTML.replace('"events": {"events"', '"other": {"events"')))
-    fetch_events(session(HTML.replace('"appsWarmupData"', '"apps"')))
-    assert capsys.readouterr().out == ""
+def test_page_without_events_widget():
+    assert fetch_events(session(HTML.replace('"events": {"events"', '"other": {"events"'))) == []
+    assert fetch_events(session(HTML.replace('"appsWarmupData"', '"apps"'))) == []
 
 
-@pytest.mark.filterwarnings("ignore::RuntimeWarning")
-def test_main(monkeypatch, capsys):
-    monkeypatch.setattr(src.common.session, "get_cached_session", session)
-    runpy.run_module("src.sources.artzo", run_name="__main__")
-    assert capsys.readouterr().out == ""
+def test_urls_and_events(monkeypatch):
+    monkeypatch.setattr(artzo, "get_cached_session", session)
+    monkeypatch.setattr(artzo, "events_from_urls", lambda urls: [{"url": u} for u in urls])
+    assert artzo.urls() == []
+    assert artzo.events() == []

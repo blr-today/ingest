@@ -1,6 +1,6 @@
 import yaml
-import json
 from src.common.fetch import Fetch
+from src.common.remote import events_from_urls
 
 # This is a hack to ignore Pet Fed India events
 # that happen in other cities
@@ -26,14 +26,16 @@ def get_event_urls(org_id):
         yield f"https://www.townscript.com/e/{e['shortName']}"
 
 
-def main():
+def urls():
     config = yaml.safe_load(open("in/known-hosts.yml"))["townscript"]
+    found = []
     for c in config:
         for e in get_event_urls(config[c]["id"]):
             ignored = any(slug in e for slug in IGNORED_URL_SLUGS)
             if ignored == False:
-                print(e)
+                found.append(e)
+    return found
 
 
-if __name__ == "__main__":
-    main()
+def events():
+    return events_from_urls(sorted(set(urls())))

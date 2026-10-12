@@ -2,7 +2,7 @@ from pathlib import Path
 from types import SimpleNamespace
 
 from src.sources import bhaagoindia
-from src.sources.bhaagoindia import extract_event_urls, is_valid_event_url
+from src.sources.bhaagoindia import is_valid_event_url, urls
 
 HTML = (Path(__file__).parent / "fixtures/source_bhaagoindia/events.html").read_text()
 
@@ -27,18 +27,16 @@ def test_valid_event_urls():
     assert not is_valid_event_url(None)
 
 
-def test_listing_page_has_no_event_links(monkeypatch, capsys):
+def test_listing_page_has_no_event_links(monkeypatch):
     seen = serve(monkeypatch, HTML)
-    extract_event_urls()
+    assert urls() == []
     assert seen == ["https://bhaagoindia.com/events/?city=bengaluru-4"]
-    assert capsys.readouterr().out == ""
 
 
-def test_event_links_are_sorted_and_unique(monkeypatch, capsys):
+def test_event_links_are_sorted_and_unique(monkeypatch):
     extra = '<a href="/events/b-run/">B</a><a href="/events/a-run/">A</a><a href="/events/b-run/">B</a>'
     serve(monkeypatch, HTML.replace("</body>", extra + "</body>"))
-    extract_event_urls("https://bhaagoindia.com/events/")
-    assert capsys.readouterr().out.splitlines() == [
+    assert urls("https://bhaagoindia.com/events/") == [
         "https://bhaagoindia.com/events/a-run/",
         "https://bhaagoindia.com/events/b-run/",
     ]

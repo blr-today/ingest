@@ -21,7 +21,10 @@ out/allevents.txt:
 	  --header "Content-Type: application/json" \
 	  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": $(AE_START_TS),"edate": $(AE_END_TS),"city": "bangalore","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
 	  jq -r '.item[] | .share_url' | sort > $@ || $(call restore-file,$@)
-	echo "[ALLEVENTS] $$(wc -l $@ | cut -d ' ' -f 1)"
+	echo "[ALLEVENTS] $$(wc -l < $@) urls"
+
+out/allevents.json: out/allevents.txt
+	python -m src.sources allevents || $(call restore-file,$@)
 
 out/te.jsonnet:
 	$(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
@@ -38,9 +41,8 @@ out/attagalatta.json:
 out/champaca.json:
 	python -m src.sources champaca || $(call restore-file,$@)
 
-out/highape.txt:
-	python -m src.sources.highape | sort > $@ || $(call restore-file,$@)
-	echo "[HIGHAPE] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/highape.json:
+	python -m src.sources highape || $(call restore-file,$@)
 
 out/mapindia.json:
 	python -m src.sources mapindia || $(call restore-file,$@)
@@ -54,13 +56,11 @@ out/underline.json: out/underline.jsonnet
 out/district.json:
 	python -m src.sources district || (echo "FAIL $@" && echo '[]' > $@)
 
-out/artzo.txt:
-	python -m src.sources.artzo | sort > $@ || $(call restore-file,$@)
-	echo "[ARTZO] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/artzo.json:
+	python -m src.sources artzo || $(call restore-file,$@)
 
-out/bhaagoindia.txt:
-	python -m src.sources.bhaagoindia | sort > $@ ||  $(call restore-file,$@)
-	echo "[BHAAGOINDIA] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/bhaagoindia.json:
+	python -m src.sources bhaagoindia || $(call restore-file,$@)
 
 out/scigalleryblr.json:
 	python -m src.sources scigalleryblr || $(call restore-file,$@)
@@ -89,9 +89,8 @@ out/sumukha.json:
 out/timeandspace.json:
 	python -m src.sources timeandspace || $(call restore-file,$@)
 
-out/townscript.txt:
-	python -m src.sources.townscript | sort -u > $@ || $(call restore-file,$@)
-	echo "[TOWNSCRIPT] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/townscript.json:
+	python -m src.sources townscript || $(call restore-file,$@)
 
 out/bluetokai.json:
 	python -m src.sources bluetokai || $(call restore-file,$@)
@@ -123,7 +122,10 @@ out/aceofpubs.json:
 
 out/koota.txt:
 	$(CURL_CHROME) --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ && test -s $@ || $(call restore-file,$@)
-		echo "[KOOTA] $$(wc -l $@ | cut -d ' ' -f 1)"
+	echo "[KOOTA] $$(wc -l < $@) urls"
+
+out/koota.json: out/koota.txt
+	python -m src.sources koota || $(call restore-file,$@)
 
 out/sistersinsweat.json:
 	python -m src.sources sistersinsweat || $(call restore-file,$@)
@@ -131,9 +133,8 @@ out/sistersinsweat.json:
 out/bcc.json:
 	python -m src.sources bcc || $(call restore-file,$@)
 
-out/pumarun.txt:
-	python -m src.sources.eventbrite pumarun | sort > $@ || $(call restore-file,$@)
-	echo "[PUMARUN] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/pumarun.json:
+	python -m src.sources pumarun || $(call restore-file,$@)
 
 out/bbb.json:
 	python -m src.sources bbb || $(call restore-file,$@)
@@ -201,12 +202,12 @@ out/bac.json:
 out/manual.json: in/manual.json
 	cp in/manual.json $@
 
-fetch: out/allevents.txt \
- out/highape.txt \
+fetch: out/allevents.json \
+ out/highape.json \
  out/mapindia.json \
  out/bic.ics \
  out/district.json \
- out/bhaagoindia.txt \
+ out/bhaagoindia.json \
  out/scigalleryblr.json \
  out/goethe.json \
  out/puttingscene.json \
@@ -217,19 +218,19 @@ fetch: out/allevents.txt \
  out/sofar.json \
  out/bluetokai.json \
  out/gullytours.json \
- out/townscript.txt \
+ out/townscript.json \
  out/tonight.json \
  out/creativemornings.json \
  out/adidas.json \
  out/ticketnew/cinemas.csv \
  out/trove.json \
  out/attagalatta.json \
- out/koota.txt \
+ out/koota.json \
  out/te.json \
  out/underline.json \
  out/sistersinsweat.json \
  out/bcc.json \
- out/pumarun.txt \
+ out/pumarun.json \
  out/hsrmeetups.json \
  out/bbb.json \
  out/tpcc.json \
@@ -239,7 +240,7 @@ fetch: out/allevents.txt \
  out/lavonne.json \
  out/blrbirders.json \
  out/paintbar.json \
- out/artzo.txt \
+ out/artzo.json \
  out/pedalintandem.json \
  out/cksl.json \
  out/sabha.json \

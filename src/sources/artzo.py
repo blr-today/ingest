@@ -1,4 +1,5 @@
 import json
+from src.common.remote import events_from_urls
 from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 
@@ -11,17 +12,20 @@ def fetch_events(session):
     soup = BeautifulSoup(content, "html.parser")
     data = json.loads(soup.find(id="wix-warmup-data").string)
     try:
-        for event in [
+        listed = [
             y["events"]["events"]
             for x in data["appsWarmupData"].values()
             for y in x.values()
             if "events" in y
-        ][0]:
-            print(URL_PREFIX + event["slug"])
+        ][0]
+        return [URL_PREFIX + event["slug"] for event in listed]
     except (KeyError, IndexError):
-        pass
+        return []
 
 
-if __name__ == "__main__":
-    session = get_cached_session()
-    fetch_events(session)
+def urls():
+    return fetch_events(get_cached_session())
+
+
+def events():
+    return events_from_urls(sorted(urls()))

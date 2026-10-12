@@ -1,11 +1,11 @@
 import shutil
-import sys
 from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
 
 from src.sources import eventbrite as source
+from src.sources import pumarun
 
 ROOT = Path(__file__).parent.parent
 HTML = (Path(__file__).parent / "fixtures/source_eventbrite/organizer.html").read_bytes()
@@ -22,21 +22,18 @@ def requested(monkeypatch, tmp_path):
 
     monkeypatch.setattr(source.eventbrite, "get_cached_session", lambda: SimpleNamespace(get=get))
     monkeypatch.chdir(tmp_path)
-    (tmp_path / "out").mkdir()
+    (tmp_path / "in").mkdir()
+    shutil.copy(ROOT / "in/known-hosts.yml", tmp_path / "in/known-hosts.yml")
     return urls
 
 
-def test_write_urls(requested, tmp_path, capsys):
-    source.write_urls("pumarun", "87498853333")
-    assert (tmp_path / "out/pumarun.txt").read_text() == RUN + "\n"
+def test_urls_read_known_hosts(requested):
+    assert source.urls("pumarun") == [RUN]
     assert requested == ["https://www.eventbrite.com/o/87498853333"]
-    assert "[EVENTBRITE/pumarun] 1 events" in capsys.readouterr().err
 
 
-def test_main_reads_known_hosts(requested, monkeypatch, tmp_path):
-    (tmp_path / "in").mkdir()
-    shutil.copy(ROOT / "in/known-hosts.yml", tmp_path / "in/known-hosts.yml")
-    monkeypatch.setattr(sys, "argv", ["eventbrite", "pumarun"])
-    source.main()
+def test_pumarun_events(requested, monkeypatch):
+    monkeypatch.setattr(source, "events_from_urls", lambda urls: [{"url": u} for u in urls])
+    assert pumarun.events() == [{"url": RUN}]
     assert requested == ["https://www.eventbrite.com/o/87498853333"]
-    assert (tmp_path / "out/pumarun.txt").read_text() == RUN + "\n"
+    assert not (Path("out") / "pumarun.txt").exists()

@@ -1,3 +1,4 @@
+import importlib
 import pathlib
 from types import SimpleNamespace
 
@@ -131,3 +132,11 @@ def test_blank_pages_are_skipped(site, capsys):
     pathlib.Path("out/koota.txt").write_text(f"https://example.com/blank\n{EVENT_URL}\n")
     assert [url for url, _ in remote.fetch_remote_events()] == [EVENT_URL]
     assert "Error parsing HTML for https://example.com/blank" in capsys.readouterr().out
+
+
+@pytest.mark.parametrize("name", ["allevents", "koota"])
+def test_url_list_sources_read_out_txt(site, name):
+    pathlib.Path(f"out/{name}.txt").write_text(f"{EVENT_URL}\n\nhttps://example.com/about\n")
+    [event] = importlib.import_module(f"src.sources.{name}").events()
+    assert event["name"] == "Bengaluru Boy by Danish Sait | Stand Up Comedy"
+    assert [url for url, _ in site] == [EVENT_URL, "https://example.com/about"]

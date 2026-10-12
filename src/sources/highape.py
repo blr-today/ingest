@@ -1,5 +1,6 @@
 import requests
-import json
+
+from src.common.remote import events_from_urls
 
 HEADERS = {
     "Accept-Encoding": "gzip"
@@ -15,11 +16,9 @@ def scrape_highape(location):
         yield f"https://www.highape.com/bangalore/events/{event['permalink']}"
 
 
-def main():
-    location = "bangalore"
-    for url in scrape_highape(location):
-        print(url)
+def urls():
+    return list(scrape_highape("bangalore"))
 
 
-if __name__ == "__main__":
-    main()
+def events():
+    return events_from_urls(sorted(urls()))

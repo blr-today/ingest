@@ -1,8 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 
+from src.common.remote import events_from_urls
 
-def extract_event_urls(url="https://bhaagoindia.com/events/?city=bengaluru-4"):
+
+def urls(url="https://bhaagoindia.com/events/?city=bengaluru-4"):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
@@ -17,9 +19,7 @@ def extract_event_urls(url="https://bhaagoindia.com/events/?city=bengaluru-4"):
             valid_urls.append(href)
 
     valid_urls = sorted(set(valid_urls))
-
-    for url in valid_urls:
-        print(f"https://bhaagoindia.com{url}")
+    return [f"https://bhaagoindia.com{url}" for url in valid_urls]
 
 
 def is_valid_event_url(href):
@@ -38,5 +38,6 @@ def is_valid_event_url(href):
     return len(path_elements) == 2
 
 
-if __name__ == "__main__":
-    extract_event_urls()
+
+def events():
+    return events_from_urls(urls())
