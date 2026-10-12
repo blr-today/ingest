@@ -49,7 +49,12 @@ def generate_calendar():
     return c
 
 
-with open("out/mapindia.ics", "w") as f:
-    c = generate_calendar()
-    f.writelines(c.serialize_iter())
-    print(f"[MAP] {len(c.events)} events")
+def main():
+    with open("out/mapindia.ics", "w") as f:
+        c = generate_calendar()
+        f.writelines(c.serialize_iter())
+        print(f"[MAP] {len(c.events)} events")
+
+
+if __name__ == "__main__":
+    main()
