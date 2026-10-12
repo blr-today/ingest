@@ -151,10 +151,34 @@ class MyProcessor(Processor):
         return event
 ```
 
-Key processors:
-- `patch.py` - Applies patch files based on domain
-- `geo.py` - Tags events >50km from Bangalore as NOTINBLR
-- `schemafixer.py` - Fixes common schema issues
+`URL_REGEX` is matched against the row's `url` column, so only matching
+sources see that processor. Returning `DROP` deletes the row and stops the
+chain; any other change is written back. `IgnoredEvents` drops listed ids
+and is empty today.
+
+```mermaid
+flowchart TD
+  ROW[(events.db row)] --> K
+  subgraph chain ["one pass per event, in registry order"]
+    K["Koota<br/>courtyardkoota.com: dates from the WP REST API"]
+    K --> SF["SchemaFixer<br/>unescape names, ISO dates in IST, default endDate and url"]
+    SF --> CO["Costly<br/>DROP when the cheapest ticket is over 15000 INR"]
+    CO --> BMS["BookMyShow<br/>fill gaps from a linked in.bookmyshow.com page"]
+    BMS --> EX["Exhibition<br/>ExhibitionEvent keeps the date part only"]
+    EX --> GEO["GeoProcessor<br/>NOTINBLR beyond 50 km from the city centre"]
+    GEO --> SRC["AllEvents, BhaagoIndia, District, HighApe<br/>per-source schema workarounds, picked by URL_REGEX"]
+    SRC --> LANG["ScriptLanguage<br/>inLanguage from an Indian-script title"]
+    LANG --> PATCH["Patch<br/>defaults from patch/domain.json"]
+    PATCH --> VEN["Venues<br/>geo from patch/venues.json"]
+    VEN --> ET["EventType<br/>@type from the name"]
+    ET --> COST["Cost<br/>FREE, BUDGET or PRICEY keyword"]
+    COST --> LC["LastCall<br/>LASTCALL when few seats remain"]
+  end
+  CO -.->|DROP| DEL[(DELETE row)]
+  LC --> CHANGED{changed?}
+  CHANGED -->|yes| UPD[(UPDATE event_json)]
+  CHANGED -->|no| NEXT[next row]
+```
 
 ## Event types and tags
 
