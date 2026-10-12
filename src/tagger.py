@@ -1,0 +1,191 @@
+import json
+import logging
+import os
+import re
+import sqlite3
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+from typesafe_sdk import Noul, TypeSafeClient, TypeSafeError
+
+from common.activities import TAGS, THRESHOLDS, VERSION, with_parents
+
+logging.basicConfig(level=logging.INFO, format="[TAGGER] %(message)s")
+log = logging.getLogger(__name__)
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("typesafe_sdk").setLevel(logging.WARNING)
+
+# Same list as the website's excludeTags, minus SPORTS-SCREENING which we split up
+EXCLUDE = {"BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"}
+SOURCES = {"All", "DISTRICT", "URBANAUT", "HIGHAPE", "INSIDER", "ALLEVENTS"}
+# Tags we classify but do not want to show
+DEMOTE = {
+    "DEVOTIONAL-MUSIC": "LOW-QUALITY",
+    "EXPO": "LOW-QUALITY",
+    "ATTRACTION": "LOW-QUALITY",
+    "PROMOTION": "LOW-QUALITY",
+    "TRIP": "NOTINBLR",
+    "BUSINESS/SKILLS": "BUSINESS",
+}
+CACHE = Path.home() / ".cache" / "ingest-activities.sqlite"
+SCREENING = r"\b(screening|live on|watch party|screened)\b"
+RULES = [
+    (
+        "F1-SCREENING",
+        rf"(\bf1\b|formula ?1|grand prix).*{SCREENING}|{SCREENING}.*(\bf1\b|formula ?1|grand prix)",
+    ),
+    ("IPL-SCREENING", rf"\bipl\b.*{SCREENING}|{SCREENING}.*\bipl\b"),
+    (
+        "CRICKET-SCREENING",
+        rf"(cricket|india vs|\bt20\b|\bodi\b).*{SCREENING}|{SCREENING}.*(cricket|india vs)",
+    ),
+    (
+        "FOOTBALL-SCREENING",
+        rf"(premier league|champions league|la liga|el clasico|football|\bfifa\b).*{SCREENING}|{SCREENING}.*(premier league|champions league|football)",
+    ),
+    ("QUIZZING", r"\bquiz|\btrivia\b"),
+    ("CHESS", r"\bchess\b"),
+    ("KINTSUGI", r"\bkintsugi\b"),
+    ("RESIN-ART", r"\bresin\b|\bepoxy\b"),
+    ("POTTERY", r"\bpottery\b|\bceramics?\b|\bwheel throwing\b"),
+    ("CANDLE-MAKING", r"\bcandle making\b|\bmake your own candle"),
+    ("PERFUMERY", r"\bperfum|\bsoap making\b"),
+    ("CALLIGRAPHY", r"\bcalligraphy\b|\blettering\b"),
+    ("PRINTMAKING", r"\blino ?cut|\bblock print|\bcyanotype|\bprintmaking\b"),
+    (
+        "PAINTING-SKETCHING",
+        r"\bsip (and|&|n) paint\b|\bwatercolou?r|\bsketch(ing)?\b(?! comedy)|\bcanvas painting\b",
+    ),
+    ("IMPROV", r"(?<!dance )\bimprov\b"),
+    ("THEATER", r"\bacting (workshop|intensive|class)|\bintro to acting\b"),
+    ("STANDUP-COMEDY", r"\bcomedy show\b|\bstand-?up comedy\b"),
+    ("STORYTELLING", r"\bstorytelling\b"),
+    ("OPEN-MIC", r"\bopen mic\b"),
+    ("KARAOKE", r"\bkaraoke\b"),
+    (
+        "SOCIAL-DEDUCTION",
+        r"\bmafia\b|\bwerewolf\b|\bsocial deduction\b|\bclocktower\b|\bbotc\b",
+    ),
+    ("TTRPG", r"\bd ?& ?d\b|\bdungeons (and|&) dragons\b|\bttrpg"),
+    ("BOARDGAMES", r"\bboard ?games?\b|\btabletop\b"),
+    ("RUNNING", r"\brun club\b|\bmarathon\b|\b(5|10|21) ?k run\b"),
+    ("YOGA", r"\byoga\b"),
+    ("PILATES", r"\bpilates\b"),
+    ("GARBA", r"\bgarba\b(?!.*\b(necklace|jewell?ery|making)\b)"),
+    ("LATIN-DANCE", r"\bsalsa\b|\bbachata\b|\bkizomba\b"),
+    ("BIRDING", r"\bbird ?(walk|watching)\b|\bbirding\b"),
+    ("HERITAGE-WALK", r"\bheritage walk\b|\bwalking tour\b"),
+    ("BOOK-CLUB", r"\bbook club\b|\bread together\b"),
+    ("AUTHOR-EVENT", r"\bbook (launch|signing)\b"),
+]
+
+
+def keywords(event):
+    kw = event.get("keywords")
+    return kw if isinstance(kw, list) else []
+
+
+def by_rules(event):
+    name = str(event.get("name") or "").lower()
+    tags = {tag for tag, pattern in RULES if re.search(pattern, name)}
+    if event.get("@type") == "ScreeningEvent" and not tags & {
+        "F1-SCREENING",
+        "IPL-SCREENING",
+        "CRICKET-SCREENING",
+        "FOOTBALL-SCREENING",
+    }:
+        tags.add("MOVIE-SCREENING")
+    if event.get("@type") == "ChildrensEvent":
+        tags.add("KIDS")
+    if "SISTERSINSWEAT" in keywords(event):
+        tags.add("WOMEN-ONLY")
+    return tags
+
+
+def state(event):
+    organizer, venue = event.get("organizer"), event.get("location")
+    name = event.get("name")
+    return {
+        "event": {
+            "name": name,
+            "type": event.get("@type"),
+            "organizer": organizer.get("name") if isinstance(organizer, dict) else None,
+            "venue": venue.get("name") if isinstance(venue, dict) else None,
+            "keywords": [k for k in keywords(event) if k not in SOURCES and k != name],
+            "description": re.sub(r"\s+", " ", str(event.get("description") or ""))[
+                :600
+            ],
+        }
+    }
+
+
+def ask(client, event):
+    questions = {tag: Noul(instructions=q) for tag, (_, q) in TAGS.items()}
+    try:
+        response = client.system_one(state=state(event), questions=questions)
+    except TypeSafeError as e:
+        log.warning("jev failed for %s: %s", event.get("url"), e)
+        return None
+    return {k: a.noul for k, a in response.nouls.items()}
+
+
+def by_jev(events):
+    db = sqlite3.connect(CACHE)
+    db.execute(
+        "CREATE TABLE IF NOT EXISTS answers (url TEXT PRIMARY KEY, version INTEGER, nouls TEXT)"
+    )
+    cached = {
+        u: json.loads(n)
+        for u, n in db.execute(
+            "SELECT url, nouls FROM answers WHERE version = ?", (VERSION,)
+        )
+    }
+    todo = {url: event for url, event in events.items() if url not in cached}
+    log.info("%d events cached, %d to ask", len(events) - len(todo), len(todo))
+    if todo and os.environ.get("TYPESAFE_API_KEY"):
+        with TypeSafeClient() as client, ThreadPoolExecutor(8) as pool:
+            for url, nouls in zip(
+                todo, pool.map(lambda e: ask(client, e), todo.values())
+            ):
+                if nouls:
+                    cached[url] = nouls
+                    db.execute(
+                        "INSERT OR REPLACE INTO answers VALUES (?, ?, ?)",
+                        (url, VERSION, json.dumps(nouls)),
+                    )
+        db.commit()
+    return {
+        url: {t for t, p in nouls.items() if t in TAGS and p >= THRESHOLDS.get(t, 0.5)}
+        for url, nouls in cached.items()
+        if url in events
+    }
+
+
+def main():
+    conn = sqlite3.connect("events.db")
+    rows = conn.execute("SELECT rowid, url, event_json FROM events").fetchall()
+    events = {}
+    for rowid, url, event_json in rows:
+        event = json.loads(event_json)
+        if not EXCLUDE & set(keywords(event)):
+            events.setdefault(url, []).append((rowid, event))
+    jev = by_jev({url: dates[0][1] for url, dates in events.items()})
+    tagged = 0
+    for url, dates in events.items():
+        for rowid, event in dates:
+            tags = with_parents(by_rules(event) | jev.get(url, set()))
+            tags |= {DEMOTE[t] for t in tags if t in DEMOTE}
+            new = sorted(tags - set(keywords(event)))
+            if new:
+                event["keywords"] = keywords(event) + new
+                conn.execute(
+                    "UPDATE events SET event_json = ? WHERE rowid = ?",
+                    (json.dumps(event), rowid),
+                )
+                tagged += 1
+    conn.commit()
+    log.info("tagged %d of %d events", tagged, len(rows))
+
+
+if __name__ == "__main__":
+    main()

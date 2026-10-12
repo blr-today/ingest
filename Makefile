@@ -274,6 +274,7 @@ post-build: libsqlite.so
 	python -m src.processors
 	LD_PRELOAD=./libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
 	LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+	python -m src.tagger
 	python -m src.dedup
 	python src/validator.py --output report.json
 
