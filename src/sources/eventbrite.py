@@ -1,6 +1,6 @@
 import sys
 import yaml
-from common import eventbrite
+from src.common import eventbrite
 
 
 def write_urls(key, organizer_id):

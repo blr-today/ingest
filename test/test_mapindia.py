@@ -2,8 +2,7 @@ import json
 from pathlib import Path
 from types import SimpleNamespace
 
-import mapindia
-
+from src.sources import mapindia
 FIXTURES = Path(__file__).parent / "fixtures/mapindia"
 EVENT = "https://map-india.org/map-events/drawing-the-everyday/"
 # Post ids are real; where the other two redirect to is made up for the test

@@ -4,8 +4,7 @@ from types import SimpleNamespace
 
 import pytest
 
-import bbb
-
+from src.sources import bbb
 FEED = Path(__file__).parent / "fixtures" / "bbb" / "feed.xml"
 MAP = "https://maps.app.goo.gl/eDix9xKSoYUNqFUu5"
 RSVP = "https://forms.gle/Cd3joYXt9jvN19Ma9"

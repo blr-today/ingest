@@ -1,4 +1,4 @@
-from processors.exhibition import Exhibition
+from src.processors.exhibition import Exhibition
 
 
 def test_exhibitions_become_all_day():

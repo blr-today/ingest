@@ -1,5 +1,5 @@
-from processors.base import DROP
-from processors.costly import Costly
+from src.processors.base import DROP
+from src.processors.costly import Costly
 
 
 def table(*prices):

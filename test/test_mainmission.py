@@ -4,8 +4,8 @@ from pathlib import Path
 
 import pytest
 
-import mainmission
-from common.tz import IST
+from src.sources import mainmission
+from src.common.tz import IST
 
 FIXTURE = Path(__file__).parent / "fixtures" / "mainmission" / "events.json"
 NOW = datetime(2026, 9, 1, tzinfo=IST)

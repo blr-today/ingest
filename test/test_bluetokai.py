@@ -4,8 +4,7 @@ from pathlib import Path
 
 import pytest
 
-import bluetokai
-
+from src.sources import bluetokai
 LISTING = Path(__file__).parent / "fixtures" / "bluetokai" / "coffee-workshop-events.html"
 BODY = "<p>Brew better at home.</p><p>Time: 11 AM - 1 PM</p><p>Venue: Blue Tokai Coffee Roasters, Koramangala, Bengaluru</p>"
 

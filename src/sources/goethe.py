@@ -1,6 +1,6 @@
 import json
 import datetime
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 
 """

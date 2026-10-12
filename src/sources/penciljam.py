@@ -14,8 +14,8 @@ import json
 from datetime import timedelta
 from bs4 import BeautifulSoup
 import ics
-from common.session import get_cached_session
-from common.tz import IST
+from src.common.session import get_cached_session
+from src.common.tz import IST
 
 EVENTS_URL = "https://penciljam.com/main/events-2/"
 

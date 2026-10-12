@@ -1,7 +1,7 @@
 import json
 import datetime
 import requests
-from common.tz import IST
+from src.common.tz import IST
 
 BASE_URL = "https://bangalorechessclub.in"
 API_URL = BASE_URL + "/api/events"

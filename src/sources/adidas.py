@@ -2,7 +2,7 @@ import json
 import curl_cffi
 from datetime import datetime
 import asyncio
-from common.tz import IST
+from src.common.tz import IST
 
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"

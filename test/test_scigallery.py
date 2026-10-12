@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 from types import SimpleNamespace
 
-import scigallery
-from common.tz import IST
-from scigallery import filter_data, get_performer_type, guess_event_type, parse_duration_hours, parse_timestamp
+from src.sources import scigallery
+from src.common.tz import IST
+from src.sources.scigallery import filter_data, get_performer_type, guess_event_type, parse_duration_hours, parse_timestamp
 
 FIXTURES = Path(__file__).parent / "fixtures" / "scigallery"
 

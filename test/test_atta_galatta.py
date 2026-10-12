@@ -6,8 +6,8 @@ from types import SimpleNamespace
 import pytest
 from bs4 import BeautifulSoup
 
-import atta_galatta
-from atta_galatta import fetch_events, links_out, make_event, ticket_link
+from src.sources import atta_galatta
+from src.sources.atta_galatta import fetch_events, links_out, make_event, ticket_link
 
 FIXTURES = Path(__file__).parent / "fixtures" / "atta_galatta"
 

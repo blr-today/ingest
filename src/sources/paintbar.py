@@ -1,8 +1,8 @@
 import datefinder
 import json
 from datetime import datetime
-from common.tz import IST
-from common.shopify import Shopify, ShopifyProduct
+from src.common.tz import IST
+from src.common.shopify import Shopify, ShopifyProduct
 
 DOMAIN = "www.paintbar.in"
 COLLECTION = "paint-bar-bangalore"
@@ -77,7 +77,7 @@ def make_event(product, sp: Shopify):
 
 
 if __name__ == "__main__":
-    from common.session import get_cached_session
+    from src.common.session import get_cached_session
 
     session = get_cached_session()
     paint_bar = Shopify(DOMAIN, session, COLLECTION)

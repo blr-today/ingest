@@ -2,9 +2,9 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-import tonight
-from common import firebase
-from tonight import convert_to_event_json, fetch_parties, get_ticket_url, get_url
+from src.sources import tonight
+from src.common import firebase
+from src.sources.tonight import convert_to_event_json, fetch_parties, get_ticket_url, get_url
 
 FIXTURE = Path(__file__).parent / "fixtures" / "tonight" / "parties.json"
 KPOP = "https://insider.in/event/kpop-karaoke-party-from-seoul-to-tokyo-may31-2024/buy-page"

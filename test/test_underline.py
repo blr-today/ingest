@@ -3,8 +3,8 @@ import shutil
 from pathlib import Path
 from types import SimpleNamespace
 
-import underline
-from underline import event_links, post_text, ticket_offers
+from src.sources import underline
+from src.sources.underline import event_links, post_text, ticket_offers
 
 FIXTURES = Path(__file__).parent / "fixtures/underline"
 POP_QUIZ = "https://district.in/pop-culture-quiz-by-calm-your-wits-quizzing-oct11-2026/event"

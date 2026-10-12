@@ -1,4 +1,4 @@
-from common.jsonld import JsonLdExtractor
+from src.common.jsonld import JsonLdExtractor
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import json

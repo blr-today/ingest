@@ -2,8 +2,8 @@ import datetime
 import json
 from pathlib import Path
 
-import goethe
-from goethe import fetch_events, get_event_details, get_event_type, make_event
+from src.sources import goethe
+from src.sources.goethe import fetch_events, get_event_details, get_event_type, make_event
 
 FIXTURES = Path(__file__).parent / "fixtures" / "goethe"
 LIST_URL = "https://www.goethe.de/rest/objeventcalendarRedesign/events/fetchEvents"

@@ -3,7 +3,7 @@ import types
 
 import pytest
 
-from common import icalendar
+from src.common import icalendar
 
 BIC = "test/fixtures/icalendar/bic.ics"
 MAP = "test/fixtures/icalendar/mapindia.ics"

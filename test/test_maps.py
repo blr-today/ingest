@@ -1,6 +1,6 @@
 from types import SimpleNamespace
 
-from common import maps
+from src.common import maps
 
 EMBED = "test/fixtures/maps/embed.html"
 PLACE = (

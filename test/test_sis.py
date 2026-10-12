@@ -4,8 +4,8 @@ from types import SimpleNamespace
 
 import pytest
 
-import sis
-from common.tz import IST
+from src.sources import sis
+from src.common.tz import IST
 
 FIXTURES = Path(__file__).parent / "fixtures" / "sis"
 

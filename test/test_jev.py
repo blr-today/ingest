@@ -1,8 +1,8 @@
 from datetime import time
 from types import SimpleNamespace
 
-from common import jev
-from common.tz import IST
+from src.common import jev
+from src.common.tz import IST
 
 
 def test_hours_are_labelled_for_the_model():

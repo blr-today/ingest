@@ -7,9 +7,8 @@ import sys
 
 import pytest
 
-import build
-import common.remote
-
+from src import build
+import src.common.remote
 SCRIPT = str(pathlib.Path("src/build.py").resolve())
 FIXTURE = pathlib.Path("test/fixtures/build/mapindia.json").resolve()
 
@@ -63,7 +62,7 @@ def test_main_loads_remote_and_local_events(workdir, monkeypatch):
         seen.append(f)
         for i in range(11):
             yield (f"https://r.com/{i}", {"name": f"R{i}", "keywords": ["REMOTE"]})
-    monkeypatch.setattr(common.remote, "fetch_remote_events", remote_events)
+    monkeypatch.setattr(src.common.remote, "fetch_remote_events", remote_events)
     monkeypatch.setattr(sys, "argv", [SCRIPT])
     runpy.run_path(SCRIPT, run_name="__main__")
     got = rows()
@@ -75,7 +74,7 @@ def test_main_loads_remote_and_local_events(workdir, monkeypatch):
 
 def test_main_passes_file_filter(workdir, monkeypatch):
     seen = []
-    monkeypatch.setattr(common.remote, "fetch_remote_events", lambda f: seen.append(f) or iter(()))
+    monkeypatch.setattr(src.common.remote, "fetch_remote_events", lambda f: seen.append(f) or iter(()))
     monkeypatch.setattr(sys, "argv", [SCRIPT, "out/manual.json"])
     runpy.run_path(SCRIPT, run_name="__main__")
     assert seen == ["out/manual.json"]

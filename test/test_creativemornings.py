@@ -5,8 +5,7 @@ import subprocess
 from pathlib import Path
 from types import SimpleNamespace
 
-import creativemornings
-
+from src.sources import creativemornings
 CITY = (Path(__file__).parent / "fixtures/creativemornings/city-blr.html").read_text()
 
 
@@ -77,5 +76,5 @@ def test_main_writes_events(monkeypatch, tmp_path):
     monkeypatch.setattr(subprocess, "run", lambda args, **kw: SimpleNamespace(stdout=CITY))
     monkeypatch.chdir(tmp_path)
     (tmp_path / "out").mkdir()
-    runpy.run_module("creativemornings", run_name="__main__")
+    runpy.run_module("src.sources.creativemornings", run_name="__main__")
     assert json.loads((tmp_path / "out/creativemornings.json").read_text()) == []

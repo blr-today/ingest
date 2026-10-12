@@ -1,4 +1,4 @@
-from processors.cost import Cost, as_keywords, flatten, price, tag
+from src.processors.cost import Cost, as_keywords, flatten, price, tag
 
 
 def test_tag_bands():

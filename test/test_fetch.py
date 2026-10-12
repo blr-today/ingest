@@ -1,4 +1,4 @@
-from common.fetch import Fetch
+from src.common.fetch import Fetch
 from requests_cache import CachedResponse
 from requests_cache.models.response import OriginalResponse
 from requests.models import PreparedRequest, Response as RequestsResponse

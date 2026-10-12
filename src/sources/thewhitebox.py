@@ -5,8 +5,8 @@ from requests.exceptions import HTTPError
 import sys
 import json
 from datetime import datetime
-from common.tz import IST
-from common.shopify import Shopify, ShopifyProduct, ShopifyVariant
+from src.common.tz import IST
+from src.common.shopify import Shopify, ShopifyProduct, ShopifyVariant
 
 DOMAIN = "thewhiteboxco.in"
 COLLECTION = "events-of-the-month"
@@ -184,7 +184,7 @@ def filter_future_events(events):
 
 
 if __name__ == "__main__":
-    from common.session import get_cached_session
+    from src.common.session import get_cached_session
 
     session = get_cached_session()
     white_box = Shopify(DOMAIN, session, COLLECTION)

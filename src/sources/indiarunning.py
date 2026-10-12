@@ -10,8 +10,8 @@ Request: {"type":"event_city","name":"Bengaluru"}
 import json
 from bs4 import BeautifulSoup
 from datetime import datetime
-from common.session import get_cached_session
-from common.tz import IST
+from src.common.session import get_cached_session
+from src.common.tz import IST
 
 API_URL = "https://registrations-api.indiarunning.com/ir/events/autoCompleteEvents"
 BASE_URL = "https://indiarunning.com"

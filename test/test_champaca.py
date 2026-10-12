@@ -5,8 +5,7 @@ from types import SimpleNamespace
 
 import pytest
 
-import champaca
-
+from src.sources import champaca
 FIXTURES = Path(__file__).parent / "fixtures" / "champaca"
 MOVING_LINE = "https://champaca.in/products/book-launch-a-moving-line-evolving-identities-in-comics-and-graphic-narratives"
 MEDU_VADA = "https://champaca.in/products/brunch-books-for-kids-read-aloud-of-manvinder-s-medu-vada"

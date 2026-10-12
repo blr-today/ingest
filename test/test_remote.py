@@ -3,7 +3,7 @@ from types import SimpleNamespace
 
 import pytest
 
-from common import remote
+from src.common import remote
 
 FIXTURES = pathlib.Path("test/fixtures/remote").resolve()
 GRAPH_URL = "https://bangaloreastronomyclub.com/event/orionids-meteor-shower-meteors-midnight-magic/"

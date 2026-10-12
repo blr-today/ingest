@@ -1,8 +1,8 @@
 import json
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 import datetime
-from common.tz import IST
+from src.common.tz import IST
 import time
 
 """Public API key for search-v2, the typesense host urbanaut moved to"""

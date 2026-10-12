@@ -5,8 +5,7 @@ from types import SimpleNamespace
 
 import pytest
 
-import conosh
-
+from src.sources import conosh
 FIXTURES = Path(__file__).parent / "fixtures" / "conosh"
 LISTING = "https://conosh.com/pop-up/an-evening-with-cenci-italy-meets-kyoto-bengaluru-culinary-experience-aug-7-2026-"
 

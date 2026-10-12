@@ -1,8 +1,8 @@
 import yaml
 import json
 from datetime import timedelta, datetime
-from common.tz import IST
-from common.session import get_cached_session
+from src.common.tz import IST
+from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 from math import ceil
 

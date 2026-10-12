@@ -2,7 +2,7 @@ import requests
 import json
 import datetime
 from urllib.parse import urlencode
-from common.tz import IST
+from src.common.tz import IST
 
 # Each season gets a new subdomain and Firebase DB (see the season's script.js)
 SEASON = "quantum"

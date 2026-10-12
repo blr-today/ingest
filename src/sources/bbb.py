@@ -9,9 +9,9 @@ from urllib.parse import parse_qs, urljoin, urlparse
 
 import cleanurl
 from bs4 import BeautifulSoup
-from common import maps
-from common.session import get_cached_session
-from common.jev import (
+from src.common import maps
+from src.common.session import get_cached_session
+from src.common.jev import (
     MIN_CONFIDENCE,
     ask as ask_jev,
     clock,
@@ -20,7 +20,7 @@ from common.jev import (
     time_questions,
     value,
 )
-from common.tz import IST
+from src.common.tz import IST
 from typesafe_sdk import Noul, TypeSafeClient
 
 FEED = "https://brokebibliophilesbangalore.substack.com/feed"

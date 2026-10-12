@@ -1,4 +1,4 @@
-from processors.eventtype import EventType
+from src.processors.eventtype import EventType
 
 
 def kind(name, keywords=(), description="", type_="Event"):

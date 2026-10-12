@@ -4,9 +4,9 @@ from pathlib import Path
 
 import pytest
 
-import thewhitebox
-from common.shopify import Shopify
-from common.tz import IST
+from src.sources import thewhitebox
+from src.common.shopify import Shopify
+from src.common.tz import IST
 
 FIXTURE = Path(__file__).parent / "fixtures" / "thewhitebox" / "products.json"
 # datefinder fills in the current year, so the fake clock follows it

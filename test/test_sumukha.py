@@ -2,9 +2,9 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-import sumukha
-from common.tz import IST
-from sumukha import extract_rsc_payload, fetch_exhibition_candidates, parse_date_range, parse_exhibition_page
+from src.sources import sumukha
+from src.common.tz import IST
+from src.sources.sumukha import extract_rsc_payload, fetch_exhibition_candidates, parse_date_range, parse_exhibition_page
 
 FIXTURES = Path(__file__).parent / "fixtures" / "sumukha"
 PAGE_URL = "https://sumukha.com/exhibitions/441"

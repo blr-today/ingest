@@ -1,7 +1,7 @@
 import json
 from types import SimpleNamespace
 
-from common.shopify import Shopify, ShopifyVariant, html2txt
+from src.common.shopify import Shopify, ShopifyVariant, html2txt
 
 FIXTURE = "test/fixtures/shopify/products.json"
 

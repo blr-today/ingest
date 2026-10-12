@@ -1,5 +1,5 @@
-import townscript
-from townscript import get_event_urls, main
+from src.sources import townscript
+from src.sources.townscript import get_event_urls, main
 
 # The listing endpoint now 404s; names come from cached townscript.com/e/ pages
 LISTING = {

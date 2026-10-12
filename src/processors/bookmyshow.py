@@ -1,6 +1,6 @@
 import logging
 
-from common import bookmyshow
+from src.common import bookmyshow
 
 from .base import Processor
 

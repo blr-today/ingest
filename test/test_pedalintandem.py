@@ -5,8 +5,7 @@ from types import SimpleNamespace
 import pytest
 from bs4 import BeautifulSoup
 
-import pedalintandem
-
+from src.sources import pedalintandem
 FIXTURES = Path(__file__).parent / "fixtures" / "pedalintandem"
 NANDI = "/experiences/cycle-rides-blr/nandi-countryside"
 

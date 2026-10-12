@@ -4,8 +4,7 @@ from types import SimpleNamespace
 
 import pytest
 
-import adidas
-
+from src.sources import adidas
 BODY = (Path(__file__).parent / "fixtures/adidas/events.json").read_bytes()
 
 

@@ -2,9 +2,9 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-import bac
-from bac import fetch_events, fetch_min_price, guess_event_type, is_outside_blr, make_event, make_location, parse_ist, strip_html
-from common.tz import IST
+from src.sources import bac
+from src.sources.bac import fetch_events, fetch_min_price, guess_event_type, is_outside_blr, make_event, make_location, parse_ist, strip_html
+from src.common.tz import IST
 
 FIXTURES = Path(__file__).parent / "fixtures" / "bac"
 ORIONIDS = "https://bangaloreastronomyclub.com/event/orionids-meteor-shower-meteors-midnight-magic/"

@@ -1,5 +1,5 @@
-from sources.thewhitebox import filter_products
-from common.shopify import ShopifyProduct, ShopifyVariant
+from src.sources.thewhitebox import filter_products
+from src.common.shopify import ShopifyProduct, ShopifyVariant
 
 
 def product(handle, *variants):

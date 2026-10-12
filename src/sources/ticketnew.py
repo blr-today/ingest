@@ -1,5 +1,5 @@
 import json
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 from datetime import datetime, timedelta
 import sys
 import csv

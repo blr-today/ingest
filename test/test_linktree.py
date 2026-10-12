@@ -1,6 +1,6 @@
 from types import SimpleNamespace
 
-from common import linktree
+from src.common import linktree
 
 PAGE = "test/fixtures/linktree/page.html"
 

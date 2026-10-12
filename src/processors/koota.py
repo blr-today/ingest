@@ -3,7 +3,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 
 from .base import Processor
 from .cost import as_keywords

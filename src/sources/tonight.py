@@ -1,9 +1,9 @@
 import json
-from common import firebase
-from common.session import get_cached_session
+from src.common import firebase
+from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 from datetime import datetime
-from common.tz import IST
+from src.common.tz import IST
 
 URL = "https://firestore.googleapis.com/v1/projects/tonight-is/databases/(default)/documents/parties?pageSize=1000"
 

@@ -7,10 +7,10 @@ from types import SimpleNamespace
 import pytest
 from bs4 import BeautifulSoup
 
-import common.session
-from common.shopify import Shopify
-from trove import COLLECTION, DOMAIN, fetch_timings, get_date_str, get_location, get_subtitle, make_event, make_offers
-from common.tz import IST
+import src.common.session
+from src.common.shopify import Shopify
+from src.sources.trove import COLLECTION, DOMAIN, fetch_timings, get_date_str, get_location, get_subtitle, make_event, make_offers
+from src.common.tz import IST
 
 d = datetime.datetime
 
@@ -90,10 +90,10 @@ def test_make_event_skips_pages_without_date():
 
 
 def test_main_writes_events(monkeypatch, tmp_path):
-    monkeypatch.setattr(common.session, "get_cached_session", FakeSession)
+    monkeypatch.setattr(src.common.session, "get_cached_session", FakeSession)
     monkeypatch.chdir(tmp_path)
     (tmp_path / "out").mkdir()
-    runpy.run_module("trove", run_name="__main__")
+    runpy.run_module("src.sources.trove", run_name="__main__")
     events = json.loads((tmp_path / "out/trove.json").read_text())
     assert [e["location"]["name"] for e in events] == ["Svadhyaya's Learning Space", "Toscano"]
 

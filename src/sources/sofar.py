@@ -1,7 +1,7 @@
 import json
 import datetime
 import curl_cffi
-from common.tz import IST
+from src.common.tz import IST
 
 BROWSER_CODE = "safari184_ios"
 

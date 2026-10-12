@@ -1,6 +1,6 @@
 import json
 
-from common import bookmyshow
+from src.common import bookmyshow
 from src.processors.bookmyshow import BookMyShow, _seen
 
 LINK = "https://in.bookmyshow.com/plays/tughlaq/ET00505270"

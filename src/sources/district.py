@@ -2,10 +2,10 @@ import json
 import sys
 import curl_cffi
 import requests
-from common import USER_AGENT_HEADERS
-from common.jsonld import JsonLdExtractor
-from common.remote import find_event
-from common.session import get_cached_session
+from src.common import USER_AGENT_HEADERS
+from src.common.jsonld import JsonLdExtractor
+from src.common.remote import find_event
+from src.common.session import get_cached_session
 
 URL = "https://www.district.in/gw/web/get_discovery_results"
 LAT, LNG = 12.9716, 77.5946

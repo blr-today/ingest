@@ -1,14 +1,14 @@
 import datetime
 import json
 import cleanurl
-from common.tz import IST
+from src.common.tz import IST
 import dateutil.parser
 import re
 from lxml import etree
 import urllib.parse
 from math import ceil
 from bs4 import BeautifulSoup
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 
 
 def make_request(url):

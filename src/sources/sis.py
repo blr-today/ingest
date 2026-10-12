@@ -1,5 +1,5 @@
 import requests
-from common.tz import IST
+from src.common.tz import IST
 import json
 import datetime
 import re

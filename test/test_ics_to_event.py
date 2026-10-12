@@ -6,9 +6,9 @@ import types
 
 import pytest
 
-from common import icalendar
+from src.common import icalendar
 
-SCRIPT = "src/ics-to-event.py"
+SCRIPT = "src/ics_to_event.py"
 MAP = "test/fixtures/icalendar/mapindia.ics"
 
 

@@ -3,8 +3,7 @@ import json
 from pathlib import Path
 from types import SimpleNamespace
 
-import timeandspace
-
+from src.sources import timeandspace
 FIXTURES = Path(__file__).parent / "fixtures/timeandspace"
 API = "https://timeandspace.gallery/wp-json/tribe/events/v1/events"
 

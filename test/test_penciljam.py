@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-import penciljam
-from penciljam import fetch_event_urls, fetch_ical, parse_ical_event
+from src.sources import penciljam
+from src.sources.penciljam import fetch_event_urls, fetch_ical, parse_ical_event
 
 FIXTURES = Path(__file__).parent / "fixtures" / "penciljam"
 URL = "https://penciljam.com/main/events/penciljam-at-military-memorial-igmf/"

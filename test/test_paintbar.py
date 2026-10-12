@@ -6,9 +6,9 @@ from types import SimpleNamespace
 
 import pytest
 
-import common.session
-from common.shopify import Shopify
-from paintbar import COLLECTION, DOMAIN, fetch_timings, make_event, make_name, make_offers
+import src.common.session
+from src.common.shopify import Shopify
+from src.sources.paintbar import COLLECTION, DOMAIN, fetch_timings, make_event, make_name, make_offers
 
 PRODUCTS = json.loads((Path(__file__).parent / "fixtures/paintbar/products.json").read_text())
 # The collection is empty today, so event titles follow the name in an old out/paintbar.json
@@ -56,10 +56,10 @@ def test_make_event():
 
 def test_main_writes_events(monkeypatch, tmp_path):
     data = {"products": [dict(PRODUCTS["products"][0], title=TITLE)]}
-    monkeypatch.setattr(common.session, "get_cached_session", lambda: session_for(data))
+    monkeypatch.setattr(src.common.session, "get_cached_session", lambda: session_for(data))
     monkeypatch.chdir(tmp_path)
     (tmp_path / "out").mkdir()
-    runpy.run_module("paintbar", run_name="__main__")
+    runpy.run_module("src.sources.paintbar", run_name="__main__")
     [event] = json.loads((tmp_path / "out/paintbar.json").read_text())
     assert event["startDate"].endswith("T19:30:00+05:30")
 

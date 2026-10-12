@@ -1,6 +1,6 @@
 import yaml
 import json
-from common.fetch import Fetch
+from src.common.fetch import Fetch
 
 # This is a hack to ignore Pet Fed India events
 # that happen in other cities

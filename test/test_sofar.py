@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-import sofar
-from sofar import to_schema_org_music_event
+from src.sources import sofar
+from src.sources.sofar import to_schema_org_music_event
 
 FIXTURE = Path(__file__).parent / "fixtures" / "sofar" / "events.json"
 

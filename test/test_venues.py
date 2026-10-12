@@ -1,4 +1,4 @@
-from processors.venues import Venues, lookup
+from src.processors.venues import Venues, lookup
 
 
 def test_lookup_matches_variants():

@@ -15,8 +15,8 @@ Process:
 """
 
 from bs4 import BeautifulSoup
-from common.session import get_cached_session
-from common.tz import IST
+from src.common.session import get_cached_session
+from src.common.tz import IST
 import json
 import re
 from datetime import datetime, timedelta

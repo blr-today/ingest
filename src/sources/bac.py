@@ -5,8 +5,8 @@ from datetime import datetime
 
 from bs4 import BeautifulSoup
 
-from common.session import get_cached_session
-from common.tz import IST
+from src.common.session import get_cached_session
+from src.common.tz import IST
 
 SITE_URL = "https://bangaloreastronomyclub.com"
 EVENTS_API = f"{SITE_URL}/wp-json/tribe/events/v1/events"

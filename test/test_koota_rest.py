@@ -1,4 +1,4 @@
-from processors.koota import apply_record, plain_text
+from src.processors.koota import apply_record, plain_text
 
 RECORD = {
     "content": {"rendered": '\n<p class="wp-block-paragraph">Local &amp; fresh.</p>\n\n<ul><li>One</li></ul>'},

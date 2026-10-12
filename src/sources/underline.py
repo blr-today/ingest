@@ -6,10 +6,10 @@ from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 
-from common import USER_AGENT_HEADERS
-from common.jsonld import JsonLdExtractor
-from common.remote import find_event
-from common.session import get_cached_session
+from src.common import USER_AGENT_HEADERS
+from src.common.jsonld import JsonLdExtractor
+from src.common.remote import find_event
+from src.common.session import get_cached_session
 
 SITE_URL = "https://underline.center"
 SKIP = ("underline.center", "instagram.com", "whatsapp.com", "facebook.com", "wa.me")

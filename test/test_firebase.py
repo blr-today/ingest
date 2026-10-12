@@ -1,6 +1,6 @@
 import json
 
-from common.firebase import Firebase
+from src.common.firebase import Firebase
 
 FIXTURE = "test/fixtures/firebase/parties.json"
 

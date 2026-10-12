@@ -8,8 +8,8 @@ from types import SimpleNamespace
 
 import pytest
 
-import validator
-from validator import SchemaOrgValidator, ValidationResult
+from src import validator
+from src.validator import SchemaOrgValidator, ValidationResult
 
 FIXTURE = pathlib.Path("test/fixtures/validator/events.json").resolve()
 SCRIPT = str(pathlib.Path("src/validator.py").resolve())
@@ -177,7 +177,7 @@ def events_db(tmp_path, monkeypatch):
 
 def test_validate_all_events_writes_report(events_db, monkeypatch, caplog):
     cdn(monkeypatch)
-    caplog.set_level(logging.INFO, logger="validator")
+    caplog.set_level(logging.INFO, logger="src.validator")
     results, stats = validator.validate_all_events("report.json", verbose=True)
     assert stats == {"total": 4, "valid": 3, "invalid": 1, "warnings": 1}
     assert [rowid for rowid, _ in results] == [1, 2, 3, 4]

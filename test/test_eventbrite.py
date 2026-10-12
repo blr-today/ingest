@@ -1,6 +1,6 @@
 from types import SimpleNamespace
 
-from common import eventbrite
+from src.common import eventbrite
 
 PAGE = "test/fixtures/eventbrite/organizer.html"
 

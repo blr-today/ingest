@@ -6,9 +6,9 @@ from types import SimpleNamespace
 import pytest
 from typesafe_sdk import TypeSafeError
 
-import tagger
-from common.activities import TAGS, THRESHOLDS, VERSION, with_parents
-from tagger import RULES, ask, by_jev, by_rules, jev_tags, jev_type, keywords, state
+from src import tagger
+from src.common.activities import TAGS, THRESHOLDS, VERSION, with_parents
+from src.tagger import RULES, ask, by_jev, by_rules, jev_tags, jev_type, keywords, state
 
 ROWS = json.loads((Path(__file__).parent / "fixtures/tagger/events.json").read_text())
 # Canned Jev replies by event name; a missing name fails the call

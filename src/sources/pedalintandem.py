@@ -1,7 +1,7 @@
 import json
 from datetime import date, datetime, timedelta
 from curl_cffi import requests
-from common.jev import ask, clock, end_clock, time_questions
+from src.common.jev import ask, clock, end_clock, time_questions
 from typesafe_sdk import TypeSafeClient
 from bs4 import BeautifulSoup
 import re

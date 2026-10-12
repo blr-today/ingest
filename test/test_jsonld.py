@@ -1,4 +1,4 @@
-from common.jsonld import JsonLdExtractor
+from src.common.jsonld import JsonLdExtractor
 
 EVENT = "test/fixtures/jsonld/event.html"
 GRAPH = "test/fixtures/remote/graph.html"

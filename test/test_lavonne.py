@@ -3,8 +3,8 @@ import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
-import common.session
-from lavonne import URL, fetch_classes, make_event, parse_time_range
+import src.common.session
+from src.sources.lavonne import URL, fetch_classes, make_event, parse_time_range
 
 HTML = (Path(__file__).parent / "fixtures/lavonne/weekend-classes.html").read_text()
 
@@ -41,10 +41,10 @@ def test_class_with_seats_left():
 
 def test_main_keeps_bangalore_classes(monkeypatch, tmp_path):
     session = SimpleNamespace(get=lambda url: SimpleNamespace(text=HTML))
-    monkeypatch.setattr(common.session, "get_cached_session", lambda: session)
+    monkeypatch.setattr(src.common.session, "get_cached_session", lambda: session)
     monkeypatch.chdir(tmp_path)
     (tmp_path / "out").mkdir()
-    runpy.run_module("lavonne", run_name="__main__")
+    runpy.run_module("src.sources.lavonne", run_name="__main__")
     events = json.loads((tmp_path / "out/lavonne.json").read_text())
     assert len(events) == 3
     assert all(e["location"]["name"] == "Lavonne Academy" for e in events)

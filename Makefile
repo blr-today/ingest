@@ -9,9 +9,6 @@ END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
 TOTAL_ENVIRONMENT_API_TOKEN := $(shell $(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token')
 
-# Set PYTHONPATH for module imports
-export PYTHONPATH := $(CURDIR)/src
-
 define restore-file
 	(echo "FAIL $1" && git checkout -- $1 && echo "RESTORED $1")
 endef
@@ -30,13 +27,13 @@ out/te.jsonnet:
 	$(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
 
 out/te.json: out/te.jsonnet
-	python src/jsonnet.py out/te.jsonnet || $(call restore-file,$@)
+	python -m src.jsonnet out/te.jsonnet || $(call restore-file,$@)
 
 out/skillboxes.jsonnet:
 	python -m src.sources.skillboxes 9 1105542 || $(call restore-file,$@)
 
 out/skillboxes.json: out/skillboxes.jsonnet
-	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
+	python -m src.jsonnet out/skillboxes.jsonnet || $(call restore-file,$@)
 
 out/attagalatta.json:
 	python -m src.sources.atta_galatta || $(call restore-file,$@)
@@ -52,20 +49,20 @@ out/mapindia.ics:
 	python -m src.sources.mapindia || $(call restore-file,$@)
 
 out/mapindia.json: out/mapindia.ics
-	python src/ics-to-event.py out/mapindia.ics $@ || $(call restore-file,$@)
+	python -m src.ics_to_event out/mapindia.ics $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.ics:
 	$(CURL_CHROME) --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" --output $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
-	python src/ics-to-event.py out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
+	python -m src.ics_to_event out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
 
 out/underline.jsonnet:
 	(wget -q "https://underline.center/discourse-post-event/events.json?include_details=true&order=desc&after=$(START_TS)" -O $@ && \
 	python -m src.sources.underline $@) || $(call restore-file,$@)
 
 out/underline.json: out/underline.jsonnet
-	python src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
+	python -m src.jsonnet out/underline.jsonnet || $(call restore-file,$@)
 
 out/district.json:
 	python -m src.sources.district > $@ || (echo "FAIL $@" && echo '[]' > $@)
@@ -94,7 +91,7 @@ out/bic.ics:
 	$(CURL_CHROME) --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
 
 out/bic.json: out/bic.ics
-	python src/ics-to-event.py out/bic.ics $@ || $(call restore-file,$@)
+	python -m src.ics_to_event out/bic.ics $@ || $(call restore-file,$@)
 
 out/sofar.json:
 	python -m src.sources.sofar || $(call restore-file,$@)
@@ -163,17 +160,17 @@ out/tpcc.jsonnet:
 		'[.result[]|select(.online_date==null) | {id:._id, image:.poster, location:.location, link:.rsvpLink, date:.date, theme:.theme, city:.city.city, title:.title, director: .director} |select(.city=="Bangalore") | select(.date> (now|strftime("%Y-%m-%d")))]' > $@ || $(call restore-file,$@)
 
 out/tpcc.json: out/tpcc.jsonnet
-	python src/jsonnet.py out/tpcc.jsonnet || $(call restore-file,$@)
+	python -m src.jsonnet out/tpcc.jsonnet || $(call restore-file,$@)
 
 
 out/cksl.ics:
 	wget -q https://calendar.google.com/calendar/ical/c_0tfecbctgj9m3ei54jihee4u0c%40group.calendar.google.com/public/basic.ics -O $@ || $(call restore-file,$@)
 
 out/cksl.jsonnet: out/cksl.ics
-	python src/ics-to-event.py out/cksl.ics $@ || $(call restore-file,$@)
+	python -m src.ics_to_event out/cksl.ics $@ || $(call restore-file,$@)
 
 out/cksl.json: out/cksl.jsonnet
-	python src/jsonnet.py out/cksl.jsonnet || $(call restore-file,$@)
+	python -m src.jsonnet out/cksl.jsonnet || $(call restore-file,$@)
 
 out/lavonne.json:
 	python -m src.sources.lavonne || $(call restore-file,$@)
@@ -290,7 +287,7 @@ post-build: libsqlite.so
 	LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
 	python -m src.tagger
 	python -m src.dedup
-	python src/validator.py --output report.json
+	python -m src.validator --output report.json
 
 all: build post-build
 	@echo "Finished build"

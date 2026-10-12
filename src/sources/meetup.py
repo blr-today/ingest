@@ -4,9 +4,9 @@ import sys
 
 import ics
 
-from common import USER_AGENT_HEADERS
-from common.jsonld import JsonLdExtractor
-from common.session import get_cached_session
+from src.common import USER_AGENT_HEADERS
+from src.common.jsonld import JsonLdExtractor
+from src.common.session import get_cached_session
 
 # Usage: python -m src.sources.meetup <group-slug>, writes out/<group-slug>.json
 NEXT_DATA = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)

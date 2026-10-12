@@ -11,7 +11,7 @@ import yaml
 from pyld import jsonld
 from jsonschema import Draft7Validator
 from jsonschema.exceptions import ValidationError
-from common.schemaorg import TYPES
+from src.common.schemaorg import TYPES
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)

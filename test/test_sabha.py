@@ -5,8 +5,7 @@ from pathlib import Path
 
 import pytest
 
-import sabha
-
+from src.sources import sabha
 FIXTURES = Path(__file__).parent / "fixtures" / "sabha"
 
 

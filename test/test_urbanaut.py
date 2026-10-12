@@ -3,8 +3,7 @@ from pathlib import Path
 
 import pytest
 
-import urbanaut
-
+from src.sources import urbanaut
 FIXTURES = Path(__file__).parent / "fixtures" / "urbanaut"
 
 

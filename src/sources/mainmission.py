@@ -2,8 +2,8 @@ import json
 import re
 from datetime import datetime, timedelta, time
 import dateutil.parser
-from common.tz import IST
-from common.session import get_cached_session
+from src.common.tz import IST
+from src.common.session import get_cached_session
 
 SITE_URL = "https://mainmission.in"
 FIRESTORE_URL = (

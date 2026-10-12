@@ -8,7 +8,7 @@ from pathlib import Path
 
 from typesafe_sdk import Choice, Noul, TypeSafeClient, TypeSafeError
 
-from common.activities import (
+from src.common.activities import (
     TAGS,
     THRESHOLDS,
     TYPE_CONFIDENCE,

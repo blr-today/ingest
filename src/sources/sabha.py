@@ -3,8 +3,8 @@ import logging
 import os
 from datetime import datetime, date, timedelta
 from bs4 import BeautifulSoup
-from common.session import get_cached_session
-from common.tz import IST
+from src.common.session import get_cached_session
+from src.common.tz import IST
 
 EVENTS_URL = "https://www.sabhablr.in/events"
 EVENT_DETAIL_URL_PREFIX = "https://www.sabhablr.in/event-details/"

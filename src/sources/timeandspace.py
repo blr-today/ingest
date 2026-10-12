@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 import json
 import html
 from datetime import datetime, timedelta

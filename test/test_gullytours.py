@@ -3,8 +3,7 @@ import json
 from pathlib import Path
 from types import SimpleNamespace
 
-import gullytours
-
+from src.sources import gullytours
 FIXTURES = Path(__file__).parent / "fixtures/gullytours"
 CRAWL = {"url": "https://www.gully.tours/tours/colonial-crawl", "id": "36715", "name": "Colonial Crawl"}
 PETE = {"url": "https://www.gully.tours/tours/pete-by-night", "id": "9094", "name": "Pete by Night"}

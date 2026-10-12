@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-import indiarunning
-from indiarunning import convert_to_schema_org, fetch_events, html_to_text, parse_datetime
+from src.sources import indiarunning
+from src.sources.indiarunning import convert_to_schema_org, fetch_events, html_to_text, parse_datetime
 
 FIXTURE = Path(__file__).parent / "fixtures" / "indiarunning" / "events.json"
 

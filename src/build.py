@@ -1,4 +1,4 @@
-from common.remote import add_source, fetch_remote_events
+from src.common.remote import add_source, fetch_remote_events
 import os
 import sqlite3
 import json

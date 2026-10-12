@@ -5,7 +5,7 @@ from types import SimpleNamespace
 
 import requests
 
-from bcc import API_URL, fetch_events, make_event, to_ist
+from src.sources.bcc import API_URL, fetch_events, make_event, to_ist
 
 DATA = json.loads((Path(__file__).parent / "fixtures/bcc/events.json").read_text())
 
@@ -85,6 +85,6 @@ def test_main_skips_past_events(monkeypatch, tmp_path):
     monkeypatch.setattr(requests, "Session", lambda: session)
     monkeypatch.chdir(tmp_path)
     (tmp_path / "out").mkdir()
-    runpy.run_module("bcc", run_name="__main__")
+    runpy.run_module("src.sources.bcc", run_name="__main__")
     [event] = json.loads((tmp_path / "out/bcc.json").read_text())
     assert event["name"] == "Chess Connect - Blitz - Bangalore Chess Club"

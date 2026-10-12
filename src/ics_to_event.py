@@ -1,11 +1,11 @@
 import sys
 import json
-from common import icalendar
+from src.common import icalendar
 
 # TODO: Move the BIC code to bic.py
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python ics-to-event.py input_ics_file output_json_file")
+        print("Usage: python -m src.ics_to_event input_ics_file output_json_file")
         sys.exit(1)
 
     input_ics_file = sys.argv[1]

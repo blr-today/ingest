@@ -1,8 +1,8 @@
 from datetime import datetime, timedelta, timezone
 from ics import Calendar, Event
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
-from common import USER_AGENT_HEADERS as HEADERS
+from src.common import USER_AGENT_HEADERS as HEADERS
 
 """
 TODO: This script currently only works on Events, and not Exhibits or Installations

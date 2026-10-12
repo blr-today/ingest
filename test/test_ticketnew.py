@@ -4,8 +4,7 @@ from pathlib import Path
 
 import pytest
 
-import ticketnew
-
+from src.sources import ticketnew
 FIXTURES = Path(__file__).parent / "fixtures" / "ticketnew"
 
 
