@@ -14,7 +14,7 @@ permissions: {}
 jobs:
   runner:
     name: Pick runner
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     outputs:
       labels: ${{ steps.pick.outputs.labels }}
     steps:
@@ -32,7 +32,7 @@ jobs:
         GH_TOKEN: ${{ steps.app-token.outputs.token }}
         ORG: ${{ github.repository_owner }}
       run: |
-        labels='"ubuntu-22.04"'
+        labels='"ubuntu-26.04"'
         if [ -n "$GH_TOKEN" ] && gh api "orgs/$ORG/actions/runners" \
           --jq '.runners[] | select(.status == "online") | .labels[].name' | grep -x sel > /dev/null; then
           labels='["self-hosted","sel","steamos"]'
@@ -58,14 +58,14 @@ jobs:
       contents: write
     uses: ./.github/workflows/build.yml
     with:
-      runs-on: '"ubuntu-22.04"'
+      runs-on: '"ubuntu-26.04"'
     secrets:
       TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
 
   release:
     needs: [update, fallback]
     if: ${{ !cancelled() && (needs.update.outputs.built == 'true' || needs.fallback.result == 'success') && github.event_name == 'schedule' }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     name: Release
     steps:
     - name: fetch from artifact
@@ -89,7 +89,7 @@ jobs:
   publish:
     needs: [update, fallback]
     if: ${{ !cancelled() && (needs.update.outputs.built == 'true' || needs.fallback.result == 'success') }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     name: Publish Website
     steps:
       - name: trigger build on netlify
