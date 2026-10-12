@@ -1,5 +1,5 @@
 # Bump VERSION whenever a tag or question changes, so cached answers are asked again
-VERSION = 5
+VERSION = 6
 
 # tag: (parent, question asked of every event)
 TAGS = {
@@ -315,3 +315,23 @@ THRESHOLDS = {
     "PROMOTION": 0.55,
     "TRIP": 0.9,
 }
+
+# Asked of every event, but only fills a missing or plain Event type
+TYPES = {
+    "BusinessEvent": "A business, startup, trade or professional networking event",
+    "ChildrensEvent": "An event designed for children",
+    "ComedyEvent": "A comedy show, such as stand-up or an improv show",
+    "DanceEvent": "A dance performance, dance class or social dance night",
+    "EducationEvent": "A workshop, class, course or lecture where attendees learn a skill or subject, including craft workshops",
+    "ExhibitionEvent": "An exhibition or display for visitors to view",
+    "Festival": "A multi-act festival, fair or cultural celebration",
+    "FoodEvent": "A food or drink event, such as a tasting, special meal, cooking class or food festival",
+    "LiteraryEvent": "A book launch, reading, book club, poetry or literary event",
+    "MusicEvent": "A concert, gig, DJ night or other music performance",
+    "ScreeningEvent": "A film or sports screening",
+    "SocialEvent": "A meetup, party, game night or other social gathering",
+    "SportsEvent": "A sport, fitness or outdoor activity, such as a run, ride, trek or match",
+    "TheaterEvent": "A theatre play, drama or puppetry performance",
+    "VisualArtsEvent": "A painting, drawing or sketching session",
+}
+TYPE_CONFIDENCE = 0.5

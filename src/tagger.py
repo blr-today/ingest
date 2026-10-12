@@ -6,9 +6,16 @@ import sqlite3
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-from typesafe_sdk import Noul, TypeSafeClient, TypeSafeError
+from typesafe_sdk import Choice, Noul, TypeSafeClient, TypeSafeError
 
-from common.activities import TAGS, THRESHOLDS, VERSION, with_parents
+from common.activities import (
+    TAGS,
+    THRESHOLDS,
+    TYPE_CONFIDENCE,
+    TYPES,
+    VERSION,
+    with_parents,
+)
 
 logging.basicConfig(level=logging.INFO, format="[TAGGER] %(message)s")
 log = logging.getLogger(__name__)
@@ -121,12 +128,18 @@ def state(event):
 
 def ask(client, event):
     questions = {tag: Noul(instructions=q) for tag, (_, q) in TAGS.items()}
+    questions["@type"] = Choice(
+        instructions="Which kind of event is this?",
+        criteria=TYPES | {"Event": "None of these fits"},
+    )
     try:
         response = client.system_one(state=state(event), questions=questions)
     except TypeSafeError as e:
         log.warning("jev failed for %s: %s", event.get("url"), e)
         return None
-    return {k: a.noul for k, a in response.nouls.items()}
+    answers = {k: a.noul for k, a in response.nouls.items()}
+    kind = response.choices["@type"]
+    return answers | {"@type": [kind.choice, kind.confidence]}
 
 
 def by_jev(events):
@@ -154,11 +167,16 @@ def by_jev(events):
                         (url, VERSION, json.dumps(nouls)),
                     )
         db.commit()
-    return {
-        url: {t for t, p in nouls.items() if t in TAGS and p >= THRESHOLDS.get(t, 0.5)}
-        for url, nouls in cached.items()
-        if url in events
-    }
+    return {url: answers for url, answers in cached.items() if url in events}
+
+
+def jev_tags(answers):
+    return {t for t, p in answers.items() if t in TAGS and p >= THRESHOLDS.get(t, 0.5)}
+
+
+def jev_type(answers):
+    kind, confidence = answers.get("@type", ("Event", 0))
+    return kind if kind in TYPES and confidence >= TYPE_CONFIDENCE else None
 
 
 def main():
@@ -170,21 +188,28 @@ def main():
         if not EXCLUDE & set(keywords(event)):
             events.setdefault(url, []).append((rowid, event))
     jev = by_jev({url: dates[0][1] for url, dates in events.items()})
-    tagged = 0
+    tagged = typed = 0
     for url, dates in events.items():
+        answers = jev.get(url, {})
         for rowid, event in dates:
-            tags = with_parents(by_rules(event) | jev.get(url, set()))
+            kind = jev_type(answers)
+            retype = event.get("@type") in (None, "Event") and kind
+            if retype:
+                event["@type"] = kind
+                typed += 1
+            tags = with_parents(by_rules(event) | jev_tags(answers))
             tags |= {DEMOTE[t] for t in tags if t in DEMOTE}
             new = sorted(tags - set(keywords(event)))
             if new:
                 event["keywords"] = keywords(event) + new
+            if new or retype:
                 conn.execute(
                     "UPDATE events SET event_json = ? WHERE rowid = ?",
                     (json.dumps(event), rowid),
                 )
-                tagged += 1
+                tagged += bool(new)
     conn.commit()
-    log.info("tagged %d of %d events", tagged, len(rows))
+    log.info("tagged %d and typed %d of %d events", tagged, typed, len(rows))
 
 
 if __name__ == "__main__":
