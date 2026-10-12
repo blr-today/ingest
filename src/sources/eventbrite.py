@@ -12,8 +12,13 @@ def write_urls(key, organizer_id):
     print(f"[EVENTBRITE/{key}] {len(links)} events", file=sys.stderr)
 
 
-with open("in/known-hosts.yml") as f:
-    known_hosts = yaml.safe_load(f)
-    org_key = sys.argv[1]
-    org_id = known_hosts["eventbrite"][org_key]["id"]
-    write_urls(org_key, org_id)
+def main():
+    with open("in/known-hosts.yml") as f:
+        known_hosts = yaml.safe_load(f)
+        org_key = sys.argv[1]
+        org_id = known_hosts["eventbrite"][org_key]["id"]
+        write_urls(org_key, org_id)
+
+
+if __name__ == "__main__":
+    main()
