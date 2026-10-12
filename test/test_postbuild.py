@@ -43,5 +43,6 @@ def test_sports_screening(tmp_path, monkeypatch):
     events = json.loads((FIXTURES / "sports_screening.json").read_text())
     postbuild(events, tmp_path / "events.db")
     got = {url: sorted(e["keywords"]) for url, e in tag(tmp_path, monkeypatch).items()}
+    # SQL once tagged low-quality too; the tagger skips events with EXCLUDE tags
     expected = FIXTURES / "sports_screening.expected.json"
     assert got == json.loads(expected.read_text())

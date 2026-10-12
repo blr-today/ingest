@@ -85,6 +85,7 @@ RULES = [
     ("BOOK-CLUB", r"\bbook club\b|\bread together\b"),
     ("AUTHOR-EVENT", r"\bbook (launch|signing)\b"),
 ]
+SPORTS = {"F1-SCREENING", "IPL-SCREENING", "CRICKET-SCREENING", "FOOTBALL-SCREENING"}
 
 
 def keywords(event):
@@ -92,16 +93,30 @@ def keywords(event):
     return kw if isinstance(kw, list) else []
 
 
+def sports_screening(event):
+    name = str(event.get("name") or "").lower()
+    kw = "\n".join(map(str, keywords(event))).lower()
+    description = str(event.get("description") or "")
+    ipl = (
+        re.search(r"\b(live ipl|ipl live)", name)
+        or "ipl screening" in kw
+        or ("live session & streaming" in kw and "sports" in kw)
+        or ("screening" in kw and re.search(r"\bipl\b", description, re.I))
+    )
+    f1 = re.search(r"\b(f1|formula 1) live", name) or re.search(
+        r"f1 screening|grand prix|screening of (f1|formula ?1)", kw
+    )
+    return bool(ipl or (f1 and "screening" in json.dumps(event).lower()))
+
+
 def by_rules(event):
     name = str(event.get("name") or "").lower()
     tags = {tag for tag, pattern in RULES if re.search(pattern, name)}
-    if event.get("@type") == "ScreeningEvent" and not tags & {
-        "F1-SCREENING",
-        "IPL-SCREENING",
-        "CRICKET-SCREENING",
-        "FOOTBALL-SCREENING",
-    }:
-        tags.add("MOVIE-SCREENING")
+    if not tags & SPORTS:
+        if event.get("@type") == "ScreeningEvent":
+            tags.add("MOVIE-SCREENING")
+        if sports_screening(event):
+            tags.add("SPORTS-SCREENING")
     if event.get("@type") == "ChildrensEvent":
         tags.add("KIDS")
     if "SISTERSINSWEAT" in keywords(event):

@@ -660,23 +660,6 @@ WHERE
 ;
 
 
--- if lower(event name) contains both "live screening" and "premier league", tag as SPORTS-SCREENING
-UPDATE events
-SET
-  event_json = json_replace(
-    event_json,
-    '$.keywords',
-    json_insert(
-      event_json -> '$.keywords',
-      '$[#]',
-      'SPORTS-SCREENING'
-    )
-  )
-WHERE
-  lower(event_json ->> '$.name') LIKE '%live screening%'
-  AND lower(event_json ->> '$.name') LIKE '%premier league%';
-
-
 UPDATE events
 SET
   event_json = json_replace(
@@ -688,60 +671,6 @@ WHERE
   
   event_json ->> '$.name' LIKE '%movie under the stars%'
   OR  event_json ->> '$.name' LIKE '%sunset cinema%';
-
-
-
--- Do the same as above but use IPL team names
-UPDATE events
-SET
-  event_json = json_replace(
-    event_json,
-    '$.keywords',
-    json_insert(
-      event_json -> '$.keywords',
-      '$[#]',
-      'SPORTS-SCREENING'
-    )
-  )
-WHERE
-  (
-    event_json ->> '$.name' LIKE '%live cricket screening%'
-    OR event_json ->> '$.name' LIKE '%live ipl%'
-    OR event_json ->> '$.name' LIKE '%ipl live%'
-    OR event_json ->> '$.name' LIKE '%ipl screening%'
-    OR event_json ->> '$.keywords' LIKE '%ipl screening%'
-    -- This is highape specific but works as long as we club it with sports
-    -- It still catches some bollywood nights, but those are anyway marked as LOW QUALITY
-    OR (event_json ->> '$.keywords' LIKE '%live session & streaming%' AND event_json ->> '$.keywords' LIKE '%sports%')
-    OR event_json ->> '$.name' LIKE '%live cricket screening%'
-    OR (event_json ->> '$.keywords' LIKE '%screening%' AND event_json->>'$.description' LIKE '%IPL%')
-  );
--- Do the same as above but use F1 Screening tags and GRAND PRIX names
-UPDATE events
-SET
-  event_json = json_replace(
-    event_json,
-    '$.keywords',
-    json_insert(
-      event_json -> '$.keywords',
-      '$[#]',
-      'SPORTS-SCREENING'
-    )
-  )
-WHERE
-  (
-    event_json ->> '$.name' LIKE '%f1 live%'
-    OR event_json ->> '$.name' LIKE '%f1 screening%'
-    OR event_json ->> '$.name' LIKE '%formula 1 live%'
-    OR event_json ->> '$.name' LIKE '%formula 1 screening%'
-    OR event_json ->> '$.keywords' LIKE '%f1 screening%'
-    OR event_json ->> '$.keywords' LIKE '%grand prix%'
-    OR event_json ->> '$.keywords' LIKE '%screening of f1%'
-    OR event_json ->> '$.keywords' LIKE '%screening of formula 1%'
-    OR event_json ->> '$.keywords' LIKE '%screening of formula1%'
-  ) 
-  -- We want to make sure that other F1 events are not included
-  AND event_json LIKE '%screening%';
 
 
 -- Too many Navratri nights (dandiya, garba), so we tag them out, but keep dance lessons and kids' events.
