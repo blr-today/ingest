@@ -1,0 +1,152 @@
+{
+ "EDSResponse": {
+  "rails": [
+   {
+    "rail_id": "3592a7fb-f115-45a4-a089-103b49ace8a8",
+    "rail_type": "3592a7fb-f115-45a4-a089-103b49ace8a8",
+    "items": [
+     {
+      "ItemDetails": {
+       "EventData": {
+        "event_id": "6a7613e96e5d4e11b9a8ed91",
+        "name": "Painting Using Clay - Bengaluru",
+        "venue_name": "Koramangala Social",
+        "price_string": "₹1499",
+        "date_string": "17 Oct - 31 Oct, 2PM",
+        "event_slug": "painting-using-clay-bengaluru-aug8-2026",
+        "start_time_epoch": 1792225800,
+        "city": "Bengaluru",
+        "end_time_epoch": 1793449800,
+        "country_id": 1,
+        "date_string_v2": "Sat, 17 Oct onwards, Multiple Dates",
+        "distance": 5.3568999999999996,
+        "is_activity": true,
+        "brand_id": "698319fbcc2889e7263fe9d3",
+        "lat": 12.9355,
+        "long": 77.6141,
+        "is_available": true
+       }
+      },
+      "entity_id": "6a7613e96e5d4e11b9a8ed91",
+      "entity_type": "event",
+      "header_info": {
+       "HeaderInfo": null
+      },
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"section\":\"All Events\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"events_listing_grid\",\"entity_id\":\"6a7613e96e5d4e11b9a8ed91\",\"entity_type\":\"event\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      },
+      "price_string": "₹1499"
+     }
+    ],
+    "title": "All Events",
+    "snippet_type": "rail_type_poster_grid_v1",
+    "domain": "events",
+    "rail_identifier": "events_listing_grid",
+    "queries": [
+     {
+      "type": "rail_identifier",
+      "value": "events_listing_grid"
+     },
+     {
+      "type": "tab_aware_filtered_events",
+      "value": "true"
+     },
+     {
+      "type": "remove_tag",
+      "value": "696e199cbe70ddf844b51cfe"
+     }
+    ],
+    "header_info": {
+     "HeaderInfo": null
+    },
+    "max_count": 12,
+    "min_count": 1,
+    "promo_details": {}
+   },
+   {
+    "rail_id": "72f836b8-82b7-4345-969b-7f59e12f4cf0",
+    "rail_type": "72f836b8-82b7-4345-969b-7f59e12f4cf0",
+    "items": [
+     {
+      "ItemDetails": {
+       "EventData": {
+        "event_id": "6a9c54891fabc647e03dce09",
+        "name": "Experience Dosa and Chutney Making",
+        "venue_name": "Fabrizo - Creative Art Craft & Bake Lounge",
+        "price_string": "₹1199",
+        "date_string": "13 Oct - 8 Nov, 7:30PM",
+        "event_slug": "experience-dosa-and-chutney-making-sep7-2026",
+        "start_time_epoch": 1791900000,
+        "city": "Bengaluru",
+        "end_time_epoch": 1794149100,
+        "country_id": 1,
+        "date_string_v2": "Mon, 12 Oct onwards, Multiple Dates",
+        "distance": 8.0995,
+        "is_activity": true,
+        "locality": "BTM Layout",
+        "brand_id": "6905fa2b407217bc27f766b5",
+        "lat": 12.9135,
+        "long": 77.6055,
+        "is_available": true
+       }
+      },
+      "entity_id": "6a9c54891fabc647e03dce09",
+      "entity_type": "event",
+      "header_info": {
+       "HeaderInfo": null
+      },
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"entity_id\":\"6a9c54891fabc647e03dce09\",\"entity_type\":\"event\",\"section\":\"Featured events\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"events_featured\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      },
+      "price_string": "₹1199"
+     }
+    ],
+    "title": "Featured events",
+    "snippet_type": "rail_type_featured_carousal_without_buttons_v1",
+    "domain": "events",
+    "show_view_all": true,
+    "rail_identifier": "events_featured",
+    "queries": [
+     {
+      "type": "rail_identifier",
+      "value": "events_featured"
+     },
+     {
+      "type": "tab_aware_filtered_events",
+      "value": "true"
+     },
+     {
+      "type": "remove_tag",
+      "value": "Screening"
+     }
+    ],
+    "header_info": {
+     "HeaderInfo": null
+    },
+    "max_count": 10,
+    "min_count": 3,
+    "promo_details": {}
+   }
+  ],
+  "postback_params": "{\"ShownRails\":{\"39585653-3a21-4b31-b99c-f69d4a476d69\":true,\"3ad78842-7a47-4f0f-99ac-c1729518c893\":true,\"3fe224d4-ae1f-4053-9daa-11b3d5967b35\":true,\"72f836b8-82b7-4345-969b-7f59e12f4cf0\":true,\"a0574b45-d051-4924-8c66-cfef4c8d09a3\":true,\"b1e91b69-ddb3-4472-9fff-0f251ef16bbe\":true,\"df76d553-955c-476c-848d-218b31d9affa\":true},\"ShownEntities\":{\"3592a7fb-f115-45a4-a089-103b49ace8a8\":[\"6a7613e96e5d4e11b9a8ed91\",\"6945ca1770ebabc1b9c6db02\",\"6a9c54891fabc647e03dce09\",\"68e4ff630c38e8f9826dfed4\",\"6a5e408823681b6652dec6c4\",\"6abf67f235c0fed3ad9751ad\",\"6a7601c111ad80301def57b2\",\"6a71ff477959c309c7928d9b\",\"6aad870a623573ec10f137ef\",\"6a06f92f8251ca2ae359634c\",\"6abe22a16f3263c8886f8475\",\"6a570d2e644f109099fed45c\"]},\"search_id\":\"35ec04f9-1192-43c8-a214-2b4e06fcf757\",\"tag_id\":\"\",\"rail_order\":null}",
+  "has_more": false
+ }
+}

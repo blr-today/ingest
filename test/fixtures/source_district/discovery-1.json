@@ -1,0 +1,374 @@
+{
+ "EDSResponse": {
+  "rails": [
+   {
+    "rail_id": "3ad78842-7a47-4f0f-99ac-c1729518c893",
+    "rail_type": "3ad78842-7a47-4f0f-99ac-c1729518c893",
+    "items": [
+     {
+      "ItemDetails": {
+       "EditorialData": {
+        "id": "e421cbde-8025-4aae-b509-620d0e505be7",
+        "domain": 5,
+        "asset_details": {},
+        "display_meta": {
+         "title": "Events"
+        },
+        "assets": [
+         {
+          "type": 4,
+          "value": "https://b.zmtcdn.com/data/edition_assets/17835187278073.png"
+         },
+         {
+          "type": 5,
+          "value": "https://b.zmtcdn.com/data/edition_assets/17835187057252.png"
+         },
+         {
+          "type": 70,
+          "value": "https://b.zmtcdn.com/data/edition_assets/17835188284676.png"
+         },
+         {
+          "type": 71,
+          "value": "https://b.zmtcdn.com/data/edition_assets/17835187736235.png"
+         }
+        ],
+        "Description": "Events Home",
+        "entity_id": "events_home_v2",
+        "entity_type": "ql",
+        "ItemDetails": null
+       }
+      },
+      "entity_id": "events_home_v2",
+      "entity_type": "ql",
+      "header_info": {
+       "HeaderInfo": null
+      },
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"entity_id\":\"events_home_v2\",\"entity_type\":\"ql\",\"section\":\"\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"floating_sub_tabs\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      }
+     },
+     {
+      "ItemDetails": {
+       "EditorialData": {
+        "id": "cd8bc893-d57e-4f33-aa27-4b9177f19477",
+        "domain": 5,
+        "asset_details": {},
+        "display_meta": {
+         "subtitle": "Search"
+        },
+        "Description": "Search",
+        "entity_id": "search_sub_tab",
+        "entity_type": "ql",
+        "ItemDetails": null
+       }
+      },
+      "entity_id": "search_sub_tab",
+      "entity_type": "ql",
+      "header_info": {
+       "HeaderInfo": null
+      },
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"entity_id\":\"search_sub_tab\",\"entity_type\":\"ql\",\"section\":\"\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"floating_sub_tabs\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      }
+     }
+    ],
+    "snippet_type": "rail_type_floating_sub_tabs",
+    "domain": "editorial",
+    "rail_identifier": "floating_sub_tabs",
+    "queries": [
+     {
+      "type": "rail_identifier",
+      "value": "floating_sub_tabs"
+     }
+    ],
+    "header_info": {
+     "HeaderInfo": null
+    },
+    "promo_details": {}
+   },
+   {
+    "rail_id": "72f836b8-82b7-4345-969b-7f59e12f4cf0",
+    "rail_type": "72f836b8-82b7-4345-969b-7f59e12f4cf0",
+    "items": [
+     {
+      "ItemDetails": {
+       "EventData": {
+        "event_id": "6a9c54891fabc647e03dce09",
+        "name": "Experience Dosa and Chutney Making",
+        "venue_name": "Fabrizo - Creative Art Craft & Bake Lounge",
+        "price_string": "₹1199",
+        "date_string": "13 Oct - 8 Nov, 7:30PM",
+        "event_slug": "experience-dosa-and-chutney-making-sep7-2026",
+        "start_time_epoch": 1791900000,
+        "city": "Bengaluru",
+        "end_time_epoch": 1794149100,
+        "country_id": 1,
+        "date_string_v2": "Mon, 12 Oct onwards, Multiple Dates",
+        "distance": 8.0995,
+        "is_activity": true,
+        "locality": "BTM Layout",
+        "brand_id": "6905fa2b407217bc27f766b5",
+        "lat": 12.9135,
+        "long": 77.6055,
+        "is_available": true
+       }
+      },
+      "entity_id": "6a9c54891fabc647e03dce09",
+      "entity_type": "event",
+      "header_info": {
+       "HeaderInfo": null
+      },
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"entity_id\":\"6a9c54891fabc647e03dce09\",\"entity_type\":\"event\",\"section\":\"Featured events\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"events_featured\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      },
+      "price_string": "₹1199"
+     },
+     {
+      "ItemDetails": {
+       "EventData": {
+        "event_id": "6945ca1770ebabc1b9c6db02",
+        "name": "SoMAD Halloween Carnival 2026",
+        "video": "https://cdn.district.in/events/cd-media/video/upload/v1766181111/cover_video/qk5pr5jqqowq0dez9xxn.mp4",
+        "venue_name": "Oia | Hennur, Bangalore",
+        "price_string": "₹299",
+        "date_string": "31 Oct, 3PM",
+        "event_slug": "somad-halloween-carnival-2026-oct31-2026",
+        "start_time_epoch": 1793439000,
+        "city": "Bengaluru",
+        "end_time_epoch": 1793475000,
+        "country_id": 1,
+        "date_string_v2": "Sat, 31 Oct, 3:00 PM",
+        "distance": 15.229299999999999,
+        "brand_id": "5ca45b7e4116950007367bfe",
+        "lat": 13.0737,
+        "long": 77.6526,
+        "number_attended": 51,
+        "is_available": true
+       }
+      },
+      "entity_id": "6945ca1770ebabc1b9c6db02",
+      "entity_type": "event",
+      "header_info": {
+       "HeaderInfo": null
+      },
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"entity_id\":\"6945ca1770ebabc1b9c6db02\",\"entity_type\":\"event\",\"section\":\"Featured events\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"events_featured\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      },
+      "price_string": "₹299"
+     }
+    ],
+    "title": "Featured events",
+    "snippet_type": "rail_type_featured_carousal_without_buttons_v1",
+    "domain": "events",
+    "show_view_all": true,
+    "rail_identifier": "events_featured",
+    "queries": [
+     {
+      "type": "rail_identifier",
+      "value": "events_featured"
+     },
+     {
+      "type": "tab_aware_filtered_events",
+      "value": "true"
+     },
+     {
+      "type": "remove_tag",
+      "value": "Screening"
+     }
+    ],
+    "header_info": {
+     "HeaderInfo": null
+    },
+    "max_count": 10,
+    "min_count": 3,
+    "promo_details": {}
+   },
+   {
+    "rail_id": "a0574b45-d051-4924-8c66-cfef4c8d09a3",
+    "rail_type": "a0574b45-d051-4924-8c66-cfef4c8d09a3",
+    "items": [
+     {
+      "ItemDetails": {
+       "EventData": {
+        "event_id": "today"
+       }
+      },
+      "children": [
+       {
+        "ItemDetails": {
+         "EventData": {
+          "event_id": "6ab7ac28b2db6a2d4c4f8d1a",
+          "name": "Mid-Autumn Festival",
+          "venue_name": "Yan Yan | Richmond Town, Bangalore",
+          "price_string": "₹6500",
+          "date_string": "13 Oct - 25 Oct, 6:30PM",
+          "event_slug": "midautumn-festival-sep26-2026",
+          "start_time_epoch": 1791896400,
+          "city": "Bengaluru",
+          "end_time_epoch": 1792951200,
+          "country_id": 1,
+          "date_string_v2": "Mon, 12 Oct – Sun, 25 Oct, 6:30 PM",
+          "distance": 1.3640999999999999,
+          "brand_id": "693ef7476955fde55e9ee6a9",
+          "lat": 12.9674,
+          "long": 77.602,
+          "is_available": true,
+          "hub_id": 208638
+         }
+        }
+       },
+       {
+        "ItemDetails": {
+         "EventData": {
+          "event_id": "6a9d6cbfd90e9680b3800955",
+          "name": "Private Karaoke Booths ",
+          "venue_name": "Casa Karaoke",
+          "price_string": "₹499 onwards",
+          "date_string": "13 Oct - 6 Nov, 2PM",
+          "event_slug": "private-karaoke-booths-sep6-2026",
+          "start_time_epoch": 1791880200,
+          "city": "Bengaluru",
+          "end_time_epoch": 1793979000,
+          "country_id": 1,
+          "date_string_v2": "Daily, Multiple slots",
+          "distance": 8.825,
+          "locality": "J. P. Nagar",
+          "brand_id": "65c3762577b0f30008e29a4c",
+          "image_gallery": [
+           {
+            "url": "https://cdn.district.in/assets/events/publisher/event_gallery/01M2AAPJSTSS7HM5D4Z645HSDJ.jpg"
+           },
+           {
+            "url": "https://cdn.district.in/assets/events/publisher/event_gallery/01M2AAQ96K18P458MEYDXTXJDG.jpg"
+           },
+           {
+            "url": "https://cdn.district.in/assets/events/publisher/event_gallery/01M2AAP9TYWQGTGR9GBCCWHTDN.jpg"
+           },
+           {
+            "url": "https://cdn.district.in/assets/events/publisher/event_gallery/01M2AARJFGBBZ6T6HPDGAFP95W.jpg"
+           },
+           {
+            "url": "https://cdn.district.in/assets/events/publisher/event_gallery/01M2ABFWYS4N6T4GASSN6PTN6M.jpg"
+           }
+          ],
+          "lat": 12.9061,
+          "long": 77.5953,
+          "is_available": true
+         }
+        }
+       },
+       {
+        "ItemDetails": {
+         "EventData": {
+          "event_id": "6ac8ce9a218f502df640f7c2",
+          "name": "Four Regions, Reimagined – Thai Culinary Journey",
+          "venue_name": "InAzia - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre",
+          "price_string": "₹100",
+          "date_string": "13 Oct - 16 Oct, 6:30PM",
+          "event_slug": "four-regions-reimagined-thai-culinary-journey-oct10-2026",
+          "start_time_epoch": 1791896400,
+          "city": "Bengaluru",
+          "end_time_epoch": 1792171800,
+          "country_id": 1,
+          "date_string_v2": "Mon, 12 Oct – Fri, 16 Oct, 6:30 PM",
+          "distance": 16.769299999999998,
+          "locality": "Whitefield",
+          "brand_id": "678a581edfb3fd740648981c",
+          "lat": 12.9889,
+          "long": 77.7302,
+          "is_available": true,
+          "hub_id": 208658
+         }
+        }
+       }
+      ],
+      "entity_id": "today",
+      "entity_type": "event",
+      "header_info": {
+       "HeaderInfo": null,
+       "item_count": 73,
+       "title": "Today",
+       "sub_title": "Tue, 13 Oct",
+       "header_type": "today"
+      },
+      "see_all_deep_link": "edition://discovery?layout_type=today_events",
+      "tracking_payload": {
+       "tracking_data": [
+        {
+         "table_name": "homepage_tracking",
+         "payload": "{\"entity_id\":\"today\",\"entity_type\":\"event\",\"section\":\"Happening around you\",\"page_type\":\"events_home_v2\",\"rail_identifier\":\"today_tomorrow_weekend_rail\"}",
+         "event_names": {
+          "tap": "{\"action\":\"ACTION_TAP\"}",
+          "impression": "{\"action\":\"ACTION_IMPRESSION\"}"
+         }
+        }
+       ]
+      }
+     }
+    ],
+    "title": "Happening around you",
+    "snippet_type": "rail_type_event_with_child_items",
+    "domain": "events",
+    "rail_identifier": "today_tomorrow_weekend_rail",
+    "queries": [
+     {
+      "type": "rail_identifier",
+      "value": "today_tomorrow_weekend_rail"
+     },
+     {
+      "type": "distance_threshold",
+      "value": "25"
+     },
+     {
+      "type": "is_activity",
+      "value": "false"
+     }
+    ],
+    "header_info": {
+     "HeaderInfo": null
+    },
+    "max_count": 3,
+    "min_count": 2,
+    "promo_details": {}
+   }
+  ],
+  "postback_params": "{\"ShownRails\":{\"39585653-3a21-4b31-b99c-f69d4a476d69\":true,\"3ad78842-7a47-4f0f-99ac-c1729518c893\":true,\"3fe224d4-ae1f-4053-9daa-11b3d5967b35\":true,\"72f836b8-82b7-4345-969b-7f59e12f4cf0\":true,\"a0574b45-d051-4924-8c66-cfef4c8d09a3\":true,\"b1e91b69-ddb3-4472-9fff-0f251ef16bbe\":true,\"df76d553-955c-476c-848d-218b31d9affa\":true},\"ShownEntities\":{\"3592a7fb-f115-45a4-a089-103b49ace8a8\":[\"6a7613e96e5d4e11b9a8ed91\",\"6945ca1770ebabc1b9c6db02\",\"6a9c54891fabc647e03dce09\",\"68e4ff630c38e8f9826dfed4\",\"6a5e408823681b6652dec6c4\",\"6abf67f235c0fed3ad9751ad\",\"6a7601c111ad80301def57b2\",\"6a71ff477959c309c7928d9b\",\"6aad870a623573ec10f137ef\",\"6a06f92f8251ca2ae359634c\",\"6abe22a16f3263c8886f8475\",\"6a570d2e644f109099fed45c\"]},\"search_id\":\"35ec04f9-1192-43c8-a214-2b4e06fcf757\",\"tag_id\":\"\",\"rail_order\":null}",
+  "has_more": true
+ }
+}
