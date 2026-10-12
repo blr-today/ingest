@@ -10,6 +10,8 @@ class AllEvents(Processor):
 
     @staticmethod
     def process(url, event):
+        if "@type" in event:
+            event["@type"] = "Event"
         for x in ["startDate", "endDate"]:
             value = event.get(x)
             if not isinstance(value, str) or not value.endswith("+.000+0"):

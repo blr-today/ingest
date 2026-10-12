@@ -5,6 +5,9 @@ from pathlib import Path
 import pytest
 
 from src import tagger
+from src.processors.__main__ import should_process_url
+from src.processors.allevents import AllEvents
+from src.processors.eventtype import EventType
 
 REPO = Path(__file__).resolve().parents[1]
 FIXTURES = REPO / "test/fixtures/postbuild"
@@ -46,3 +49,18 @@ def test_sports_screening(tmp_path, monkeypatch):
     # SQL once tagged low-quality too; the tagger skips events with EXCLUDE tags
     expected = FIXTURES / "sports_screening.expected.json"
     assert got == json.loads(expected.read_text())
+
+
+def test_allevents_rows_keep_eventtype_types(tmp_path):
+    events = json.loads((FIXTURES / "allevents.json").read_text())
+    for event in events:
+        for processor in (AllEvents, EventType):
+            assert should_process_url(processor, event["url"])
+            processor.process(event["url"], event)
+    got = postbuild(events, tmp_path / "events.db")
+    assert [e.get("@type") for e in got.values()] == [
+        "SocialEvent",
+        "MusicEvent",
+        "Event",
+        "BusinessEvent",
+    ]

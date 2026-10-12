@@ -67,3 +67,12 @@ def test_missing_or_unreadable_dates_are_kept(caplog):
     event["startDate"] = "TBA+.000+0"
     assert AllEvents.process(url, json.loads(json.dumps(event))) == event
     assert f"AllEvents could not read startDate 'TBA+.000+0' for {url}" in caplog.text
+
+
+def test_stamped_type_is_reset():
+    url, event = listing()
+    for kind in ("MusicEvent", ["MusicEvent", "Festival"], None):
+        event["@type"] = kind
+        assert AllEvents.process(url, event)["@type"] == "Event"
+    del event["@type"]
+    assert "@type" not in AllEvents.process(url, event)

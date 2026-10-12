@@ -489,13 +489,6 @@ WHERE
     OR event_json ->> '$.organizer.name' LIKE 'tapana entertainment%'
   );
 
--- MusicEvent is incorrectly used in many many allevents listings
-UPDATE events
-SET
-  event_json = json_replace(event_json, '$.@type', 'Event')
-WHERE
-  url LIKE 'https://allevents.in%';
-
 
 -- Tag Artzo Events as ARTZO from the domain artzo.in
 UPDATE events
