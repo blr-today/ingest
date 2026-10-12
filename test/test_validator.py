@@ -70,6 +70,13 @@ def test_real_events_are_valid():
     assert v.stats == {"total": 2, "valid": 2, "invalid": 0, "warnings": 0}
 
 
+def test_series_and_hackathons_are_valid():
+    v = SchemaOrgValidator()
+    for kind in ("EventSeries", "Hackathon"):
+        event = events()[0] | {"@type": kind}
+        assert v.validate_event(event, event["url"]).is_valid
+
+
 def test_event_without_type_or_context_is_invalid():
     v = SchemaOrgValidator()
     result = v.validate_event(events()[2], "https://www.sofarsounds.com/events/67871")
@@ -189,3 +196,14 @@ def test_validator_script(events_db, monkeypatch):
     runpy.run_path(SCRIPT, run_name="__main__")
     assert json.load(open("out.json"))["stats"]["total"] == 4
     assert "Could not fetch" in (events_db / "summary.md").read_text()
+
+
+def test_empty_database_reports_zero(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    cdn(monkeypatch)
+    sqlite3.connect("events.db").execute("CREATE TABLE events (url TEXT, event_json TEXT)")
+    monkeypatch.setenv("GITHUB_STEP_SUMMARY", str(tmp_path / "summary.md"))
+    _, stats = validator.validate_all_events("report.json")
+    assert stats["total"] == 0
+    validator.write_github_step_summary(stats, [], [])
+    assert "(0.0%)" in (tmp_path / "summary.md").read_text()

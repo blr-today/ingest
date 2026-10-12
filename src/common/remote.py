@@ -1,8 +1,6 @@
 from .jsonld import JsonLdExtractor
 import glob
 from .session import get_cached_session
-from w3lib.html import get_base_url
-from bs4 import BeautifulSoup
 from .schemaorg import TYPES as KNOWN_EVENT_TYPES
 from . import USER_AGENT_HEADERS
 import json
@@ -19,7 +17,7 @@ def find_event(l):
 def add_source(event, source):
     keywords = event.get("keywords", [])
     if isinstance(keywords, str):
-        keywords = ", " + source.upper() + ", " + keywords
+        keywords = source.upper() + ", " + keywords
     elif isinstance(keywords, list):
         keywords = list(set([source.upper()] + keywords))
     event["keywords"] = keywords
@@ -38,29 +36,21 @@ def fetch_remote_events(file_filter=None):
             for url in urls:
                 url = url.strip()
                 if not url:
-                    break
-                keywords = None
+                    continue
                 try:
                     r = session.get(url, headers=USER_AGENT_HEADERS)
                 except Exception as e:
                     print(f"Error fetching {url}: {e}")
                     continue
-                base_url = get_base_url(r.text, r.url)
-                # extract the meta name="keywords" tag using bs4
-                soup = BeautifulSoup(r.text, "html.parser")
-                meta = soup.find("meta", attrs={"name": "keywords"})
-                if meta:
-                    keywords = meta["content"]
-
                 if len(r.text) == 0:
                     print("No content for ", url)
-                    break
+                    continue
 
                 try:
                     data = JsonLdExtractor().extract(r.text)
                 except json.decoder.JSONDecodeError:
                     print(f"Error parsing JSON for {url}")
-                    pass
+                    continue
 
                 event = None
                 for x in data:

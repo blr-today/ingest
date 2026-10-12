@@ -11,6 +11,7 @@ import yaml
 from pyld import jsonld
 from jsonschema import Draft7Validator
 from jsonschema.exceptions import ValidationError
+from common.schemaorg import TYPES
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -18,6 +19,10 @@ logger = logging.getLogger(__name__)
 IMAGE_CDN_URL = (
     "https://raw.githubusercontent.com/blr-today/website/main/_data/image_cdn.yml"
 )
+
+
+def pct(n: int, total: int) -> float:
+    return n / total * 100 if total else 0.0
 
 
 def image_urls(event: Dict[str, Any]) -> List[str]:
@@ -62,28 +67,7 @@ class SchemaOrgValidator:
             "@context": {"type": "string", "pattern": ".*schema\\.org.*"},
             "@type": {
                 "type": "string",
-                "enum": [
-                    "Event",
-                    "EducationEvent",
-                    "SocialEvent",
-                    "BusinessEvent",
-                    "ChildrensEvent",
-                    "ComedyEvent",
-                    "CourseInstance",
-                    "DanceEvent",
-                    "DeliveryEvent",
-                    "ExhibitionEvent",
-                    "Festival",
-                    "FoodEvent",
-                    "LiteraryEvent",
-                    "MusicEvent",
-                    "PublicationEvent",
-                    "SaleEvent",
-                    "ScreeningEvent",
-                    "SportsEvent",
-                    "TheaterEvent",
-                    "VisualArtsEvent",
-                ],
+                "enum": TYPES,
             },
             "name": {"type": "string", "minLength": 1},
             "startDate": {"type": "string", "format": "date-time"},
@@ -252,13 +236,13 @@ def write_github_step_summary(
         f.write("## Summary\n\n")
         f.write(f"- **Total Events**: {stats['total']}\n")
         f.write(
-            f"- **Valid Events**: {stats['valid']} ({stats['valid'] / stats['total'] * 100:.1f}%)\n"
+            f"- **Valid Events**: {stats['valid']} ({pct(stats['valid'], stats['total']):.1f}%)\n"
         )
         f.write(
-            f"- **Invalid Events**: {stats['invalid']} ({stats['invalid'] / stats['total'] * 100:.1f}%)\n"
+            f"- **Invalid Events**: {stats['invalid']} ({pct(stats['invalid'], stats['total']):.1f}%)\n"
         )
         f.write(
-            f"- **Events with Warnings**: {stats['warnings']} ({stats['warnings'] / stats['total'] * 100:.1f}%)\n\n"
+            f"- **Events with Warnings**: {stats['warnings']} ({pct(stats['warnings'], stats['total']):.1f}%)\n\n"
         )
 
         f.write("## Unsupported Image Hosts\n\n")
@@ -339,9 +323,9 @@ def validate_all_events(output_file: str = None, verbose: bool = False):
     stats = validator.stats
     logger.info(f"✅ Validation complete!")
     logger.info(
-        f"📊 Total: {stats['total']}, Valid: {stats['valid']} ({stats['valid'] / stats['total'] * 100:.1f}%), "
-        f"Invalid: {stats['invalid']} ({stats['invalid'] / stats['total'] * 100:.1f}%), "
-        f"Warnings: {stats['warnings']} ({stats['warnings'] / stats['total'] * 100:.1f}%)"
+        f"📊 Total: {stats['total']}, Valid: {stats['valid']} ({pct(stats['valid'], stats['total']):.1f}%), "
+        f"Invalid: {stats['invalid']} ({pct(stats['invalid'], stats['total']):.1f}%), "
+        f"Warnings: {stats['warnings']} ({pct(stats['warnings'], stats['total']):.1f}%)"
     )
 
     image_hosts = unsupported_image_hosts(images)

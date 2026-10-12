@@ -53,13 +53,14 @@ def convert_ics_to_events(ics_file_path):
         if event.location:
             event_json["location"] = {"@type": "Place", "name": event.location}
 
-        for l in LANGUAGE_MAP:
-            regex = r"\b" + l + r"\b"
-            if re.search(regex, event_json["description"]):
-                event_json["inLanguage"] = LANGUAGE_MAP[l]
-
-        if "inLanguage" not in event_json:
-            event_json["inLanguage"] = "en"
+        spoken = [
+            (m.start(), LANGUAGE_MAP[l])
+            for l in LANGUAGE_MAP
+            for m in re.finditer(
+                r"\b" + l + r"\b(?!\s+(?i:subtitles))", event_json["description"]
+            )
+        ]
+        event_json["inLanguage"] = min(spoken)[1] if spoken else "en"
 
         # Film Screenings is for MAP
         if (

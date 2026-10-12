@@ -65,3 +65,23 @@ def test_file_filter_limits_sources(site):
     got = list(remote.fetch_remote_events("out/koota.txt"))
     assert [url for url, _ in got] == [EVENT_URL]
     assert [url for url, _ in site] == [EVENT_URL]
+
+
+def test_add_source_prefixes_string_keywords():
+    assert remote.add_source({"keywords": "comedy"}, "koota") == {"keywords": "KOOTA, comedy"}
+
+
+def test_bad_urls_do_not_stop_the_file(site, monkeypatch):
+    PAGES["https://example.com/empty"] = ""
+    PAGES["https://example.com/badjson"] = "<html></html>"
+    real = remote.JsonLdExtractor
+
+    class Extractor(real):
+        def extract(self, text):
+            if text == "<html></html>":
+                raise remote.json.decoder.JSONDecodeError("bad", text, 0)
+            return real().extract(text)
+    monkeypatch.setattr(remote, "JsonLdExtractor", Extractor)
+    lines = ["https://example.com/empty", "", "https://example.com/badjson", EVENT_URL]
+    pathlib.Path("out/koota.txt").write_text("\n".join(lines) + "\n")
+    assert [url for url, _ in remote.fetch_remote_events()] == [EVENT_URL]

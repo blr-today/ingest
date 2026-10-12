@@ -102,3 +102,15 @@ def test_performance_categories(events, tmp_path):
     assert got["Film"]["@type"] == "ScreeningEvent"
     assert (got["Film"]["inLanguage"], got["Film"]["subtitleLanguage"]) == ("ta", "kn")
     assert got["Pic"]["image"] == "https://example.com/b.jpg"
+
+
+def test_language_is_the_first_spoken_one(events, tmp_path):
+    span = "DTSTART:20261020T120000Z\r\nDTEND:20261020T140000Z\r\n"
+    path = write_ics(
+        tmp_path,
+        span + "SUMMARY:A\r\nDESCRIPTION:Hindi with Tamil subtitles\r\n",
+        span + "SUMMARY:B\r\nDESCRIPTION:A Tamil play\\, adapted from Hindi\r\n",
+        span + "SUMMARY:C\r\nDESCRIPTION:With Kannada Subtitles\r\n",
+    )
+    got = {e["name"]: e["inLanguage"] for e in icalendar.convert_ics_to_events(path)}
+    assert got == {"A": "hi", "B": "ta", "C": "en"}
