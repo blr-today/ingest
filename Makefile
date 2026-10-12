@@ -271,20 +271,17 @@ fetch: out/allevents.txt \
 	@echo "Done"
 
 clean:
-	rm -f libsqlite.so
 	rm -rf out/*
 
 build: fetch
 	python -m src.build
 
-libsqlite.so:
-	.github/sqlite.sh
-
-post-build: libsqlite.so
+# post-build.sql uses ->>, which needs SQLite 3.38; uv's Python bundles a newer one
+post-build:
 	@echo "Running post-build steps"
 	python -m src.processors
-	LD_PRELOAD=./libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
-	LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+	python -c "import sqlite3; print(sqlite3.sqlite_version); assert sqlite3.sqlite_version_info >= (3, 38)"
+	python -m sqlite3 events.db < post-build.sql
 	python -m src.tagger
 	python -m src.dedup
 	python -m src.validator --output report.json

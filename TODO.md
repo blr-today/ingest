@@ -81,7 +81,7 @@ We have some data available or change notifications configured, but there needs 
 - [ ] [Claystation trainings](https://claystation.in/classes/)
 
 ## Testing
-- [ ] E2E pipeline test: fixture `out/` files through build, processors, `post-build.sql`, tagger and dedup into one SQLite DB, offline. Build `libsqlite.so` in CI for REGEXP, or skip when missing.
+- [ ] E2E pipeline test: fixture `out/` files through build, processors, `post-build.sql`, tagger and dedup into one SQLite DB, offline.
 
 ## Known Issues
 

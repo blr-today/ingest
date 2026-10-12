@@ -29,7 +29,7 @@ jobs:
     - name: Install Dependencies
       if: runner.environment == 'github-hosted'
       run: |
-        sudo apt-get update && sudo apt-get install --yes libnss3 nss-plugin-pem ca-certificates wget jq git build-essential unzip \
+        sudo apt-get update && sudo apt-get install --yes libnss3 nss-plugin-pem ca-certificates wget jq git \
         libatk1.0-0 libatk-bridge2.0-0 libcups2 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2 libatspi2.0-0
         
         sudo mkdir -p -m 755 /etc/apt/keyrings \
@@ -50,7 +50,7 @@ jobs:
       if: runner.environment == 'self-hosted'
       run: |
         missing=""
-        for tool in git gh jq wget unzip gcc curl; do
+        for tool in git gh jq wget curl; do
           command -v "$tool" > /dev/null || missing="$missing $tool"
         done
         if [ -n "$missing" ]; then
