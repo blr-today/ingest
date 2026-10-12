@@ -120,3 +120,9 @@ class TestFetch:
         assert cookie.name == 'test'
         assert cookie.value == 'cookie'
         assert cookie.port == None
+
+    def test_chrome_skips_caching_errors(self, chrome, httpbin):
+        url = httpbin.url + "/status/404"
+        res = chrome.request("GET", url=url)
+        assert res.status_code == 404
+        assert not chrome.cache.contains(url=url)

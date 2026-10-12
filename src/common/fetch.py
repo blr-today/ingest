@@ -1,3 +1,5 @@
+import logging
+
 from curl_cffi import requests as curl
 from requests_cache import CacheActions
 from requests_cache.models import (
@@ -12,6 +14,8 @@ from .response import CorrectResponse
 from io import BytesIO
 
 from .session import get_cached_session
+
+logger = logging.getLogger(__name__)
 
 
 class Fetch:
