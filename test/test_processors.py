@@ -1,5 +1,6 @@
 import importlib
 import json
+import logging
 import pkgutil
 import sqlite3
 from pathlib import Path
@@ -9,6 +10,7 @@ import pytest
 from src.processors import ignored_events, koota, lastcall, patch, registry, venues
 from src.processors.__main__ import process_events, should_process_url
 from src.processors.base import Processor
+from src.processors.cost import Cost
 from src.processors.highape import HighApe
 from src.processors.registry import PROCESSORS
 from src.processors.schemafixer import SchemaFixer
@@ -104,15 +106,42 @@ def test_ignored_events_are_deleted(build, monkeypatch):
     assert ROWS[0][0] not in events and ROWS[1][0] in events
 
 
-def test_bad_rows_are_skipped(build, caplog):
+def test_sparse_rows_and_batches(build, caplog):
+    caplog.set_level(logging.INFO)
     url, event = ROWS[1]
-    rows = [("https://x.in/nodate", '{"name": "x"}'), ("https://x.in/bad", "{oops")]
+    rows = [("https://x.in/nodate", '{"name": "x"}')]
     rows += [(f"{url}#{i}", json.dumps(event)) for i in range(21)]
     events = run(build, rows)
     assert json.loads(events["https://x.in/nodate"])["name"] == "x"
-    assert events["https://x.in/bad"] == "{oops"
     starts = [json.loads(e)["startDate"] for u, e in events.items() if "#" in u]
     assert starts == ["2026-10-11T14:00:00+05:30"] * 21
-    assert "Error processing event at URL https://x.in/bad" in caplog.text
     assert json.loads(events["https://x.in/nodate"])["@context"] == "https://schema.org"
-    assert "Error in processor" not in caplog.text
+    assert "Committed 20 modifications" in caplog.text
+    assert "Modified 22 events, dropped 0" in caplog.text
+
+
+def test_unexpected_errors_stop_the_run(build, monkeypatch):
+    def boom(url, event):
+        raise RuntimeError("boom")
+
+    monkeypatch.setattr(Cost, "process", boom)
+    with pytest.raises(RuntimeError, match="boom") as error:
+        run(build, [(u, json.dumps(e)) for u, e in ROWS])
+    assert error.value.__notes__ == [f"Processing failed for {ROWS[0][0]}"]
+
+
+def test_unreadable_rows_stop_the_run(build):
+    with pytest.raises(json.JSONDecodeError):
+        run(build, [("https://x.in/bad", "{oops")])
+
+
+def test_broken_config_stops_the_run(build):
+    Path("patch/highape.com.json").write_text("{oops")
+    with pytest.raises(json.JSONDecodeError):
+        run(build, [("https://highape.com/e", '{"name": "x"}')])
+
+
+def test_missing_venues_stop_the_run(build):
+    Path("patch/venues.json").unlink()
+    with pytest.raises(FileNotFoundError):
+        run(build, [("https://x.in/e", '{"location": {"name": "Somewhere"}}')])
