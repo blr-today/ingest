@@ -1,6 +1,6 @@
 import json
 from common.session import get_cached_session
-from datetime import datetime
+from datetime import datetime, timedelta
 import sys
 import csv
 
@@ -137,15 +137,15 @@ def parse_show_data(shows_per_day, shows, movie):
             language = reverse_lookup_lang(details["fid"])
             availability = sum(area["sAvail"] for area in details["areas"])
             if availability > 0:
+                start = datetime.strptime(details["showTime"], "%Y-%m-%dT%H:%M")
+                runtime = movie.get("runtime")
                 shows.append(
                     {
                         "theatreId": details["cid"],
-                        "startTime": datetime.strptime(
-                            details["showTime"], "%Y-%m-%dT%H:%M"
-                        ).isoformat(),
-                        "endTime": datetime.strptime(
-                            details["closeTime"], "%Y-%m-%dT%H:%M"
-                        ).isoformat(),
+                        "startTime": start.isoformat(),
+                        "endTime": (start + timedelta(minutes=runtime)).isoformat()
+                        if runtime
+                        else None,
                         "availableSeats": details["avail"],
                         "totalSeats": details["total"],
                         "screenName": details["audi"],
@@ -202,7 +202,7 @@ def fetch_cinemas(session):
         {
             "theatreId": cinema["id"],
             "name": cinema["name"],
-            "cityname": cinema["city"],
+            "cityName": cinema["city"],
             "address": cinema["address"],
             "latitude": cinema["lat"],
             "longitude": cinema["lon"],

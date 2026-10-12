@@ -1,5 +1,7 @@
+import datetime
 import json
 from pathlib import Path
+from types import SimpleNamespace
 
 import goethe
 from goethe import fetch_events, get_event_details, get_event_type, make_event
@@ -100,4 +102,26 @@ def test_fetch_events_drops_non_events(monkeypatch):
 
 def test_empty_calendar(monkeypatch):
     monkeypatch.setattr(goethe, "get_cached_session", lambda: session("empty.json"))
+    assert fetch_events() == []
+
+
+def test_end_time_from_listing():
+    assert make_event(session(), dict(item(), time_end_txt="8:20 PM"))["endDate"] == "2026-07-25T20:20:00"
+    assert make_event(session(), dict(item(), time_end_txt=""))["endDate"] == "2026-07-25T21:30:00"
+
+
+def test_empty_price_is_free():
+    assert make_event(session(), dict(item(), price=""))["isAccessibleForFree"] is True
+    assert make_event(session(), dict(item(), price=0))["isAccessibleForFree"] is True
+    assert "isAccessibleForFree" not in make_event(session(), dict(item(), price=None))
+
+
+def test_long_events_are_dropped(monkeypatch):
+    def timedelta(hours=0, days=0):
+        return datetime.timedelta(days=5 if hours else days)
+
+    week = SimpleNamespace(datetime=datetime.datetime, timedelta=timedelta)
+    monkeypatch.setattr(goethe, "datetime", week)
+    monkeypatch.setattr(goethe, "get_cached_session", session)
+    assert make_event(session(), item())["@type"] is None
     assert fetch_events() == []

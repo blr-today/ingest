@@ -21,8 +21,6 @@ LOCATIONS = [
         "https://cafe.bluetokaicoffee.com/jayanagar-bengaluru-34903/home",
         "Blue Tokai Coffee Roasters Jayanagar",
         r"\bjayanagar\b",
-        13.024729,
-        77.639929,
     ),
     (
         "https://cafe.bluetokaicoffee.com/armane-nagar-bengaluru-34815/home",
@@ -190,7 +188,8 @@ def guess_location(body_html):
         ):
             for location in LOCATIONS:
                 if re.search(location[2], line, re.IGNORECASE):
-                    return (location[0], location[1], location[3], location[4])
+                    lat, lng = location[3:5] or (None, None)
+                    return (location[0], location[1], lat, lng)
 
 
 def generate_event_object(product_json, variant, date, start_hour, end_hour):
@@ -226,13 +225,14 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
             "name": address,
             "url": location_url,
             "address": address + " Bengaluru",
-            "geo": {
-                "@type": "GeoCoordinates",
-                "latitude": lat,
-                "longitude": lng,
-            },
         },
     }
+    if lat is not None:
+        event["location"]["geo"] = {
+            "@type": "GeoCoordinates",
+            "latitude": lat,
+            "longitude": lng,
+        }
     return event
 
 
@@ -245,9 +245,11 @@ def main():
         product_json = fetch_product_json(slug)
         variant, date = find_bengaluru_variant(product_json)
         if variant and date:
-            (start_hour, end_hour) = extract_timing(
-                product_json["product"]["body_html"]
-            )
+            timing = extract_timing(product_json["product"]["body_html"])
+            if not timing:
+                print(f"[BLUETOKAI] Could not find timings: {link}")
+                continue
+            (start_hour, end_hour) = timing
             event = generate_event_object(
                 product_json, variant, date, start_hour, end_hour
             )

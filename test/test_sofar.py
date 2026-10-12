@@ -71,3 +71,13 @@ def test_graphql_request_asks_for_the_city(monkeypatch):
     assert sofar.make_graphql_request(sofar.query, "bangalore", sofar.url) == response()
     assert sent["body"]["variables"]["city"] == "bangalore"
     assert sent["impersonate"] == sofar.BROWSER_CODE
+
+
+def test_theme_and_venue_category_name_the_event():
+    raw = raw_event()
+    raw["eventThemes"] = [{"title": "Acoustic"}]
+    raw["venue"] = {"neighborhood": {"title": "Indiranagar"}, "venueName": None, "venueCategories": [{"name": "Rooftop"}]}
+    assert to_schema_org_music_event(raw)["name"] == "Acoustic Sofar concert at a Rooftop in Indiranagar"
+    raw["eventThemes"] = []
+    raw["venue"]["venueCategories"] = [{"name": "Other"}]
+    assert to_schema_org_music_event(raw)["name"] == "Sofar concert in Indiranagar"

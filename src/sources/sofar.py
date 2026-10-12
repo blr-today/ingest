@@ -17,8 +17,8 @@ def to_schema_org_music_event(event_info):
     # events are assumed to be 2 hours long
     endsAt = startsAt + datetime.timedelta(hours=2)
     try:
-        name = event_info["theme"]["title"] + " Sofar concert at a "
-    except:
+        name = event_info["eventThemes"][0]["title"] + " Sofar concert"
+    except (KeyError, IndexError, TypeError):
         name = "Sofar concert"
 
     categories = ""
@@ -29,8 +29,9 @@ def to_schema_org_music_event(event_info):
         )
     except TypeError:
         pass
-    if categories != "Other":
-        name += categories + " in "
+    if categories and categories != "Other":
+        name += " at a " + categories
+    name += " in "
     try:
         neighbourhood = event_info["venue"]["neighborhood"]["title"]
         name += event_info["venue"]["neighborhood"]["title"]

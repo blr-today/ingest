@@ -191,6 +191,8 @@ def find_location(soup):
         if address:
             break
 
+    if not address:
+        return location
     if address.lower() == "pedal in tandem" or "indiranagar" in address.lower():
         location["address"] = (
             "837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka"
@@ -239,8 +241,9 @@ def get_offers(soup):
             offer["price"] = price
             offers.append(offer)
 
-    if len(addOns) != 0:
-        offers.append(addOns)
+    for offer in offers:
+        if addOns:
+            offer["addOn"] = addOns
 
     return offers
 

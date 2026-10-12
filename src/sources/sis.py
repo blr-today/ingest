@@ -15,11 +15,11 @@ KNOWN_SPORTS = {
     "football": "Football",
     "basketball": "Basketball",
     "b'ball": "Basketball",
-    "run ": "Running",
+    "-run": "Running",
     "running": "Running",
     "baddy": "Badminton",
     "footy": "Football",
-    "padel": "Pickeball",
+    "padel": "Padel",
 }
 
 
@@ -165,7 +165,7 @@ def make_events(session, card):
     if image:
         base["image"] = BASE_URL + image
     if venue and address:
-        base["location"] = {"name": venue, "address": address, "type": "Place"}
+        base["location"] = {"name": venue, "address": address, "@type": "Place"}
 
     now = datetime.datetime.now(IST)
     horizon = now + FUTURE_WINDOW

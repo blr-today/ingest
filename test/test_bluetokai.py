@@ -88,6 +88,24 @@ def test_event_object():
     assert event["description"].startswith("Brew better at home.")
 
 
+def test_locations_without_coordinates_have_no_geo():
+    variant, _ = bluetokai.find_bengaluru_variant(product())
+    for place in ("Blue Tokai Coffee Roasters, NGEF Layout", "Blue Tokai Coffee Roasters, Jayanagar"):
+        event = bluetokai.generate_event_object(product(body=f"<p>{place}</p>"), variant, datetime(2026, 10, 18), 11, 13)
+        assert "geo" not in event["location"]
+        assert event["location"]["name"].startswith("Blue Tokai")
+
+
+def test_main_skips_products_without_timing(monkeypatch, tmp_path, capsys):
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "out").mkdir()
+    monkeypatch.setattr(bluetokai, "fetch_html", lambda: '<div location="Bengaluru"><a href="/products/pour-over">x</a></div>')
+    monkeypatch.setattr(bluetokai, "fetch_product_json", lambda slug: product(body="<p>Koramangala, Bengaluru</p>"))
+    bluetokai.main()
+    assert json.loads((tmp_path / "out" / "bluetokai.json").read_text()) == []
+    assert "Could not find timings" in capsys.readouterr().out
+
+
 def test_event_without_blr_location(capsys):
     variant, _ = bluetokai.find_bengaluru_variant(product())
     assert bluetokai.generate_event_object(product(body="<p>Pune</p>"), variant, datetime(2026, 10, 18), 11, 13) is None

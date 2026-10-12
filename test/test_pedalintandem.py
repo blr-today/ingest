@@ -92,10 +92,18 @@ def test_duration_in_hours():
 
 def test_offers_split_rides_from_rentals():
     offers = pedalintandem.get_offers(soup().select_one("div.cart-details"))
-    assert [(o["name"].strip(), o["price"]) for o in offers[:2]] == [
+    assert [(o["name"].strip(), o["price"]) for o in offers] == [
         ("l1 - beginner- 30 km (with b'fast)", "3150"),
         ("l2 - moderate - 50 km (with b'fast)", "3420"),
     ]
+    assert [(a["name"], a["price"]) for a in offers[0]["addOn"]] == [
+        ("rental bike (with transport)", "900"),
+        ("transport my bicycle", "400"),
+    ]
+
+
+def test_location_without_any_match_has_no_address():
+    assert pedalintandem.find_location(BeautifulSoup("<div></div>", "html.parser")) == {"@type": "Place"}
 
 
 def test_process_description():

@@ -101,3 +101,16 @@ def test_main_writes_events(monkeypatch, tmp_path):
 def test_date_without_time_is_rejected():
     with pytest.raises(ValueError):
         fetch_timings("Sat | Jun 29")
+
+
+def test_time_without_range_is_rejected():
+    with pytest.raises(ValueError):
+        fetch_timings("Sat | Jun 29 | 10 AM")
+
+
+def test_make_event_without_location():
+    page = "<div class='custom-field__date'>Sun | Sep 27 | 11 AM - 1 PM</div>"
+    session = SimpleNamespace(get=lambda url: SimpleNamespace(text=page))
+    event = make_event(products()[0], None, session)
+    assert event["name"] == "Summit Seekers"
+    assert "location" not in event

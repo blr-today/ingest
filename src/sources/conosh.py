@@ -28,6 +28,18 @@ def get_event_links():
     return event_links
 
 
+def nearest_year(month, day):
+    now = datetime.datetime.now(IST).replace(tzinfo=None)
+    month = datetime.datetime.strptime(month, "%b").month
+    candidates = []
+    for year in (now.year - 1, now.year, now.year + 1):
+        try:
+            candidates.append(datetime.datetime(year, month, day))
+        except ValueError:
+            continue
+    return min(candidates, key=lambda d: abs(d - now)).year
+
+
 def parse_event_page(event_url):
     """Parse individual event page and return FoodEvent objects"""
     session = get_cached_session()
@@ -90,9 +102,8 @@ def parse_event_page(event_url):
             r"(Aug|Sep|Oct|Nov|Dec|Jan|Feb|Mar|Apr|May|Jun|Jul)\s+(\d+)", item_text
         )
         if date_match:
-            date_str = (
-                f"{date_match.group(1)} {date_match.group(2)}, 2026"  # Assuming 2026
-            )
+            year = nearest_year(date_match.group(1), int(date_match.group(2)))
+            date_str = f"{date_match.group(1)} {date_match.group(2)}, {year}"
             if date_str not in date_groups:
                 date_groups[date_str] = []
 
@@ -152,7 +163,7 @@ def parse_event_page(event_url):
                     "address": venue,
                 }
 
-            if "bangalore" in venue.lower() or "bengaluru" in venue.lower():
+            if venue and ("bangalore" in venue.lower() or "bengaluru" in venue.lower()):
                 events.append(event)
             else:
                 logging.warning(f"Skipping event not in Bangalore: {event_url} - Venue: {venue}")

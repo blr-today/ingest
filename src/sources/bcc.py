@@ -29,6 +29,8 @@ def make_event(e):
     url = f"{BASE_URL}/events/{e['slug']}"
     venue = e.get("venue") or {}
     price = e.get("price_inr") or 0
+    address = venue.get("address") or ""
+    suffix = [x for x in ["Bengaluru", "India"] if x not in address]
     event = {
         "@context": "https://schema.org",
         "@type": "SocialEvent",
@@ -41,9 +43,7 @@ def make_event(e):
         "location": {
             "@type": "Place",
             "name": venue.get("name"),
-            "address": ", ".join(
-                x for x in [venue.get("address"), "Bengaluru", "India"] if x
-            ),
+            "address": ", ".join(filter(None, [address, *suffix])),
         },
         "isAccessibleForFree": price == 0,
         "offers": [

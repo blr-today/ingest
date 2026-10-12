@@ -73,7 +73,7 @@ def test_movies_group_languages_and_formats(movies):
 def test_cinemas():
     cinemas = ticketnew.fetch_cinemas(FakeSession())
     assert len(cinemas) == 3
-    assert {c["cityname"] for c in cinemas} == {"Bengaluru"}
+    assert {c["cityName"] for c in cinemas} == {"Bengaluru"}
     assert all(c["latitude"] and c["longitude"] for c in cinemas)
 
 
@@ -83,11 +83,19 @@ def test_parse_show_data(movies):
     ticketnew.parse_show_data(sessions, shows, movies["Kitti"])
     first = next(s for s in shows if s["theatreId"] == 52080)
     assert first["startTime"] == "2026-10-13T10:35:00"
+    assert first["endTime"] == "2026-10-13T12:34:00"
     assert first["format"] == "2D"
     assert first["language"] == "ta"
     assert first["screenName"] == "SCREEN 1"
     assert (first["availableSeats"], first["totalSeats"], first["availability"]) == (177, 179, 177)
     assert len(shows) == 3
+
+
+def test_end_time_is_left_out_without_runtime(movies):
+    shows = []
+    sessions = load("movie-36nydr19vse-2026-10-13")["pageData"]["sessions"]
+    ticketnew.parse_show_data(sessions, shows, dict(movies["Kitti"], runtime=None))
+    assert {s["endTime"] for s in shows} == {None}
 
 
 def test_full_shows_are_skipped(movies):
@@ -124,5 +132,6 @@ def test_main_writes_outputs(monkeypatch, tmp_path, capsys):
     assert len(json.loads((out / "movies.json").read_text())) == 3
     sessions = list(csv.DictReader((out / "sessions.csv").open()))
     assert {r["movieId"] for r in sessions} == {"231756"}
-    assert len(list(csv.DictReader((out / "cinemas.csv").open()))) == 3
+    cinemas = list(csv.DictReader((out / "cinemas.csv").open()))
+    assert [c["cityName"] for c in cinemas] == ["Bengaluru"] * 3
     assert "[TicketNew] 3 movies" in capsys.readouterr().out

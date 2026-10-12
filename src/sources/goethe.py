@@ -70,7 +70,7 @@ def make_event(session, event_dict):
     )
     startTime = datetime.datetime.strptime(startTimeText, "%Y-%m-%dT%I:%M %p")
 
-    if "time_end_txt" in event_dict and event_dict["time_end_txt"] == "":
+    if event_dict.get("time_end_txt"):
         endTime = event_dict["date_start_full"][0:10] + "T" + event_dict["time_end_txt"]
         endTime = datetime.datetime.strptime(endTime, "%Y-%m-%dT%I:%M %p")
     else:
@@ -99,14 +99,14 @@ def make_event(session, event_dict):
     if event_dict.get("price", None):
         details["offers"]["price"] = event_dict["price"]
         details["offers"]["priceCurrency"] = "INR"
-        if event_dict["price"] == "" or event_dict["price"] == 0:
-            details["isAccessibleForFree"] = True
+    elif event_dict.get("price", None) in ("", 0):
+        details["isAccessibleForFree"] = True
 
     # Too long events are typically courses or announcements
     # could also be installations, but need to investigate for them
     if (endTime - startTime).days > 3:
         print("[GOETHE] Long event dropped:", details["name"])
-        details["type"] = None
+        details["@type"] = None
 
     return details
 

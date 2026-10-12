@@ -98,6 +98,16 @@ def test_make_event_skips_unparseable_product(capsys):
     assert "Failed to parse timings" in capsys.readouterr().err
 
 
+def test_time_without_meridian_is_rejected():
+    with pytest.raises(ValueError, match="No AM/PM"):
+        thewhitebox.fetch_timings("Saturday - Oct 4 | 4-6 | Nolte India")
+
+
+def test_consecutive_past_events_are_all_dropped():
+    events = [{"startDate": f"{YEAR}-09-01T12:00:00+05:30"}, {"startDate": f"{YEAR}-09-02T12:00:00+05:30"}]
+    assert thewhitebox.filter_future_events(events) == []
+
+
 def test_filter_future_events_drops_past_and_none():
     events = [{"startDate": f"{YEAR}-09-27T12:00:00+05:30"}, None, {"startDate": f"{YEAR}-09-01T12:00:00+05:30"}]
     assert thewhitebox.filter_future_events(events) == [{"startDate": f"{YEAR}-09-27T12:00:00+05:30"}]

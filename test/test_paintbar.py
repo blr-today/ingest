@@ -4,6 +4,8 @@ import runpy
 from pathlib import Path
 from types import SimpleNamespace
 
+import pytest
+
 import common.session
 from common.shopify import Shopify
 from paintbar import COLLECTION, DOMAIN, fetch_timings, make_event, make_name, make_offers
@@ -60,3 +62,8 @@ def test_main_writes_events(monkeypatch, tmp_path):
     runpy.run_module("paintbar", run_name="__main__")
     [event] = json.loads((tmp_path / "out/paintbar.json").read_text())
     assert event["startDate"].endswith("T19:30:00+05:30")
+
+
+def test_time_without_range_is_rejected():
+    with pytest.raises(ValueError):
+        fetch_timings("Kids Workshop | 25 Oct | 4 pm")

@@ -29,6 +29,7 @@ def fetch_timings(date_str: str):
 
     event_date = list(datefinder.find_dates(date_part))[0]
 
+    l = None
     for splitter in ["to", "-"]:
         if splitter in time_part:
             l = [x.strip() for x in time_part.split(splitter)]

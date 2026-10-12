@@ -57,8 +57,8 @@ def guess_event_type(title):
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, endtime, description, url, product_urls):
     performer_regexes = [
-        r"/by (?P<name>(\w|\s)+)\s(\||:)/",
-        r"/with (?P<name>(\w|\s)+)\s(\||:)/",
+        r"\bby (?P<name>(\w|\s)+)\s(\||:)",
+        r"\bwith (?P<name>(\w|\s)+)\s(\||:)",
     ]
     performer = None
     for regex in performer_regexes:
@@ -81,7 +81,7 @@ def make_event(title, starttime, endtime, description, url, product_urls):
         "offers": [],
     }
 
-    for product_url in product_urls:
+    for product_url in dict.fromkeys(product_urls):
         handle = get_product_handle(product_url)
         if not handle:
             print(f"[CHAMPACA] Could not get handle for {product_url}")

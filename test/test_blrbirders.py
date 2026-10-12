@@ -72,3 +72,14 @@ def test_main_writes_events(monkeypatch, tmp_path):
     (tmp_path / "out").mkdir()
     runpy.run_module("src.sources.blrbirders", run_name="__main__")
     assert len(json.loads((tmp_path / "out/blrbirders.json").read_text())) == 3
+
+
+def test_unparseable_jsonld_is_skipped(monkeypatch, capsys):
+    monkeypatch.setattr(blrbirders, "fetcher", FakeFetch())
+    soup = BeautifulSoup((FIXTURES / "home.html").read_text(), "html.parser")
+    broken = soup.new_tag("script", type="application/ld+json")
+    broken.string = '{"@context": "http://schema.org",\n"@id": "event_broken"'
+    soup.find("script").insert_after(broken)
+    events = blrbirders.parse_bng_bird_events(soup)
+    assert [e["@id"] for e in events] == ["com.blrbirders:event_666_16", "com.blrbirders:event_739_1", "com.blrbirders:event_664_17"]
+    assert '"@id": "event_broken"' in capsys.readouterr().out

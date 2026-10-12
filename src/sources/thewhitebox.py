@@ -106,6 +106,8 @@ def fetch_timings(date_str: str):
     for time_str in l:
         # check if time_str contains AM or PM
         if not ("AM" in time_str or "PM" in time_str):
+            if not known_twelveness:
+                raise ValueError(f"No AM/PM in '{time_part}' from " + date_str)
             time_str += known_twelveness[0]
         found_times = list(datefinder.find_dates(time_str, base_date=event_date))
         if not found_times:
@@ -178,14 +180,7 @@ def filter_products(products):
 def filter_future_events(events):
     current_time = datetime.now().isoformat()
     
-    events = list(filter(lambda e: e is not None, events))
-
-    for event in events:
-        if event.get('startDate') < current_time:
-            events.remove(event)
-    # Remove None values
-
-    return events
+    return [e for e in events if e is not None and e["startDate"] >= current_time]
 
 
 if __name__ == "__main__":

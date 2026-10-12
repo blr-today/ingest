@@ -102,6 +102,7 @@ def create_recurring_events(base_event, start_dt, end_dt):
             event_copy["name"] = (
                 f"{event_copy['name']} - {current_date.strftime('%b %d')}"
             )
+            event_copy["url"] = f"{event_copy['url']}#{current_date}"
 
         events.append(event_copy)
         current_date += timedelta(days=1)

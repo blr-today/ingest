@@ -30,6 +30,7 @@ def parse_bng_bird_events(soup):
             event = json.loads(tag.string)
         except:
             print("[BLRBIRDERS] Failed to parse " + tag.string.split("\n")[1])
+            continue
         event['url'] = event['url'].split("/var/")[0]
 
         event["startDate"] = (

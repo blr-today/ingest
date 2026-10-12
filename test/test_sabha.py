@@ -96,6 +96,14 @@ def test_multi_day_event_splits_per_day():
     assert first["startDate"] == "2026-10-03T21:30:00+05:30"
     assert first["endDate"] == "2026-10-03T22:40:00+05:30"
     assert second["startDate"] == "2026-10-04T21:30:00+05:30"
+    assert first["url"] == "https://www.sabhablr.in/event-details/angels-egg#2026-10-03"
+    assert second["url"] == "https://www.sabhablr.in/event-details/angels-egg#2026-10-04"
+
+
+def test_fetch_events_keeps_every_day_of_multi_day_events():
+    names = [e["name"] for e in sabha.fetch_events()]
+    assert names.count("Angel's Egg - Oct 03") == 1
+    assert names.count("Angel's Egg - Oct 04") == 1
 
 
 def test_past_event_is_dropped():

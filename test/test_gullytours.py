@@ -48,7 +48,7 @@ def test_calendar_departures(monkeypatch):
     }
     [(url, params)] = session.calls
     assert url == "https://gullytours.vacationlabs.com/itineraries/trips/36715/departure_calendar.json"
-    assert params["end"] == "2026-11-11"
+    assert params == {"start": "2026-10-12", "end": "2026-11-11"}
 
 
 def test_calendar_without_departures():

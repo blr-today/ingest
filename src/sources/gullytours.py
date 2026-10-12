@@ -18,7 +18,7 @@ def get_description(session, url):
 
 
 def get_calendar(session, tour_id):
-    start_date = (datetime.now().strftime("%Y-%m-%d"),)
+    start_date = datetime.now().strftime("%Y-%m-%d")
     end_date = (datetime.now() + timedelta(days=30)).strftime("%Y-%m-%d")
     url = f"https://gullytours.vacationlabs.com/itineraries/trips/{tour_id}/departure_calendar.json"
 

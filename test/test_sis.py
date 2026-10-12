@@ -112,6 +112,7 @@ def test_location_needs_venue_and_address(cards, monkeypatch):
     assert event["sport"] == "Badminton"
     assert event["location"]["name"] == "Game Theory, Double Road, Indiranagar"
     assert event["location"]["address"] == "Indiranagar Double Road"
+    assert event["location"]["@type"] == "Place"
 
 
 def test_packages_and_virtual_sessions_are_skipped(cards):
@@ -124,4 +125,7 @@ def test_packages_and_virtual_sessions_are_skipped(cards):
 def test_guess_sport_from_slug():
     assert sis.guess_sport({"activityName": "$undefined"}, "Women-Bangalore-Frisbee") == "Frisbee"
     assert sis.guess_sport({}, "Women-Bangalore-Running-Club") == "Running"
+    assert sis.guess_sport({}, "Women-Bangalore-Run-Session") == "Running"
+    assert sis.guess_sport({}, "Sisters-Misters-Bangalore-Wework-OTC-Run") == "Running"
+    assert sis.guess_sport({}, "Women-Bangalore-Padel-Social") == "Padel"
     assert sis.guess_sport({}, "Women-Bangalore-Social") is None

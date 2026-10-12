@@ -65,6 +65,22 @@ def test_offers_are_grouped_by_date():
     assert first["offers"][0]["priceCurrency"] == "INR"
 
 
+def test_year_is_nearest_to_today(monkeypatch):
+    monkeypatch.setattr(conosh, "datetime", clock(2025, 8, 1))
+    assert conosh.parse_event_page(LISTING)[0]["startDate"] == "2025-08-08T19:30:00+05:30"
+    monkeypatch.setattr(conosh, "datetime", clock(2027, 7, 20))
+    assert conosh.parse_event_page(LISTING)[0]["startDate"] == "2027-08-08T19:30:00+05:30"
+    monkeypatch.setattr(conosh, "datetime", clock(2027, 1, 5))
+    assert conosh.nearest_year("Dec", 30) == 2026
+
+
+def test_missing_venue_is_not_a_date_error(caplog):
+    FakeSession.pages[LISTING] = (FIXTURES / "event.html").read_bytes().replace(b"Venue:", b"")
+    assert conosh.parse_event_page(LISTING) == []
+    assert "not in Bangalore" in caplog.text
+    assert "Failed to parse date" not in caplog.text
+
+
 def test_missing_page_returns_none():
     assert conosh.parse_event_page("https://conosh.com/pop-up/gone") is None
 

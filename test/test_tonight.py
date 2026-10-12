@@ -97,3 +97,13 @@ def test_main_writes_upcoming_parties(monkeypatch, tmp_path):
     tonight.main()
     events = json.loads((tmp_path / "out" / "tonight.json").read_text())
     assert [e["name"] for e in events] == ["Boiler Room Bangalore", "Sunburn Arena Ft. Alan Walker - Bengaluru"]
+
+
+def test_known_venues_get_coordinates():
+    kpop, _, sunburn = parties()
+    assert convert_to_event_json(kpop)["location"]["geo"] == {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9734662",
+        "longitude": "77.6204084",
+    }
+    assert "geo" not in convert_to_event_json(sunburn)["location"]

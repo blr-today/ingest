@@ -55,6 +55,13 @@ def test_make_event():
     assert "image" not in event
 
 
+def test_address_names_the_city_once():
+    assert make_event(DATA["events"][0])["location"]["address"] == (
+        "WTC Annexe, Dr Rajkumar Road, Malleswaram, Rajajinagar, Bengaluru, India"
+    )
+    assert make_event(DATA["events"][2])["location"]["address"].endswith("near Anjappar Chettinad Restaurant, Bengaluru, India")
+
+
 def test_make_event_sold_out_free_without_venue():
     e = dict(DATA["events"][0], venue=None, price_inr=None, is_available=False)
     event = make_event(e)

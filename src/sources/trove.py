@@ -30,6 +30,7 @@ def fetch_timings(date_str: str):
         print(f"Failed parsing {date_str}")
         raise ValueError("Could not find time in" + date_str)
     time_part = date_parts[2]
+    l = None
     for splitter in ["to", "-"]:
         if splitter in time_part:
             l = [x.strip() for x in time_part.split(splitter)]
@@ -94,7 +95,7 @@ def make_event(product, sp: Shopify, session):
         return None
     start_date, end_date = fetch_timings(date_str)
 
-    location_name, address = get_location(soup)
+    location_name, address = get_location(soup) or (None, None)
     subtitle = get_subtitle(soup)
 
     res = {

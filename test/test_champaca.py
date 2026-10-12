@@ -80,6 +80,21 @@ def test_make_event_strips_date_parts_and_defaults_end():
     assert event["offers"] == []
 
 
+def test_performer_from_title():
+    start = datetime.datetime(2026, 10, 10, 18, 0)
+    event = champaca.make_event("Haiku Workshop by K Ramesh | 18 July", start, None, "d", "u", [])
+    assert event["performer"] == {"@type": "Person", "name": "K Ramesh"}
+    event = champaca.make_event("Book Launch with Neha Saigal | Powering the Future", start, None, "d", "u", [])
+    assert event["performer"]["name"] == "Neha Saigal"
+    assert "performer" not in champaca.make_event("Hobby Club", start, None, "d", "u", [])
+
+
+def test_repeated_product_links_make_one_offer():
+    start = datetime.datetime(2026, 10, 10, 11, 0)
+    event = champaca.make_event("Brunch", start, None, "d", "u", [MEDU_VADA, MEDU_VADA])
+    assert event["offers"] == [{"@type": "Offer", "url": MEDU_VADA, "price": "1499", "priceCurrency": "INR"}]
+
+
 def test_non_ticket_products_are_not_offers(monkeypatch, capsys):
     monkeypatch.setattr(champaca, "get_product_details", lambda handle: ("499", "Books"))
     start = datetime.datetime(2026, 10, 10, 18, 0)
@@ -108,7 +123,7 @@ def test_fetch_events_from_feed(capsys):
     assert brunch["startDate"] == "2026-10-10T11:00:00+05:30"
     assert brunch["endDate"] == "2026-10-10T12:30:00+05:30"
     assert "Manvinder" in brunch["description"]
-    assert {(o["url"], o["price"]) for o in brunch["offers"]} == {(MEDU_VADA, "1499")}
+    assert [(o["url"], o["price"]) for o in brunch["offers"]] == [(MEDU_VADA, "1499")]
     assert "isAccessibleForFree" not in brunch
 
 
@@ -116,7 +131,7 @@ def test_free_event_is_marked_free():
     [event] = [e for e in champaca.fetch_events() if "Moving Line" in e["name"]]
     assert event["startDate"] == "2026-10-31T18:00:00+05:30"
     assert event["isAccessibleForFree"] is True
-    assert {o["price"] for o in event["offers"]} == {"0"}
+    assert [o["price"] for o in event["offers"]] == ["0"]
 
 
 def test_fetch_events_with_broken_feed(monkeypatch):

@@ -79,7 +79,7 @@ def convert_to_event_json(event):
     }
     e["sameAs"] = get_ticket_url(event)
     if lat != "0" and lng != "0":
-        e["location"]["geo"]: {
+        e["location"]["geo"] = {
             "@type": "GeoCoordinates",
             "latitude": lat,
             "longitude": lng,
