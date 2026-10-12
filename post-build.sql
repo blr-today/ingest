@@ -942,6 +942,9 @@ WHERE
   -- Chianti lists the same set dinner at each outlet
   OR lower(event_json ->> '$.organizer.name') = 'grateful bread hospitality private limited'
   OR event_json ->> '$.name' LIKE '%candlelight dinner%'
+  -- BLR Brewing Co. lists date-night set menus at each outlet
+  OR lower(event_json ->> '$.organizer.name') = 'blr restaurants private limited'
+  OR event_json ->> '$.name' LIKE '%table for 2%'
   OR event_json ->> '$.location.name' LIKE '%doubletree by hilton%'
   OR event_json ->> '$.location.name' LIKE '1882 restaurant%'
 ;
