@@ -14,21 +14,22 @@ logging.basicConfig(level=log_level)
 logger = logging.getLogger("SABHA")
 
 
+def rich_text(node):
+    """Concatenate all text within a rich content node"""
+    if "textData" in node:
+        return node["textData"]["text"]
+    return "".join(rich_text(child) for child in node.get("nodes", []))
+
+
 def extract_text_from_rich_content(nodes):
-    """Convert rich text content to plain text"""
-    if not nodes:
-        return ""
-
-    text_parts = []
-    for node in nodes:
-        if node.get("type") == "PARAGRAPH" and "nodes" in node:
-            for child_node in node["nodes"]:
-                if child_node.get("type") == "TEXT" and "textData" in child_node:
-                    text_parts.append(child_node["textData"]["text"])
-        elif node.get("type") == "TEXT" and "textData" in node:
-            text_parts.append(node["textData"]["text"])
-
-    return " ".join(text_parts).strip()
+    """Convert rich text content to plain text, one line per block"""
+    lines = []
+    for node in nodes or []:
+        if node.get("type") in ("BULLETED_LIST", "ORDERED_LIST"):
+            lines.extend(f"- {rich_text(item)}" for item in node.get("nodes", []))
+        else:
+            lines.append(rich_text(node))
+    return "\n".join(line.strip() for line in lines if line.strip())
 
 
 def parse_datetime(date_str, timezone=IST):
@@ -168,11 +169,9 @@ def transform_event(event, session):
         if "url" in main_image:
             base_event["image"] = main_image["url"]
 
-        # Get long description for non-external events
-        if not is_external:
-            long_desc = fetch_event_detail(slug, session)
-            if long_desc:
-                base_event["description"] = long_desc
+        long_desc = fetch_event_detail(slug, session)
+        if long_desc:
+            base_event["description"] = long_desc
 
         # Add registration info
         registration = event.get("registration", {})

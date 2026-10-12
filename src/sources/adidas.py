@@ -14,6 +14,13 @@ def _date(date_str):
     return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
 
 
+def _description(data):
+    lines = [data["description"].strip()]
+    if distance := data["meta"].get("distanceInM"):
+        lines.append(f"Distance: {distance / 1000:g} km")
+    return "\n".join(lines)
+
+
 def fetch_events():
     events = []
     url = f"{BASE_URL}/ar-api/gw/default/gw-api/v2/events/communities/{COMMUNITY_ID}?countryCodes={COUNTRY_CODE}"
@@ -25,10 +32,10 @@ def fetch_events():
         events.append(
             {
                 "name": "Adidas Runners " + data["title"],
-                "about": data["description"],
+                "description": _description(data),
                 "url": f"https://www.adidas.co.in/adidasrunners/events/event/{_id}",
                 "startDate": _date(data["eventStartDate"]),
-                "endDate": _date(data["eventStartDate"]),
+                "endDate": _date(data["eventEndDate"]),
                 "image": data["_links"]["img"]["href"],
                 "location": {
                     "@type": "Place",
