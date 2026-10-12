@@ -24,6 +24,11 @@ CURATORS = [
 ]
 RANKED = AGGREGATORS + CURATORS
 ALWAYS_MERGE = ["improv lore"]
+# One studio runs one class per slot, however many listings name it
+ONE_ROOM = ["new york dance"]
+GENERIC = {"a", "and", "at", "by", "for", "in", "the", "with", "dance", "dancing"}
+GENERIC |= {"workshop", "workshops", "beginner", "beginners", "class", "classes"}
+GENERIC |= {"nydc", "new", "york"}
 SOCIAL = [
     "instagram.com",
     "facebook.com",
@@ -71,12 +76,26 @@ def links(event):
     }
 
 
+def host(event):
+    return " ".join(
+        text_of(event, k) for k in ("name", "organizer", "location")
+    ).lower()
+
+
+def one_room(event):
+    return any(n in host(event) for n in ONE_ROOM)
+
+
+def styles(event):
+    return set(normalize(text_of(event, "name")).split()) - GENERIC
+
+
 def is_duplicate(a, b):
     if links(a) & links(b):
         return True
-    host = (text_of(a, "name") + text_of(a, "organizer")).lower()
-    other = (text_of(b, "name") + text_of(b, "organizer")).lower()
-    if any(n in host and n in other for n in ALWAYS_MERGE):
+    if any(n in host(a) and n in host(b) for n in ALWAYS_MERGE):
+        return True
+    if one_room(a) and one_room(b) and styles(a) & styles(b):
         return True
     x, y = sorted(
         [core_title(a.get("name", "")), core_title(b.get("name", ""))], key=len
@@ -199,6 +218,8 @@ def dedup(db_path="events.db"):
             start = datetime.fromisoformat(event["startDate"])
         except KeyError, TypeError, ValueError:
             continue
+        if one_room(event):
+            start = start.replace(minute=start.minute // 15 * 15, second=0)
         groups[start].append([rowid, url, event])
 
     removed = 0
@@ -211,7 +232,12 @@ def dedup(db_path="events.db"):
                 (
                     k
                     for k in kept
-                    if domain(k[1]) != domain(row[1]) and is_duplicate(k[2], row[2])
+                    if (
+                        domain(k[1]) != domain(row[1])
+                        or one_room(k[2])
+                        and one_room(row[2])
+                    )
+                    and is_duplicate(k[2], row[2])
                 ),
                 None,
             )
