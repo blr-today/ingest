@@ -1511,6 +1511,9 @@ SET
   )
 WHERE
   event_json -> '$.keywords' NOT LIKE '%NOTINBLR%'
+  -- Agrahara and the Hyderabad highway contain city names, so trust Bengaluru
+  AND event_json ->> '$.location' NOT LIKE '%bengaluru%'
+  AND event_json ->> '$.location' NOT LIKE '%bangalore%'
   AND (
     event_json ->> '$.location' LIKE '%Mumbai%'
     OR event_json ->> '$.location' LIKE '%Delhi%'
