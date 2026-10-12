@@ -1,5 +1,5 @@
 # Bump VERSION whenever a tag or question changes, so cached answers are asked again
-VERSION = 4
+VERSION = 5
 
 # tag: (parent, question asked of every event)
 TAGS = {
@@ -9,7 +9,7 @@ TAGS = {
     ),
     "PAINTING-SKETCHING": (
         "ART-CRAFT",
-        "At this event, do attendees paint, draw or sketch, including sip-and-paint, texture, fluid or canvas painting?",
+        "Is painting, drawing or sketching the main activity at this event, such as sip-and-paint or a canvas painting workshop?",
     ),
     "CALLIGRAPHY": (
         "ART-CRAFT",
@@ -36,14 +36,6 @@ TAGS = {
     "PERFUMERY": (
         "ART-CRAFT",
         "At this event, do attendees make perfume, soap or skincare products?",
-    ),
-    "TEXTILE-CRAFT": (
-        "ART-CRAFT",
-        "Is this event a textile craft such as crochet, knitting, embroidery, weaving, tufting, sewing, macrame or fabric dyeing?",
-    ),
-    "PAPER-CRAFT": (
-        "ART-CRAFT",
-        "Is this event a paper craft such as origami, bookbinding, zine making or collage?",
     ),
     "PLANTS": (
         "ART-CRAFT",
@@ -150,14 +142,6 @@ TAGS = {
         None,
         "At this event, do attendees solve jigsaws, crosswords, Rubik's cubes or other puzzles?",
     ),
-    "MYSTERY-GAME": (
-        None,
-        "Is this event a murder mystery, escape room or treasure hunt?",
-    ),
-    "PARTY-GAMES": (
-        None,
-        "At this event, do attendees play party games such as dumb charades, pictionary, icebreakers or couple games, rather than board games, card games or a quiz?",
-    ),
     "VIDEO-GAMES": (
         None,
         "Is this event about video games, esports or game development?",
@@ -227,7 +211,6 @@ TAGS = {
         None,
         "Is this event a wine, beer, whisky or cocktail tasting or mixology session?",
     ),
-    "TALK": (None, "Is this event a talk, lecture or panel discussion?"),
     "BOOK-CLUB": (None, "Is this event a book club or group reading session?"),
     "AUTHOR-EVENT": (
         None,
@@ -241,18 +224,9 @@ TAGS = {
         None,
         "Is the environment, sustainability, climate or conservation the main subject of this event?",
     ),
-    "ARCHITECTURE-CITY": (
-        None,
-        "Is architecture, urban planning or a Bangalore civic issue the main subject of this event?",
-    ),
-    "LANGUAGE": (None, "Is this event about learning or practising a language?"),
     "FILMMAKING": (
         None,
         "At this event, do attendees learn filmmaking, animation or video making?",
-    ),
-    "NETWORKING": (
-        None,
-        "Is this event mainly for professional networking or career growth?",
     ),
     "DATING-MIXER": (None, "Is this event a singles mixer or dating event?"),
     "STRANGERS-MEETUP": (
@@ -261,19 +235,6 @@ TAGS = {
     ),
     "PETS": (None, "Is this event about pets or animals, such as a puppy meetup?"),
     "MARKET": (None, "Is this event a flea market, bazaar, sale or pop-up market?"),
-    "FESTIVAL": (
-        None,
-        "Is this event a cultural or religious festival celebration, such as Onam, Durga Puja or Diwali?",
-    ),
-    "WELLBEING": (
-        None,
-        "Is mental health, meditation, self-development or emotional support the main subject of this event?",
-    ),
-    "SPIRITUAL": (None, "Is this event a religious or spiritual practice?"),
-    "VOLUNTEERING": (
-        None,
-        "At this event, do attendees volunteer or do community service?",
-    ),
     "KIDS": (
         None,
         "Is this event designed for children, rather than adults who may bring them along?",
@@ -284,21 +245,9 @@ TAGS = {
         None,
         "Is this event an experimental or multidisciplinary performance mixing movement, video, music or spoken word?",
     ),
-    "CONVERSATIONS": (
-        None,
-        "Is this event a discussion or listening circle where attendees talk with each other about a theme?",
-    ),
-    "OPEN-STUDIO": (
-        None,
-        "Is this event a drop-in session where attendees bring their own project or tasks to work on alongside others?",
-    ),
     "BUSINESS/SKILLS": (
         None,
         "Is this event about running a business, marketing, entrepreneurship, design thinking or personal finance?",
-    ),
-    "CULTURE-WORKSHOP": (
-        None,
-        "Is this event an interactive workshop exploring art, design, film or culture through looking, discussion or exercises, rather than making a craft object?",
     ),
     "COUPLES": (None, "Is this event designed for couples or dates?"),
     "EXPO": (
@@ -355,17 +304,9 @@ THRESHOLDS = {
     "COFFEE-TEA": 0.7,
     "DRINKS-TASTING": 0.35,
     "AUTHOR-EVENT": 0.9,
-    "ARCHITECTURE-CITY": 0.85,
     "PETS": 0.7,
-    "FESTIVAL": 0.75,
-    "WELLBEING": 0.7,
-    "SPIRITUAL": 0.7,
     "STRANGERS-MEETUP": 0.9,
-    "PARTY-GAMES": 0.75,
-    "CULTURE-WORKSHOP": 0.75,
     "PERFORMANCE-ART": 0.8,
-    "CONVERSATIONS": 0.7,
-    "OPEN-STUDIO": 0.7,
     "BUSINESS/SKILLS": 0.7,
     "COUPLES": 0.7,
     # Demoting tags hide events, so they need more certainty
