@@ -29,6 +29,8 @@ ONE_ROOM = ["new york dance"]
 GENERIC = {"a", "and", "at", "by", "for", "in", "the", "with", "dance", "dancing"}
 GENERIC |= {"workshop", "workshops", "beginner", "beginners", "class", "classes"}
 GENERIC |= {"nydc", "new", "york"}
+# Same list as the website's excludeTags, so hidden listings stay apart
+HIDDEN = {"BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"}
 SOCIAL = [
     "instagram.com",
     "facebook.com",
@@ -88,6 +90,45 @@ def one_room(event):
 
 def styles(event):
     return set(normalize(text_of(event, "name")).split()) - GENERIC
+
+
+def hidden(event):
+    k = event.get("keywords", [])
+    return bool(HIDDEN & set(k.split(",") if isinstance(k, str) else k))
+
+
+def same_session(a, b):
+    # Aggregators let one host list each activity of a session as its own event
+    if domain(a.get("url", "")) not in AGGREGATORS or hidden(a) != hidden(b):
+        return False
+    organizer = text_of(a, "organizer")
+    return bool(organizer) and organizer == text_of(b, "organizer") and same_place(a, b)
+
+
+def geo(event):
+    place = event.get("location")
+    point = place.get("geo") if isinstance(place, dict) else None
+    try:
+        return float(point["latitude"]), float(point["longitude"])
+    except KeyError, TypeError, ValueError:
+        return None
+
+
+def same_place(a, b):
+    venue = text_of(a, "location")
+    if venue and venue == text_of(b, "location"):
+        return True
+    # Listings name one venue in several ways, so close points match too
+    x, y = geo(a), geo(b)
+    return bool(x and y) and abs(x[0] - y[0]) < 6e-4 and abs(x[1] - y[1]) < 6e-4
+
+
+def name_session(event, names):
+    event["name"] = f"{names[0]} and {len(names) - 1} more"
+    choices = "Choose from: " + "; ".join(names) + "."
+    event["description"] = "\n\n".join(
+        filter(None, [choices, event.get("description")])
+    )
 
 
 def is_duplicate(a, b):
@@ -225,7 +266,7 @@ def dedup(db_path="events.db"):
     removed = 0
     for events in groups.values():
         events.sort(key=lambda e: (rank(e[1]), e[0]))
-        kept, merged = [], {}
+        kept, merged, sessions = [], {}, {}
         for row in events:
             # A site listing two events at one time means two different events
             match = next(
@@ -241,6 +282,20 @@ def dedup(db_path="events.db"):
                 ),
                 None,
             )
+            session = not match and next(
+                (
+                    k
+                    for k in kept
+                    if domain(k[1]) == domain(row[1]) and same_session(k[2], row[2])
+                ),
+                None,
+            )
+            if session:
+                names = sessions.setdefault(
+                    session[0], [session[2].get("name", "").strip()]
+                )
+                names.append(row[2].get("name", "").strip())
+                match = session
             if not match:
                 kept.append(row)
                 continue
@@ -249,6 +304,8 @@ def dedup(db_path="events.db"):
             conn.execute("DELETE FROM events WHERE rowid = ?", (row[0],))
             print(f"[DEDUP] {row[1]} -> {match[1]}")
             removed += 1
+        for rowid, names in sessions.items():
+            name_session(merged[rowid], names)
         # Curators point at the organiser's own page, a better main link
         for rowid, _, event in kept:
             if promote(event):

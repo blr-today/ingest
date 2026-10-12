@@ -1,4 +1,4 @@
-from src.dedup import is_duplicate
+from src.dedup import is_duplicate, name_session, same_session
 
 STUDIO = {"@type": "Place", "name": "New York dance classes"}
 
@@ -27,3 +27,40 @@ def test_other_venues_need_matching_titles():
         "location": {"name": "Hall"},
     }
     assert not is_duplicate(a, b)
+
+
+def listing(name, venue, lat, lng, keywords=()):
+    return {
+        "name": name,
+        "url": f"https://www.district.in/events/{name.lower().replace(' ', '-')}",
+        "organizer": {"name": "Getaway Technologies Private Limited"},
+        "location": {"name": venue, "geo": {"latitude": lat, "longitude": lng}},
+        "keywords": list(keywords),
+    }
+
+
+def test_one_host_session_merges_across_venue_names():
+    a = listing(
+        "Kintsugi Workshop in HSR Layout", "Tim Hortons India", 12.9120662, 77.6470938
+    )
+    b = listing("SIP and PAINT", "Tim Hortons | HSR, Bangalore", 12.9121, 77.647)
+    assert same_session(a, b)
+
+
+def test_session_needs_same_place_and_visibility():
+    a = listing("Sip and Clay", "URU - JP Nagar", 12.9057826, 77.6011616)
+    b = listing("Sip and Paint", "URU - Whitefield", 12.9613421, 77.7325235)
+    c = listing(
+        "Mafia Night", "URU - JP Nagar", 12.9057826, 77.6011616, ["LOW-QUALITY"]
+    )
+    assert not same_session(a, b)
+    assert not same_session(a, c)
+
+
+def test_session_name_lists_choices():
+    event = {"name": "Sip and Clay", "description": "Bring a friend."}
+    name_session(event, ["Sip and Clay", "Sip and Paint", "Kintsugi"])
+    assert event["name"] == "Sip and Clay and 2 more"
+    assert event["description"].startswith(
+        "Choose from: Sip and Clay; Sip and Paint; Kintsugi."
+    )
