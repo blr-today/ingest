@@ -1,0 +1,38 @@
+{
+ "data": {
+  "events": {
+   "events": [
+    {
+     "attendeeFlow": "buy",
+     "cancelled": false,
+     "endsAt": "2026-10-24T12:30:00Z",
+     "guestsArriveAt": "2026-10-24T10:00:00Z",
+     "id": 67871,
+     "isAppliable": true,
+     "isPublished": true,
+     "isPurchasable": true,
+     "isSoldOut": false,
+     "localStartsAt": "2026-10-24T16:00:00Z",
+     "onPresale": false,
+     "startsAt": "2026-10-24T10:30:00Z",
+     "remainingSpaces": 100,
+     "ticketPrice": 80000,
+     "bookingFee": 10400,
+     "imageUrl": "https://sofar-sounds-live.imgix.net/images/default-images/event-image-pool/outdoor/outdoor-event-image-20.jpg?ixlib=rails-4.3.1&fit=crop&crop=entropy&ar=1:1&auto=format&q=50",
+     "city": {
+      "title": "Bangalore",
+      "timezone": "Asia/Kolkata"
+     },
+     "isVenueConfirmed": true,
+     "neighborhood": null,
+     "venue": {
+      "neighborhood": null,
+      "venueName": null,
+      "venueCategories": []
+     },
+     "eventThemes": []
+    }
+   ]
+  }
+ }
+}
