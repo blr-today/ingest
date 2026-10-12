@@ -479,6 +479,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Listening Room",
+    "description": "20 people. 1 quiet room. No phones. A circle where people share the songs and the stories that stayed with them. \ud83e\udef6We\u2019re bringing you an intimate, deeply human, musical experience with real people, real stories, and real memories.\ud83d\udc8cbring that one song that arrived like a whisper, a serendipity. the kind that lingered long after the last note. that's the magic we're after.come as you are. bring a song, or just your presence. the rest will find you.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0155B7E20F644DBFBF52B2B6D69CD852_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CAB460EEF6F74450B0D469B94E2DD799_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/62973616021B440F9DC8FCFF7C6AA30D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/511D67D7FD8841C7805A2F05CAA6D32D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3476165835684A4D99FBD22E4CD9D37D_converted_webp.webp"
+    ],
+    "startDate": "2026-10-18T18:00:00+05:30",
+    "endDate": "2026-10-18T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "301, 14th main, 2nd floor, 15th Cross Rd, 5th Phase, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSiybFgVrjsRSW3pq1hAuiI",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9061517,
+        "longitude": 77.5920561
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 749.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Third Place",
+      "description": "you\u2019re invited. welcome to third place, where dinners spark real connections, experiences bring us closer, and evenings unfold beautifully, unscripted. just say \u201cyes\u201d and discover the people, places, and moments you were never supposed to miss. reserve your seat now & see where the night takes you.",
+      "url": "https://urbanaut.app/partner/thirdplace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5C7A4A87B53444F6919F70E35B75D833_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-listening-room",
+    "keywords": [
+      "Leisure",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The BWW Short Story Community",
     "description": "The BWW Short Fiction Community at Atta Galatta will discuss BloodchildBy Octavia E. ButlerBloodchild is a tense and thought-provoking science fiction story set on an alien planet where humanity lives in a delicate, symbiotic relationship with a species known as the T'Gatoi. The story explores complex themes of survival, power, intimacy, and sacrifice as young Gan faces the unsettling reality of what it truly means to bear life and ensure the mutual survival of both species.Read the text and come to the event.",
     "image": [
@@ -6142,49 +6192,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/documenteur",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Wild Pear Tree by Nuri Bilge Ceylan - TPCC",
-    "description": "All these small-minded, bigoted people like peas in a pod.Fresh out of university, a Turkish young man with literary aspirations returns to his home village and starts scraping together money to publish his book. While trying to reconnect with his old friends and environment; his uncertainty, existential struggle and his father\u2019s gambling addiction bring him grave difficulties.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A76AC889F461493F898340751461E02A_converted_webp.webp"
-    ],
-    "startDate": "2026-11-24T19:45:00+05:30",
-    "endDate": "2026-11-24T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 375.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/wild-pear-tree",
     "keywords": [
       "URBANAUT"
     ]
