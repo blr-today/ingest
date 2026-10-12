@@ -1,0 +1,107 @@
+{
+ "_embedded": {
+  "events": [
+   {
+    "id": 378534619,
+    "type": 8,
+    "slug": "speed-session-285",
+    "title": "Speed Session",
+    "meta": {
+     "tags": "Culture",
+     "distanceInM": 5000,
+     "preselectAllocation": "nearest",
+     "adidas_runners_locations": "adidas Store Indiranagar"
+    },
+    "theme": 0,
+    "winType": 0,
+    "description": "Speed Session\nLed by Anil, Sebani",
+    "publishedFromDate": "2026-09-29T08:39:25.000Z",
+    "eventStartDate": "2026-10-22T00:30:00.000Z",
+    "eventEndDate": "2026-10-22T02:30:00.000Z",
+    "favorite": false,
+    "category": "Run",
+    "reservation": {
+     "eventId": 378534619,
+     "status": -10
+    },
+    "inStore": false,
+    "hasEntryFee": false,
+    "_links": {
+     "self": {
+      "href": "/gw-api/v2/events/378534619"
+     },
+     "img": {
+      "href": "https://res.cloudinary.com/adidas-app/image/upload/c_limit,h_2532,q_auto:good,w_2532/v1/event-assets/ouhseub5xfei2hw36yc7.jpeg?_a=BAMAK+hM0"
+     }
+    }
+   },
+   {
+    "id": 942360340,
+    "type": 8,
+    "slug": "fartlek-run-and-stretching-4",
+    "title": "Fartlek Run and Stretching",
+    "meta": {
+     "tags": "Culture",
+     "distanceInM": 10000,
+     "preselectAllocation": "nearest",
+     "adidas_runners_locations": "HSR Agara Lake - Gate no. 3"
+    },
+    "theme": 0,
+    "winType": 0,
+    "description": "Fartlek Run and Stretching\nLed by Mamta, Vikas",
+    "publishedFromDate": "2026-09-29T07:52:02.000Z",
+    "eventStartDate": "2026-10-17T00:30:00.000Z",
+    "eventEndDate": "2026-10-17T02:30:00.000Z",
+    "favorite": false,
+    "category": "Run",
+    "reservation": {
+     "eventId": 942360340,
+     "status": -10
+    },
+    "inStore": false,
+    "hasEntryFee": false,
+    "_links": {
+     "self": {
+      "href": "/gw-api/v2/events/942360340"
+     },
+     "img": {
+      "href": "https://res.cloudinary.com/adidas-app/image/upload/c_limit,h_2532,q_auto:good,w_2532/v1/event-assets/wxxagdpww2xvjizmoyvx.jpeg?_a=BAMAK+hM0"
+     }
+    }
+   },
+   {
+    "id": 1030453162,
+    "type": 8,
+    "slug": "dance-fitness-cult-indiranagar-1",
+    "title": "Dance fitness @ Cult Indiranagar",
+    "meta": {
+     "tags": "Beginner",
+     "preselectAllocation": "nearest",
+     "adidas_runners_locations": "Cultfit Indiranagar"
+    },
+    "theme": 0,
+    "winType": 0,
+    "description": "Dance fitness @ Cult Indiranagar",
+    "publishedFromDate": "2026-09-29T15:40:29.000Z",
+    "eventStartDate": "2026-10-17T01:15:00.000Z",
+    "eventEndDate": "2026-10-17T02:30:00.000Z",
+    "favorite": false,
+    "category": "Workout",
+    "reservation": {
+     "eventId": 1030453162,
+     "status": -10
+    },
+    "inStore": false,
+    "hasEntryFee": false,
+    "_links": {
+     "self": {
+      "href": "/gw-api/v2/events/1030453162"
+     },
+     "img": {
+      "href": "https://res.cloudinary.com/adidas-app/image/upload/c_limit,h_2532,q_auto:good,w_2532/v1/event-assets/cfrr0dpduzfg9agihavh.jpeg?_a=BAMAK+hM0"
+     }
+    }
+   }
+  ]
+ }
+}
