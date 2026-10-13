@@ -70,6 +70,6 @@ def make_event(session, url):
     return event
 
 
-def events(group):
+def events_for(group):
     session = get_cached_session()
     return [e for e in (make_event(session, url) for url in event_urls(session, group)) if e]

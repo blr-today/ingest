@@ -1,5 +1,5 @@
-from .meetup import events as _events
+from .meetup import events_for
 
 
 def events():
-    return _events("hsrmeetups")
+    return events_for("hsrmeetups")

@@ -1,5 +1,5 @@
-from .eventbrite import events as _events
+from .eventbrite import events_for
 
 
 def events():
-    return _events("pumarun")
+    return events_for("pumarun")

@@ -9,5 +9,5 @@ def urls(key):
     return eventbrite.EB(organizer_id).fetch_links()
 
 
-def events(key):
+def events_for(key):
     return events_from_urls(sorted(urls(key)))
