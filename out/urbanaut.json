@@ -1125,22 +1125,24 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Pan-Asian Cooking Workshop",
-    "description": "*Beginner friendly**Gourment Lunch Included*Join us to explore the flavors of Asia in this dynamic, interactive demo workshop by Chef Natasha Celmi. Journey across Thailand, Japan, Vietnam and more and learn about signature ingredients, techniques, and traditions. The recipes are designed to be approachable and easy to recreate, making them ideal for everyday meals or relaxed home entertaining.You will cook as a group while the chef demonstrates various dishes, talking about variations, secret tips. You also get to cook along and practice your skills practically.Enjoy a delicious lunch of the gourmet spread that is cooked.MENU :Burmese Khao Suey (Veg/Chicken)Vietnamese rice paper rollsKung Pao tofuHomemade sriracha sauceThai SaladHomemade Chilli Oil",
+    "@type": "FoodEvent",
+    "name": "Italian Fresh Pasta & Tiramisu Workshop",
+    "description": "*Vegetarian and Beginner friendly**Suitable for teens as well**Dinner included*Italian Pasta and Tiramisu Workshop with Chef Natasha CelmiJoin us for an immersive, engaging hands-on Italian cooking experience where you'll prepare every dish under the guidance of Chef Natasha Celmi. Learn the art of making pillowy Gnocchi, fresh tossed salad, and a classic, creamy Tiramisu takeaway before enjoying your meal together.Menu:Hand-rolled Gnocchi PastaChef's Signature TiramisuPerfect for beginners, food enthusiasts, couples, friends, and anyone who loves cooking and wants to learn authentic Italian recipes in a fun, hands-on setting.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/10E598F8EE2F4D4DA3BACFFADAB8A7FB_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6402C34CFBF04A1C9CDDD2EE914E93A4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/52F556616A0F40F98BB8E18809A8C5FF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9F0FC8796E054B0EB38F65A2173E1057_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C4BFA2F04D274EC783CE6601DEA11658_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/26278271B2A7435F88925EC94E33D1D4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/540A83D52D654AE491D5FB82F5C094D5_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D309E6395C3245FCA237FBB5DF76B74C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F7285F04A30B41F9BC3F4EB2138A56A0_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/324D77B68D9241FFA68A685F6AF65920_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E478C52933444DFFBE518278DD6F955A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6C225F4FBF4B4666ACD2FD4C5DD487C7_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/AAEC14CEB7E0499AB960645BA0B0B80F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/80DBA14BBE504D068D7DCDA44BC3C71B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B5CA6B53257143F697EE9C04875EACD5_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BDB673107493485CB8BE7B39AD3337D0_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/EA63764094BA4B748E00943267764D33_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/770B2B75B30E4476AE822D251C9B95A3_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3E767BA678CD467AB2D0BC43834CBE35_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BE38B248A08746BEBBBD158912A432AB_converted_webp.webp"
     ],
-    "startDate": "2026-10-13T11:30:00+05:30",
-    "endDate": "2026-10-13T14:00:00+05:30",
+    "startDate": "2026-10-17T17:00:00+05:30",
+    "endDate": "2026-10-17T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -1154,8 +1156,8 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
-    "typicalAgeRange": "5+",
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
       "price": 2500.0,
@@ -1169,11 +1171,11 @@
       "url": "https://urbanaut.app/partner/canellastudio",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/panasianworkshop",
+    "url": "https://urbanaut.app/spot/pastatiramisu",
     "keywords": [
       "Leisure",
-      "Premium",
       "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1722,7 +1724,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 2000.0,
+      "price": 1900.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1768,7 +1770,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 2000.0,
+      "price": 1900.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -3088,186 +3090,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Mover's Lab",
-    "description": "The Mover's LabMovement, Performance & Improvisation. A three-week contemporary movement module, part of Angala Abhyasa.When: Every Wednesday & Thursday, 14 October to 29 October 2026Batches: 7 to 9 am (Beginners) & 10 am to 12 pm (Beginners to Intermediate)Showcase: Sunday, 1st November 2026Led by: Siddhartha KusumaLimited Seats at Introductory Prices! Register Now!Three weeks. One room. Learning to move, respond and practice together.The Movement Lab is a three-week contemporary movement module at Angala, built around contemporary dance, physical theatre and movement improvisation. It treats the body as a tool for expression, connection and performance, whatever your starting point. It's also the first cohort under Angala Abhyasa, our home for term-based practice.Who should join?Dancers, actors, theatre practitioners, physical performers and movement/dance enthusiasts.What the three weeks hold?You'll work with contemporary dance technique, movement practice, improvisation and physical theatre. Week by week, you'll build physical awareness, coordination, presence, strength, rhythm and a real sense of space.You'll learn tools for generating movement and responding to impulse. You'll practice working with space, and with each other. And slowly, what starts as individual movement work turns into shared performance material, built together as an ensemble.Two batches, pick what fits7:00 to 9:00 am\tBeginners, no prior movement experience needed10:00 am to 12:00 pm\tBeginners to Intermediate, for those with some movement or dance backgroundAges - 15+ yrsBoth batches meet every Wednesday & Thursday, 14 October through 29 October 2026.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C4833DBA04224E14B94F321BB8A50CF8_converted_webp.webp"
-    ],
-    "startDate": "2026-10-14T07:00:00+05:30",
-    "endDate": "2026-10-14T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 6000.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-movers-lab#2026-10-14T0700",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Mover's Lab",
-    "description": "The Mover's LabMovement, Performance & Improvisation. A three-week contemporary movement module, part of Angala Abhyasa.When: Every Wednesday & Thursday, 14 October to 29 October 2026Batches: 7 to 9 am (Beginners) & 10 am to 12 pm (Beginners to Intermediate)Showcase: Sunday, 1st November 2026Led by: Siddhartha KusumaLimited Seats at Introductory Prices! Register Now!Three weeks. One room. Learning to move, respond and practice together.The Movement Lab is a three-week contemporary movement module at Angala, built around contemporary dance, physical theatre and movement improvisation. It treats the body as a tool for expression, connection and performance, whatever your starting point. It's also the first cohort under Angala Abhyasa, our home for term-based practice.Who should join?Dancers, actors, theatre practitioners, physical performers and movement/dance enthusiasts.What the three weeks hold?You'll work with contemporary dance technique, movement practice, improvisation and physical theatre. Week by week, you'll build physical awareness, coordination, presence, strength, rhythm and a real sense of space.You'll learn tools for generating movement and responding to impulse. You'll practice working with space, and with each other. And slowly, what starts as individual movement work turns into shared performance material, built together as an ensemble.Two batches, pick what fits7:00 to 9:00 am\tBeginners, no prior movement experience needed10:00 am to 12:00 pm\tBeginners to Intermediate, for those with some movement or dance backgroundAges - 15+ yrsBoth batches meet every Wednesday & Thursday, 14 October through 29 October 2026.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C4833DBA04224E14B94F321BB8A50CF8_converted_webp.webp"
-    ],
-    "startDate": "2026-10-14T10:00:00+05:30",
-    "endDate": "2026-10-14T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 6000.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-movers-lab#2026-10-14T1000",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Mover's Lab",
-    "description": "The Mover's LabMovement, Performance & Improvisation. A three-week contemporary movement module, part of Angala Abhyasa.When: Every Wednesday & Thursday, 14 October to 29 October 2026Batches: 7 to 9 am (Beginners) & 10 am to 12 pm (Beginners to Intermediate)Showcase: Sunday, 1st November 2026Led by: Siddhartha KusumaLimited Seats at Introductory Prices! Register Now!Three weeks. One room. Learning to move, respond and practice together.The Movement Lab is a three-week contemporary movement module at Angala, built around contemporary dance, physical theatre and movement improvisation. It treats the body as a tool for expression, connection and performance, whatever your starting point. It's also the first cohort under Angala Abhyasa, our home for term-based practice.Who should join?Dancers, actors, theatre practitioners, physical performers and movement/dance enthusiasts.What the three weeks hold?You'll work with contemporary dance technique, movement practice, improvisation and physical theatre. Week by week, you'll build physical awareness, coordination, presence, strength, rhythm and a real sense of space.You'll learn tools for generating movement and responding to impulse. You'll practice working with space, and with each other. And slowly, what starts as individual movement work turns into shared performance material, built together as an ensemble.Two batches, pick what fits7:00 to 9:00 am\tBeginners, no prior movement experience needed10:00 am to 12:00 pm\tBeginners to Intermediate, for those with some movement or dance backgroundAges - 15+ yrsBoth batches meet every Wednesday & Thursday, 14 October through 29 October 2026.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C4833DBA04224E14B94F321BB8A50CF8_converted_webp.webp"
-    ],
-    "startDate": "2026-10-29T07:00:00+05:30",
-    "endDate": "2026-10-29T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 6000.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-movers-lab#2026-10-29T0700",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Mover's Lab",
-    "description": "The Mover's LabMovement, Performance & Improvisation. A three-week contemporary movement module, part of Angala Abhyasa.When: Every Wednesday & Thursday, 14 October to 29 October 2026Batches: 7 to 9 am (Beginners) & 10 am to 12 pm (Beginners to Intermediate)Showcase: Sunday, 1st November 2026Led by: Siddhartha KusumaLimited Seats at Introductory Prices! Register Now!Three weeks. One room. Learning to move, respond and practice together.The Movement Lab is a three-week contemporary movement module at Angala, built around contemporary dance, physical theatre and movement improvisation. It treats the body as a tool for expression, connection and performance, whatever your starting point. It's also the first cohort under Angala Abhyasa, our home for term-based practice.Who should join?Dancers, actors, theatre practitioners, physical performers and movement/dance enthusiasts.What the three weeks hold?You'll work with contemporary dance technique, movement practice, improvisation and physical theatre. Week by week, you'll build physical awareness, coordination, presence, strength, rhythm and a real sense of space.You'll learn tools for generating movement and responding to impulse. You'll practice working with space, and with each other. And slowly, what starts as individual movement work turns into shared performance material, built together as an ensemble.Two batches, pick what fits7:00 to 9:00 am\tBeginners, no prior movement experience needed10:00 am to 12:00 pm\tBeginners to Intermediate, for those with some movement or dance backgroundAges - 15+ yrsBoth batches meet every Wednesday & Thursday, 14 October through 29 October 2026.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C4833DBA04224E14B94F321BB8A50CF8_converted_webp.webp"
-    ],
-    "startDate": "2026-10-29T10:00:00+05:30",
-    "endDate": "2026-10-29T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 6000.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-movers-lab#2026-10-29T1000",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Holige Habba",
     "description": "Come celebrate the rich flavors and timeless traditions of Karnataka with Holige Habba \u2013 A Davangere Style Oota! \u2728Get ready for a delicious feast inspired by the authentic flavors of Davangere, where every dish brings a taste of home, tradition, and togetherness. The star of the celebration is the beloved Holige, served alongside a spread of flavorful Karnataka-style delicacies.\u2728Our Festive Menu:Bele HoligeBili HoligeHeere + Menasinkayi PalyaBadnekayi PalyaKaarada ChutneyKosambari ChitrannaAnnaHolige SaaruMosaruHapla SandigeMenasinkayi BajjiIruli HatthikayiUpinkayi, Chutney PudiMajjigeOnde Oota, Ondu Sambhrama! \ud83c\udf38",
@@ -4022,7 +3844,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Deep Dive into Design Thinking",
-    "description": "Design thinking is a human-centered, iterative approach to problem-solving that balances user desirability, technological feasibility, and business viability. It shifts the focus from building products to deeply understanding real user needs, utilizing five core phases: Empathize, Define, Ideate, Prototype, and Test. This interactive session is designed for anyone interested in understanding and applying the powerful principles of Design Thinking. Whether you are an entrepreneur, a student, a professional, or simply curious about fostering innovation this workshop will equip you with practical tools and insights.What you will gain:1. A comprehensive understanding of the Design Thinking process2. View real life examples3. The ability to tackle challenges with a user centric approach4. Hands on experience working on case studies5. Networking opportunities with like minded individualsTakeaways:1. Design Thinking Workbook2. Certificate of Participation3. Choice to join our exclusive Design Thinking WhatsApp communityFacilitator: Vishal Mimani, Partner & Chief Design Officer, Primate AdvisoryThe location is 5 minutes walk from the Indiranagar Metro Station. The venue has 2 & 4 (valet) wheeler parkingNote: The workshop is conducted in small groups and registrations depend on participant sign-ups",
+    "description": "Design thinking is a human-centered, iterative approach to problem-solving that balances user desirability, technological feasibility, and business viability. It shifts the focus from building products to deeply understanding real user needs, utilizing five core phases: Empathize, Define, Ideate, Prototype, and Test. This interactive session is designed for anyone interested in understanding and applying the powerful principles of Design Thinking. Whether you are an entrepreneur, a student, a professional, or simply curious about fostering innovation this workshop will equip you with practical tools and insights.What you will gain:1. A comprehensive understanding of the Design Thinking process2. View real life examples3. The ability to tackle challenges with a user centric approach4. Hands on experience working on case studies5. Networking opportunities with like minded individualsTakeaways:1. The Design Thinker's Handbook2. Certificate of Participation3. Choice to join our exclusive Design Thinking WhatsApp communityFacilitator: Vishal Mimani, Partner & Chief Design Officer, Primate AdvisoryThe location is 5 minutes walk from the Indiranagar Metro Station. The venue has 2 & 4 (valet) wheeler parkingNote: The workshop is conducted in small groups and registrations depend on participant sign-ups",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/CBC1FF430F5540ADBB108C710E6E649C_converted_webp.webp"
     ],
@@ -4066,7 +3888,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Deep Dive into Design Thinking",
-    "description": "Design thinking is a human-centered, iterative approach to problem-solving that balances user desirability, technological feasibility, and business viability. It shifts the focus from building products to deeply understanding real user needs, utilizing five core phases: Empathize, Define, Ideate, Prototype, and Test. This interactive session is designed for anyone interested in understanding and applying the powerful principles of Design Thinking. Whether you are an entrepreneur, a student, a professional, or simply curious about fostering innovation this workshop will equip you with practical tools and insights.What you will gain:1. A comprehensive understanding of the Design Thinking process2. View real life examples3. The ability to tackle challenges with a user centric approach4. Hands on experience working on case studies5. Networking opportunities with like minded individualsTakeaways:1. Design Thinking Workbook2. Certificate of Participation3. Choice to join our exclusive Design Thinking WhatsApp communityFacilitator: Vishal Mimani, Partner & Chief Design Officer, Primate AdvisoryThe location is 5 minutes walk from the Indiranagar Metro Station. The venue has 2 & 4 (valet) wheeler parkingNote: The workshop is conducted in small groups and registrations depend on participant sign-ups",
+    "description": "Design thinking is a human-centered, iterative approach to problem-solving that balances user desirability, technological feasibility, and business viability. It shifts the focus from building products to deeply understanding real user needs, utilizing five core phases: Empathize, Define, Ideate, Prototype, and Test. This interactive session is designed for anyone interested in understanding and applying the powerful principles of Design Thinking. Whether you are an entrepreneur, a student, a professional, or simply curious about fostering innovation this workshop will equip you with practical tools and insights.What you will gain:1. A comprehensive understanding of the Design Thinking process2. View real life examples3. The ability to tackle challenges with a user centric approach4. Hands on experience working on case studies5. Networking opportunities with like minded individualsTakeaways:1. The Design Thinker's Handbook2. Certificate of Participation3. Choice to join our exclusive Design Thinking WhatsApp communityFacilitator: Vishal Mimani, Partner & Chief Design Officer, Primate AdvisoryThe location is 5 minutes walk from the Indiranagar Metro Station. The venue has 2 & 4 (valet) wheeler parkingNote: The workshop is conducted in small groups and registrations depend on participant sign-ups",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/CBC1FF430F5540ADBB108C710E6E649C_converted_webp.webp"
     ],
@@ -4731,9 +4553,8 @@
     "name": "Brush Pen Calligraphy Workshop",
     "description": "Ever wanted to try calligraphy but didn\u2019t know where to begin?Join us for a calm, colourful and hands-on brush pen calligraphy experience where you\u2019ll learn everything from the very basics and gradually build your way towards creating your own piece of artwork.Whether you\u2019ve never held a brush pen before or simply want to explore calligraphy in a relaxed setting, no prior experience is required. We\u2019ll take it step by step, with plenty of guidance along the way.All you need to do is show up, slow down, and enjoy creating. \u2661What to expect\u2726 Start from the basics \u2014 understand the brush pen, strokes, pressure and letter formation.\u2726 Learn step by step \u2014 practise at your own pace with guided exercises and worksheets.\u2726 Create with high-quality materials \u2014 all the materials you need for the workshop are provided, including your calligraphy kit.\u2726 Make your own take-home piece \u2014 put everything you\u2019ve learnt together and create something you can take home with you.\u2726 Post-workshop guidance \u2014 have questions after the workshop or want to continue practising? You can reach out to me for guidance related to your calligraphy journey.Meet your instructorJerrlin Shiny \u2014 Calligraphy Instructor & ArtistWith a Diploma in Calligraphy and 6 years of experience teaching calligraphy, Jerrlin\u2019s approach is centred around making the learning process approachable, enjoyable and pressure-free.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3029B5EC1EBB4343992E4F3AB8F845C9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0CF126784C4C4AAC97DC85E4CF0E25EA_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9C0E71051CA64C39810668A347674706_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/DB3CBB585A86476ABCF69276E042CBB5_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7D8C035CFE8045F9B66BBAE167859632_converted_webp.webp"
     ],
     "startDate": "2026-10-24T11:00:00+05:30",
     "endDate": "2026-10-24T14:00:00+05:30",
@@ -4754,7 +4575,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 1499.0,
+      "price": 1199.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -5050,50 +4871,6 @@
     "url": "https://urbanaut.app/spot/moneymatters#2026-10-21T1600",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Understanding Transitions",
-    "description": "Midlife can bring change across many parts of our lives work, relationships, identity, health, priorities, and how we imagine the future. But not everything needs to change.This conversation invites us to pause and look more closely at our transitions: What is changing? What is staying steady? And how do we navigate the space between the two?Together, we will explore how to make sense of transitions in midlife, distinguish between changes we can influence and those we need to respond to, and find greater clarity about what we want to carry forward and what we might want to leave behind.Join us for a thoughtful, open conversation about understanding your own transitions and finding your way forward.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/96A15C5CBF0941658754C5EFB62DC14E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-13T18:00:00+05:30",
-    "endDate": "2026-10-13T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9628957,
-        "longitude": 77.57754
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 299.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zuva Life",
-      "description": "Zuva Life offers spaces for people in midlife to pause, reflect, and think through what comes next. Our workshops and small group experiences are designed for those navigating shifts in work, identity, and direction, combining reflection with a thoughtful approach to what comes next.",
-      "url": "https://urbanaut.app/partner/zuvalife",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/transitions-in-midlife",
-    "keywords": [
-      "Virtual",
       "URBANAUT"
     ]
   },
@@ -5465,7 +5242,7 @@
     "name": "Bhajan Clubbing for Kids!",
     "description": "BHAJAN CLUBBING FOR KIDS \ud83c\udfb6\u2728\ud83d\udc76\ud83d\udc67Have your child become besties with gods and goddesses!From the OG Superhero, Hanuman; to the young boy whose focus shocked Vishnu!\u00a0Hear amazing stories and sing along awesome songs!Welcome to this interactive concert for kids, filled with lot of wisdom and laughter!\ud83c\udfa4 Singer: AnaghaAnagha Karvir is a full-time musician, breath-work and meditation coach, trained Kathak dancer, and founder of the band Ana & Co.\u00a0She has performed at over 1,000 concerts, creating magic with music. She has the unique ability to make people feel comfortable enough to participate, connect, and let their guard down, whether at a concert, workshop, or bhajan jam!\ud83d\udcd6 Story Teller: PriyaPriya Mani is the creator of The Little Shloka Book Series (now in over 50,000 homes worldwide), a breath-work coach with The Art of Living Foundation, and founder of Little Desi ~ creating products and experiences to make ancient Indian wisdom, fun, beautiful, and relatable.\u00a0She tells stories that may remind you of your grandma and her super power is making world-class rasam!\ud83d\udc76\ud83c\udffc For Ages 3 - 12years\ud83d\uddd3 Sunday, 15th November\u23f0 4pm - 5pm\ud83d\udccd Hobby Ghar, Seshadripuram",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/26688C76D7B74960B4A7D83DCB8C1A60_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1C2F744562D8430AB6AF864E457A723B_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/507A4F1E643B46388C3C5DEF12715C20_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/D720F17865D541BA8FA31E0CED613045_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/53313973A34D44A2B2B34F4C9067C928_converted_webp.webp",
@@ -6165,6 +5942,92 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/documenteur",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Wild Pear Tree by Nuri Bilge Ceylan - TPCC",
+    "description": "All these small-minded, bigoted people like peas in a pod.Fresh out of university, a Turkish young man with literary aspirations returns to his home village and starts scraping together money to publish his book. While trying to reconnect with his old friends and environment; his uncertainty, existential struggle and his father\u2019s gambling addiction bring him grave difficulties.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A76AC889F461493F898340751461E02A_converted_webp.webp"
+    ],
+    "startDate": "2026-11-24T19:45:00+05:30",
+    "endDate": "2026-11-24T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/wild-pear-tree",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Viva l\u2019Italia! by Roberto Rossellini - TPCC",
+    "description": "The film shows how Italy\u2019s historic national hero Giuseppe Garibaldi (embodied by Renzo Ricci) leads a military campaign known as Expedition of the Thousand in 1860 and conquers Sicily and Naples. When the Bourbon monarchy has left Southern Italy, he supports Victor Emmanuel II of Italy who achieves a lasting unification under the aegis the House of Savoy. Roberto Rossellini has said he was prouder of this film than of any other film he ever made.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/32FAED26C09F4B7C8C5BFBD563F32CB5_converted_webp.webp"
+    ],
+    "startDate": "2026-11-26T19:45:00+05:30",
+    "endDate": "2026-11-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9967759,
+        "longitude": 77.6198683
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film\u2014come discover cinema together!",
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/viva-italia",
     "keywords": [
       "URBANAUT"
     ]

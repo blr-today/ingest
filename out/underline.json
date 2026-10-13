@@ -299,7 +299,46 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Bangalore Puzzle Pals with Playful Pursuits",
-      "offers": null,
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 299,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-19T13:00:00.000Z",
+               "name": "Early Bird",
+               "price": 299,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-26T07:36:17.449Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-19T13:00:00.000Z",
+               "name": "Regular Ticket",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-26T07:36:17.449Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-19T17:00:00.000Z",
+               "name": "Walk-In",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+               "validFrom": "2026-03-26T07:36:17.449Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets"
+      },
       "sameAs": [
          "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
       ],
@@ -310,7 +349,7 @@
       "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "PowerPoint Roulette is a fast-paced, creative show where improvisers deliver presentations from slides they’ve never seen before. Each performer is faced with slides filled with bizarre graphs, meaningless acronyms, and unexpected themes. With no time to prepare, they must improvise convincing explanations, facts, stories, and insights on the spot.\n\nSerious business pitches, heartfelt eulogies, hard-hitting TED talks, and fanciful conspiracy theories - prepare yourselves for a night ‘official’ fun! The audience gets to join the revelry by asking questions, creating a truly unpredictable night of improvised theatrics.\n\nWho are Improv Lore?\n\nWe are a Bangalore-based community-theatre troupe, working towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
-      "endDate": "2026-10-18T21:00:00.000+05:30",
+      "endDate": "2026-10-18T21:30:00.000+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "image": "https://underline.center/uploads/default/original/1X/64d316292748e8193d66e253876dce132a9d9f32.jpeg",
@@ -339,30 +378,11 @@
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "PowerPoint Roulette by Improv Lore",
-      "offers": {
-         "@type": "AggregateOffer",
-         "highPrice": 399,
-         "lowPrice": 399,
-         "offerCount": 1,
-         "offers": [
-            {
-               "@type": "Offer",
-               "availability": "http://schema.org/InStock",
-               "availabilityEnds": "2026-10-18T15:30:00.000Z",
-               "name": "Regular Ticket",
-               "price": 399,
-               "priceCurrency": "INR",
-               "url": "https://www.district.in/events/powerpoint-roulette-by-improv-lore-may1-2026-buy-tickets",
-               "validFrom": "2026-04-23T11:49:23.047Z"
-            }
-         ],
-         "priceCurrency": "INR",
-         "url": "https://www.district.in/events/powerpoint-roulette-by-improv-lore-may1-2026-buy-tickets"
-      },
+      "offers": null,
       "sameAs": [
          "https://district.in/powerpoint-roulette-by-improv-lore-may1-2026/event"
       ],
-      "startDate": "2026-10-18T19:00:00.000+05:30",
+      "startDate": "2026-10-18T19:30:00.000+05:30",
       "url": "https://underline.center/t/powerpoint-roulette-by-improv-lore/186"
    },
    {
@@ -512,6 +532,86 @@
       ],
       "startDate": "2026-10-17T18:00:00.000+05:30",
       "url": "https://underline.center/t/weekend-games-with-reroll-board-games/549"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "This is a community meetup for \nMagic: The Gathering\n, one of the world’s most popular card games. If you are curious about game and don’t know where to start, or are already a player looking to find others to play with in-person, this is for you!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group \n.",
+      "endDate": "2026-10-17T23:00:00.000+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "image": "https://underline.center/uploads/default/original/1X/648ccd6cad9b66fb9632156ffc8ee2c320af975c.jpeg",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Magic: The Gathering with ReRoll Board Games",
+      "offers": {
+         "@type": "AggregateOffer",
+         "highPrice": 399,
+         "lowPrice": 349,
+         "offerCount": 3,
+         "offers": [
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-17T12:30:00.000Z",
+               "name": " Early Bird - Casual Play",
+               "price": 349,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T11:16:25.614Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-17T17:30:00.000Z",
+               "name": " Regular Ticket - Casual Play",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T11:16:25.614Z"
+            },
+            {
+               "@type": "Offer",
+               "availability": "http://schema.org/InStock",
+               "availabilityEnds": "2026-10-17T17:30:00.000Z",
+               "name": "Register - Standard Tournament",
+               "price": 399,
+               "priceCurrency": "INR",
+               "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+               "validFrom": "2026-03-26T11:16:25.614Z"
+            }
+         ],
+         "priceCurrency": "INR",
+         "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets"
+      },
+      "sameAs": [
+         "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
+         "https://magic.wizards.com/en/intro"
+      ],
+      "startDate": "2026-10-17T18:00:00.000+05:30",
+      "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
    },
    {
       "@context": "https://schema.org",
@@ -764,7 +864,7 @@
          "offers": [
             {
                "@type": "Offer",
-               "availability": "http://schema.org/InStock",
+               "availability": "http://schema.org/SoldOut",
                "availabilityEnds": "2026-10-16T15:30:00.000Z",
                "name": "Early Bird",
                "price": 199,
@@ -998,46 +1098,5 @@
       ],
       "startDate": "2026-10-14T19:00:00.000+05:30",
       "url": "https://underline.center/t/after-hours-with-eleven-am-club/583"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "This is a community meetup for \nMagic: The Gathering\n, one of the world’s most popular card games. If you are curious about game and don’t know where to start, or are already a player looking to find others to play with in-person, this is for you!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group \n.",
-      "endDate": "2026-10-10T23:00:00.000+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "image": "https://underline.center/uploads/default/original/1X/648ccd6cad9b66fb9632156ffc8ee2c320af975c.jpeg",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Magic: The Gathering with ReRoll Board Games",
-      "offers": null,
-      "sameAs": [
-         "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
-         "https://magic.wizards.com/en/intro"
-      ],
-      "startDate": "2026-10-10T18:00:00.000+05:30",
-      "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
    }
 ]
