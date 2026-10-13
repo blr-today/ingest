@@ -2,8 +2,7 @@ import sys
 import curl_cffi
 import requests
 from src.common import USER_AGENT_HEADERS
-from src.common.jsonld import JsonLdExtractor
-from src.common.remote import find_event
+from src.common.remote import page_event
 from src.common.session import get_cached_session
 
 URL = "https://www.district.in/gw/web/get_discovery_results"
@@ -75,20 +74,6 @@ def event_data(node):
             yield from event_data(value)
 
 
-def page_event(session, url):
-    try:
-        r = session.get(url, headers=USER_AGENT_HEADERS, timeout=30)
-        data = JsonLdExtractor().extract(r.text)
-    except Exception as e:
-        log("failed", url, e)
-        return None
-    event = None
-    for x in data:
-        if x.get("@graph"):
-            event = event or find_event(x["@graph"])
-    return event or find_event(data)
-
-
 def events():
     slugs = set()
     for response in pages(requests.Session()):
@@ -102,7 +87,6 @@ def events():
         url = f"https://district.in/{slug}/event"
         event = page_event(session, url)
         if event:
-            event.setdefault("url", url)
             found.append(event)
     log(len(found), "pages had event data")
     return found

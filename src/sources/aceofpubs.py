@@ -4,8 +4,7 @@ import json
 import re
 
 from ..common import USER_AGENT_HEADERS
-from ..common.jsonld import JsonLdExtractor
-from ..common.remote import find_event
+from ..common.remote import page_event
 from ..common.session import get_cached_session
 
 SITEMAP = "https://aceofpubs.com/wp-sitemap-posts-mep_events-1.xml"
@@ -19,13 +18,6 @@ ORGANIZER = {
 def event_urls(session):
     xml = session.get(SITEMAP, headers=USER_AGENT_HEADERS, timeout=30).text
     return re.findall(r"<loc>([^<]+)</loc>", xml)
-
-
-def page_event(session, url):
-    r = session.get(url, headers=USER_AGENT_HEADERS, timeout=30)
-    data = JsonLdExtractor().extract(r.text)
-    graphs = [find_event(x["@graph"]) for x in data if x.get("@graph")]
-    return next(filter(None, graphs), None) or find_event(data)
 
 
 def clean(event, url):

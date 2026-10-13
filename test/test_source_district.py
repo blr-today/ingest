@@ -105,4 +105,4 @@ def test_page_without_event_or_unreachable(capsys):
     session = FakeSession(pages={IMPROV: (FIXTURES / "whimsical-wednesday.html").read_text()})
     assert district.page_event(session, IMPROV) is None
     assert district.page_event(session, WORKSHOP) is None
-    assert f"[DISTRICT] failed {WORKSHOP}" in capsys.readouterr().err
+    assert f"Error fetching {WORKSHOP}: {WORKSHOP}" in capsys.readouterr().out
