@@ -3,7 +3,7 @@
     "@type": "Event",
     "name": "Beer Baron at Watson's Bangalore",
     "url": "https://puttingscene.com/events/J8GZJF",
-    "description": "A month-long leaderboard challenge to find out who can drink the most beers at Watson\u2019s. Running from 7th - 31st October.\n\nTrack your spot on the leaderboard, see who\u2019s leading the race and compete to become the city\u2019s Beer Baron.\n\nThe Prizes :\n\nCity Winner: Free beers for one month, from 1\u201330 November 2026, at any Watson\u2019s outlet in Bangalore.\n\nOutlet Winner: Free beers for one week at their winning Watson\u2019s outlet.",
+    "description": "A month-long leaderboard challenge to find out who can drink the most beers at Watson’s. Running from 7th - 31st October.\n\nTrack your spot on the leaderboard, see who’s leading the race and compete to become the city’s Beer Baron.\n\nThe Prizes :\n\nCity Winner: Free beers for one month, from 1–30 November 2026, at any Watson’s outlet in Bangalore.\n\nOutlet Winner: Free beers for one week at their winning Watson’s outlet.",
     "image": "https://cdn.puttingscene.com/base/image/qK7ZziTOQP2BaOk7FPrHmg.jpg",
     "location": {
       "name": "Watson's Ulsoor, Indiranagar and Vasanth Nagar",
@@ -17,6 +17,31 @@
     "startDate": "2026-10-08T12:00:00+05:30",
     "endDate": "2026-10-31T01:00:00+05:30",
     "maximumAttendeeCapacity": 5000,
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Swarantar – A Mosaic of Melodies",
+    "url": "https://puttingscene.com/events/5TW12M",
+    "description": "This concert explores twin ragas that differ by only a single swara, yet inhabit entirely different emotional worlds despite their near-identical scales. Presented side by side, the ragas reveal how one altered note reshapes melodic movement, how characteristic phrases diverge, and how the smallest shift in pitch can change a raga’s entire temperament.\n\nRagas, the concert suggests, are not merely scales but living personalities. The comparative listening invites the audience into the mindset of composer and performer alike, showcasing the subtle moments where two melodic lines converge before parting to chart their own paths: a quiet reminder of the poetry hidden in what might otherwise pass unnoticed.\n\nSupported by:",
+    "image": "https://cdn.puttingscene.com/base/image/aksndRKYRhGcZ9IJP8gUng.jpg",
+    "location": {
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, 7, 4th Main Rd, 2 Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://maps.app.goo.gl/zoQXeWrppsEjyNA78",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.966694,
+        "longitude": 77.63542369999999
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BIC (Bangalore International Centre) Organization"
+    },
+    "startDate": "2026-10-14T19:00:00+05:30",
+    "endDate": "2026-10-14T20:30:00+05:30",
+    "maximumAttendeeCapacity": 100,
     "isAccessibleForFree": true
   },
   {
@@ -48,20 +73,53 @@
         "name": "General",
         "price": "300.00",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 9
+        "availability": "https://schema.org/SoldOut"
       }
     ]
   },
   {
     "@type": "Event",
-    "name": "\ud83d\udcac THURSTALK #01: THE NEUROSCIENCE OF WHY MUSIC MOVES US",
+    "name": "Pint of View Lecture Over Drinks: The Brain’s GPS—What can AI learn from the brain?",
+    "url": "https://puttingscene.com/events/T37HIS",
+    "description": "Welcome to Pint of View – Bangalore's first-ever community for lectures over drinks.\n\nEvery week, we bring together curious minds to learn about everything from space exploration and evolutionary biology to public policy, history, and culture, all in the relaxed setting of a neighbourhood pub.\n\n**About the lecture**\n\nYour brain does things that today's AI still can't. You learn new things without forgetting the old, you can pick up a new idea from a handful of examples (not millions), and you do it all on about the power of a dim lightbulb.\n\nHow?\n\nIn this talk, Sarthak will zoom in on one small, seahorse-shaped region deep in the brain, the hippocampus, home of memory and your inner sense of direction. Along the way, we'll meet grid cells: neurons that fire in beautiful hexagonal patterns as you move through space, and that may act like a built-in clothesline on which the brain hangs all its memories. We'll see why a memory system built this way can store far more, fades gracefully rather than crashing, and may even explains that maddening tip-of-the-tongue feeling, where you know you know something but can't quite recall it.\n\nWe'll also ask where this tidy organization comes from. It turns out that smooth, gradual variations across the brain can spontaneously sort themselves into distinct, specialized modules, with no outside designer required, unlike the way engineers hand-build structure into AI today.\n\nJoin us for a look at how the brain stores and organizes memories, and what that might mean for building smarter machines.\n\n**About the Speaker**\n\nDr. Sarthak Chandra’s research sits at the intersection of physics and neuroscience, focusing on understanding how structure and function emerge together in neural circuits. He uses a variety of theoretical and computational tools drawn from nonlinear dynamics, neuroscience and machine learning to understand how artificial and biological neural networks organize themselves as they learn to compute.\n\nSarthak did his undergraduate degree in Physics from IIT Kanpur, and his PhD in Physics from the University of Maryland, College Park. After his PhD, he decided to switch fields and move into neuroscience, joining the Brain and Cognitive Science department at MIT first as a postdoctoral researcher, and then as a Research Scientist. In 2025 he moved back to India, where he is now a Murty Science Fellow, a faculty member at the ICTS-TIFR, and faculty associate at the National Centre for Biological Sciences (NCBS).\n\n**Event Details**\n\n- Wednesday, 14 October | 7 pm to 9 pm\n- The Porcupine, 100 ft road, Indiranagar\n\n**What your ticket includes**\n\n- 1 complimentary beer or a mocktail\n\n**What to Expect:**\n\n- A 60-minute lecture\n- 30 minutes of interactive Q&A\n- Social mixer and personal Q&As with the lecturer\n\n**About Pint of View**\n\nInspired by the successful Lectures on Tap community in the U.S., Pint of View brings this format to India for the first time. It’s where big ideas meet bar tables, and where you enjoy a drink in hand, walking out with a new way of seeing the world.",
+    "image": "https://cdn.puttingscene.com/base/image/XzpKfnBDQLGtQUZErLCp3Q.jpg",
+    "location": {
+      "name": "The Porcupine",
+      "address": "The Porcupine, Binnamangala, 838/A, 100 Feet Rd, First Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://maps.google.com/?cid=11321563020654669183",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9802391,
+        "longitude": 77.64094109999999
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint Of View Organization"
+    },
+    "startDate": "2026-10-14T19:00:00+05:30",
+    "endDate": "2026-10-14T21:00:00+05:30",
+    "maximumAttendeeCapacity": 30,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1099.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 24
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "💬 THURSTALK #01: THE NEUROSCIENCE OF WHY MUSIC MOVES US",
     "url": "https://puttingscene.com/events/3VOR1B",
-    "description": "Why does one song give us goosebumps, while another takes us straight back to a moment we thought we had forgotten?\n\nFor the inaugural edition of **The Salon**, **Culture Story \u00d7 Alliance Fran\u00e7aise de Bangalore** invites you into a **fascinating conversation where music meets the mind**.\n\nJoin **Dr Shantala Hegde**\u2014Professor and Consultant Clinical Neuropsychologist at NIMHANS, and trained Hindustani classical vocalist\u2014as she unpacks the powerful links between music, memory, emotion and the brain.\n\nModerated by **Vipasha Devi Tilak**, Founder of Culture-Story, this intimate evening begins with a **40-minute presentation** and continues with **20 minutes of audience Q&A** and conversation.",
+    "description": "Why does one song give us goosebumps, while another takes us straight back to a moment we thought we had forgotten?\n\nFor the inaugural edition of **The Salon**, **Culture Story × Alliance Française de Bangalore** invites you into a **fascinating conversation where music meets the mind**.\n\nJoin **Dr Shantala Hegde**—Professor and Consultant Clinical Neuropsychologist at NIMHANS, and trained Hindustani classical vocalist—as she unpacks the powerful links between music, memory, emotion and the brain.\n\nModerated by **Vipasha Devi Tilak**, Founder of Culture-Story, this intimate evening begins with a **40-minute presentation** and continues with **20 minutes of audience Q&A** and conversation.",
     "image": "https://cdn.puttingscene.com/base/image/2hgX04jYQheBL5VEWcWHUw.jpg",
     "location": {
-      "name": "Alliance Fran\u00e7aise de Bangalore",
-      "address": "Alliance Fran\u00e7aise de Bangalore, Thimmaiah Rd, opposite UNI, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+      "name": "Alliance Française de Bangalore",
+      "address": "Alliance Française de Bangalore, Thimmaiah Rd, opposite UNI, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
       "url": "https://maps.google.com/?cid=6255587168832917299",
       "geo": {
         "@type": "GeoCoordinates",
@@ -71,7 +129,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Alliance Fran\u00e7aise of Bangalore Organization"
+      "name": "Alliance Française of Bangalore Organization"
     },
     "startDate": "2026-10-15T18:30:00+05:30",
     "endDate": "2026-10-15T20:00:00+05:30",
@@ -82,7 +140,7 @@
     "@type": "Event",
     "name": "Shadow Puppet Performances by Herlambang Bayu Aji",
     "url": "https://puttingscene.com/events/S2XM7F",
-    "description": "Join us for a shadow puppet performance by Herlambang Bayu Aji, an artist-in-residence at the Archives at NCBS, in collaboration with the Goethe-Institut Bangalore as part of its bangaloREsidency programme.\n\n**The Flying Inge**\n\n10th October, 2026\n\n4:00pm - 5:00pm\n\nHaapus - LH1, NCBS\n\nGerdi and Fratz live in a burrow underground and don\u2019t dare go up because Gerdi and Fratz are unique. Then they meet Inge the hedgehog and as their friendship grows, so does Gerdi and Fratz\u2019s confidence.\n\nLanguages: Bahasa, German\n\nwith English subtitles\n\nDuration: 40 mins\n\n**Finding the Tigress**\n\n16th October, 2026\n\n5:00pm - 6:30pm\n\nHaapus - LH1, NCBS\n\nThe spirits of an extinct Javanese tigress and a Javanese leopard seek the Indian tigress to learn how it has survived in the Indian forest. How does their number continue to increase while many other animals are endangered to extinct? Is it for real or it is just an utopia? During their way, they see also encounter other Indian animals.\n\nLanguages: English, Bahasa\n\nDuration: 30 mins\n\nNo registrations required. Free and open for all.",
+    "description": "Join us for a shadow puppet performance by Herlambang Bayu Aji, an artist-in-residence at the Archives at NCBS, in collaboration with the Goethe-Institut Bangalore as part of its bangaloREsidency programme.\n\n**The Flying Inge**\n\n10th October, 2026\n\n4:00pm - 5:00pm\n\nHaapus - LH1, NCBS\n\nGerdi and Fratz live in a burrow underground and don’t dare go up because Gerdi and Fratz are unique. Then they meet Inge the hedgehog and as their friendship grows, so does Gerdi and Fratz’s confidence.\n\nLanguages: Bahasa, German\n\nwith English subtitles\n\nDuration: 40 mins\n\n**Finding the Tigress**\n\n16th October, 2026\n\n5:00pm - 6:30pm\n\nHaapus - LH1, NCBS\n\nThe spirits of an extinct Javanese tigress and a Javanese leopard seek the Indian tigress to learn how it has survived in the Indian forest. How does their number continue to increase while many other animals are endangered to extinct? Is it for real or it is just an utopia? During their way, they see also encounter other Indian animals.\n\nLanguages: English, Bahasa\n\nDuration: 30 mins\n\nNo registrations required. Free and open for all.",
     "image": "https://cdn.puttingscene.com/base/image/wFkQndP0R3-44c6f4Aspfg.jpg",
     "location": {
       "name": "Archives at NCBS",
@@ -107,7 +165,7 @@
     "@type": "Event",
     "name": "DIY Stickers - with Sitalakshmi the Vinyl Cutter",
     "url": "https://puttingscene.com/events/QSDSKQ",
-    "description": "DIY Stickers with Vinyl Cutter\n\nAlways wanted to make your own range of stickers! Join our vinyl customization workshop! You\u2019ll design your own sticker, cut it out using our vinyl cutter, and take the stickers home with you. All you need to bring is your creativity and your laptop.\n\nWhat You\u2019ll Do:\n\n\\* Make a custom design\n\n\\* Use a vinyl cutter to turn your design into a custom sticker\n\n\\* Get the final stickers!\n\n-Ages 14 and above.\n\n-Please bring your own Laptops (Mac/Windows/Linux is okay). In case you don't have access to a laptop, we can provide you one.\n\n-Contact 9845620061 for further details",
+    "description": "DIY Stickers with Vinyl Cutter\n\nAlways wanted to make your own range of stickers! Join our vinyl customization workshop! You’ll design your own sticker, cut it out using our vinyl cutter, and take the stickers home with you. All you need to bring is your creativity and your laptop.\n\nWhat You’ll Do:\n\n\\* Make a custom design\n\n\\* Use a vinyl cutter to turn your design into a custom sticker\n\n\\* Get the final stickers!\n\n-Ages 14 and above.\n\n-Please bring your own Laptops (Mac/Windows/Linux is okay). In case you don't have access to a laptop, we can provide you one.\n\n-Contact 9845620061 for further details",
     "image": "https://cdn.puttingscene.com/base/image/JSeNwKn-QOySVXYuAjAnPA.jpg",
     "location": {
       "name": "Paper Crane Lab",
@@ -141,7 +199,7 @@
     "@type": "Event",
     "name": "Fossil Hunting Expedition - Ariyalur Cretaceous Coast",
     "url": "https://puttingscene.com/events/AZMZAH",
-    "description": "**Around 70\u2013100 million years ago, South India\u2019s coastline ran through what is now Ariyalur, Tamil Nadu. A warm, shallow sea covered the land, home to ammonites, sea snails, oysters, sea urchins and sharks. When these animals died, they sank into the seabed and were buried in mud and lime. Over millions of years, these layers hardened into rock, while the sea retreated and the seabed became land.**\n\n**Today, monsoon rains expose fossils across Ariyalur\u2019s gullies and ravines, making it one of India\u2019s richest fossil regions. The area has also yielded dinosaur bones and eggs.**\n\nAbove Zenith\u2019s first fossil hunting expedition. Over one weekend, you will hunt for fossils at two sites with geologists and paleontologists, learn how to identify and record what you find, and take your finds home.\n\n**What you might find:**\n\n**Ammonites, Belemnites, Gastropods, Bivalves & oysters, Sea urchins, Fossilised wood and Shark teeth.**\n\n**Highlights:**\n\n1. Two fossil hunting sessions, at a younger and an older rock formation\n2. A fossil museum visit to see the region's best specimens\n3. A limestone mine or cement plant visit (subject to permission)\n4. A personal fossil hunting kit to keep\n5. A geology session on reading rock layers and identifying your finds\n6. A review of the weekend's finds with the resource people\n7. Gangaikonda Cholapuram, a 11th century Chola temple and UNESCO World Heritage Site\n\n**Itinerary:**\n\n**Day 0 \u00b7 Friday, 16 October**\n\nFrom Bangalore, we drive overnight to Ariyalur.\n\n**Day 1 \u00b7 Saturday, 17 October**\n\n**Fossil Hunt 1 \u00b7 8:45 am to 10:45 am**\n\n**Fossil museum \u00b7 11:15 am to 12:45 pm**\n\n**Geology session \u00b7 4:30 pm to 6:30 pm**\n\n**Day 2 \u00b7 Sunday, 18 October**\n\n**Fossil Hunt 2 \u00b7 6:15 am to 9:15 am**\n\n**Finds review \u00b7 11:00 am to 12:30 pm**\n\n**Limestone mine or cement plant \u00b7 2:00 pm to 3:30 pm**\n\n**Gangaikonda Cholapuram \u00b7 4:15 pm to 6:00 pm**\n\n**Dinner and departure**\n\n**Day 3 \u00b7 Monday, 19 October**\n\nDrop-offs between 4:30 am and 5:30 am\n\nThis trip is open to all ages: families, kids and adults. No background in science is needed, just curiosity.",
+    "description": "**Around 70–100 million years ago, South India’s coastline ran through what is now Ariyalur, Tamil Nadu. A warm, shallow sea covered the land, home to ammonites, sea snails, oysters, sea urchins and sharks. When these animals died, they sank into the seabed and were buried in mud and lime. Over millions of years, these layers hardened into rock, while the sea retreated and the seabed became land.**\n\n**Today, monsoon rains expose fossils across Ariyalur’s gullies and ravines, making it one of India’s richest fossil regions. The area has also yielded dinosaur bones and eggs.**\n\nAbove Zenith’s first fossil hunting expedition. Over one weekend, you will hunt for fossils at two sites with geologists and paleontologists, learn how to identify and record what you find, and take your finds home.\n\n**What you might find:**\n\n**Ammonites, Belemnites, Gastropods, Bivalves & oysters, Sea urchins, Fossilised wood and Shark teeth.**\n\n**Highlights:**\n\n1. Two fossil hunting sessions, at a younger and an older rock formation\n2. A fossil museum visit to see the region's best specimens\n3. A limestone mine or cement plant visit (subject to permission)\n4. A personal fossil hunting kit to keep\n5. A geology session on reading rock layers and identifying your finds\n6. A review of the weekend's finds with the resource people\n7. Gangaikonda Cholapuram, a 11th century Chola temple and UNESCO World Heritage Site\n\n**Itinerary:**\n\n**Day 0 · Friday, 16 October**\n\nFrom Bangalore, we drive overnight to Ariyalur.\n\n**Day 1 · Saturday, 17 October**\n\n**Fossil Hunt 1 · 8:45 am to 10:45 am**\n\n**Fossil museum · 11:15 am to 12:45 pm**\n\n**Geology session · 4:30 pm to 6:30 pm**\n\n**Day 2 · Sunday, 18 October**\n\n**Fossil Hunt 2 · 6:15 am to 9:15 am**\n\n**Finds review · 11:00 am to 12:30 pm**\n\n**Limestone mine or cement plant · 2:00 pm to 3:30 pm**\n\n**Gangaikonda Cholapuram · 4:15 pm to 6:00 pm**\n\n**Dinner and departure**\n\n**Day 3 · Monday, 19 October**\n\nDrop-offs between 4:30 am and 5:30 am\n\nThis trip is open to all ages: families, kids and adults. No background in science is needed, just curiosity.",
     "image": "https://cdn.puttingscene.com/base/image/bPfTp3AsQbq_lD-DhwCw0w.jpg",
     "location": {
       "name": "Ariyalur",
@@ -217,7 +275,7 @@
     "@type": "Event",
     "name": "A feast fit for the gods.",
     "url": "https://puttingscene.com/events/HK5W4W",
-    "description": "This Pujo, celebrate with a special Bengali-inspired lunch at Trippy Goat \u2014 an indulgent spread crafted for the occasion, with plenty to savour.\n\n\ud83d\udcc5 **17 October**\n\n\ud83d\udd5b **12\u20131:30 PM & 2\u20133:30 PM**\n\n\ud83d\udccd Trippy Goat Caf\u00e9, Indiqube Symphony, MG Road\n\nBring your appetite. We\u2019ll bring the feast.\n\n**Reservations: 97316 55707**",
+    "description": "This Pujo, celebrate with a special Bengali-inspired lunch at Trippy Goat — an indulgent spread crafted for the occasion, with plenty to savour.\n\n📅 **17 October**\n\n🕛 **12–1:30 PM & 2–3:30 PM**\n\n📍 Trippy Goat Café, Indiqube Symphony, MG Road\n\nBring your appetite. We’ll bring the feast.\n\n**Reservations: 97316 55707**",
     "image": "https://cdn.puttingscene.com/base/image/x_Fta36ZT_y_W_rJ_Gha1Q.jpg",
     "location": {
       "name": "Trippy Goat Cafe",
@@ -243,7 +301,7 @@
         "price": "1799.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 21
+        "remainingAttendeeCapacity": 19
       },
       {
         "@type": "Offer",
@@ -251,15 +309,35 @@
         "price": "1999.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 24
+        "remainingAttendeeCapacity": 21
       }
     ]
   },
   {
     "@type": "Event",
+    "name": "Bountyful - Preview Lunch",
+    "url": "https://puttingscene.com/events/VJ22MZ",
+    "description": "BOUNTYFUL | A Celebration of India’s Culinary Heritage\n\nThere's so much of India we haven't tasted yet.\n\nDishes from different regions, recipes passed down through generations, and food that deserves to be known.\n\nJoin us for an exclusive preview of BOUNTYFUL, celebrating India’s lesser-known regional cuisines through heirloom recipes, forgotten flavours and generations-old food traditions.\n\nA journey through the many flavours and stories that make India extraordinary.\n\nMany regions. Generations of stories. One incredible India.",
+    "image": "https://cdn.puttingscene.com/base/image/UIAZ7MDITVOd-6VVgKKgAQ.jpg",
+    "location": {
+      "name": "Bountyful",
+      "address": "Bountyful, Bangalore",
+      "url": "https://share.google/fgB7mWN0EYkoEPREP"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pitch Perfect Organization"
+    },
+    "startDate": "2026-10-17T13:00:00+05:30",
+    "endDate": "2026-10-17T15:00:00+05:30",
+    "maximumAttendeeCapacity": 20,
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "A feast fit for the gods.",
     "url": "https://puttingscene.com/events/HK5W4W",
-    "description": "This Pujo, celebrate with a special Bengali-inspired lunch at Trippy Goat \u2014 an indulgent spread crafted for the occasion, with plenty to savour.\n\n\ud83d\udcc5 **17 October**\n\n\ud83d\udd5b **12\u20131:30 PM & 2\u20133:30 PM**\n\n\ud83d\udccd Trippy Goat Caf\u00e9, Indiqube Symphony, MG Road\n\nBring your appetite. We\u2019ll bring the feast.\n\n**Reservations: 97316 55707**",
+    "description": "This Pujo, celebrate with a special Bengali-inspired lunch at Trippy Goat — an indulgent spread crafted for the occasion, with plenty to savour.\n\n📅 **17 October**\n\n🕛 **12–1:30 PM & 2–3:30 PM**\n\n📍 Trippy Goat Café, Indiqube Symphony, MG Road\n\nBring your appetite. We’ll bring the feast.\n\n**Reservations: 97316 55707**",
     "image": "https://cdn.puttingscene.com/base/image/x_Fta36ZT_y_W_rJ_Gha1Q.jpg",
     "location": {
       "name": "Trippy Goat Cafe",
@@ -299,9 +377,144 @@
   },
   {
     "@type": "Event",
+    "name": "3D Printed Charms",
+    "url": "https://puttingscene.com/events/IRLV6U",
+    "description": "Charms are small ornaments used for various purposes like - necklace, bracelets, keychain, etc! Here is a chance to design our own charms and use it in any way :) The workshop helps you in designing + printing it. You get to choose your designs and 3D print them. No prior experience is necessary!",
+    "image": "https://cdn.puttingscene.com/base/image/7nSg9vVoRTq5AzOJ4aEM8g.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, 835 6th cross, 10th, main Water tank road, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.975982,
+        "longitude": 77.6384154
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Paper Crane Lab Organization"
+    },
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T16:00:00+05:30",
+    "maximumAttendeeCapacity": 8,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "700.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 8
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Secret Party",
+    "url": "https://puttingscene.com/events/NMBVV7",
+    "description": "In a city obsessed with headliners, Secret Party operates differently.\n\nHidden inside a former Zepto dark store, an industrial relic repurposed for sound, the event has quietly become a gathering point for Bangalore's underground techno community.\n\nJust trust.\n\nFor 8 hours, from 2pm to 10pm, the space is consumed by cold, hypnotic and hardgroovin techno.\n\nPast editions have featured names such as Dotdat, Audio Units, Shreyas, Mycelio Groove, Anferer and Mental Machine, though the point has never been who's playing, more about what and why they're playing.\n\nInside, stripped-back concrete walls, minimal lighting and a sound system built for immersion create an experience that feels unorthodox and unconventional.\n\nAnd ofcourse no commercial music. Just techno.",
+    "image": "https://cdn.puttingscene.com/base/image/8pXiViyUQjCvUx0-VIuPrQ.jpg",
+    "location": {
+      "name": "CONCEPT01",
+      "address": "CONCEPT01, 2nd Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://maps.google.com/?cid=1391046557966713993",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9299336,
+        "longitude": 77.6386558
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DID Creative Labs LLP Organization"
+    },
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T22:00:00+05:30",
+    "maximumAttendeeCapacity": 100,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Early Bird",
+        "price": "1178.82",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 99
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pint of View Lecture Over Drinks: Travels in a Ceramic Tea Cup",
+    "url": "https://puttingscene.com/events/PIV317",
+    "description": "Welcome to Pint of View, Bangalore’s first-ever community where classroom-styled lectures meet drinks in relaxed spaces.\n\nTea is ubiquitous and it is the beverage of choice for people across the world.\n\nDrunk green, black or with milk or butter. sometimes sweet, unsweetened or salty, it is sipped in the quiet of the morning, during an office break and even for a 100 kilometre drive. Tea is both luxurious and humble.\n\nThe culture of drinking tea overlaps with the culture of ceramics which are used for brewing, pouring and drinking.\n\nThis lecture brings together the material history of tea drinking and the cultures of art, architecture, design and ceramics that have grown with it.\n\n**About the Speaker**\n\nAnnapurna Garimella is an art historian and a designer. Her research focuses on late medieval Indic architecture and the history and practices of vernacular visual and built cultures in India after Independence. She is the Managing Trustee of Art, Resources and Teaching Trust, which has a research library and conducts independent research and teaching. She also heads Jackfruit Research and Design, an organisation with a specialised portfolio of design, research, and curation. Most recently, Garimella has developed and taught the online course “A History of Indian Craft: 1850s to the Present” for MAP Academy.\n\nHer newest book is The Long Arc of South Asian Art: A Reader in Honor of Vidya Dehejia (Women Unlimited, 2022).\n\nDesigning India: 1947 to the Present, an edited volume; A Face on a Face: South Asian Masks in the Vaidya Collection; and Digesting the Past: The Discourse of Sacralized Architectural Renovation in Southern India (14th-17th Centuries) are book manuscripts under preparation.\n\n**Event Details**\n\n📅 Saturday, 17 October\n\n🕛 2 PM – 4 PM\n\n📍 Atta Galatta, Indiranagar, Bengaluru\n\n**Your ticket includes:**\n\n• 1 complimentary kombucha from Umami Brew\n\n• First-come, first-served seating\n\n**About Pint of View**\n\nPint of View is India's Largest Lecture Community. We brought the lecture in bar format to India and are now expanding across the globe with chapters in 14 cities worldwide. Here, big ideas meet intimate spaces, and you walk in curious and walk out with a sharper lens on the world.\n\nBook now and develop your own pint of view. 🍻",
+    "image": "https://cdn.puttingscene.com/base/image/SlCpJ-CiRoqlo5Cwyivnjg.jpg",
+    "location": {
+      "name": "Atta Galatta",
+      "address": "Atta Galatta, 178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://maps.app.goo.gl/LoZruPAHJSS69oit8",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint Of View Organization"
+    },
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T16:00:00+05:30",
+    "maximumAttendeeCapacity": 10,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "898.99",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Lamp Studio: An Akari Lamp-Making Experience",
+    "url": "https://puttingscene.com/events/L6I6HB",
+    "description": "A hands-on exploration of light, form and natural materials.\n\nWorking with traditional **washi paper, made from mulberry tree bark, alongside bamboo and rattan**, the session explores the process of shaping a lamp from its structure to its final form. Learn how these simple materials come together to create the soft, diffused quality of Akari-inspired lighting, while building a piece entirely by hand.\n\nThe finished lamp becomes a functional object to take home, made through a slow and tactile process of shaping, assembling and working with natural materials.",
+    "image": "https://cdn.puttingscene.com/base/image/aWE1ca2ARveuZbiep4FRmw.jpg",
+    "location": {
+      "name": "Foodstories Bangalore",
+      "address": "Foodstories Bangalore, Prestige Sterling Square, Lavelle Road, next to Airline Hotel, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Foodstories%20Bangalore&query_place_id=ChIJqeULcxcXrjsRtaAO6JEFCsk",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9728262,
+        "longitude": 77.60031
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Foodstories India Organization"
+    },
+    "startDate": "2026-10-17T16:00:00+05:30",
+    "endDate": "2026-10-17T18:00:00+05:30",
+    "maximumAttendeeCapacity": 10,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1200.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "Kombucha Tasting for Nerds",
     "url": "https://puttingscene.com/events/7EP1E4",
-    "description": "Not a cafe, not a bar, not a restaurant. Mountain Bee Kombucha is a brewery by the day, a cosy R&D bar by the evening pouring signature kombucha and crafting in-house zero-proof cocktails. Come for drinks, music and calm atmosphere surrounded by people who would love to make you feel home and show-off their newest creations.\n\nOur tasting room is an intimate 8-seater space created for sharing good drink and company.\n\nTasting hours: Monday to Saturday evening from 6-7 pm.\n\nPlease note:\n\nBooking fee (\u20b9999) covers upto 4 drinks and snacks. Any purchases made will be charged separately. Reservations are for 1 hour slot, please reach the venue 10 minutes early. We'll give you a heads-up as your time winds down. Seating is communal, expect to share the table, and maybe a conversation or two, with other guests. We accept UPI for additional purchases, no card.\n\nAll bookings are final. Rescheduling is possible with at least 48 hours' notice, one reschedule per booking. No-shows and late cancellations aren't refundable. You'll need to be curious, not necessarily 21, this is alcohol-free, all ages welcome.\n\nWhat's not included\n\n- any purchases made at the venue apart from whats included in the experience",
+    "description": "Not a cafe, not a bar, not a restaurant. Mountain Bee Kombucha is a brewery by the day, a cosy R&D bar by the evening pouring signature kombucha and crafting in-house zero-proof cocktails. Come for drinks, music and calm atmosphere surrounded by people who would love to make you feel home and show-off their newest creations.\n\nOur tasting room is an intimate 8-seater space created for sharing good drink and company.\n\nTasting hours: Monday to Saturday evening from 6-7 pm.\n\nPlease note:\n\nBooking fee (₹999) covers upto 4 drinks and snacks. Any purchases made will be charged separately. Reservations are for 1 hour slot, please reach the venue 10 minutes early. We'll give you a heads-up as your time winds down. Seating is communal, expect to share the table, and maybe a conversation or two, with other guests. We accept UPI for additional purchases, no card.\n\nAll bookings are final. Rescheduling is possible with at least 48 hours' notice, one reschedule per booking. No-shows and late cancellations aren't refundable. You'll need to be curious, not necessarily 21, this is alcohol-free, all ages welcome.\n\nWhat's not included\n\n- any purchases made at the venue apart from whats included in the experience",
     "image": "https://cdn.puttingscene.com/base/image/RebGIGlZQn-aec4yPDZvfw.jpg",
     "location": {
       "name": "Mountain Bee Kombucha Hive",
@@ -329,6 +542,65 @@
         "availability": "https://schema.org/SoldOut"
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Jab, Sweat and Savour!!!",
+    "url": "https://puttingscene.com/events/K9C8CO",
+    "description": "**Arohaa x Relentless Strength**\n\nThis Sunday, we’re trading the usual brunch plans for boxing gloves, killer footwork, and a brunch bowl worth showing up for. Welcome to **Jab, Sweat and Savour**, your two hour Sunday reset where you learn to throw a punch, move with purpose, and discover just how powerful your body can feel.\n\n🥊 **ROUND ONE: GLOVE UP**\n\nStep onto the mats for a 90 minute, hands on boxing experience designed to get you moving, sweating, and feeling stronger. From the fundamentals of boxing to elements of kickboxing and Muay Thai, we’re breaking down the moves that make you swift, sharp, and unstoppable.\n\nWe’ll work on your stance, coordination, breathing, and technique, helping you understand how your body moves and how to make every movement count.\n\n**No experience needed. Just bring your energy :)**\n\n🥤 **ROUND TWO: REFUEL & RESET**\n\nPost workout we got you fuelled a protein rich plant based brunch bowl, paired with a refreshing cooler to cool you down after a punchy workout.\n\nMake it your Sunday plan with your besties, bring that friend who keeps saying they need to work out, or show up solo and meet people who share your love for fitness, and trying new things.\n\n**Gloves on. Game face. Let’s make this Sunday hit different. 🥊**",
+    "image": "https://cdn.puttingscene.com/base/image/q2R67vtAQdGmVLw9MCCnZA.jpg",
+    "location": {
+      "name": "Relentless Strength, Domlur",
+      "address": "Relentlessstrength, Relentless Strength, Domlur, BDA Complex, 153/14, Professor U R Rao Rd, beside Domlur, BDA Colony, Indiranagar, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://maps.google.com/?cid=900302429832330990",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9623508,
+        "longitude": 77.6374032
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Arohaa"
+    },
+    "startDate": "2026-10-18T08:00:00+05:30",
+    "endDate": "2026-10-18T10:00:00+05:30",
+    "maximumAttendeeCapacity": 15,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Jabbers Entry",
+        "price": "1400.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 14
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sunday Sniff Social",
+    "url": "https://puttingscene.com/events/N4JFOX",
+    "description": "Join FoodStories and Alfie & Claire for a pet-friendly pop-up at Lavelle Road, bringing together a curated range of essentials and treats for **both cats and dogs**. Browse the collection, meet fellow pet parents, and spend an easy morning in the garden café with furry friends in tow.\n\nA relaxed community gathering for pets and their people, with plenty of time to browse, socialise and settle into a slow Sunday.",
+    "image": "https://cdn.puttingscene.com/base/image/H8BjD3g4RneC-KxBcm9qAw.jpg",
+    "location": {
+      "name": "Foodstories Bangalore",
+      "address": "Foodstories Bangalore, Prestige Sterling Square, Lavelle Road, next to Airline Hotel, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Foodstories%20Bangalore&query_place_id=ChIJqeULcxcXrjsRtaAO6JEFCsk",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9728262,
+        "longitude": 77.60031
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Foodstories India Organization"
+    },
+    "startDate": "2026-10-18T10:00:00+05:30",
+    "endDate": "2026-10-18T16:00:00+05:30",
+    "maximumAttendeeCapacity": 50,
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -365,6 +637,40 @@
   },
   {
     "@type": "Event",
+    "name": "The Analog Club: Halloween Edition",
+    "url": "https://puttingscene.com/events/JTNI2W",
+    "description": "Step back in time at **The Analog Club: Halloween Edition,** an event series by the Studio by Copper + Cloves.\n\n*Imagine walking into a busy cafe and seeing not a single phone, no one taking selfies, and no one around you scrolling — just people dressed up, chatting, creating, reading, and enjoying being present.*\n\nDisconnect from devices for 3 hours of unplugged time — we'll have books, board games, music, crochet, and, of course, spooky-themed food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid — you can dip into activities if you want, chat to new people, graze at our high tea counter, or get creative at our Halloween-themed art corner.\n\nAnd because it’s Halloween, **your best costume is a MUST!** 👻 Come dressed up, get into the spirit, and make the most of our spooky little corner of the analog world.\n\nMeet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones).\n\nEmbrace the analog experience, slow down, and reconnect in this crazy digital age — with a little Halloween magic.\n\n**Info:**\n\nStrictly no devices (no laptops or iPads, and you will be asked to keep your phone in a basket or in your bag—not in your pocket or on a table. E-books are allowed). We will not be using social media on our phones at the event; at times, we will only take photos with a camera.\n\nTickets are for entry, all games and art supplies, Halloween-themed food, and unlimited high tea from our renowned deli counter. Do not purchase a ticket if you are unwilling to surrender your devices for 3 hours.",
+    "image": "https://cdn.puttingscene.com/base/image/WrqMeas2ToOM29mCDZR4lQ.jpg",
+    "location": {
+      "name": "the Studio by Copper + Cloves",
+      "address": "the Studio by Copper + Cloves, 4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=the%20Studio%20by%20Copper%20%2B%20Cloves&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9639148,
+        "longitude": 77.6384238
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves Organization"
+    },
+    "startDate": "2026-10-18T15:00:00+05:30",
+    "endDate": "2026-10-18T18:00:00+05:30",
+    "maximumAttendeeCapacity": 20,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "787.50",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
     "name": "INTRO TO  SEWING  CLOTHES: Make a Flow Top!",
     "url": "https://puttingscene.com/events/MDWNUG",
     "description": "What does an embodied making of clothes look like? How might such a making of clothes in collective spirit honour joyful learning? Where might this making lead us?\n\nIn this session, we will together explore how you can make a top that you can wear as you like. Away from standard measurement templates, we will instead think with the body and unpack what (fun)ctionality in clothes can feel like and offer.\n\nAs we engage in this session, you will also learn the basics of pattern making, seam work, and garment construction, all while making the process yours and only yours.\n\nBeginners are welcome.\n\nAll material will be provided.",
@@ -393,7 +699,7 @@
         "price": "1500.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 3
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -401,7 +707,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -419,7 +725,7 @@
     },
     "startDate": "2026-10-24T12:30:00+05:30",
     "endDate": "2026-10-24T14:30:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -427,7 +733,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -435,7 +741,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -443,7 +749,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -461,7 +767,7 @@
     },
     "startDate": "2026-10-24T13:30:00+05:30",
     "endDate": "2026-10-24T15:30:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -469,7 +775,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -477,7 +783,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -485,7 +791,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -503,7 +809,7 @@
     },
     "startDate": "2026-10-24T19:00:00+05:30",
     "endDate": "2026-10-24T21:00:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -511,7 +817,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -519,7 +825,41 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Gatecrash presents CKRAFT and ManeatingOrchid",
+    "url": "https://puttingscene.com/events/QEUFBH",
+    "description": "**About CKRAFT:**\n\nCKRAFT blends the crushing force of **Metal** with the eccentric freedom of **Jazz**. Led by accordionist Charles Kieny, the quintet sets a Meshuggah inspired power trio (guitar, bass, drums) against the frantic breath of a tenor saxophone and a cyborg-accordion augmented with electronic sensors.\n\nMedieval polyphonies, and other thousand years old melodies — roots of Western music — collide with modern creativity, opening a space for enriching cross-cultural dialogue with the Indian audience.\n\n**LINE-UP**\n\nCharles Kieny (augmented accordion)\n\nThéo Nguyen Duc Long (saxophone)\n\nAntoine Morisot (guitar)\n\nMarc Karapetian (bass)\n\nWilliam Bur (drums)\n\n**About ManeatingOrchid:**\n\nFormed in 2011, ManeatingOrchid has spent over a decade shaping a sound that fuses prog metal, mathcore, and extreme music into something chaotic and unpredictable. Known for dense riffing, abrasive vocals, and constantly shifting song structures, the band has become one of the subcontinent’s most uncompromising heavy acts.Their self-titled 2016 EP earned cult acclaim within the underground, while Miasma (2019) and Hive Mind (2022) pushed their sound further into dissonant, volatile territory — cementing Maneating Orchid as a band that consistently defies convention.\n\n**The Humming Tree:**\n\nThe Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosystem.\n\nNow, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it’s a hub for creativity, culture and collaboration.",
+    "image": "https://cdn.puttingscene.com/base/image/X4FfPJT7TI-wO3bL91jQmA.jpg",
+    "location": {
+      "name": "THE HUMMING TREE",
+      "address": "THE HUMMING TREE, 763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=THE%20HUMMING%20TREE&query_place_id=ChIJ8z4YBAAXrjsRslVjaPRLIOY",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9711178,
+        "longitude": 77.6410673
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Humming Tree Events India Pvt Ltd Organization"
+    },
+    "startDate": "2026-10-24T21:00:00+05:30",
+    "endDate": "2026-10-24T23:59:00+05:30",
+    "maximumAttendeeCapacity": 100,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Phase 1",
+        "price": "800.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 100
       }
     ]
   },
@@ -527,7 +867,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -545,7 +885,7 @@
     },
     "startDate": "2026-10-24T21:00:00+05:30",
     "endDate": "2026-10-24T23:00:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -553,7 +893,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -561,7 +901,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -569,11 +909,11 @@
     "@type": "Event",
     "name": "BAR CRAWL RACE",
     "url": "https://puttingscene.com/events/FWG7SS",
-    "description": "**YOU\u2019VE DONE THE WORKOUTS. NOW COME RACE.**\n\n**3 GYMS. 3 CIRCUITS. 5 KM. ONE CHANCE TO TAKE THE LEAD.**\n\nA\u00a0**hybrid-style race**\u00a0for people who\u00a0**love a challenge, live for a little competition and are ready to try something new.**\n\nYou\u2019ll take on\u00a0**3 of Bangalore\u2019s most reputed fitness spaces \u2014 Tagda Raho, Namma FIT & RSF**\n\nThree stops. Three different challenges. One race against the clock!\n\n**Finish your circuit. Get out. Run to the next one. Repeat.**\n\nYour total run?\u00a0**5 KM.**\n\n**Every stop matters.Every second counts.**\n\nBecause at the end of the third circuit, there\u2019s only one question:\n\n**Who got there first?**\n\nThe winner walks away with\u2014 **recovery gear, wearables & exciting prizes!**\n\nThe race doesn't end at the finish line, it opens to the\u00a0**Bar Crawl After Party**\u00a0\u2014 recovery lounge, F&B, live DJ and the entire Crawl crew coming together to celebrate the race.\n\n**RACE.TRAIN. RECOVER.**\n\n**Think you can take the lead? Prove it on the track.**",
+    "description": "**YOU’VE DONE THE WORKOUTS. NOW COME RACE.**\n\n**3 GYMS. 3 CIRCUITS. 5 KM. ONE CHANCE TO TAKE THE LEAD.**\n\nA **hybrid-style race** for people who **love a challenge, live for a little competition and are ready to try something new.**\n\nYou’ll take on **3 of Bangalore’s most reputed fitness spaces — Tagda Raho, Namma FIT & RSF**\n\nThree stops. Three different challenges. One race against the clock!\n\n**Finish your circuit. Get out. Run to the next one. Repeat.**\n\nYour total run? **5 KM.**\n\n**Every stop matters.Every second counts.**\n\nBecause at the end of the third circuit, there’s only one question:\n\n**Who got there first?**\n\nThe winner walks away with— **recovery gear, wearables & exciting prizes!**\n\nThe race doesn't end at the finish line, it opens to the **Bar Crawl After Party** — recovery lounge, F&B, live DJ and the entire Crawl crew coming together to celebrate the race.\n\n**RACE.TRAIN. RECOVER.**\n\n**Think you can take the lead? Prove it on the track.**",
     "image": "https://cdn.puttingscene.com/base/image/zwQDKaDJSeCtBPira9L1gA.jpg",
     "location": {
       "name": "South United Football Club x Wellbeing Nutrition - Ulsoor",
-      "address": "No. 3, South United Football Club x Wellbeing Nutrition - Ulsoor, South United Football Club, RBANM\u2019s Ground, Gate, Gangadhar Chetty Rd, near Ulsoor, Lake, Bengaluru, Karnataka 560042, India",
+      "address": "No. 3, South United Football Club x Wellbeing Nutrition - Ulsoor, South United Football Club, RBANM’s Ground, Gate, Gangadhar Chetty Rd, near Ulsoor, Lake, Bengaluru, Karnataka 560042, India",
       "url": "https://maps.google.com/?cid=14863531940966096613",
       "geo": {
         "@type": "GeoCoordinates",
@@ -611,11 +951,11 @@
     "@type": "Event",
     "name": "BAR CRAWL RACE",
     "url": "https://puttingscene.com/events/FWG7SS",
-    "description": "**YOU\u2019VE DONE THE WORKOUTS. NOW COME RACE.**\n\n**3 GYMS. 3 CIRCUITS. 5 KM. ONE CHANCE TO TAKE THE LEAD.**\n\nA\u00a0**hybrid-style race**\u00a0for people who\u00a0**love a challenge, live for a little competition and are ready to try something new.**\n\nYou\u2019ll take on\u00a0**3 of Bangalore\u2019s most reputed fitness spaces \u2014 Tagda Raho, Namma FIT & RSF**\n\nThree stops. Three different challenges. One race against the clock!\n\n**Finish your circuit. Get out. Run to the next one. Repeat.**\n\nYour total run?\u00a0**5 KM.**\n\n**Every stop matters.Every second counts.**\n\nBecause at the end of the third circuit, there\u2019s only one question:\n\n**Who got there first?**\n\nThe winner walks away with\u2014 **recovery gear, wearables & exciting prizes!**\n\nThe race doesn't end at the finish line, it opens to the\u00a0**Bar Crawl After Party**\u00a0\u2014 recovery lounge, F&B, live DJ and the entire Crawl crew coming together to celebrate the race.\n\n**RACE.TRAIN. RECOVER.**\n\n**Think you can take the lead? Prove it on the track.**",
+    "description": "**YOU’VE DONE THE WORKOUTS. NOW COME RACE.**\n\n**3 GYMS. 3 CIRCUITS. 5 KM. ONE CHANCE TO TAKE THE LEAD.**\n\nA **hybrid-style race** for people who **love a challenge, live for a little competition and are ready to try something new.**\n\nYou’ll take on **3 of Bangalore’s most reputed fitness spaces — Tagda Raho, Namma FIT & RSF**\n\nThree stops. Three different challenges. One race against the clock!\n\n**Finish your circuit. Get out. Run to the next one. Repeat.**\n\nYour total run? **5 KM.**\n\n**Every stop matters.Every second counts.**\n\nBecause at the end of the third circuit, there’s only one question:\n\n**Who got there first?**\n\nThe winner walks away with— **recovery gear, wearables & exciting prizes!**\n\nThe race doesn't end at the finish line, it opens to the **Bar Crawl After Party** — recovery lounge, F&B, live DJ and the entire Crawl crew coming together to celebrate the race.\n\n**RACE.TRAIN. RECOVER.**\n\n**Think you can take the lead? Prove it on the track.**",
     "image": "https://cdn.puttingscene.com/base/image/zwQDKaDJSeCtBPira9L1gA.jpg",
     "location": {
       "name": "South United Football Club x Wellbeing Nutrition - Ulsoor",
-      "address": "No. 3, South United Football Club x Wellbeing Nutrition - Ulsoor, South United Football Club, RBANM\u2019s Ground, Gate, Gangadhar Chetty Rd, near Ulsoor, Lake, Bengaluru, Karnataka 560042, India",
+      "address": "No. 3, South United Football Club x Wellbeing Nutrition - Ulsoor, South United Football Club, RBANM’s Ground, Gate, Gangadhar Chetty Rd, near Ulsoor, Lake, Bengaluru, Karnataka 560042, India",
       "url": "https://maps.google.com/?cid=14863531940966096613",
       "geo": {
         "@type": "GeoCoordinates",
@@ -653,7 +993,7 @@
     "@type": "Event",
     "name": "Cottonpete heritage walk. (Stories of Sufis, Akhadas & Sants)",
     "url": "https://puttingscene.com/events/GS7JAK",
-    "description": "A heritage walk through Pettah, tracing Sufi shrines, temples, healing traditions, and the city\u2019s layered faith",
+    "description": "A heritage walk through Pettah, tracing Sufi shrines, temples, healing traditions, and the city’s layered faith",
     "image": "https://cdn.puttingscene.com/event_images/3680/7414801a-d917-48a7-982d-c9a0a0d9a587.jpg",
     "location": {
       "name": "Cottonpete main road",
@@ -687,7 +1027,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -705,7 +1045,7 @@
     },
     "startDate": "2026-10-25T12:30:00+05:30",
     "endDate": "2026-10-25T14:30:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -713,7 +1053,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -721,7 +1061,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -729,7 +1069,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -747,7 +1087,7 @@
     },
     "startDate": "2026-10-25T13:30:00+05:30",
     "endDate": "2026-10-25T15:30:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -755,7 +1095,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -763,7 +1103,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -774,8 +1114,8 @@
     "description": "Dakshin Diaries by The Counterpoint Crew brings a fresh, contemporary choral experience to the proscenium stage. Featuring 20 voices delivering live amplified stage harmony, this concert explores distinct musical worlds without creative boundaries.\n\nThe performance showcases a brand-new repertoire spanning classical polyphony, soulful regional folk, and iconic melodies reimagined across Kannada, Tamil, Hindi, Malayalam, Telugu, and English. Audiences will experience rich vocal arrangements alongside independent music. Every piece is thoughtfully arranged to celebrate the expressive versatility and dynamic resonance of the human voice.\n\nDesigned as an immersive, seated auditorium showcase, the evening offers music lovers a rare opportunity to hear diverse genres unified through rich, multi-part choral textures. Whether you are a dedicated choral enthusiast, an indie music follower, or simply seeking an evocative musical evening, take your seat and let the harmony surround you.",
     "image": "https://cdn.puttingscene.com/base/image/p78_LePLSxCXSRbtdxhSDA.jpg",
     "location": {
-      "name": "Alliance Fran\u00e7aise de Bangalore",
-      "address": "Alliance Fran\u00e7aise de Bangalore, Thimmaiah Rd, opposite UNI, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+      "name": "Alliance Française de Bangalore",
+      "address": "Alliance Française de Bangalore, Thimmaiah Rd, opposite UNI, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
       "url": "https://maps.google.com/?cid=6255587168832917299",
       "geo": {
         "@type": "GeoCoordinates",
@@ -805,7 +1145,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -823,7 +1163,7 @@
     },
     "startDate": "2026-10-25T19:00:00+05:30",
     "endDate": "2026-10-25T21:00:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -831,7 +1171,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -839,7 +1179,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -847,7 +1187,7 @@
     "@type": "Event",
     "name": "FIRESIDE   X   HEARTH",
     "url": "https://puttingscene.com/events/WRNVI7",
-    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat\u00a0for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside \u00d7 Hearth collaboration.\n\n\ud83d\udccd Fireside, Kalyan Nagar\n\n\ud83d\udcc5 24th & 25th October\n\n\ud83c\udf7d\ufe0f Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
+    "description": "Hearth, Mumbai makes its Bengaluru debut at Fireside, with Chefs Sabby & Dhriti joining Chef Rajat for a kitchen takeover. 2 days only.\n\nTwo kitchens, two perspectives, one shared love for cooking over fire ,\n\ncoming together around a menu built for the occasion.\n\nLive fire. Shared table.\n\nFireside × Hearth collaboration.\n\n📍 Fireside, Kalyan Nagar\n\n📅 24th & 25th October\n\n🍽️ Lunch & Dinner | Limited seats per slot\n\nNo cancellations or rescheduling once booked.",
     "image": "https://cdn.puttingscene.com/base/image/GIHMy9xoTZqoXZYcToiE0Q.jpg",
     "location": {
       "name": "Fireside: Flame Craft Dining",
@@ -865,7 +1205,7 @@
     },
     "startDate": "2026-10-25T21:00:00+05:30",
     "endDate": "2026-10-25T23:00:00+05:30",
-    "maximumAttendeeCapacity": 40,
+    "maximumAttendeeCapacity": 20,
     "offers": [
       {
         "@type": "Offer",
@@ -873,7 +1213,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       },
       {
         "@type": "Offer",
@@ -881,7 +1221,7 @@
         "price": "1050.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -889,7 +1229,7 @@
     "@type": "Event",
     "name": "DIY Camera Obscura",
     "url": "https://puttingscene.com/events/PR3G82",
-    "description": "Build & Experiment with a Handmade Pinhole Camera\n\nLong before lenses and megapixels, there was the *camera obscura*\u2014a simple box, a pinhole, and the magic of light painting an image. In this workshop with artist **Stuti Bansal**, you\u2019ll make your own camera obscura from scratch, explore the principles of analogue image-making, and develop unique photographs using light-sensitive paper.\n\n**You\u2019ll get to:**\n\n- Build your own **working camera obscura**\n- Learn the science & history behind the camera obscura\n- Experiment with capturing and developing images\n- Take home your handmade camera + prints you create\n\n**Who is it for?**\n\nArtists, photographers, makers, students, and anyone curious about analog photography and light-based art. No prior experience required.",
+    "description": "Build & Experiment with a Handmade Pinhole Camera\n\nLong before lenses and megapixels, there was the *camera obscura*—a simple box, a pinhole, and the magic of light painting an image. In this workshop with artist **Stuti Bansal**, you’ll make your own camera obscura from scratch, explore the principles of analogue image-making, and develop unique photographs using light-sensitive paper.\n\n**You’ll get to:**\n\n- Build your own **working camera obscura**\n- Learn the science & history behind the camera obscura\n- Experiment with capturing and developing images\n- Take home your handmade camera + prints you create\n\n**Who is it for?**\n\nArtists, photographers, makers, students, and anyone curious about analog photography and light-based art. No prior experience required.",
     "image": "https://cdn.puttingscene.com/base/image/fPmHI1lFQHWjXxDsHSbReA.jpg",
     "location": {
       "name": "Paper Crane Lab",
