@@ -28,8 +28,7 @@ def convert_ics_to_events(ics_file_path):
     with open(ics_file_path, "r") as file:
         text = file.read()
     if not text:
-        print(f"{ics_file_path}: ICS Calendar is invalid or empty")
-        return []
+        raise ValueError(f"{ics_file_path}: ICS Calendar is invalid or empty")
     return convert_ics_text_to_events(text)
 
 

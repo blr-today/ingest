@@ -118,11 +118,11 @@ def test_language_is_the_first_spoken_one(events, tmp_path):
     assert got == {"A": "hi", "B": "ta", "C": "en"}
 
 
-def test_empty_calendar_is_skipped(tmp_path, capsys):
+def test_empty_calendar_fails(tmp_path):
     empty = tmp_path / "empty.ics"
     empty.write_text("")
-    assert icalendar.convert_ics_to_events(str(empty)) == []
-    assert f"{empty}: ICS Calendar is invalid or empty" in capsys.readouterr().out
+    with pytest.raises(ValueError, match="ICS Calendar is invalid or empty"):
+        icalendar.convert_ics_to_events(str(empty))
     with pytest.raises(FileNotFoundError):
         icalendar.convert_ics_to_events(str(tmp_path / "missing.ics"))
 
