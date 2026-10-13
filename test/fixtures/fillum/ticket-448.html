@@ -1,0 +1,489 @@
+
+<!doctype html>
+<html>
+<head>
+	<base href="https://fillum.in/">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bangalore Film Forum Screening | Untitled Arts Foundation, Bangalore | 17 Oct, 2026</title>
+<meta property="og:description" content="Buy tickets on FILLUM">
+<meta property="og:image" content="https://fillum.in/images/img/448.jpg">
+<link href="css/bootstrap-3.3.4.css" rel="stylesheet" type="text/css">
+<link href="css/Styles.css?v=2.4" rel="stylesheet" type="text/css">
+<link href="css/home.css?v=2.4" rel="stylesheet" type="text/css">
+<link href="css/admin.css" rel="stylesheet" type="text/css">
+	<link rel="icon" href="images/Fillum Icon Logo.png" type="image/x-icon">
+  <style>
+#rzpayform input, #rzpayform select
+{
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+#rzpayform label {
+    color: #333;
+    font-weight: normal;
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+.bookinginfotext {
+    font-size: 14px;
+}
+
+#bookinginfodiv {
+  display: none;
+}
+
+#bookinginfototal {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+#bookinginfofee {
+  font-size:12px;
+}
+
+.bookinginfotext .col-xs-4 {
+  text-align: right;
+}
+
+#paymentproceed {
+  display: none;
+}
+
+.paymentcontact {
+  //text-decoration: underline;
+  max-width: 40%;
+}
+
+.optionname {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+  </style>
+</head>
+
+<body id="productpage" style="padding-top: 70px;padding-bottom: 100px;">
+	<div id="PaymentScreen" class='container-fluid'><button type="button" id="closehighlightscreen" class="btn mainpagelink"> x </button>
+	  <div id="PaymentBox" class="container-fluid"></div>
+	</div>
+	<div id="whitesheet" class="mainpagelink"></div>
+
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1GWF34E75"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M1GWF34E75');
+</script>
+<meta name="viewport" content="height=device-height,
+                      width=device-width, initial-scale=1.0,
+                      minimum-scale=1.0, maximum-scale=1.0,
+                      user-scalable=no, target-densitydpi=device-dpi">
+<link href="css/bootstrap-3.3.4.css" rel="stylesheet" type="text/css">
+<link href="css/Styles.css" rel="stylesheet" type="text/css">
+<link href="css/home.css" rel="stylesheet" type="text/css">
+<script src="js/jquery-1.11.2.min.js"></script>
+<script>
+
+function showsearchresults(str) {
+    if (str.length <= 2) {
+        $("#pagehint").html("");
+		$("#pagehint").css('display','none');
+        return;
+    } else {
+        $("#pagehint").css('display','block');
+        $("#pagehint").html('Loading..');
+        var dataString = 'q='+ str;
+		$.ajax({
+			type: "POST",
+			url: "commonsearch.php",
+			data: dataString,
+			dataType: 'html',
+			success: function(text){
+
+			    $("#pagehint").html(text);
+			    $("#pagehint").css('display','block');
+
+				}
+				})
+				return false;
+            }
+}
+
+ $(function() {
+$("#search-textbox").focus(function(){
+  $(".suggestions").css("display", "block");
+});
+});
+
+$(function() {
+$("#searchresults").focusout(function(){
+
+setTimeout(function(){ $(".suggestions").css("display", "none"); },100);
+
+});
+});
+
+
+ //Don't delete following. figure out how to make notification number set to 0 only when clicked.
+ $(function() {
+	$("#notifbar").click(function() {
+
+
+		if($('#notifdropdown').is(':visible'))
+        {
+        $("#notifdropdown").hide();
+        }
+		else
+		{
+		$("#notifdropdown").show();
+
+		$.ajax({
+			type: "POST",
+			url: "notifzero.php",
+			success: function(text){
+				$("#notifnum").hide();
+				}
+				})
+				return false;
+
+		}
+
+				});
+				});
+
+$(function() {
+	$("#msgbar").click(function() {
+		if($('#msgdropdown').is(':visible'))
+        {
+        $("#msgdropdown").hide();
+        }
+		else
+		{
+		$("#msgdropdown").show();
+
+		$.ajax({
+			type: "POST",
+			url: "MessagesMenuUser.php",
+			success: function(text){
+				$("msgdropdown").html(text);
+				//$("#notifnum").hide();
+				}
+				})
+				return false;
+		}
+				});
+				});
+
+$(document).on('click','.extvideo',function()
+{
+	 var vidsrc=$(this).val()+'?rel=0&autoplay=1&showinfo=0';
+   var desc=$(this).attr('title');
+	 $('#youtubevid').show();
+	 $('#youtubevid').attr('src',vidsrc);
+   $ ('#viddesc').text(desc);
+	 $('#youtubevid').load();
+
+	 $('#videooverlay').fadeIn(500);
+	  });
+
+
+$(document).on('click','#closevideooverlay',function()
+  {
+	$('#youtubevid').attr('src','');
+	$('#youtubevid').load();
+	$('#videooverlay').hide();
+
+	});
+
+
+
+$(function() {
+	$("#search-button").click(function() {
+		if($('#search-textbox').is(':visible'))
+        {
+        $("#search-textbox").hide();
+		$("#searchresults").hide();
+        }
+		else
+		{
+		$("#search-textbox").show();
+		$("#searchresults").show();
+		$("#search-textbox").focus();
+		$("#notifdropdown").hide();
+		}
+
+				});
+				});
+
+
+
+</script>
+<style>
+
+</style>
+</head>
+<nav class="navbar navbar-default navbar-fixed-top" style="background-color:rgba(0,0,0,0.70); color:rgba(255,255,255,1.00)">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topFixedNavbar1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+
+         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#searchresults" id="search-button"><img id="search-img" src="images/search-icon.png"></button>
+
+        <a class="navbar-brand homelink" href="" style="color:rgba(255,255,255,1.00);font-size:12px;"><img src="images/Fillum Logo White.png" height="20" alt=""/></a></div>
+
+
+        <div class="collapse navbar-collapse" id="searchresults">
+          <div id="searchdiv"><input type="text" id="search-textbox" autocomplete="false" class="form-control" placeholder="Search" onkeyup="showsearchresults(this.value)"></div>
+        <div id="pagehint"></div>
+        <!--<a href="filmlist"><div class='suggestions defaultresult' style="background-color:rgba(0,0,0,0.1)">Film List</div></a>
+        <a href="hostscreening"><div class='suggestions defaultresult' style="background-color:rgba(0,0,0,0.1)">Add Screening</div></a>-->
+        </div>
+
+      <div class="collapse navbar-collapse" id="topFixedNavbar1">
+
+       <ul class="nav navbar-nav navbar-right" style="margin-right: 20px;">
+                <li class="dropdown"><a href="" id="headersignup">Sign in</a></li>
+
+		
+
+
+        </ul>
+      </div>
+
+
+
+
+    </div>
+
+  </nav>
+
+
+  <div id="consolebar">
+   <span id="consolemsg">Connecting..</span>
+  </div>
+
+<div class="container-fluid" id="videooverlay">
+<button id="closevideooverlay">x</button>
+<div  id="vidbox"><div  id="vidcontainer">
+<iframe id="youtubevid" src="" frameborder="0" allowfullscreen></iframe>
+</div><div id="viddesc"></div></div>
+
+</div>
+
+<div id="signupbar"><button><a href="googlesignup.php" style=""><img src="images/googlelogo.png"> Sign in</a></button>
+    <button style="" id="newslettersignup">Subscribe</button>
+    </div><div id="widewrapper">
+
+
+<div class="row">
+
+  <div class="col-md-3"></div>
+
+  <div class="col-md-6">
+<div class="productbox">
+  <div class="productimage"><img src="images/img/448.jpg"></div><div id="producttitle" class="producttitle">Bangalore Film Forum Screening</div><div class="productinfo"><img src='images/userpics/bangalorefilmforum.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:20px;width:20px'><a href="user/52">Bangalore Film Forum</a> <img src="images/verified-1.png" height=15></div><div class="productinfo"><img class="smallicon" src="images/venueicon.png"><div class="productvenue"><a href="https://maps.app.goo.gl/fvaVfhNJo2Z8tiXU8" target="_blank">Untitled Arts Foundation, Bangalore</a></div></div><div class="productinfo"><img class="smallicon" src="images/dateicon.png"><div class="productdate">17 October, 2026</div></div><div class="productinfo"><img class="smallicon" src="images/timeicon.png"><div class="producttime">6:00 PM</div></div><div id="productdescription" class="productdescription productinfo">Sleepaway Camp<br />
+1983 / Robert Hiltzik<br />
+<br />
+The screening will be followed by a conversation.</div><div class="productprice"> <b>₹ 200</b> per ticket</div></div>
+<div class='container-fluid buydiv'>
+
+<button id="buyproceed448" class="buyproceed" value="448">BUY</button>
+<div id="paymentform448" class="formdiv paymentform">
+<form id="rzpayform" method="post">
+<div><label for="payeename">Name</label><input type="text" id="payeename" name="payeename" class="FormEntry" placeholder="Enter your name" required></div>
+<div><label for="payeeemail">Email ID</label><input type="email" id="payeeemail" name="payeeemail"  class="FormEntry" placeholder="Enter your email" required></div>
+<div><label for="payeemobile">Mobile Number</label><input type="tel" id="payeemobile" name="payeemobile" pattern="[6789][0-9]{9}" class="FormEntry" placeholder="10 digit mobile number" required></div><div ><label for="quantity">Number of tickets</label>
+<select type="number" id="quantity" name="quantity" min="1" max="10" class="FormEntry" placeholder="Number of tickets (max 10)" required onchange="bookingtotal()">
+<option value="0" selected>Select</option>
+<option value="1">1 ticket</option><option value="2">2 tickets</option><option value="3">3 tickets</option><option value="4">4 tickets</option><option value="5">5 tickets</option><option value="6">6 tickets</option><option value="7">7 tickets</option><option value="8">8 tickets</option><option value="9">9 tickets</option><option value="10">10 tickets</option></select>
+</div>
+<input type="hidden" id="productid" name="productid" value="448">
+<input type="hidden" id="productprice" name="productprice" value="200">
+<div id="bookinginfodiv">
+<div class="bookinginfotext row"><div class="col-xs-8"><span id="ticketquantity">1</span> Ticket(s):</div><div class="col-xs-4">₹ <span id="bookingcost">200.00</span></div></div>
+<div class="bookinginfotext row" id="bookinginfofee"><div class="col-xs-8">Booking fee (tax-inclusive):</div><div class="col-xs-4">₹ <span id="bookingfee">9.20</span></div></div><div class="bookinginfotext row" id="bookinginfototal"><div class="col-xs-8">Booking Total:</div><div class="col-xs-4">₹ <span id="bookingtotal">209.20</span></div></div>
+</div>
+<div><input id="bookingconfirm" type="submit" id="bookingconfirm" class="submitblack" value="CONFIRM" disabled></div>
+</form>
+</div>
+</div>
+
+<div class="pagecontainer container-fluid">
+  <b>Terms & Conditions</b><br>
+  • Tickets will be sent on the email provided. In case you do not receive the ticket on your email address after the payment has been made, please contact us at <a href="/cdn-cgi/l/email-protection#1078795076797c7c657d3e797e"><span class="__cf_email__" data-cfemail="355d5c75535c595940581b5c5b">[email&#160;protected]</span></a>.
+  <br>
+  • Tickets cannot be refunded after the payment.
+  <br>
+  • Refund will be made only in cases an event is cancelled or postponed to another day after deduction of platform charges/booking fees, after confirmation of the cancellation from the event host.
+  <br>
+  • In case an event is cancelled or postponed, the responsibility to inform the guests who had booked tickets is of the event host.
+  <br>
+  • Misbehavior at event venue can lead to expulsion from the venue.
+  <br>
+  • Venue rules apply.
+  <br>
+  • The responsibility for the event, ensuring necessary permissions and requirements are met is of the host.
+</div>
+
+</div>
+
+<div class="col-md-3">
+  <div id='footerdiv' class='container-fluid'>
+<p>
+<a href="contact.php">Contact</a> · <a href="https://twitter.com/fillumindia">X</a> · <a href="https://www.instagram.com/fillum.in/">Instagram</a>
+</p>
+<p>
+<a href="about">About us</a> · <a href="terms">Terms</a> · <a href="privacy">Privacy</a> · <a href="paymentrefund.php">Payments & Refund</a>
+</p>
+<p>
+  <a href="film-screenings-in-delhi">Film screenings in Delhi</a> · <a href="film-screenings-in-mumbai">Film screenings in Mumbai</a> · <a href="film-screenings-in-bangalore">Film screenings in Bangalore</a> · <a href="filmlist">Film List</a> · <a href="filmlist/1">Indian Independent Films</a> · <a href="indianindiecinema">Indian Independent Cinema</a>
+</p>
+
+<p>
+Copyright © 2026 · All Rights Reserved · <a href="">Fillum Media</a>
+</p>
+</div>
+</div>
+
+</div>
+</div>
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/universal.js?v=2.4" type="text/javascript"></script>
+  <script src="js/admin.js" type="text/javascript"></script>
+<script src="js/razorpay.js" type="text/javascript"></script>
+  <script src="js/jquery-1.11.2.min.js"></script>
+  <script src="js/bootstrap-3.3.4.js" type="text/javascript"></script>
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+<script>
+function bookingtotal() {
+  var q=$('#quantity','#rzpayform').val();
+  var p=$('#productprice','#rzpayform').val();
+  if (q>0)
+  {
+  $('#bookinginfodiv').show();
+  $('#concessionbox').show();
+  $('#bookingconfirm').prop("disabled", false);
+  }
+  else {
+    $('#bookinginfodiv').hide();
+    $('#concessionbox').hide();
+    $('#bookingconfirm').prop("disabled", true);
+  }
+
+var concession=0;
+
+if ($('#concessiondisplay').length)
+{
+  var concessionmultiplier=q;
+  if (q>2)
+  concessionmultiplier=2;
+
+$('#concession').prop('max',concessionmultiplier*0);
+$('#concession').val(0);
+$('#concessiondisplay').text(0);
+$('#bookingconcession').text(0);
+}
+var total=q*p;
+var totalnett=total-concession;
+var bookingfeerate = 0.046;
+
+$('#bookingcost').text(total);
+$('#ticketquantity').text(q);
+$('#bookingfee').text((totalnett*bookingfeerate).toFixed(2));
+$('#bookingtotal').text((totalnett*(1+bookingfeerate)).toFixed(2));
+}
+
+$(document).on('change','#optionid',function(event){
+  var optionid = $(this).val();
+  var optionprice = $('#option'+optionid).data('price');
+  var tleft = $('#option'+optionid).data('tleft');
+
+  if ($('#option'+optionid).is('[data-dependency]')) {
+  //  tleft = 10;
+    var dependency = $('#option'+optionid).data('dependency');
+    var deparray = dependency.split(',').map(Number);
+    var optleft;
+    $.each(deparray, function(index, value) {
+    optleft = $('#option'+value).data('tleft');
+    if (optleft<tleft)
+    tleft=optleft;
+});
+
+}
+
+  $('#quantity option','#rzpayform').show();
+
+  $('#productprice').val(optionprice);
+  $('#bookinginfodiv').hide();
+  $('#concessionbox').hide();
+   $("#quantity")[0].selectedIndex = 0;
+
+   $('#quantity option','#rzpayform').filter(function() {
+       return parseInt($(this).val(), 10) > tleft;
+   }).hide();
+
+  if (tleft>0)
+  $('#bookingconfirm').prop("disabled", true);
+  else
+    consolemessage("No Tickets left in this category!");
+
+  return false;
+
+      });
+
+
+
+$('#concession').change(function() {
+  var q=$('#quantity','#rzpayform').val();
+  var p=$('#productprice','#rzpayform').val();
+
+  var concession=$(this).val();
+  $('#concessiondisplay').text(concession);
+
+  var total=q*p;
+  var totalnett=total-concession;
+  var bookingfeerate = 0.046;
+  $('#bookingconcession').text(concession);
+  $('#bookingfee').text((totalnett*bookingfeerate).toFixed(2));
+  $('#bookingtotal').text((totalnett*(1+bookingfeerate)).toFixed(2));
+  //bookingtotal();
+});
+
+$(document).on('click','.paymentcontact',function(event){
+  var paymentid=$(this).val();
+  var paymentname=$(this).text();
+  var paymentemail=$('#paymentemail'+paymentid).val();
+  var paymentphone=$('#paymentphone'+paymentid).val();
+  var text = '<div>'+'<a href="tel:91'+paymentphone+'">'+paymentphone+'</a> <a href="https://wa.me/91'+paymentphone+'"><img src="images/whatsapp-icon.png" width="14"></a>'+'<br>'+'<a href="mailto:'+paymentemail+'">'+paymentemail+'</a></div>';
+  $('#payeedetails'+paymentid).after(text);
+  $(this).prop('disabled', true);
+  return false;
+
+      });
+
+/*
+$(document).on('submit','#rzpayform',function()
+{
+  event.preventDefault();
+  $(".FormEntry").prop("disabled", true);
+  $(".FormEntry").prop("background-color", "#888");
+
+  $("#bookingconfirm").hide();
+  $("#paymentproceed").show();
+});
+*/
+
+
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4a1acfd2e0be508',t:'MTc5MTkyOTQ0MA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

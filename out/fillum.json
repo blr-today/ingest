@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Sleepaway Camp (1983)",
+    "url": "https://fillum.in/screening/6345",
+    "startDate": "2026-10-17T18:00:00+05:30",
+    "image": "https://fillum.in/images/filmbg/3557-tn.jpg",
+    "description": "Years after a terrible boating accident, Angela is sent to Camp Arawak where a series of bizarre and violent \"accidents\" begin to claim the lives of various campers.\n\nThe screening will be followed by a conversation.",
+    "location": {
+      "@type": "Place",
+      "name": "Untitled Arts Foundation",
+      "address": "Untitled Arts Foundation, Bangalore"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "url": "https://fillum.in/user/52"
+    },
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Sleepaway Camp",
+      "director": {
+        "@type": "Person",
+        "name": "Robert Hiltzik"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 200,
+      "priceCurrency": "INR",
+      "url": "https://fillum.in/p/448",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+]

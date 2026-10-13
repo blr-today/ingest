@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <base href="https://fillum.in/">
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sleepaway Camp (1983) Screening | 17 Oct | Bangalore | FILLUM</title>
+    <meta property="og:description" content="Buy Tickets on FILLUM">
+    <meta property="og:image" content="https://fillum.in/images/filmbg/3557-tn.jpg">
+    <link rel="canonical" href="https://fillum.in/screening/6345" />
+    <meta property="og:site_name" content="FILLUM" />
+    <link href="css/Styles.css" rel="stylesheet" type="text/css">
+    <link href="css/home.css?v=2.1" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap-3.3.4.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="images/filmpics/3557.jpg" type="image/x-icon">
+ <style>
+ #ScreeningListDiv #screeningbox6345 {
+   display: none;
+ }
+ </style>
+
+  </head>
+
+
+ <body id="full-page" class="screening-page publicfilmpage">
+   <head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1GWF34E75"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M1GWF34E75');
+</script>
+<meta name="viewport" content="height=device-height,
+                      width=device-width, initial-scale=1.0,
+                      minimum-scale=1.0, maximum-scale=1.0,
+                      user-scalable=no, target-densitydpi=device-dpi">
+<link href="css/bootstrap-3.3.4.css" rel="stylesheet" type="text/css">
+<link href="css/Styles.css" rel="stylesheet" type="text/css">
+<link href="css/home.css" rel="stylesheet" type="text/css">
+<script src="js/jquery-1.11.2.min.js"></script>
+<script>
+
+function showsearchresults(str) {
+    if (str.length <= 2) {
+        $("#pagehint").html("");
+		$("#pagehint").css('display','none');
+        return;
+    } else {
+        $("#pagehint").css('display','block');
+        $("#pagehint").html('Loading..');
+        var dataString = 'q='+ str;
+		$.ajax({
+			type: "POST",
+			url: "commonsearch.php",
+			data: dataString,
+			dataType: 'html',
+			success: function(text){
+
+			    $("#pagehint").html(text);
+			    $("#pagehint").css('display','block');
+
+				}
+				})
+				return false;
+            }
+}
+
+ $(function() {
+$("#search-textbox").focus(function(){
+  $(".suggestions").css("display", "block");
+});
+});
+
+$(function() {
+$("#searchresults").focusout(function(){
+
+setTimeout(function(){ $(".suggestions").css("display", "none"); },100);
+
+});
+});
+
+
+ //Don't delete following. figure out how to make notification number set to 0 only when clicked.
+ $(function() {
+	$("#notifbar").click(function() {
+
+
+		if($('#notifdropdown').is(':visible'))
+        {
+        $("#notifdropdown").hide();
+        }
+		else
+		{
+		$("#notifdropdown").show();
+
+		$.ajax({
+			type: "POST",
+			url: "notifzero.php",
+			success: function(text){
+				$("#notifnum").hide();
+				}
+				})
+				return false;
+
+		}
+
+				});
+				});
+
+$(function() {
+	$("#msgbar").click(function() {
+		if($('#msgdropdown').is(':visible'))
+        {
+        $("#msgdropdown").hide();
+        }
+		else
+		{
+		$("#msgdropdown").show();
+
+		$.ajax({
+			type: "POST",
+			url: "MessagesMenuUser.php",
+			success: function(text){
+				$("msgdropdown").html(text);
+				//$("#notifnum").hide();
+				}
+				})
+				return false;
+		}
+				});
+				});
+
+$(document).on('click','.extvideo',function()
+{
+	 var vidsrc=$(this).val()+'?rel=0&autoplay=1&showinfo=0';
+   var desc=$(this).attr('title');
+	 $('#youtubevid').show();
+	 $('#youtubevid').attr('src',vidsrc);
+   $ ('#viddesc').text(desc);
+	 $('#youtubevid').load();
+
+	 $('#videooverlay').fadeIn(500);
+	  });
+
+
+$(document).on('click','#closevideooverlay',function()
+  {
+	$('#youtubevid').attr('src','');
+	$('#youtubevid').load();
+	$('#videooverlay').hide();
+
+	});
+
+
+
+$(function() {
+	$("#search-button").click(function() {
+		if($('#search-textbox').is(':visible'))
+        {
+        $("#search-textbox").hide();
+		$("#searchresults").hide();
+        }
+		else
+		{
+		$("#search-textbox").show();
+		$("#searchresults").show();
+		$("#search-textbox").focus();
+		$("#notifdropdown").hide();
+		}
+
+				});
+				});
+
+
+
+</script>
+<style>
+
+</style>
+</head>
+<nav class="navbar navbar-default navbar-fixed-top" style="background-color:rgba(0,0,0,0.70); color:rgba(255,255,255,1.00)">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topFixedNavbar1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+
+         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#searchresults" id="search-button"><img id="search-img" src="images/search-icon.png"></button>
+
+        <a class="navbar-brand homelink" href="" style="color:rgba(255,255,255,1.00);font-size:12px;"><img src="images/Fillum Logo White.png" height="20" alt=""/></a></div>
+
+
+        <div class="collapse navbar-collapse" id="searchresults">
+          <div id="searchdiv"><input type="text" id="search-textbox" autocomplete="false" class="form-control" placeholder="Search" onkeyup="showsearchresults(this.value)"></div>
+        <div id="pagehint"></div>
+        <!--<a href="filmlist"><div class='suggestions defaultresult' style="background-color:rgba(0,0,0,0.1)">Film List</div></a>
+        <a href="hostscreening"><div class='suggestions defaultresult' style="background-color:rgba(0,0,0,0.1)">Add Screening</div></a>-->
+        </div>
+
+      <div class="collapse navbar-collapse" id="topFixedNavbar1">
+
+       <ul class="nav navbar-nav navbar-right" style="margin-right: 20px;">
+                <li class="dropdown"><a href="" id="headersignup">Sign in</a></li>
+
+		
+
+
+        </ul>
+      </div>
+
+
+
+
+    </div>
+
+  </nav>
+
+
+  <div id="consolebar">
+   <span id="consolemsg">Connecting..</span>
+  </div>
+
+<div class="container-fluid" id="videooverlay">
+<button id="closevideooverlay">x</button>
+<div  id="vidbox"><div  id="vidcontainer">
+<iframe id="youtubevid" src="" frameborder="0" allowfullscreen></iframe>
+</div><div id="viddesc"></div></div>
+
+</div>
+
+<div id="signupbar"><div class="ctatext" style="">Join for Screening updates in <b>Bangalore</b></div><div class="updatepromptdiv"><a class="updatechannel" href="https://chat.whatsapp.com/HVO7PlFW2IkJam2j0HsDQ8"><img src="images/whatsapp-icon.png"></a><button class="updatechannel"><a href="googlesignup.php?city=Bangalore" style=""><img src="images/googlelogo.png"></a></button><button class="updatechannel" value="Bangalore" id="newslettersignup"><img src="images/email-white.png"></button></div></div>
+
+  <div id="PaymentScreen" class='container-fluid'><button type="button" id="closehighlightscreen" class="btn mainpagelink"> x </button>
+  <div id="PaymentBox" class="container-fluid"></div></div>
+
+  <div id="whitesheet" class="mainpagelink"></div>
+
+<div id="wide-wrapper">
+<div class="row" id="vid-row">
+  <div class="col-md-3">
+
+
+              <div class="container-fluid" id="Info-cont">
+
+                <div id="filmheader">
+                  <div id="filmtitlebox"><a href="film/3557"><span id="filmtitletext" style="">Sleepaway Camp</span></a> (1983)<br><i>Robert Hiltzik</i></div>
+           <div id="filmheadersynopsis">Years after a terrible boating accident, Angela is sent to Camp Arawak where a series of bizarre and violent "accidents" begin to claim the lives of various campers.</div></div></div>
+
+
+         <div id="filmcredits">
+                 </div>
+
+    </div>
+
+  <div class="col-md-6">
+
+      <div class="mid-col screeningbox2 screeningboxmain" id="screeningbox6345"><div id="Screening6345" class="row container-fluid screeninginfo"><a href="film/3557"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/3557-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6345">Sleepaway Camp <span class="scfilmyear">(1983)</span></a></div><div><a href="screening/6345">17 Oct, 2026 · 6:00 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Untitled Arts Foundation</div><div class="schost"><img src='images/userpics/bangalorefilmforum.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/52">Bangalore Film Forum</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">The screening will be followed by a conversation.</div><a href="p/448" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6345" value="6345">
+	<img src="images/like.png" class="likeimg" id="like6345">
+	<img src="images/liked.png" class="likedimg" id="liked6345">
+	<span class="likecount" id="likecount6345"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6345"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=Years+after+a+terrible+boating+accident%2C+Angela+is+sent+to+Camp+Arawak+where+a+series+of+bizarre+and+violent+%22accidents%22+begin+to+claim+the+lives+of+various+campers.%0A%0AScreening+on+Saturday+at+Untitled+Arts+Foundation.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6345" ><img src="images/whatsapp-icon.png"></a></button></div></div></div><div class="container-fluid mid-col buttonsdiv" id="MessageDiv"></div>
+    <div class="container-fluid mid-col" id="ScreeningListDiv">
+
+
+      <div id="InitialStories">
+        <div id="addscreeningdiv">
+	  <div id="addpublicscreeningdiv"><a href="hostscreening" id="addpublicscreening" class="">Add Screening</a></div>
+	  <div id="hostingprompt">Get RSVPs for any kind of film screening on Fillum (hosted in any physical space - from your living room to a big auditorium.) <b>Ticketing available now.</b>
+	</div>
+	</div><div class="bordercontainer"><img src="images/like.png" height=14> <button onclick="signuploginreq()" class="signinreq emptybutton"><u>Sign-in to create your watchlist</u></button></div><div id="screeningbox6309" class="screeningbox2 gscreeningbox screeningcity screeningcitybangalore"><div id="Screening6309" class="row container-fluid screeninginfo"><a href="film/3523"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/3523-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6309">Marketa Lazarová <span class="scfilmyear">(1967)</span></a></div><div><a href="screening/6309">15 Oct, 2026 · 7:45 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Angala, Cox Town</div><div class="schost"><img src='images/userpics/tpcc.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/71">The Parallel Cinema Club</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">Putting the &lsquo;dark&rsquo; back in the Dark Ages.<br />
+Mikol&aacute;s and his brother Adam end up with a young German hostage of noble blood during a robbery. While their clan prepares for the wrath of the German.. <a href="screening/6309" style="font-size:12px;">more</a></div><a href="p/441" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6309" value="6309">
+	<img src="images/like.png" class="likeimg" id="like6309">
+	<img src="images/liked.png" class="likedimg" id="liked6309">
+	<span class="likecount" id="likecount6309"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6309"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=Mikol%C3%A1s+and+his+brother+Adam+end+up+with+a+young+German+hostage+of+noble+blood+during+a+robbery.+While+their+clan+prepares+for+the+wrath+of+the+German+king%2C+Mikol%C3%A1s+is+sent+to+pressure+his+neighbor+Lazar+into+a+defense+pact.+Persuasion+fails+and+he+abducts+Lazar%27s+daughter+Marketa+on+the+eve+of+her+initiation+as+a+nun+in+an+act+of+vengeance.%0A%0AScreening+on+Thursday+at+Angala%2C+Cox+Town.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6309" ><img src="images/whatsapp-icon.png"></a></button></div></div></div><div id="screeningbox6345" class="screeningbox2 gscreeningbox screeningcity screeningcitybangalore"><div id="Screening6345" class="row container-fluid screeninginfo"><a href="film/3557"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/3557-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6345">Sleepaway Camp <span class="scfilmyear">(1983)</span></a></div><div><a href="screening/6345">17 Oct, 2026 · 6:00 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Untitled Arts Foundation</div><div class="schost"><img src='images/userpics/bangalorefilmforum.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/52">Bangalore Film Forum</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">The screening will be followed by a conversation.</div><a href="p/448" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6345" value="6345">
+	<img src="images/like.png" class="likeimg" id="like6345">
+	<img src="images/liked.png" class="likedimg" id="liked6345">
+	<span class="likecount" id="likecount6345"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6345"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=Years+after+a+terrible+boating+accident%2C+Angela+is+sent+to+Camp+Arawak+where+a+series+of+bizarre+and+violent+%22accidents%22+begin+to+claim+the+lives+of+various+campers.%0A%0AScreening+on+Saturday+at+Untitled+Arts+Foundation.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6345" ><img src="images/whatsapp-icon.png"></a></button></div></div></div><div id="screeningbox6310" class="screeningbox2 gscreeningbox screeningcity screeningcitybangalore"><div id="Screening6310" class="row container-fluid screeninginfo"><a href="film/368"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/368-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6310">Theorem <span class="scfilmyear">(1986)</span></a></div><div><a href="screening/6310">20 Oct, 2026 · 7:45 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Angala, Cox Town</div><div class="schost"><img src='images/userpics/tpcc.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/71">The Parallel Cinema Club</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">There are only 923 words spoken in &ldquo;Teorema&rdquo; &ndash; but it says everything!<br />
+A wealthy Italian household is turned upside down when a handsome stranger arrives, seduces every family member and then.. <a href="screening/6310" style="font-size:12px;">more</a></div><a href="p/442" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6310" value="6310">
+	<img src="images/like.png" class="likeimg" id="like6310">
+	<img src="images/liked.png" class="likedimg" id="liked6310">
+	<span class="likecount" id="likecount6310"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6310"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=A+wealthy+Italian+household+is+turned+upside+down+when+a+handsome+stranger+arrives%2C+seduces+every+family+member+and+then+disappears.+Each+has+an+epiphany+of+sorts%2C+but+none+can+figure+out+who+the+seductive+visitor+was+or+why+he+came.%0A%0AScreening+on+Tuesday+at+Angala%2C+Cox+Town.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6310" ><img src="images/whatsapp-icon.png"></a></button></div></div></div><div id="screeningbox6311" class="screeningbox2 gscreeningbox screeningcity screeningcitybangalore"><div id="Screening6311" class="row container-fluid screeninginfo"><a href="film/3524"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/3524-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6311">Equinox Flower <span class="scfilmyear">(1958)</span></a></div><div><a href="screening/6311">22 Oct, 2026 · 7:45 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Angala, Cox Town</div><div class="schost"><img src='images/userpics/tpcc.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/71">The Parallel Cinema Club</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">Wataru&rsquo;s outwardly liberal views on marriage are severely tested when his daughter declares her love for a coworker and is adamant to live her own way, instead of agreeing to an arranged marriage... <a href="screening/6311" style="font-size:12px;">more</a></div><a href="p/443" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6311" value="6311">
+	<img src="images/like.png" class="likeimg" id="like6311">
+	<img src="images/liked.png" class="likedimg" id="liked6311">
+	<span class="likecount" id="likecount6311"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6311"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=Wataru%27s+outwardly+liberal+views+on+marriage+are+severely+tested+when+his+daughter+declares+her+love+for+a+coworker+and+is+adamant+to+live+her+own+way%2C+instead+of+agreeing+to+an+arranged+marriage.+Outwitted+by+his+female+relatives%2C+Hirayama+stubbornly+refuses+to+admit+defeat.%0A%0AScreening+on+Thursday+at+Angala%2C+Cox+Town.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6311" ><img src="images/whatsapp-icon.png"></a></button></div></div></div><div id="screeningbox6312" class="screeningbox2 gscreeningbox screeningcity screeningcitybangalore"><div id="Screening6312" class="row container-fluid screeninginfo"><a href="film/1182"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/1182-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6312">The Color of Pomegranates <span class="scfilmyear">(1969)</span></a> <button class="extvideo emptybutton" value="https://www.youtube.com/embed/RsrUqqnPA3Q" title="The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up to his death, the movie addresses in particular his relationships with women, including his muse. The production tells Sayat-Nova&#039;s dramatic story by using both his poems and largely still camerawork, creating a work hailed as revolutionary by Mikhail Vartanov."><img src="images/playbtn.png" style="width:16px;"></button></div><div><a href="screening/6312">27 Oct, 2026 · 7:45 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Angala, Cox Town</div><div class="schost"><img src='images/userpics/tpcc.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/71">The Parallel Cinema Club</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">A poetic evocation of the life of Armenian poet Sayat Nova.<br />
+The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up.. <a href="screening/6312" style="font-size:12px;">more</a></div><a href="p/444" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6312" value="6312">
+	<img src="images/like.png" class="likeimg" id="like6312">
+	<img src="images/liked.png" class="likedimg" id="liked6312">
+	<span class="likecount" id="likecount6312"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6312"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=The+life+of+the+revered+18th-century+Armenian+poet+and+musician+Sayat-Nova.+Portraying+events+in+the+life+of+the+artist+from+childhood+up+to+his+death%2C+the+movie+addresses+in+particular+his+relationships+with+women%2C+including+his+muse.+The+production+tells+Sayat-Nova%27s+dramatic+story+by+using+both+his+poems+and+largely+still+camerawork%2C+creating+a+work+hailed+as+revolutionary+by+Mikhail+Vartanov.%0A%0AScreening+on+Tuesday+at+Angala%2C+Cox+Town.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6312" ><img src="images/whatsapp-icon.png"></a></button></div></div></div><div id="screeningbox6313" class="screeningbox2 gscreeningbox screeningcity screeningcitybangalore"><div id="Screening6313" class="row container-fluid screeninginfo"><a href="film/3525"><div class="col-md-6 screeningposter" style="background-image: url(images/filmbg/3525-tn.jpg);"></div></a><div class="col-md-6 screeningdetails"><div><div class="scfilmname"><a href="screening/6313">Ulysses' Gaze <span class="scfilmyear">(1995)</span></a></div><div><a href="screening/6313">31 Oct, 2026 · 2:00 PM</a></div><div class="sccity"><a href="film-screenings-in-bangalore">Bangalore</a></div><div class="sclocation">Angala, Cox Town</div><div class="schost"><img src='images/userpics/tpcc.jpg' alt='Placeholder image' id='userpicpaid' class='img-user-pics' style='height:16px;width:16px'><a href="user/71">The Parallel Cinema Club</a> <img src="images/verified-1.png" height=15></div></div><hr><div  class="scdescription">An exiled filmmaker finally returns to his home country where former mysteries and afflictions of his early life come back to haunt him once more.</div><a href="p/445" class="ticketbtn btn btn-default btn-xs">Buy Tickets</a><button class="signinreq likebtn like screeninglike imgbutton" id="likebtn6313" value="6313">
+	<img src="images/like.png" class="likeimg" id="like6313">
+	<img src="images/liked.png" class="likedimg" id="liked6313">
+	<span class="likecount" id="likecount6313"> 0</span>
+	</button><button class="mobileonly mobileshare imgbutton"  value="https://fillum.in/screening/6313"><img src="images/share.png"></button><button class="mobileonly imgbutton"><a class="" href="whatsapp://send?text=An+exiled+filmmaker+finally+returns+to+his+home+country+where+former+mysteries+and+afflictions+of+his+early+life+come+back+to+haunt+him+once+more.%0A%0AScreening+on+Saturday+at+Angala%2C+Cox+Town.%0A%0Ahttps%3A%2F%2Ffillum.in%2Fscreening%2F6313" ><img src="images/whatsapp-icon.png"></a></button></div></div></div>      </div>
+
+        <div id="LoadedStories"></div>
+        <div id="LastStory" style="display:none;"></div>
+      	 <form method="post" enctype="multipart/form-data" id="MoreStories" autocomplete="off">
+           <input id="hostid" type="hidden" value="0">
+           <input type="hidden"  name="city" id="city" value ="bangalore">
+           <button name="offset" id="MoreStoriesbtn" type="submit" value="6313" class="btn blackbg-button">
+      More Screenings      	 </button></form>
+
+
+        </div>
+
+  </div>
+
+  <div class="col-md-3">
+
+
+    <div id='footerdiv' class='container-fluid'>
+<p>
+<a href="contact.php">Contact</a> · <a href="https://twitter.com/fillumindia">X</a> · <a href="https://www.instagram.com/fillum.in/">Instagram</a>
+</p>
+<p>
+<a href="about">About us</a> · <a href="terms">Terms</a> · <a href="privacy">Privacy</a> · <a href="paymentrefund.php">Payments & Refund</a>
+</p>
+<p>
+  <a href="film-screenings-in-delhi">Film screenings in Delhi</a> · <a href="film-screenings-in-mumbai">Film screenings in Mumbai</a> · <a href="film-screenings-in-bangalore">Film screenings in Bangalore</a> · <a href="filmlist">Film List</a> · <a href="filmlist/1">Indian Independent Films</a> · <a href="indianindiecinema">Indian Independent Cinema</a>
+</p>
+
+<p>
+Copyright © 2026 · All Rights Reserved · <a href="">Fillum Media</a>
+</p>
+</div>
+  </div>
+  </div>
+
+<div class="row" id="content-row" style="margin-right:0;">
+
+  <div class="col-md-3 container">
+
+  </div>
+
+  <div class="col-md-6">
+
+  </div>
+
+  <div class="col-md-3">
+
+   </div>
+</div>
+</div>
+<br>
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/bootstrap-3.3.4.js" type="text/javascript"></script>
+<script type="text/javascript" >
+var signedin= 0;
+var filmid= 3557;
+var username= '';
+</script>
+<script src="js/universal.js" type="text/javascript"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4a1aad7ac725e96',t:'MTc5MTkyOTM1Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
