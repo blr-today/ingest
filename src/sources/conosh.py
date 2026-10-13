@@ -177,32 +177,19 @@ def parse_event_page(event_url):
 def events():
     """Main function to scrape conosh events"""
     events = []
+    for event_url in get_event_links():
+        try:
+            events.extend(parse_event_page(event_url))
+        except Exception as e:
+            logging.error(f"Failed to parse event {event_url}: {e}")
 
-    try:
-        # Parse each event page
-        for event_url in get_event_links():
-            try:
-                event_data = parse_event_page(event_url)
-                if event_data:
-                    events.extend(event_data)
-            except Exception as e:
-                logging.error(f"Failed to parse event {event_url}: {e}")
-                continue
-
-        # Filter to future events only
-        now = datetime.datetime.now(IST)
-        future_events = []
-        for event in events:
-            try:
-                event_date = dateutil.parser.parse(event["startDate"])
-                print(event_date)
-                if event_date >= now:
-                    future_events.append(event)
-            except:
-                continue
-
-        return future_events
-
-    except Exception as e:
-        logging.error(f"Failed to scrape conosh events: {e}")
-        return []
+    # Filter to future events only
+    now = datetime.datetime.now(IST)
+    future_events = []
+    for event in events:
+        try:
+            if dateutil.parser.parse(event["startDate"]) >= now:
+                future_events.append(event)
+        except (KeyError, ValueError, OverflowError):
+            continue
+    return future_events

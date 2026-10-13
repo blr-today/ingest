@@ -99,6 +99,14 @@ def test_events_keep_future_events(monkeypatch):
     assert len(conosh.events()) == 2
 
 
+def test_listing_failure_propagates(monkeypatch):
+    def down():
+        raise ConnectionError("conosh.com is down")
+    monkeypatch.setattr(conosh, "get_event_links", down)
+    with pytest.raises(ConnectionError):
+        conosh.events()
+
+
 def test_events_drop_past_events(monkeypatch):
     monkeypatch.setattr(conosh, "datetime", clock(2026, 12, 1))
     assert conosh.events() == []
