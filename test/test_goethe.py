@@ -85,6 +85,7 @@ def test_registration_link_goes_into_offers():
 def test_fetch_events_filters_bangalore(monkeypatch):
     fake = session()
     monkeypatch.setattr(goethe, "get_cached_session", lambda: fake)
+    monkeypatch.setattr(goethe, "Fetch", lambda browser: fake if browser == "chrome" else None)
     [event] = fetch_events()
     assert event["url"] == EVENT_URL
     assert json.loads(fake.params["filterData"])["adress_IDtxt"] == "Bangalore"
@@ -96,11 +97,13 @@ def test_fetch_events_drops_non_events(monkeypatch):
     listing["eventItems"][0]["event_type"] = "Call for Applications"
     fake.pages[LIST_URL] = json.dumps(listing)
     monkeypatch.setattr(goethe, "get_cached_session", lambda: fake)
+    monkeypatch.setattr(goethe, "Fetch", lambda browser: fake)
     assert fetch_events() == []
 
 
 def test_empty_calendar(monkeypatch):
     monkeypatch.setattr(goethe, "get_cached_session", lambda: session("empty.json"))
+    monkeypatch.setattr(goethe, "Fetch", lambda browser: None)
     assert fetch_events() == []
 
 

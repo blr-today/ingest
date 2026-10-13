@@ -1,5 +1,6 @@
 import json
 import datetime
+from src.common.fetch import Fetch
 from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 
@@ -141,8 +142,10 @@ def fetch_events():
         params=payload,
     )
 
+    # Event pages sit behind a WAF that returns 403 to plain requests
+    pages = Fetch(browser="chrome")
     for event in response.json()["eventItems"]:
-        details = make_event(session, event)
+        details = make_event(pages, event)
         if details["@type"] != None:
             events.append(details)
     return events
