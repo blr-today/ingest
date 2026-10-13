@@ -25,6 +25,7 @@ def test_writes_events_and_count(source, tmp_path, capsys):
     assert '"Café"' in text
     assert capsys.readouterr().out == "[FAKE] 2 events\n"
     assert [p.name for p in (tmp_path / "out").iterdir()] == ["fake.json"]
+    assert (tmp_path / "out/fake.json").stat().st_mode & 0o777 == 0o644
 
 
 def test_empty_list_is_written(source, tmp_path, capsys):

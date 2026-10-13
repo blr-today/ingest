@@ -14,6 +14,7 @@ def write(path, events):
         with os.fdopen(fd, "w", encoding="utf-8") as f:
             json.dump(events, f, indent=2, ensure_ascii=False)
             f.write("\n")
+        os.chmod(tmp, 0o644)
         os.replace(tmp, path)
     except BaseException:
         os.unlink(tmp)
