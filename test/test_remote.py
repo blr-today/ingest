@@ -20,7 +20,7 @@ PAGES = {
 def site(tmp_path, monkeypatch):
     calls = []
 
-    def get(url, headers=None):
+    def get(url, headers=None, timeout=None):
         calls.append((url, headers))
         if url not in PAGES:
             raise ConnectionError("offline")
@@ -80,6 +80,12 @@ def test_events_from_urls_skip_bad_pages(site, monkeypatch, capsys):
     assert "No content for  https://example.com/empty" in out
     assert "Error parsing JSON for https://example.com/badjson" in out
     assert "Error parsing HTML for https://example.com/blank" in out
+
+
+def test_page_url_fills_a_missing_event_url(site):
+    PAGES["https://example.com/nourl"] = '<script type="application/ld+json">{"@type": "Event", "name": "No URL"}</script>'
+    [event] = remote.events_from_urls(["https://example.com/nourl"])
+    assert event == {"@type": "Event", "name": "No URL", "url": "https://example.com/nourl"}
 
 
 def test_add_source_prefixes_string_keywords():

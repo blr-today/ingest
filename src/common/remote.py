@@ -22,9 +22,9 @@ def add_source(event, source):
     return event
 
 
-def page_event(session, url):
+def page_event(session, url, timeout=30):
     try:
-        r = session.get(url, headers=USER_AGENT_HEADERS)
+        r = session.get(url, headers=USER_AGENT_HEADERS, timeout=timeout)
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
@@ -48,6 +48,8 @@ def page_event(session, url):
     event = event or find_event(data)
     if not event:
         print(f"Could not find event in {url}")
+        return None
+    event.setdefault("url", url)
     return event
 
 
