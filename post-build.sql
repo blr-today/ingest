@@ -3,8 +3,20 @@
 UPDATE events SET event_json = json_set(event_json, '$.keywords', json('[]'))
 WHERE json_type(event_json, '$.keywords') IS NULL;
 
--- Small World is not a good venue
+-- Small World runs mass-produced workshops and socials
 -- See 1/2 star rated reviews of their workshop at https://maps.app.goo.gl/UykxKFSYSgsEU6qCA
+-- Brik Oven outlets now host them, listed on district as Tarayana Ventures
+-- e.g. https://www.district.in/events/clay-miniature-world-jun12-2026-buy-tickets
+DELETE FROM events
+WHERE
+  event_json ->> '$.location.name' LIKE '%small world%'
+  OR event_json ->> '$.name' LIKE '%small world%'
+  OR event_json ->> '$.keywords' LIKE '%small world%'
+  OR event_json ->> '$.organizer.name' LIKE '%small world%'
+  OR event_json ->> '$.organizer.name' LIKE '%flatworld ventures%'
+  OR event_json ->> '$.organizer.name' LIKE '%tarayana ventures%'
+  OR event_json ->> '$.location.name' LIKE '%brik oven%';
+
 -- Urban Solace is a good venue, but their events are all food discounts essentially.
 UPDATE events
 SET
@@ -18,21 +30,13 @@ SET
     )
   )
 WHERE
-  event_json ->> '$.location.name' LIKE '%small world%'
-  OR event_json ->> '$.name' LIKE '%small world%'
   -- Gilly Super Bar in St Mark's Road is hosting mostly DJ nights
   -- and Small World events.
-  OR ( 
+  ( 
     event_json ->> '$.location.name' LIKE '%gilly%'
     AND event_json ->> '$.location' LIKE '%super bar%'
     AND event_json ->> '$.location' LIKE '%st mark%'
   )
-  -- This is also small world
-  OR event_json ->> '$.organizer.name' LIKE '%flatworld ventures%'
-  -- HighApe event listings do not include the organizer field 
-  -- But we pick it up from meta tags into keywords
-  -- This is no longer true, sadly
-  OR event_json ->> '$.keywords' LIKE '%small world%'
   OR event_json ->> '$.organizer.name' LIKE '%urban solace%'
   -- These look like Small World events at Social venues
   -- But even if they aren't, the reviews are very bad.
