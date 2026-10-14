@@ -803,6 +803,62 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Baddies Dandiya Night",
+    "description": "HighlightsHigh-Energy Dandiya and Garba NightTraditional Beats with a Festive Party AtmosphereColorful Ethnic Outfits and Dandiya SticksBaddies Take Thursdays O",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/049671ddcfe4deadcf2d1dab353e4254.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/9e11fdba11797ac4ef37b77a51df0424.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/46c3757711aee7402a583a11b3ecd65b.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/3306ece1e5917f73ddf6c07c39a91505.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/7a09e9429045aa9a524a3f7063daae74.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/6d1cc2843be41de0d25536cfb21b5b1b.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/7ca10ec2e855a450c3eae60821bc7e3a.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/a8c7f79231e13ca8bba8428c91d09a03.jpg"
+    ],
+    "startDate": "2026-10-15T19:00:00+05:30",
+    "endDate": "2026-10-16T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.945166,
+        "longitude": 77.620135
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fireball Entertainments",
+      "url": "https://www.highape.com/bangalore/organisers/fireball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/baddies-dandiya-night-3bdx2l906b",
+      "validFrom": "2026-10-14T11:13:44.755Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Fireball Entertainments",
+        "url": "https://www.highape.com/bangalore/organisers/fireball"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/baddies-dandiya-night-3bdx2l906b"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bengali & Odia DJ Night",
     "description": "HighlightsBengali beats and Odia groovesHigh-energy DJ setCommunity-driven festive atmosphereCurated food and drinksA night celebrating Bengali and Odia culture",
     "image": [
@@ -2524,6 +2580,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/bollywood-dj-night-7mkqtrnegb"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bollywood & Gujrati Dandiya At Shift Marathahalli ",
+    "description": "HighlightsFive Nights of Navratri CelebrationsBollywood, Garba and Dandiya MusicCelebrity DJs and Live Dhol PerformancesComplimentary Dandiya SticksDedicated Fe",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/b20a47dd98fe26c073c67ef46dd0557c.png"
+    ],
+    "startDate": "2026-10-14T18:00:00+05:30",
+    "endDate": "2026-10-14T23:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Shift Lounge - Marathahalli",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "172/5, OUTER RING ROAD, KADUBEESANAHALL, PANATHUR, above BLOOM HUB || ORR, Marathahalli, Bengaluru, Karnataka 560037, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.946762,
+        "longitude": 77.699019
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sky High Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/hassan"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "99",
+      "highPrice": "2000",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/bollywood-gujrati-dandiya-at-shift-marathahalli-2wsl360g34",
+      "validFrom": "2026-10-14T11:57:46.760Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Sky High Entertainment",
+        "url": "https://www.highape.com/bangalore/organisers/hassan"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/bollywood-gujrati-dandiya-at-shift-marathahalli-2wsl360g34"
   },
   {
     "@context": "https://schema.org",
@@ -4479,6 +4585,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Dandiya Week Celebration ",
+    "description": "HighlightsBiggest Dandiya Festival at RISM The Luxury ClubNavratri Special Garba NightNonstop Garba Music by DJ DigvijayGrand Indoor Party SetupGuest List for G",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/e2c84fef417e2772fcca529b0a15d825.jpg"
+    ],
+    "startDate": "2026-10-16T20:00:00+05:30",
+    "endDate": "2026-10-17T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "RISM THE LUXURY CLUB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93363,
+        "longitude": 77.614577
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "M4 ENTERTAINMENT",
+      "url": "https://www.highape.com/bangalore/organisers/m-entertainment-8d9a0adb7c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dandiya-week-celebration-hhcyg6ug6e",
+      "validFrom": "2026-10-14T10:26:10.433Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Digvijay",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/4adf1220/o7yfspmzcox9ozilwj7x.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-digvijay-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dandiya-week-celebration-hhcyg6ug6e"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dandiya With Strangers",
     "description": "HighlightsExperience a vibrant Dandiya night with DJ ShashaDance to electrifying DJ beats and festive musicCelebrate with traditional Dandiya sticks and energet",
     "image": [
@@ -5337,6 +5493,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Disco Dandiya Open Terrace at Badmaash Sarjapur ",
+    "description": "HighlightsFive Nights of Navratri CelebrationsCelebrity DJs Playing Garba, Dandiya and Bollywood HitsLive Punjabi Dhol and Traditional Dhol PerformancesComplime",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/0e0da5d0bd06bbed743baaeceb864eee.jpg"
+    ],
+    "startDate": "2026-10-14T17:00:00+05:30",
+    "endDate": "2026-10-14T23:40:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Sarjapur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.909379,
+        "longitude": 77.687347
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sky High Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/hassan"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "99",
+      "highPrice": "2499",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/disco-dandiya-open-terrace-at-badmaash-sarjapur-2q3e75iszl",
+      "validFrom": "2026-10-14T11:43:30.845Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Sky High Entertainment",
+        "url": "https://www.highape.com/bangalore/organisers/hassan"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/disco-dandiya-open-terrace-at-badmaash-sarjapur-2q3e75iszl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Disco Dandiya Season 10 At Sarjapur Badmaash",
     "description": "HighlightsBengaluru’s much-awaited Disco Dandiya Season 10Five spectacular nights of Navratri celebrationsCelebrity DJs playing Garba, Dandiya, Bollywood &amp; ",
     "image": [
@@ -5501,6 +5707,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/diy-fridge-magnet-workshop-1q0g832uls"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "DJ Concert Band Reveal Ft DJ Nuthan",
+    "description": "HighlightsExperience an electrifying DJ concert featuring DJ NuthanWitness the exciting band reveal in a high-energy live music atmosphereEnjoy powerful beats, ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/2e127b1290d16fe7642c9111e0a19c7d.jpg"
+    ],
+    "startDate": "2026-10-24T17:30:00+05:30",
+    "endDate": "2026-10-24T21:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blue bon Fire Creations",
+      "url": "https://www.highape.com/bangalore/organisers/blue-bon-fire-creations-tohcx"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "249",
+      "highPrice": "399",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dj-concert-band-reveal-ft-dj-nuthan-kfkgplutui",
+      "validFrom": "2026-10-14T11:57:49.593Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Nuthan",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/cff45602/cwgmfhv2awlp0q33casp.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nuthan-rvwkavdkmo"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dj-concert-band-reveal-ft-dj-nuthan-kfkgplutui"
   },
   {
     "@context": "https://schema.org",
@@ -6543,6 +6800,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/garba-night-w48p2ewmzu"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Garba Night & Workshop",
+    "description": "HighlightsLimited to just 100 slots per dayGuided Garba workshop for beginners and enthusiastsBedazzle your partner with a fun creative activityDandiya sticks i",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/05/4bd47b4fe6846105e15f67621fb66ad1.jpg"
+    ],
+    "startDate": "2026-10-17T18:00:00+05:30",
+    "endDate": "2026-10-17T23:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "URU (Kaavu) - Whitefield",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Village Main Rd, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.96133,
+        "longitude": 77.732488
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lets Getaway",
+      "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "499",
+      "highPrice": "4999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/garba-night-workshop-gr3gfh5vlq",
+      "validFrom": "2026-10-14T11:43:32.939Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Lets Getaway",
+        "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/garba-night-workshop-gr3gfh5vlq"
   },
   {
     "@context": "https://schema.org",
@@ -9708,6 +10015,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/meghalaya-with-kaziranga-road-trip-christmas-and-new-year-0ha28i46zf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "MG Road Ethnic Dandiya At Flo Church Street",
+    "description": "HighlightsNavratri Special Dandiya and Garba NightLive Dhol PerformanceEnergetic Dandiya MusicFree Dandiya SticksFestive Ethnic DecorFood and Beverages Availabl",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/20aea51e49f7febc9387f65eb5697e3b.jpg"
+    ],
+    "startDate": "2026-10-14T19:00:00+05:30",
+    "endDate": "2026-10-15T01:40:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "FLO Church Street",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974338,
+        "longitude": 77.606817
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sky High Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/hassan"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "199",
+      "highPrice": "299",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/mg-road-ethnic-dandiya-at-flo-church-street-nieke2j8ud",
+      "validFrom": "2026-10-14T10:54:30.345Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Sky High Entertainment",
+        "url": "https://www.highape.com/bangalore/organisers/hassan"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/mg-road-ethnic-dandiya-at-flo-church-street-nieke2j8ud"
   },
   {
     "@context": "https://schema.org",
@@ -13247,6 +13604,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Great Indian Dandiya Weekend ",
+    "description": "HighlightsCelebrate Navratri with The Great Indian Dandiya WeekendSpecial Garba music and festive beatsFeaturing DJ Danny OlivaTraditional Dandiya and Garba cel",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/12/9fd328ca0e71ed360aa1f39ad4a117ca.jpg"
+    ],
+    "startDate": "2026-10-16T19:00:00+05:30",
+    "endDate": "2026-10-17T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Night Volt Pub & Resto Bar - Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, 146, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933848,
+        "longitude": 77.619795
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Eyeball Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/eyeball-39059724f7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "200",
+      "highPrice": "500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-great-indian-dandiya-weekend-sdyooo9fjx",
+      "validFrom": "2026-10-14T10:15:06.371Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Eyeball Entertainment",
+        "url": "https://www.highape.com/bangalore/organisers/eyeball-39059724f7"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-great-indian-dandiya-weekend-sdyooo9fjx"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Mayhem Ft D-Rain",
     "description": "HighlightsDJ Night ft D-RainNon-Stop MusicBollywood NightUK PunjabiCommercial MusicDance FloorMouth-Watering AppetizersSignature Cocktails&nbsp;and&nbsp;Mocktai",
     "image": [
@@ -14504,56 +14911,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Whitefield Biggest Dandiya Celebration 2026",
-    "description": "HighlightsDisco Dandiya with top Bengaluru DJsHigh-energy Garba and Dandiya musicEthnic theme celebrationComplimentary Dandiya sticksLive music performancesGarb",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/15/b3cb828f9b1deada308db4d8f0a5588e.jpg"
-    ],
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-17T00:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Jolly Johnny’s Bar, Brookefield",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "125, Kundalahalli Main Rd, near CMR IT, above Samosa party, AECS Layout, Whitefield, Bengaluru, Karnataka 560037, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.967421,
-        "longitude": 77.714795
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shane Events",
-      "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "99",
-      "highPrice": "1699",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/whitefield-biggest-dandiya-celebration-2026-201fmbg5v4",
-      "validFrom": "2026-10-13T22:34:28.883Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Shane Events",
-        "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/whitefield-biggest-dandiya-celebration-2026-201fmbg5v4"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Whitefield Biggest Dandiya Mahotsav 2026",
     "description": "HighlightsBengaluru’s biggest Dandiya celebration in Whitefield10,000+ attendees welcomed last year across all daysIndoor and outdoor rain-proof arenaMassive Da",
     "image": [
@@ -14863,62 +15220,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/whitefield-biggest-premium-dandiya-utsav-2026-cl2bzqkl5x"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Whitefield Dandiya Maha Utsav - Season 6",
-    "description": "Highlights Two nights of grand Navratri celebrationsHigh-energy Garba and Dandiya musicIndia’s top DJ performanceLive Dhol and traditional beatsProfessional Gar",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/25/8d5b2aefd8863f0660d121cf71de1c82.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/d68d5da7062d793dc436081a76e73cae.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/c0500e4e34ed7a5a8d9c36f255e7baff.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/64bf375a535f07771cc893ded645cb55.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/1b532c3809b5967e86fb68dfcbc66146.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/c6a7c628cefc69e41557d1b1eee30719.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/ceef9aea5b533caa1244fd5873fed454.jpg"
-    ],
-    "startDate": "2026-10-17T05:00:00+05:30",
-    "endDate": "2026-10-17T11:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "International Tech Park Bangalore (ITPB)",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "ITPL Main Rd, Pattandur Agrahara, Whitefield, Bangalore, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.986119,
-        "longitude": 77.735512
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Dreamswitch Productions",
-      "url": "https://www.highape.com/bangalore/organisers/dreamswitch-productions-5a1e3a5aed"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "49",
-      "highPrice": "2499",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/whitefield-dandiya-mahautsav-season-6-8f4ef4sepk",
-      "validFrom": "2026-10-13T22:37:21.072Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Dreamswitch Productions",
-        "url": "https://www.highape.com/bangalore/organisers/dreamswitch-productions-5a1e3a5aed"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/whitefield-dandiya-mahautsav-season-6-8f4ef4sepk"
   },
   {
     "@context": "https://schema.org",

@@ -946,6 +946,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Kalighat Painting Workshop",
+    "image": "https://cdn-az.allevents.in/events1/banners/84731f60-c5ac-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc980808-gmir.jpg?v=1791748017",
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta: Indiranagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "178-205, 5th Main Rd, Indira Nagar II Stage, Hoysala Naga, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9802",
+        "longitude": "77.6394"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "KALIGHAT PAINTINGS - WHERE TRADITION MEETS MODERNITYBengal is renowned for its rich cultural heritage and diverse artistic traditions, including music, literature, dance, and visual arts. In this workshop, we will explore one of Bengal's most fascinating and thought-provoking art forms -Kalighat Pai",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-04",
+        "availabilityEnds": "2026-11-14T14:00:00+05:30",
+        "validFrom": "2026-09-04",
+        "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "BANGTANVERSE CARNIVAL - FAN TOUR",
     "image": "https://cdn-az.allevents.in/events10/banners/28413250-beb7-11f1-8a18-b3e52d4bf2d6-rimg-w1200-h600-dce898d8-gmir.jpg?v=1790982948",
     "startDate": "2026-11-13T16:00:00+05:30",
@@ -1999,45 +2038,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Saakshaath'Khaara' - Kannada Stand up comedy show",
-    "image": "https://cdn-az.allevents.in/events4/banners/2dd2e650-c6e6-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dcd8c8a8-gmir.jpg?v=1791882733",
-    "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Comedy Square: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "219, 9th main, 15th Cross Road, 6th sector, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9132",
-        "longitude": "77.6352"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "After telling all the old jokes, Sanjeev is back with new stories, new chaos, and the same funny filter.Banni nimma friends-ginds jothe siguva...",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-17T18:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "DANDIYA FOR ALL AT ICB OPEN AIR MANYATA TECH PARK",
     "image": "https://cdn-az.allevents.in/events5/banners/519b5410-c6f4-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc180808-gmir.jpg?v=1791888806",
     "startDate": "2026-10-14T16:00:00+05:30",
@@ -2110,45 +2110,6 @@
         "availabilityEnds": "2026-10-20T18:29:05+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/electronic-city-biggest-dandiya-utsav-open-air/3900030829276454"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dandiya Night 2026 by Marwari Yuva Manch",
-    "image": "https://cdn-az.allevents.in/events10/banners/4fffe1a0-c6f6-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791889663",
-    "startDate": "2026-10-17T18:00:00+05:30",
-    "endDate": "2026-10-17T22:00:00+05:30",
-    "url": "https://allevents.in/bangalore/dandiya-night-2026-by-marwari-yuva-manch/3900030829291743",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "PSR Convention Centre: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bus Stop, Behind Sulikunte, Off Sarjapur Road, Sulikunte, Sulikunte Colony, Bengaluru, Karnataka 562125, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8933",
-        "longitude": "77.7286"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Dandiya Night 2026 Marwari Yuva Manch Bangalore CentralGet ready to immerse yourself in an unforgettable evening of Garba Dandiya Music Food and CelebrationMarwari Yuva Manch Bangalore Central brings you its much awaited Dandiya Night 2026 an exciting celebration for families and friends to come tog",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-17T22:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/dandiya-night-2026-by-marwari-yuva-manch/3900030829291743"
       }
     ]
   },
@@ -2272,6 +2233,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "AnyBody Can Dandiya 6.0 - HSR Layout",
+    "image": "https://cdn-az.allevents.in/events7/banners/7d87ffd0-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc882848-gmir.jpg?v=1791958888",
+    "startDate": "2026-10-16T18:00:00+05:30",
+    "endDate": "2026-10-19T22:30:00+05:30",
+    "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-hsr-layout/3900030829364653",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Manvi Convention, HSR Layout: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1184, 11th Cross Road, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9176",
+        "longitude": "77.6474"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Think Dandiya. Think DesiClans.Garba, but curated. ABCD 6.0 brings its premium edition to Manvi Convention, HSR Layout - four nights of Dandiya Raas, Heech, and Sanedo in one of South Bengaluru`s finest fully air-conditioned indoor venues.Limited capacity. Prime location. Minutes from HSR, Koramanga",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-19T22:30:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-hsr-layout/3900030829364653"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dandiya - Durga Puja",
     "image": "https://cdn-az.allevents.in/events3/banners/9d5481b0-c6fe-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791893228",
     "startDate": "2026-10-17T19:00:00+05:30",
@@ -2305,45 +2305,6 @@
         "availabilityEnds": "2026-10-17T21:30:00+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Malhar Live Dandiya Night at The Pallet BY ABV",
-    "image": "https://cdn-az.allevents.in/events8/banners/ba9da510-c70a-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc180808-gmir.jpg?v=1791898431",
-    "startDate": "2026-10-17T20:00:00+05:30",
-    "endDate": "2026-10-18T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/malhar-live-dandiya-night-at-the-pallet-by-abv/3900030829561852",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "ABV - Artisanal Bier Village: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "ABV, Previously known as The Pallet Brewhouse and Kitchen, Hoodi, Whitefield Main Road, Thigalarapalya, Mahadevpura, Krishnarajapuram, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9918",
-        "longitude": "77.7199"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Navratri 2026 comes alive at The Pallet, Whitefield with a spectacular Dandiya night featuring MALHAR LIVE - a full live band performance blending Bollywood classics, soulful Sufi anthems, and rock energy into one seamless Garba dance floor experience.Instead of a DJ, tonight the The Pallet Garba ar",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-18T00:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/malhar-live-dandiya-night-at-the-pallet-by-abv/3900030829561852"
       }
     ]
   },
@@ -2389,6 +2350,165 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Cyber Security with Ethical Hacking",
+    "image": "https://cdn-az.allevents.in/events5/banners/6c674580-adb1-11f1-be3c-695c7d399bc4-rimg-w1200-h675-dc080808-gmir.jpg?v=1789111296",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/cyber-security-with-ethical-hacking/4100030685881836",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Cyber Ninjas: Master the Art of Ethical HackingVenue: IIIT BangaloreAddress: 26/C, Hosur Rd, Electronic City Phase I, Electronic City, Konappana Agrahara, Karnataka 560100 Course ContentDuration: 2 Days (14-16 HRS)Eligibility: Can be joined by B.TECH, B.E., GRADUATE, POST GRADUATE, COLLEGE STUDENTS,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-11",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-11",
+        "lowPrice": "2200.00",
+        "highPrice": "2200.00",
+        "price": "2200.00",
+        "url": "https://allevents.in/bangalore/cyber-security-with-ethical-hacking/4100030685881836"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-11",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-11",
+        "url": "https://allevents.in/bangalore/cyber-security-with-ethical-hacking/4100030685881836",
+        "price": "2200.00",
+        "name": "Regular Ticket"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Astrophysics-Space and Science",
+    "image": "https://cdn-az.allevents.in/events3/banners/ec9c1420-b139-11f1-a736-1f1bd1d9a127-rimg-w1200-h675-dc080808-gmir.jpg?v=1789499776",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/astrophysics-space-and-science/4100030686461114",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Astrophysics WorkshopVenue: IIIT BangaloreDuration: 2 Days (14-16 HRS)Step into the fascinating world of Astrophysics with our Hands-On Workshop for School and College Students 🚀EligibilityOpen to all!Astrophysics – Dive into the mysteries of the universe through cosmic phenomena, space-time concept",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-11",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-11",
+        "lowPrice": "2200.00",
+        "highPrice": "2200.00",
+        "price": "2200.00",
+        "url": "https://allevents.in/bangalore/astrophysics-space-and-science/4100030686461114"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-11",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-11",
+        "url": "https://allevents.in/bangalore/astrophysics-space-and-science/4100030686461114",
+        "price": "2200.00",
+        "name": "Regular Ticket"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "IOT-ROBOTICS-ROS",
+    "image": "https://cdn-az.allevents.in/events9/banners/0fbc2990-b16c-11f1-8691-cd349320de2d-rimg-w1200-h675-dc080808-gmir.jpg?v=1789521310",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/iot-robotics-ros/4100030687255654",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "AI-IOT-ROBOTICS-ROSVenue: IIIT BangaloreAddress: 26/C, Hosur Rd, Electronic City Phase I, Electronic City, Konappana Agrahara, Karnataka 560100Content will be covered from basic to advance level.Duration: 2 Days (14-16 HRS)Eligibility: Open to all, including B.Tech, B.E., undergraduate and postgradu",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-11",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-11",
+        "lowPrice": "2500.00",
+        "highPrice": "2500.00",
+        "price": "2500.00",
+        "url": "https://allevents.in/bangalore/iot-robotics-ros/4100030687255654"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-11",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-11",
+        "url": "https://allevents.in/bangalore/iot-robotics-ros/4100030687255654",
+        "price": "2500.00",
+        "name": "Regular Ticket"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "DANDIYA FOR ALL AT ICB OPEN AIR MANYATA TECH PARK",
     "image": "https://cdn-az.allevents.in/events5/banners/519b5410-c6f4-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc180808-gmir.jpg?v=1791888806",
     "startDate": "2026-10-14T16:00:00+05:30",
@@ -2422,6 +2542,218 @@
         "availabilityEnds": "2026-10-20T18:29:05+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/dandiya-for-all-at-icb-open-air-manyata-tech-park/3900030829268627"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "AI in Film/ Video Making",
+    "image": "https://cdn-az.allevents.in/events6/banners/4fbe3090-b1b4-11f1-a988-d785e4b7babf-rimg-w1200-h675-dc080808-gmir.jpg?v=1789552341",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/ai-in-film-video-making/4100030689457635",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "AI in Film/ Video MakingVenue: IIIT BangaloreAddress: 26/C, Hosur Rd, Electronic City Phase I, Electronic City, Konappana Agrahara, Karnataka 560100Audience:Creators, filmmakers, writers, editors, VFX artists, animators, and AI enthusiasts at all levels of expertise and students who are looking to e",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-12",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-12",
+        "lowPrice": "2500.00",
+        "highPrice": "2500.00",
+        "price": "2500.00",
+        "url": "https://allevents.in/bangalore/ai-in-film-video-making/4100030689457635"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-12",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-12",
+        "url": "https://allevents.in/bangalore/ai-in-film-video-making/4100030689457635",
+        "price": "2500.00",
+        "name": "Regular Ticket"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Drone Technology",
+    "image": "https://cdn-az.allevents.in/events3/banners/22236490-b19e-11f1-a0b0-c38a0dcc7e7e-rimg-w1200-h675-dc080808-gmir.jpg?v=1789542816",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/drone-technology/4100030689957730",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Drone TechnologyContent will be covered from basic to advanced level.EligibilityOpen to all!B.Tech, B.E., BCA, MCA, B.Sc IT, M.Sc IT, MBBS, MS, MD, Biomedical, Biotechnology, BBA, MBA, B.A., and hobbyists from all backgroundsCourse ContentDuration: 2 Days (14-16 HRS)Eligibility: Students and Working",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-12",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-12",
+        "lowPrice": "2500.00",
+        "highPrice": "2500.00",
+        "price": "2500.00",
+        "url": "https://allevents.in/bangalore/drone-technology/4100030689957730"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-12",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-12",
+        "url": "https://allevents.in/bangalore/drone-technology/4100030689957730",
+        "price": "2500.00",
+        "name": "Regular Ticket"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mastering Generative &amp; Agentic AI",
+    "image": "https://cdn-az.allevents.in/events10/banners/0a2147f0-af4a-11f1-94e1-4389fc08cada-rimg-w1200-h675-dc080808-gmir.jpg?v=1789286795",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/mastering-generative-and-agentic-ai/4100030692400736",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Mastering: Generative & Agentic AIEligibility: Can be joined by both Engineering and bio-medical and other students also who are interested in making their career and want to update in AI. (Open to All)Duration: 2 Days (14-16 HRS)Course ContentIntroduction to Generative AI:Get to know about what is",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-13",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-13",
+        "lowPrice": "2500.00",
+        "highPrice": "2500.00",
+        "price": "2500.00",
+        "url": "https://allevents.in/bangalore/mastering-generative-and-agentic-ai/4100030692400736"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-13",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-13",
+        "url": "https://allevents.in/bangalore/mastering-generative-and-agentic-ai/4100030692400736",
+        "price": "2500.00",
+        "name": "Regular Ticket"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "App Development with Vibe Code",
+    "image": "https://cdn-az.allevents.in/events9/banners/0d76db90-af4a-11f1-94e1-4389fc08cada-rimg-w1200-h675-dc080818-gmir.jpg?v=1789286801",
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/app-development-with-vibe-code/4100030692401242",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IIITB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/C, Hosur Rd, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8449599",
+        "longitude": "77.6632162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "No-Code App Development using Vibe CodingThe entire session will be covered in two partsTheory Session – Basic & Advanced.Practical Sessions – Basic & Advanced.CERTIFICATION:Certificate of participation for each candidates after the workshop.EligibilityOpen to all!B.Tech, B.E., BCA, MCA, B.Sc IT, M.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-13",
+        "availabilityEnds": "2026-11-15T17:00:00+05:30",
+        "validFrom": "2026-09-13",
+        "lowPrice": "2200.00",
+        "highPrice": "2200.00",
+        "price": "2200.00",
+        "url": "https://allevents.in/bangalore/app-development-with-vibe-code/4100030692401242"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-13",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-13",
+        "url": "https://allevents.in/bangalore/app-development-with-vibe-code/4100030692401242",
+        "price": "2200.00",
+        "name": "Regular Ticket"
       }
     ]
   },
@@ -2586,319 +2918,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Bengaluru Biggest Dandiya Utsav",
-    "image": "https://cdn-az.allevents.in/events10/banners/3862b9c0-b6eb-11f1-9a10-a9bfe57ee70b-rimg-w1200-h675-dc080808-gmir.jpg?v=1790125680",
-    "startDate": "2026-10-17T16:00:00+05:30",
-    "endDate": "2026-10-17T22:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Orion Mall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Orion Mall, Brigade Gateway Road, Subramanyanagar, 2nd Stage, Rajajinagar, Bengaluru, Karnataka 560055, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0110208",
-        "longitude": "77.5549561"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "BENGALURU BIGGEST DANDIYA UTSAV 2026 - ORION MALL, RAJAJINAGARBENGALURU, GET READY FOR 4 NIGHTS OF ROYAL DANDIYA MADNESS!Premium Price. Premium Experience This October, Orion Mall, Rajajinagar transforms into a magnificent celebration of Dandiya, Garba, music, culture and festive grandeur!From 17th-",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "2026-10-17T22:00:00+05:30",
-        "validFrom": "2026-09-23",
-        "lowPrice": "99.00",
-        "highPrice": "3120.00",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "99.00",
-        "name": "Early Bird | Kid"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "449.00",
-        "name": "Early Bird | Single Entry"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "849.00",
-        "name": "Early Bird | Couple Entry"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "1649.00",
-        "name": "Early Bird | Group of 4 Pax"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "2399.00",
-        "name": "Early Bird | Group of 6 Pax"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "3120.00",
-        "name": "Early Bird | Group of 8 Pax"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-23",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-23",
-        "url": "https://allevents.in/bangalore/bengaluru-biggest-dandiya-utsav/4100030727684200",
-        "price": "349.00",
-        "name": "Early Bird | Student Entry"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Rangilo 2026 – The Grand Dandiya &amp; Garba Festival",
-    "image": "https://cdn-az.allevents.in/events8/banners/ed6ed850-b99b-11f1-afc5-c961eba0d97b-rimg-w1200-h675-dc080808-gmir.jpg?v=1790421478",
-    "startDate": "2026-10-16T17:00:00+05:30",
-    "endDate": "2026-10-16T23:59:00+05:30",
-    "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Legends Microbrewery",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Balagere, Devasthanagalu, Varthur Main Road, Whitefield, Bangalore",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9396376588",
-        "longitude": "77.7344133418"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This Navratri, Legend Microbrewery transforms into a vibrant celebration of music, dance, culture and festive energy with RANGILO 2026 – The Grand Dandiya & Garba Festival, happening from 16th to 18th October 2026.For the first time ever, Legend Microbrewery brings you a spectacular three-day Dandiy",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "2026-10-16T23:59:00+05:30",
-        "validFrom": "2026-09-26",
-        "lowPrice": "99.00",
-        "highPrice": "1499.00",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-        "price": "599.00",
-        "name": "Couple Ticket"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-        "price": "299.00",
-        "name": "Male Ticket"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-        "price": "249.00",
-        "name": "Female Ticket"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-        "price": "99.00",
-        "name": "Kid Ticket"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-        "price": "1099.00",
-        "name": "Group of 4 Pax"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/rangilo-2026-the-grand-dandiya-and-garba-festival/4100030740727358",
-        "price": "1499.00",
-        "name": "Group of 6 Pax"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bollywood Rooftop Dandiya at Shift Lounge",
-    "image": "https://cdn-az.allevents.in/events1/banners/f701b630-b99b-11f1-afc5-c961eba0d97b-rimg-w1200-h675-dcc83838-gmir.jpg?v=1790421494",
-    "startDate": "2026-10-14T18:00:00+05:30",
-    "endDate": "2026-10-14T23:59:00+05:30",
-    "url": "https://allevents.in/bangalore/bollywood-rooftop-dandiya-at-shift-lounge/4100030740728714",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Shift Lounge & Bar | Kadubeesanahalli, Bangalore",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Kadubeesanahalli, Bangalore",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9469",
-        "longitude": "77.6991"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for five unforgettable evenings of music, dance, and festive celebrations at Bollywood Disco Dandiya 2026. Experience the perfect blend of traditional Garba and Dandiya with Bollywood beats at the stunning Shift Lounge, Marathahalli, Bengaluru. Bring your friends and family and celebrate N",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "2026-10-14T23:59:00+05:30",
-        "validFrom": "2026-09-26",
-        "lowPrice": "99.00",
-        "highPrice": "1999.00",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/bollywood-rooftop-dandiya-at-shift-lounge/4100030740728714"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/bollywood-rooftop-dandiya-at-shift-lounge/4100030740728714",
-        "price": "99.00",
-        "name": "Kids Pass | 6-12 yrs"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/bollywood-rooftop-dandiya-at-shift-lounge/4100030740728714",
-        "price": "249.00",
-        "name": "General Pass"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/bollywood-rooftop-dandiya-at-shift-lounge/4100030740728714",
-        "price": "999.00",
-        "name": "Group of 5 pass"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/bollywood-rooftop-dandiya-at-shift-lounge/4100030740728714",
-        "price": "1999.00",
-        "name": "Group of 10 pass"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Mirchi Rock N Dhol - Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/1b4c1110-b99d-11f1-afc5-c961eba0d97b-rimg-w1200-h675-dcf8b808-gmir.jpg?v=1790421984",
@@ -2982,151 +3001,6 @@
         "name": "Group of 5"
       }
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "ECCA Dandiya Night '26 - Electronic City",
-    "image": "https://cdn-az.allevents.in/events10/banners/a64589e0-b9cf-11f1-afc5-c961eba0d97b-rimg-w1200-h675-dca83828-gmir.jpg?v=1790443692",
-    "startDate": "2026-10-20T20:00:00+05:30",
-    "endDate": "2026-10-20T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "White Feather",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "40/41-1, Hobli-Begur, VILLAGE-BERATENA AGRAHARA, NICE Toll Gate, Santara Magan Place Phase I, opposite METRO WHOLESALE, Konappana Agrahara, Electronic City, Bengaluru, Karnataka 560092, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8596209",
-        "longitude": "77.6608687"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🌟✨ Like every year, ECCA brings to Bengaluru another exciting Dandiya Night! ✨🌟Join one of Bengaluru’s most anticipated Navratri and Durga Puja celebrations, featuring an evening filled with music, dance, food, and festive experiences.What to Expect• Live Celebrity Performance: Enjoy a live performa",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "2026-10-20T23:00:00+05:30",
-        "validFrom": "2026-09-26",
-        "lowPrice": "700.00",
-        "highPrice": "1000.00",
-        "price": "700.00",
-        "url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513",
-        "price": "1000.00",
-        "name": "Early Bird Couple Entry Donor Pass"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513",
-        "price": "700.00",
-        "name": "Early Bird Single Entry Donor Pass"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Redroom Dandiya 2026 at Lolas Manyata Tech Park",
-    "image": "https://cdn-az.allevents.in/events9/banners/2ff5a7b0-b9df-11f1-afc5-c961eba0d97b-rimg-w1200-h675-dc280808-gmir.jpg?v=1790450365",
-    "startDate": "2026-10-14T17:00:00+05:30",
-    "endDate": "2026-10-14T23:59:00+05:30",
-    "url": "https://allevents.in/bangalore/redroom-dandiya-2026-at-lolas-manyata-tech-park/4100030742489126",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Lola's",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Unit D1, Ground Floor, D3 Block, Embassy Manyata Business Park. Outer Ring Road, Nagawara, Bangalore",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0488477212",
-        "longitude": "77.6202059196"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bengaluru's Navratri CelebrationGet ready for five exciting nights of Garba, Dandiya, Bollywood music and festive energy at Redroom Dandiya 2026, happening at Lolas All Day Casual Dining + Bar, Manyata Business Park, Nagawara, Bengaluru.Celebrate with your friends and family with vibrant festive dec",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "2026-10-14T23:59:00+05:30",
-        "validFrom": "2026-09-26",
-        "lowPrice": "299.00",
-        "highPrice": "299.00",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/redroom-dandiya-2026-at-lolas-manyata-tech-park/4100030742489126"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/redroom-dandiya-2026-at-lolas-manyata-tech-park/4100030742489126",
-        "price": "299.00",
-        "name": "General Pass"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "AnyBody Can Dandiya 6.0 - Palace Grounds",
-    "image": "https://cdn-az.allevents.in/events9/banners/d9eabb50-c21f-11f1-848b-1578c9159971-rimg-w900-h1200-dce85828-gmir.jpg?v=1791357748",
-    "startDate": "2026-10-16T12:30:00+00:00",
-    "endDate": "2026-10-19T17:00:00+00:00",
-    "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-grounds/4100030796311128",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kings Court",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Kings Court, Bengaluru",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0082191",
-        "longitude": "77.5843696"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Think Dandiya. Think DesiClans.Six years. One legendary dance floor. ABCD 6.0 lands at Palace Grounds — the address Bengaluru associates with scale — for four nights of Garba, Dandiya Raas, Heech and Sanedo under one roof and one open sky.This is the flagship. The biggest Garba floor in the city, a"
   },
   {
     "@context": "https://schema.org",
@@ -4026,6 +3900,56 @@
         "name": "Bengaluru by Foot",
         "url": "https://allevents.in/org/bengaluru-by-foot/4028989",
         "description": "At Bengaluru by Foot, we take immense pride in guiding residents and visitors alike on a captivating journey through the city's vibrant culture, delectable cuisine, and timeless heritage—unveiled one curated walk at a time."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Sanskritik Durga Puja 2026 JP Nagar Bangalore",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6a6adfc13e6c9.jpg",
+    "startDate": "2026-10-16T15:00:00+05:30",
+    "endDate": "2026-10-21T12:00:00+05:30",
+    "url": "https://allevents.in/bangalore/sanskritik-durga-puja-2026-jp-nagar-bangalore/80002656051188",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Elite Banquets | Party Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Puttenahalli Rd, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "postalCode": "560078",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9025045",
+        "longitude": "77.5830111"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "🌺✨ Sanskritik Durga Puja 2026 in Bengaluru | OPEN FOR ALL ✨🌺Join one of the biggest Durga Puja celebrations in JP Nagar, Bengaluru 2026 and experience the divine arrival of Maa Durga with devotion, culture, and tradition.We warmly invite you and your family to celebrate Bengaluru Durga Puja 2026 wit",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-07-30",
+        "availabilityEnds": "2026-10-21T12:00:00+05:30",
+        "validFrom": "2026-07-30",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/sanskritik-durga-puja-2026-jp-nagar-bangalore/80002656051188"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Sanskritik Trust",
+        "url": "https://allevents.in/org/sanskritik-trust/20343013"
       }
     ]
   },
@@ -5706,67 +5630,6 @@
         "@type": "Organization",
         "name": "HSR meetups",
         "url": "https://allevents.in/org/hsr-meetups/25535050"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Yoga and Mindfulness Retreat",
-    "image": "https://cdn-az.allevents.in/events8/banners/d523383418e34f75c31269d872b553eadeb6351e1f14b42d4a6629f2db12edf7-rimg-w940-h470-dc382808-gmir.jpg?v=1786248203",
-    "startDate": "2026-10-14T10:00:00+05:30",
-    "endDate": "2026-10-14T12:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/yoga-and-mindfulness-retreat/100001996786261460",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Hub@Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "27th Main Road",
-        "postalCode": "560102",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9084767",
-        "longitude": "77.6519543"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Unplug, unwind, and find your inner peace at our chill Yoga and Mindfulness Retreat!",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-09",
-        "availabilityEnds": "2026-10-14T12:00:00+05:30",
-        "validFrom": "2026-08-09",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/yoga-and-mindfulness-retreat/100001996786261460"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/SoldOut",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-09",
-        "availabilityEnds": "",
-        "validFrom": "2026-08-09",
-        "url": "https://allevents.in/bengaluru/yoga-and-mindfulness-retreat/100001996786261460",
-        "price": 0,
-        "name": "General Admission"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "John Doe",
-        "url": "https://allevents.in/org/john-doe/28077629"
       }
     ]
   },
