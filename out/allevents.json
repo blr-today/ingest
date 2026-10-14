@@ -1083,6 +1083,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Kalighat Painting Workshop",
+    "image": "https://cdn-az.allevents.in/events1/banners/84731f60-c5ac-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc980808-gmir.jpg?v=1791748017",
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta: Indiranagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "178-205, 5th Main Rd, Indira Nagar II Stage, Hoysala Naga, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9802",
+        "longitude": "77.6394"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "KALIGHAT PAINTINGS - WHERE TRADITION MEETS MODERNITYBengal is renowned for its rich cultural heritage and diverse artistic traditions, including music, literature, dance, and visual arts. In this workshop, we will explore one of Bengal's most fascinating and thought-provoking art forms -Kalighat Pai",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-04",
+        "availabilityEnds": "2026-11-14T14:00:00+05:30",
+        "validFrom": "2026-09-04",
+        "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "BANGTANVERSE CARNIVAL - FAN TOUR",
     "image": "https://cdn-az.allevents.in/events10/banners/28413250-beb7-11f1-8a18-b3e52d4bf2d6-rimg-w1200-h600-dce898d8-gmir.jpg?v=1790982948",
     "startDate": "2026-11-13T16:00:00+05:30",
@@ -1707,6 +1746,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "DIY Coral Reef - Bangalore",
+    "image": "https://cdn-az.allevents.in/events5/banners/a299b640-c29e-11f1-8343-39970249843c-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791412206",
+    "startDate": "2026-10-31T17:00:00+05:30",
+    "endDate": "2026-10-31T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/diy-coral-reef-bangalore/3900030752865723",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Koramangala Social: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Seventh Block, Plot 118, 80 Feet Road, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9355",
+        "longitude": "77.6141"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create your own mini coral reef scene inside a box using colours and craft materials. Make a fun ocean-themed decor piece step by step.A simple and creative workshop for all ages.Build your own ocean scene.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-29",
+        "availabilityEnds": "2026-10-31T18:30:00+05:30",
+        "validFrom": "2026-09-29",
+        "url": "https://allevents.in/bangalore/diy-coral-reef-bangalore/3900030752865723"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Disco Dandiya Season 4 - Garba &amp; Dandiya",
     "image": "https://cdn-az.allevents.in/events10/banners/bc574880-c6f5-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dcc86828-gmir.jpg?v=1791889415",
     "startDate": "2026-10-17T19:00:00+05:30",
@@ -1940,45 +2018,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A BOLLYBOX WEDNESDAY LADIES NIGHT OUT",
-    "image": "https://cdn-az.allevents.in/events7/banners/777a6970-c468-11f1-8bb2-5d370764ebd0-rimg-w1200-h600-dc080808-gmir.jpg?v=1791608838",
-    "startDate": "2026-10-14T21:30:00+05:30",
-    "endDate": "2026-10-15T02:50:00+05:30",
-    "url": "https://allevents.in/bangalore/a-bollybox-wednesday-ladies-night-out/3900030768982220",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Sugar Factory Reloaded: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "93/A Ground floor, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9334",
-        "longitude": "77.614"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "A Step into a world beyond reality at Celabrity DJ  an electrifying night of futuristic energy immersive visuals and powerful beatsMUSIC Bollywood EDM X All mix songs Wednesday NIGHT 8 PM ONWARDSExpect next level music insane energy  N an unforgettable experienceDONT JUST ATTEND THE PARTY. EXPERIENC",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-04",
-        "availabilityEnds": "2026-10-15T02:50:00+05:30",
-        "validFrom": "2026-10-04",
-        "url": "https://allevents.in/bangalore/a-bollybox-wednesday-ladies-night-out/3900030768982220"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Biggest Dandiya Utsav at Royal Orchid hotel,domlur",
     "image": "https://cdn-az.allevents.in/events7/banners/c85f5760-c73d-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1791920359",
@@ -2058,39 +2097,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "A NEON THEME NIGHT DJ PARTY AT DRAVA PUB",
-    "image": "https://cdn-az.allevents.in/events6/banners/f7abb9a0-c7c4-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dc080808-gmir.jpg?v=1791978420",
-    "startDate": "2026-10-18T21:30:00+05:30",
-    "endDate": "2026-10-19T01:30:00+05:30",
-    "url": "https://allevents.in/bangalore/a-neon-theme-night-dj-party-at-drava-pub/3900030812990012",
+    "name": "Saakshaath'Khaara' - Kannada Stand up comedy show",
+    "image": "https://cdn-az.allevents.in/events4/banners/2dd2e650-c6e6-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dcd8c8a8-gmir.jpg?v=1791882733",
+    "startDate": "2026-10-17T17:00:00+05:30",
+    "endDate": "2026-10-17T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Drava: Bengaluru",
+      "name": "Comedy Square: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "3rd Floor, Vijay Jatti Building, 104, 1st Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "streetAddress": "219, 9th main, 15th Cross Road, 6th sector, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9346",
-        "longitude": "77.6158"
+        "latitude": "12.9132",
+        "longitude": "77.6352"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "A NEON-THEME NIGHT AT DRAVA PUB KORAMANGALASUNDAYS AT 8 PM ONWARDSFREE GLOW-IN-THE-DARK FACE PAINTINGBOLLYWOOD X EDM BEATS ALL NIGHT LONGHIGH ENERGY. EPIC VIBES. UNFORGETTABLE MOMENTS.DON T MISS OUT  LET S LIGHT UP THE NIGHT IN STYLEFREE ENTRY FOR ALLFREE DRINKS FOR LADIESFREE FACE PAINTING NEON FOO",
+    "description": "After telling all the old jokes, Sanjeev is back with new stories, new chaos, and the same funny filter.Banni nimma friends-ginds jothe siguva...",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-09",
-        "availabilityEnds": "2026-10-19T01:30:00+05:30",
-        "validFrom": "2026-10-09",
-        "url": "https://allevents.in/bangalore/a-neon-theme-night-dj-party-at-drava-pub/3900030812990012"
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-17T18:30:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014"
       }
     ]
   },
@@ -2130,6 +2169,45 @@
         "availabilityEnds": "2026-10-20T18:29:05+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/electronic-city-biggest-dandiya-utsav-open-air/3900030829276454"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Great Indian Dandiya Weekend",
+    "image": "https://cdn-az.allevents.in/events9/banners/2c389210-c6f8-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791890462",
+    "startDate": "2026-10-16T19:00:00+05:30",
+    "endDate": "2026-10-18T18:29:05+05:30",
+    "url": "https://allevents.in/bangalore/the-great-indian-dandiya-weekend/3900030829316302",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Night Volt Pub and Resto Bar: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, 146, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9338",
+        "longitude": "77.6198"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The Great Indian Dandiya Weekend This weekend come and enjoy the Massive celebration of Navratri. We will have special garba music and special surprises in store for you.Come by with all your friends. Guestlist is for couples and single girls only.Dress code is smart Casuals and ethnic wear.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-18T18:29:05+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/the-great-indian-dandiya-weekend/3900030829316302"
       }
     ]
   },
@@ -3600,304 +3678,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "SuperStar Dj Night",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6acf7e9ea19ee.jpg",
-    "startDate": "2026-10-16T19:00:00+05:30",
-    "endDate": "2026-10-17T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Babylonia - Global Food and Cocktails",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7th Block, 9, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.936228",
-        "longitude": "77.6157097"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🎧 SUPERSTAR DJ NIGHT at BABYLONIA 🎧Kick-start your weekend with an unforgettable Friday night at Babylonia, Koramangala! Get ready for electrifying DJ beats, your favourite tracks, an energetic dance floor, and an incredible party atmosphere.🔥 Superstar DJ Night 🎶 Non-stop music and party vibes 💃 Da",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-        "availability": "https://schema.org/InStock",
-        "name": "GIRLS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-        "availability": "https://schema.org/InStock",
-        "name": "BOYS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-        "availability": "https://schema.org/InStock",
-        "name": "COUPLES FREE ENTRY ON GUESTLIST✅"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "GLAMBU",
-        "url": "https://allevents.in/org/glambu/27862034"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Garba By The Lake",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6acf5a1fde652.jpg",
-    "startDate": "2026-10-17T00:00:00+05:30",
-    "endDate": "2026-10-18T17:00:00+05:30",
-    "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Lakeside Socials",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1/1, Seegehalli, Aavalahalli, Bengaluru, Karnataka 560049, India",
-        "postalCode": "560049",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0204184",
-        "longitude": "77.7253408"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "GARBA BY THE LAKE 2026 💃✨A Celebration of Culture, Colours & Dandiya!Bengaluru, get ready to dance your heart out! 🥁This October, experience two unforgettable evenings of music, dance, culture, and celebration as Dune Productions presents GARBA BY THE LAKE at Lakeside Socials, Bengaluru!Get dressed",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "lowPrice": "299.00",
-        "highPrice": "1499.00",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Students ( from ages 13 - 17 )"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Students ( from ages 13 - 17 )"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Students ( from ages 13 - 17 )"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Family ( 4 people ) kids below the age of 12 free"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Family ( 4 people ) kids below the age of 12 free"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Family ( 4 people ) kids below the age of 12 free"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "The Dune Productions",
-        "url": "https://allevents.in/org/the-dune-productions/28236501"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "THE ROOM OF MEMORIES MLR 25th 5PM",
     "image": "https://cdn2.allevents.in/thumbs/thumb6a4d11b880d89.jpg",
     "startDate": "2026-10-25T17:00:00+05:30",
@@ -4863,89 +4643,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "STR DJ NIGHT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6acf80fb74b1a.jpg",
-    "startDate": "2026-10-17T19:30:00+05:30",
-    "endDate": "2026-10-18T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/str-dj-night-tickets/80003058293689",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Babylonia - Global Food and Cocktails",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7th Block, 9, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.936228",
-        "longitude": "77.6157097"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🔥 STR SPECIAL – SATURDAY DJ NIGHT 🔥Get ready for an explosive Saturday night at Babylonia, Koramangala! Celebrate the weekend with an exciting STR-themed DJ night, featuring your favourite Tamil tracks, mass moments, and non-stop party vibes.🎧 STR Special DJ Night 🎶 Tamil hits and high-energy DJ bea",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/str-dj-night-tickets/80003058293689"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/str-dj-night-tickets/80003058293689",
-        "availability": "https://schema.org/InStock",
-        "name": "GIRLS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/str-dj-night-tickets/80003058293689",
-        "availability": "https://schema.org/InStock",
-        "name": "BOYS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/str-dj-night-tickets/80003058293689",
-        "availability": "https://schema.org/InStock",
-        "name": "COUPLES FREE ENTRY ON GUESTLIST✅"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "GLAMBU",
-        "url": "https://allevents.in/org/glambu/27862034"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "THE ROOM OF MEMORIES MLR 24th 7PM",
     "image": "https://cdn2.allevents.in/thumbs/thumb6a4d11b880d89.jpg",
     "startDate": "2026-10-24T19:00:00+05:30",
@@ -5669,6 +5366,68 @@
         "@type": "Organization",
         "name": "Human Library Bengaluru",
         "url": "https://allevents.in/org/human-library-bengaluru/25067310"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "The Wrong Festival",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6acf115faf759.jpg",
+    "startDate": "2026-11-14T18:00:00+05:30",
+    "endDate": "2026-11-14T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-wrong-festival-tickets/80005635990297",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Raft",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4, 1st Main Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+        "postalCode": "560034",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9261343",
+        "longitude": "77.63745279999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The Wrong Festival Vol.1The Wrong Festival Vol.1 will take place on the 14th of November at The Raft, Koramangala.Hosted by the band i got the wrong tattoo (in collaboration with B$DK), this event aims to set a punk rock DIY atmosphere, with art stalls and merch tables set up within the venue, allow",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-14",
+        "availabilityEnds": "2026-11-14T22:00:00+05:30",
+        "validFrom": "2026-10-14",
+        "lowPrice": "499.00",
+        "highPrice": "499.00",
+        "price": "499.00",
+        "url": "https://allevents.in/bangalore/the-wrong-festival-tickets/80005635990297"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-14",
+        "availabilityEnds": "2026-11-14T22:00:00+05:30",
+        "validFrom": "2026-10-14",
+        "price": "499.00",
+        "url": "https://allevents.in/bangalore/the-wrong-festival-tickets/80005635990297",
+        "availability": "https://schema.org/InStock",
+        "name": "Phase 1 "
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Bangalore Scene Distortion Kult (BDK)",
+        "url": "https://allevents.in/org/bangalore-scene-distortion-kult-b$dk/27738579",
+        "description": "A Kult of unhinged distortion lovers who live for all things loud and underground! 🤘💀"
       }
     ]
   },
