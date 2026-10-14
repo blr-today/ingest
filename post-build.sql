@@ -85,6 +85,14 @@ WHERE
 ,   'https://puttingscene.com/events/J8GZJF'
   );
 
+-- Season tickets and memberships are not events
+-- e.g. https://www.district.in/events/isl-2026-27-bengaluru-fc-membership-pass-buy-tickets
+DELETE FROM events
+WHERE
+  lower(event_json ->> '$.name') LIKE '%membership%'
+  OR lower(event_json ->> '$.name') LIKE '%season pass%'
+  OR lower(event_json ->> '$.name') LIKE '%season ticket%';
+
 
 -- Low Quality events, and trips/treks from OdysseyVibes.in
 UPDATE events
