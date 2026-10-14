@@ -3540,8 +3540,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/6ca0b9672291b3f50458a08a1af46132.jpg"
     ],
-    "startDate": "2026-10-14T17:00:00+05:30",
-    "endDate": "2026-10-14T18:00:00+05:30",
+    "startDate": "2026-10-15T17:00:00+05:30",
+    "endDate": "2026-10-15T18:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -3570,7 +3570,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coffee-painting-u11hma31at",
-      "validFrom": "2026-10-13T14:39:14.720Z"
+      "validFrom": "2026-10-14T16:22:08.172Z"
     },
     "performer": [
       {
@@ -3589,8 +3589,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/6ca0b9672291b3f50458a08a1af46132.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -3619,7 +3619,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coffee-painting-w1tmo7s2ja",
-      "validFrom": "2026-10-13T14:39:15.391Z"
+      "validFrom": "2026-10-14T15:51:30.160Z"
     },
     "performer": [
       {
@@ -3638,8 +3638,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/6ca0b9672291b3f50458a08a1af46132.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -3668,7 +3668,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coffee-painting-yj1du6b09j",
-      "validFrom": "2026-10-13T14:39:15.917Z"
+      "validFrom": "2026-10-14T16:21:20.809Z"
     },
     "performer": [
       {
@@ -4136,6 +4136,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Dandiya Night",
+    "description": "HighlightsThree Nights of Garba and Dandiya CelebrationsLive DJ with Energetic Festive BeatsBest Dressed Contest with ₹1,000 Bar Tab Every NightDedicated Photo ",
+    "image": [
+      "https://www.highape.com/highape_logo_header.png"
+    ],
+    "startDate": "2026-10-16T19:00:00+05:30",
+    "endDate": "2026-10-17T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Quarter Adda",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "98/1, 10th Main Rd, Attur Layout, Yelahanka New Town, Bengaluru, Karnataka 560064, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.098196,
+        "longitude": 77.569399
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Quarter Adda",
+      "url": "https://www.highape.com/bangalore/organisers/quarter-adda-nale7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "299",
+      "highPrice": "1196",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dandiya-night-6lj0qk65qm",
+      "validFrom": "2026-10-14T16:39:55.447Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Quarter Adda",
+        "url": "https://www.highape.com/bangalore/organisers/quarter-adda-nale7"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dandiya-night-6lj0qk65qm"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dandiya Night | Friday | Flo Church Street",
     "description": "HighlightsHigh-energy Dandiya Night at FLO, Church StreetCelebrate Navratri with music, dance and festive energyColourful festive ambience throughout the evenin",
     "image": [
@@ -4470,7 +4520,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dandiya-reloaded-7rly1x7lb1",
-      "validFrom": "2026-10-13T14:22:52.799Z"
+      "validFrom": "2026-10-14T16:44:55.338Z"
     },
     "performer": [
       {
@@ -4531,6 +4581,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dandiya-social-3aq68m4q2i"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dandiya Soiree ",
+    "description": "HighlightsHigh-energy Garba and Dandiya celebrationsElectrifying DJ music and traditional Garba tracksFestive ethnic wear and colourful celebrationsLively dance",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/6a59961a78a30c016dc9b1b3b01cca3a.jpg"
+    ],
+    "startDate": "2026-10-16T18:00:00+05:30",
+    "endDate": "2026-10-16T23:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Bier Loft Brewing Company",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, Nishaanth Elegance, Neeladri Rd, opposite Cloudnine Hospital, Neeladri Nagar, Electronic City Phase I, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.841595,
+        "longitude": 77.644556
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BIERLOFT",
+      "url": "https://www.highape.com/bangalore/organisers/bierloft-3f68928ec5"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "199",
+      "highPrice": "2199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dandiya-soiree-5lqdduv0wj",
+      "validFrom": "2026-10-14T16:40:39.731Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "BIERLOFT",
+        "url": "https://www.highape.com/bangalore/organisers/bierloft-3f68928ec5"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dandiya-soiree-5lqdduv0wj"
   },
   {
     "@context": "https://schema.org",
@@ -4671,7 +4771,7 @@
       "highPrice": "249",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dandiya-with-strangers-jo3eylq2wx",
-      "validFrom": "2026-10-13T14:37:16.813Z"
+      "validFrom": "2026-10-14T17:16:47.732Z"
     },
     "performer": [
       {
@@ -4722,7 +4822,7 @@
       "highPrice": "249",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dandiya-with-strangers-p6o9lx66db",
-      "validFrom": "2026-10-13T14:22:54.511Z"
+      "validFrom": "2026-10-14T16:30:23.831Z"
     },
     "performer": [
       {
@@ -4773,7 +4873,7 @@
       "highPrice": "249",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dandiya-with-strangers-rippb54w96",
-      "validFrom": "2026-10-13T14:22:55.369Z"
+      "validFrom": "2026-10-14T16:44:55.301Z"
     },
     "performer": [
       {
@@ -4824,7 +4924,7 @@
       "highPrice": "249",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dandiya-with-strangers-u8kk5muxoo",
-      "validFrom": "2026-10-13T14:22:57.124Z"
+      "validFrom": "2026-10-14T17:16:50.261Z"
     },
     "performer": [
       {
@@ -5021,7 +5121,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-dj-li-john-nolimmits-lounge-z8va52g6og",
-      "validFrom": "2026-10-13T13:19:47.697Z"
+      "validFrom": "2026-10-14T17:16:51.847Z"
     },
     "performer": [
       {
@@ -6337,7 +6437,7 @@
       "highPrice": "249",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-disco-dandiya-82zww92qwn",
-      "validFrom": "2026-10-13T14:37:34.269Z"
+      "validFrom": "2026-10-14T17:16:53.625Z"
     },
     "performer": [
       {
@@ -6504,7 +6604,7 @@
     "name": "Friday Nakhra Night",
     "description": "HighlightsDJ NightNon-Stop MusicBollywood MusicDance FloorGreat AmbienceMouth-Watering AppetizersCocktails&nbsp;and&nbsp;MocktailsTransform your Friday night in",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/71bc8cabf147fe86c4867b713ea0a936.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/9bbef1b90dc307731c14dec94033b5e5.png"
     ],
     "startDate": "2026-10-16T20:00:00+05:30",
     "endDate": "2026-10-17T01:00:00+05:30",
@@ -6536,7 +6636,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-nakhra-night-xznjhvgunb",
-      "validFrom": "2026-10-13T13:20:03.939Z"
+      "validFrom": "2026-10-14T17:16:55.790Z"
     },
     "performer": [
       {
@@ -7116,10 +7216,64 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Gokarna Trip",
+    "description": "Highlights2-Day Gokarna Beach Escape from BangaloreExplore Belekan, Half Moon and Om BeachScenic Coastal Trek and Beach AdventuresSunset Views from Gokarna Clif",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/12502f5c038464eeddcd85e7416e6046.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/c8817da95bc6868f48363665ada78aab.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/fc731c27d14cb3fa0c65437a358dd7bc.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/2b98bd93966aefb3c1a71b81df90f0bc.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/3946e62946245b0112effd7ac8c4ccab.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/dce7894dc54319bc9e88e27439ad7669.jpg"
+    ],
+    "startDate": "2026-10-16T20:00:00+05:30",
+    "endDate": "2026-10-17T05:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "IndianOil",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 15, Silk Board, 15, 100 Feet Ring Rd, Dollar Scheme Colony, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560068, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.916644,
+        "longitude": 77.619905
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Villa Circle",
+      "url": "https://www.highape.com/bangalore/organisers/the-villa-circle-e1tvj"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "5599",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/gokarna-trip-bco7elhgl6",
+      "validFrom": "2026-10-14T16:01:04.997Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "The Villa Circle",
+        "url": "https://www.highape.com/bangalore/organisers/the-villa-circle-e1tvj"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/gokarna-trip-bco7elhgl6"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Grand Dashain Celebration At Mirror Rooftop",
     "description": "HighlightsCelebrate Grand Dashain with the Nepali community in BengaluruLive DJs and Nepali singersLive dance performances and traditional Nepali attireGrand ti",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/09/b12f13c451a4ea094bb5d5bffdee4849.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/04129c2e213baa04af3911e2ade0ea9e.jpg",
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/09/1a7ae0a2fb9ae3833248eccb304194ca.jpg"
     ],
     "startDate": "2026-10-19T20:00:00+05:30",
@@ -7153,7 +7307,7 @@
       "highPrice": "99",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/grand-dashain-celebration-at-mirror-rooftop-nwp3unn5gg",
-      "validFrom": "2026-10-13T14:39:20.390Z"
+      "validFrom": "2026-10-14T16:14:02.885Z"
     },
     "performer": [
       {
@@ -7324,8 +7478,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2025/12/02/5103e9a25f027619b0e308a20a73727e.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -7354,7 +7508,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/hands-in-clay-pottery-workshop-d51pl6lxql",
-      "validFrom": "2026-10-13T13:31:26.468Z"
+      "validFrom": "2026-10-14T17:16:57.735Z"
     },
     "performer": [
       {
@@ -7373,8 +7527,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2025/12/02/5103e9a25f027619b0e308a20a73727e.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -7403,7 +7557,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/hands-in-clay-pottery-workshop-un2c2fynw2",
-      "validFrom": "2026-10-13T14:39:21.385Z"
+      "validFrom": "2026-10-14T16:16:37.039Z"
     },
     "performer": [
       {
@@ -7869,8 +8023,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/01/16/9215441abcef492fe95c3d97a6d83aaa.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -7899,7 +8053,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/japanese-bento-making-1cu33hzugd",
-      "validFrom": "2026-10-13T14:39:21.940Z"
+      "validFrom": "2026-10-14T16:16:13.319Z"
     },
     "performer": [
       {
@@ -7918,8 +8072,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/01/16/9215441abcef492fe95c3d97a6d83aaa.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -7948,7 +8102,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/japanese-bento-making-u1uin9i2ex",
-      "validFrom": "2026-10-13T14:39:22.589Z"
+      "validFrom": "2026-10-14T16:15:49.769Z"
     },
     "performer": [
       {
@@ -8017,8 +8171,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2025/12/02/05c25a9cbfe369eade74e0c7d984879f.jpg"
     ],
-    "startDate": "2026-10-14T15:00:00+05:30",
-    "endDate": "2026-10-14T16:00:00+05:30",
+    "startDate": "2026-10-15T15:00:00+05:30",
+    "endDate": "2026-10-15T16:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -8047,7 +8201,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/japanese-pottery-02xl5vv6qs",
-      "validFrom": "2026-10-13T14:39:23.148Z"
+      "validFrom": "2026-10-14T16:15:25.571Z"
     },
     "performer": [
       {
@@ -8066,8 +8220,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2025/12/02/05c25a9cbfe369eade74e0c7d984879f.jpg"
     ],
-    "startDate": "2026-10-14T15:00:00+05:30",
-    "endDate": "2026-10-14T16:00:00+05:30",
+    "startDate": "2026-10-15T15:00:00+05:30",
+    "endDate": "2026-10-15T16:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -8096,7 +8250,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/japanese-pottery-gjbi5vk0tr",
-      "validFrom": "2026-10-13T13:29:59.745Z"
+      "validFrom": "2026-10-14T16:15:01.917Z"
     },
     "performer": [
       {
@@ -8366,8 +8520,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/d9e8085286d1bdf182d05f059526592d.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -8396,7 +8550,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/knife-painting-61lf48hbyd",
-      "validFrom": "2026-10-13T14:39:24.223Z"
+      "validFrom": "2026-10-14T16:14:38.175Z"
     },
     "performer": [
       {
@@ -8415,8 +8569,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/d9e8085286d1bdf182d05f059526592d.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -8445,7 +8599,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/knife-painting-kpbyfy75ah",
-      "validFrom": "2026-10-13T14:39:24.793Z"
+      "validFrom": "2026-10-14T16:14:14.895Z"
     },
     "performer": [
       {
@@ -8774,56 +8928,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/kormangala-biggest-open-air-dandiya-celebration-l72x01sae7"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kormangala Biggest Open Air Dandiya Mahotsav 2026",
-    "description": "HighlightsBiggest open-air Dandiya celebration in KoramangalaFree Dandiya sticks for all attendeesVibrant festive décor and authentic Navratri ambienceLive DJs ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/07/96dd8a5e759b7ae1a4294c6dd1bb4e83.jpg"
-    ],
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-17T00:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Blah Bla",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "71-72, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.932869,
-        "longitude": 77.613936
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shane Events",
-      "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "99",
-      "highPrice": "1899",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/kormangala-biggest-open-air-dandiya-mahotsav-2026-7v8p4fbkce",
-      "validFrom": "2026-10-13T21:42:52.012Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Shane Events",
-        "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/kormangala-biggest-open-air-dandiya-mahotsav-2026-7v8p4fbkce"
   },
   {
     "@context": "https://schema.org",
@@ -9907,10 +10011,10 @@
       "@type": "AggregateOffer",
       "priceCurrency": "INR",
       "lowPrice": "149",
-      "highPrice": "1999",
+      "highPrice": "2499",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/mantri-dandiya-mahotsav-2-0-j42aa7eyfr",
-      "validFrom": "2026-10-13T14:23:02.685Z"
+      "validFrom": "2026-10-14T17:17:02.716Z"
     },
     "performer": [
       {
@@ -10175,8 +10279,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/01/16/d1a40800b85ba5c26b2cc66bd4254a68.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10205,7 +10309,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/miniature-food-qux1uaggca",
-      "validFrom": "2026-10-13T14:39:25.959Z"
+      "validFrom": "2026-10-14T16:13:27.060Z"
     },
     "performer": [
       {
@@ -10224,8 +10328,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/01/16/d1a40800b85ba5c26b2cc66bd4254a68.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10254,7 +10358,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/miniature-food-rhno5y0zfd",
-      "validFrom": "2026-10-13T14:39:26.528Z"
+      "validFrom": "2026-10-14T17:17:04.069Z"
     },
     "performer": [
       {
@@ -10364,6 +10468,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/monday-m-night-4oc4zq7wi0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Monday Mischief | Sugar Factory Reloaded",
+    "description": "Highlights spinning the hottest BollyTech & commercial tracksHigh-energy Monday night party experienceFree entry for couplesComplimentary drinks for ladiesPremi",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/38b45c3bb0fbc8832667c2902342bcf1.jpg"
+    ],
+    "startDate": "2026-10-19T20:00:00+05:30",
+    "endDate": "2026-10-20T00:45:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sugar Factory Reloaded",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/A Ground floor, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933376,
+        "longitude": 77.61403
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "NightHype Entertainments",
+      "url": "https://www.highape.com/bangalore/organisers/nighthype"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/monday-mischief-at-sugar-factory-reloaded-eokdtjfhxn",
+      "validFrom": "2026-10-14T17:17:04.642Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "NightHype Entertainments",
+        "url": "https://www.highape.com/bangalore/organisers/nighthype"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/monday-mischief-at-sugar-factory-reloaded-eokdtjfhxn"
   },
   {
     "@context": "https://schema.org",
@@ -10837,6 +10990,69 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Navratri Beats 2026",
+    "description": "HighlightsFive Nights of Navratri CelebrationsTraditional Garba and DandiyaBollywood Chartbusters and Dance BeatsLive Dhol PerformancesFestive Atmosphere and Et",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/c6152927c3b1d540965095cf2cdbdac1.jpg"
+    ],
+    "startDate": "2026-10-14T20:00:00+05:30",
+    "endDate": "2026-10-15T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Vapour Brewpub and Diner",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "7th Bren Mercury, Sarjapur - Marathahalli Rd, Above Reliance Digital, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.914341,
+        "longitude": 77.677353
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "VAPOUR BREWPUB & DINERS",
+      "url": "https://www.highape.com/bangalore/organisers/vapour-brewpub-diners-w4iib"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "300",
+      "highPrice": "500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/navratri-beats-2026-tkt7le21pt",
+      "validFrom": "2026-10-14T15:52:39.174Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ NTOX",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-ntox-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Manny",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-manny"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Vijju",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/37200077/hnfuohgihskctmlogz5t.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-vijju-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/navratri-beats-2026-tkt7le21pt"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Navartri Dandiya Night ",
     "description": "HighlightsLive Dandiya and Garba beatsBollywood, Punjabi and South Indian hitsHigh-energy DJ sets with live DholExpansive dance floorVibrant ethnic festive ambi",
     "image": [
@@ -10948,8 +11164,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/3203497743af86e16a70fa697a1cdcf4.jpg"
     ],
-    "startDate": "2026-10-14T13:00:00+05:30",
-    "endDate": "2026-10-14T14:00:00+05:30",
+    "startDate": "2026-10-15T13:00:00+05:30",
+    "endDate": "2026-10-15T14:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10978,7 +11194,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/neon-painting-8o89d98t7n",
-      "validFrom": "2026-10-13T14:39:27.152Z"
+      "validFrom": "2026-10-14T17:17:05.944Z"
     },
     "performer": [
       {
@@ -11244,8 +11460,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/9fd31c7cc54f611908415f8df669d46f.jpg"
     ],
-    "startDate": "2026-10-14T15:00:00+05:30",
-    "endDate": "2026-10-14T16:00:00+05:30",
+    "startDate": "2026-10-15T15:00:00+05:30",
+    "endDate": "2026-10-15T16:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -11274,7 +11490,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pottery-painting-d0yd0r2t7c",
-      "validFrom": "2026-10-13T14:39:27.713Z"
+      "validFrom": "2026-10-14T16:11:28.623Z"
     },
     "performer": [
       {
@@ -11293,8 +11509,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/9fd31c7cc54f611908415f8df669d46f.jpg"
     ],
-    "startDate": "2026-10-14T15:00:00+05:30",
-    "endDate": "2026-10-14T16:00:00+05:30",
+    "startDate": "2026-10-15T15:00:00+05:30",
+    "endDate": "2026-10-15T16:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -11323,7 +11539,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pottery-painting-gjxrp8nrkt",
-      "validFrom": "2026-10-13T14:39:28.248Z"
+      "validFrom": "2026-10-14T16:53:56.514Z"
     },
     "performer": [
       {
@@ -11613,7 +11829,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/rasa-rhythm-ft-virat-munjal-magique-ozmniehnba",
-      "validFrom": "2026-10-13T12:56:28.568Z"
+      "validFrom": "2026-10-14T17:17:08.194Z"
     },
     "performer": [
       {
@@ -12175,7 +12391,7 @@
     "name": "Saturday Club Nocturno",
     "description": "&nbsp;HighlightsDJ Rohit is headlining the nightOpening set by VDJ JDHip hop commercial and Afro beatsUltra-exclusive rooftop sundowner vibes16th-floor skyline ",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/13/6a4e448630f7bc313d35afdefd823a18.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/3fe4f07f468878e584201ca4601a05c1.jpg"
     ],
     "startDate": "2026-10-17T19:00:00+05:30",
     "endDate": "2026-10-18T00:45:00+05:30",
@@ -12207,7 +12423,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/saturday-club-nocturno-8z6f1gjqz8",
-      "validFrom": "2026-10-13T12:43:01.844Z"
+      "validFrom": "2026-10-14T17:17:08.888Z"
     },
     "performer": [
       {
@@ -13510,7 +13726,7 @@
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/08/6586f8e75c47c1af17bb142514f33c2f.jpg"
     ],
     "startDate": "2026-10-16T16:00:00+05:30",
-    "endDate": "2026-10-16T23:55:00+05:30",
+    "endDate": "2026-10-16T20:55:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -13537,10 +13753,10 @@
       "@type": "AggregateOffer",
       "priceCurrency": "INR",
       "lowPrice": "100",
-      "highPrice": "2249",
+      "highPrice": "2699",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-grand-palace-dandiya-at-palace-grounds-h8a9simdsv",
-      "validFrom": "2026-10-13T14:39:29.739Z"
+      "validFrom": "2026-10-14T17:17:09.559Z"
     },
     "performer": [
       {
@@ -13689,7 +13905,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-mayhem-ft-d-rain-bl3df1ueb2",
-      "validFrom": "2026-10-13T14:15:03.456Z"
+      "validFrom": "2026-10-14T17:17:10.685Z"
     },
     "performer": [
       {
@@ -14157,8 +14373,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/24/4ec891ea8944c1f0e21a7ad4ddf582d7.jpg"
     ],
-    "startDate": "2026-10-14T15:00:00+05:30",
-    "endDate": "2026-10-14T16:00:00+05:30",
+    "startDate": "2026-10-15T15:00:00+05:30",
+    "endDate": "2026-10-15T16:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -14187,7 +14403,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tote-bag-painting-kk4yqin1rb",
-      "validFrom": "2026-10-13T14:39:30.850Z"
+      "validFrom": "2026-10-14T16:09:30.795Z"
     },
     "performer": [
       {
@@ -15220,6 +15436,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/whitefield-biggest-premium-dandiya-utsav-2026-cl2bzqkl5x"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Whitefield Dandiya Maha Utsav - Season 6",
+    "description": "Highlights Two nights of grand Navratri celebrationsHigh-energy Garba and Dandiya musicIndia’s top DJ performanceLive Dhol and traditional beatsProfessional Gar",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/25/8d5b2aefd8863f0660d121cf71de1c82.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/d68d5da7062d793dc436081a76e73cae.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/c0500e4e34ed7a5a8d9c36f255e7baff.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/64bf375a535f07771cc893ded645cb55.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/1b532c3809b5967e86fb68dfcbc66146.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/c6a7c628cefc69e41557d1b1eee30719.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/30/ceef9aea5b533caa1244fd5873fed454.jpg"
+    ],
+    "startDate": "2026-10-17T05:00:00+05:30",
+    "endDate": "2026-10-17T11:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "International Tech Park Bangalore (ITPB)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ITPL Main Rd, Pattandur Agrahara, Whitefield, Bangalore, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.986119,
+        "longitude": 77.735512
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dreamswitch Productions",
+      "url": "https://www.highape.com/bangalore/organisers/dreamswitch-productions-5a1e3a5aed"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "49",
+      "highPrice": "2499",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/whitefield-dandiya-mahautsav-season-6-8f4ef4sepk",
+      "validFrom": "2026-10-13T22:37:21.072Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Dreamswitch Productions",
+        "url": "https://www.highape.com/bangalore/organisers/dreamswitch-productions-5a1e3a5aed"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/whitefield-dandiya-mahautsav-season-6-8f4ef4sepk"
   },
   {
     "@context": "https://schema.org",
