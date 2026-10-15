@@ -21,7 +21,8 @@ def fetcher():
     return _fetcher
 
 
-def jsonld_event(soup):
+def jsonld_events(soup):
+    # Pages of multi-city events list one event per venue
     for script in soup.select('script[type="application/ld+json"]'):
         try:
             data = json.loads(script.string or "null")
@@ -29,8 +30,11 @@ def jsonld_event(soup):
             continue
         for item in data if isinstance(data, list) else [data]:
             if isinstance(item, dict) and str(item.get("@type", "")).endswith("Event"):
-                return item
-    return {}
+                yield item
+
+
+def jsonld_event(soup):
+    return next(jsonld_events(soup), {})
 
 
 def synopsis(html):

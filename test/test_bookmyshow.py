@@ -52,45 +52,72 @@ def listing_data(urls, scroll_id):
     return {"scrollId": scroll_id, "meta": {"ldSchema": {"eventsSchema": schema}}}
 
 
-def test_listing_pages_until_nothing_new(monkeypatch):
-    pages = {1: listing_data(["e/a", "e/b"], "s"), 2: listing_data(["e/b", "e/c"], "s")}
-    pages[3] = listing_data(["e/c"], "s")
+def test_listing_pages_each_category_until_nothing_new(monkeypatch):
+    pages = {
+        ("events", 1): listing_data(["e/a", "e/b"], "s"),
+        ("events", 2): listing_data(["e/b"], "s"),
+        ("plays", 1): listing_data(["p/c"], None),
+        ("activities", 1): listing_data(["e/a", "a/d"], "t"),
+        ("activities", 2): listing_data([], "t"),
+    }
     calls = []
 
-    def fake_page(scroll_id, page_id, bms_id):
-        calls.append((scroll_id, page_id))
-        return pages[page_id]
+    def fake_page(category, scroll_id, page_id, bms_id):
+        calls.append((category, scroll_id, page_id))
+        return pages[category, page_id]
 
     monkeypatch.setattr(source, "listing_page", fake_page)
     monkeypatch.setattr(bookmyshow, "pause", lambda: None)
-    assert [e["url"] for e in source.listing()] == ["e/a", "e/b", "e/c"]
-    assert calls == [(None, 1), ("s", 2), ("s", 3)]
+    assert [e["url"] for e in source.listing()] == ["e/a", "e/b", "p/c", "a/d"]
+    assert calls == [
+        ("events", None, 1),
+        ("events", "s", 2),
+        ("plays", None, 1),
+        ("activities", None, 1),
+        ("activities", "t", 2),
+    ]
 
 
-def test_event_prefers_page_and_drops_bms_organizer(monkeypatch):
-    page = dict(EVENT, startDate="2026-11-22T17:45:00+05:30", organizer={"name": "BookMyShow"})
-    html = HTML.replace(json.dumps(EVENT), json.dumps(page))
+def venue(city, lat, lng):
+    return {
+        "name": f"Hall: {city}",
+        "address": {"addressLocality": city},
+        "geo": {"latitude": lat, "longitude": lng},
+    }
+
+
+def test_page_events_keep_bengaluru_venues(monkeypatch):
+    shows = [
+        dict(EVENT, startDate="2026-10-16T13:00", location=venue("Hyderabad", 17.43, 78.37)),
+        dict(EVENT, startDate="2026-10-16T15:09", location=venue("Bengaluru", 12.91, 77.68)),
+        dict(EVENT, startDate="2026-10-17T11:00", location={"name": "Studio: Bengaluru"}),
+    ]
+    shows[1]["organizer"] = {"name": "BookMyShow"}
+    html = HTML.replace(f"[{json.dumps(EVENT)}]", json.dumps(shows))
     monkeypatch.setattr(bookmyshow, "page", lambda url: html)
-    summary = {"@context": "http://schema.org", "url": LINK, "startDate": "2026-11-22"}
-    assert source.event(summary) == {
+    summary = {"@context": "http://schema.org", "url": LINK, "startDate": "2026-10-16"}
+    found = source.page_events(summary)
+    assert [e["startDate"] for e in found] == ["2026-10-16T15:09", "2026-10-17T11:00"]
+    assert found[0] == {
         "@type": "TheaterEvent",
         "url": LINK,
-        "startDate": "2026-11-22T17:45:00+05:30",
+        "startDate": "2026-10-16T15:09",
+        "location": venue("Bengaluru", 12.91, 77.68),
         "typicalAgeRange": "8+",
         "description": "A play about\na sultan.",
     }
 
 
-def test_event_needs_its_page(monkeypatch):
+def test_page_events_need_the_page(monkeypatch):
     monkeypatch.setattr(bookmyshow, "page", lambda url: None)
-    assert source.event({"url": LINK, "startDate": "2026-11-22"}) is None
+    assert source.page_events({"url": LINK, "startDate": "2026-11-22"}) == []
 
 
 def test_events_fetch_soonest_within_budget(monkeypatch):
     listed = [{"url": u, "startDate": d} for u, d in [("c", "3"), ("a", "1"), ("b", "2")]]
     monkeypatch.setattr(source, "listing", lambda: listed)
     monkeypatch.setattr(bookmyshow, "cached", lambda url: url == "c")
-    monkeypatch.setattr(source, "event", lambda e: {"name": e["url"]})
+    monkeypatch.setattr(source, "page_events", lambda e: [{"name": e["url"]}])
     monkeypatch.setenv("BMS_MAX_FETCHES", "1")
     assert source.events() == [{"name": "a"}, {"name": "c"}]
 
@@ -98,6 +125,6 @@ def test_events_fetch_soonest_within_budget(monkeypatch):
 def test_events_fail_when_no_page_reads(monkeypatch):
     monkeypatch.setattr(source, "listing", lambda: [{"url": "a"}])
     monkeypatch.setattr(bookmyshow, "cached", lambda url: False)
-    monkeypatch.setattr(source, "event", lambda e: None)
+    monkeypatch.setattr(source, "page_events", lambda e: [])
     with pytest.raises(RuntimeError):
         source.events()
