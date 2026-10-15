@@ -299,7 +299,36 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "After Hours with Eleven AM Club",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 349,
+      "offerCount": 2,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/SoldOut",
+          "availabilityEnds": "2026-10-21T13:30:00.000Z",
+          "name": "Early Bird",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/after-hours-with-eleven-am-club-buy-tickets",
+          "validFrom": "2026-03-26T07:28:57.590Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-21T16:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/after-hours-with-eleven-am-club-buy-tickets",
+          "validFrom": "2026-03-26T07:28:57.590Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/after-hours-with-eleven-am-club-buy-tickets"
+    },
     "sameAs": [
       "https://district.in/after-hours-with-eleven-am-club/event"
     ],
@@ -347,7 +376,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-19T13:00:00.000Z",
           "name": "Early Bird",
           "price": 299,
@@ -854,7 +883,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-16T15:30:00.000Z",
           "name": "Early Bird",
           "price": 399,
@@ -992,7 +1021,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-15T13:30:00.000Z",
           "name": "Early Bird ",
           "price": 299,
