@@ -1,5 +1,6 @@
 import json
 import logging
+import random
 import re
 import time
 
@@ -7,7 +8,6 @@ from bs4 import BeautifulSoup
 
 from .fetch import Fetch
 
-# Event page parser, reusable when BMS becomes a proper source (see the bms branch)
 EVENT_PAGE = re.compile(r"^https://in\.bookmyshow\.com/(plays|events|activities)/[^/]+/\w+")
 STATE_MARKER = "window.__INITIAL_STATE__ = "
 FIELDS = ("image", "offers", "performer", "typicalAgeRange", "inLanguage", "duration")
@@ -16,7 +16,7 @@ _fetcher = None
 
 def fetcher():
     global _fetcher
-    _fetcher = _fetcher or Fetch(browser="chrome")
+    _fetcher = _fetcher or Fetch(browser="chrome150")
     return _fetcher
 
 
@@ -63,12 +63,21 @@ def parse(html):
     return details
 
 
-def details(url):
+def pause():
+    # The /bot page promises at least 10 seconds between page loads per host
+    time.sleep(random.uniform(10, 15))
+
+
+def page(url):
     response = fetcher().get(url=url)
     if not getattr(response, "from_cache", False):
-        # The /bot page promises 10 seconds between page loads per host
-        time.sleep(10)
+        pause()
     if response.status_code != 200:
         logging.warning("BookMyShow returned %s for %s", response.status_code, url)
-        return {}
-    return parse(response.text)
+        return None
+    return response.text
+
+
+def details(url):
+    html = page(url)
+    return parse(html) if html else {}
