@@ -166,7 +166,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -181,7 +181,55 @@
       "url": "https://urbanaut.app/partner/dialogues-cafe",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9D4620F72E654189BC4C5166D27666D7_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/dialogues-with-books",
+    "url": "https://urbanaut.app/spot/dialogues-with-books#2026-10-18T1600",
+    "keywords": [
+      "Leisure",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dialogues with Books: Monthly Meetup",
+    "description": "Join Bangalore`s Iconic Book Community - Monthly DWB Meetup! 📚Join Dialogues with Books (DWB) for our monthly gathering where fellow bibliophiles come together to celebrate the joy of reading!What We`ll Do -Come with a book you`ve been enjoying lately - any genre welcome! We`ll all share what we`re reading, why it resonates with us, and dive into lively discussions about the stories and ideas that captivate us. Feel free to read favourite passages aloud and discover your next great read through fellow bibliophiles` recommendations.Expect an evening of engaging book conversations over warm beverages, light snacks, and great company!About DWB - Dialogues with Books is one of Bangalore`s oldest book communities, creating a vibrant, inclusive space where literature lovers share their passion and form lasting friendships through books. Whether you`re a seasoned reader or looking to reconnect with reading, you`ll find a warm welcome here.DWB is Perfect For: Book enthusiasts, readers wanting to discover new genres, and anyone seeking thoughtful literary conversations in Bangalore`s vibrant reading community.Location: Dialogues KoramangalaMeet Your Host: Bharat - Bharat is an avid reader, writer, and passionate bibliophile with eclectic literary tastes spanning classics, fiction, philosophy, poetry, and self-improvement. His favorite authors include Hemingway, Murakami, Mishima, P.G. Wodehouse, and Edgar Allan Poe. His infectious enthusiasm for books and skill at facilitating discussions makes every meetup both stimulating and enjoyable.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/29BB5C4387D6417C8A677AF1E767F61E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4C6FDE09583648CA8AB98F6C560D9002_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6BE2849F90F64BEE858BF1E9E4E20DDA_converted_webp.webp"
+    ],
+    "startDate": "2026-11-15T16:00:00+05:30",
+    "endDate": "2026-11-15T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9324179,
+        "longitude": 77.631954
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 249.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dialogues Cafe",
+      "description": "Dialogues Cafe is a warm, homely space in Koramangala where natural light meets community vibes. Enjoy freshly made, minimalist cuisine while engaging in open mics, book clubs, and more. Whether you’re here to work, create, or connect, Dialogues Cafe is your space to belong.",
+      "url": "https://urbanaut.app/partner/dialogues-cafe",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9D4620F72E654189BC4C5166D27666D7_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/dialogues-with-books#2026-11-15T1600",
     "keywords": [
       "Leisure",
       "Active",
@@ -457,7 +505,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 42,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1295,7 +1343,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1315,52 +1363,6 @@
       "Leisure",
       "Workshop",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tabletop Thursday with ReRoll Board Games",
-    "description": "We're here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!You don’t need to have any experience with these kinds of board games before—we love introducing people to new ones! We’ll help you pick a game, set it up, and explain the rules.You can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases while making some friends in the process.Come solo, with a date, or in a group—we've got something for everyone!Who are ReRoll Board Games?We’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part-time for almost nine years now.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/14CFA1171B734589BBB06DAE191E5DA6_converted_webp.webp"
-    ],
-    "startDate": "2026-10-15T19:00:00+05:30",
-    "endDate": "2026-10-15T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672214,
-        "longitude": 77.6366982
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/tabletop-thursday-with-reroll-board-games#2026-10-15T1900",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1621,7 +1623,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1766,7 +1768,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 76,
+    "remainingAttendeeCapacity": 75,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2049,7 +2051,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3029,50 +3031,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
     ],
-    "startDate": "2026-10-15T17:00:00+05:30",
-    "endDate": "2026-10-15T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-15T1700",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Photo Meetup - Shoot Together",
-    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
-    ],
     "startDate": "2026-10-22T17:00:00+05:30",
     "endDate": "2026-10-22T19:00:00+05:30",
     "location": {
@@ -3176,7 +3134,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3784,50 +3742,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/A3C3F3E7CCBF47F492756BAE76036D79_converted_webp.webp"
     ],
-    "startDate": "2026-10-15T18:30:00+05:30",
-    "endDate": "2026-10-15T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9628957,
-        "longitude": 77.57754
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zuva Life",
-      "description": "Zuva Life offers spaces for people in midlife to pause, reflect, and think through what comes next. Our workshops and small group experiences are designed for those navigating shifts in work, identity, and direction, combining reflection with a thoughtful approach to what comes next.",
-      "url": "https://urbanaut.app/partner/zuvalife",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/rethinking-work-in-midlife-17038#2026-10-15T1830",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Rethinking Work in Midlife",
-    "description": "From Leadership to the Boardroom: Exploring Your Next Career ChapterCould a board role be your next move?After years of leading teams, building businesses and making decisions, you may be thinking about what comes next in your professional life.For many experienced professionals, board roles and independent directorships offer a way to bring their knowledge, experience and perspective to new organisations. But how do you get started? What does being a board director actually involve, and is it the right fit for you?Join Zuva Life for a conversation in our Rethinking Work in Midlife series with experienced board directors as they share their journeys, lessons learnt and what they wish they had known before stepping into the role.What we'll talk aboutHow professionals find their way into board rolesWhat changes when you move from leading a business to guiding it at the board levelWhat organisations look for in independent directorsThe responsibilities, challenges and trade-offs involvedHow to explore board opportunities while still in your current roleWho should attend?Senior professionals, business leaders, entrepreneurs and independent consultants who are curious about board roles, considering a career transition, or exploring new ways to use their experience in the years ahead.About Zuva LifeZuva Life creates spaces for people in midlife to explore new possibilities, navigate transitions and find meaningful pathways for the next chapter of their lives.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A3C3F3E7CCBF47F492756BAE76036D79_converted_webp.webp"
-    ],
     "startDate": "2026-11-26T18:30:00+05:30",
     "endDate": "2026-11-26T19:30:00+05:30",
     "location": {
@@ -3858,7 +3772,7 @@
       "url": "https://urbanaut.app/partner/zuvalife",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/rethinking-work-in-midlife-17038#2026-11-26T1830",
+    "url": "https://urbanaut.app/spot/rethinking-work-in-midlife-17038",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -4066,7 +3980,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 36,
+    "remainingAttendeeCapacity": 32,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4304,7 +4218,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4492,7 +4406,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4588,7 +4502,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4878,7 +4792,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 199,
+    "remainingAttendeeCapacity": 191,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5149,7 +5063,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 67,
+    "remainingAttendeeCapacity": 65,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
