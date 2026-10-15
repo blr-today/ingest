@@ -523,80 +523,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Andaaz Nights",
-    "image": "https://cdn-az.allevents.in/events4/banners/ce608800-7b57-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dc010101-gmir.jpg?v=1783575248",
-    "startDate": "2026-07-09T20:30:00+05:30",
-    "endDate": "2027-04-01T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Badmaash Lounge: Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "23, 1st Floor, 1st Main Road, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Turn your Thursdays into a celebration at Andaaz Nights.Get ready for a high-energy weekly party at Badmaash Koramangala, where music, mood, and madness come together. Featuring DJ Nithin and DJ Nikz, expect nothing but back-to-back hits and an electric vibe that keeps the dance floor alive all nigh",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-04-09",
-        "availabilityEnds": "2027-04-01T20:30:00+05:30",
-        "validFrom": "2026-04-09",
-        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
-        "lowPrice": "100.00",
-        "price": "100.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-04-09",
-        "availabilityEnds": "",
-        "validFrom": "2026-04-09",
-        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
-        "price": "100.00",
-        "name": "COUPLE COVER @ 9 30"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-04-09",
-        "availabilityEnds": "",
-        "validFrom": "2026-04-09",
-        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
-        "price": "100.00",
-        "name": "STAGS COVER AT VENUE"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-04-09",
-        "availabilityEnds": "",
-        "validFrom": "2026-04-09",
-        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
-        "price": "100.00",
-        "name": "LADIES FREE ENTRY"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Quick Style India Tour - Bangalore",
     "image": "https://cdn-az.allevents.in/events8/banners/9ee96490-4b62-11f1-ad10-af1c0000fe82-rimg-w1200-h600-dce6e6e6-gmir.jpg?v=1778302237",
@@ -812,6 +738,58 @@
         "validFrom": "2026-06-27",
         "url": "https://allevents.in/bangalore/resin-name-plate-for-homes/3900030314539550",
         "price": "1799.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RED VELVET CAKE",
+    "image": "https://cdn-az.allevents.in/events10/banners/6c7c3bf0-7b4f-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dce2a9f0-gmir.jpg?v=1783571648",
+    "startDate": "2026-07-12T14:30:00+05:30",
+    "endDate": "2026-11-29T14:30:00+05:30",
+    "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Red Velvet Cake Making ExperienceHave you ever wondered how it feels to bake your own Red Velvet Cake but never got the chance?If you are looking for a space where you can truly experience making one from scratch, youre at the right spot!At our space, you will do all the preparation yourself - from",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-27",
+        "availabilityEnds": "2026-11-29T14:30:00+05:30",
+        "validFrom": "2026-06-27",
+        "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
+        "lowPrice": "1999.00",
+        "price": "1999.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-27",
+        "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
+        "price": "1999.00",
         "name": "TICKET FOR ONE"
       }
     ]
@@ -1951,25 +1929,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Sip and Clay",
-    "image": "https://cdn-az.allevents.in/events7/banners/45fce450-c56b-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc885838-gmir.jpg?v=1791720011",
-    "startDate": "2026-10-18T09:30:00+05:30",
-    "endDate": "2026-10-18T12:30:00+05:30",
-    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111",
+    "image": "https://cdn-az.allevents.in/events7/banners/45fce450-c56b-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc885838-gmir.jpg?v=1791720005",
+    "startDate": "2026-10-17T11:00:00+05:30",
+    "endDate": "2026-10-17T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "The Dual Room: Bengaluru",
+      "name": "Third Wave Coffee, Church Street: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "616, 12th Main Road, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "streetAddress": "Shop 52/2, Sujaya Pride Building, Church Street, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9705",
-        "longitude": "77.6459"
+        "latitude": "12.9747",
+        "longitude": "77.6068"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1980,9 +1958,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-02",
-        "availabilityEnds": "2026-10-18T12:30:00+05:30",
+        "availabilityEnds": "2026-10-17T14:00:00+05:30",
         "validFrom": "2026-10-02",
-        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111"
+        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303"
       }
     ]
   },
@@ -2144,6 +2122,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "BTM - Dandiya Nights",
+    "image": "https://cdn-az.allevents.in/events1/banners/f550ac10-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc280808-gmir.jpg?v=1791959089",
+    "startDate": "2026-10-16T18:00:00+05:30",
+    "endDate": "2026-10-18T23:00:00+05:30",
+    "url": "https://allevents.in/bangalore/btm-dandiya-nights/3900030829364551",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Stories Brewery & Kitchen: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "29th Main Road, BTM 2nd Stage, Mahadeshwara Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9058",
+        "longitude": "77.6084"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Where Dandiya Meets The NightlifeGet ready for 3 nights of Garba, Dandiya, music and high-energy celebrations at one of BTM's popular brewery destinations, brought to you by Dream Switch ProductionsWHY YOU SHOULD BE THEREConvenient LocationLocated in BTM with easy accessibility and the BTM Layout Me",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-18T23:00:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/btm-dandiya-nights/3900030829364551"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "AnyBody Can Dandiya 6.0 - HSR Layout",
     "image": "https://cdn-az.allevents.in/events7/banners/7d87ffd0-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc882848-gmir.jpg?v=1791958888",
@@ -2178,6 +2195,45 @@
         "availabilityEnds": "2026-10-19T22:30:00+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-hsr-layout/3900030829364653"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Dandiya - Durga Puja",
+    "image": "https://cdn-az.allevents.in/events3/banners/9d5481b0-c6fe-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791893228",
+    "startDate": "2026-10-17T19:00:00+05:30",
+    "endDate": "2026-10-17T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "CSK Mall: Gunjur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CSK Mall, Gunjur Palya, Bengaluru, Karnataka 560087, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9182",
+        "longitude": "77.7275"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "VBA invites you to be part of history as we landmark our 10th Year of Mega Durga Puja Celebrations with an electrifying night of Dandiya and Navaratri fervor! This isn`t just an event; it`s a milestone, and we are pulling out all the stops to make it unforgettable.Get ready to twirl, click your stic",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-17T21:30:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309"
       }
     ]
   },
@@ -2955,66 +3011,6 @@
         "@type": "Organization",
         "name": "Fashion Storei",
         "url": "https://allevents.in/org/fashion-storei/20151073"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "DJ SYNCSLIP | BOLLYWOOD &amp; PUNJABI",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6acdddc0810ef.jpg",
-    "startDate": "2026-10-15T20:30:00+05:30",
-    "endDate": "2026-10-16T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/dj-syncslip-bollywood-and-punjabi-tickets/80001151645975",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Don't Tell Mama | Rooftop Bar & Kitchen, 13th Cross Road, below The Elite Royale, Sector 6, HSR Layout, Bengaluru, Karnataka, India",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Don't Tell Mama | Rooftop Bar &amp; Kitchen, 13th Cross Road, below The Elite Royale, Sector 6, HSR Layout, Bengaluru, Karnataka, India, Bangalore, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.971598625183105",
-        "longitude": "77.59456634521484"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DJ SYNCSLIP is taking over Don’t Tell Mama for a night of non-stop music, crazy energy, and unforgettable memories! 💥🎶DJ SYNCSLIP | BOLLYWOOD & PUNJABI📅 15th October⏰ 8:30 PM onwards📍 Don’t Tell Mama, HSR Layout, BengaluruTag your party gang, gather your crew, and get ready to sing, dance, and vibe",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-16T01:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/dj-syncslip-bollywood-and-punjabi-tickets/80001151645975"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-16T01:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/dj-syncslip-bollywood-and-punjabi-tickets/80001151645975",
-        "availability": "https://schema.org/InStock",
-        "name": "MamasVIP"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Dont tell mama",
-        "url": "https://allevents.in/org/dont-tell-mama/28010491"
       }
     ]
   },
@@ -3840,7 +3836,7 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
+    "@type": "MusicEvent",
     "name": "Garba By The Lake",
     "image": "https://cdn2.allevents.in/thumbs/thumb6acf5a1fde652.jpg",
     "startDate": "2026-10-17T00:00:00+05:30",
@@ -5673,67 +5669,6 @@
         "name": "Bangalore Scene Distortion Kult (BDK)",
         "url": "https://allevents.in/org/bangalore-scene-distortion-kult-b$dk/27738579",
         "description": "A Kult of unhinged distortion lovers who live for all things loud and underground! 🤘💀"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Startup Stories by Bengaluru Founders",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6aae2a3aa599b.jpg",
-    "startDate": "2026-10-15T18:00:00+05:30",
-    "endDate": "2026-10-15T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kaarya Shared Workspaces",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2nd Floor, Eterna, 788, 15th Cross Rd, Nagarjun Enclave, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "postalCode": "560078",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9067409",
-        "longitude": "77.5766184"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for an exciting evening with Startup Stories of Bengaluru Founders by CEDAT.An event where ideas inspiration and meaningful connections come together in a supportive community​This isn’t just another gathering. It’s a space where passionate minds come together to share real startup journey",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-05",
-        "availabilityEnds": "2026-10-15T19:00:00+05:30",
-        "validFrom": "2026-09-05",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-05",
-        "availabilityEnds": "2026-10-15T19:00:00+05:30",
-        "validFrom": "2026-09-05",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT ",
-        "url": "https://allevents.in/org/cedat/25336161"
       }
     ]
   },
