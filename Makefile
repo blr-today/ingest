@@ -118,6 +118,7 @@ fetch: out/allevents.json \
  out/iiwc.json \
  out/afbangalore.json \
  out/rangashankara.json \
+ out/bookmyshow.json \
  out/bac.json \
  out/aceofpubs.json \
  out/fillum.json \

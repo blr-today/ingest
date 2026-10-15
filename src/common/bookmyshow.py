@@ -5,6 +5,7 @@ import re
 import time
 
 from bs4 import BeautifulSoup
+from requests.models import PreparedRequest
 
 from .fetch import Fetch
 
@@ -16,7 +17,7 @@ _fetcher = None
 
 def fetcher():
     global _fetcher
-    _fetcher = _fetcher or Fetch(browser="chrome150")
+    _fetcher = _fetcher or Fetch(cache={"days": 3}, browser="chrome150")
     return _fetcher
 
 
@@ -66,6 +67,14 @@ def parse(html):
 def pause():
     # The /bot page promises at least 10 seconds between page loads per host
     time.sleep(random.uniform(10, 15))
+
+
+def cached(url):
+    request = PreparedRequest()
+    request.prepare(method="GET", url=url)
+    cache = fetcher().cache
+    response = cache.get_response(cache.create_key(request))
+    return response is not None and not response.is_expired
 
 
 def page(url):
