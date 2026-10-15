@@ -923,6 +923,58 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Decorate Cup Cakes",
+    "image": "https://cdn-az.allevents.in/events8/banners/324da7c0-7b31-11f1-b18e-dfc0ec596bf4-rimg-w1200-h600-dcfefefe-gmir.jpg?v=1783558665",
+    "startDate": "2026-07-05T17:30:00+05:30",
+    "endDate": "2026-11-22T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Do you like cupcakesIf yes then lets make oneCome and experience the joy of baking your own cupcake from scratch in our cozy welcoming space at our spaceWhat you will get to learnBasic cupcake batter preparationBaking techniques for soft fluffy cupcakesHow to decorate cupcakes using whipping creamSi",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "2026-11-22T17:30:00+05:30",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+        "lowPrice": "1499.00",
+        "price": "1499.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+        "price": "1499.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Same Same But Diflent Standup Comedy",
     "image": "https://cdn-az.allevents.in/events2/banners/bda27f00-c4f9-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc180808-gmir.jpg?v=1791671233",
     "startDate": "2026-10-17T19:30:00+05:30",
@@ -1703,6 +1755,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "DIY Coral Reef - Bangalore",
+    "image": "https://cdn-az.allevents.in/events5/banners/a299b640-c29e-11f1-8343-39970249843c-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791412206",
+    "startDate": "2026-10-31T17:00:00+05:30",
+    "endDate": "2026-10-31T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/diy-coral-reef-bangalore/3900030752865723",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Koramangala Social: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Seventh Block, Plot 118, 80 Feet Road, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9355",
+        "longitude": "77.6141"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create your own mini coral reef scene inside a box using colours and craft materials. Make a fun ocean-themed decor piece step by step.A simple and creative workshop for all ages.Build your own ocean scene.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-29",
+        "availabilityEnds": "2026-10-31T18:30:00+05:30",
+        "validFrom": "2026-09-29",
+        "url": "https://allevents.in/bangalore/diy-coral-reef-bangalore/3900030752865723"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Disco Dandiya Season 4 - Garba &amp; Dandiya",
     "image": "https://cdn-az.allevents.in/events10/banners/09e1ec70-c79d-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcc86828-gmir.jpg?v=1791961271",
     "startDate": "2026-10-17T19:00:00+05:30",
@@ -1860,25 +1951,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Sip and Clay",
-    "image": "https://cdn-az.allevents.in/events7/banners/45fce450-c56b-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc885838-gmir.jpg?v=1791720005",
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T14:00:00+05:30",
-    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303",
+    "image": "https://cdn-az.allevents.in/events7/banners/45fce450-c56b-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc885838-gmir.jpg?v=1791720011",
+    "startDate": "2026-10-18T09:30:00+05:30",
+    "endDate": "2026-10-18T12:30:00+05:30",
+    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Third Wave Coffee, Church Street: Bengaluru",
+      "name": "The Dual Room: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shop 52/2, Sujaya Pride Building, Church Street, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "streetAddress": "616, 12th Main Road, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9747",
-        "longitude": "77.6068"
+        "latitude": "12.9705",
+        "longitude": "77.6459"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1889,9 +1980,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-02",
-        "availabilityEnds": "2026-10-17T14:00:00+05:30",
+        "availabilityEnds": "2026-10-18T12:30:00+05:30",
         "validFrom": "2026-10-02",
-        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303"
+        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111"
       }
     ]
   },
@@ -1936,79 +2027,40 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Biggest Open Air Dandiya Mahotsav 2026 @ Nirantara",
-    "image": "https://cdn-az.allevents.in/events3/banners/e95dcf10-c7a0-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8d8b8-gmir.jpg?v=1791962934",
-    "startDate": "2026-10-16T16:00:00+05:30",
-    "endDate": "2026-10-20T22:00:00+05:30",
-    "url": "https://allevents.in/bangalore/biggest-open-air-dandiya-mahotsav-2026-nirantara/3900030778284959",
+    "@type": "MusicEvent",
+    "name": "Biggest Dandiya Utsav at Royal Orchid hotel,domlur",
+    "image": "https://cdn-az.allevents.in/events3/banners/da11a400-c7a0-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1791962909",
+    "startDate": "2026-10-17T16:05:00+05:30",
+    "endDate": "2026-10-18T22:05:00+05:30",
+    "url": "https://allevents.in/bangalore/biggest-dandiya-utsav-at-royal-orchid-hoteldomlur/3900030768988638",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Nirantara Resort and Spa: Bengaluru",
+      "name": "Royal Orchid Hotel: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "221/1, Hulimangala Village, Jigani Hobali, Taluk, Anekal, Bengaluru, Karnataka 560106, India",
+        "streetAddress": "Old Airport Road, No.1, Golf Avenue, Adjoining KGA Golf Course, Hal Airport Road, Domlur, Bengaluru, Karnataka 560008, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.826",
-        "longitude": "77.6485"
+        "latitude": "12.9571",
+        "longitude": "77.644"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get Ready To Celebrate Bengalurus Biggest Dandiya Celebration 2026.After Back to back celebrating this auspicious festival at the same venue Yet Again we are back again with much bigger Plans.Experience Five unforgettable evening filled with music dance culture and festive celebration.Highlights of",
+    "description": "Bengaluru much loved Dandiya celebration returns with an even bigger brighter and more spectacular experience at the Iconic venue known for hosting Biggest Dandiya Concerts at HOTEL ROYAL ORCHID Domlur.Get ready for an unforgettable evening filled with Garba Dandiya music culture food fashion and fe",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-04",
-        "availabilityEnds": "2026-10-20T22:00:00+05:30",
+        "availabilityEnds": "2026-10-18T22:05:00+05:30",
         "validFrom": "2026-10-04",
-        "url": "https://allevents.in/bangalore/biggest-open-air-dandiya-mahotsav-2026-nirantara/3900030778284959"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dhol Dhamaka Dandiya Night",
-    "image": "https://cdn-az.allevents.in/events3/banners/fb4fa750-c6f3-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791888662",
-    "startDate": "2026-10-16T18:30:00+05:30",
-    "endDate": "2026-10-16T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/dhol-dhamaka-dandiya-night/3900030829264502",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Farmhouse: Yelahanka",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No. 33-2, Allalasandra, Yelahanka Main Road, Doddaballapur Road, Hobli, Yelahanka, Bengaluru, Karnataka 560064, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0911",
-        "longitude": "77.594"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DHOL DHAMAKA - DANDIYA NIGHTThis Navratri, Yelahanka is getting ready for a night of Dhol, Dandiya, Garba, music and festive energy.Get your squad together, dress up in your traditional best and join us for an unforgettable evening filled with music, dance and celebration.Highlights:Live Dhol Perfor",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-16T23:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/dhol-dhamaka-dandiya-night/3900030829264502"
+        "url": "https://allevents.in/bangalore/biggest-dandiya-utsav-at-royal-orchid-hoteldomlur/3900030768988638"
       }
     ]
   },
@@ -2092,45 +2144,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "BTM - Dandiya Nights",
-    "image": "https://cdn-az.allevents.in/events1/banners/f550ac10-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc280808-gmir.jpg?v=1791959089",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-18T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/btm-dandiya-nights/3900030829364551",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Stories Brewery & Kitchen: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "29th Main Road, BTM 2nd Stage, Mahadeshwara Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9058",
-        "longitude": "77.6084"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Where Dandiya Meets The NightlifeGet ready for 3 nights of Garba, Dandiya, music and high-energy celebrations at one of BTM's popular brewery destinations, brought to you by Dream Switch ProductionsWHY YOU SHOULD BE THEREConvenient LocationLocated in BTM with easy accessibility and the BTM Layout Me",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-18T23:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/btm-dandiya-nights/3900030829364551"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "AnyBody Can Dandiya 6.0 - HSR Layout",
     "image": "https://cdn-az.allevents.in/events7/banners/7d87ffd0-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc882848-gmir.jpg?v=1791958888",
@@ -2165,45 +2178,6 @@
         "availabilityEnds": "2026-10-19T22:30:00+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-hsr-layout/3900030829364653"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Dandiya - Durga Puja",
-    "image": "https://cdn-az.allevents.in/events3/banners/9d5481b0-c6fe-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791893228",
-    "startDate": "2026-10-17T19:00:00+05:30",
-    "endDate": "2026-10-17T21:30:00+05:30",
-    "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "CSK Mall: Gunjur",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "CSK Mall, Gunjur Palya, Bengaluru, Karnataka 560087, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9182",
-        "longitude": "77.7275"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "VBA invites you to be part of history as we landmark our 10th Year of Mega Durga Puja Celebrations with an electrifying night of Dandiya and Navaratri fervor! This isn`t just an event; it`s a milestone, and we are pulling out all the stops to make it unforgettable.Get ready to twirl, click your stic",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-17T21:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309"
       }
     ]
   },
@@ -3047,6 +3021,161 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Founders X Investors Pitch | Banglore | 31st October",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ac76c023c40c.jpg",
+    "startDate": "2026-10-31T15:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-banglore-31st-october-tickets/80001162671981",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fortius Origin, 80 Feet Road, Koramangala 1A Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka, India",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FirstWings Startup Lounge\r\nFortius Origin 7, 80 Feet Rd, 1A Block, Koramangala 3 Block\r\nKoramangala, Bengaluru, Karnataka 560034",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.971598625183105",
+        "longitude": "77.59456634521484"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The Founders X Investors Pitch | 31st October | IDFC Startup LoungeFounders X Investors – Flagship Pitch SeriesWe're back with our flagship Founders X Investors Pitch Event — a high-impact platform built to connect ambitious founders with serious capital and strategic partners.Our last edition broug",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-01",
+        "availabilityEnds": "2026-10-31T18:00:00+05:30",
+        "validFrom": "2026-10-01",
+        "lowPrice": "699.00",
+        "highPrice": "14999.00",
+        "price": "699.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-banglore-31st-october-tickets/80001162671981"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-01",
+        "availabilityEnds": "2026-10-31T18:00:00+05:30",
+        "validFrom": "2026-10-01",
+        "price": "699.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-banglore-31st-october-tickets/80001162671981",
+        "availability": "https://schema.org/InStock",
+        "name": "Startup Attendee Slot"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-01",
+        "availabilityEnds": "2026-10-31T18:00:00+05:30",
+        "validFrom": "2026-10-01",
+        "price": "1299.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-banglore-31st-october-tickets/80001162671981",
+        "availability": "https://schema.org/InStock",
+        "name": "Investor Pitch Slot"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-01",
+        "availabilityEnds": "2026-10-31T18:00:00+05:30",
+        "validFrom": "2026-10-01",
+        "price": "2999.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-banglore-31st-october-tickets/80001162671981",
+        "availability": "https://schema.org/InStock",
+        "name": "Startup Pitch Slot"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-01",
+        "availabilityEnds": "2026-10-31T18:00:00+05:30",
+        "validFrom": "2026-10-01",
+        "price": "14999.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-banglore-31st-october-tickets/80001162671981",
+        "availability": "https://schema.org/InStock",
+        "name": "Accelerator Pitch Slot "
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "The Founders",
+        "url": "https://allevents.in/org/the-founders/25499127",
+        "description": "The Founders is a community built for and by entrepreneurs, innovators, and investors who believe in collaboration over competition. Whether you're launching your first startup, scaling your business, or investing in groundbreaking ideas, this is the place where you’ll find the right people, real opportunities, and powerful conversations that fuel growth.\n"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Founder Pitches by CEDAT",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6aae2f94deef3.jpg",
+    "startDate": "2026-10-23T18:00:00+05:30",
+    "endDate": "2026-10-23T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80001191099830",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Samagata Foundation",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "postalCode": "560001",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9756186",
+        "longitude": "77.60275589999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Building a startup? Or already scaling one?Join us for Founder Pitches — a relaxed yet impactful event where founders take the stage to share their ideas, products and journeys.This event is all about real pitches, real feedback and real connections.Founders will present their startups in a supporti",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-15",
+        "availabilityEnds": "2026-10-23T19:00:00+05:30",
+        "validFrom": "2026-09-15",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80001191099830"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-09-15",
+        "availabilityEnds": "2026-10-23T19:00:00+05:30",
+        "validFrom": "2026-09-15",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80001191099830",
+        "availability": "https://schema.org/InStock",
+        "name": "Standard Ticket"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT ",
+        "url": "https://allevents.in/org/cedat/25336161"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Asia Jewels Show Bangalore October 2026",
     "image": "https://cdn2.allevents.in/thumbs/thumb69fdb9ebb7f72.jpg",
     "startDate": "2026-10-16T10:30:00+05:30",
@@ -3314,6 +3443,67 @@
         "@type": "Organization",
         "name": "GEMS KIDS CLUB ",
         "url": "https://allevents.in/org/gems-kids-club/16611595"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Machan at Taj West End presents An Ode to Bengal",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ad0af0e00784.jpg",
+    "startDate": "2026-10-18T00:00:00+05:30",
+    "endDate": "2026-10-18T12:30:00+05:30",
+    "url": "https://allevents.in/bangalore/machan-at-taj-west-end-presents-an-ode-to-bengal-tickets/80001368429075",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Taj West End, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "41, Race Course Rd, near Indian Foundation, High Grounds, Bengaluru, Karnataka 560001, India",
+        "postalCode": "560001",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9845461",
+        "longitude": "77.5845824"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Hope you’re well and all set for the festive season. This one is for every Bengalis in Bengaluru. Durga Puja is more than a festival, it is the aroma of kosha mangsho wafting through the house, the irresistible crunch of fish fry, a plate of luchi and aloor dum, and the sweet comfort of mishti doi.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "2026-10-18T12:30:00+05:30",
+        "validFrom": "2026-10-15",
+        "lowPrice": "5000.00",
+        "highPrice": "5000.00",
+        "price": "5000.00",
+        "url": "https://allevents.in/bangalore/machan-at-taj-west-end-presents-an-ode-to-bengal-tickets/80001368429075"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "2026-10-18T12:30:00+05:30",
+        "validFrom": "2026-10-15",
+        "price": "5000.00",
+        "url": "https://allevents.in/bangalore/machan-at-taj-west-end-presents-an-ode-to-bengal-tickets/80001368429075",
+        "availability": "https://schema.org/InStock",
+        "name": "general"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "S Sudiksha",
+        "url": "https://allevents.in/org/s-sudiksha/28239393"
       }
     ]
   },
@@ -5041,161 +5231,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bandajje waterfalls trek - MY HIKES",
-    "image": "https://cdn2.allevents.in/thumbs/thumb664f0f7f87abb.jpg",
-    "startDate": "2026-10-30T03:00:00+05:30",
-    "endDate": "2027-01-01T22:30:00+05:30",
-    "url": "https://allevents.in/bangalore/bandajje-waterfalls-trek-my-hikes-tickets/80003141313862",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Karnataka, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9628957",
-        "longitude": "77.57754"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Situated in the Charmadi Ghats area of the western ghats this offbeat trail to Bandaje waterfalls is one of the must-do treks when in Bangalore. The journey takes you through magnificent meadows river streams and lush green forests all of which are a delight to behold. Embark on this exciting trek a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2027-01-01T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "lowPrice": "1000.00",
-        "highPrice": "4500.00",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/bandajje-waterfalls-trek-my-hikes-tickets/80003141313862"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2027-01-01T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "4500.00",
-        "url": "https://allevents.in/bangalore/bandajje-waterfalls-trek-my-hikes-tickets/80003141313862",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2027-01-01T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "4500.00",
-        "url": "https://allevents.in/bangalore/bandajje-waterfalls-trek-my-hikes-tickets/80003141313862",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2027-01-01T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/bandajje-waterfalls-trek-my-hikes-tickets/80003141313862",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SEAT PAY LATER"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2027-01-01T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/bandajje-waterfalls-trek-my-hikes-tickets/80003141313862",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SEAT PAY LATER"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "My Hikes INDIA",
-        "url": "https://allevents.in/org/my-hikes-india/10715105",
-        "description": "MYHIKES is an Outdoor Trekking / Hiking / Camping community to make your Holidays an Adventurous time by Exploring all levels of Challenging terrains at different Landscapes. \n\nCome DISCOVER YOURSELF...Finding yourself is a journey not a destination"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cochi To Koramangala 🔥",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ac9d22459f28.jpg",
-    "startDate": "2026-10-18T19:00:00+05:30",
-    "endDate": "2026-10-19T00:45:00+05:30",
-    "url": "https://allevents.in/bangalore/cochi-to-koramangala-tickets/80003163829713",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Gsuper Club (The Premium Night Club)",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "93/ a, Bengaluru South, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.933287",
-        "longitude": "77.6138431"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for an electrifying night at Cochi To Koramangala! 🌟 This is not just another gathering; it's a celebration of music and culture, uniting Malyali and Bollywood lovers for an unforgettable experience. Join us as we dance the night away to the beats of DJ MNX, all the way from Kerala, bringi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-10",
-        "availabilityEnds": "2026-10-19T00:45:00+05:30",
-        "validFrom": "2026-10-10",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/cochi-to-koramangala-tickets/80003163829713"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-10",
-        "availabilityEnds": "2026-10-19T00:45:00+05:30",
-        "validFrom": "2026-10-10",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/cochi-to-koramangala-tickets/80003163829713",
-        "availability": "https://schema.org/InStock",
-        "name": "Party Peoples Guestlist "
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Party Peoples ",
-        "url": "https://allevents.in/org/party-peoples/28071943"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "THE ROOM OF MEMORIES MLR 25th 2PM",
     "image": "https://cdn2.allevents.in/thumbs/thumb6a4d11b880d89.jpg",
     "startDate": "2026-10-25T14:00:00+05:30",
@@ -5974,6 +6009,67 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "International BOARD-GAMING Weekend",
+    "image": "https://cdn-az.allevents.in/events3/banners/c73e6874576b0b31ae6c18c3d0eadb48de3c6e56487ec6e64579b75b62e09b94-rimg-w1200-h800-dc181818-gmir.jpg?v=1786248310",
+    "startDate": "2026-08-21T19:00:00+05:30",
+    "endDate": "2026-10-18T19:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/international-board-gaming-weekend/100001996773046935",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bloom Creative Zone - HSR",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24th Main Road",
+        "postalCode": "560102",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9068196",
+        "longitude": "77.64893479999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Join in the action.Bond over Boardgames.\nThere are dedicated game masters to help everyone find a suitable game, form groups and teach rules",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-09",
+        "availabilityEnds": "2026-10-18T19:00:00+05:30",
+        "validFrom": "2026-08-09",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/international-board-gaming-weekend/100001996773046935"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-08-09",
+        "url": "https://allevents.in/bengaluru/international-board-gaming-weekend/100001996773046935",
+        "price": 0,
+        "name": "On-the-spot Payment"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "HSR meetups",
+        "url": "https://allevents.in/org/hsr-meetups/25535050"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The HSR Boardgame Social",
     "image": "https://cdn-az.allevents.in/events2/banners/a4a1bd48c12beebc43d1c8ee8fe75a52a50b62872dd5899926d15c6c3631b39e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1786085337",
     "startDate": "2026-08-14T19:30:00+05:30",
@@ -6463,68 +6559,6 @@
         "name": "Kartnivalz",
         "url": "https://allevents.in/org/kartnivalz/28149770",
         "description": "Kartnivalzis India's first 3-level electric go-kart entertainment zone, located in Bettahalasuru, North Bengaluru. Along with multi-level go-karting, the venue features ATV rides, bowling, arcade games, and a food court — built as a destination for karting enthusiasts, families, birthday parties, and corporate events alike. Kartnivalz opens to the public on October 12, 2026."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Founder Pitches by CEDAT",
-    "image": "https://cdn-az.allevents.in/events4/banners/f07d98dc123a43955dd28c1fb8da277f9edae8ef50c2155a83406ad27836b2d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1790348484",
-    "startDate": "2026-10-23T18:00:00+05:30",
-    "endDate": "2026-11-12T18:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/founder-pitches-by-cedat/100002001040748746",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Samagata Foundation",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Church Street",
-        "postalCode": "560001",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9756186",
-        "longitude": "77.60275589999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "An event showcasing innovative startups presenting their ideas in short pitches.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-11-12T18:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/founder-pitches-by-cedat/100002001040748746"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-25",
-        "url": "https://allevents.in/bengaluru/founder-pitches-by-cedat/100002001040748746",
-        "price": 0,
-        "name": "Founder Pitches by CEDAT"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT",
-        "url": "https://allevents.in/org/cedat/25486355",
-        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
       }
     ]
   },

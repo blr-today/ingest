@@ -796,7 +796,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/baddies-dandiya-night-3bdx2l906b",
-      "validFrom": "2026-10-14T11:13:44.755Z"
+      "validFrom": "2026-10-15T16:34:12.585Z"
     },
     "performer": [
       {
@@ -806,6 +806,58 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/baddies-dandiya-night-3bdx2l906b"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bamboo Sculpture - Diwali Lantern Making Art Workshop",
+    "description": "This Diwali, forget the store-bought lanterns and create something truly your own.Join us for an exclusive festive experience where bamboo takes sculptural form",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/3579cf78b2f9c742cecf40e3d4db1ce8.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/64dbff6d8dcecf668bacbab8f19931bf.png",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/536d823470bb4c6ab0c8e3bcdfbfc4f6.png"
+    ],
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Pinball",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "524, 16th Main Rd, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.929482,
+        "longitude": 77.62466
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pinball labs",
+      "url": "https://www.highape.com/bangalore/organisers/pinball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1990",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/bamboo-sculpture-diwali-lantern-making-art-workshop-avv3d3wf08",
+      "validFrom": "2026-10-15T16:20:44.622Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sanskruti Landage",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/a6285458/y7t72wpew2igpzuxuklc.jpg",
+        "url": "https://www.highape.com/bangalore/artists/sanskruti-landage-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/bamboo-sculpture-diwali-lantern-making-art-workshop-avv3d3wf08"
   },
   {
     "@context": "https://schema.org",
@@ -2646,8 +2698,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/b20a47dd98fe26c073c67ef46dd0557c.png"
     ],
-    "startDate": "2026-10-14T18:00:00+05:30",
-    "endDate": "2026-10-14T23:00:00+05:30",
+    "startDate": "2026-10-15T18:00:00+05:30",
+    "endDate": "2026-10-15T23:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -2677,7 +2729,7 @@
       "highPrice": "2000",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bollywood-gujrati-dandiya-at-shift-marathahalli-2wsl360g34",
-      "validFrom": "2026-10-14T11:57:46.760Z"
+      "validFrom": "2026-10-15T17:05:39.594Z"
     },
     "performer": [
       {
@@ -3188,6 +3240,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/canvas-painting-milaap-efd5w414tq"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CentiGrade Club Nights Ft Brigado Crew",
+    "description": "HighlightsBrigado Crew, the Portuguese electronic music duo, live at PangeoCentiGrade Club Nights brings an electrifying clubbing experience to BengaluruCutting",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/15/f53e9844ff8d5515031e643aa4871199.jpg"
+    ],
+    "startDate": "2026-10-24T20:00:00+05:30",
+    "endDate": "2026-10-25T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Pangeo",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.972639,
+        "longitude": 77.606599
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Centigrade India",
+      "url": "https://www.highape.com/bangalore/organisers/centigrade-india-983a33a9a8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/centigrade-club-nights-ft-brigado-crew-24th-oct-pangeo-qzntylpwnb",
+      "validFrom": "2026-10-15T16:03:40.983Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Brigado Crew",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/04/20/0dcae654042b42bef8fc1867a239bb9e.jpg",
+        "url": "https://www.highape.com/bangalore/artists/brigado-crew-ejsdzy"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/centigrade-club-nights-ft-brigado-crew-24th-oct-pangeo-qzntylpwnb"
   },
   {
     "@context": "https://schema.org",
@@ -4726,7 +4828,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dandiya-week-celebration-hhcyg6ug6e",
-      "validFrom": "2026-10-14T10:26:10.433Z"
+      "validFrom": "2026-10-15T17:05:40.781Z"
     },
     "performer": [
       {
@@ -5716,8 +5818,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/0e0da5d0bd06bbed743baaeceb864eee.jpg"
     ],
-    "startDate": "2026-10-14T17:00:00+05:30",
-    "endDate": "2026-10-14T23:40:00+05:30",
+    "startDate": "2026-10-15T17:00:00+05:30",
+    "endDate": "2026-10-15T23:40:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -5747,7 +5849,7 @@
       "highPrice": "2499",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/disco-dandiya-open-terrace-at-badmaash-sarjapur-2q3e75iszl",
-      "validFrom": "2026-10-14T11:43:30.845Z"
+      "validFrom": "2026-10-15T17:05:41.360Z"
     },
     "performer": [
       {
@@ -6077,7 +6179,7 @@
       "highPrice": "399",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dj-concert-band-reveal-ft-dj-nuthan-kfkgplutui",
-      "validFrom": "2026-10-14T11:57:49.593Z"
+      "validFrom": "2026-10-15T17:05:41.891Z"
     },
     "performer": [
       {
@@ -7170,7 +7272,7 @@
       "highPrice": "4999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/garba-night-workshop-gr3gfh5vlq",
-      "validFrom": "2026-10-14T11:43:32.939Z"
+      "validFrom": "2026-10-15T17:05:42.602Z"
     },
     "performer": [
       {
@@ -10408,8 +10510,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/20aea51e49f7febc9387f65eb5697e3b.jpg"
     ],
-    "startDate": "2026-10-14T19:00:00+05:30",
-    "endDate": "2026-10-15T01:40:00+05:30",
+    "startDate": "2026-10-15T19:00:00+05:30",
+    "endDate": "2026-10-16T01:40:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10439,7 +10541,7 @@
       "highPrice": "299",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/mg-road-ethnic-dandiya-at-flo-church-street-nieke2j8ud",
-      "validFrom": "2026-10-14T10:54:30.345Z"
+      "validFrom": "2026-10-15T17:02:28.910Z"
     },
     "performer": [
       {
@@ -11533,6 +11635,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/neon-theme-night-o7tvsrb7hq"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Bash 2027",
+    "description": "HighlightsCelebrate New Year’s Eve 2026 and welcome 2027 in styleUnlimited food and drinks throughout the celebrationElectrifying music and high-energy party at",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/15/15fec57507e2e78a91e038a8b608b1a6.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "GToxe (The Premium Rooftop Vibe)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/ a, 4th Floor, Industrial Layout, Koramangala, South, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933258,
+        "longitude": 77.613791
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "G Toxe",
+      "url": "https://www.highape.com/bangalore/organisers/g-toxe-0zuze"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "1499",
+      "highPrice": "3999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-bash-2027-wbkx4g6icb",
+      "validFrom": "2026-10-15T16:03:26.340Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "G Toxe",
+        "url": "https://www.highape.com/bangalore/organisers/g-toxe-0zuze"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-bash-2027-wbkx4g6icb"
   },
   {
     "@context": "https://schema.org",
@@ -14392,7 +14544,7 @@
       "highPrice": "500",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-great-indian-dandiya-weekend-sdyooo9fjx",
-      "validFrom": "2026-10-14T10:15:06.371Z"
+      "validFrom": "2026-10-15T17:05:44.440Z"
     },
     "performer": [
       {
@@ -16084,6 +16236,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/whitefield-s-biggest-dandiya-utsav-season-9-12ilvbtmjp"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wonderland Pre - Halloween",
+    "description": "HighlightsPre-Halloween party with immersive spooky-themed decorLive DJ set by Arvind SinghHalloween-themed cocktails and curated cuisineSpooky photo booths and",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/c0d451cd5482d6160ace3a0a3316956f.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Gsuper Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/ a, Industrial Layout, Koramangala, Bengaluru, Bengaluru South, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933287,
+        "longitude": 77.613843
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gsuper Club",
+      "url": "https://www.highape.com/bangalore/organisers/gsuper-club-fe45e3227f"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wonderland-pre-halloween-0eybas2esi",
+      "validFrom": "2026-10-15T16:04:01.567Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Arvind singh",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/arvind-singh-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wonderland-pre-halloween-0eybas2esi"
   },
   {
     "@context": "https://schema.org",
