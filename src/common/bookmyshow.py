@@ -1,28 +1,40 @@
+import datetime
+import glob
 import json
 import logging
+import os
 import random
 import re
+import tempfile
 import time
-
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
-from requests.models import PreparedRequest
+from bs4 import BeautifulSoup
 
-from src.processors.geo import BLR_LAT, BLR_LNG, MAX_DISTANCE_KM
-from src.processors.geo import extract_coords, haversine_distance
+from src.processors.geo import (
+    BLR_LAT,
+    BLR_LNG,
+    MAX_DISTANCE_KM,
+    extract_coords,
+    haversine_distance,
+)
 
 from .fetch import Fetch
+from .tz import IST
 
 EVENT_PAGE = re.compile(r"^https://in\.bookmyshow\.com/(plays|events|activities)/[^/]+/\w+")
 STATE_MARKER = "window.__INITIAL_STATE__ = "
 FIELDS = ("image", "offers", "performer", "typicalAgeRange", "inLanguage", "duration")
+# Each page is one file named for its soonest show, so past shows are easy to clear
+VERSION = 1
+PRUNE = 7 * 24 * 3600
+UNDATED = "9999-12-31"
 _fetcher = None
 
 
 def fetcher():
     global _fetcher
-    _fetcher = _fetcher or Fetch(cache={"days": 3}, browser="chrome150")
+    _fetcher = _fetcher or Fetch(browser="chrome150")
     return _fetcher
 
 
@@ -46,9 +58,8 @@ def in_bengaluru(event):
     return "bengaluru" in place or "bangalore" in place
 
 
-def jsonld_event(soup):
+def bengaluru_first(events):
     # Touring shows list other cities first, so prefer the Bengaluru show
-    events = list(jsonld_events(soup))
     return next((e for e in events if in_bengaluru(e)), events[0] if events else {})
 
 
@@ -75,12 +86,21 @@ def synopsis(html):
     return re.sub(r"\n{3,}", "\n\n", text) or None
 
 
-def parse(html):
-    event = jsonld_event(BeautifulSoup(html, "html.parser"))
+def record(url, html):
+    events = list(jsonld_events(BeautifulSoup(html, "html.parser")))
+    return {"version": VERSION, "url": url, "fetched": time.time(), "events": events, "synopsis": synopsis(html)}
+
+
+def summarize(data):
+    event = bengaluru_first(data["events"])
     details = {k: event[k] for k in FIELDS if event.get(k)}
-    if about := synopsis(html):
-        details["description"] = about
+    if data.get("synopsis"):
+        details["description"] = data["synopsis"]
     return details
+
+
+def parse(html):
+    return summarize(record(None, html))
 
 
 def pause():
@@ -93,37 +113,117 @@ def empty(url, html):
     return f'"{urlparse(url).path}":{{"status":"uninitialized"' in html
 
 
-def cache_key(url):
-    request = PreparedRequest()
-    request.prepare(method="GET", url=url)
-    return fetcher().cache.create_key(request)
+def cache_dir():
+    return os.path.expanduser(os.getenv("BMS_CACHE", "~/.cache/bms"))
+
+
+def today():
+    return datetime.datetime.now(IST).date().isoformat()
+
+
+def files(url):
+    code = urlparse(url).path.rstrip("/").rsplit("/", 1)[-1]
+    if not re.fullmatch(r"\w+", code):
+        return []
+    return glob.glob(os.path.join(cache_dir(), f"????-??-??-{code}.json"))
+
+
+def stored(url):
+    for path in sorted(files(url), reverse=True):
+        if os.path.basename(path)[:10] < today():
+            continue
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+            if data["version"] == VERSION and isinstance(data["events"], list):
+                return data | {"day": os.path.basename(path)[:10]}
+        except (OSError, ValueError, KeyError, TypeError):
+            continue
+    return None
 
 
 def cached(url):
-    response = fetcher().cache.get_response(cache_key(url))
-    return response is not None and not response.is_expired and not empty(url, response.text)
+    return stored(url) is not None
+
+
+def max_age(day):
+    # Refresh soon shows more often to catch sell-outs, reschedules and cancellations
+    if day == UNDATED:
+        return 3 * 24 * 3600
+    days = (datetime.date.fromisoformat(day) - datetime.date.fromisoformat(today())).days
+    return 6 * 3600 if days <= 1 else 24 * 3600 if days <= 7 else 3 * 24 * 3600
+
+
+def due(url):
+    data = stored(url)
+    return data is None or time.time() - float(data["fetched"]) > max_age(data["day"])
+
+
+def soonest(data):
+    days = [str(e.get("startDate", ""))[:10] for e in data["events"] if in_bengaluru(e)]
+    days = [d for d in days if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d) and d >= today()]
+    return min(days, default=UNDATED)
+
+
+def save(url, data):
+    old = files(url)
+    os.makedirs(cache_dir(), exist_ok=True)
+    code = urlparse(url).path.rstrip("/").rsplit("/", 1)[-1]
+    path = os.path.join(cache_dir(), f"{soonest(data)}-{code}.json")
+    fd, tmp = tempfile.mkstemp(dir=cache_dir(), suffix=".tmp")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump({k: v for k, v in data.items() if k != "day"}, f, ensure_ascii=False)
+        os.replace(tmp, path)
+    except BaseException:
+        os.unlink(tmp)
+        raise
+    for other in old:
+        if other != path:
+            os.unlink(other)
+
+
+def prune():
+    # Drop pages whose soonest show has passed, and pages no longer listed
+    removed = 0
+    for path in glob.glob(os.path.join(cache_dir(), "????-??-??-*.json")):
+        if os.path.basename(path)[:10] < today() or time.time() - os.path.getmtime(path) > PRUNE:
+            os.unlink(path)
+            removed += 1
+    return removed
 
 
 def page(url, tries=2):
     for _ in range(tries):
         try:
-            response = fetcher().get(url=url)
+            response = fetcher().get(url=url, cache=False)
         except OSError as e:
             logging.warning("BookMyShow failed for %s: %s", url, e)
             pause()
             continue
-        if not getattr(response, "from_cache", False):
-            pause()
+        pause()
         if response.status_code != 200:
             logging.warning("BookMyShow returned %s for %s", response.status_code, url)
             return None
         if not empty(url, response.text):
             return response.text
-        fetcher().cache.delete(cache_key(url))
     logging.warning("BookMyShow gave no event data for %s", url)
     return None
 
 
-def details(url):
+def load(url, refresh=False):
+    data = stored(url)
+    if data and not (refresh and due(url)):
+        return data
     html = page(url)
-    return parse(html) if html else {}
+    if not html:
+        # Keep the older copy when a refresh fails
+        return data
+    data = record(url, html)
+    save(url, data)
+    return data
+
+
+def details(url):
+    data = load(url)
+    return summarize(data) if data else {}

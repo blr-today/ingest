@@ -1,4 +1,5 @@
 import json
+import os
 import time
 
 import pytest
@@ -74,7 +75,7 @@ def test_listing_walks_each_listing_to_its_end(monkeypatch):
     monkeypatch.setattr(source, "LISTINGS", listings)
     monkeypatch.setattr(source, "listing_page", fake_page)
     monkeypatch.setattr(bookmyshow, "pause", lambda: None)
-    assert [e["url"] for e in source.listing()] == ["e/a", "e/b", "e/c", "w/d", "w/e"]
+    assert [e["url"] for e in source.walk()] == ["e/a", "e/b", "e/c", "w/d", "w/e"]
     assert calls == [
         ("music", None, 1),
         ("music", "s", 2),
@@ -101,7 +102,7 @@ def test_page_events_keep_bengaluru_venues(monkeypatch):
     ]
     shows[1]["organizer"] = {"name": "BookMyShow"}
     html = HTML.replace(f"[{json.dumps(EVENT)}]", json.dumps(shows))
-    monkeypatch.setattr(bookmyshow, "page", lambda url: html)
+    monkeypatch.setattr(bookmyshow, "load", lambda url, refresh: bookmyshow.record(url, html))
     summary = {"@context": "http://schema.org", "url": LINK, "startDate": "2026-10-16"}
     found = source.page_events(summary)
     assert [e["startDate"] for e in found] == ["2026-10-16T15:09", "2026-10-17T11:00"]
@@ -116,42 +117,50 @@ def test_page_events_keep_bengaluru_venues(monkeypatch):
 
 
 def test_page_events_need_the_page(monkeypatch):
-    monkeypatch.setattr(bookmyshow, "page", lambda url: None)
+    monkeypatch.setattr(bookmyshow, "load", lambda url, refresh: None)
     assert source.page_events({"url": LINK, "startDate": "2026-11-22"}) == []
 
 
 def test_events_fetch_soonest_within_budget(monkeypatch):
     listed = [{"url": u, "startDate": d} for u, d in [("c", "3"), ("a", "1"), ("b", "2")]]
     monkeypatch.setattr(source, "listing", lambda: listed)
-    monkeypatch.setattr(bookmyshow, "cached", lambda url: url == "c")
-    monkeypatch.setattr(source, "page_events", lambda e: [{"name": e["url"]}])
+    monkeypatch.setattr(bookmyshow, "cached", lambda url: url in "cd")
+    monkeypatch.setattr(bookmyshow, "due", lambda url: url == "d")
+    fetched = []
+
+    def fake_events(e, refresh=False):
+        fetched.extend([e["url"]] * refresh)
+        return [{"name": e["url"]}]
+
+    monkeypatch.setattr(source, "page_events", fake_events)
+    monkeypatch.setenv("BMS_MAX_FETCHES", "2")
+    listed.append({"url": "d", "startDate": "0"})
+    assert source.events() == [{"name": u} for u in "dabc"]
+    assert sorted(fetched) == ["a", "b"]
     monkeypatch.setenv("BMS_MAX_FETCHES", "1")
-    assert source.events() == [{"name": "a"}, {"name": "c"}]
+    fetched.clear()
+    assert source.events() == [{"name": u} for u in "dac"]
+    assert fetched == ["a"]
 
 
 def test_events_fail_when_no_page_reads(monkeypatch):
     monkeypatch.setattr(source, "listing", lambda: [{"url": "a"}])
     monkeypatch.setattr(bookmyshow, "cached", lambda url: False)
-    monkeypatch.setattr(source, "page_events", lambda e: [])
+    monkeypatch.setattr(bookmyshow, "due", lambda url: True)
+    monkeypatch.setattr(source, "page_events", lambda e, refresh=False: [])
+    monkeypatch.setenv("BMS_MAX_FETCHES", "1")
     with pytest.raises(RuntimeError):
         source.events()
 
 
 class FakeFetcher:
     def __init__(self, bodies):
-        self.bodies, self.deleted = list(bodies), []
-        self.cache = self
+        self.bodies = list(bodies)
 
-    def get(self, url):
+    def get(self, url, cache):
         if isinstance(body := self.bodies.pop(0), Exception):
             raise body
         return type("R", (), {"status_code": 200, "text": body})()
-
-    def create_key(self, request):
-        return request.url
-
-    def delete(self, key):
-        self.deleted.append(key)
 
 
 def test_page_retries_empty_shells(monkeypatch):
@@ -162,13 +171,62 @@ def test_page_retries_empty_shells(monkeypatch):
     assert bookmyshow.page(LINK) == HTML
     assert bookmyshow.page(LINK) is None
     assert bookmyshow.page(LINK) == HTML
-    assert fake.deleted == [LINK] * 3
 
 
-def test_listing_round_trips_through_a_saved_file(monkeypatch, tmp_path):
-    path = str(tmp_path / "listing.json")
+@pytest.fixture
+def cache(monkeypatch, tmp_path):
+    monkeypatch.setenv("BMS_CACHE", str(tmp_path))
+    monkeypatch.setattr(bookmyshow, "today", lambda: "2026-10-16")
+    return tmp_path
+
+
+def show(day, city="Bengaluru"):
+    lat, lng = (12.95, 77.58) if city == "Bengaluru" else (17.43, 78.37)
+    return dict(EVENT, startDate=f"{day}T19:30", location=venue(city, lat, lng))
+
+
+def test_pages_are_filed_under_their_soonest_bengaluru_show(cache):
+    data = {"version": 1, "url": LINK, "fetched": time.time(), "synopsis": None}
+    shows = [show("2026-10-17", "Hyderabad"), show("2026-11-02"), show("2026-10-20")]
+    bookmyshow.save(LINK, data | {"events": shows})
+    assert [p.name for p in cache.iterdir()] == ["2026-10-20-ET00505270.json"]
+    bookmyshow.save(LINK, data | {"events": []})
+    assert [p.name for p in cache.iterdir()] == ["9999-12-31-ET00505270.json"]
+    assert bookmyshow.stored(LINK)["day"] == "9999-12-31"
+
+
+def test_prune_clears_past_and_unlisted_pages(cache):
+    (cache / "2026-10-15-ET1.json").write_text("{}")
+    (cache / "2026-10-16-ET2.json").write_text("{}")
+    (cache / "2026-10-20-ET3.json").write_text("{}")
+    os.utime(cache / "2026-10-20-ET3.json", (0, 0))
+    (cache / "listing.json").write_text("{}")
+    assert bookmyshow.prune() == 2
+    assert sorted(p.name for p in cache.iterdir()) == ["2026-10-16-ET2.json", "listing.json"]
+
+
+def test_soon_shows_are_refreshed_more_often(cache):
+    def filed(day, hours_ago):
+        bookmyshow.save(LINK, {"version": 1, "url": LINK, "synopsis": None,
+                               "fetched": time.time() - hours_ago * 3600, "events": [show(day)]})
+        return bookmyshow.due(LINK)
+
+    assert filed("2026-10-17", 7) and not filed("2026-10-17", 5)
+    assert filed("2026-10-21", 25) and not filed("2026-10-21", 23)
+    assert filed("2026-12-01", 73) and not filed("2026-12-01", 71)
+
+
+def test_failed_refresh_keeps_the_older_copy(cache, monkeypatch):
+    old = {"version": 1, "url": LINK, "synopsis": "old", "fetched": 0, "events": [show("2026-10-17")]}
+    bookmyshow.save(LINK, old)
+    monkeypatch.setattr(bookmyshow, "page", lambda url: None)
+    assert bookmyshow.load(LINK, refresh=True)["synopsis"] == "old"
+    monkeypatch.setattr(bookmyshow, "page", lambda url: HTML)
+    assert bookmyshow.load(LINK, refresh=True)["synopsis"] == "A play about\na sultan."
+
+
+def test_listing_round_trips_through_a_saved_file(monkeypatch, cache):
     found = [{"url": LINK, "name": "Tughlaq", "startDate": "2026-11-22"}]
-    monkeypatch.setenv("BMS_LISTING", path)
     monkeypatch.setenv("BMS_CRAWL", "1")
     monkeypatch.setattr(source, "walk", lambda: found)
     assert source.listing() == found
@@ -177,32 +235,31 @@ def test_listing_round_trips_through_a_saved_file(monkeypatch, tmp_path):
     assert source.listing() == found
 
 
-def test_saved_listing_drops_foreign_entries(monkeypatch, tmp_path):
-    path = tmp_path / "listing.json"
+def test_saved_listing_drops_foreign_entries(cache):
     events = [
         {"url": LINK, "name": "Tughlaq", "organizer": {"name": "x"}, "sameAs": "https://evil.test"},
         {"url": "https://evil.test/events/a/ET1", "name": "Bad"},
         {"url": ["not", "a", "string"]},
         "junk",
     ]
-    path.write_text(json.dumps({"listed": time.time(), "events": events}))
-    assert source.saved(str(path)) == [{"url": LINK, "name": "Tughlaq"}]
+    (cache / "listing.json").write_text(json.dumps({"listed": time.time(), "events": events}))
+    assert source.saved() == [{"url": LINK, "name": "Tughlaq"}]
 
 
-def test_stale_listing_fails_the_source(tmp_path):
-    path = tmp_path / "listing.json"
-    path.write_text(json.dumps({"listed": 0, "events": [{"url": LINK}]}))
+def test_stale_listing_fails_the_source(cache):
+    (cache / "listing.json").write_text(json.dumps({"listed": 0, "events": [{"url": LINK}]}))
     with pytest.raises(RuntimeError):
-        source.saved(str(path))
+        source.saved()
 
 
 def test_builds_from_a_saved_listing_only_read_the_cache(monkeypatch):
-    monkeypatch.setenv("BMS_LISTING", "/unused")
+    monkeypatch.delenv("BMS_CRAWL", raising=False)
     monkeypatch.delenv("BMS_MAX_FETCHES", raising=False)
     monkeypatch.setattr(source, "listing", lambda: [{"url": "a"}, {"url": "b"}])
     monkeypatch.setattr(bookmyshow, "cached", lambda url: url == "b")
-    monkeypatch.setattr(source, "page_events", lambda e: [{"name": e["url"]}])
-    assert source.events() == [{"name": "b"}]
+    monkeypatch.setattr(bookmyshow, "due", lambda url: True)
+    monkeypatch.setattr(source, "page_events", lambda e, refresh=False: [{"name": e["url"], "refresh": refresh}])
+    assert source.events() == [{"name": "b", "refresh": False}]
 
 
 def test_parse_prefers_the_bengaluru_show():

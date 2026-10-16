@@ -5,8 +5,6 @@ import random
 import tempfile
 import time
 
-from bs4 import BeautifulSoup
-
 from src.common import bookmyshow
 
 LISTING = "https://in.bookmyshow.com/api/explore/v1/discover/{}-bengaluru"
@@ -77,12 +75,17 @@ def walk():
     return list(events.values())
 
 
-def save(path, found):
-    fd, tmp = tempfile.mkstemp(dir=os.path.dirname(path), suffix=".tmp")
+def listing_path():
+    return os.path.join(bookmyshow.cache_dir(), "listing.json")
+
+
+def save(found):
+    os.makedirs(bookmyshow.cache_dir(), exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=bookmyshow.cache_dir(), suffix=".tmp")
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as f:
             json.dump({"listed": time.time(), "events": found}, f)
-        os.replace(tmp, path)
+        os.replace(tmp, listing_path())
     except BaseException:
         os.unlink(tmp)
         raise
@@ -97,7 +100,8 @@ def clean(summary):
     return {k: v for k, v in summary.items() if k in SUMMARY and isinstance(v, (str, dict))}
 
 
-def saved(path):
+def saved():
+    path = listing_path()
     with open(path, encoding="utf-8") as f:
         data = json.load(f)
     age = time.time() - float(data["listed"])
@@ -106,23 +110,26 @@ def saved(path):
     return [s for s in map(clean, data["events"]) if s]
 
 
+def crawling():
+    return bool(os.getenv("BMS_CRAWL"))
+
+
 def listing():
-    path = os.getenv("BMS_LISTING")
-    if path and not os.getenv("BMS_CRAWL"):
-        return saved(path)
+    if not crawling():
+        return saved()
     found = walk()
-    if path and found:
-        save(path, found)
+    if found:
+        save(found)
     return found
 
 
-def page_events(summary):
-    html = bookmyshow.page(summary["url"])
-    if not html:
+def page_events(summary, refresh=False):
+    data = bookmyshow.load(summary["url"], refresh)
+    if not data:
         return []
-    about = bookmyshow.synopsis(html)
+    about = data.get("synopsis")
     found = []
-    for event in bookmyshow.jsonld_events(BeautifulSoup(html, "html.parser")):
+    for event in data["events"]:
         if not bookmyshow.in_bengaluru(event):
             continue
         result = summary | event
@@ -137,23 +144,26 @@ def page_events(summary):
 
 
 def events():
+    if crawling():
+        logging.info("BMS: cleared %s past or unlisted pages", bookmyshow.prune())
     found = sorted(listing(), key=lambda e: str(e.get("startDate")))
     # Builds that read a saved listing only use cached pages
-    reading = os.getenv("BMS_LISTING") and not os.getenv("BMS_CRAWL")
-    budget = int(os.getenv("BMS_MAX_FETCHES", "0" if reading else "150"))
-    result, skipped, read = [], 0, 0
+    budget = int(os.getenv("BMS_MAX_FETCHES", "150" if crawling() else "0"))
+    # New pages first, then refresh the soonest shows that are due
+    new = [s["url"] for s in found if not bookmyshow.cached(s["url"])]
+    stale = [s["url"] for s in found if s["url"] not in new and bookmyshow.due(s["url"])]
+    fetch = set((new + stale)[:budget])
+    result, read = [], 0
     for summary in found:
-        if not bookmyshow.cached(summary["url"]):
-            if budget <= 0:
-                skipped += 1
-                continue
-            budget -= 1
-        page = page_events(summary)
+        if summary["url"] not in fetch and summary["url"] in new:
+            continue
+        page = page_events(summary, refresh=summary["url"] in fetch)
         read += bool(page)
         result += page
     logging.info(
-        "BMS: %s listed, %s pages with Bengaluru events, %s events, %s left for later runs",
-        len(found), read, len(result), skipped,
+        "BMS: %s listed, %s fetched, %s pages with Bengaluru events, %s events, %s new and %s stale left",
+        len(found), len(fetch), read, len(result),
+        len(set(new) - fetch), len(set(stale) - fetch),
     )
     if found and not result:
         raise RuntimeError("No BookMyShow event page could be read")
