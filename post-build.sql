@@ -946,6 +946,10 @@ WHERE
     OR event_json ->> '$.location.name' LIKE 'dialogues cafe%'
     OR event_json ->> '$.location.name' LIKE 'uru %'
     OR event_json ->> '$.location.name' LIKE '% social: bengaluru%'
+    -- The same craft set toured across bars
+    OR event_json ->> '$.name' LIKE 'trinket tray workshop%'
+    OR event_json ->> '$.name' LIKE 'bedazzle%'
+    OR event_json ->> '$.name' LIKE 'sip and clay%'
   )
   AND event_json ->> '$.name' NOT LIKE '%botc%'
   AND event_json ->> '$.name' NOT LIKE '%blood on the clock%'
