@@ -847,8 +847,11 @@ WHERE
   OR event_json ->> '$.location.name' LIKE 'magique%'
   OR event_json ->> '$.location.name' LIKE 'atlantis, hsr%'
   OR event_json ->> '$.description' LIKE '%djs spinning%'
-  OR event_json ->> '$.name' LIKE '%ft dj%'
-  OR event_json ->> '$.name' LIKE '%ft. dj%'
+  -- Arena shows are concerts, not club nights
+  OR (
+    (event_json ->> '$.name' LIKE '%ft dj%' OR event_json ->> '$.name' LIKE '%ft. dj%')
+    AND event_json ->> '$.name' NOT LIKE '%arena%'
+  )
   OR event_json ->> '$.name' LIKE 'dj %'
   OR event_json ->> '$.name' LIKE '%dj night%'
   OR event_json ->> '$.name' LIKE '%dj party%'
