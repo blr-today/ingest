@@ -21,6 +21,9 @@ out/district.json:
 out/bookmyshow.json:
 	python -m src.sources bookmyshow || (echo "FAIL $@" && echo '[]' > $@)
 
+out/instagram.json:
+	python -m src.sources instagram || (echo "FAIL $@" && echo '[]' > $@)
+
 out/manual.json: in/manual.json
 	cp in/manual.json $@
 

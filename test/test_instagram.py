@@ -42,12 +42,13 @@ class FakeResponse:
 class FakeBrightData:
     def __init__(self, records, statuses=("running", "ready")):
         self.records, self.statuses = records, list(statuses)
-        self.inputs = None
+        self.inputs, self.params = None, []
 
     def post(self, url, params, headers, json, timeout):
-        assert params["discover_by"] == "url" and params["dataset_id"] == instagram.DATASET
+        assert params["dataset_id"] == instagram.DATASET
+        self.params.append(params)
         self.inputs = json["input"]
-        return FakeResponse({"snapshot_id": "sd_1"})
+        return FakeResponse({"snapshot_id": f"sd_{len(self.params)}"})
 
     def get(self, url, headers=None, params=None, timeout=None):
         if "/progress/" in url:
@@ -90,7 +91,7 @@ def no_sleep(monkeypatch):
 
 
 def post(code="ABC", caption="Jazz Night\nSat 18 Oct, 7 PM"):
-    return instagram.to_post(record(code, caption=caption))
+    return instagram.to_post(record(code, caption=caption), "af_bangalore")
 
 
 DATED = ({"event": 0.9}, {"name": "Jazz Night", "month": "10", "day": "18", "start_hour": "19"})
@@ -105,7 +106,7 @@ def test_request_reads_a_window_and_skips_known_posts(db):
     first = instagram.request(db, "af_bangalore", NOW.date())
     assert first["start_date"] == "09-01-2026" and first["end_date"] == "10-17-2026"
     assert first["post_type"] == "post" and first["posts_to_not_include"] == []
-    instagram.save(db, [record("ABC")])
+    instagram.save(db, [record("ABC")], NOW)
     db.execute("INSERT INTO accounts VALUES ('af_bangalore', '2026-10-15T12:00:00+05:30')")
     later = instagram.request(db, "af_bangalore", NOW.date())
     assert later["start_date"] == "10-13-2026"
@@ -179,7 +180,7 @@ def test_non_image_downloads_are_skipped():
 
 def test_to_event_builds_a_dated_event():
     result = {"nouls": DATED[0], "picks": {k: [v, 0.9] for k, v in DATED[1].items()}}
-    event = instagram.to_event(post(), result)
+    event = instagram.to_event(post(), result, NOW)
     assert event["name"] == "Jazz Night"
     assert event["url"] == "https://www.instagram.com/p/ABC/"
     assert event["startDate"] == "2026-10-18T19:00:00+05:30"
@@ -188,9 +189,9 @@ def test_to_event_builds_a_dated_event():
 
 def test_to_event_needs_an_event_and_a_date():
     picks = {"month": ["10", 0.9], "day": ["18", 0.9]}
-    assert instagram.to_event(post(), {"nouls": {"event": 0.2}, "picks": picks}) is None
-    assert instagram.to_event(post(), {"nouls": {"event": 0.9}, "picks": {}}) is None
-    day_only = instagram.to_event(post(), {"nouls": {"event": 0.9}, "picks": picks})
+    assert instagram.to_event(post(), {"nouls": {"event": 0.2}, "picks": picks}, NOW) is None
+    assert instagram.to_event(post(), {"nouls": {"event": 0.9}, "picks": {}}, NOW) is None
+    day_only = instagram.to_event(post(), {"nouls": {"event": 0.9}, "picks": picks}, NOW)
     assert day_only["startDate"] == "2026-10-18" and day_only["name"] == "Jazz Night"
 
 
@@ -206,7 +207,7 @@ def test_events_merge_reminders_and_skip_linked_posts(db, monkeypatch, tmp_path)
         record("OLD", posted="2026-10-10T10:00:00.000Z"),
         record("LINKED"),
         record("PAST"),
-    ])
+    ], NOW)
     picks = {k: [v, 0.9] for k, v in DATED[1].items()}
     past = picks | {"month": ["10", 0.9], "day": ["1", 0.9], "year": ["2026", 0.9]}
     for code, p in [("NEW", picks), ("OLD", picks), ("LINKED", picks), ("PAST", past)]:
@@ -256,3 +257,46 @@ def test_matches_ask_jev_once_and_cache(db, monkeypatch):
 def test_describe_lists_name_time_and_venue():
     assert instagram.describe(LISTINGS["2026-10-18"][1]) == "Jazz Night Live | 19:00 | Venue"
     assert instagram.describe({"name": "Fair", "startDate": "2026-10-18"}) == "Fair | all day"
+
+
+def expiring(hours):
+    return f"https://cdn.example/a.jpg?oe={int((NOW + timedelta(hours=hours)).timestamp()):x}&oh=sig"
+
+
+def test_events_use_the_first_live_image():
+    result = {"nouls": DATED[0], "picks": {k: [v, 0.9] for k, v in DATED[1].items()}}
+    live = post() | {"photos": [expiring(-1), expiring(5)]}
+    assert instagram.to_event(live, result, NOW)["image"] == expiring(5)
+    dead = post() | {"photos": [expiring(-1)]}
+    assert "image" not in instagram.to_event(dead, result, NOW)
+
+
+def test_account_of_skips_post_links():
+    refreshed = record("ABC", discovery_input=None, input={"url": "https://www.instagram.com/p/ABC/"})
+    assert instagram.account_of(refreshed) == "af_bangalore"
+
+
+def test_refresh_keeps_the_account_and_marks_the_post_fresh(db):
+    instagram.save(db, [record("ABC")], NOW - timedelta(days=4))
+    collab = record("ABC", user_posted="partner", discovery_input=None, input={"url": "https://www.instagram.com/p/ABC/"})
+    instagram.save(db, [collab], NOW)
+    assert db.execute("SELECT account FROM posts").fetchall() == [("af_bangalore",)]
+    assert db.execute("SELECT at FROM fetched").fetchall() == [(NOW.isoformat(),)]
+
+
+def test_stale_picks_upcoming_events_fetched_three_days_ago(db):
+    instagram.save(db, [record("OLD"), record("NEW"), record("NONE")], NOW - timedelta(days=3))
+    instagram.save(db, [record("NEW")], NOW - timedelta(days=1))
+    picks = {k: [v, 0.9] for k, v in DATED[1].items()}
+    for code, nouls in [("OLD", DATED[0]), ("NEW", DATED[0]), ("NONE", {"event": 0.1})]:
+        db.execute("INSERT INTO answers VALUES (?, ?, ?)", (code, instagram.VERSION, json.dumps({"nouls": nouls, "picks": picks})))
+    posts = instagram.recent(db, ["af_bangalore"], NOW.date())
+    assert instagram.stale(db, posts, NOW) == ["OLD"]
+
+
+def test_collect_refreshes_stale_posts_by_url(db):
+    api = FakeBrightData([record("OLD", discovery_input=None, input={"url": "https://www.instagram.com/p/OLD/"})], statuses=["ready"])
+    instagram.collect(db, api, "key", [], NOW, ["OLD"])
+    assert "discover_by" not in api.params[0]
+    assert api.inputs == [{"url": "https://www.instagram.com/p/OLD/"}]
+    assert db.execute("SELECT shortcode FROM fetched").fetchall() == [("OLD",)]
