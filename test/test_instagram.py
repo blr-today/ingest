@@ -1,4 +1,5 @@
 import json
+from contextlib import nullcontext
 from datetime import datetime, timedelta
 from types import SimpleNamespace
 
@@ -140,7 +141,12 @@ def test_unfinished_snapshot_is_resumed_next_run(db, monkeypatch):
 
 def test_lines_drop_emoji_tags_and_link_in_bio():
     caption = "🎷 Jazz Night 🎷\n#jazz #bangalore\nLink in bio\n@someone\nSat 18 Oct"
-    assert instagram.lines(caption) == ["Jazz Night", "Sat 18 Oct"]
+    assert instagram.lines(caption) == ["Jazz Night"]
+
+
+def test_lines_drop_dates_and_calls_to_action():
+    caption = "Saturday, 17 October\n17 Oct 2026 12 PM\nDetails\nVisit BookMyShow for more details\nSunday Chatpata Breakfast\nMarch of the Penguins"
+    assert instagram.lines(caption) == ["Sunday Chatpata Breakfast", "March of the Penguins"]
 
 
 def test_text_answer_is_enough_without_images():
@@ -208,8 +214,45 @@ def test_events_merge_reminders_and_skip_linked_posts(db, monkeypatch, tmp_path)
     monkeypatch.setattr(instagram, "connect", lambda: db)
     monkeypatch.setattr(instagram, "datetime", SimpleNamespace(now=lambda tz: NOW, combine=datetime.combine, fromisoformat=datetime.fromisoformat))
     monkeypatch.setattr(instagram, "linked_elsewhere", lambda: {"LINKED"})
+    monkeypatch.setattr(instagram, "listings", lambda: {})
     monkeypatch.delenv("BRIGHT_DATA_API_KEY", raising=False)
     monkeypatch.delenv("TYPESAFE_API_KEY", raising=False)
     events = instagram.events()
     assert [e["url"] for e in events] == ["https://www.instagram.com/p/NEW/"]
     assert events[0]["sameAs"] == ["https://www.instagram.com/p/OLD/"]
+    listing = {"name": "Jazz Night Live", "url": "https://venue.in/jazz", "startDate": "2026-10-18T19:30:00+05:30"}
+    monkeypatch.setattr(instagram, "matches", lambda db, pairs, by_day: {"NEW": listing})
+    merged = instagram.events()[0]
+    assert merged["startDate"] == listing["startDate"]
+    assert merged["sameAs"] == ["https://venue.in/jazz", "https://www.instagram.com/p/OLD/"]
+
+
+LISTINGS = {"2026-10-18": [
+    {"name": "Open Mic", "url": "https://other.in/mic", "startDate": "2026-10-18T19:00:00+05:30"},
+    {"name": "Jazz Night Live", "url": "https://venue.in/jazz", "startDate": "2026-10-18T19:00:00+05:30", "location": {"name": "Venue"}},
+]}
+
+
+def test_listings_read_other_sources_by_day(tmp_path):
+    (tmp_path / "venue.json").write_text(json.dumps(LISTINGS["2026-10-18"] + [{"name": "No date"}]))
+    (tmp_path / "instagram.json").write_text(json.dumps([{"name": "Ours", "url": "u", "startDate": "2026-10-18"}]))
+    assert instagram.listings(str(tmp_path / "*.json")) == LISTINGS
+
+
+def test_matches_ask_jev_once_and_cache(db, monkeypatch):
+    jev = FakeJev(({}, {"same": "1"}))
+    monkeypatch.setattr(instagram, "TypeSafeClient", lambda: nullcontext(jev))
+    monkeypatch.setenv("TYPESAFE_API_KEY", "key")
+    event = {"name": "Jazz Night", "startDate": "2026-10-18T19:00:00+05:30"}
+    pairs = [(post(), event)]
+    assert instagram.matches(db, pairs, LISTINGS) == {"ABC": LISTINGS["2026-10-18"][1]}
+    state, _ = jev.calls[0]
+    assert state["event"] == {"name": "Jazz Night", "start": "2026-10-18T19:00:00+05:30"}
+    assert instagram.matches(db, pairs, LISTINGS) == {"ABC": LISTINGS["2026-10-18"][1]}
+    assert len(jev.calls) == 1
+    assert instagram.matches(db, [(post(), event | {"startDate": "2026-10-19"})], LISTINGS) == {}
+
+
+def test_describe_lists_name_time_and_venue():
+    assert instagram.describe(LISTINGS["2026-10-18"][1]) == "Jazz Night Live | 19:00 | Venue"
+    assert instagram.describe({"name": "Fair", "startDate": "2026-10-18"}) == "Fair | all day"
