@@ -128,3 +128,28 @@ def test_events_fail_when_no_page_reads(monkeypatch):
     monkeypatch.setattr(source, "page_events", lambda e: [])
     with pytest.raises(RuntimeError):
         source.events()
+
+
+class FakeFetcher:
+    def __init__(self, bodies):
+        self.bodies, self.deleted = list(bodies), []
+        self.cache = self
+
+    def get(self, url):
+        return type("R", (), {"status_code": 200, "text": self.bodies.pop(0)})()
+
+    def create_key(self, request):
+        return request.url
+
+    def delete(self, key):
+        self.deleted.append(key)
+
+
+def test_page_retries_empty_shells(monkeypatch):
+    shell = '{"/plays/tughlaq/ET00505270":{"status":"uninitialized"}}'
+    fake = FakeFetcher([shell, HTML, shell, shell])
+    monkeypatch.setattr(bookmyshow, "fetcher", lambda: fake)
+    monkeypatch.setattr(bookmyshow, "pause", lambda: None)
+    assert bookmyshow.page(LINK) == HTML
+    assert bookmyshow.page(LINK) is None
+    assert fake.deleted == [LINK] * 3

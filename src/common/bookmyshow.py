@@ -5,6 +5,8 @@ import re
 import time
 
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
+
 from requests.models import PreparedRequest
 
 from .fetch import Fetch
@@ -73,22 +75,35 @@ def pause():
     time.sleep(random.uniform(10, 15))
 
 
-def cached(url):
+def empty(url, html):
+    # Under load BMS serves the app shell without the event data
+    return f'"{urlparse(url).path}":{{"status":"uninitialized"' in html
+
+
+def cache_key(url):
     request = PreparedRequest()
     request.prepare(method="GET", url=url)
-    cache = fetcher().cache
-    response = cache.get_response(cache.create_key(request))
-    return response is not None and not response.is_expired
+    return fetcher().cache.create_key(request)
 
 
-def page(url):
-    response = fetcher().get(url=url)
-    if not getattr(response, "from_cache", False):
-        pause()
-    if response.status_code != 200:
-        logging.warning("BookMyShow returned %s for %s", response.status_code, url)
-        return None
-    return response.text
+def cached(url):
+    response = fetcher().cache.get_response(cache_key(url))
+    return response is not None and not response.is_expired and not empty(url, response.text)
+
+
+def page(url, tries=2):
+    for _ in range(tries):
+        response = fetcher().get(url=url)
+        if not getattr(response, "from_cache", False):
+            pause()
+        if response.status_code != 200:
+            logging.warning("BookMyShow returned %s for %s", response.status_code, url)
+            return None
+        if not empty(url, response.text):
+            return response.text
+        fetcher().cache.delete(cache_key(url))
+    logging.warning("BookMyShow served an empty page for %s", url)
+    return None
 
 
 def details(url):
