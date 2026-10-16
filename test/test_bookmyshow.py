@@ -52,29 +52,35 @@ def listing_data(urls, scroll_id):
     return {"scrollId": scroll_id, "meta": {"ldSchema": {"eventsSchema": schema}}}
 
 
-def test_listing_pages_each_category_until_nothing_new(monkeypatch):
+def test_listing_walks_each_listing_to_its_end(monkeypatch):
     pages = {
-        ("events", 1): listing_data(["e/a", "e/b"], "s"),
-        ("events", 2): listing_data(["e/b"], "s"),
-        ("plays", 1): listing_data(["p/c"], None),
-        ("activities", 1): listing_data(["e/a", "a/d"], "t"),
-        ("activities", 2): listing_data([], "t"),
+        ("music", 1): listing_data(["e/a", "e/b"], "s"),
+        ("music", 2): listing_data(["e/b"], "s"),
+        ("music", 3): listing_data(["e/c"], None),
+        ("plays", 1): OSError("refused"),
+        ("workshops", 1): listing_data(["e/a", "w/d"], "t"),
+        ("workshops", 2): listing_data(["w/e"], "t"),
     }
     calls = []
 
-    def fake_page(category, scroll_id, page_id, bms_id):
-        calls.append((category, scroll_id, page_id))
-        return pages[category, page_id]
+    def fake_page(path, category, scroll_id, page_id, bms_id):
+        calls.append((category or path, scroll_id, page_id))
+        if isinstance(page := pages[category or path, page_id], Exception):
+            raise page
+        return page
 
+    listings = [("events", "music", 9), ("plays", None, 9), ("events", "workshops", 2)]
+    monkeypatch.setattr(source, "LISTINGS", listings)
     monkeypatch.setattr(source, "listing_page", fake_page)
     monkeypatch.setattr(bookmyshow, "pause", lambda: None)
-    assert [e["url"] for e in source.listing()] == ["e/a", "e/b", "p/c", "a/d"]
+    assert [e["url"] for e in source.listing()] == ["e/a", "e/b", "e/c", "w/d", "w/e"]
     assert calls == [
-        ("events", None, 1),
-        ("events", "s", 2),
+        ("music", None, 1),
+        ("music", "s", 2),
+        ("music", "s", 3),
         ("plays", None, 1),
-        ("activities", None, 1),
-        ("activities", "t", 2),
+        ("workshops", None, 1),
+        ("workshops", "t", 2),
     ]
 
 
@@ -136,7 +142,9 @@ class FakeFetcher:
         self.cache = self
 
     def get(self, url):
-        return type("R", (), {"status_code": 200, "text": self.bodies.pop(0)})()
+        if isinstance(body := self.bodies.pop(0), Exception):
+            raise body
+        return type("R", (), {"status_code": 200, "text": body})()
 
     def create_key(self, request):
         return request.url
@@ -147,9 +155,10 @@ class FakeFetcher:
 
 def test_page_retries_empty_shells(monkeypatch):
     shell = '{"/plays/tughlaq/ET00505270":{"status":"uninitialized"}}'
-    fake = FakeFetcher([shell, HTML, shell, shell])
+    fake = FakeFetcher([shell, HTML, shell, shell, OSError("refused"), HTML])
     monkeypatch.setattr(bookmyshow, "fetcher", lambda: fake)
     monkeypatch.setattr(bookmyshow, "pause", lambda: None)
     assert bookmyshow.page(LINK) == HTML
     assert bookmyshow.page(LINK) is None
+    assert bookmyshow.page(LINK) == HTML
     assert fake.deleted == [LINK] * 3

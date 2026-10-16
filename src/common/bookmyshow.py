@@ -93,7 +93,12 @@ def cached(url):
 
 def page(url, tries=2):
     for _ in range(tries):
-        response = fetcher().get(url=url)
+        try:
+            response = fetcher().get(url=url)
+        except OSError as e:
+            logging.warning("BookMyShow failed for %s: %s", url, e)
+            pause()
+            continue
         if not getattr(response, "from_cache", False):
             pause()
         if response.status_code != 200:
@@ -102,7 +107,7 @@ def page(url, tries=2):
         if not empty(url, response.text):
             return response.text
         fetcher().cache.delete(cache_key(url))
-    logging.warning("BookMyShow served an empty page for %s", url)
+    logging.warning("BookMyShow gave no event data for %s", url)
     return None
 
 

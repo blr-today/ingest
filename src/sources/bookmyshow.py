@@ -11,7 +11,6 @@ from src.processors.geo import BLR_LAT, BLR_LNG, MAX_DISTANCE_KM
 from src.processors.geo import extract_coords, haversine_distance
 
 LISTING = "https://in.bookmyshow.com/api/explore/v1/discover/{}-bengaluru"
-CATEGORIES = ("events", "plays", "activities")
 # The mobile web app code is the only one that returns the paginated listing
 HEADERS = {
     "x-app-code": "WEBV2",
@@ -19,19 +18,34 @@ HEADERS = {
     "x-region-code": "BANG",
     "x-region-slug": "bengaluru",
 }
+# One listing stops after about 111 pages, so list each event category on its own
+CATEGORIES = (
+    "music-shows", "comedy-shows", "performances", "kids", "meetups", "talks",
+    "exhibitions", "screening", "spirituality", "conferences", "award-shows", "nye-parties",
+)
 MAX_PAGES = 150
+# Workshops and activities are mostly the same catalogue at every outlet
+SOONEST_PAGES = 30
+LISTINGS = (
+    *(("events", c, MAX_PAGES) for c in CATEGORIES),
+    ("plays", None, MAX_PAGES),
+    ("events", "workshops", SOONEST_PAGES),
+    ("activities", None, SOONEST_PAGES),
+)
 
 
-def listing_page(category, scroll_id, page_id, bms_id):
-    params = {"region": "BANG", "embedded": "true"}
+def listing_page(path, category, scroll_id, page_id, bms_id):
+    params = {"region": "BANG", "embedded": "true", "sortBy": "earliestEventFirst"}
+    if category:
+        params["categories"] = category
     if scroll_id:
         params |= {"scrollId": scroll_id, "pageId": page_id}
     headers = HEADERS | {
         "x-bms-id": bms_id,
-        "referer": f"https://in.bookmyshow.com/explore/{category}-bengaluru",
+        "referer": f"https://in.bookmyshow.com/explore/{path}-bengaluru",
     }
     response = bookmyshow.fetcher().get(
-        url=LISTING.format(category), params=params, headers=headers, cache=False
+        url=LISTING.format(path), params=params, headers=headers, cache=False
     )
     response.raise_for_status()
     return response.json()
@@ -40,19 +54,23 @@ def listing_page(category, scroll_id, page_id, bms_id):
 def listing():
     bms_id = f"1.{random.randrange(10**8)}.{int(time.time() * 1000)}"
     events, first = {}, True
-    for category in CATEGORIES:
+    for path, category, pages in LISTINGS:
         scroll_id = None
-        for page_id in range(1, MAX_PAGES + 1):
+        for page_id in range(1, pages + 1):
             if not first:
                 bookmyshow.pause()
             first = False
-            data = listing_page(category, scroll_id, page_id, bms_id)
+            try:
+                data = listing_page(path, category, scroll_id, page_id, bms_id)
+            except (OSError, ValueError) as e:
+                logging.warning("BMS %s %s page %s failed: %s", path, category, page_id, e)
+                break
             schema = (data.get("meta") or {}).get("ldSchema", {}).get("eventsSchema") or []
             fresh = [e for e in schema if e.get("url") and e["url"] not in events]
             events |= {e["url"]: e for e in fresh}
-            logging.info("BMS %s page %s: %s new events", category, page_id, len(fresh))
+            logging.info("BMS %s %s page %s: %s new events", path, category, page_id, len(fresh))
             scroll_id = data.get("scrollId")
-            if not scroll_id or not fresh:
+            if not scroll_id or not schema:
                 break
     return list(events.values())
 
