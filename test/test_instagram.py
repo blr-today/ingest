@@ -102,6 +102,11 @@ def test_known_hosts_include_af_bangalore():
     assert "af_bangalore" in instagram.accounts()
 
 
+def test_known_hosts_carry_their_calendar_tags():
+    assert instagram.hosts()["bangalorefilmforum"] == "FILLUM"
+    assert instagram.hosts()["kinyacoffee"] is None
+
+
 def test_request_reads_a_window_and_skips_known_posts(db):
     first = instagram.request(db, "af_bangalore", NOW.date())
     assert first["start_date"] == "09-01-2026" and first["end_date"] == "10-17-2026"
@@ -185,6 +190,13 @@ def test_to_event_builds_a_dated_event():
     assert event["url"] == "https://www.instagram.com/p/ABC/"
     assert event["startDate"] == "2026-10-18T19:00:00+05:30"
     assert event["organizer"]["url"] == "https://www.instagram.com/af_bangalore/"
+
+
+def test_to_event_tags_the_host():
+    result = {"nouls": DATED[0], "picks": {k: [v, 0.9] for k, v in DATED[1].items()}}
+    assert instagram.to_event(post(), result, NOW)["keywords"] == ["ALLIANCEFRANCAISE"]
+    other = instagram.to_post(record("XYZ", account="kinyacoffee"), "kinyacoffee")
+    assert "keywords" not in instagram.to_event(other, result, NOW)
 
 
 def test_to_event_needs_an_event_and_a_date():
