@@ -16,8 +16,8 @@ concurrency:
 permissions: {}
 jobs:
   crawl:
-    name: List events and fill the page cache
-    # The listing and page cache stay on sel's disk for the Update Data build
+    name: List events and refresh pages
+    # The listing and one file per page stay on sel's disk for Update Data
     runs-on: [self-hosted, sel, steamos]
     timeout-minutes: 180
     permissions:
@@ -35,5 +35,10 @@ jobs:
         BMS_MAX_FETCHES: "400"
       run: |
         uv sync --frozen
-        export BMS_LISTING="$HOME/.cache/bookmyshow-listing-${GITHUB_REF_NAME//\//-}.json"
+        export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
+        # Branches start from a copy of main's pages but never write main's
+        if [ "$GITHUB_REF_NAME" != main ] && [ ! -d "$BMS_CACHE" ] && [ -d "$HOME/.cache/bms/main" ]; then
+          mkdir -p "$BMS_CACHE"
+          find "$HOME/.cache/bms/main" -maxdepth 1 -name '????-??-??-*.json' -exec cp -t "$BMS_CACHE" {} +
+        fi
         python -m src.sources bookmyshow
