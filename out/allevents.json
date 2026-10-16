@@ -264,6 +264,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The String Puppet Show Live",
+    "image": "https://cdn-az.allevents.in/events3/banners/bd9b1652d1c331045dc8453e345e8f495875ab6dcd62441521cbb75018581d3f-rimg-w1200-h675-dc080808-gmir?v=1791822144",
+    "startDate": "2026-10-25T17:00:00+05:30",
+    "endDate": "2026-10-25T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/the-string-puppet-show-live/200030826288624",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Karnataka Chitrakala Parishath, Kumara Krupa Road, Near Shivananda Circle, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "College Of Fine Arts Karnataka Chitrakala Parishath, Kumar Krupa Road, Kumara Park East, Seshadripuram, Bengaluru 560001, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.989085569371",
+        "longitude": "77.580834226233"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "\"The String Puppet Show Live\" is an exciting and captivating performance that is sure to leave you in awe. This show features beautifully crafted puppets that are controlled by strings, creating a mesmerizing display of movement and artistry.\n\nThis show is perfect for all ages and is a great way to",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Grand Flea Market",
+        "url": "https://allevents.in/org/grand-flea-market/21837377"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Job Training Workshop for College Students | Just ₹49",
     "image": "https://cdn-az.allevents.in/events2/banners/5eef0223c2df2d8630266d4c63407eccf60d5b46a610affdec16655ea13b62e7-rimg-w1200-h670-dce87818-gmir?v=1791925301",
     "startDate": "2026-10-24T10:30:00+05:30",
@@ -924,6 +959,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Biscoff Biscuit Making",
+    "image": "https://cdn-az.allevents.in/events6/banners/791c0e40-c757-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080838-gmir.jpg?v=1791931393",
+    "startDate": "2026-10-18T17:00:00+05:30",
+    "endDate": "2026-10-18T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/biscoff-biscuit-making/3900030526970433",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9136",
+        "longitude": "77.6055"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Biscoff Biscuit MakingFresh From The Oven Made By YouDiscover the joy of baking delicious Biscoff biscuits from scratch.Experience the magic of transforming simple ingredients into warm golden treats.Learn the art of mixing shaping baking and creating biscuits with the rich flavor of Biscoff.Enjoy t",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-08",
+        "availabilityEnds": "2026-10-18T20:00:00+05:30",
+        "validFrom": "2026-08-08",
+        "url": "https://allevents.in/bangalore/biscoff-biscuit-making/3900030526970433"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Dhvani Bhanushali Live In Bengaluru",
     "image": "https://cdn-az.allevents.in/events4/banners/d1cfd0a0-c773-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc181818-gmir.jpg?v=1791943568",
@@ -997,6 +1071,45 @@
         "availabilityEnds": "2026-10-25T18:30:00+05:30",
         "validFrom": "2026-08-15",
         "url": "https://allevents.in/bangalore/phulka-dots-ft-amruta-bendre/3900030563520620"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kalighat Painting Workshop",
+    "image": "https://cdn-az.allevents.in/events1/banners/84731f60-c5ac-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc980808-gmir.jpg?v=1791748017",
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta: Indiranagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "178-205, 5th Main Rd, Indira Nagar II Stage, Hoysala Naga, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9802",
+        "longitude": "77.6394"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "KALIGHAT PAINTINGS - WHERE TRADITION MEETS MODERNITYBengal is renowned for its rich cultural heritage and diverse artistic traditions, including music, literature, dance, and visual arts. In this workshop, we will explore one of Bengal's most fascinating and thought-provoking art forms -Kalighat Pai",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-04",
+        "availabilityEnds": "2026-11-14T14:00:00+05:30",
+        "validFrom": "2026-09-04",
+        "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614"
       }
     ]
   },
@@ -1348,45 +1461,6 @@
         "availabilityEnds": "2026-10-17T17:30:00+05:30",
         "validFrom": "2026-09-26",
         "url": "https://allevents.in/bangalore/vivek-samtani-live/3900030739639144"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "DISCO DANDIYA NIGHT",
-    "image": "https://cdn-az.allevents.in/events4/banners/a48e8290-c79a-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8b818-gmir.jpg?v=1791960242",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-19T01:05:00+05:30",
-    "url": "https://allevents.in/bangalore/disco-dandiya-night/3900030744732655",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Yeda Republic: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "100, 4th B Cross Road, Nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9344",
-        "longitude": "77.6155"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready to swirl groove and celebrate the true spirit of Navratri at the ultimate Dandiya & Garba Night at Yeda Republic Bangalore! Whether you are a seasoned dancer or just looking to enjoy the festive vibes this event promises an unforgettable evening of high-energy music stunning visuals and cu",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-27",
-        "availabilityEnds": "2026-10-19T01:05:00+05:30",
-        "validFrom": "2026-09-27",
-        "url": "https://allevents.in/bangalore/disco-dandiya-night/3900030744732655"
       }
     ]
   },
@@ -1939,39 +2013,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Dhol Dhamaka Dandiya Night",
-    "image": "https://cdn-az.allevents.in/events3/banners/fb4fa750-c6f3-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791888662",
-    "startDate": "2026-10-16T18:30:00+05:30",
-    "endDate": "2026-10-16T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/dhol-dhamaka-dandiya-night/3900030829264502",
+    "name": "Saakshaath'Khaara' - Kannada Stand up comedy show",
+    "image": "https://cdn-az.allevents.in/events1/banners/345c1100-c933-11f1-849d-d196120da468-rimg-w1200-h600-dcd8c8a8-gmir.jpg?v=1792135718",
+    "startDate": "2026-10-17T17:00:00+05:30",
+    "endDate": "2026-10-17T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "The Farmhouse: Yelahanka",
+      "name": "Comedy Square: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No. 33-2, Allalasandra, Yelahanka Main Road, Doddaballapur Road, Hobli, Yelahanka, Bengaluru, Karnataka 560064, India",
+        "streetAddress": "219, 9th main, 15th Cross Road, 6th sector, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "13.0911",
-        "longitude": "77.594"
+        "latitude": "12.9132",
+        "longitude": "77.6352"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DHOL DHAMAKA - DANDIYA NIGHTThis Navratri, Yelahanka is getting ready for a night of Dhol, Dandiya, Garba, music and festive energy.Get your squad together, dress up in your traditional best and join us for an unforgettable evening filled with music, dance and celebration.Highlights:Live Dhol Perfor",
+    "description": "After telling all the old jokes, Sanjeev is back with new stories, new chaos, and the same funny filter.Banni nimma friends-ginds jothe siguva...",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-16T23:00:00+05:30",
+        "availabilityEnds": "2026-10-17T18:30:00+05:30",
         "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/dhol-dhamaka-dandiya-night/3900030829264502"
+        "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014"
       }
     ]
   },
@@ -2017,78 +2091,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Festival",
-    "name": "BTM - Dandiya Nights",
-    "image": "https://cdn-az.allevents.in/events1/banners/f550ac10-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc280808-gmir.jpg?v=1791959089",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-18T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/btm-dandiya-nights/3900030829364551",
+    "name": "Dandiya - Durga Puja",
+    "image": "https://cdn-az.allevents.in/events3/banners/9d5481b0-c6fe-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791893228",
+    "startDate": "2026-10-17T19:00:00+05:30",
+    "endDate": "2026-10-17T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Stories Brewery & Kitchen: Bengaluru",
+      "name": "CSK Mall: Gunjur",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "29th Main Road, BTM 2nd Stage, Mahadeshwara Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076, India",
+        "streetAddress": "CSK Mall, Gunjur Palya, Bengaluru, Karnataka 560087, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9058",
-        "longitude": "77.6084"
+        "latitude": "12.9182",
+        "longitude": "77.7275"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Where Dandiya Meets The NightlifeGet ready for 3 nights of Garba, Dandiya, music and high-energy celebrations at one of BTM's popular brewery destinations, brought to you by Dream Switch ProductionsWHY YOU SHOULD BE THEREConvenient LocationLocated in BTM with easy accessibility and the BTM Layout Me",
+    "description": "VBA invites you to be part of history as we landmark our 10th Year of Mega Durga Puja Celebrations with an electrifying night of Dandiya and Navaratri fervor! This isn`t just an event; it`s a milestone, and we are pulling out all the stops to make it unforgettable.Get ready to twirl, click your stic",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-18T23:00:00+05:30",
+        "availabilityEnds": "2026-10-17T21:30:00+05:30",
         "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/btm-dandiya-nights/3900030829364551"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "AnyBody Can Dandiya 6.0 - HSR Layout",
-    "image": "https://cdn-az.allevents.in/events7/banners/7d87ffd0-c797-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc882848-gmir.jpg?v=1791958888",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-19T22:30:00+05:30",
-    "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-hsr-layout/3900030829364653",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Manvi Convention, HSR Layout: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1184, 11th Cross Road, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9176",
-        "longitude": "77.6474"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Think Dandiya. Think DesiClans.Garba, but curated. ABCD 6.0 brings its premium edition to Manvi Convention, HSR Layout - four nights of Dandiya Raas, Heech, and Sanedo in one of South Bengaluru`s finest fully air-conditioned indoor venues.Limited capacity. Prime location. Minutes from HSR, Koramanga",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-hsr-layout/3900030829364653"
+        "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309"
       }
     ]
   },
@@ -2128,6 +2163,45 @@
         "availabilityEnds": "2026-10-31T20:40:00+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/ghayal-ft-pranit-more/3900030830383253"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lasya Ft. Anika Kulkarni and Nireeksha G",
+    "image": "https://cdn-az.allevents.in/events5/banners/0a167d10-c7b5-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791971579",
+    "startDate": "2026-10-23T19:30:00+05:30",
+    "endDate": "2026-10-23T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, Rear Wing, Brahmananda Court, 37 Lal Bagh Road, Bengaluru, Karnataka 560027, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9596",
+        "longitude": "77.5874"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Anika Kulkarni and Nireeksha G Rao",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-14",
+        "availabilityEnds": "2026-10-23T20:30:00+05:30",
+        "validFrom": "2026-10-14",
+        "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100"
       }
     ]
   },
@@ -3519,89 +3593,6 @@
         "@type": "Organization",
         "name": "PRAGATHI MEDIA EVENTS",
         "url": "https://allevents.in/org/pragathi-media-events/28176790"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SuperStar Dj Night",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6acf7e9ea19ee.jpg",
-    "startDate": "2026-10-16T19:00:00+05:30",
-    "endDate": "2026-10-17T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Babylonia - Global Food and Cocktails",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7th Block, 9, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.936228",
-        "longitude": "77.6157097"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🎧 SUPERSTAR DJ NIGHT at BABYLONIA 🎧Kick-start your weekend with an unforgettable Friday night at Babylonia, Koramangala! Get ready for electrifying DJ beats, your favourite tracks, an energetic dance floor, and an incredible party atmosphere.🔥 Superstar DJ Night 🎶 Non-stop music and party vibes 💃 Da",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-        "availability": "https://schema.org/InStock",
-        "name": "GIRLS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-        "availability": "https://schema.org/InStock",
-        "name": "BOYS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-17T01:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/superstar-dj-night-tickets/80001647928858",
-        "availability": "https://schema.org/InStock",
-        "name": "COUPLES FREE ENTRY ON GUESTLIST✅"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "GLAMBU",
-        "url": "https://allevents.in/org/glambu/27862034"
       }
     ]
   },
@@ -6272,67 +6263,6 @@
         "availabilityEnds": "",
         "validFrom": "2026-08-09",
         "url": "https://allevents.in/bengaluru/international-board-gaming-weekend/100001996773046935",
-        "price": 0,
-        "name": "On-the-spot Payment"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "HSR meetups",
-        "url": "https://allevents.in/org/hsr-meetups/25535050"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The HSR Boardgame Social",
-    "image": "https://cdn-az.allevents.in/events2/banners/a4a1bd48c12beebc43d1c8ee8fe75a52a50b62872dd5899926d15c6c3631b39e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1786085337",
-    "startDate": "2026-08-14T19:30:00+05:30",
-    "endDate": "2026-11-13T23:30:00+05:30",
-    "url": "https://allevents.in/bengaluru/the-hsr-boardgame-social/100001996773330784",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Big bean cafe",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "19th Main Road",
-        "postalCode": "560102",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9181403",
-        "longitude": "77.64505439999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Join in the action.Bond over Boardgames.\nThere are dedicated game masters to help everyone find a suitable game, form groups and teach rules",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-07",
-        "availabilityEnds": "2026-11-13T23:30:00+05:30",
-        "validFrom": "2026-08-07",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/the-hsr-boardgame-social/100001996773330784"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-07",
-        "availabilityEnds": "",
-        "validFrom": "2026-08-07",
-        "url": "https://allevents.in/bengaluru/the-hsr-boardgame-social/100001996773330784",
         "price": 0,
         "name": "On-the-spot Payment"
       }

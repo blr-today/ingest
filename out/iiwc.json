@@ -77,6 +77,32 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "@id": "2728-1791849600-1792367999@iiwc.in",
+    "name": "“Re-claim Constitution” – Gallery Show",
+    "startDate": "2026-10-13T05:30:00+05:30",
+    "endDate": "2026-10-19T05:30:00+05:30",
+    "description": "",
+    "url": "https://iiwc.in/event/re-claim-constitution-gallery-show/",
+    "keywords": [
+      "Art Gallery"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Art Gallery, Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560004",
+        "addressCountry": "IN"
+      }
+    },
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "@id": "2670-1792605600-1792612800@iiwc.in",
     "name": "Carnatic Instrumental Concert",
@@ -101,32 +127,6 @@
     },
     "inLanguage": "en",
     "image": "https://iiwc.in/wp-content/uploads/2026/10/21Oct-Music.jpeg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ExhibitionEvent",
-    "@id": "2728-1791849600-1792367999@iiwc.in",
-    "name": "“Re-claim Constitution” – Gallery Show",
-    "startDate": "2026-10-13T05:30:00+05:30",
-    "endDate": "2026-10-19T05:30:00+05:30",
-    "description": "",
-    "url": "https://iiwc.in/event/re-claim-constitution-gallery-show/",
-    "keywords": [
-      "Art Gallery"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Art Gallery, Indian Institute of World Culture, Basavanagudi, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560004",
-        "addressCountry": "IN"
-      }
-    },
-    "inLanguage": "en"
   },
   {
     "@context": "https://schema.org",
