@@ -19,6 +19,16 @@ def test_lookup_ignores_city_and_area_suffixes():
     assert lookup("Courtyard, Bangalore")
 
 
+def test_lookup_matches_listing_spellings():
+    assert (
+        lookup("Fabrizo - Creative Art Craft & Bake Lounge")["name"]
+        == "Fabrizo, BTM Layout"
+    )
+    assert lookup("Shoonya - Centre for Art and Somatic Practices")
+    assert lookup("Foodstories Bangalore")
+    assert lookup("Sabha")
+
+
 def test_one_word_names_need_exact_match():
     assert lookup("Courtyard")
     assert lookup("Courtyard by Marriott, Hebbal") is None
