@@ -26,6 +26,7 @@ CURATORS = [
 ]
 RANKED = AGGREGATORS + CURATORS
 ALWAYS_MERGE = ["improv lore"]
+FAR_KM = 2
 # One studio runs one class per slot, however many listings name it
 ONE_ROOM = ["new york dance"]
 GENERIC = {"a", "and", "at", "by", "for", "in", "the", "with", "dance", "dancing"}
@@ -114,7 +115,18 @@ def geo(event):
         return None
 
 
+def far_apart(a, b):
+    x, y = geo(a), geo(b)
+    if not (x and y):
+        return False
+    north = (x[0] - y[0]) * 110.6
+    east = (x[1] - y[1]) * 109.0
+    return north * north + east * east > FAR_KM * FAR_KM
+
+
 def same_place(a, b):
+    if far_apart(a, b):
+        return False
     venue = text_of(a, "location")
     if venue and venue == text_of(b, "location"):
         return True
@@ -132,6 +144,9 @@ def name_session(event, names):
 
 
 def is_duplicate(a, b):
+    # One BMS page lists every venue, so a shared link can still be far apart
+    if far_apart(a, b):
+        return False
     if links(a) & links(b):
         return True
     if any(n in host(a) and n in host(b) for n in ALWAYS_MERGE):
