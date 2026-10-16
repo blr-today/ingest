@@ -69,7 +69,8 @@ WHERE
 -- These are regular museum tickets, not special events
 DELETE FROM events
 WHERE
-  lower(event_json ->> '$.organizer.name') = 'param foundation';
+  lower(event_json ->> '$.organizer.name') = 'param foundation'
+  OR event_json ->> '$.name' LIKE 'parsec%';
 
 
 DELETE FROM events
@@ -399,9 +400,15 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
   )
 WHERE
-  (url LIKE '%district.in%' OR url LIKE '%highape.com%' OR url LIKE '%allevents.in%')
+  (url LIKE '%district.in%' OR url LIKE '%highape.com%' OR url LIKE '%allevents.in%' OR url LIKE '%in.bookmyshow.com%')
   AND (
     event_json ->> '$.name' LIKE '%play area%'
+    OR event_json ->> '$.name' LIKE '%awesome place%'
+    OR event_json ->> '$.name' LIKE 'tem: experience%'
+    OR event_json ->> '$.name' LIKE '%play and party%'
+    OR event_json ->> '$.name' LIKE '%loco bear%'
+    OR event_json ->> '$.name' LIKE 'timezone %'
+    OR event_json ->> '$.name' LIKE '%wine tour%'
     OR event_json ->> '$.name' LIKE '%play zone%'
     OR event_json ->> '$.name' LIKE '%play arena%'
     OR event_json ->> '$.name' LIKE '%play park%'
@@ -635,6 +642,14 @@ WHERE
     -- karnataka trade promotion organization 
     -- https://ktpo.karnataka.gov.in/english
     OR event_json ->> '$.keywords' LIKE '%KTPO%'
+    OR (
+      url LIKE '%in.bookmyshow.com%'
+      AND (
+        event_json ->> '$.name' LIKE '%conference%'
+        OR event_json ->> '$.name' LIKE '%design thinking bootcamp%'
+        OR event_json ->> '$.name' LIKE 'sociometry for teams%'
+      )
+    )
   );
 
 
@@ -822,6 +837,16 @@ WHERE
   OR event_json ->> '$.location.name' LIKE '%hydra club%'
   OR event_json ->> '$.location.name' LIKE '%house of dopamine%'
   OR event_json ->> '$.location.name' LIKE '%sunburn union%'
+  OR event_json ->> '$.location.name' LIKE 'blurred%'
+  OR event_json ->> '$.location.name' LIKE 'drava%'
+  OR event_json ->> '$.location.name' LIKE 'hungry hippie%'
+  OR event_json ->> '$.location.name' LIKE 'queen - the club%'
+  OR event_json ->> '$.location.name' LIKE 'nolimmits%'
+  OR event_json ->> '$.location.name' LIKE 'rizz pub%'
+  OR event_json ->> '$.location.name' LIKE 'glorify pub%'
+  OR event_json ->> '$.location.name' LIKE 'magique%'
+  OR event_json ->> '$.location.name' LIKE 'atlantis, hsr%'
+  OR event_json ->> '$.description' LIKE '%djs spinning%'
   OR event_json ->> '$.name' LIKE '%ft dj%'
   OR event_json ->> '$.name' LIKE '%ft. dj%'
   OR event_json ->> '$.name' LIKE 'dj %'
@@ -874,6 +899,7 @@ WHERE
   OR event_json ->> '$.name' LIKE '%milltober%'
   OR event_json ->> '$.name' LIKE '%raise a stein%'
   OR event_json ->> '$.name' LIKE '%cake buffet%'
+  OR event_json ->> '$.name' LIKE '%big brunch%'
   OR lower(event_json ->> '$.organizer.name') = 'old mill brewing co.'
   -- Chianti lists the same set dinner at each outlet
   OR lower(event_json ->> '$.organizer.name') = 'grateful bread hospitality private limited'
@@ -884,6 +910,54 @@ WHERE
   OR event_json ->> '$.location.name' LIKE '%doubletree by hilton%'
   OR event_json ->> '$.location.name' LIKE '1882 restaurant%'
 ;
+
+
+-- Chain cafes and craft studios rerun one workshop catalogue at every outlet
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  (
+    event_json ->> '$.location.name' LIKE 'third wave coffee%'
+    OR event_json ->> '$.location.name' LIKE 'starbucks%'
+    OR event_json ->> '$.location.name' LIKE 'costa coffee%'
+    OR event_json ->> '$.location.name' LIKE 'tim hortons%'
+    OR event_json ->> '$.location.name' LIKE 'cafe coffee day%'
+    OR event_json ->> '$.location.name' LIKE 'cafe de verde%'
+    OR event_json ->> '$.location.name' LIKE 'casa fresco%'
+    OR event_json ->> '$.location.name' LIKE 'smoor%'
+    OR event_json ->> '$.location.name' LIKE 'the rendezvous%'
+    OR event_json ->> '$.location.name' LIKE 'kesari%'
+    OR event_json ->> '$.location.name' LIKE 'tealogy%'
+    OR event_json ->> '$.location.name' LIKE 'boba tree%'
+    OR event_json ->> '$.location.name' LIKE 'hobby ghar%'
+    OR event_json ->> '$.location.name' LIKE 'fabrizo%'
+    OR event_json ->> '$.location.name' LIKE 'know how%'
+    OR event_json ->> '$.location.name' LIKE 'storyzone%'
+    OR event_json ->> '$.location.name' LIKE 'espressoulster%'
+    OR event_json ->> '$.location.name' LIKE 'dialogues cafe%'
+    OR event_json ->> '$.location.name' LIKE 'uru %'
+    OR event_json ->> '$.location.name' LIKE '% social: bengaluru%'
+  )
+  AND event_json ->> '$.name' NOT LIKE '%botc%'
+  AND event_json ->> '$.name' NOT LIKE '%blood on the clock%'
+  AND event_json ->> '$.name' NOT LIKE '%mafia%'
+  AND event_json ->> '$.name' NOT LIKE '%deduction%'
+  AND event_json ->> '$.name' NOT LIKE '%deception%'
+  AND event_json ->> '$.name' NOT LIKE '%board game%'
+  AND event_json ->> '$.name' NOT LIKE '%boardgame%'
+  AND event_json ->> '$.name' NOT LIKE '%traitors%'
+  AND event_json ->> '$.name' NOT LIKE '%chess%'
+  AND event_json ->> '$.name' NOT LIKE '%open mic%'
+  AND event_json ->> '$.name' NOT LIKE '%jam%'
+  AND event_json ->> '$.name' NOT LIKE '%library%'
+  AND event_json ->> '$.name' NOT LIKE '%charcha%'
+  AND event_json ->> '$.name' NOT LIKE '%talk%'
+  AND event_json ->> '$.name' NOT LIKE '%listening%';
 
 
 -- Secret Story music nights
