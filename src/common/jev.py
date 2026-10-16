@@ -1,4 +1,5 @@
-from datetime import time
+import calendar
+from datetime import date, time
 
 from typesafe_sdk import Choice, Noul
 
@@ -11,6 +12,8 @@ HOURS = {
     for h in range(24)
 }
 MINUTES = [str(m) for m in range(60)]
+MONTHS = {str(m): calendar.month_name[m] for m in range(1, 13)}
+DAYS = [str(d) for d in range(1, 32)]
 
 
 def pick(question, options):
@@ -37,9 +40,31 @@ def time_questions(subject):
     }
 
 
-def ask(client, state, questions):
+def date_questions(subject, year):
+    return {
+        "month": pick(f"Which month is {subject} held in?", MONTHS),
+        "day": pick(f"Which day of the month is {subject} held on?", DAYS),
+        "year": pick(f"Which year is {subject} held in?", [str(year), str(year + 1)]),
+    }
+
+
+def event_date(picks, published):
+    month, day = value(picks, "month"), value(picks, "day")
+    if not month or not day:
+        return None
+    year = int(value(picks, "year") or published.year)
+    try:
+        when = date(year, int(month), int(day))
+        if not value(picks, "year") and when < published:
+            when = when.replace(year=year + 1)
+    except ValueError:
+        return None
+    return when
+
+
+def ask(client, state, questions, **options):
     questions = {k: q for k, q in questions.items() if q is not None}
-    response = client.system_one(state=state, questions=questions)
+    response = client.system_one(state=state, questions=questions, **options)
     nouls = {k: a.noul for k, a in response.nouls.items()}
     picks = {k: (a.choice, a.confidence) for k, a in response.choices.items()}
     return nouls, picks
