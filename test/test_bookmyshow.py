@@ -197,12 +197,22 @@ def test_pages_are_filed_under_their_soonest_bengaluru_show(cache):
 
 def test_prune_clears_past_and_unlisted_pages(cache):
     (cache / "2026-10-15-ET1.json").write_text("{}")
+    later = {"version": 1, "url": LINK, "fetched": 0, "synopsis": None, "events": [show("2026-10-17")]}
+    (cache / "2026-10-15-ET4.json").write_text(json.dumps(later))
     (cache / "2026-10-16-ET2.json").write_text("{}")
     (cache / "2026-10-20-ET3.json").write_text("{}")
     os.utime(cache / "2026-10-20-ET3.json", (0, 0))
     (cache / "listing.json").write_text("{}")
     assert bookmyshow.prune() == 2
-    assert sorted(p.name for p in cache.iterdir()) == ["2026-10-16-ET2.json", "listing.json"]
+    assert sorted(p.name for p in cache.iterdir()) == ["2026-10-15-ET4.json", "2026-10-16-ET2.json", "listing.json"]
+
+
+def test_pages_outlive_their_soonest_show_while_later_ones_remain(cache):
+    data = {"version": 1, "url": LINK, "fetched": time.time(), "synopsis": None}
+    (cache / "2026-10-15-ET00505270.json").write_text(json.dumps(data | {"events": [show("2026-10-15"), show("2026-10-18")]}))
+    assert bookmyshow.stored(LINK)["day"] == "2026-10-18"
+    (cache / "2026-10-15-ET00505270.json").write_text(json.dumps(data | {"events": [show("2026-10-15")]}))
+    assert bookmyshow.stored(LINK) is None
 
 
 def test_soon_shows_are_refreshed_more_often(cache):

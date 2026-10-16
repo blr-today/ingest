@@ -129,17 +129,27 @@ def files(url):
     return glob.glob(os.path.join(cache_dir(), f"????-??-??-{code}.json"))
 
 
+def current(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        if data["version"] != VERSION or not isinstance(data["events"], list):
+            return None
+        day = os.path.basename(path)[:10]
+        # A page filed under a past show stays while it lists a later one
+        if day < today():
+            day = soonest(data)
+            if day == UNDATED:
+                return None
+        return data | {"day": day}
+    except (OSError, ValueError, KeyError, TypeError):
+        return None
+
+
 def stored(url):
     for path in sorted(files(url), reverse=True):
-        if os.path.basename(path)[:10] < today():
-            continue
-        try:
-            with open(path, encoding="utf-8") as f:
-                data = json.load(f)
-            if data["version"] == VERSION and isinstance(data["events"], list):
-                return data | {"day": os.path.basename(path)[:10]}
-        except (OSError, ValueError, KeyError, TypeError):
-            continue
+        if found := current(path):
+            return found
     return None
 
 
@@ -185,10 +195,11 @@ def save(url, data):
 
 
 def prune():
-    # Drop pages whose soonest show has passed, and pages no longer listed
+    # Drop pages with no Bengaluru show left, and pages no longer listed
     removed = 0
     for path in glob.glob(os.path.join(cache_dir(), "????-??-??-*.json")):
-        if os.path.basename(path)[:10] < today() or time.time() - os.path.getmtime(path) > PRUNE:
+        past = os.path.basename(path)[:10] < today() and current(path) is None
+        if past or time.time() - os.path.getmtime(path) > PRUNE:
             os.unlink(path)
             removed += 1
     return removed
