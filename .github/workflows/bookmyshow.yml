@@ -33,6 +33,7 @@ jobs:
       env:
         BMS_CRAWL: "1"
         BMS_MAX_FETCHES: "300"
+        LOG_LEVEL: INFO
       run: |
         uv sync --frozen
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"

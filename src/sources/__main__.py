@@ -1,5 +1,6 @@
 import importlib
 import json
+import logging
 import os
 import sys
 import tempfile
@@ -39,4 +40,5 @@ def run(name):
 if __name__ == "__main__":
     if len(sys.argv) != 2:
         sys.exit(USAGE)
+    logging.basicConfig(level=os.getenv("LOG_LEVEL", "WARNING"), format="%(message)s")
     sys.exit(run(sys.argv[1]))
