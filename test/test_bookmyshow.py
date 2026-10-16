@@ -1,4 +1,5 @@
 import json
+import time
 
 import pytest
 
@@ -163,6 +164,45 @@ def test_page_retries_empty_shells(monkeypatch):
     assert bookmyshow.page(LINK) == HTML
     assert fake.deleted == [LINK] * 3
 
+
+def test_listing_round_trips_through_a_saved_file(monkeypatch, tmp_path):
+    path = str(tmp_path / "listing.json")
+    found = [{"url": LINK, "name": "Tughlaq", "startDate": "2026-11-22"}]
+    monkeypatch.setenv("BMS_LISTING", path)
+    monkeypatch.setenv("BMS_CRAWL", "1")
+    monkeypatch.setattr(source, "walk", lambda: found)
+    assert source.listing() == found
+    monkeypatch.delenv("BMS_CRAWL")
+    monkeypatch.setattr(source, "walk", lambda: pytest.fail("the build must not list BMS"))
+    assert source.listing() == found
+
+
+def test_saved_listing_drops_foreign_entries(monkeypatch, tmp_path):
+    path = tmp_path / "listing.json"
+    events = [
+        {"url": LINK, "name": "Tughlaq", "organizer": {"name": "x"}, "sameAs": "https://evil.test"},
+        {"url": "https://evil.test/events/a/ET1", "name": "Bad"},
+        {"url": ["not", "a", "string"]},
+        "junk",
+    ]
+    path.write_text(json.dumps({"listed": time.time(), "events": events}))
+    assert source.saved(str(path)) == [{"url": LINK, "name": "Tughlaq"}]
+
+
+def test_stale_listing_fails_the_source(tmp_path):
+    path = tmp_path / "listing.json"
+    path.write_text(json.dumps({"listed": 0, "events": [{"url": LINK}]}))
+    with pytest.raises(RuntimeError):
+        source.saved(str(path))
+
+
+def test_builds_from_a_saved_listing_only_read_the_cache(monkeypatch):
+    monkeypatch.setenv("BMS_LISTING", "/unused")
+    monkeypatch.delenv("BMS_MAX_FETCHES", raising=False)
+    monkeypatch.setattr(source, "listing", lambda: [{"url": "a"}, {"url": "b"}])
+    monkeypatch.setattr(bookmyshow, "cached", lambda url: url == "b")
+    monkeypatch.setattr(source, "page_events", lambda e: [{"name": e["url"]}])
+    assert source.events() == [{"name": "b"}]
 
 
 def test_parse_prefers_the_bengaluru_show():
