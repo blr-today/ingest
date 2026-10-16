@@ -114,8 +114,9 @@ jobs:
         retention-days: 1
         overwrite: true
 
-    # Commit back some data so we can keep track of diffs
+    # Commit back some data so we can keep track of diffs, on main only
     - name: Commit
+      if: github.ref == 'refs/heads/main'
       env:
         GH_TOKEN: ${{ github.token }}
         ARTIFACT_URL: ${{ steps.upload.outputs.artifact-url }}
