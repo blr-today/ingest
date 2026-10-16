@@ -13,6 +13,12 @@ def test_lookup_matches_variants():
     assert lookup("Alliance Française de Bangalore, Vasanth Nagar")
 
 
+def test_lookup_ignores_city_and_area_suffixes():
+    assert lookup("HEYOU | The Oberoi, MG Road")["name"] == "Heyou"
+    assert lookup("Courtyard: Bengaluru.")
+    assert lookup("Courtyard, Bangalore")
+
+
 def test_one_word_names_need_exact_match():
     assert lookup("Courtyard")
     assert lookup("Courtyard by Marriott, Hebbal") is None
