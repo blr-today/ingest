@@ -199,6 +199,20 @@ def test_to_event_tags_the_host():
     assert "keywords" not in instagram.to_event(other, result, NOW)
 
 
+def test_reminders_without_a_time_join_the_timed_post():
+    timed = {"url": "t", "startDate": "2026-10-24T15:30:00+05:30"}
+    later = {"url": "l", "startDate": "2026-10-24T19:30:00+05:30"}
+    kept = {
+        ("a", timed["startDate"]): (None, timed),
+        ("a", later["startDate"]): (None, later),
+        ("a", "2026-10-24"): (None, {"url": "d", "startDate": "2026-10-24"}),
+        ("b", "2026-10-24"): (None, {"url": "o", "startDate": "2026-10-24"}),
+    }
+    instagram.fold_reminders(kept)
+    assert timed["sameAs"] == ["d"] and "sameAs" not in later
+    assert ("b", "2026-10-24") in kept and ("a", "2026-10-24") not in kept
+
+
 def test_to_event_needs_an_event_and_a_date():
     picks = {"month": ["10", 0.9], "day": ["18", 0.9]}
     assert instagram.to_event(post(), {"nouls": {"event": 0.2}, "picks": picks}, NOW) is None

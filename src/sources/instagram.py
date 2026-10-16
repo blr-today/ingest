@@ -601,6 +601,21 @@ def to_event(post, result, now):
     return event
 
 
+def fold_reminders(kept):
+    # A post with only a date joins the same account's timed post that day
+    timed = defaultdict(list)
+    for (account, start), (_, event) in kept.items():
+        if "T" in start:
+            timed[account, start[:10]].append(event)
+    for account, start in [k for k in kept if "T" not in k[1]]:
+        if same := timed.get((account, start)):
+            _, event = kept.pop((account, start))
+            target = min(same, key=lambda e: e["startDate"])
+            target.setdefault("sameAs", []).extend(
+                [event["url"]] + event.get("sameAs", [])
+            )
+
+
 def events():
     now = datetime.now(IST)
     db = connect()
@@ -626,6 +641,7 @@ def events():
             )
             if same is not event:
                 same.setdefault("sameAs", []).append(event["url"])
+    fold_reminders(kept)
     found = matches(db, kept.values(), listings())
     for post, event in kept.values():
         if listing := found.get(post["shortcode"]):
