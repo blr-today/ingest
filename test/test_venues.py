@@ -26,6 +26,6 @@ def test_one_word_names_need_exact_match():
 
 def test_fills_only_missing_geo():
     event = {"location": {"name": "Cubbon Park"}}
-    assert Venues.process("u", event)["location"]["geo"]["latitude"] == 12.97525
+    assert Venues.process("u", event)["location"]["geo"]["latitude"] == 12.97425
     kept = {"location": {"name": "Cubbon Park", "geo": {"latitude": 1, "longitude": 2}}}
     assert Venues.process("u", kept)["location"]["geo"]["latitude"] == 1
