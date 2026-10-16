@@ -125,7 +125,8 @@ fetch: out/allevents.json \
  out/bac.json \
  out/aceofpubs.json \
  out/fillum.json \
- out/manual.json
+ out/manual.json \
+ out/instagram.json
 	@echo "Done"
 
 clean:
