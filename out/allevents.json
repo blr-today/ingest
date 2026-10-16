@@ -370,41 +370,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The String Puppet Show Live",
-    "image": "https://cdn-az.allevents.in/events3/banners/bd9b1652d1c331045dc8453e345e8f495875ab6dcd62441521cbb75018581d3f-rimg-w1200-h675-dc080808-gmir?v=1791822144",
-    "startDate": "2026-10-25T17:00:00+05:30",
-    "endDate": "2026-10-25T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/the-string-puppet-show-live/200030826288624",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Karnataka Chitrakala Parishath, Kumara Krupa Road, Near Shivananda Circle, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "College Of Fine Arts Karnataka Chitrakala Parishath, Kumar Krupa Road, Kumara Park East, Seshadripuram, Bengaluru 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.989085569371",
-        "longitude": "77.580834226233"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "\"The String Puppet Show Live\" is an exciting and captivating performance that is sure to leave you in awe. This show features beautifully crafted puppets that are controlled by strings, creating a mesmerizing display of movement and artistry.\n\nThis show is perfect for all ages and is a great way to",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Grand Flea Market",
-        "url": "https://allevents.in/org/grand-flea-market/21837377"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Job Training Workshop for College Students | Just ₹49",
     "image": "https://cdn-az.allevents.in/events2/banners/5eef0223c2df2d8630266d4c63407eccf60d5b46a610affdec16655ea13b62e7-rimg-w1200-h670-dce87818-gmir?v=1791925301",
     "startDate": "2026-10-24T10:30:00+05:30",
@@ -433,6 +398,41 @@
         "@type": "Organization",
         "name": "Digital Marketer Land",
         "url": "https://allevents.in/org/digital-marketer-land/28234042"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dasara Cultural Mela",
+    "image": "https://cdn-az.allevents.in/events7/banners/1f3bb2e567dc8f24df20e570fbba160dd444836c33c88d198cce0a5f8e4ca58b-rimg-w1200-h669-dc280878-gmir?v=1792116313",
+    "startDate": "2026-10-17T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/dasara-cultural-mela/200030840917213",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Yeshwanthpur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bangalore, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0161926",
+        "longitude": "77.5543021"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Presenting DASARA CULTURAL MELA on Saturday and Sunday 17th n 18th October at Shantala Arts Trust dance class Yeshwanthpura featuring young dancers who won the Shantala Yuva competition organised by Shantala Arts Trust...... All are cordially invited",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Shantala Arts Trust",
+        "url": "https://allevents.in/org/shantala-arts-trust/28241233",
+        "description": "Shantala Arts Trust. 31 followers · 6 talking about this. Institute of Performing Arts established by Vidwan Prasanna Kasthuri in 1985. Currently led by..."
       }
     ]
   },
@@ -2044,6 +2044,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dhol Dhamaka Dandiya Night",
+    "image": "https://cdn-az.allevents.in/events3/banners/fb4fa750-c6f3-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791888662",
+    "startDate": "2026-10-16T18:30:00+05:30",
+    "endDate": "2026-10-16T23:00:00+05:30",
+    "url": "https://allevents.in/bangalore/dhol-dhamaka-dandiya-night/3900030829264502",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Farmhouse: Yelahanka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No. 33-2, Allalasandra, Yelahanka Main Road, Doddaballapur Road, Hobli, Yelahanka, Bengaluru, Karnataka 560064, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0911",
+        "longitude": "77.594"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "DHOL DHAMAKA - DANDIYA NIGHTThis Navratri, Yelahanka is getting ready for a night of Dhol, Dandiya, Garba, music and festive energy.Get your squad together, dress up in your traditional best and join us for an unforgettable evening filled with music, dance and celebration.Highlights:Live Dhol Perfor",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-16T23:00:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/dhol-dhamaka-dandiya-night/3900030829264502"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Festival",
     "name": "Electronic city biggest Dandiya Utsav - Open Air",
     "image": "https://cdn-az.allevents.in/events5/banners/8bb93da0-c79a-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dc683808-gmir.jpg?v=1791960200",
@@ -2078,45 +2117,6 @@
         "availabilityEnds": "2026-10-20T22:00:00+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/electronic-city-biggest-dandiya-utsav-open-air/3900030829276454"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "HSR - Dandiya Nights",
-    "image": "https://cdn-az.allevents.in/events9/banners/34889d30-c79c-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dc082818-gmir.jpg?v=1791960913",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-18T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/hsr-dandiya-nights/3900030829344309",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Macaw By Stories: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No 2224 , 2225 AECS Layout Singasandra Hosur, Service Road, Bengaluru, Karnataka 560068, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8842",
-        "longitude": "77.6434"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "HSR DANDIYA NIGHTS AT MACAWGet ready for 3 unforgettable nights of Dandiya, Garba and non-stop festive energy at MACAW, HSR!Experience the magic of Navratri with top DJs, traditional Garba, live folk performances and electrifying Dhol acts, all in a premium, comfortable setting.EVENT HIGHLIGHTS-3 Da",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-18T23:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/hsr-dandiya-nights/3900030829344309"
       }
     ]
   },
@@ -3445,67 +3445,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Festival",
-    "name": "Machan at Taj West End presents An Ode to Bengal",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ad0af0e00784.jpg",
-    "startDate": "2026-10-18T00:00:00+05:30",
-    "endDate": "2026-10-18T12:30:00+05:30",
-    "url": "https://allevents.in/bangalore/machan-at-taj-west-end-presents-an-ode-to-bengal-tickets/80001368429075",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Taj West End, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "41, Race Course Rd, near Indian Foundation, High Grounds, Bengaluru, Karnataka 560001, India",
-        "postalCode": "560001",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9845461",
-        "longitude": "77.5845824"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Hope you’re well and all set for the festive season. This one is for every Bengalis in Bengaluru. Durga Puja is more than a festival, it is the aroma of kosha mangsho wafting through the house, the irresistible crunch of fish fry, a plate of luchi and aloor dum, and the sweet comfort of mishti doi.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-15",
-        "availabilityEnds": "2026-10-18T12:30:00+05:30",
-        "validFrom": "2026-10-15",
-        "lowPrice": "5000.00",
-        "highPrice": "5000.00",
-        "price": "5000.00",
-        "url": "https://allevents.in/bangalore/machan-at-taj-west-end-presents-an-ode-to-bengal-tickets/80001368429075"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-15",
-        "availabilityEnds": "2026-10-18T12:30:00+05:30",
-        "validFrom": "2026-10-15",
-        "price": "5000.00",
-        "url": "https://allevents.in/bangalore/machan-at-taj-west-end-presents-an-ode-to-bengal-tickets/80001368429075",
-        "availability": "https://schema.org/InStock",
-        "name": "general"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "S Sudiksha",
-        "url": "https://allevents.in/org/s-sudiksha/28239393"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Festival",
     "name": "NAVARATRI DANDIYA DHAMAKA 2026",
     "image": "https://cdn2.allevents.in/thumbs/thumb6ab60eddc3c0b.jpg",
     "startDate": "2026-10-17T16:00:00+05:30",
@@ -3831,221 +3770,6 @@
         "@type": "Organization",
         "name": "GLAMBU",
         "url": "https://allevents.in/org/glambu/27862034"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Garba By The Lake",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6acf5a1fde652.jpg",
-    "startDate": "2026-10-17T00:00:00+05:30",
-    "endDate": "2026-10-18T17:00:00+05:30",
-    "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Lakeside Socials",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1/1, Seegehalli, Aavalahalli, Bengaluru, Karnataka 560049, India",
-        "postalCode": "560049",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0204184",
-        "longitude": "77.7253408"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "GARBA BY THE LAKE 2026 💃✨A Celebration of Culture, Colours & Dandiya!Bengaluru, get ready to dance your heart out! 🥁This October, experience two unforgettable evenings of music, dance, culture, and celebration as Dune Productions presents GARBA BY THE LAKE at Lakeside Socials, Bengaluru!Get dressed",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "lowPrice": "299.00",
-        "highPrice": "1499.00",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Students ( from ages 13 - 17 )"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Students ( from ages 13 - 17 )"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Students ( from ages 13 - 17 )"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Family ( 4 people ) kids below the age of 12 free"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Family ( 4 people ) kids below the age of 12 free"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Family ( 4 people ) kids below the age of 12 free"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T17:00:00+05:30",
-        "validFrom": "2026-10-14",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/garba-by-the-lake-tickets/80001991372938",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "The Dune Productions",
-        "url": "https://allevents.in/org/the-dune-productions/28236501"
       }
     ]
   },
@@ -5227,6 +4951,67 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Cochi To Koramangala 🔥",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ac9d22459f28.jpg",
+    "startDate": "2026-10-18T19:00:00+05:30",
+    "endDate": "2026-10-19T00:45:00+05:30",
+    "url": "https://allevents.in/bangalore/cochi-to-koramangala-tickets/80003163829713",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Gsuper Club (The Premium Night Club)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/ a, Bengaluru South, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+        "postalCode": "560095",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.933287",
+        "longitude": "77.6138431"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Get ready for an electrifying night at Cochi To Koramangala! 🌟 This is not just another gathering; it's a celebration of music and culture, uniting Malyali and Bollywood lovers for an unforgettable experience. Join us as we dance the night away to the beats of DJ MNX, all the way from Kerala, bringi",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-10",
+        "availabilityEnds": "2026-10-19T00:45:00+05:30",
+        "validFrom": "2026-10-10",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/cochi-to-koramangala-tickets/80003163829713"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-10",
+        "availabilityEnds": "2026-10-19T00:45:00+05:30",
+        "validFrom": "2026-10-10",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/cochi-to-koramangala-tickets/80003163829713",
+        "availability": "https://schema.org/InStock",
+        "name": "Party Peoples Guestlist "
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Party Peoples ",
+        "url": "https://allevents.in/org/party-peoples/28071943"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "THE ROOM OF MEMORIES MLR 25th 2PM",
     "image": "https://cdn2.allevents.in/thumbs/thumb6a4d11b880d89.jpg",
     "startDate": "2026-10-25T14:00:00+05:30",
@@ -5475,6 +5260,42 @@
         "@type": "Organization",
         "name": "GEMS KIDS CLUB ",
         "url": "https://allevents.in/org/gems-kids-club/16611595"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Social Media Bootcamp - Zoho - 2026",
+    "image": "https://cdn2.allevents.in/thumbs/thumb69118d421e6d6.jpg",
+    "startDate": "2026-10-19T08:50:00+05:30",
+    "endDate": "2026-10-19T09:50:00+05:30",
+    "url": "https://allevents.in/bangalore/social-media-bootcamp-zoho-2026/80003571026621",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "I.V Sanctum Hotel",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "33, WH Hanumanthappa Rd, near Tata Consultancy Services, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+        "postalCode": "560009",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9800175",
+        "longitude": "77.5769042"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Hello SM Marketers in Chennai! Are you ready for a fun and interactive Social media marketing bootcamp?Designed exclusively for marketing agencies social media managers and marketing leaders this bootcamp will help you elevate your social media strategy while mastering Zoho Social. Gain valuable ins",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Zoho Community",
+        "url": "https://allevents.in/org/zoho-community/24093414"
       }
     ]
   },
