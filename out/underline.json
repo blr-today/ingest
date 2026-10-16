@@ -32,7 +32,26 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Gamble: A Trivia Game Show by Tasty Trivia",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 399,
+      "offerCount": 1,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-11-20T15:30:00.000Z",
+          "name": "Early Bird",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/gamble-a-trivia-game-show-by-tasty-trivia-nov20-2026-buy-tickets",
+          "validFrom": "2026-10-16T09:29:23.858Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/gamble-a-trivia-game-show-by-tasty-trivia-nov20-2026-buy-tickets"
+    },
     "sameAs": [
       "https://district.in/gamble-a-trivia-game-show-by-tasty-trivia-nov20-2026/event"
     ],
@@ -330,7 +349,46 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Tabletop Thursday with ReRoll Board Games",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 299,
+      "offerCount": 3,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-22T13:30:00.000Z",
+          "name": "Early Bird ",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T09:45:23.684Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-22T13:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T09:45:23.684Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-22T17:30:00.000Z",
+          "name": "Walk-In",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T09:45:23.684Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets"
+    },
     "sameAs": [
       "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
     ],
@@ -646,7 +704,38 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Screening of Sisters (1972) with Cinema Next Door",
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 299,
+      "lowPrice": 249,
+      "offerCount": 2,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/SoldOut",
+          "availabilityEnds": "2026-10-18T11:00:00.000Z",
+          "name": "Early Bird Ticket",
+          "price": 249,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/screening-of-sisters-1972-with-cinema-next-door-oct18-2026-buy-tickets",
+          "validFrom": "2026-10-16T08:37:35.816Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-18T13:00:00.000Z",
+          "name": "Regular Ticket",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/screening-of-sisters-1972-with-cinema-next-door-oct18-2026-buy-tickets",
+          "validFrom": "2026-10-16T08:37:35.816Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/screening-of-sisters-1972-with-cinema-next-door-oct18-2026-buy-tickets"
+    },
     "sameAs": [
+      "https://district.in/screening-of-sisters-1972-with-cinema-next-door-oct18-2026/event",
       "https://cinemanextdoor.com"
     ],
     "startDate": "2026-10-18T16:30:00.000+05:30",
@@ -910,7 +999,7 @@
         },
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-17T17:30:00.000Z",
           "name": " Regular Ticket - Casual Play",
           "price": 399,

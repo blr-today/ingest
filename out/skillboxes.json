@@ -2,6 +2,40 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "description": "Signpost India will launch Majestic Canvas, a landmark visual experience at Majestic Metro, Bengaluru, with a midnight art soirée titled Beasts in Stone, an immersive digital exploration of Karnataka's mythical forms.\r\n\r\n ",
+    "endDate": "2026-10-17T01:15:00",
+    "identifier": "com.skillboxes.42436",
+    "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17921554919pkC8OUt853CLUTh.jpg.webp",
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Cultural Exploration"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": "XHGF+75C, Kempegowda Rd, Kempegowda, Majestic, Bengaluru, Karnataka 560009, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9757036",
+        "longitude": "77.5728908"
+      },
+      "name": "Majestic Metro"
+    },
+    "name": "Stone to Life: India's First Experiential Canvas Launches at Majestic Metro",
+    "offers": [
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "inventoryLevel": 1000,
+        "name": "RSVP/ Free Pass",
+        "url": "https://www.skillboxes.com/events/ticket/stone-to-life-india-s-first-experiential-canvas-launches-at-majestic-metro-sbjqyagq"
+      }
+    ],
+    "startDate": "2026-10-16T23:00:00",
+    "url": "https://www.skillboxes.com/events/stone-to-life-india-s-first-experiential-canvas-launches-at-majestic-metro-sbjqyagq"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "description": "Highlights:Theme PartyDJ LijohnNon-Stop Music Bollywood Night Dance Floor Mouth-Watering AppetizersCocktails and MocktailsAn epic night of mu",
     "endDate": "2026-10-18T23:59:00",
     "identifier": "com.skillboxes.42358",
@@ -271,12 +305,28 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Additional mandatory cover charges of INR 500 applicable at gates.\n",
-        "inventoryLevel": 1,
+        "inventoryLevel": 997,
+        "name": "Phase 1 Pass",
+        "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
+      },
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "description": "Additional mandatory cover charges of INR 500 each applicable at gates.\n",
+        "inventoryLevel": 50,
+        "name": "Group of 2 Pass",
+        "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
+      },
+      {
+        "@type": "Offer",
+        "availability": "SoldOut",
+        "description": "Additional mandatory cover charges of INR 500 applicable at gates.\n",
+        "inventoryLevel": 0,
         "name": "Early Bird Pass",
         "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
       }
     ],
-    "startDate": "2026-11-19T18:30:00",
+    "startDate": "2026-11-19T20:00:00",
     "url": "https://www.skillboxes.com/events/kurukshetra-by-aditya-prerna-sbvwbbzk"
   },
   {
@@ -348,8 +398,24 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Mandatory cover charges of INR 2500 applicable at the venue\nAllows Entry To One Male Only.",
-        "inventoryLevel": 1000,
+        "inventoryLevel": 999,
         "name": "Male Pass",
+        "url": "https://www.skillboxes.com/events/ticket/sajanka-bangalore-sbueheci"
+      },
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "description": "Mandatory cover charges of INR 2500 per person applicable at the venue\nAllows Entry To Three Male Only.",
+        "inventoryLevel": 10,
+        "name": "Group of 3 Male Pass",
+        "url": "https://www.skillboxes.com/events/ticket/sajanka-bangalore-sbueheci"
+      },
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "description": "Mandatory cover charges of INR 2500 per person applicable at the venue\nAllows Entry To One Male & One Female Only.",
+        "inventoryLevel": 50,
+        "name": "Fanpit - Couple Pass",
         "url": "https://www.skillboxes.com/events/ticket/sajanka-bangalore-sbueheci"
       }
     ],
@@ -434,7 +500,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "LIMITED NUMBER OF PASSES AT A DISCOUNT IF YOU BRING YOUR FRIENDS\nAdditional cover charges of INR 500 applicable at gates. Fully redeemable on Food and beverages",
-        "inventoryLevel": 7,
+        "inventoryLevel": 6,
         "name": "Group of 2 Pass",
         "url": "https://www.skillboxes.com/events/ticket/western-express-highway-s-sbkklfym"
       },

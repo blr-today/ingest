@@ -29,7 +29,7 @@
       {
         "@type": "Offer",
         "name": "2K",
-        "price": "499",
+        "price": "299",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
@@ -137,6 +137,56 @@
         "@type": "Offer",
         "name": "10k",
         "price": "650",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
+    "name": "Run and Coffee Rave at Indiranagar with PaceX",
+    "url": "https://indiarunning.com/events/run_and_coffee_rave_at_indiranagar_with_pacex_58677",
+    "startDate": "2026-10-25T07:00:00+05:30",
+    "endDate": "2026-10-25T10:30:00+05:30",
+    "description": "Get ready for \nPaceX Run + Rave at Social, Indiranagar!\n 🏃‍♀️🔥 \nJoin us for a fun community run followed by a post-run \nrave with music, dancing and good vibes. \nActiv Hippy\n is joining us to fuel the experience, making it the perfect mix of fitness, recovery and socialising. \nWhether you’re coming to get your miles in, meet new people or dance your Sunday morning away, this one’s for you. \nCome for the run, stay for the rave! ❤️‍🔥",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/10/25/10474/banner1792132771625",
+    "location": {
+      "@type": "Place",
+      "name": "Hal",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Thippasandra, Bengaluru, Karnataka 560075, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560075",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9707654,
+        "longitude": 77.6476266
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "499",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
