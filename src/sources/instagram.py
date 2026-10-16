@@ -10,6 +10,7 @@ import uuid
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta
+from functools import cache
 from glob import glob
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -69,9 +70,22 @@ def log(*args):
     print("[INSTAGRAM]", *args, file=sys.stderr)
 
 
-def accounts(path="in/known-hosts.yml"):
+@cache
+def hosts(path="in/known-hosts.yml"):
+    # An entry is an account, or an account mapped to its calendar's tag
     with open(path) as f:
-        return sorted({a.lower() for a in yaml.safe_load(f)["instagram"]})
+        entries = yaml.safe_load(f)["instagram"]
+    found = {}
+    for entry in entries:
+        for account, tag in (
+            entry.items() if isinstance(entry, dict) else [(entry, None)]
+        ):
+            found[account.lower()] = tag
+    return found
+
+
+def accounts(path="in/known-hosts.yml"):
+    return sorted(hosts(path))
 
 
 def connect(path=CACHE):
@@ -572,6 +586,8 @@ def to_event(post, result, now):
             "url": f"https://www.instagram.com/{account}/",
         },
     }
+    if tag := hosts().get(account):
+        event["keywords"] = [tag]
     if end:
         event["endDate"] = datetime.combine(day, end).isoformat()
     if image := next((u for u in post["photos"] if live(u, now)), None):
