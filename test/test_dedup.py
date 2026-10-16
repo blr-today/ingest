@@ -4,6 +4,7 @@ from pathlib import Path
 
 from src.dedup import (
     AGGREGATORS,
+    RANKED,
     as_list,
     combine_offers,
     core_title,
@@ -140,6 +141,17 @@ def test_links_ignore_scheme_and_case():
     }
     assert links(a) == {"penciljam.com/main/events/x", "a.in/~b"}
     assert is_duplicate({"name": "A", "url": "https://penciljam.com/main/events/x"}, a)
+
+
+def test_instagram_posts_match_across_url_forms():
+    ours = {"name": "Jazz Night", "url": "https://www.instagram.com/p/DUVqs5OEnwS/"}
+    for link in [
+        "https://www.instagram.com/p/DUVqs5OEnwS/?img_index=1",
+        "https://instagram.com/reel/DUVqs5OEnwS",
+        "https://www.instagram.com/af_bangalore/p/DUVqs5OEnwS/",
+    ]:
+        assert is_duplicate({"name": "Other", "url": "https://a.in/1", "sameAs": link}, ours)
+    assert rank("https://www.instagram.com/p/x/") == len(RANKED)
 
 
 def test_titles_must_overlap_enough():
