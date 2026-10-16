@@ -706,6 +706,7 @@ SET
 WHERE
   (
     event_json LIKE '%dandiya%'
+    OR event_json ->> '$.name' LIKE '%dhandiya%'
     OR event_json ->> '$.name' LIKE '%garba%'
     OR event_json ->> '$.name' LIKE '%navratri%'
     OR event_json ->> '$.name' LIKE '%navaratri%'
