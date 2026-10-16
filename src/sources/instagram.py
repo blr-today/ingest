@@ -12,6 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta
 from glob import glob
 from pathlib import Path
+from urllib.parse import parse_qs, urlparse
 
 import requests
 import yaml
@@ -36,6 +37,8 @@ CACHE = Path.home() / ".cache" / "ingest-instagram.sqlite"
 # Bump when a Jev question changes, so cached answers are asked again
 VERSION = 2
 REFRESH = timedelta(hours=20)
+# Instagram image links expire about four days after they are fetched
+IMAGE_REFRESH = timedelta(days=3)
 LOOKBACK = 45
 OVERLAP = 2
 MAX_POSTS = 30
@@ -47,7 +50,7 @@ STALE = timedelta(days=1)
 IMAGES = {"TypeSafe-Danger-Zone-Images": "true"}
 SUBJECT = "the announced event"
 POST_RE = re.compile(r"instagram\.com/(?:[\w.]+/)?(?:p|reel|tv)/([\w-]+)")
-ACCOUNT_RE = re.compile(r"instagram\.com/([\w.]+)")
+ACCOUNT_RE = re.compile(r"instagram\.com/(?!(?:p|reel|tv)/)([\w.]+)")
 EMOJI_RE = re.compile("[\U0001f000-\U0001faff☀-➿️‍|•]")
 SKIP_RE = re.compile(
     r"^([#@]|hosted by|(event )?details\b|date\b|time\b|venue\b|when\b|where\b)"
@@ -79,6 +82,7 @@ def connect(path=CACHE):
         CREATE TABLE IF NOT EXISTS accounts (account TEXT PRIMARY KEY, fetched TEXT);
         CREATE TABLE IF NOT EXISTS snapshots (id TEXT PRIMARY KEY, accounts TEXT, created TEXT);
         CREATE TABLE IF NOT EXISTS answers (shortcode TEXT PRIMARY KEY, version INTEGER, answers TEXT);
+        CREATE TABLE IF NOT EXISTS fetched (shortcode TEXT PRIMARY KEY, at TEXT);
         CREATE TABLE IF NOT EXISTS matches (shortcode TEXT, listings TEXT, url TEXT, PRIMARY KEY (shortcode, listings));
         """
     )
@@ -128,16 +132,13 @@ def request(db, account, today):
     }
 
 
-def trigger(session, key, inputs):
+def trigger(session, key, inputs, discover=True):
+    params = {"dataset_id": DATASET, "include_errors": "true", "notify": "false"}
+    if discover:
+        params |= {"type": "discover_new", "discover_by": "url"}
     res = session.post(
         f"{API}/trigger",
-        params={
-            "dataset_id": DATASET,
-            "type": "discover_new",
-            "discover_by": "url",
-            "include_errors": "true",
-            "notify": "false",
-        },
+        params=params,
         headers={"Authorization": f"Bearer {key}"},
         json={"input": inputs},
         timeout=60,
@@ -169,17 +170,19 @@ def download(session, key, snapshot):
 
 
 def account_of(record):
-    source = record.get("discovery_input") or record.get("input") or {}
-    url = source.get("url") if isinstance(source, dict) else None
-    match = ACCOUNT_RE.search(url or record.get("profile_url") or "")
-    return (match.group(1) if match else record.get("user_posted") or "").lower()
+    sources = [record.get("discovery_input"), record.get("input")]
+    urls = [s.get("url") for s in sources if isinstance(s, dict)]
+    for url in urls + [record.get("profile_url")]:
+        if isinstance(url, str) and (match := ACCOUNT_RE.search(url)):
+            return match.group(1).lower()
+    return (record.get("user_posted") or "").lower()
 
 
 def posted_on(record):
     return datetime.fromisoformat(record["date_posted"]).astimezone(IST).date()
 
 
-def save(db, records):
+def save(db, records, at):
     failed = set()
     for record in records:
         account = account_of(record)
@@ -188,8 +191,10 @@ def save(db, records):
             if code != "dead_page":
                 failed.add(account)
         elif record.get("shortcode") and record.get("date_posted"):
+            # A refreshed post keeps the account it was discovered under
             db.execute(
-                "INSERT OR REPLACE INTO posts VALUES (?, ?, ?, ?, ?)",
+                "INSERT INTO posts VALUES (?, ?, ?, ?, ?) ON CONFLICT (shortcode) DO UPDATE "
+                "SET pk = excluded.pk, posted = excluded.posted, record = excluded.record",
                 (
                     record["shortcode"],
                     account,
@@ -197,6 +202,10 @@ def save(db, records):
                     posted_on(record).isoformat(),
                     json.dumps(record, ensure_ascii=False),
                 ),
+            )
+            db.execute(
+                "INSERT OR REPLACE INTO fetched VALUES (?, ?)",
+                (record["shortcode"], at.isoformat()),
             )
     return failed
 
@@ -208,7 +217,7 @@ def finish(db, session, key, snapshot, names, created):
     elif status != "ready" or (records := download(session, key, snapshot)) is None:
         return False
     else:
-        failed = save(db, records)
+        failed = save(db, records, created)
         db.executemany(
             "INSERT OR REPLACE INTO accounts VALUES (?, ?)",
             [(a, created.isoformat()) for a in names if a not in failed],
@@ -219,7 +228,19 @@ def finish(db, session, key, snapshot, names, created):
     return True
 
 
-def collect(db, session, key, names, now):
+def collect(db, session, key, names, now, stale=()):
+    # One refresh job at a time, since the next run would ask for the same posts
+    if (
+        stale
+        and not db.execute("SELECT 1 FROM snapshots WHERE accounts = '[]'").fetchone()
+    ):
+        inputs = [{"url": f"https://www.instagram.com/p/{code}/"} for code in stale]
+        snapshot = trigger(session, key, inputs, discover=False)
+        db.execute(
+            "INSERT INTO snapshots VALUES (?, ?, ?)", (snapshot, "[]", now.isoformat())
+        )
+        db.commit()
+        log(f"snapshot {snapshot} started to refresh {len(stale)} posts")
     if todo := due(db, names, now):
         inputs = [request(db, a, now.date()) for a in todo]
         snapshot = trigger(session, key, inputs)
@@ -248,7 +269,7 @@ def collect(db, session, key, names, now):
         time.sleep(POLL)
 
 
-def to_post(record):
+def to_post(record, account):
     photos = record.get("photos") or [
         c["url"]
         for c in record.get("post_content") or []
@@ -256,7 +277,7 @@ def to_post(record):
     ]
     return {
         "shortcode": record["shortcode"],
-        "account": account_of(record),
+        "account": account,
         "caption": record.get("description") or "",
         "posted": posted_on(record),
         "photos": photos or [u for u in [record.get("thumbnail")] if u],
@@ -266,10 +287,10 @@ def to_post(record):
 
 def recent(db, names, today):
     rows = db.execute(
-        "SELECT record FROM posts WHERE posted >= ? ORDER BY posted DESC",
+        "SELECT account, record FROM posts WHERE posted >= ? ORDER BY posted DESC",
         ((today - timedelta(days=LOOKBACK)).isoformat(),),
     )
-    posts = (to_post(json.loads(r)) for (r,) in rows)
+    posts = (to_post(json.loads(r), a) for a, r in rows)
     return [p for p in posts if p["account"] in names]
 
 
@@ -471,13 +492,42 @@ def judge(client, session, post):
     return {"nouls": nouls, "picks": picks, "images": used}
 
 
-def answers(db, posts):
-    cached = {
+def answered(db):
+    return {
         code: json.loads(a)
         for code, a in db.execute(
             "SELECT shortcode, answers FROM answers WHERE version = ?", (VERSION,)
         )
     }
+
+
+def stale(db, posts, now):
+    # Only posts behind upcoming events need fresh image links
+    results, today = answered(db), now.date().isoformat()
+    fetched = dict(db.execute("SELECT shortcode, at FROM fetched"))
+    return [
+        p["shortcode"]
+        for p in posts
+        if (r := results.get(p["shortcode"]))
+        and (e := to_event(p, r, now))
+        and e["startDate"][:10] >= today
+        and (
+            p["shortcode"] not in fetched
+            or now - datetime.fromisoformat(fetched[p["shortcode"]]) >= IMAGE_REFRESH
+        )
+    ]
+
+
+def live(url, now):
+    expires = parse_qs(urlparse(url).query).get("oe")
+    try:
+        return not expires or int(expires[0], 16) > now.timestamp()
+    except ValueError:
+        return True
+
+
+def answers(db, posts):
+    cached = answered(db)
     todo = [p for p in posts if p["shortcode"] not in cached]
     log(f"{len(posts) - len(todo)} posts answered, {len(todo)} to ask")
     if todo and os.environ.get("TYPESAFE_API_KEY"):
@@ -499,7 +549,7 @@ def answers(db, posts):
     return cached
 
 
-def to_event(post, result):
+def to_event(post, result, now):
     nouls, picks = result["nouls"], result["picks"]
     day = event_date(picks, post["posted"])
     if nouls.get("event", 0) < MIN_CONFIDENCE or not day:
@@ -524,6 +574,8 @@ def to_event(post, result):
     }
     if end:
         event["endDate"] = datetime.combine(day, end).isoformat()
+    if image := next((u for u in post["photos"] if live(u, now)), None):
+        event["image"] = image
     if post["location"]:
         event["location"] = {
             "@type": "Place",
@@ -537,20 +589,21 @@ def events():
     now = datetime.now(IST)
     db = connect()
     names = accounts()
+    known = linked_elsewhere()
     if key := os.environ.get("BRIGHT_DATA_API_KEY"):
+        old = [p for p in recent(db, names, now.date()) if p["shortcode"] not in known]
         try:
-            collect(db, requests.Session(), key, names, now)
+            collect(db, requests.Session(), key, names, now, stale(db, old, now))
         except requests.RequestException as e:
             log(f"Bright Data failed, using cached posts: {e}")
     else:
         log("BRIGHT_DATA_API_KEY is not set, using cached posts")
-    known = linked_elsewhere()
     posts = [p for p in recent(db, names, now.date()) if p["shortcode"] not in known]
     results = answers(db, posts)
     kept = {}
     # Posts are newest first, so a reminder post replaces the older announcement
     for post in posts:
-        event = (r := results.get(post["shortcode"])) and to_event(post, r)
+        event = (r := results.get(post["shortcode"])) and to_event(post, r, now)
         if event and event["startDate"][:10] >= now.date().isoformat():
             _, same = kept.setdefault(
                 (post["account"], event["startDate"]), (post, event)
