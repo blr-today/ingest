@@ -50,6 +50,7 @@ jobs:
       runs-on: ${{ needs.runner.outputs.labels }}
     secrets:
       TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+      BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
 
   fallback:
     needs: [runner, update]
@@ -61,6 +62,7 @@ jobs:
       runs-on: '"ubuntu-26.04"'
     secrets:
       TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+      BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
 
   comment:
     needs: [update, fallback]
