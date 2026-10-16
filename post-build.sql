@@ -1217,7 +1217,7 @@ WHERE
   );
 
 
--- Venues still to be announced carry made-up coordinates, so drop them
+-- Venues still to be announced, or only named as the city, carry made-up coordinates
 UPDATE events
 SET
   event_json = json_remove(event_json, '$.location.geo')
@@ -1227,6 +1227,11 @@ WHERE
     event_json ->> '$.location.name' LIKE '%to be announced%'
     OR event_json ->> '$.location.name' LIKE '%to be decided%'
     OR lower(event_json ->> '$.location.name') IN ('tba', 'tbd', 'venue tba', 'venue tbd')
+    OR lower(trim(event_json ->> '$.location.name')) IN ('bengaluru', 'bangalore')
+    OR (
+      round(event_json ->> '$.location.geo.latitude', 4) = 12.9629
+      AND round(event_json ->> '$.location.geo.longitude', 4) = 77.5775
+    )
   );
 
 

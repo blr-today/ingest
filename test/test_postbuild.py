@@ -64,3 +64,28 @@ def test_allevents_rows_keep_eventtype_types(tmp_path):
         "Event",
         "BusinessEvent",
     ]
+
+
+def test_city_wide_venues_lose_their_geo(tmp_path):
+    def event(url, name, lat, lng):
+        geo = {"latitude": lat, "longitude": lng}
+        return {
+            "url": url,
+            "name": "Run",
+            "keywords": [],
+            "location": {"name": name, "geo": geo},
+        }
+
+    got = postbuild(
+        [
+            event("https://a.in/1", "Bengaluru", 13.25, 77.71),
+            event("https://a.in/2", "", 12.9628957, 77.57754),
+            event("https://a.in/3", "Cubbon Park", 12.97425, 77.59219),
+        ],
+        tmp_path / "events.db",
+    )
+    assert [bool(e["location"].get("geo")) for e in got.values()] == [
+        False,
+        False,
+        True,
+    ]
