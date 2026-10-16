@@ -102,5 +102,6 @@ def test_fetch_uses_shared_session_factory_and_keeps_browser(monkeypatch):
             "method": "GET",
             "impersonate": "chrome",
             "url": "https://example.test/events",
+            "timeout": fetch_module.TIMEOUT,
         }
     ]
