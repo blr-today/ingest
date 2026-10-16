@@ -102,7 +102,10 @@ jobs:
     - name: Fetch updates
       env:
         TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
-      run: make clean && make -s all
+      run: |
+        # List BookMyShow writes this on sel; each branch reads only its own
+        export BMS_LISTING="$HOME/.cache/bookmyshow-listing-${GITHUB_REF_NAME//\//-}.json"
+        make clean && make -s all
     - name: Upload Artifacts
       uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
       id: upload
