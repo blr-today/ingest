@@ -1,4 +1,5 @@
 import base64
+import hashlib
 import json
 import os
 import re
@@ -6,6 +7,7 @@ import sqlite3
 import sys
 import time
 import uuid
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta
 from glob import glob
@@ -32,12 +34,13 @@ API = "https://api.brightdata.com/datasets/v3"
 DATASET = "gd_lk5ns7kz21pck8jpis"
 CACHE = Path.home() / ".cache" / "ingest-instagram.sqlite"
 # Bump when a Jev question changes, so cached answers are asked again
-VERSION = 1
+VERSION = 2
 REFRESH = timedelta(hours=20)
 LOOKBACK = 45
 OVERLAP = 2
 MAX_POSTS = 30
 MAX_IMAGES = 3
+MAX_LISTINGS = 40
 WAIT = 600
 POLL = 15
 STALE = timedelta(days=1)
@@ -46,7 +49,17 @@ SUBJECT = "the announced event"
 POST_RE = re.compile(r"instagram\.com/(?:[\w.]+/)?(?:p|reel|tv)/([\w-]+)")
 ACCOUNT_RE = re.compile(r"instagram\.com/([\w.]+)")
 EMOJI_RE = re.compile("[\U0001f000-\U0001faff☀-➿️‍|•]")
-SKIP_RE = re.compile(r"^[#@]|link in (our )?bio", re.IGNORECASE)
+SKIP_RE = re.compile(
+    r"^([#@]|hosted by|(event )?details\b|date\b|time\b|venue\b|when\b|where\b)"
+    r"|link in (our )?bio|\bbookmyshow\b|\bregist(er|ration)\b|\btickets? (are )?(now )?live\b",
+    re.IGNORECASE,
+)
+WHEN_RE = re.compile(
+    r"\b(mon|tues?|wed|thur?s?|fri|sat|sun|(mon|tues|wednes|thurs|fri|satur|sun)day)\b|\b(jan|feb|mar|apr|jun|jul|aug|sept?|oct|nov|dec)\b"
+    r"|\b(january|february|march|april|may|june|july|august|september|october|november|december)\b"
+    r"|\b\d+(st|nd|rd|th|am|pm)?\b|\b(am|pm|onwards|from|to|at|and|till|until|ist)\b",
+    re.IGNORECASE,
+)
 
 
 def log(*args):
@@ -66,6 +79,7 @@ def connect(path=CACHE):
         CREATE TABLE IF NOT EXISTS accounts (account TEXT PRIMARY KEY, fetched TEXT);
         CREATE TABLE IF NOT EXISTS snapshots (id TEXT PRIMARY KEY, accounts TEXT, created TEXT);
         CREATE TABLE IF NOT EXISTS answers (shortcode TEXT PRIMARY KEY, version INTEGER, answers TEXT);
+        CREATE TABLE IF NOT EXISTS matches (shortcode TEXT, listings TEXT, url TEXT, PRIMARY KEY (shortcode, listings));
         """
     )
     return db
@@ -267,14 +281,110 @@ def linked_elsewhere(pattern="out/*.json"):
     return codes
 
 
+def listings(pattern="out/*.json"):
+    by_day = defaultdict(list)
+    for path in glob(pattern):
+        if Path(path).name == "instagram.json":
+            continue
+        try:
+            data = json.loads(Path(path).read_text())
+        except ValueError:
+            continue
+        for e in data if isinstance(data, list) else []:
+            if (
+                isinstance(e, dict)
+                and isinstance(e.get("startDate"), str)
+                and e.get("name")
+                and e.get("url")
+            ):
+                by_day[e["startDate"][:10]].append(e)
+    return by_day
+
+
+def candidates(event, by_day):
+    # A busy day lists many events, so the ones at the same time come first
+    found = by_day.get(event["startDate"][:10], [])
+    return sorted(found, key=lambda o: o["startDate"] != event["startDate"])[
+        :MAX_LISTINGS
+    ]
+
+
+def describe(listing):
+    place = listing.get("location")
+    venue = place.get("name") if isinstance(place, dict) else place
+    parts = [str(listing["name"])[:150], listing["startDate"][11:16] or "all day"]
+    return " | ".join(parts + ([str(venue)[:80]] if isinstance(venue, str) else []))
+
+
+def same_listing(client, post, event, found):
+    question = pick(
+        "Which of these listings from other websites is the same event that this "
+        "Instagram post announces?",
+        {str(i): describe(o) for i, o in enumerate(found)},
+    )
+    announced = {"name": event["name"], "start": event["startDate"]}
+    try:
+        _, picks = ask_jev(
+            client, state(post) | {"event": announced}, {"same": question}
+        )
+    except TypeSafeError as e:
+        log(f"jev match failed for {post['shortcode']}: {e}")
+        return False
+    choice = value(picks, "same")
+    return found[int(choice)]["url"] if choice else None
+
+
+def matches(db, pairs, by_day):
+    found, todo = {}, []
+    for post, event in pairs:
+        if not (listed := candidates(event, by_day)):
+            continue
+        key = hashlib.sha1("\n".join(sorted(o["url"] for o in listed)).encode())
+        key = key.hexdigest()
+        row = db.execute(
+            "SELECT url FROM matches WHERE shortcode = ? AND listings = ?",
+            (post["shortcode"], key),
+        ).fetchone()
+        if row:
+            found[post["shortcode"]] = next(
+                (o for o in listed if o["url"] == row[0]), None
+            )
+        else:
+            todo.append((post, event, listed, key))
+    log(f"{len(found)} matches cached, {len(todo)} to ask")
+    if todo and os.environ.get("TYPESAFE_API_KEY"):
+        with TypeSafeClient() as client, ThreadPoolExecutor(4) as pool:
+            urls = pool.map(lambda t: same_listing(client, *t[:3]), todo)
+            for (post, _, listed, key), url in zip(todo, urls):
+                if url is not False:
+                    db.execute(
+                        "INSERT OR REPLACE INTO matches VALUES (?, ?, ?)",
+                        (post["shortcode"], key, url),
+                    )
+                    found[post["shortcode"]] = next(
+                        (o for o in listed if o["url"] == url), None
+                    )
+        db.commit()
+    return found
+
+
 def lines(caption):
     parts = (
         re.sub(r"\s+", " ", EMOJI_RE.sub(" ", l)).strip(" .,:-–*")
         for l in caption.splitlines()
     )
     return list(
-        dict.fromkeys(p for p in parts if 3 <= len(p) <= 100 and not SKIP_RE.search(p))
+        dict.fromkeys(
+            p
+            for p in parts
+            if 3 <= len(p) <= 100 and not SKIP_RE.search(p) and not is_when(p)
+        )
     )[:15]
+
+
+def is_when(line):
+    # A line that is only a date or a time is not a title
+    return len(re.sub(r"[^a-z]", "", WHEN_RE.sub("", line.lower()))) < 3
 
 
 def questions(post):
@@ -282,10 +392,14 @@ def questions(post):
         "event": Noul(
             instructions="Does this Instagram post announce a specific event, such as a "
             "performance, workshop, screening, talk, walk or meetup, that the public "
-            "can attend on a stated date?"
+            "can attend on a stated date? Calls for vendors, sponsors, applications or "
+            "submissions, sales and product launches are not events."
         ),
         "name": pick(
-            f"Which of these lines is the title of {SUBJECT}?", lines(post["caption"])
+            f"Which of these lines is the title of {SUBJECT}: the name of the show, "
+            "workshop, talk or session itself, not its date, venue, host, a slogan or "
+            "a call to action?",
+            lines(post["caption"]),
         ),
         **date_questions(SUBJECT, post["posted"].year),
         **time_questions(SUBJECT),
@@ -438,7 +552,17 @@ def events():
     for post in posts:
         event = (r := results.get(post["shortcode"])) and to_event(post, r)
         if event and event["startDate"][:10] >= now.date().isoformat():
-            same = kept.setdefault((post["account"], event["startDate"]), event)
+            _, same = kept.setdefault(
+                (post["account"], event["startDate"]), (post, event)
+            )
             if same is not event:
                 same.setdefault("sameAs", []).append(event["url"])
-    return list(kept.values())
+    found = matches(db, kept.values(), listings())
+    for post, event in kept.values():
+        if listing := found.get(post["shortcode"]):
+            # Sharing a link and start time lets dedup merge this into the listing
+            log(f"{event['url']} is {listing['url']}")
+            event["startDate"] = listing["startDate"]
+            event.pop("endDate", None)
+            event["sameAs"] = [listing["url"]] + event.get("sameAs", [])
+    return [event for _, event in kept.values()]
