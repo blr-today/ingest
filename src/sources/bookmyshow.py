@@ -7,8 +7,6 @@ import time
 from bs4 import BeautifulSoup
 
 from src.common import bookmyshow
-from src.processors.geo import BLR_LAT, BLR_LNG, MAX_DISTANCE_KM
-from src.processors.geo import extract_coords, haversine_distance
 
 LISTING = "https://in.bookmyshow.com/api/explore/v1/discover/{}-bengaluru"
 # The mobile web app code is the only one that returns the paginated listing
@@ -75,14 +73,6 @@ def listing():
     return list(events.values())
 
 
-def in_bengaluru(event):
-    lat, lng = extract_coords(event)
-    if lat is not None:
-        return haversine_distance(lat, lng, BLR_LAT, BLR_LNG) <= MAX_DISTANCE_KM
-    place = json.dumps(event.get("location") or "").lower()
-    return "bengaluru" in place or "bangalore" in place
-
-
 def page_events(summary):
     html = bookmyshow.page(summary["url"])
     if not html:
@@ -90,7 +80,7 @@ def page_events(summary):
     about = bookmyshow.synopsis(html)
     found = []
     for event in bookmyshow.jsonld_events(BeautifulSoup(html, "html.parser")):
-        if not in_bengaluru(event):
+        if not bookmyshow.in_bengaluru(event):
             continue
         result = summary | event
         result.pop("@context", None)

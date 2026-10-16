@@ -9,6 +9,9 @@ from urllib.parse import urlparse
 
 from requests.models import PreparedRequest
 
+from src.processors.geo import BLR_LAT, BLR_LNG, MAX_DISTANCE_KM
+from src.processors.geo import extract_coords, haversine_distance
+
 from .fetch import Fetch
 
 EVENT_PAGE = re.compile(r"^https://in\.bookmyshow\.com/(plays|events|activities)/[^/]+/\w+")
@@ -35,8 +38,18 @@ def jsonld_events(soup):
                 yield item
 
 
+def in_bengaluru(event):
+    lat, lng = extract_coords(event)
+    if lat is not None:
+        return haversine_distance(lat, lng, BLR_LAT, BLR_LNG) <= MAX_DISTANCE_KM
+    place = json.dumps(event.get("location") or "").lower()
+    return "bengaluru" in place or "bangalore" in place
+
+
 def jsonld_event(soup):
-    return next(jsonld_events(soup), {})
+    # Touring shows list other cities first, so prefer the Bengaluru show
+    events = list(jsonld_events(soup))
+    return next((e for e in events if in_bengaluru(e)), events[0] if events else {})
 
 
 def synopsis(html):

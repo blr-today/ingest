@@ -162,3 +162,13 @@ def test_page_retries_empty_shells(monkeypatch):
     assert bookmyshow.page(LINK) is None
     assert bookmyshow.page(LINK) == HTML
     assert fake.deleted == [LINK] * 3
+
+
+
+def test_parse_prefers_the_bengaluru_show():
+    shows = [
+        dict(EVENT, typicalAgeRange="18+", location=venue("Hyderabad", 17.43, 78.37)),
+        dict(EVENT, location=venue("Bengaluru", 12.95, 77.58)),
+    ]
+    html = HTML.replace(f"[{json.dumps(EVENT)}]", json.dumps(shows))
+    assert bookmyshow.parse(html)["typicalAgeRange"] == "8+"
