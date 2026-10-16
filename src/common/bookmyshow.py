@@ -27,7 +27,8 @@ STATE_MARKER = "window.__INITIAL_STATE__ = "
 FIELDS = ("image", "offers", "performer", "typicalAgeRange", "inLanguage", "duration")
 # Each page is one file named for its soonest show, so past shows are easy to clear
 VERSION = 1
-PRUNE = 7 * 24 * 3600
+DAY = 24 * 3600
+PRUNE = 7 * DAY
 UNDATED = "9999-12-31"
 _fetcher = None
 
@@ -149,9 +150,9 @@ def cached(url):
 def max_age(day):
     # Refresh soon shows more often to catch sell-outs, reschedules and cancellations
     if day == UNDATED:
-        return 3 * 24 * 3600
+        return 4 * DAY
     days = (datetime.date.fromisoformat(day) - datetime.date.fromisoformat(today())).days
-    return 6 * 3600 if days <= 1 else 24 * 3600 if days <= 7 else 3 * 24 * 3600
+    return DAY // 2 if days <= 1 else 2 * DAY if days <= 7 else 4 * DAY
 
 
 def due(url):

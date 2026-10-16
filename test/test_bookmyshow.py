@@ -211,9 +211,9 @@ def test_soon_shows_are_refreshed_more_often(cache):
                                "fetched": time.time() - hours_ago * 3600, "events": [show(day)]})
         return bookmyshow.due(LINK)
 
-    assert filed("2026-10-17", 7) and not filed("2026-10-17", 5)
-    assert filed("2026-10-21", 25) and not filed("2026-10-21", 23)
-    assert filed("2026-12-01", 73) and not filed("2026-12-01", 71)
+    assert filed("2026-10-17", 13) and not filed("2026-10-17", 11)
+    assert filed("2026-10-21", 49) and not filed("2026-10-21", 47)
+    assert filed("2026-12-01", 97) and not filed("2026-12-01", 95)
 
 
 def test_failed_refresh_keeps_the_older_copy(cache, monkeypatch):

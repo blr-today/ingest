@@ -32,7 +32,7 @@ jobs:
     - name: Crawl
       env:
         BMS_CRAWL: "1"
-        BMS_MAX_FETCHES: "400"
+        BMS_MAX_FETCHES: "300"
       run: |
         uv sync --frozen
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
