@@ -38,6 +38,10 @@ WHERE
     AND event_json ->> '$.location' LIKE '%st mark%'
   )
   OR event_json ->> '$.organizer.name' LIKE '%urban solace%'
+  -- Small World socials, which BMS names only on the banner
+  OR event_json ->> '$.organizer.name' LIKE '%small world%'
+  OR event_json ->> '$.description' GLOB '*Small World*'
+  OR url = 'https://in.bookmyshow.com/events/couple-dance-workshop/ET00417785'
   -- These look like Small World events at Social venues
   -- But even if they aren't, the reviews are very bad.
   -- And sound exactly like the Small world reviews

@@ -124,3 +124,21 @@ def test_odyssey_vibes_venue_is_low_quality(tmp_path):
     }
     got = postbuild([event], tmp_path / "events.db")
     assert "LOW-QUALITY" in got[event["url"]]["keywords"]
+
+
+def test_small_world_is_low_quality(tmp_path):
+    def bms(code, description):
+        return {
+            "url": f"https://in.bookmyshow.com/events/{code}",
+            "description": description,
+            "keywords": ["BOOKMYSHOW"],
+        }
+
+    events = [
+        bms("perfumery/ET00469072", "Join Small World for a perfumery session"),
+        bms("couple-dance-workshop/ET00417785", "Discover the Joy of Partner Dancing"),
+        bms("songs/ET1", "Songs about a small world"),
+    ]
+    got = postbuild(events, tmp_path / "events.db")
+    low = [url for url, e in got.items() if "LOW-QUALITY" in e["keywords"]]
+    assert low == [e["url"] for e in events[:2]]
