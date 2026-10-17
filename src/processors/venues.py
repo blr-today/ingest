@@ -18,8 +18,12 @@ def venues():
         return json.load(f)
 
 
+# Listings append the city or the area to the venue's own name
+SUFFIX = re.compile(r"\s*(\|.*|[:,]\s*(bengaluru|bangalore)\W*)$", re.IGNORECASE)
+
+
 def lookup(name):
-    name = normalize(name)
+    name = normalize(SUFFIX.sub("", name))
     for venue in venues():
         for alias in venue["match"]:
             # One-word names like Courtyard must match the whole venue name
