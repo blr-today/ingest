@@ -395,6 +395,19 @@ WHERE
   );
 
 
+-- Workshops priced as a pass plus a fee at the venue are craft vendors like Small World
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  url LIKE 'https://in.bookmyshow.com/%'
+  AND event_json ->> '$."@type"' = 'EducationEvent'
+  AND replace(upper(event_json -> '$.offers'), ' ', '') LIKE '%PAYAT%VENUE%';
+
 -- Craft outlets list their whole menu on BMS as workshops in one slot
 UPDATE events
 SET

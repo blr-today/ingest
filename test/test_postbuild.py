@@ -142,3 +142,24 @@ def test_small_world_is_low_quality(tmp_path):
     got = postbuild(events, tmp_path / "events.db")
     low = [url for url, e in got.items() if "LOW-QUALITY" in e["keywords"]]
     assert low == [e["url"] for e in events[:2]]
+
+
+def test_bms_pay_at_venue_workshops_are_low_quality(tmp_path):
+    def bms(code, kind, ticket):
+        offer = {"@type": "Offer", "name": ticket, "price": "799.00"}
+        return {
+            "url": f"https://in.bookmyshow.com/events/{code}",
+            "@type": kind,
+            "offers": {"@type": "AggregateOffer", "offers": [offer]},
+            "keywords": ["BOOKMYSHOW"],
+        }
+
+    events = [
+        bms("beach-candle/ET00492214", "EducationEvent", "PASS+300PAYATAVENUE"),
+        bms("resin-shaker/ET00521901", "EducationEvent", "PASS + 99 PAY AT VENUE"),
+        bms("sama-halloween/ET00521551", "Event", "ENTRY+500 PAY AT VENUE"),
+        bms("pottery/ET1", "EducationEvent", "ENTRY PASS"),
+    ]
+    got = postbuild(events, tmp_path / "events.db")
+    low = [url for url, e in got.items() if "LOW-QUALITY" in e["keywords"]]
+    assert low == [e["url"] for e in events[:2]]
