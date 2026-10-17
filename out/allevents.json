@@ -156,6 +156,40 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "All Them Witches",
+    "image": "https://cdn-az.allevents.in/events7/banners/3d74872d4cb14ba14819e029a2d8572648b85f4d6568b6fbb09a4afe576f156e-rimg-w1200-h675-dc080808-gmir?v=1788611965",
+    "startDate": "2026-10-27T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/all-them-witches/200030619082340",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "First Avenue",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jakkasandra 1st Block, 50 1st Cross Road, 1st Block-Venkatapura-Jakkasandra, Koramangala, Bengaluru 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9186",
+        "longitude": "77.63143"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "\"All Them Witches tickets 🎟️\n \n Experience the thrill of live entertainment with All Them Witches! Whether it's a night out with friends or a moment you've waited for, this is your time to be part of something special.\n \n Find tickets now at FindTick and join the action while seats last.\n \n #AllThem",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "HypeStage",
+        "url": "https://allevents.in/org/hypestage/27857303"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Festival",
     "name": "Diwali Edition 2026",
     "image": "https://cdn-az.allevents.in/events8/banners/34ee691607b306cffd59c0950c87c34b43da9c699db8dcd287762af634714cbb-rimg-w1200-h628-dc280878-gmir?v=1790579678",
@@ -222,6 +256,41 @@
         "@type": "Organization",
         "name": "Around Big Cities",
         "url": "https://allevents.in/org/around-big-cities/24652976"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The String Puppet Show Live",
+    "image": "https://cdn-az.allevents.in/events3/banners/bd9b1652d1c331045dc8453e345e8f495875ab6dcd62441521cbb75018581d3f-rimg-w1200-h675-dc080808-gmir?v=1791822144",
+    "startDate": "2026-10-25T17:00:00+05:30",
+    "endDate": "2026-10-25T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/the-string-puppet-show-live/200030826288624",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Karnataka Chitrakala Parishath, Kumara Krupa Road, Near Shivananda Circle, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "College Of Fine Arts Karnataka Chitrakala Parishath, Kumar Krupa Road, Kumara Park East, Seshadripuram, Bengaluru 560001, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.989085569371",
+        "longitude": "77.580834226233"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "\"The String Puppet Show Live\" is an exciting and captivating performance that is sure to leave you in awe. This show features beautifully crafted puppets that are controlled by strings, creating a mesmerizing display of movement and artistry.\n\nThis show is perfect for all ages and is a great way to",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Grand Flea Market",
+        "url": "https://allevents.in/org/grand-flea-market/21837377"
       }
     ]
   },
@@ -562,58 +631,6 @@
         "validFrom": "2026-06-27",
         "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
         "price": "1999.00",
-        "name": "TICKET FOR ONE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "DIY Hair Accessories",
-    "image": "https://cdn-az.allevents.in/events3/banners/cf726c00-7b3d-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dc276475-gmir.jpg?v=1783564083",
-    "startDate": "2026-07-11T11:30:00+05:30",
-    "endDate": "2027-07-31T11:30:00+05:30",
-    "url": "https://allevents.in/bangalore/diy-hair-accessories/3900030314743956",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DIY Hair AccessoriesCome and experience the joy of making your own hair accessories in a fun and creative way.Create 1 custom hairband and 2 unique hair clips - design something you would love to wear yourself or thoughtfully gift to your friends or family. Take a pause, enjoy the process, and expre",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-27",
-        "availabilityEnds": "2027-07-31T11:30:00+05:30",
-        "validFrom": "2026-06-27",
-        "url": "https://allevents.in/bangalore/diy-hair-accessories/3900030314743956",
-        "lowPrice": "999.00",
-        "price": "999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-27",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-27",
-        "url": "https://allevents.in/bangalore/diy-hair-accessories/3900030314743956",
-        "price": "999.00",
         "name": "TICKET FOR ONE"
       }
     ]
@@ -1739,65 +1756,26 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Trinket Tray Workshop",
-    "image": "https://cdn-az.allevents.in/events1/banners/364c5f30-c8fa-11f1-849d-d196120da468-rimg-w1200-h600-dc080808-gmir.jpg?v=1792111240",
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T13:30:00+05:30",
-    "url": "https://allevents.in/bangalore/trinket-tray-workshop/3900030760879431",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Third Wave Coffee, Church Street: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Shop 52/2, Sujaya Pride Building, Church Street, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9747",
-        "longitude": "77.6068"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Add a personal touch to your everyday essentials with our Trinket Tray Workshop.Design and create your very own aesthetic tray that is perfect for holding your jewellery, keys, or little keepsakes.This hands on session is all about creativity, relaxation, and self expression. Whether you are into mi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-01",
-        "availabilityEnds": "2026-10-17T13:30:00+05:30",
-        "validFrom": "2026-10-01",
-        "url": "https://allevents.in/bangalore/trinket-tray-workshop/3900030760879431"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Sip and Clay",
-    "image": "https://cdn-az.allevents.in/events7/banners/45fce450-c56b-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc885838-gmir.jpg?v=1791720005",
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T14:00:00+05:30",
-    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303",
+    "image": "https://cdn-az.allevents.in/events9/banners/c8e57190-c951-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc885838-gmir.jpg?v=1792148866",
+    "startDate": "2026-10-18T09:30:00+05:30",
+    "endDate": "2026-10-18T12:30:00+05:30",
+    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Third Wave Coffee, Church Street: Bengaluru",
+      "name": "The Dual Room: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shop 52/2, Sujaya Pride Building, Church Street, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "streetAddress": "616, 12th Main Road, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9747",
-        "longitude": "77.6068"
+        "latitude": "12.9705",
+        "longitude": "77.6459"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1808,9 +1786,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-02",
-        "availabilityEnds": "2026-10-17T14:00:00+05:30",
+        "availabilityEnds": "2026-10-18T12:30:00+05:30",
         "validFrom": "2026-10-02",
-        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303"
+        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111"
       }
     ]
   },
@@ -1934,39 +1912,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kormangala Biggest Open Air Dandiya Celebration",
-    "image": "https://cdn-az.allevents.in/events4/banners/8ce2f6c0-c9ee-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc280818-gmir.jpg?v=1792216182",
+    "name": "Saakshaath'Khaara' - Kannada Stand up comedy show",
+    "image": "https://cdn-az.allevents.in/events1/banners/345c1100-c933-11f1-849d-d196120da468-rimg-w1200-h600-dcd8c8a8-gmir.jpg?v=1792135718",
     "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/kormangala-biggest-open-air-dandiya-celebration/3900030828235426",
+    "endDate": "2026-10-17T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Saki - Pan Asian Kitchen: Bengaluru",
+      "name": "Comedy Square: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "750, 10th Main road80, Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "219, 9th main, 15th Cross Road, 6th sector, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9332",
-        "longitude": "77.6308"
+        "latitude": "12.9132",
+        "longitude": "77.6352"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for the Biggest Dandiya Night in Bengaluru.Immerse yourself in the vibrant spirit of Navratri with an unforgettable lineup of events and performancesJoin us from 17th Oct to 20th October 2026 for an unforgettable celebration of Dance culture and music.Time : 5 pm - 11 pmHighlights:- Celebr",
+    "description": "After telling all the old jokes, Sanjeev is back with new stories, new chaos, and the same funny filter.Banni nimma friends-ginds jothe siguva...",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-17T23:00:00+05:30",
+        "availabilityEnds": "2026-10-17T18:30:00+05:30",
         "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/kormangala-biggest-open-air-dandiya-celebration/3900030828235426"
+        "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014"
       }
     ]
   },
@@ -2006,45 +1984,6 @@
         "availabilityEnds": "2026-10-20T22:00:00+05:30",
         "validFrom": "2026-10-13",
         "url": "https://allevents.in/bangalore/electronic-city-biggest-dandiya-utsav-open-air/3900030829276454"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Biggest Dandiya Night 2026 - Old Mil Brewing",
-    "image": "https://cdn-az.allevents.in/events2/banners/f4ae57f0-c79f-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1791962524",
-    "startDate": "2026-10-17T18:00:00+05:30",
-    "endDate": "2026-10-21T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-biggest-dandiya-night-2026-old-mil-brewing/3900030829288023",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Old Mill Brewing Co: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Gunjur Road, Varthur, Bengaluru, Karnataka 560087, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9246",
-        "longitude": "77.7369"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bengaluru get ready for the Biggest Dandiya Night 2026 Old Mil BrewingThis Navratri Come Celebrate at Old Mil Brewing co Music dance Culture and Festive vibes  from 16th to 20th October 2026Get ready for an unforgettable weekend featuring Bollywood Garba Music festive beatsand Festive VibesEVENT HIG",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-21T00:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/the-biggest-dandiya-night-2026-old-mil-brewing/3900030829288023"
       }
     ]
   },
@@ -2240,6 +2179,45 @@
         "availabilityEnds": "2026-10-21T00:00:00+05:30",
         "validFrom": "2026-10-14",
         "url": "https://allevents.in/bangalore/whitefield-biggest-dandiya-utsav-2026/3900030833572555"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lasya Ft. Anika Kulkarni and Nireeksha G",
+    "image": "https://cdn-az.allevents.in/events5/banners/0a167d10-c7b5-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791971579",
+    "startDate": "2026-10-23T19:30:00+05:30",
+    "endDate": "2026-10-23T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, Rear Wing, Brahmananda Court, 37 Lal Bagh Road, Bengaluru, Karnataka 560027, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9596",
+        "longitude": "77.5874"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Anika Kulkarni and Nireeksha G Rao",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-14",
+        "availabilityEnds": "2026-10-23T20:30:00+05:30",
+        "validFrom": "2026-10-14",
+        "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100"
       }
     ]
   },

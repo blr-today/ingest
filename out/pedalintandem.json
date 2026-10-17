@@ -13,41 +13,13 @@
         "priceCurrency": "INR",
         "@type": "offer",
         "name": "l1 - beginner- 30 km (with b'fast) ",
-        "price": "3500",
-        "addOn": [
-          {
-            "@type": "offer",
-            "name": "rental bike (with transport)",
-            "price": "900",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "offer",
-            "name": "transport my bicycle",
-            "price": "400",
-            "priceCurrency": "INR"
-          }
-        ]
+        "price": "3500"
       },
       {
         "priceCurrency": "INR",
         "@type": "offer",
         "name": "l2 - moderate - 50 km (with b'fast) ",
-        "price": "3800",
-        "addOn": [
-          {
-            "@type": "offer",
-            "name": "rental bike (with transport)",
-            "price": "900",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "offer",
-            "name": "transport my bicycle",
-            "price": "400",
-            "priceCurrency": "INR"
-          }
-        ]
+        "price": "3800"
       }
     ],
     "startDate": "2026-10-18T05:45:00+05:30",
