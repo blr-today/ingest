@@ -21,6 +21,9 @@ out/district.json:
 out/bookmyshow.json:
 	python -m src.sources bookmyshow || (echo "FAIL $@" && echo '[]' > $@)
 
+out/instagram.json:
+	python -m src.sources instagram || (echo "FAIL $@" && echo '[]' > $@)
+
 out/manual.json: in/manual.json
 	cp in/manual.json $@
 
@@ -125,7 +128,8 @@ fetch: out/allevents.json \
  out/bac.json \
  out/aceofpubs.json \
  out/fillum.json \
- out/manual.json
+ out/manual.json \
+ out/instagram.json
 	@echo "Done"
 
 clean:

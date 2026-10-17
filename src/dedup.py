@@ -8,7 +8,7 @@ from urllib.parse import unquote, urlparse
 from src.common.activities import EXCLUDE
 from src.processors.cost import TAGS as COST_TAGS, Cost, price
 
-# Mirrors calendar types: venues/organisers win, then aggregators, then curators
+# Mirrors calendar types: venues/organisers win, then aggregators, curators, posts
 AGGREGATORS = [
     "district.in",
     "urbanaut.app",
@@ -24,7 +24,9 @@ CURATORS = [
     "bengalurusustainabilityforum.org",
     "tonight.is",
 ]
-RANKED = AGGREGATORS + CURATORS
+POSTS = ["instagram.com"]
+RANKED = AGGREGATORS + CURATORS + POSTS
+INSTAGRAM_POST = re.compile(r"instagram\.com/(?:[\w.]+/)?(?:p|reel|tv)/([\w-]+)")
 ALWAYS_MERGE = ["improv lore"]
 FAR_KM = 2
 # One studio runs one class per slot, however many listings name it
@@ -70,13 +72,15 @@ def text_of(event, key):
     return value if isinstance(value, str) else ""
 
 
+def canonical(url):
+    url = re.sub(r"^https?://(www\.)?", "", unquote(url).lower()).rstrip("/")
+    post = INSTAGRAM_POST.match(url)
+    return f"instagram.com/p/{post.group(1)}" if post else url
+
+
 def links(event):
     urls = [event.get("url")] + as_list(event.get("sameAs"))
-    return {
-        re.sub(r"^https?://(www\.)?", "", unquote(u).lower()).rstrip("/")
-        for u in urls
-        if isinstance(u, str) and u
-    }
+    return {canonical(u) for u in urls if isinstance(u, str) and u}
 
 
 def host(event):
