@@ -59,6 +59,11 @@ def normalize(text):
     return " ".join(re.sub(r"[^a-z0-9]+", " ", text).split())
 
 
+def compact(name):
+    # Listings split words differently, as in stand-up and standup
+    return normalize(name).replace(" ", "")
+
+
 def core_title(name):
     return normalize(re.split(r"\s*[-|:–]\s+|\s+by\s+", name, maxsplit=1)[0])
 
@@ -99,8 +104,14 @@ def hidden(event):
 
 
 def same_session(a, b):
+    if hidden(a) != hidden(b):
+        return False
+    if same_lineup(a, b):
+        return True
     # Aggregators let one host list each activity of a session as its own event
-    if domain(a.get("url", "")) not in AGGREGATORS or hidden(a) != hidden(b):
+    if domain(a.get("url", "")) not in AGGREGATORS:
+        return False
+    if domain(a.get("url", "")) != domain(b.get("url", "")):
         return False
     organizer = text_of(a, "organizer")
     return bool(organizer) and organizer == text_of(b, "organizer") and same_place(a, b)
@@ -135,6 +146,20 @@ def same_place(a, b):
     return bool(x and y) and abs(x[0] - y[0]) < 6e-4 and abs(x[1] - y[1]) < 6e-4
 
 
+def lineup(event):
+    value = event.get("performer")
+    people = [value] if isinstance(value, (dict, str)) else as_list(value)
+    names = (p.get("name") if isinstance(p, dict) else p for p in people)
+    return {normalize(n) for n in names if isinstance(n, str)} - {"", "various artists"}
+
+
+def same_lineup(a, b):
+    # Venues list one slot's lineup under several titles
+    x, y = lineup(a), lineup(b)
+    shared = x & y
+    return bool(shared) and 2 * len(shared) >= min(len(x), len(y)) and same_place(a, b)
+
+
 def name_session(event, names):
     event["name"] = f"{names[0]} and {len(names) - 1} more"
     choices = "Choose from: " + "; ".join(names) + "."
@@ -158,9 +183,11 @@ def is_duplicate(a, b):
     )
     if not x:
         return False
-    if normalize(a.get("name", "")) == normalize(b.get("name", "")):
+    if compact(a.get("name", "")) == compact(b.get("name", "")):
         return True
-    return x == y or (len(x.split()) >= 3 and f" {x} " in f" {y} ")
+    if x.replace(" ", "") == y.replace(" ", ""):
+        return True
+    return len(x.split()) >= 3 and f" {x} " in f" {y} "
 
 
 def as_list(value):
@@ -301,7 +328,7 @@ def dedup(db_path="events.db"):
                 (
                     k
                     for k in kept
-                    if domain(k[1]) == domain(row[1]) and same_session(k[2], row[2])
+                    if same_session(k[2], row[2])
                 ),
                 None,
             )
