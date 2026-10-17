@@ -39,3 +39,21 @@ def test_fills_only_missing_geo():
     assert Venues.process("u", event)["location"]["geo"]["latitude"] == 12.97425
     kept = {"location": {"name": "Cubbon Park", "geo": {"latitude": 1, "longitude": 2}}}
     assert Venues.process("u", kept)["location"]["geo"]["latitude"] == 1
+
+
+def test_names_unnamed_places_at_a_known_venue():
+    near = {
+        "location": {"name": "", "geo": {"latitude": 12.99679, "longitude": 77.61988}}
+    }
+    assert Venues.process("u", near)["location"]["name"] == "Angala, Cox Town"
+    far = {
+        "location": {"name": None, "geo": {"latitude": 12.99778, "longitude": 77.61987}}
+    }
+    assert Venues.process("u", far)["location"]["name"] is None
+    named = {
+        "location": {
+            "name": "Host",
+            "geo": {"latitude": 12.99679, "longitude": 77.61988},
+        }
+    }
+    assert Venues.process("u", named)["location"]["name"] == "Host"

@@ -32,12 +32,32 @@ def lookup(name):
     return None
 
 
+def nearest(lat, lng, metres=30):
+    for venue in venues():
+        north = (venue["latitude"] - lat) * 110_600
+        east = (venue["longitude"] - lng) * 109_000
+        if north * north + east * east <= metres * metres:
+            return venue
+    return None
+
+
 class Venues(Processor):
     # Runs after AllEvents drops its placeholder coordinates
     @staticmethod
     def process(url, event):
         place = event.get("location")
-        if not isinstance(place, dict) or place.get("geo"):
+        if not isinstance(place, dict):
+            return event
+        geo = place.get("geo")
+        if geo:
+            # Hosts like Urbanaut's leave the venue unnamed but pinned
+            if not str(place.get("name") or "").strip():
+                try:
+                    venue = nearest(float(geo["latitude"]), float(geo["longitude"]))
+                except KeyError, TypeError, ValueError:
+                    venue = None
+                if venue:
+                    place["name"] = venue["name"]
             return event
         venue = lookup(str(place.get("name") or ""))
         if venue:
