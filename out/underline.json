@@ -213,9 +213,9 @@
     "name": "A Brief Study of with the Eleven AM Club",
     "offers": {
       "@type": "AggregateOffer",
-      "highPrice": 299,
+      "highPrice": 349,
       "lowPrice": 299,
-      "offerCount": 1,
+      "offerCount": 2,
       "offers": [
         {
           "@type": "Offer",
@@ -223,6 +223,16 @@
           "availabilityEnds": "2026-11-01T09:30:00.000Z",
           "name": "Regular Ticket",
           "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets",
+          "validFrom": "2026-06-23T10:28:44.828Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-11-01T12:30:00.000Z",
+          "name": "Walk-in",
+          "price": 349,
           "priceCurrency": "INR",
           "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets",
           "validFrom": "2026-06-23T10:28:44.828Z"
@@ -1086,134 +1096,5 @@
     ],
     "startDate": "2026-10-18T14:00:00.000+05:30",
     "url": "https://underline.center/t/made-of-dreams-an-evening-of-poetry-possibility-by-aditi-sinha/892"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group\n.\n\nCome solo, with a date, or in a group—we’ve got something for everyone!",
-    "endDate": "2026-10-17T23:00:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/1X/07e46d67990b577742e434b3810ab9bfa74949af.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Weekend Games with ReRoll Board Games",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-17T17:30:00.000Z",
-          "name": "Walk-In",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
-          "validFrom": "2026-03-30T15:13:19.423Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets"
-    },
-    "sameAs": [
-      "https://www.district.in/weekend-games-with-reroll/event"
-    ],
-    "startDate": "2026-10-17T18:00:00.000+05:30",
-    "url": "https://underline.center/t/weekend-games-with-reroll-board-games/549"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "This is a community meetup for \nMagic: The Gathering\n, one of the world’s most popular card games. If you are curious about game and don’t know where to start, or are already a player looking to find others to play with in-person, this is for you!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group \n.",
-    "endDate": "2026-10-17T23:00:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/1X/648ccd6cad9b66fb9632156ffc8ee2c320af975c.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Magic: The Gathering with ReRoll Board Games",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-17T17:30:00.000Z",
-          "name": " Regular Ticket - Casual Play",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T11:16:25.614Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-17T17:30:00.000Z",
-          "name": "Register - Standard Tournament",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T11:16:25.614Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets"
-    },
-    "sameAs": [
-      "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
-      "https://magic.wizards.com/en/intro"
-    ],
-    "startDate": "2026-10-17T18:00:00.000+05:30",
-    "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
   }
 ]
