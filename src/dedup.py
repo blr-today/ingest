@@ -2,7 +2,7 @@ import json
 import re
 import sqlite3
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.parse import unquote, urlparse
 
 from src.common.activities import EXCLUDE
@@ -27,6 +27,7 @@ CURATORS = [
 RANKED = AGGREGATORS + CURATORS
 ALWAYS_MERGE = ["improv lore"]
 FAR_KM = 2
+NEAR = timedelta(minutes=30)
 # One studio runs one class per slot, however many listings name it
 ONE_ROOM = ["new york dance"]
 GENERIC = {"a", "and", "at", "by", "for", "in", "the", "with", "dance", "dancing"}
@@ -362,8 +363,51 @@ def dedup(db_path="events.db"):
                 "UPDATE events SET event_json = ? WHERE rowid = ?",
                 (json.dumps(event, ensure_ascii=False), rowid),
             )
+    removed += merge_near(conn)
     conn.commit()
     print(f"[DEDUP] Removed {removed} duplicate events")
+
+
+def merge_near(conn):
+    # A venue can list one show twice, minutes apart
+    places = defaultdict(list)
+    for rowid, url, event_json in conn.execute(
+        "SELECT rowid, url, event_json FROM events"
+    ):
+        event = json.loads(event_json)
+        try:
+            start = datetime.fromisoformat(event["startDate"])
+        except KeyError, TypeError, ValueError:
+            continue
+        if text_of(event, "location") and start.tzinfo and not one_room(event):
+            places[text_of(event, "location")].append([start, rowid, url, event])
+    removed = 0
+    for rows in places.values():
+        rows.sort(key=lambda r: (r[0], r[1]))
+        kept = []
+        for row in rows:
+            match = next(
+                (
+                    k
+                    for k in kept
+                    if k[0] < row[0] <= k[0] + NEAR
+                    and hidden(k[3]) == hidden(row[3])
+                    and is_duplicate(k[3], row[3])
+                ),
+                None,
+            )
+            if not match:
+                kept.append(row)
+                continue
+            merge(match[3], row[3], row[2])
+            conn.execute(
+                "UPDATE events SET event_json = ? WHERE rowid = ?",
+                (json.dumps(match[3], ensure_ascii=False), match[1]),
+            )
+            conn.execute("DELETE FROM events WHERE rowid = ?", (row[1],))
+            print(f"[DEDUP] {row[2]} -> {match[2]}")
+            removed += 1
+    return removed
 
 
 if __name__ == "__main__":

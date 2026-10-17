@@ -397,3 +397,21 @@ def test_dedup_merges_one_sites_renamed_listing(tmp_path):
     b = comedy("Seriously Silly: A Double Bill Comedy Show", ["Joteen Patro"])
     events = run(tmp_path, [(e["url"], e | start) for e in (a, b)])
     assert [e["name"] for e in events.values()] == [a["name"]]
+
+
+def test_dedup_merges_one_show_listed_minutes_apart(tmp_path):
+    venue = "My School Of Rock: Bengaluru"
+
+    def mic(name, code, start):
+        event = listing(name, venue, 12.93, 77.62) | {"startDate": start}
+        return event | {"url": f"https://in.bookmyshow.com/events/{code}"}
+
+    rows = [
+        mic("Open Mic", "a", "2026-10-18T17:25:00+05:30"),
+        mic("OPEN MIC - ROCK THE STAGE", "b", "2026-10-18T17:45:00+05:30"),
+        mic("Open Mic", "c", "2026-10-18T19:00:00+05:30"),
+        mic("Drum Circle", "d", "2026-10-18T17:30:00+05:30"),
+    ]
+    events = run(tmp_path, [(e["url"], e) for e in rows])
+    assert sorted(u[-1] for u in events) == ["a", "c", "d"]
+    assert events[rows[0]["url"]]["sameAs"] == [rows[1]["url"]]
