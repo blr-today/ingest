@@ -157,6 +157,7 @@ def test_titles_must_overlap_enough():
     assert not dup("Amour", "Screening of Amour")
     assert not dup("", "Amour")
     assert not dup("- Rage Room", "- Rage Room Bengaluru")
+    assert dup("Dark and Late Comedy show", "Dark & Late Comedy Show")
     assert dup(
         "Office chugli stand-up comedy crowd work show",
         "Office Chugli Standup Comedy Crowdwork Show",
@@ -352,8 +353,8 @@ def test_dedup_rounds_one_room_slots(tmp_path):
     assert set(events) == {"https://district.in/a", "https://district.in/c"}
 
 
-def comedy(name, performers, lat=12.9701, lng=77.6393):
-    event = listing(name, "The Comedy Theatre, Indiranagar: Bengaluru", lat, lng)
+def comedy(name, performers, venue="The Comedy Theatre, Indiranagar: Bengaluru"):
+    event = listing(name, venue, 12.9701, 77.6393)
     del event["organizer"]
     people = [{"@type": "Person", "name": p} for p in performers]
     return event | {"url": f"https://in.bookmyshow.com/{name}", "performer": people}
@@ -366,8 +367,8 @@ def test_shared_lineup_is_one_slot():
     assert same_lineup(dark, sex) and same_session(dark, sex)
     assert not same_lineup(dark | {"performer": []}, sex)
     assert not same_lineup(dark, midnight | {"performer": [{"name": "Rupali"}]})
-    church = comedy("Sex Jokes Night", ["Adel Rahman"], 12.9746, 77.6054)
-    assert not same_lineup(dark, church)
+    next_door = comedy("Live Stand Up Comedy", ["Adel Rahman"], "TAG Comedy Club")
+    assert not same_lineup(dark, next_door)
     various = {"performer": {"name": "Various Artists"}}
     assert not same_lineup(dark | various, sex | various)
 
@@ -388,3 +389,11 @@ def test_dedup_joins_one_lineup_across_sites(tmp_path):
     show = events[district["url"]]
     assert show["name"] == "Office Chugli Standup Comedy Crowdwork Show and 1 more"
     assert show["sameAs"] == [chugli["url"], gossip["url"]]
+
+
+def test_dedup_merges_one_sites_renamed_listing(tmp_path):
+    start = {"startDate": "2026-10-17T20:00:00+05:30"}
+    a = comedy("Seriously Silly: Double Bill Comedy Show", ["Joteen Patro"])
+    b = comedy("Seriously Silly: A Double Bill Comedy Show", ["Joteen Patro"])
+    events = run(tmp_path, [(e["url"], e | start) for e in (a, b)])
+    assert [e["name"] for e in events.values()] == [a["name"]]

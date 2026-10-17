@@ -55,7 +55,7 @@ def rank(url):
 
 
 def normalize(text):
-    text = re.sub(r"['’]", "", text.lower())
+    text = re.sub(r"['’]", "", text.lower()).replace("&", " and ")
     return " ".join(re.sub(r"[^a-z0-9]+", " ", text).split())
 
 
@@ -154,10 +154,14 @@ def lineup(event):
 
 
 def same_lineup(a, b):
-    # Venues list one slot's lineup under several titles
+    # Clubs list one slot's lineup under several titles, and share comedians next door
     x, y = lineup(a), lineup(b)
-    shared = x & y
-    return bool(shared) and 2 * len(shared) >= min(len(x), len(y)) and same_place(a, b)
+    if not (x & y) or 2 * len(x & y) < min(len(x), len(y)):
+        return False
+    if domain(a.get("url", "")) != domain(b.get("url", "")):
+        return same_place(a, b)
+    venue = text_of(a, "location")
+    return bool(venue) and venue == text_of(b, "location")
 
 
 def name_session(event, names):
@@ -319,6 +323,7 @@ def dedup(db_path="events.db"):
                         domain(k[1]) != domain(row[1])
                         or one_room(k[2])
                         and one_room(row[2])
+                        or same_lineup(k[2], row[2])
                     )
                     and is_duplicate(k[2], row[2])
                 ),
