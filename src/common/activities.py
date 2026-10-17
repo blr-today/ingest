@@ -1,5 +1,5 @@
 # Bump VERSION whenever a tag or question changes, so cached answers are asked again
-VERSION = 6
+VERSION = 7
 
 # tag: (parent, question asked of every event)
 TAGS = {
@@ -141,10 +141,6 @@ TAGS = {
     "PUZZLES": (
         None,
         "At this event, do attendees solve jigsaws, crosswords, Rubik's cubes or other puzzles?",
-    ),
-    "VIDEO-GAMES": (
-        None,
-        "Is this event about video games, esports or game development?",
     ),
     "FITNESS": (
         None,
