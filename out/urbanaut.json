@@ -819,56 +819,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Sufi Trail (Jayamahal)",
-    "description": "\"The Sufi Trail in Jayamahal is a guided walk that explores dargahs and sacred spaces connected to Sufi traditions in Bengaluru.This walk focuses on the lives of Sufi saints, their teachings, and the message of unity and service they spread across communities. Participants learn how these spiritual spaces became part of the social and cultural history of the area.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C1250032E11143668E574AE7825E795B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CEDB3C308E6448A989A3C15C732D429B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F0641F8A5CC44222A63894E3F02C8BE2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5B1F6F0311DB453D86A5912042445173_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D3764E08616A45EB87201BABC4D45F3D_converted_webp.webp"
-    ],
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Jayamahal Main Rd, Jayamahal Extension, Jayamahal, Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0022834,
-        "longitude": 77.594273
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 900.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru Prayana",
-      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
-      "url": "https://urbanaut.app/partner/bengaluru-prayana",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-sufi-trail-jayamahal",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Footprints of Fraser Town",
     "description": "\"The Fraser Town Walk explores how one of Bengaluru’s earliest planned suburbs was designed and who it was built for.We trace the foundation of Fraser Town, its early residents, and the institutions that shaped daily life. From residential bungalows to churches and schools, the walk examines power, planning, faith, and reform.We also look at layered histories. A colonial suburb built over older landscapes. Influential residents who left visible marks. Women like Lydia Muthulakshmi, whose work in education shaped young girls’ lives.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
     "image": [
@@ -1253,6 +1203,58 @@
       "Leisure",
       "Local",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "MEXICAN CULINARY WORKSHOP",
+    "description": "BEGINNER AND VEGETARIAN FRIENDLYINCLUDES LUNCHJoin Chef Natasha Celmi for a fully hands-on Mexican Culinary Workshop featuring fresh ingredients, bold flavours, and classic favourites. From delicious dips and tortillas to flavour-packed bowls and nachos, this interactive session promises a fun-filled culinary experience in a warm and engaging setting.Perfect for ones who enjoy cooking in groups, meeting new people, learning new techniques, and exploring authentic Mexican cuisine.MenuQuesadilla (Chicken/Vegetarian)Mexican Bean SauceLoaded NachosMexican SalsaFresh GuacamoleHomemade Tortilla",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9C6BB88916BF4D00A8271023B4175448_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/230739B6A7E34AD9A4EFD527DEDFF776_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4994C22B1CED40D7BE02056A35F846BD_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/99A32B414DA74E8F8710CBD9038115FA_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5714E0073F014566A0D00C1E03C4670F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/EE8C02718C3D472083EBD80D33713313_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/40042B15F5BC4739885809310C4AAD15_converted_webp.webp"
+    ],
+    "startDate": "2026-10-25T11:00:00+05:30",
+    "endDate": "2026-10-25T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672959,
+        "longitude": 77.642634
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canella Studio",
+      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
+      "url": "https://urbanaut.app/partner/canellastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/mexicanworkshopp",
+    "keywords": [
+      "Premium",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -3996,62 +3998,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "God(dess): Masculine & Feminine Movement Workshop",
-    "description": "Most of us are only allowed to be half of ourselves. Strong, never soft. Composed, never furious. Giving, never wanting. Courageous, never vulnerable. Active, never still.God(dess) is a workshop for the rest of you.Shiva & Shakti. Yin & Yang. Jalal & Jamal. Every tradition points to the same truth: wholeness isn't choosing a side. It's holding both.In this embodied workshop, masculine and feminine energies stop being ideas and become something you feel. Through the nava rasas, the nine emotional essences of Indian classical arts, you'll explore six of them in your own body: love, courage, fear, grief, joy and peace.This October, as Navratri celebrates the Goddess all around us, we turn inward to meet the God(dess) within.What to expect:– Sound: Indian and world music to carry you inward– Witness: live classical dance performance by Vyshnavie– Expression: dynamic and gentle guided movement, exploring rasas in your own body– Breath: breathwork to quiet the noise and reconnect– Stillness: quiet moments to pause, reflect and simply beNo performing required; you move for yourself, not an audience.The intention:You'll leave feeling open, grounded and whole.Your guides:Naomi George: Founder of WHOLE | Mind. Body. Spirit. Holds the space and weaves the journey together (naomi_paradox).Dr. Vyshnavi Sainath: Bharatanatyam dancer & Kalaripayattu expert. Performs, then guides you through movement & expression (@dancervyshnavie).Who it's for:Everyone - Male, female, however you identify. All ages welcome. No dance or yoga experience needed.What to wear:Wear whatever feels like you: comfy, dressy, or somewhere in between. Just make sure you can move :)",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CBDCAD2FED92499DB8BEEC566D8446C3_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/ABDCA1AD201245D6A6CC40332746CC16_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3ECEC8D7672242E7ABBFBDEDC684B9DD_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A42C5EF45E504981A6A5A33911C391FC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FE0056757C9642E2AE7144AFF52DA511_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B78555C0686C405DB70F081F3096F34D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D29B7D19442D4C4F95CFC92F86A7ACA3_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3F8E30C6B34D4B1CAB7FBEDFC3A1C6CC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BD7C560C96D94406AB71B061F230F4F2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CA8F316B4F8C4A21B45C111798147FF4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C8BC931543F34D0B8BCD0F1208DBC20D_converted_webp.webp"
-    ],
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.983484,
-        "longitude": 77.61101699999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 19,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1299.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "WHOLE",
-      "description": "Whole is a space where  people can slow down, connect deeply with themselves, feel more alive and experience a greater sense of wellbeing. Through experiential workshops across different modalities: music, dance, movement, yoga, breathwork & mindfulness. @bewhole.in",
-      "url": "https://urbanaut.app/partner/whole",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/7D243020CA9D481EA283C824566F2114_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/goddess-masculine-feminine-movement-workshop",
-    "keywords": [
-      "Music",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Brush Pen Calligraphy Workshop",
     "description": "Ever wanted to try calligraphy but didn’t know where to begin?Join us for a calm, colourful and hands-on brush pen calligraphy experience where you’ll learn everything from the very basics and gradually build your way towards creating your own piece of artwork.Whether you’ve never held a brush pen before or simply want to explore calligraphy in a relaxed setting, no prior experience is required. We’ll take it step by step, with plenty of guidance along the way.All you need to do is show up, slow down, and enjoy creating. ♡What to expect✦ Start from the basics — understand the brush pen, strokes, pressure and letter formation.✦ Learn step by step — practise at your own pace with guided exercises and worksheets.✦ Create with high-quality materials — all the materials you need for the workshop are provided, including your calligraphy kit.✦ Make your own take-home piece — put everything you’ve learnt together and create something you can take home with you.✦ Post-workshop guidance — have questions after the workshop or want to continue practising? You can reach out to me for guidance related to your calligraphy journey.Meet your instructorJerrlin Shiny — Calligraphy Instructor & ArtistWith a Diploma in Calligraphy and 6 years of experience teaching calligraphy, Jerrlin’s approach is centred around making the learning process approachable, enjoyable and pressure-free.",
     "image": [
@@ -4141,50 +4087,6 @@
     "keywords": [
       "Live GIG",
       "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Introduction to Design Thinking",
-    "description": "Introduction to Design Thinking is a hands-on workshop for curious minds who want to learn how to solve problems creatively and meaningfully.Through simple activities, real conversations, teamwork, and practical exercises, participants experience the Design Thinking process instead of just learning it theoretically. From understanding people and identifying real needs to generating ideas and building solutions, the workshop helps you think differently and work collaboratively.Whether you come from business, education, startups, HR, marketing, operations, or any other field, this workshop gives you practical tools to approach challenges with empathy, creativity, and clarity.Facilitator: Vishal Mimani, Partner & Chief Design Officer - Primate Advisory Note: The workshop is conducted in small groups and registrations depend on participant sign-ups",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D9FD97773635421AB8400C0CB1B44E91_converted_webp.webp"
-    ],
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, No, 421/J, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9792489,
-        "longitude": 77.64319119999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1499.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Primate Advisory",
-      "description": "At Primate Advisory, we run fast-paced, hands-on Design Thinking Training sessions that help you move from abstract theory to practical problem solving. Participants learn to frame the right problems, prototype quickly and test ideas with real users.",
-      "url": "https://urbanaut.app/partner/primateadvisory",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/70D8D0E2A3724C6EAA78B9281C6FBFE1_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/introduction-to-design-thinking-17205",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -5632,6 +5534,183 @@
     "keywords": [
       "Festival",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mycelium and Muse - Interactive Science Class",
+    "description": "We often equate creativity with making art. Picasso was creative. Beethoven was creative. Van Gogh was creative.But what about the person who first picked up a piece of charcoal and scribbled on the wall of a cave, hoping the people in the next cave would get the message? Or the bowerbird who spends an entire season collecting blue bottle caps and flowers to decorate a little stage for a mate?And what about a fungus? This one is literally brainless, yet it sends out electrical signals that, when connected to a synthesizer, play out like music.So if creativity shows up in organisms without brains, it is far older than us, isn't it? That's the question we'll sit with over coffee: where creativity really begins on the tree of life, and what that means for those of us who have spent years saying \"I'm just not the creative type.\"Along the way, you'll hear a mushroom play music, and you'll make something that is deliberately, wonderfully bad. You don't need any science background to join in.Just come, grab a coffee, and let's get some creativity brewing. Because, tell you what, I'm not sure a creative life is a happier one. But I'm pretty sure it's a far more meaningful one.About the Speaker:Bitasta Datta is a microbiologist by training, an educator by profession and a science storyteller by passion.For over 10 years, she has been turning science into stories for school learners and curious adults. She started at the National Digital Library of India, went on to co-found The Synapse, led curriculum and learning experience design at BYJU'S and Tutopiya, and tinkers with content at Khan Academy.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7091BF9397F34BBD961B0F01392B5EA6_converted_webp.webp"
+    ],
+    "startDate": "2026-10-25T11:00:00+05:30",
+    "endDate": "2026-10-25T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9324179,
+        "longitude": 77.631954
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 499.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dialogues Cafe",
+      "description": "Dialogues Cafe is a warm, homely space in Koramangala where natural light meets community vibes. Enjoy freshly made, minimalist cuisine while engaging in open mics, book clubs, and more. Whether you’re here to work, create, or connect, Dialogues Cafe is your space to belong.",
+      "url": "https://urbanaut.app/partner/dialogues-cafe",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9D4620F72E654189BC4C5166D27666D7_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/mycelium-and-muse-interactive-science-class",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Beku Film Club - Rhythm of Dammam Screening",
+    "description": "For its second edition, Beku's Film Club presents: Rhythm of Dammam, a film by Jayan Cherian. Synopsis:In Uttara Kannada, India, Jayaram Siddi, a twelve-year-old boy, is believed to be possessed by the spirit of his late grandfather, Rama Bantu Siddi. Despite seeking help from local black magicians, Jayaram's condition remains unchanged. He escapes into a dream world, using 'magical' instruments from his grandfather to connect with his ancestors. However, he becomes overwhelmed by the agonizing history of his ancestors' chattel slavery, losing touch with reality. Jayaram drops out of school, and his family strives to restore his balance by embracing tribal rituals and Dammam music, both vital to their cultural heritage. The film delves into Jayaram's struggle with intergenerational trauma, emphasising the challenges faced by him and his family in finding healing and stability.Screenings & Awards:Life Beyond Life Film Festival, Turin 2025 – Best Feature Film & Best DirectorInternational Film Festival of Kerala (IFFK) 2024 – Special Jury Mention for PerformanceInternational Film Festival of India (IFFI) Goa 2024 – World Cinema Section (World Premiere)International Film Festival of Kerala (IFFK) 2024 – International Competition (Special Jury Mention for Performance)Bengaluru International Film Festival (BIFFes) 2025 – Asian Cinema CompetitionToulouse Indian Film Festival 2025 – Student’s Choice Special MentionAfrican Diaspora International Film Festival (ADIFF) Chicago 2025 – Opening Night Film (North American distribution via ArtMattan)⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B348418B347247BC87A6188CEF9F1943_converted_webp.webp"
+    ],
+    "startDate": "2026-10-18T18:30:00+05:30",
+    "endDate": "2026-10-18T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 27,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 299.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/beku-film-club-rhythm-of-dammam-screening",
+    "keywords": [
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Puuluup",
+    "description": "Puuluup is an Estonian duo formed in 2014 by Ramo Teder and Marko Veisson. The duo combines the traditional talharpa, a bowed lyre from Northern Europe, with vocals, looping, effects and electronic sounds to create a distinctive blend of folk and contemporary music. Their playful and experimental approach transforms traditional melodies into energetic, genre-defying compositions. With a sound that bridges ancient folk traditions and modern experimentation, Puuluup has built an international following through their dynamic and unconventional performances. Ramo Teder – Talharpa | Vocals  Marko Veisson – Talharpa | Vocals  ",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C728C6AAF1ED40A89FFD3CD9090F0CA2_converted_webp.webp"
+    ],
+    "startDate": "2026-10-31T21:30:00+05:30",
+    "endDate": "2026-10-31T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9825325,
+        "longitude": 77.7217732
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2358.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Windmills Craftworks",
+      "description": null,
+      "url": "https://urbanaut.app/partner/windmills-craftworks",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F0E4EDFF616140FEB4A1A9CC729F1F5D_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/puuluup-17382#2026-10-31T2130",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Puuluup",
+    "description": "Puuluup is an Estonian duo formed in 2014 by Ramo Teder and Marko Veisson. The duo combines the traditional talharpa, a bowed lyre from Northern Europe, with vocals, looping, effects and electronic sounds to create a distinctive blend of folk and contemporary music. Their playful and experimental approach transforms traditional melodies into energetic, genre-defying compositions. With a sound that bridges ancient folk traditions and modern experimentation, Puuluup has built an international following through their dynamic and unconventional performances. Ramo Teder – Talharpa | Vocals  Marko Veisson – Talharpa | Vocals  ",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C728C6AAF1ED40A89FFD3CD9090F0CA2_converted_webp.webp"
+    ],
+    "startDate": "2026-11-01T20:00:00+05:30",
+    "endDate": "2026-11-01T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9825325,
+        "longitude": 77.7217732
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2358.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Windmills Craftworks",
+      "description": null,
+      "url": "https://urbanaut.app/partner/windmills-craftworks",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F0E4EDFF616140FEB4A1A9CC729F1F5D_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/puuluup-17382#2026-11-01T2000",
+    "keywords": [
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   }
