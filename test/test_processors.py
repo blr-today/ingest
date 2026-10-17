@@ -57,7 +57,8 @@ def test_base_processor_does_nothing():
 
 def test_registry_order():
     assert [p.__name__ for p in PROCESSORS] == [
-        "Koota", "SchemaFixer", "Costly", "BookMyShow", "Exhibition",
+        "Koota", "SchemaFixer", "Costly", "ClubNight",
+        "BookMyShow", "Exhibition",
         "GeoProcessor", "AllEvents", "BhaagoIndia", "District", "HighApe",
         "IgnoredEvents", "ScriptLanguage", "Patch", "Venues", "EventType",
         "Cost", "LastCall",

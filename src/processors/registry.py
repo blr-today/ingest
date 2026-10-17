@@ -1,6 +1,7 @@
 from .allevents import AllEvents
 from .bhaagoindia import BhaagoIndia
 from .bookmyshow import BookMyShow
+from .clubnight import ClubNight
 from .cost import Cost
 from .costly import Costly
 from .district import District
@@ -21,6 +22,7 @@ PROCESSORS = [
     Koota,
     SchemaFixer,
     Costly,
+    ClubNight,
     BookMyShow,
     Exhibition,
     GeoProcessor,
