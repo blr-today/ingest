@@ -389,6 +389,25 @@ WHERE
   );
 
 
+-- Craft outlets list their whole menu on BMS as workshops in one slot
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  url LIKE 'https://in.bookmyshow.com/%'
+  AND event_json ->> '$."@type"' = 'EducationEvent'
+  AND (
+    SELECT count(*) FROM events other
+    WHERE other.url LIKE 'https://in.bookmyshow.com/%'
+      AND other.event_json ->> '$."@type"' = 'EducationEvent'
+      AND other.event_json ->> '$.location.name' = events.event_json ->> '$.location.name'
+      AND other.event_json ->> '$.startDate' = events.event_json ->> '$.startDate'
+  ) >= 3;
+
 -- District's activity categories are gone since the discovery API rewrite,
 -- so match permanent attraction listings (play zones, karting, shooting) by name.
 -- Trade expos, education fairs and jewellery shows are sales events.

@@ -89,3 +89,27 @@ def test_city_wide_venues_lose_their_geo(tmp_path):
         False,
         True,
     ]
+
+
+def test_bms_craft_menus_are_low_quality(tmp_path):
+    def bms(name, venue, start="2026-10-24T12:00:00+05:30", kind="EducationEvent"):
+        return {
+            "url": f"https://in.bookmyshow.com/events/{name}/ET1",
+            "@type": kind,
+            "name": name,
+            "startDate": start,
+            "location": {"name": venue},
+            "keywords": ["BOOKMYSHOW"],
+        }
+
+    bar = "21st Amendment Gastrobar: Indiranagar"
+    menu = [bms(n, bar) for n in ("sip-and-paint", "clay-lighter", "kintsugi")]
+    alone = [
+        bms("pottery", "Clay Station"),
+        bms("resin", "Clay Station"),
+        bms("later", bar, start="2026-10-24T15:00:00+05:30"),
+        bms("comedy", bar, kind="ComedyEvent"),
+    ]
+    got = postbuild(menu + alone, tmp_path / "events.db")
+    low = {e["name"] for e in got.values() if "LOW-QUALITY" in e["keywords"]}
+    assert low == {"sip-and-paint", "clay-lighter", "kintsugi"}
