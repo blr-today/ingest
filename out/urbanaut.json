@@ -501,7 +501,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -598,7 +598,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 45,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -744,7 +744,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1167,52 +1167,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Improv 101: How Not to Panic on Stage",
-    "description": "Most people think improvisers are fearless; the truth is they've simply learned what to do when they don't know what to do.This beginner-friendly introduction to improv is designed for anyone who's ever worried about saying the wrong thing, running out of ideas, or freezing up in front of others. Through fun games, simple exercises, and guided scene work, you'll learn how to trust your instincts, embrace uncertainty, and stay present when things don't go according to plan.Throughout the course, you'll explore the core principles of improvisation, collaborative storytelling, and spontaneous creativity in a supportive, low-pressure environment.No acting or stage experience is required. You don't need to be funny, quick-witted, or confident. All you need is a willingness to step on stage and discover that you're capable of more than you think.Schedule:This course runs over four consecutive days:Saturday, Oct 17 - 10:00 AM to 1:00 PMSunday, Oct 18 - 10:00 AM to 1:00 PMMonday, Oct 19 - 2:00 PM to 5:00 PMTuesday, Oct 20 - 2:00 PM to 5:00 PMWho Are Improv Lore?Improv Lore is a Bangalore-based community theatre troupe dedicated to spreading the art of spontaneous storytelling and unscripted performance while rekindling the joy of playfulness and creativity. The community gathers regularly for improv jams, workshops, and collaborative learning experiences. 🎭✨",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/420D4937B8834A46AF47251AD694938B_converted_webp.webp"
-    ],
-    "startDate": "2026-10-17T10:00:00+05:30",
-    "endDate": "2026-10-17T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672214,
-        "longitude": 77.6366982
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 3,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 5999.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/improv-101-how-not-to-panic-on-stage",
-    "keywords": [
-      "Workshop",
-      "Active",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Italian Fresh Pasta & Tiramisu Workshop",
     "description": "*Vegetarian and Beginner friendly**Suitable for teens as well**Dinner included*Italian Pasta and Tiramisu Workshop with Chef Natasha CelmiJoin us for an immersive, engaging hands-on Italian cooking experience where you'll prepare every dish under the guidance of Chef Natasha Celmi. Learn the art of making pillowy Gnocchi, fresh tossed salad, and a classic, creamy Tiramisu takeaway before enjoying your meal together.Menu:Hand-rolled Gnocchi PastaChef's Signature TiramisuPerfect for beginners, food enthusiasts, couples, friends, and anyone who loves cooking and wants to learn authentic Italian recipes in a fun, hands-on setting.",
@@ -1244,7 +1198,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1524,7 +1478,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1669,7 +1623,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 75,
+    "remainingAttendeeCapacity": 73,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1802,51 +1756,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/E26BFB3B78CF409C9D2F25EDE95E9A2C_converted_webp.webp"
     ],
-    "startDate": "2026-10-16T20:00:00+05:30",
-    "endDate": "2026-10-16T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746#2026-10-16T2000",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Open Mic: Poetry, Rap, Music",
-    "description": "Open MicYour words. Your sound. Your stage.A warm, open space for poetry, rap, music and everything in between. Bring something you’ve been working on, something you’ve never shared before, or simply come to listen and cheer people on.No auditions. No judgement. Just a mic and a room ready to listen.No standup comedy.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E26BFB3B78CF409C9D2F25EDE95E9A2C_converted_webp.webp"
-    ],
     "startDate": "2026-10-23T20:00:00+05:30",
     "endDate": "2026-10-23T22:00:00+05:30",
     "location": {
@@ -1925,50 +1834,6 @@
     "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746#2026-10-30T2000",
     "keywords": [
       "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Dance Improv: Move With Each Other",
-    "description": "Dance is the universal cure for heartbreak, did you know? Bring your amateur, intermediate or professional selves to dance improv evenings, teach each other new styles, play, move and liberate! We have specific themes sometimes like Contact Improv or Line Dances.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1BB0C6EB5712412A8FD0EC503FF5AF06_converted_webp.webp"
-    ],
-    "startDate": "2026-10-16T20:00:00+05:30",
-    "endDate": "2026-10-16T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-brag-come-brag-about-you#2026-10-16T2000",
-    "keywords": [
       "Workshop",
       "URBANAUT"
     ]
@@ -3041,7 +2906,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 45,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3687,50 +3552,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/CBC1FF430F5540ADBB108C710E6E649C_converted_webp.webp"
     ],
-    "startDate": "2026-10-18T10:45:00+05:30",
-    "endDate": "2026-10-18T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, No, 421/J, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9792489,
-        "longitude": 77.64319119999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 3200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Primate Advisory",
-      "description": "At Primate Advisory, we run fast-paced, hands-on Design Thinking Training sessions that help you move from abstract theory to practical problem solving. Participants learn to frame the right problems, prototype quickly and test ideas with real users.",
-      "url": "https://urbanaut.app/partner/primateadvisory",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/70D8D0E2A3724C6EAA78B9281C6FBFE1_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/deep-dive-into-design-thinking-17074#2026-10-18T1045",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Deep Dive into Design Thinking",
-    "description": "This interactive workshop is designed for anyone interested in understanding and applying the powerful principles of Design Thinking. Whether you are an entrepreneur, a student, a professional, or simply curious about fostering innovation this workshop will equip you with practical tools and insights.What you will gain:1. A comprehensive understanding of the Design Thinking process2. View real life examples3. The ability to tackle challenges with a user centric approach4. Hands on experience working on case studies5. Networking opportunities with like minded individualsTakeaways:1. The Design Thinker's Handbook2. Certificate of Participation3. Choice to join our exclusive Design Thinking WhatsApp communityFacilitator:Vishal Mimani, Partner & Chief Design Officer, Primate AdvisoryThe location is 5 minutes walk from the Indiranagar Metro Station. The venue has 2 & 4 (valet) wheeler parking",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CBC1FF430F5540ADBB108C710E6E649C_converted_webp.webp"
-    ],
     "startDate": "2026-10-25T10:45:00+05:30",
     "endDate": "2026-10-25T17:30:00+05:30",
     "location": {
@@ -3745,8 +3566,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3761,7 +3582,7 @@
       "url": "https://urbanaut.app/partner/primateadvisory",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/70D8D0E2A3724C6EAA78B9281C6FBFE1_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/deep-dive-into-design-thinking-17074#2026-10-25T1045",
+    "url": "https://urbanaut.app/spot/deep-dive-into-design-thinking-17074",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -3835,7 +3656,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3924,7 +3745,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4357,7 +4178,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4401,8 +4222,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4596,7 +4417,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 35,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4647,7 +4468,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 191,
+    "remainingAttendeeCapacity": 184,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4691,7 +4512,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 43,
+    "remainingAttendeeCapacity": 41,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",

@@ -264,75 +264,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The String Puppet Show Live",
-    "image": "https://cdn-az.allevents.in/events3/banners/bd9b1652d1c331045dc8453e345e8f495875ab6dcd62441521cbb75018581d3f-rimg-w1200-h675-dc080808-gmir?v=1791822144",
-    "startDate": "2026-10-25T17:00:00+05:30",
-    "endDate": "2026-10-25T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/the-string-puppet-show-live/200030826288624",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Karnataka Chitrakala Parishath, Kumara Krupa Road, Near Shivananda Circle, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "College Of Fine Arts Karnataka Chitrakala Parishath, Kumar Krupa Road, Kumara Park East, Seshadripuram, Bengaluru 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.989085569371",
-        "longitude": "77.580834226233"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "\"The String Puppet Show Live\" is an exciting and captivating performance that is sure to leave you in awe. This show features beautifully crafted puppets that are controlled by strings, creating a mesmerizing display of movement and artistry.\n\nThis show is perfect for all ages and is a great way to",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Grand Flea Market",
-        "url": "https://allevents.in/org/grand-flea-market/21837377"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Job Training Workshop for College Students | Just ₹49",
-    "image": "https://cdn-az.allevents.in/events2/banners/5eef0223c2df2d8630266d4c63407eccf60d5b46a610affdec16655ea13b62e7-rimg-w1200-h670-dce87818-gmir?v=1791925301",
-    "startDate": "2026-10-24T10:30:00+05:30",
-    "url": "https://allevents.in/bangalore/job-training-workshop-for-college-students-just-₹49/200030831003742",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "3rd floor, Next Canara Bank, 303, Outer Ring Rd, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037, Bangalore, India, 560037, Bangalore, India 560037, Karnataka",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "3rd floor, Next Canara Bank, 303, Outer Ring Rd, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037, Bangalore, India, 560037, Bangalore, India 560037, Karnataka",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.95665",
-        "longitude": "77.70088"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Calling all current college students! 🎓 Want to know what a Digital Marketer ACTUALLY does inside a company?\n\nStop learning just definitions and theory. Join our 2-hour offline Job Training Workshop in Marathahalli, Bangalore, and get a complete breakdown of real company workflows, ad management, an",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Digital Marketer Land",
-        "url": "https://allevents.in/org/digital-marketer-land/28234042"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Dasara Cultural Mela",
     "image": "https://cdn-az.allevents.in/events7/banners/1f3bb2e567dc8f24df20e570fbba160dd444836c33c88d198cce0a5f8e4ca58b-rimg-w1200-h669-dc280878-gmir?v=1792116313",
     "startDate": "2026-10-17T18:00:00+05:30",
@@ -1467,6 +1398,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Try Three Hobbies in One Visit",
+    "image": "https://cdn-az.allevents.in/events8/banners/e572a740-c9c6-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc889858-gmir.jpg?v=1792199151",
+    "startDate": "2026-10-17T14:00:00+05:30",
+    "endDate": "2026-10-17T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/try-three-hobbies-in-one-visit/3900030743688428",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Hobby Ghar: Seshadripuram, Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "160, 1st Main Road, Opposite ISKCON Temple, DN Ramaiah Layout, Seshadripuram, Bengaluru, Karnataka 560003, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9959",
+        "longitude": "77.5795"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Try Three Hobbies in One VisitIndulge in an ultimate fun-filled creative marathon where three distinct art forms come together in one immersive session. In this unique workshop, participants will spin and shape raw clay on the potter`s wheel, paint a vibrant masterpiece on canvas, and design custom",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-27",
+        "availabilityEnds": "2026-10-17T16:00:00+05:30",
+        "validFrom": "2026-09-27",
+        "url": "https://allevents.in/bangalore/try-three-hobbies-in-one-visit/3900030743688428"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Edition with Qurated",
     "image": "https://cdn-az.allevents.in/events5/banners/d45c80e0-c500-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc380808-gmir.jpg?v=1791674277",
     "startDate": "2026-10-31T21:00:00+05:30",
@@ -1858,7 +1828,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Trinket Tray Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/aa1cf8f0-c55a-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc080808-gmir.jpg?v=1791712869",
+    "image": "https://cdn-az.allevents.in/events1/banners/364c5f30-c8fa-11f1-849d-d196120da468-rimg-w1200-h600-dc080808-gmir.jpg?v=1792111240",
     "startDate": "2026-10-17T11:00:00+05:30",
     "endDate": "2026-10-17T13:30:00+05:30",
     "url": "https://allevents.in/bangalore/trinket-tray-workshop/3900030760879431",
@@ -2012,40 +1982,40 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Saakshaath'Khaara' - Kannada Stand up comedy show",
-    "image": "https://cdn-az.allevents.in/events1/banners/345c1100-c933-11f1-849d-d196120da468-rimg-w1200-h600-dcd8c8a8-gmir.jpg?v=1792135718",
-    "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014",
+    "@type": "Festival",
+    "name": "Biggest Open Air Dandiya Mahotsav 2026 @ Nirantara",
+    "image": "https://cdn-az.allevents.in/events3/banners/e95dcf10-c7a0-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8d8b8-gmir.jpg?v=1791962934",
+    "startDate": "2026-10-16T16:00:00+05:30",
+    "endDate": "2026-10-20T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/biggest-open-air-dandiya-mahotsav-2026-nirantara/3900030778284959",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Comedy Square: Bengaluru",
+      "name": "Nirantara Resort and Spa: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "219, 9th main, 15th Cross Road, 6th sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "streetAddress": "221/1, Hulimangala Village, Jigani Hobali, Taluk, Anekal, Bengaluru, Karnataka 560106, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9132",
-        "longitude": "77.6352"
+        "latitude": "12.826",
+        "longitude": "77.6485"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "After telling all the old jokes, Sanjeev is back with new stories, new chaos, and the same funny filter.Banni nimma friends-ginds jothe siguva...",
+    "description": "Get Ready To Celebrate Bengalurus Biggest Dandiya Celebration 2026.After Back to back celebrating this auspicious festival at the same venue Yet Again we are back again with much bigger Plans.Experience Five unforgettable evening filled with music dance culture and festive celebration.Highlights of",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-17T18:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014"
+        "availabilityStarts": "2026-10-04",
+        "availabilityEnds": "2026-10-20T22:00:00+05:30",
+        "validFrom": "2026-10-04",
+        "url": "https://allevents.in/bangalore/biggest-open-air-dandiya-mahotsav-2026-nirantara/3900030778284959"
       }
     ]
   },
@@ -2130,6 +2100,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "THE FRIDAY NIGHT FEVER PARTY HUNGRY HIPPIE",
+    "image": "https://cdn-az.allevents.in/events5/banners/6f1ee490-c9c2-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc080808-gmir.jpg?v=1792197235",
+    "startDate": "2026-10-23T21:30:00+05:30",
+    "endDate": "2026-10-24T02:50:00+05:30",
+    "url": "https://allevents.in/bangalore/the-friday-night-fever-party-hungry-hippie/3900030830273641",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Hungry Hippie: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "104, Vijay Building, 4th Floor, near Empire Hotel, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9346",
+        "longitude": "77.6158"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "A ROOFTOP SATURDAY VIBES KORMANGALGet ready for a high energy Saturday night packed with Bollywood bangers EDM drops and all time party anthems8 PM ONWARDT AND C APPLYGIRLS FOR FREE DRINKS AVAILABLE FREE ENTRY FOR COUPLES AND GIRLBOYS COVER CHARGE APPLICABLE AT THE VENUECover fully redeemable on foo",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-24T02:50:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/the-friday-night-fever-party-hungry-hippie/3900030830273641"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Ghayal Ft. Pranit More",
     "image": "https://cdn-az.allevents.in/events4/banners/cd5e39c0-c733-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc181818-gmir.jpg?v=1791916072",
     "startDate": "2026-10-31T19:00:00+05:30",
@@ -2169,39 +2178,78 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Lasya Ft. Anika Kulkarni and Nireeksha G",
-    "image": "https://cdn-az.allevents.in/events5/banners/0a167d10-c7b5-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791971579",
-    "startDate": "2026-10-23T19:30:00+05:30",
-    "endDate": "2026-10-23T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100",
+    "name": "Clay POP House",
+    "image": "https://cdn-az.allevents.in/events9/banners/7d427020-c73b-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc786848-gmir.jpg?v=1791919391",
+    "startDate": "2026-10-18T15:00:00+05:30",
+    "endDate": "2026-10-18T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/clay-pop-house/3900030830605011",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "name": "Starbucks, HSR Layout: Bangalore",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "4th Floor, Rear Wing, Brahmananda Court, 37 Lal Bagh Road, Bengaluru, Karnataka 560027, India",
+        "streetAddress": "Ground Floor, Prakash Arcade 17th Cross, 24th Main Road, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9596",
-        "longitude": "77.5874"
+        "latitude": "12.9122",
+        "longitude": "77.6508"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Anika Kulkarni and Nireeksha G Rao",
+    "description": "Clay Pop House WorkshopBuild your own charming miniature clay house in this fun and beginner friendly workshop. Learn how to shape, assemble, and decorate a cute clay house using simple hand building techniques while adding your own creative details and colorful finishing touches.With step by step g",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-18T16:30:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/clay-pop-house/3900030830605011"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Whitefield Biggest Dandiya Utsav 2026",
+    "image": "https://cdn-az.allevents.in/events7/banners/a210c9a0-c7a0-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dc081838-gmir.jpg?v=1791962815",
+    "startDate": "2026-10-17T18:00:00+05:30",
+    "endDate": "2026-10-21T00:00:00+05:30",
+    "url": "https://allevents.in/bangalore/whitefield-biggest-dandiya-utsav-2026/3900030833572555",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The White Pearl Suites: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hope farm Circle, Channasandra Main Road, Ambedkar Nagar, Whitefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9832",
+        "longitude": "77.7529"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Highlights of a EventBiggest Dandiya Arena in Whitefield with Rooftop Ambience.10,000+ attendees last year across all daysIndoor & Outdoor Rain-Proof ArenaMassive Dance FloorVibrant Carnival & Festive SetupMassive DJ LineupHigh Energy MC & EntertainmentSurprise Acts Throughout the NightFree Pair of",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-23T20:30:00+05:30",
+        "availabilityEnds": "2026-10-21T00:00:00+05:30",
         "validFrom": "2026-10-14",
-        "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100"
+        "url": "https://allevents.in/bangalore/whitefield-biggest-dandiya-utsav-2026/3900030833572555"
       }
     ]
   },
