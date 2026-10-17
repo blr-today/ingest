@@ -586,6 +586,58 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nagarbhavi Biggest open air Dandiya Garba - 2026",
+    "image": "https://cdn-az.allevents.in/events1/banners/06f20150-5d56-11f1-8abc-85e02bc3e0ed-rimg-w1200-h600-dcee4479-gmir.jpg?v=1780275949",
+    "startDate": "2026-10-11T16:00:00+05:30",
+    "endDate": "2026-10-20T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Soda Factory: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "495, 3rd Main Road, 9th Block, Sir M.V. Layout, Railway Layout, Mallathahalli, Bengaluru, Karnataka 560056, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9578897",
+        "longitude": "77.4875479"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "*Navaratri Dandiya Nights at The Soda Factory, Nagarabhavi*Dates: Oct 11th Oct to 20th Oct Time: 4:00 PM to 10:00 PMVenue: The Soda Factory, Brew & Kitchen – Open Lawn Get ready to twirl, spin, and celebrate as Nagarabhavi lights up with the most vibrant Dandiya Festival of the season!Dance to the r",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "2026-10-20T16:00:00+05:30",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
+        "lowPrice": "300.00",
+        "price": "300.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/nagarbhavi-biggest-open-air-dandiya-garba-2026/3900030140965739",
+        "price": "300.00",
+        "name": "NAGARBHAVI DANDIYA 2026"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "RED VELVET CAKE",
     "image": "https://cdn-az.allevents.in/events10/banners/6c7c3bf0-7b4f-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dce2a9f0-gmir.jpg?v=1783571648",
     "startDate": "2026-07-12T14:30:00+05:30",
@@ -631,58 +683,6 @@
         "validFrom": "2026-06-27",
         "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
         "price": "1999.00",
-        "name": "TICKET FOR ONE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Handcrafted Jewellery",
-    "image": "https://cdn-az.allevents.in/events9/banners/7e8b9260-7b12-11f1-878a-71a1982e9830-rimg-w1200-h600-dce2a9f0-gmir.jpg?v=1783545479",
-    "startDate": "2026-07-11T12:15:00+05:30",
-    "endDate": "2026-12-12T12:15:00+05:30",
-    "url": "https://allevents.in/bangalore/handcrafted-jewellery/3900030321471824",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9135481",
-        "longitude": "77.605535"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Handcrafted Jewelry Making - DIY Bead CreationsCarry home your beautiful jewelry.String your thoughts, weave your mood, and let your creativity shine through beads.With smooth music in the background, turn little pieces of love into something timeless.Refreshing for the mind, exciting for the heart",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-28",
-        "availabilityEnds": "2026-12-12T12:15:00+05:30",
-        "validFrom": "2026-06-28",
-        "url": "https://allevents.in/bangalore/handcrafted-jewellery/3900030321471824",
-        "lowPrice": "999.00",
-        "price": "999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-28",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-28",
-        "url": "https://allevents.in/bangalore/handcrafted-jewellery/3900030321471824",
-        "price": "999.00",
         "name": "TICKET FOR ONE"
       }
     ]
@@ -860,7 +860,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Dhvani Bhanushali Live In Bengaluru",
-    "image": "https://cdn-az.allevents.in/events4/banners/d1cfd0a0-c773-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc181818-gmir.jpg?v=1791943568",
+    "image": "https://cdn-az.allevents.in/events4/banners/7cfd4c00-ca08-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc181818-gmir.jpg?v=1792227323",
     "startDate": "2026-11-07T19:00:00+05:30",
     "endDate": "2026-11-07T21:30:00+05:30",
     "url": "https://allevents.in/bangalore/dhvani-bhanushali-live-in-bengaluru/3900030555036325",
@@ -1016,7 +1016,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "3 Idiots",
-    "image": "https://cdn-az.allevents.in/events5/banners/c737b860-c71e-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791907043",
+    "image": "https://cdn-az.allevents.in/events8/banners/3ec92f90-c9b2-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc080808-gmir.jpg?v=1792190282",
     "startDate": "2026-10-25T16:00:00+05:30",
     "endDate": "2026-10-25T17:30:00+05:30",
     "url": "https://allevents.in/bangalore/3-idiots/3900030705335829",
@@ -1211,7 +1211,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "The Book of Queens",
-    "image": "https://cdn-az.allevents.in/events10/banners/c04513f0-c736-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1791917339",
+    "image": "https://cdn-az.allevents.in/events5/banners/e7727210-c9ca-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792200872",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T20:30:00+05:30",
     "url": "https://allevents.in/bangalore/the-book-of-queens/3900030727751655",
@@ -1282,84 +1282,6 @@
         "availabilityEnds": "2026-10-18T17:45:00+05:30",
         "validFrom": "2026-09-25",
         "url": "https://allevents.in/bangalore/the-hidden-framework/3900030734882107"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Vivek Samtani LIVE",
-    "image": "https://cdn-az.allevents.in/events6/banners/89929d40-c70f-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dce8e8c8-gmir.jpg?v=1791900497",
-    "startDate": "2026-10-17T16:00:00+05:30",
-    "endDate": "2026-10-17T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/vivek-samtani-live/3900030739639144",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Underground Comedy Club: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Building No.480, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9338",
-        "longitude": "77.6193"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Vivek Samtani is coming to The Underground.There will be jokes. There will be stories. There will probably be a few things said that seemed like a good idea right until they were said out loud.It is Vivek, a mic, a room full of people and absolutely nowhere to hide.That is pretty much all you need t",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-26",
-        "availabilityEnds": "2026-10-17T17:30:00+05:30",
-        "validFrom": "2026-09-26",
-        "url": "https://allevents.in/bangalore/vivek-samtani-live/3900030739639144"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Try Three Hobbies in One Visit",
-    "image": "https://cdn-az.allevents.in/events8/banners/e572a740-c9c6-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc889858-gmir.jpg?v=1792199151",
-    "startDate": "2026-10-17T14:00:00+05:30",
-    "endDate": "2026-10-17T16:00:00+05:30",
-    "url": "https://allevents.in/bangalore/try-three-hobbies-in-one-visit/3900030743688428",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Hobby Ghar: Seshadripuram, Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "160, 1st Main Road, Opposite ISKCON Temple, DN Ramaiah Layout, Seshadripuram, Bengaluru, Karnataka 560003, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9959",
-        "longitude": "77.5795"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Try Three Hobbies in One VisitIndulge in an ultimate fun-filled creative marathon where three distinct art forms come together in one immersive session. In this unique workshop, participants will spin and shape raw clay on the potter`s wheel, paint a vibrant masterpiece on canvas, and design custom",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-27",
-        "availabilityEnds": "2026-10-17T16:00:00+05:30",
-        "validFrom": "2026-09-27",
-        "url": "https://allevents.in/bangalore/try-three-hobbies-in-one-visit/3900030743688428"
       }
     ]
   },
@@ -1444,86 +1366,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bedazzling Art Workshop",
-    "image": "https://cdn-az.allevents.in/events9/banners/8d7438d0-c591-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dcf8e8e8-gmir.jpg?v=1791736435",
-    "startDate": "2026-10-17T12:00:00+05:30",
-    "endDate": "2026-10-17T14:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bedazzling-art-workshop/3900030747553935",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tim Hortons, HSR Layout: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "17th Cross Road, Vanganahalli, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9121",
-        "longitude": "77.6471"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "What to ExpectStep into a relaxed, friendly, and creative space where you can unwind and enjoy the art-making process, no experience needed. With easy step-by-step guidance, creating your own stunning canvas artwork becomes fun and effortless.What You Will DoCreate your own sparkling artwork in an i",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-17T14:00:00+05:30",
-        "validFrom": "2026-09-28",
-        "url": "https://allevents.in/bangalore/bedazzling-art-workshop/3900030747553935"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dandiya and Garba Dance Workshop @NYDC",
-    "image": "https://cdn-az.allevents.in/events9/banners/1b3c24c0-c902-11f1-849d-d196120da468-rimg-w1200-h600-dca82888-gmir.jpg?v=1792114630",
-    "startDate": "2026-10-17T19:00:00+05:30",
-    "endDate": "2026-10-17T21:00:00+05:30",
-    "url": "https://allevents.in/bangalore/dandiya-and-garba-dance-workshop-nydc/3900030747617332",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "New York Dance Classes: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "49, Ranka Colony Road, BTM 2nd Stage, Bengaluru, Karnataka 560076, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9035",
-        "longitude": "77.6036"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Ignite your weekends with the vibrant rhythms and colorful traditions of Dandiya at New York Dance Classes` exhilarating Dandiya Dance Workshops! Originating from the Indian state of Gujarat, Dandiya is a lively and joyful folk dance characterized by rhythmic clapping and the use of decorated sticks",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-17T21:00:00+05:30",
-        "validFrom": "2026-09-28",
-        "url": "https://allevents.in/bangalore/dandiya-and-garba-dance-workshop-nydc/3900030747617332"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "SCC SkyCinema- Halloween Special",
-    "image": "https://cdn-az.allevents.in/events2/banners/3d025dd0-c4c6-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791649113",
+    "image": "https://cdn-az.allevents.in/events7/banners/8b7e0b30-c9d0-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1792203295",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T20:40:00+05:30",
     "url": "https://allevents.in/bangalore/scc-skycinema-halloween-special/3900030748247125",
@@ -1555,45 +1399,6 @@
         "availabilityEnds": "2026-10-31T20:40:00+05:30",
         "validFrom": "2026-09-28",
         "url": "https://allevents.in/bangalore/scc-skycinema-halloween-special/3900030748247125"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kids Art Party - Bangalore",
-    "image": "https://cdn-az.allevents.in/events1/banners/0633aa70-c63d-11f1-9b17-2d4e02041cf4-rimg-w1200-h600-dc282828-gmir.jpg?v=1791810087",
-    "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/kids-art-party-bangalore/3900030748739825",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Koramangala Social: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Seventh Block, Plot 118, 80 Feet Road, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9355",
-        "longitude": "77.6141"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Kids Art Party is a fun and creative experience where children and parents can explore art together. Choose from Canvas Painting, Fluid Art, or Miniature Clay Toy Making and enjoy a hands-on session filled with creativity.No prior experience is needed, and all materials are provided. Every participa",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-17T18:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "url": "https://allevents.in/bangalore/kids-art-party-bangalore/3900030748739825"
       }
     ]
   },
@@ -1718,7 +1523,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Morning Sound Bath &amp; Detox Brew - JP Nagar",
-    "image": "https://cdn-az.allevents.in/events7/banners/12c71080-c4b0-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc585808-gmir.jpg?v=1791639593",
+    "image": "https://cdn-az.allevents.in/events7/banners/61955d70-c988-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc585808-gmir.jpg?v=1792172301",
     "startDate": "2026-10-31T08:30:00+05:30",
     "endDate": "2026-10-31T09:30:00+05:30",
     "url": "https://allevents.in/bangalore/morning-sound-bath-and-detox-brew-jp-nagar/3900030760418622",
@@ -1796,7 +1601,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "CAGE ROOM X BOILER ROOM",
-    "image": "https://cdn-az.allevents.in/events6/banners/ae699130-c793-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080808-gmir.jpg?v=1791957252",
+    "image": "https://cdn-az.allevents.in/events3/banners/fdc721d0-ca26-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792240424",
     "startDate": "2026-10-23T21:30:00+05:30",
     "endDate": "2026-10-24T02:30:00+05:30",
     "url": "https://allevents.in/bangalore/cage-room-x-boiler-room/3900030764098247",
@@ -1833,11 +1638,50 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Jewels of India 2026 : Biggest Jewellery Festival",
+    "image": "https://cdn-az.allevents.in/events1/banners/2f549690-c952-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc582818-gmir.jpg?v=1792149024",
+    "startDate": "2026-10-29T10:00:00+05:30",
+    "endDate": "2026-10-29T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/jewels-of-india-2026-biggest-jewellery-festival/3900030766034154",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tripura Vasini, Palace Grounds: Bangalore",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Armane Nagar, 10th Main Road, Bengaluru, Karnataka 560006, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0122",
+        "longitude": "77.5848"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Jewels of India 2026 - India`s Biggest Jewellery FestivalA jewellery buying experience like never before. Jewels of India Exhibition & Sale brings together 100+ top jewellers of the country at one place - giving you unmatched variety in gold, diamond and silver jewellery.From traditional Indian arti",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-03",
+        "availabilityEnds": "2026-10-29T20:00:00+05:30",
+        "validFrom": "2026-10-03",
+        "url": "https://allevents.in/bangalore/jewels-of-india-2026-biggest-jewellery-festival/3900030766034154"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Biggest Dandiya Utsav at Royal Orchid hotel,domlur",
-    "image": "https://cdn-az.allevents.in/events3/banners/da11a400-c7a0-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1791962909",
+    "image": "https://cdn-az.allevents.in/events1/banners/8f556710-c9d2-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792204161",
     "startDate": "2026-10-17T16:05:00+05:30",
-    "endDate": "2026-10-18T22:05:00+05:30",
+    "endDate": "2026-10-17T22:05:00+05:30",
     "url": "https://allevents.in/bangalore/biggest-dandiya-utsav-at-royal-orchid-hoteldomlur/3900030768988638",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -1864,7 +1708,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-04",
-        "availabilityEnds": "2026-10-18T22:05:00+05:30",
+        "availabilityEnds": "2026-10-17T22:05:00+05:30",
         "validFrom": "2026-10-04",
         "url": "https://allevents.in/bangalore/biggest-dandiya-utsav-at-royal-orchid-hoteldomlur/3900030768988638"
       }
@@ -1873,10 +1717,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Festival",
+    "name": "Whitefield Biggest Open Air Dandiya Utsav 2026",
+    "image": "https://cdn-az.allevents.in/events5/banners/5af0b930-c8b4-11f1-97b9-af1d5dee0e36-rimg-w1200-h600-dc080808-gmir.jpg?v=1792081237",
+    "startDate": "2026-10-17T18:00:00+05:30",
+    "endDate": "2026-10-18T00:00:00+05:30",
+    "url": "https://allevents.in/bangalore/whitefield-biggest-open-air-dandiya-utsav-2026/3900030777575124",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Yard: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "22/A, Doddanakundi Industrial Area 2, Phase 1, Doddanekkundi, Bengaluru, Karnataka 560048, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9778",
+        "longitude": "77.7073"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Highlights:Celebrity DJs: Dance the night away to the beats of renowned celebrity DJs who will keep the energy soaring and the crowd grooving with the latest hits and traditional tunes.Live Food Stalls: Savor a delectable array of culinary delights from our live food stalls. From spicy street food t",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-04",
+        "availabilityEnds": "2026-10-18T00:00:00+05:30",
+        "validFrom": "2026-10-04",
+        "url": "https://allevents.in/bangalore/whitefield-biggest-open-air-dandiya-utsav-2026/3900030777575124"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
     "name": "Biggest Open Air Dandiya Mahotsav 2026 @ Nirantara",
-    "image": "https://cdn-az.allevents.in/events3/banners/e95dcf10-c7a0-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8d8b8-gmir.jpg?v=1791962934",
-    "startDate": "2026-10-16T16:00:00+05:30",
-    "endDate": "2026-10-20T22:00:00+05:30",
+    "image": "https://cdn-az.allevents.in/events9/banners/6e404230-c9b3-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8d8b8-gmir.jpg?v=1792190791",
+    "startDate": "2026-10-17T16:00:00+05:30",
+    "endDate": "2026-10-17T22:00:00+05:30",
     "url": "https://allevents.in/bangalore/biggest-open-air-dandiya-mahotsav-2026-nirantara/3900030778284959",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -1903,7 +1786,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-04",
-        "availabilityEnds": "2026-10-20T22:00:00+05:30",
+        "availabilityEnds": "2026-10-17T22:00:00+05:30",
         "validFrom": "2026-10-04",
         "url": "https://allevents.in/bangalore/biggest-open-air-dandiya-mahotsav-2026-nirantara/3900030778284959"
       }
@@ -1912,39 +1795,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Saakshaath'Khaara' - Kannada Stand up comedy show",
-    "image": "https://cdn-az.allevents.in/events1/banners/345c1100-c933-11f1-849d-d196120da468-rimg-w1200-h600-dcd8c8a8-gmir.jpg?v=1792135718",
+    "name": "Kormangala Biggest Open Air Dandiya Celebration",
+    "image": "https://cdn-az.allevents.in/events4/banners/8ce2f6c0-c9ee-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc280818-gmir.jpg?v=1792216182",
     "startDate": "2026-10-17T17:00:00+05:30",
-    "endDate": "2026-10-17T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014",
+    "endDate": "2026-10-17T23:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kormangala-biggest-open-air-dandiya-celebration/3900030828235426",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Comedy Square: Bengaluru",
+      "name": "Saki - Pan Asian Kitchen: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "219, 9th main, 15th Cross Road, 6th sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "streetAddress": "750, 10th Main road80, Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9132",
-        "longitude": "77.6352"
+        "latitude": "12.9332",
+        "longitude": "77.6308"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "After telling all the old jokes, Sanjeev is back with new stories, new chaos, and the same funny filter.Banni nimma friends-ginds jothe siguva...",
+    "description": "Get ready for the Biggest Dandiya Night in Bengaluru.Immerse yourself in the vibrant spirit of Navratri with an unforgettable lineup of events and performancesJoin us from 17th Oct to 20th October 2026 for an unforgettable celebration of Dance culture and music.Time : 5 pm - 11 pmHighlights:- Celebr",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-17T18:30:00+05:30",
+        "availabilityEnds": "2026-10-17T23:00:00+05:30",
         "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/saakshaathkhaara-kannada-stand-up-comedy-show/3900030829070014"
+        "url": "https://allevents.in/bangalore/kormangala-biggest-open-air-dandiya-celebration/3900030828235426"
       }
     ]
   },
@@ -2028,6 +1911,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Malhar Live Dandiya Night at The Pallet BY ABV",
+    "image": "https://cdn-az.allevents.in/events8/banners/ba9da510-c70a-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc180808-gmir.jpg?v=1791898431",
+    "startDate": "2026-10-17T20:00:00+05:30",
+    "endDate": "2026-10-18T00:00:00+05:30",
+    "url": "https://allevents.in/bangalore/malhar-live-dandiya-night-at-the-pallet-by-abv/3900030829561852",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "ABV - Artisanal Bier Village: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ABV, Previously known as The Pallet Brewhouse and Kitchen, Hoodi, Whitefield Main Road, Thigalarapalya, Mahadevpura, Krishnarajapuram, Bengaluru, Karnataka 560048, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9918",
+        "longitude": "77.7199"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Navratri 2026 comes alive at The Pallet, Whitefield with a spectacular Dandiya night featuring MALHAR LIVE - a full live band performance blending Bollywood classics, soulful Sufi anthems, and rock energy into one seamless Garba dance floor experience.Instead of a DJ, tonight the The Pallet Garba ar",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-10-18T00:00:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/malhar-live-dandiya-night-at-the-pallet-by-abv/3900030829561852"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "THE FRIDAY NIGHT FEVER PARTY HUNGRY HIPPIE",
     "image": "https://cdn-az.allevents.in/events5/banners/6f1ee490-c9c2-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc080808-gmir.jpg?v=1792197235",
@@ -2069,7 +1991,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Ghayal Ft. Pranit More",
-    "image": "https://cdn-az.allevents.in/events4/banners/cd5e39c0-c733-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc181818-gmir.jpg?v=1791916072",
+    "image": "https://cdn-az.allevents.in/events4/banners/8259e3c0-c9c7-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc181818-gmir.jpg?v=1792199414",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T20:40:00+05:30",
     "url": "https://allevents.in/bangalore/ghayal-ft-pranit-more/3900030830383253",
@@ -2257,6 +2179,45 @@
         "availabilityEnds": "2026-10-17T21:15:00+05:30",
         "validFrom": "2026-10-16",
         "url": "https://allevents.in/bangalore/barrel-comedy-nights-indiranagar/3900030842312517"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Resin Beach Art",
+    "image": "https://cdn-az.allevents.in/events5/banners/cfb84370-c9b1-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8d8d8-gmir.jpg?v=1792190095",
+    "startDate": "2026-10-17T19:00:00+05:30",
+    "endDate": "2026-10-17T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/resin-beach-art/3900030845058856",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tealogy Cafe (Neo): Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9337",
+        "longitude": "77.6302"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create your own beautiful Resin Beach Art in a relaxed cafe setting! Learn resin basics, ocean effects, and layering techniques with step-by-step guidance. All materials are provided, making it perfect for beginners, friends, couples, or anyone seeking a creative and calming activity. Enjoy a hands-",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-16",
+        "availabilityEnds": "2026-10-17T20:00:00+05:30",
+        "validFrom": "2026-10-16",
+        "url": "https://allevents.in/bangalore/resin-beach-art/3900030845058856"
       }
     ]
   },
@@ -2875,6 +2836,34 @@
         "name": "Group of 5"
       }
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Koramangala Biggest Garba &amp; Dandiya Night 2026",
+    "image": "https://cdn-az.allevents.in/events9/banners/d02bfe50-c7b8-11f1-ac75-15a87e2724d8-rimg-w900-h1200-dc280818-gmir.jpg?v=1791973202",
+    "startDate": "2026-10-16T18:00:00+05:30",
+    "endDate": "2026-10-20T23:59:00+05:30",
+    "url": "https://allevents.in/bangalore/koramangala-biggest-garba-and-dandiya-night-2026/4100030834190401",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Skygarden Bar & Kitchen koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Skygarden Bar &amp; Kitchen koramangala, Bengaluru",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9336793",
+        "longitude": "77.622162"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Step into the festive madness with Bengaluru most-awaited Garba & Dandiya celebration.This Navratri, get ready for an unforgettable night filled with Gujarati vibes, high-energy Dandiya beats, dazzling lights and non-stop entertainment.WHATS WAITING FOR YOU?- Celebrity DJs & Live Dandiya Beats.- Non"
   },
   {
     "@context": "https://schema.org",
@@ -4112,783 +4101,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Anybody Can Dandiya 6.0 - Palace Ground",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6a95418726350.jpg",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-19T22:30:00+05:30",
-    "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kings Court",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Gate No. 5, Palace Ground, Bellary Rd, near Mekhri Circle, Jayamahal, Bengaluru, Karnataka 560080, India",
-        "postalCode": "560080",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0080018",
-        "longitude": "77.5842217"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Think Dandiya. Think DesiClans.Six years. One legendary dance floor. ABCD 6.0 lands at Palace Grounds — the address Bengaluru associates with scale — for four nights of Garba, Dandiya Raas, Heech and Sanedo under one roof and one open sky.This is the flagship. The biggest Garba floor in the city, a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "lowPrice": "99.00",
-        "highPrice": "899.00",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Kids VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 3 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "1999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird-Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "1999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird-Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-19",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-19",
-        "price": "1999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird-Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "1999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird-Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-08-21",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-08-21",
-        "price": "1999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird-Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "899.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "349.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "349.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "349.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Single VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "1199.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "1199.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "1199.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "2499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "2499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-28",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-09-28",
-        "price": "2499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Kid - VIP (5-12 Years)"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Kid - VIP (5-12 Years)"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Kid - VIP (5-12 Years)"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "1799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 6"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "1799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 6"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "1799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Group of 6"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1 - Premium"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "399.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "399.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Group of 2"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "599.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Group of 2"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "2999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Group of 4 VIP"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-19T22:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "price": "2999.00",
-        "url": "https://allevents.in/bangalore/anybody-can-dandiya-60-palace-ground-tickets/80002747224547",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 2 - Group of 4 VIP"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Desiclans",
-        "url": "https://allevents.in/org/desiclans/20231701",
-        "description": "Event organisers"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "STR DJ NIGHT",
     "image": "https://cdn2.allevents.in/thumbs/thumb6acf80fb74b1a.jpg",
     "startDate": "2026-10-17T19:30:00+05:30",
@@ -5093,254 +4305,6 @@
         "@type": "Organization",
         "name": "GEMS KIDS CLUB ",
         "url": "https://allevents.in/org/gems-kids-club/16611595"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kudremukh Trek from Bangalore - MY HIKES",
-    "image": "https://cdn2.allevents.in/thumbs/thumb664f154a2022a.jpg",
-    "startDate": "2026-07-24T06:00:00+05:30",
-    "endDate": "2027-01-01T21:00:00+05:30",
-    "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kudremukh",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Kudremukh, Karnataka, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9628957",
-        "longitude": "77.57754"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Head out for an amazing trekking expedition at KUDREMUKH in South Karnataka which stands tall at a height of 1894 meters. The name Kudremukh literally means `horse-face` (Kannada) and refers to a particularly picturesque view of a side of the mountain that resembles a horse`s face Known as a paradis",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-01",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-07-01",
-        "lowPrice": "1000.00",
-        "highPrice": "4600.00",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-01",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-07-01",
-        "price": "2850.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "WITHOUT TRANSPORTATION"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-04",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-09-04",
-        "price": "2850.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "WITHOUT TRANSPORTATION"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-01",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-01",
-        "price": "2850.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "WITHOUT TRANSPORTATION"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "2850.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "WITHOUT TRANSPORTATION"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-09",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-09",
-        "price": "2850.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "WITHOUT TRANSPORTATION"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-15",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-15",
-        "price": "2850.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "WITHOUT TRANSPORTATION"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-01",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-07-01",
-        "price": "4600.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "TRAVEL, STAY, TREK, FOOD"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-04",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-09-04",
-        "price": "4600.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "TRAVEL, STAY, TREK, FOOD"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-01",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-01",
-        "price": "4600.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "TRAVEL, STAY, TREK, FOOD"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "4600.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "TRAVEL, STAY, TREK, FOOD"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-09",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-09",
-        "price": "4600.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "TRAVEL, STAY, TREK, FOOD"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-15",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-15",
-        "price": "4600.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "TRAVEL, STAY, TREK, FOOD"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-09",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-07-09",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SLOT - PAY LATER"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-04",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-09-04",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SLOT - PAY LATER"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-01",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-01",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SLOT - PAY LATER"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-08",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-08",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SLOT - PAY LATER"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-09",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-09",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SLOT - PAY LATER"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-15",
-        "availabilityEnds": "2027-01-01T21:00:00+05:30",
-        "validFrom": "2026-10-15",
-        "price": "1000.00",
-        "url": "https://allevents.in/bangalore/kudremukh-trek-from-bangalore-my-hikes-tickets/80003121780656",
-        "availability": "https://schema.org/InStock",
-        "name": "BLOCK SLOT - PAY LATER"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "My Hikes INDIA",
-        "url": "https://allevents.in/org/my-hikes-india/10715105",
-        "description": "MYHIKES is an Outdoor Trekking / Hiking / Camping community to make your Holidays an Adventurous time by Exploring all levels of Challenging terrains at different Landscapes. \n\nCome DISCOVER YOURSELF...Finding yourself is a journey not a destination"
       }
     ]
   },
@@ -6474,68 +5438,6 @@
         "name": "Ameeshi Goenka",
         "url": "https://allevents.in/org/ameeshi-goenka/27929903",
         "description": "Ameeshi Goenka is the founder of Around Big Cities (ABC), a community-driven platform that curates treks, road trips, heritage walks, outdoor adventures, and experiential events across India.An entrepreneur and interior designer by profession, she also leads DPG Interiors, where she specializes in creating thoughtful and functional spaces. Her passion for travel, nature, culture, and human connection inspired the creation of ABC—a platform that brings together like-minded people through meaningful outdoor experiences.Through ABC, Ameeshi aims to make adventure accessible, safe, inclusive, and memorable for participants of all ages and experience levels."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Seed Business School Festival 2026 - Bengaluru",
-    "image": "https://cdn-az.allevents.in/events7/banners/1f2014793db762bf50225fd89ba8b05ff886e78ccbc2aa84b3f36aee9c999126-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1787701624",
-    "startDate": "2026-10-17T12:00:00+05:30",
-    "endDate": "2026-10-17T16:30:00+05:30",
-    "url": "https://allevents.in/bengaluru/seed-business-school-festival-2026-bengaluru/100001998879876519",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Taj MG Road, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Mahatma Gandhi Road",
-        "postalCode": "560001",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9733248",
-        "longitude": "77.61981329999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Meet admission directors from 20+ top business schools from around the world — in person, completely free.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "GBP",
-        "availabilityStarts": "2026-08-25",
-        "availabilityEnds": "2026-10-17T16:30:00+05:30",
-        "validFrom": "2026-08-25",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/seed-business-school-festival-2026-bengaluru/100001998879876519"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "GBP",
-        "availabilityStarts": "2026-08-25",
-        "availabilityEnds": "",
-        "validFrom": "2026-08-25",
-        "url": "https://allevents.in/bengaluru/seed-business-school-festival-2026-bengaluru/100001998879876519",
-        "price": 0,
-        "name": "General Admission"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "SEED Global Education",
-        "url": "https://allevents.in/org/seed-global-education/22089995",
-        "description": "SEED Global Education is a global higher education company facilitating interactions between top universities and potential students."
       }
     ]
   },
