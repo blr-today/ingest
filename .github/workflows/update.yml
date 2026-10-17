@@ -62,6 +62,32 @@ jobs:
     secrets:
       TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
 
+  comment:
+    needs: [update, fallback]
+    if: ${{ !cancelled() && (needs.update.outputs.built == 'true' || needs.fallback.result == 'success') && github.ref != 'refs/heads/main' }}
+    runs-on: ubuntu-26.04
+    name: Comment on PR
+    # Branch builds link their events.db on the PR instead of committing out/
+    permissions:
+      pull-requests: write
+    steps:
+    - name: Link the database
+      env:
+        GH_TOKEN: ${{ github.token }}
+        GH_REPO: ${{ github.repository }}
+        BRANCH: ${{ github.ref_name }}
+        ARTIFACT_URL: ${{ needs.update.outputs.artifact-url || needs.fallback.outputs.artifact-url }}
+        RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        SHA: ${{ github.sha }}
+      run: |
+        pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
+        [ -n "$pr" ] || exit 0
+        gh pr comment "$pr" --edit-last --create-if-none --body-file - <<EOF
+        Database for $SHA: $ARTIFACT_URL
+
+        Run: $RUN_URL
+        EOF
+
   release:
     needs: [update, fallback]
     if: ${{ !cancelled() && (needs.update.outputs.built == 'true' || needs.fallback.result == 'success') && github.event_name == 'schedule' }}
