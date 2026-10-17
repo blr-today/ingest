@@ -109,6 +109,8 @@ SET
   )
 WHERE
   event_json ->> '$.organizer.name' LIKE 'Odyssey vibes'
+  -- BMS drops organizers, but names Odyssey Vibes as the venue
+  OR event_json ->> '$.location.name' LIKE 'Odyssey vibes%'
   -- https://urbanaut.app/about-hightable
   -- Currently rated 2.7 at Urbanaut
   -- Mostly stranger meets which are anyway meh.

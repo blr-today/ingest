@@ -113,3 +113,14 @@ def test_bms_craft_menus_are_low_quality(tmp_path):
     got = postbuild(menu + alone, tmp_path / "events.db")
     low = {e["name"] for e in got.values() if "LOW-QUALITY" in e["keywords"]}
     assert low == {"sip-and-paint", "clay-lighter", "kintsugi"}
+
+
+def test_odyssey_vibes_venue_is_low_quality(tmp_path):
+    event = {
+        "url": "https://in.bookmyshow.com/events/open-talk-with-nishi/ET00386447",
+        "name": "Candid Conversations with Nishi",
+        "location": {"name": "Odyssey Vibes: Bengaluru"},
+        "keywords": ["BOOKMYSHOW"],
+    }
+    got = postbuild([event], tmp_path / "events.db")
+    assert "LOW-QUALITY" in got[event["url"]]["keywords"]
