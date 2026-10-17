@@ -224,9 +224,9 @@ def save(db, records, at):
     return failed
 
 
-def finish(db, session, key, snapshot, names, created):
+def finish(db, session, key, snapshot, names, created, now):
     status = progress(session, key, snapshot)
-    if status in ("failed", "canceled") or datetime.now(IST) - created > STALE:
+    if status in ("failed", "canceled") or now - created > STALE:
         log(f"snapshot {snapshot} {status}, dropping it")
     elif status != "ready" or (records := download(session, key, snapshot)) is None:
         return False
@@ -276,6 +276,7 @@ def collect(db, session, key, names, now, stale=()):
                 snapshot,
                 json.loads(names_),
                 datetime.fromisoformat(created),
+                now,
             )
         if time.monotonic() > deadline:
             log(f"{len(pending)} snapshots still running, checking again next run")
