@@ -104,29 +104,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Keeping Secrets in a Post-Quantum World",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
-    },
-    "startDate": "2026-10-17T11:00:00+05:30",
-    "endDate": "2026-10-17T14:00:00+05:30",
-    "description": "In this workshop, we'll use fun code-breaking games inspired by real events, experiments with color, collaborative discussions, and demonstrations in order to understand the evolution of encryption techniques and how quantum computers will alter the landscape. You don't need any prior technical knowledge of computers or physics to attend. This workshop builds intuition through fun activities which are designed to scale with your curiosity about the underlying science.\n\n**Setting the stage**\nOur ability to keep and communicate our secrets with one another has been crucial for our survival and success well before computers came along. From 1500 BCE Mesopotamian clay tablets hiding trade secrets, to the Hebrew Bible concealing the names of people and places in 500 BCE, encryption has a rich and storied history. Moreover, encryption is not an idea native to mathematics; you can see its roots even in music and language. During the 1800s, enslaved African Americans sang spirituals with hidden double meanings, to safely share plans of escape.\n\nHowever, encryption techniques didn't evolve in isolation; our ability to code-break has helped make them more sophisticated. The very first programmable electronic digital computer, called Colossus, was built in complete secrecy by the British during WW2 out of a need to break the Lorenz cipher used by the Germans. Unlike Colossus, the next big disruptor, the quantum computer, is being developed largely in public view, giving us the unique opportunity to come together and discuss the next disruption even before it has arrived!\n\n**Key takeaways**\nHere’s what you can expect to learn! Since this is an interactive workshop, you will also have ample opportunity to ask questions and build your intuition in a collective space.\n\nAbout encryption:\nSome cool encryption ciphers and their history.\nEach major logical evolution of encryption technology.\nLearning to use a mathematically unbreakable cipher (used during WW2).\nBalancing the need for secrecy vs. convenience.\nRandomness of keys as a source of strength in encryption.\nHow we exchange the encryption key itself with our recipient securely on the internet.\n\nAbout quantum computing:\nBuild a mental model of what a quantum computer is and how it works.\nHow concepts such as superposition, entanglement, tunneling, and interference contribute to quantum computing.\nHow quantum computers speed up the process of guessing keys and why this isn't a threat.\nWhat actually breaks when large quantum computers arrive and how we are rising to the challenge.\n",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=keeping-secrets-in-post-quantum-world",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2Fcover_ripple.jpg-1791614410607?alt=media&token=a65f201c-8447-44cc-b979-0d89bf6862c0",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Rithvik Upadhya"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "A Glimpse Into the Quantum World",
     "location": {
       "@type": "Place",

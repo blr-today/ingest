@@ -1008,45 +1008,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Kalighat Painting Workshop",
-    "image": "https://cdn-az.allevents.in/events1/banners/84731f60-c5ac-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dc980808-gmir.jpg?v=1791748017",
-    "startDate": "2026-11-14T11:00:00+05:30",
-    "endDate": "2026-11-14T14:00:00+05:30",
-    "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Atta Galatta: Indiranagar",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "178-205, 5th Main Rd, Indira Nagar II Stage, Hoysala Naga, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9802",
-        "longitude": "77.6394"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "KALIGHAT PAINTINGS - WHERE TRADITION MEETS MODERNITYBengal is renowned for its rich cultural heritage and diverse artistic traditions, including music, literature, dance, and visual arts. In this workshop, we will explore one of Bengal's most fascinating and thought-provoking art forms -Kalighat Pai",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-04",
-        "availabilityEnds": "2026-11-14T14:00:00+05:30",
-        "validFrom": "2026-09-04",
-        "url": "https://allevents.in/bangalore/kalighat-painting-workshop/3900030657022614"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "BANGTANVERSE CARNIVAL - FAN TOUR",
     "image": "https://cdn-az.allevents.in/events10/banners/28413250-beb7-11f1-8a18-b3e52d4bf2d6-rimg-w1200-h600-dce898d8-gmir.jpg?v=1790982948",
     "startDate": "2026-11-13T16:00:00+05:30",
@@ -2289,6 +2250,45 @@
         "availabilityEnds": "2026-10-17T21:15:00+05:30",
         "validFrom": "2026-10-16",
         "url": "https://allevents.in/bangalore/barrel-comedy-nights-indiranagar/3900030842312517"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Resin Beach Art",
+    "image": "https://cdn-az.allevents.in/events5/banners/cfb84370-c9b1-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8d8d8-gmir.jpg?v=1792190095",
+    "startDate": "2026-10-17T19:00:00+05:30",
+    "endDate": "2026-10-17T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/resin-beach-art/3900030845058856",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tealogy Cafe (Neo): Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9337",
+        "longitude": "77.6302"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create your own beautiful Resin Beach Art in a relaxed cafe setting! Learn resin basics, ocean effects, and layering techniques with step-by-step guidance. All materials are provided, making it perfect for beginners, friends, couples, or anyone seeking a creative and calming activity. Enjoy a hands-",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-16",
+        "availabilityEnds": "2026-10-17T20:00:00+05:30",
+        "validFrom": "2026-10-16",
+        "url": "https://allevents.in/bangalore/resin-beach-art/3900030845058856"
       }
     ]
   },
