@@ -11,6 +11,8 @@ import re
 # Emoji, arrows, dingbats and object-replacement marks that decorate titles
 SYMBOL = "[\U0001f000-\U0001faff\u2190-\u21ff\u2300-\u23ff\u25a0-\u27bf\u2b00-\u2bff\ufe0e\ufe0f\u200d\u20e3\ufffc]"
 EDGES = re.compile(rf"^(?:{SYMBOL}|\s)+|(?:{SYMBOL}|\s)+$")
+# Hosts shorten game names that readers may not know
+SPELLED_OUT = [(re.compile(r"\bbotc\b", re.I), "Blood on the Clocktower")]
 
 
 def get_domain(url):
@@ -29,6 +31,8 @@ class SchemaFixer(Processor):
         if isinstance(event.get("name"), str):
             event["name"] = html.unescape(event["name"])
             event["name"] = EDGES.sub("", event["name"]) or event["name"]
+            for short, full in SPELLED_OUT:
+                event["name"] = short.sub(full, event["name"])
         elif "name" in event:
             logging.warning("SchemaFixer found a name that is not text for %s", url)
 

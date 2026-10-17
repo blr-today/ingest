@@ -123,3 +123,14 @@ def test_odd_names_and_starts_are_kept(caplog, capsys):
     assert event["startDate"] is None and "endDate" not in event
     assert "SchemaFixer found a name that is not text for https://courtyardkoota" in caplog.text
     assert "[IMP] Error parsing startDate" in capsys.readouterr().out
+
+
+def test_game_names_are_spelled_out():
+    for name, full in [
+        ("BOTC", "Blood on the Clocktower"),
+        ("Friday Midnight BOTC", "Friday Midnight Blood on the Clocktower"),
+        ("Botc Night in HSR", "Blood on the Clocktower Night in HSR"),
+        ("BOTCHED", "BOTCHED"),
+    ]:
+        event = SchemaFixer.process("https://in.bookmyshow.com/x", {"name": name})
+        assert event["name"] == full
