@@ -16,6 +16,8 @@ from io import BytesIO
 from .session import get_cached_session
 
 logger = logging.getLogger(__name__)
+# A stuck DNS lookup or connect otherwise hangs the build for minutes
+TIMEOUT = 60
 
 
 class Fetch:
@@ -54,6 +56,7 @@ class Fetch:
             headers=request.headers,
             data=request.body,
             impersonate=self.browser,
+            timeout=TIMEOUT,
         )
 
         response = CorrectResponse(request, response)
@@ -95,6 +98,7 @@ class Fetch:
                     return self._send_and_cache(pr, actions, cached_response)
                 return cached_response
             else:
+                kwargs.setdefault("timeout", TIMEOUT)
                 response = curl.request(
                     method=method, impersonate=self.browser, **kwargs
                 )

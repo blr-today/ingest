@@ -79,6 +79,21 @@ def test_session_needs_same_place_and_visibility():
     assert not same_session(a, c)
 
 
+def test_far_apart_listings_stay_separate():
+    church = listing("Sip and Clay", "Third Wave Coffee", 12.974659, 77.6067528)
+    indiranagar = listing("Sip and Paint", "Third Wave Coffee", 12.9702038, 77.6386734)
+    assert not same_session(church, indiranagar)
+    mafia = listing(
+        "Mafia Night", "Tim Hortons, Phoenix Mall of Asia", 13.0709, 77.5925
+    )
+    other = dict(
+        listing("Mafia Night", "Buddiezz Cafe", 12.937938, 77.6261241),
+        url="https://in.bookmyshow.com/x",
+    )
+    assert not is_duplicate(mafia, other)
+    assert not is_duplicate(mafia, dict(other, sameAs=[mafia["url"]]))
+
+
 def test_session_name_lists_choices():
     event = {"name": "Sip and Clay", "description": "Bring a friend."}
     name_session(event, ["Sip and Clay", "Sip and Paint", "Kintsugi"])

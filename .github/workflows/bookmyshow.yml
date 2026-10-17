@@ -1,0 +1,45 @@
+name: List BookMyShow
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+    - src/common/bookmyshow.py
+    - src/sources/bookmyshow.py
+    - .github/workflows/bookmyshow.yml
+  schedule:
+    # Between the Update Data runs, since both use sel
+    - cron: '17 3,15 * * *'
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+permissions: {}
+jobs:
+  crawl:
+    name: List events and refresh pages
+    # The listing and one file per page stay on sel's disk for Update Data
+    runs-on: [self-hosted, sel, steamos]
+    timeout-minutes: 180
+    permissions:
+      contents: read
+    steps:
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      with:
+        persist-credentials: false
+    - uses: astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
+      with:
+        activate-environment: true
+    - name: Crawl
+      env:
+        BMS_CRAWL: "1"
+        BMS_MAX_FETCHES: "300"
+        LOG_LEVEL: INFO
+      run: |
+        uv sync --frozen
+        export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
+        # Branches start from a copy of main's pages but never write main's
+        if [ "$GITHUB_REF_NAME" != main ] && [ ! -d "$BMS_CACHE" ] && [ -d "$HOME/.cache/bms/main" ]; then
+          mkdir -p "$BMS_CACHE"
+          find "$HOME/.cache/bms/main" -maxdepth 1 -name '????-??-??-*.json' -exec cp -t "$BMS_CACHE" {} +
+        fi
+        python -m src.sources bookmyshow
