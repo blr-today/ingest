@@ -2,38 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Nandi Countryside",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "nandi, bengaluru"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l1 - beginner- 30 km (with b'fast) ",
-        "price": "3500"
-      },
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l2 - moderate - 50 km (with b'fast) ",
-        "price": "3800"
-      }
-    ],
-    "startDate": "2026-10-18T05:45:00+05:30",
-    "endDate": "2026-10-18T10:45:00+05:30",
-    "description": "Our route for this half-day tour weaves through the hills and lush forests around Nandi. We have curated rides of difficulty different levels in the region. The level-1 ride charts out a fairly easy route through some flat terrain while still touching upon several scenic spots. The climbs in the level-2 and level-3 route variations in this region are challenging, with some exhilarating descents. You will experience riding on quiet traffic-free forest and village roads, that run beside a couple of pristine lakes and dams. All the joys of bicycle touring wrapped into a few hours of riding.\n \n\n\n{'DISTANCE': '30-65KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '200-700M', '% UNPAVED': '10%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/nandi-countryside",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "Devanahalli Heritage Ride",
     "sports": "Cycling",
     "location": {

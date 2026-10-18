@@ -166,7 +166,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -456,7 +456,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 36,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -550,7 +550,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 42,
+    "remainingAttendeeCapacity": 41,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -598,7 +598,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -687,7 +687,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -908,53 +908,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/the-army-town-and-its-tales",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Whitefield Heritage Trail",
-    "description": "\"The guided walk focuses on the early history of Whitefield, long before it became a major tech hub. Participants walk through the Inner and Outer Circles and explore key heritage landmarks while learning about the people, institutions, and communities that shaped the area.The walk is interactive and discussion-based. It is not just about dates and buildings. It is about understanding how Whitefield evolved and how its past still connects to the present.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/59B82DA7189C45CC9118B773887B9C06_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D96E795C93234EFB88154B2AB46C0931_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9928566ADEF247E985230EB47B15F092_converted_webp.webp"
-    ],
-    "startDate": "2026-10-18T09:00:00+05:30",
-    "endDate": "2026-10-18T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "15, SH 35, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9692854,
-        "longitude": 77.7496883
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 999.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru Prayana",
-      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
-      "url": "https://urbanaut.app/partner/bengaluru-prayana",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/whitefield-heritage-trail",
     "keywords": [
       "Walking Tour",
       "History & heritage",
@@ -1270,7 +1223,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1369,7 +1322,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 90,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1415,11 +1368,11 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 73,
+    "remainingAttendeeCapacity": 57,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 999.0,
+      "price": 1100.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1466,7 +1419,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1726,53 +1679,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/C996D0A184D542A7BCDFEA0F69E9752A_converted_webp.webp"
     ],
-    "startDate": "2026-10-18T07:00:00+05:30",
-    "endDate": "2026-10-18T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-practice-amateur-calisthenics-lab#2026-10-18T0700",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Eco Friendly",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Open Practice: Amateur Calisthenics Lab",
-    "description": "Space to train, experiment and play with your body.Bring your calisthenics practices of strength, mobility, balance, handstands, flows or skills that you’re working towards and use the space to practise at your own pace, alongside other movement enthusiasts.No class. No curriculum. Just practice, play and community.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C996D0A184D542A7BCDFEA0F69E9752A_converted_webp.webp"
-    ],
     "startDate": "2026-10-25T07:00:00+05:30",
     "endDate": "2026-10-25T09:00:00+05:30",
     "location": {
@@ -1803,7 +1709,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/open-practice-amateur-calisthenics-lab#2026-10-25T0700",
+    "url": "https://urbanaut.app/spot/open-practice-amateur-calisthenics-lab",
     "keywords": [
       "Wellness",
       "Workshop",
@@ -2698,7 +2604,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 40,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2958,7 +2864,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3123,7 +3029,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3222,7 +3128,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3448,7 +3354,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3538,7 +3444,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3590,7 +3496,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4069,7 +3975,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 184,
+    "remainingAttendeeCapacity": 183,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5029,7 +4935,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -5466,62 +5372,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "THE DIVERSE FLEAMARKET",
-    "description": "We`re the unfiltered community, I`m Thomas here hosting this small community event, to help bring together 20 members from aboard the community, together having curated stalls, that have some great products, but also to help us build our respective businesses, by means of putting our products on display for visibility and reach and of course, visitors can interact with our vendors and even eventually become loyal customers!A small event that brings the the right audiences to the right brands and vice-versa. Come be a part of our little journey and event take home something that resonates with you!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/88249AE5DDD24A4CB2AB42CC7ADBF99A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3579504CCA1F4D80B7628C7DC9DD80DF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/08D4F1ABDA6841BE84210E4318A1F022_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7343AC7D216E42E98BDF884A9B63F7F6_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6C4B5C40FFC043969D62C42CDE7A55B1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B4CDA8FC7F0B4A03B77C6AF838E6AA72_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/088B0C3585824CFF81C648CABA40E255_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/11C3790E5F3C49DF97B86C821558A969_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F3CAFB3611F24E0094BE0BA73859FE46_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1B24EB078AF04AF3B21806280C475DE0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/79AC7CA853F64590873288B5629CD00D_converted_webp.webp"
-    ],
-    "startDate": "2026-10-18T10:00:00+05:30",
-    "endDate": "2026-10-18T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 93,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-diverse-fleamarket",
-    "keywords": [
-      "Eco Friendly",
-      "Pop-up Event",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "GARBA NIGHT + WORKSHOP",
     "description": "💃 Done with overcrowded Garba nights?Too many people, barely any space to dance, and spending half the night trying to find your friends?This Garba season, we’re doing it differently.✨ About the EventGet ready for 2 days of Garba, music, creativity and celebration — with only 100 slots per day so you actually have space to dance, meet people and enjoy the night.Whether you already know your Garba moves or you’ve always wanted to learn, this is your chance to experience Garba in a fun, energetic and interactive setting.🪩 What’s Happening?6:00 PM – 7:30 PM | Garba WorkshopNew to Garba or want to brush up on your moves? Join our guided workshop with an instructor who’ll teach you the basics and get you ready for the night.7:30 PM onwards | Bedazzle Your Partner ✨Pick your partner, get creative and add a little sparkle to your Garba night.8:30 PM onwards | Garba Night 🎶The music starts, the energy goes up and we dance our way through the night with festive beats and Garba favourites.🎨 Inclusions• Garba workshop with an instructor• Bedazzling activity for you & your partner• Dandiya sticks• Music & Garba celebration• Curated experience with limited capacity• Plenty of space to actually dance and have fun👯 Who Can Join?• Beginners who want to learn Garba• People who already know their Garba moves• Friends looking for a fun festive night• Couples & partners• Solo attendees looking to meet new people",
@@ -5587,7 +5437,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 92,
+    "remainingAttendeeCapacity": 89,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
