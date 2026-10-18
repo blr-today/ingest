@@ -297,6 +297,40 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Open Inter School Athletic Championship 2026",
+    "image": "https://cdn-az.allevents.in/events8/banners/379e4b4d3b17e6ed7677857528dd791f1e370766e371f83b79ae82683808b41f-rimg-w1200-h447-dcf8f8f8-gmir?v=1791787484",
+    "startDate": "2026-11-15T08:00:00+05:30",
+    "url": "https://allevents.in/bangalore/open-inter-school-athletic-championship-2026/200030824386645",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru,Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Devanhalli",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.160828888889",
+        "longitude": "77.626509305556"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Krida Station proudly presents the Open Inter School Athletic Championship 2026, a state-level athletics championship designed to encourage school students to showcase their athletic talents, improve physical fitness, and experience the spirit of healthy competition.\n\nThe championship features a var",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Playmatches Tournaments",
+        "url": "https://allevents.in/org/playmatches-tournaments/26505923"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The String Puppet Show Live",
     "image": "https://cdn-az.allevents.in/events3/banners/bd9b1652d1c331045dc8453e345e8f495875ab6dcd62441521cbb75018581d3f-rimg-w1200-h675-dc080808-gmir?v=1791822144",
@@ -432,6 +466,80 @@
         "@type": "Organization",
         "name": "Immersive Trails-Global",
         "url": "https://allevents.in/org/immersive-trails-global/21841707"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Andaaz Nights",
+    "image": "https://cdn-az.allevents.in/events4/banners/ce608800-7b57-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dc010101-gmir.jpg?v=1783575248",
+    "startDate": "2026-07-09T20:30:00+05:30",
+    "endDate": "2027-04-01T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Lounge: Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23, 1st Floor, 1st Main Road, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Turn your Thursdays into a celebration at Andaaz Nights.Get ready for a high-energy weekly party at Badmaash Koramangala, where music, mood, and madness come together. Featuring DJ Nithin and DJ Nikz, expect nothing but back-to-back hits and an electric vibe that keeps the dance floor alive all nigh",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "2027-04-01T20:30:00+05:30",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "lowPrice": "100.00",
+        "price": "100.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "price": "100.00",
+        "name": "COUPLE COVER @ 9 30"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "price": "100.00",
+        "name": "STAGS COVER AT VENUE"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "price": "100.00",
+        "name": "LADIES FREE ENTRY"
       }
     ]
   },
@@ -659,110 +767,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "RED VELVET CAKE",
-    "image": "https://cdn-az.allevents.in/events10/banners/6c7c3bf0-7b4f-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dce2a9f0-gmir.jpg?v=1783571648",
-    "startDate": "2026-07-12T14:30:00+05:30",
-    "endDate": "2026-11-29T14:30:00+05:30",
-    "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Red Velvet Cake Making ExperienceHave you ever wondered how it feels to bake your own Red Velvet Cake but never got the chance?If you are looking for a space where you can truly experience making one from scratch, youre at the right spot!At our space, you will do all the preparation yourself - from",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-27",
-        "availabilityEnds": "2026-11-29T14:30:00+05:30",
-        "validFrom": "2026-06-27",
-        "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
-        "lowPrice": "1999.00",
-        "price": "1999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-27",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-27",
-        "url": "https://allevents.in/bangalore/red-velvet-cake/3900030314665208",
-        "price": "1999.00",
-        "name": "TICKET FOR ONE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cross stitch Sling Bag",
-    "image": "https://cdn-az.allevents.in/events4/banners/5b555710-7b47-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dc010103-gmir.jpg?v=1783568183",
-    "startDate": "2026-07-12T11:30:00+05:30",
-    "endDate": "2027-03-28T11:30:00+05:30",
-    "url": "https://allevents.in/bangalore/cross-stitch-sling-bag/3900030322213522",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Make Your Own ClutchAll materials will be provided.Just relax, create, and enjoy the process.Age Group: 16+ yearsDuration: 3.5 Hours(Recommended to comfortably complete the project)Why Us?A calm, creative, and friendly spaceSupportive guidance throughout the sessionGood-quality materials and toolsSm",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-28",
-        "availabilityEnds": "2027-03-28T11:30:00+05:30",
-        "validFrom": "2026-06-28",
-        "url": "https://allevents.in/bangalore/cross-stitch-sling-bag/3900030322213522",
-        "lowPrice": "1999.00",
-        "price": "1999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-28",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-28",
-        "url": "https://allevents.in/bangalore/cross-stitch-sling-bag/3900030322213522",
-        "price": "1999.00",
-        "name": "TICKET FOR ONE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Decorate Cup Cakes",
     "image": "https://cdn-az.allevents.in/events8/banners/324da7c0-7b31-11f1-b18e-dfc0ec596bf4-rimg-w1200-h600-dcfefefe-gmir.jpg?v=1783558665",
     "startDate": "2026-07-05T17:30:00+05:30",
@@ -815,58 +819,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "DreamCatcher",
-    "image": "https://cdn-az.allevents.in/events4/banners/6641cc20-7b34-11f1-878a-71a1982e9830-rimg-w1200-h600-dcd6d9d4-gmir.jpg?v=1783560041",
-    "startDate": "2026-07-12T14:30:00+05:30",
-    "endDate": "2026-12-06T14:30:00+05:30",
-    "url": "https://allevents.in/bangalore/dreamcatcher/3900030323557625",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9135481",
-        "longitude": "77.605535"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Why buy a dream catcher when you can create your ownCome to our space and design a dream catcher that reflects your colors your style and your creativity Whether you wish to decorate your home with something meaningful or gift a handmade piece to someone special the joy of creating it with your own",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-28",
-        "availabilityEnds": "2026-12-06T14:30:00+05:30",
-        "validFrom": "2026-06-28",
-        "url": "https://allevents.in/bangalore/dreamcatcher/3900030323557625",
-        "lowPrice": "1499.00",
-        "price": "1499.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-28",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-28",
-        "url": "https://allevents.in/bangalore/dreamcatcher/3900030323557625",
-        "price": "1499.00",
-        "name": "TICKET FOR ONE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Biscoff Biscuit Making",
     "image": "https://cdn-az.allevents.in/events7/banners/fc2fe1d0-c9eb-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc080838-gmir.jpg?v=1792215081",
     "startDate": "2026-10-18T17:00:00+05:30",
@@ -907,7 +859,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Dhvani Bhanushali Live In Bengaluru",
-    "image": "https://cdn-az.allevents.in/events4/banners/7cfd4c00-ca08-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc181818-gmir.jpg?v=1792227323",
+    "image": "https://cdn-az.allevents.in/events6/banners/409cb230-cad2-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc181818-gmir.jpg?v=1792313980",
     "startDate": "2026-11-07T19:00:00+05:30",
     "endDate": "2026-11-07T21:30:00+05:30",
     "url": "https://allevents.in/bangalore/dhvani-bhanushali-live-in-bengaluru/3900030555036325",
@@ -1102,7 +1054,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Horror Circus",
-    "image": "https://cdn-az.allevents.in/events9/banners/ba4b35b0-c7c2-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dc080808-gmir.jpg?v=1791977458",
+    "image": "https://cdn-az.allevents.in/events9/banners/1f730a30-cacf-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792312636",
     "startDate": "2026-10-30T19:30:00+05:30",
     "endDate": "2026-10-31T01:30:00+05:30",
     "url": "https://allevents.in/bangalore/horror-circus/3900030705395915",
@@ -1178,45 +1130,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Couple Art Workshop - Bangalore",
-    "image": "https://cdn-az.allevents.in/events5/banners/e19f7420-c621-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dcd8d8d8-gmir.jpg?v=1791798429",
-    "startDate": "2026-10-18T14:00:00+05:30",
-    "endDate": "2026-10-18T15:30:00+05:30",
-    "url": "https://allevents.in/bangalore/couple-art-workshop-bangalore/3900030726127729",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Indiranagar Social: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "37, 80 Feet Road, Hal, HAL 3rd Stage, Stage 3, New Tippasandra, Bengaluru, Karnataka 560075, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9707",
-        "longitude": "77.6476"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Couple Art Workshop  Create Together, Bond Forever!Unleash your creativity together at the Couple Art Workshop! Whether you re with your partner or a close friend, this experience is all about bonding over colors, laughter, and shared memories. No art skills requiredjust bring your enthusiasm!Enjoy",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-22",
-        "availabilityEnds": "2026-10-18T15:30:00+05:30",
-        "validFrom": "2026-09-22",
-        "url": "https://allevents.in/bangalore/couple-art-workshop-bangalore/3900030726127729"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "The Book of Queens",
     "image": "https://cdn-az.allevents.in/events5/banners/e7727210-c9ca-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792200872",
@@ -1251,45 +1164,6 @@
         "availabilityEnds": "2026-10-31T20:30:00+05:30",
         "validFrom": "2026-09-23",
         "url": "https://allevents.in/bangalore/the-book-of-queens/3900030727751655"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Hidden Framework",
-    "image": "https://cdn-az.allevents.in/events3/banners/5b2f65b0-bf39-11f1-8a18-b3e52d4bf2d6-rimg-w1200-h600-dc482808-gmir.jpg?v=1791038848",
-    "startDate": "2026-10-18T15:45:00+05:30",
-    "endDate": "2026-10-18T17:45:00+05:30",
-    "url": "https://allevents.in/bangalore/the-hidden-framework/3900030734882107",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "CA Site, No. 7, 4th Main Road, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9668",
-        "longitude": "77.6355"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "The Hidden Framework is a 2 hour+ immersive workshop exploring the invisible conditioning that shapes your identity, behaviour and life choices. From caregivers and schooling to social structures and cultural expectations, we inherit belief systems long before we realise it. This session unpacks how",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T17:45:00+05:30",
-        "validFrom": "2026-09-25",
-        "url": "https://allevents.in/bangalore/the-hidden-framework/3900030734882107"
       }
     ]
   },
@@ -1607,6 +1481,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Tu Jhoom",
+    "image": "https://cdn-az.allevents.in/events1/banners/36c3b060-c53c-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1791699783",
+    "startDate": "2026-10-24T18:00:00+05:30",
+    "endDate": "2026-10-24T21:00:00+05:30",
+    "url": "https://allevents.in/bangalore/tu-jhoom/3900030820116903",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "SAIACS CEO Centre Auditorium: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Box 7747, Gubbi Cross Road, Kothanur, Bengaluru, Karnataka 560077, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0631",
+        "longitude": "77.6549"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Intimate and curated musical evening by artists from all over India to celebrate Sufi music and ghazals. Let Dr. Wamiq Saifi take you through the dreamy musical journey with  Namratha Othayoth as the lead singer.Namratha has performed in over 260 shows globally.Ajmal Raheem creates magic with finger",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-11",
+        "availabilityEnds": "2026-10-24T21:00:00+05:30",
+        "validFrom": "2026-10-11",
+        "url": "https://allevents.in/bangalore/tu-jhoom/3900030820116903"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "THE FRIDAY NIGHT FEVER PARTY HUNGRY HIPPIE",
     "image": "https://cdn-az.allevents.in/events10/banners/f4e05c40-ca43-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792252864",
@@ -1686,78 +1599,78 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clay POP House",
-    "image": "https://cdn-az.allevents.in/events9/banners/2552cd00-c9d0-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc786848-gmir.jpg?v=1792203154",
-    "startDate": "2026-10-18T15:00:00+05:30",
-    "endDate": "2026-10-18T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-pop-house/3900030830605011",
+    "name": "Lasya Ft. Anika Kulkarni and Nireeksha G",
+    "image": "https://cdn-az.allevents.in/events5/banners/0a167d10-c7b5-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791971579",
+    "startDate": "2026-10-23T19:30:00+05:30",
+    "endDate": "2026-10-23T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Starbucks, HSR Layout: Bangalore",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Ground Floor, Prakash Arcade 17th Cross, 24th Main Road, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "streetAddress": "4th Floor, Rear Wing, Brahmananda Court, 37 Lal Bagh Road, Bengaluru, Karnataka 560027, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9122",
-        "longitude": "77.6508"
+        "latitude": "12.9596",
+        "longitude": "77.5874"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Clay Pop House WorkshopBuild your own charming miniature clay house in this fun and beginner friendly workshop. Learn how to shape, assemble, and decorate a cute clay house using simple hand building techniques while adding your own creative details and colorful finishing touches.With step by step g",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-18T16:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/clay-pop-house/3900030830605011"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Wax Wizards",
-    "image": "https://cdn-az.allevents.in/events9/banners/e2ee1070-c81f-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1792017488",
-    "startDate": "2026-10-18T15:00:00+05:30",
-    "endDate": "2026-10-18T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/wax-wizards/3900030835839809",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Starbucks, HSR Layout: Bangalore",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Ground Floor, Prakash Arcade 17th Cross, 24th Main Road, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9122",
-        "longitude": "77.6508"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Wax Wizards Candle Making WorkshopDiscover the art of candle making in this fun and beginner friendly workshop. Learn how to create beautiful scented candles from scratch while exploring the basics of wax melting, fragrance blending, wicking, coloring, and decorative finishing.With step by step guid",
+    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Anika Kulkarni and Nireeksha G Rao",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-18T16:30:00+05:30",
+        "availabilityEnds": "2026-10-23T20:30:00+05:30",
         "validFrom": "2026-10-14",
-        "url": "https://allevents.in/bangalore/wax-wizards/3900030835839809"
+        "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "And Who Would You Like Beside You?",
+    "image": "https://cdn-az.allevents.in/events2/banners/506c6550-c886-11f1-97b9-af1d5dee0e36-rimg-w1200-h600-dcf8d818-gmir.jpg?v=1792061462",
+    "startDate": "2026-11-01T16:00:00+05:30",
+    "endDate": "2026-11-01T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/and-who-would-you-like-beside-you/3900030838000003",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The School of You: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "9th B Main Road, LIC Colony, Sector 11, Jeevan Bima Nagar, HAL 3rd Stage, Bengaluru, Karnataka 560075, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9684",
+        "longitude": "77.6535"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "This is a brief workshop and networking evening for helping professionals based on stories from the 'And How do You Feel About That?' written by Aruna Gopakumar and Yashodhara Lal. And How Do You Feel About That? brings together fifty stories based on real clinical work. It was written to demystify",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "2026-11-01T18:30:00+05:30",
+        "validFrom": "2026-10-15",
+        "url": "https://allevents.in/bangalore/and-who-would-you-like-beside-you/3900030838000003"
       }
     ]
   },
@@ -1797,6 +1710,45 @@
         "availabilityEnds": "2026-10-24T16:00:00+05:30",
         "validFrom": "2026-10-15",
         "url": "https://allevents.in/bangalore/blindfold-drawing-challenge/3900030839827716"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Neram Tote Bag Painting",
+    "image": "https://cdn-az.allevents.in/events8/banners/3c4979e0-c8ff-11f1-849d-d196120da468-rimg-w1200-h600-dc483828-gmir.jpg?v=1792113397",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/neram-tote-bag-painting/3900030840394338",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9787",
+        "longitude": "77.6455"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Take a break from the usual and join Neram for a relaxing Tote Bag Painting experience filled with creativity and colours. This beginner friendly workshop invites you to paint and personalise your own tote bag in a warm and welcoming atmosphere.Explore colours patterns floral designs and creative id",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-16",
+        "availabilityEnds": "2026-10-24T16:00:00+05:30",
+        "validFrom": "2026-10-16",
+        "url": "https://allevents.in/bangalore/neram-tote-bag-painting/3900030840394338"
       }
     ]
   },
@@ -1992,45 +1944,6 @@
         "availabilityEnds": "2026-10-31T13:30:00+05:30",
         "validFrom": "2026-10-17",
         "url": "https://allevents.in/bangalore/halloween-pumpkin-magnet-making-workshop/3900030847516857"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Date Night Painting Party",
-    "image": "https://cdn-az.allevents.in/events3/banners/b81937b0-ca79-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc98c8c8-gmir.jpg?v=1792275963",
-    "startDate": "2026-10-18T13:04:00+05:30",
-    "endDate": "2026-10-18T15:04:00+05:30",
-    "url": "https://allevents.in/bangalore/date-night-painting-party/3900030848127803",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Koramangala: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9341",
-        "longitude": "77.6303"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Join us for a Date Night Painting Party, a fun-filled evening of art, laughter, and romance! Dive into a vibrant world of colors with your special someone as you paint your hearts out in this magical experience. No prior painting skills are needed; just an open mind and a desire to create something",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-17",
-        "availabilityEnds": "2026-10-18T15:04:00+05:30",
-        "validFrom": "2026-10-17",
-        "url": "https://allevents.in/bangalore/date-night-painting-party/3900030848127803"
       }
     ]
   },
@@ -2769,34 +2682,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Koramangala Biggest Garba &amp; Dandiya Night 2026",
-    "image": "https://cdn-az.allevents.in/events9/banners/d02bfe50-c7b8-11f1-ac75-15a87e2724d8-rimg-w900-h1200-dc280818-gmir.jpg?v=1791973202",
-    "startDate": "2026-10-16T18:00:00+05:30",
-    "endDate": "2026-10-20T23:59:00+05:30",
-    "url": "https://allevents.in/bangalore/koramangala-biggest-garba-and-dandiya-night-2026/4100030834190401",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Skygarden Bar & Kitchen koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Skygarden Bar &amp; Kitchen koramangala, Bengaluru",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9336793",
-        "longitude": "77.622162"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the festive madness with Bengaluru most-awaited Garba & Dandiya celebration.This Navratri, get ready for an unforgettable night filled with Gujarati vibes, high-energy Dandiya beats, dazzling lights and non-stop entertainment.WHATS WAITING FOR YOU?- Celebrity DJs & Live Dandiya Beats.- Non"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Startup Founders Meetup by CEDAT",
     "image": "https://cdn2.allevents.in/thumbs/thumb6ac095f4b70d1.jpg",
@@ -3014,67 +2899,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Founder Pitches by CEDAT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6aae2f94deef3.jpg",
-    "startDate": "2026-10-23T18:00:00+05:30",
-    "endDate": "2026-10-23T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80001191099830",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Samagata Foundation",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "postalCode": "560001",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9756186",
-        "longitude": "77.60275589999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Building a startup? Or already scaling one?Join us for Founder Pitches — a relaxed yet impactful event where founders take the stage to share their ideas, products and journeys.This event is all about real pitches, real feedback and real connections.Founders will present their startups in a supporti",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-15",
-        "availabilityEnds": "2026-10-23T19:00:00+05:30",
-        "validFrom": "2026-09-15",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80001191099830"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-15",
-        "availabilityEnds": "2026-10-23T19:00:00+05:30",
-        "validFrom": "2026-09-15",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80001191099830",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT ",
-        "url": "https://allevents.in/org/cedat/25336161"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bengaluru Corporate Wellness Run 2026",
     "image": "https://cdn2.allevents.in/thumbs/thumb6a59f8cd23103.jpg",
     "startDate": "2026-11-15T05:00:00+05:30",
@@ -3286,49 +3110,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Machan at Taj West End presents An Ode to Bengal",
-    "url": "https://all.events/go/80001368429075",
-    "description": "Hope you’re well and all set for the festive season. This one is for every Bengalis in Bengaluru. Durga Puja is more than a festival, it is the aroma of kosha mangsho wafting through the house, th",
-    "image": [
-      "https://cdn2.allevents.in/thumbs/thumb6ad0af0e00784.jpg"
-    ],
-    "startDate": "2026-10-18T00:00:00.000Z",
-    "endDate": "2026-10-18T12:30:00.000Z",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Taj West End, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "41, Race Course Rd, near Indian Foundation, High Grounds, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9845461,
-        "longitude": 77.5845824
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "S Sudiksha",
-      "url": "https://allevents.in/org/s-sudiksha/28239393"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "5000",
-      "priceCurrency": "INR",
-      "url": "https://all.events/go/80001368429075",
-      "availability": "https://schema.org/InStock",
-      "validFrom": "2026-10-18T00:00:00.000Z"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Resin art Ocean Theme",
     "image": "https://cdn2.allevents.in/thumbs/thumb6acf819dbedb1.jpg",
     "startDate": "2026-11-15T12:30:00+05:30",
@@ -3389,251 +3170,47 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
+    "@type": "Event",
     "name": "NAVARATRI DANDIYA DHAMAKA 2026",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ab60eddc3c0b.jpg",
-    "startDate": "2026-10-17T16:00:00+05:30",
-    "endDate": "2026-10-18T16:00:00+05:30",
-    "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
+    "url": "https://all.events/go/80001625821918",
+    "description": "Get ready, Bengaluru, for two spectacular evenings of colour, music, dance and celebration at Navaratri Dandiya Dhamaka 2026! Celebrate the festive spirit of Navaratri with energetic Dandiya & Garba,",
+    "image": [
+      "https://cdn2.allevents.in/thumbs/thumb6ab60eddc3c0b.jpg"
+    ],
+    "startDate": "2026-10-17T16:00:00.000Z",
+    "endDate": "2026-10-18T16:00:00.000Z",
     "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
       "@type": "Place",
       "name": "Nandi Link Grounds",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Pantarapalya, Nayanda Halli, Bengaluru, Karnataka 560026, India",
-        "postalCode": "560026",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
-        "addressCountry": "IN"
+        "addressCountry": "India"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9411705",
-        "longitude": "77.5312971"
+        "latitude": 12.9411705,
+        "longitude": 77.5312971
       }
     },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready, Bengaluru, for two spectacular evenings of colour, music, dance and celebration at Navaratri Dandiya Dhamaka 2026!Celebrate the festive spirit of Navaratri with energetic Dandiya & Garba, electrifying DJ music, colourful cultural performances, delicious food and an exciting shopping exper",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "lowPrice": "99.00",
-        "highPrice": "3099.00",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Kids Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Kids Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-30",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-30",
-        "price": "99.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Kids Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "399.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Single Entry"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "399.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Single Entry"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-30",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-30",
-        "price": "399.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Single Entry"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Couple Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Couple Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-30",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-30",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Couple Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "3099.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Group of 10"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-25",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-25",
-        "price": "3099.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Group of 10"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-09-30",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-09-30",
-        "price": "3099.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Group of 10"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-11",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-10-11",
-        "price": "1299.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "EB Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-11",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-10-11",
-        "price": "1299.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "EB Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-11",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-10-11",
-        "price": "1299.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "EB Group of 4"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-11",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-10-11",
-        "price": "1899.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "EB Group of 6"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-11",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-10-11",
-        "price": "1899.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "EB Group of 6"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-11",
-        "availabilityEnds": "2026-10-18T16:00:00+05:30",
-        "validFrom": "2026-10-11",
-        "price": "1899.00",
-        "url": "https://allevents.in/bangalore/navaratri-dandiya-dhamaka-2026-tickets/80001625821918",
-        "availability": "https://schema.org/InStock",
-        "name": "EB Group of 6"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "PRAGATHI MEDIA EVENTS",
-        "url": "https://allevents.in/org/pragathi-media-events/28176790"
-      }
-    ]
+    "organizer": {
+      "@type": "Organization",
+      "name": "PRAGATHI MEDIA EVENTS",
+      "url": "https://allevents.in/org/pragathi-media-events/28176790"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": 99,
+      "highPrice": 3099,
+      "priceCurrency": "INR",
+      "url": "https://all.events/go/80001625821918",
+      "availability": "https://schema.org/InStock",
+      "validFrom": "2026-10-17T16:00:00.000Z"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -4308,6 +3885,67 @@
       "availability": "https://schema.org/InStock",
       "validFrom": "2026-10-17T17:00:00.000Z"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Glass Painting on bottles",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6aca214a15201.jpg",
+    "startDate": "2026-10-25T12:30:00+05:30",
+    "endDate": "2026-10-25T14:30:00+05:30",
+    "url": "https://allevents.in/bangalore/glass-painting-on-bottles-tickets/80003255730094",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Starbucks, Hyderabad - Bengaluru Highway, Devanahalli, Kurubarakunte, Karnataka, India",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gr Floor, Empire Building, No 2, NH 44 Tadipatri, Hyderabad - Bengaluru Hwy, Kurubarakunte, Karnataka 562110",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.971598625183105",
+        "longitude": "77.59456634521484"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Upcycle & Create Your Own Bottle ArtJoin us for a fun Glass painting workshop where you will create and take home beautifully outlined and painted bottles.A complete stress-buster DIY activity that promises relaxation & creativity.A perfect way to unwind, paint and carry back your own masterpieceAll",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-10",
+        "availabilityEnds": "2026-10-25T14:30:00+05:30",
+        "validFrom": "2026-10-10",
+        "lowPrice": "1350.00",
+        "highPrice": "1350.00",
+        "price": "1350.00",
+        "url": "https://allevents.in/bangalore/glass-painting-on-bottles-tickets/80003255730094"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-10",
+        "availabilityEnds": "2026-10-25T14:30:00+05:30",
+        "validFrom": "2026-10-10",
+        "price": "1350.00",
+        "url": "https://allevents.in/bangalore/glass-painting-on-bottles-tickets/80003255730094",
+        "availability": "https://schema.org/InStock",
+        "name": "Standard Entry with cover charges"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "POSH Creative Studio",
+        "url": "https://allevents.in/org/posh-creative-studio/4695155",
+        "description": "Upcycle, Decoupage home decor, customised and personalised products.\r\nDecoupage workshops,Resin Art Workshops and we also organise customised corporate workshops."
+      }
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -5257,6 +4895,67 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The HSR Boardgame Social",
+    "image": "https://cdn-az.allevents.in/events2/banners/a4a1bd48c12beebc43d1c8ee8fe75a52a50b62872dd5899926d15c6c3631b39e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1786085337",
+    "startDate": "2026-08-14T19:30:00+05:30",
+    "endDate": "2026-10-23T20:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/the-hsr-boardgame-social/100001996773330784",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Big bean cafe",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "19th Main Road",
+        "postalCode": "560102",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9181403",
+        "longitude": "77.64505439999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Join in the action.Bond over Boardgames.\nThere are dedicated game masters to help everyone find a suitable game, form groups and teach rules",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-07",
+        "availabilityEnds": "2026-10-23T20:00:00+05:30",
+        "validFrom": "2026-08-07",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/the-hsr-boardgame-social/100001996773330784"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-07",
+        "availabilityEnds": "",
+        "validFrom": "2026-08-07",
+        "url": "https://allevents.in/bengaluru/the-hsr-boardgame-social/100001996773330784",
+        "price": 0,
+        "name": "On-the-spot Payment"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "HSR meetups",
+        "url": "https://allevents.in/org/hsr-meetups/25535050"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "City to Summit - Shivagange Trek - November",
     "image": "https://cdn-az.allevents.in/events1/banners/fa5c06b11bf776210bdcbfd8b0c2b6049bf7a671ad072a35d1a8d7e6cd19e944-rimg-w1200-h600-dc081828-gmir.jpg?v=1786636043",
     "startDate": "2026-11-01T05:00:00+05:30",
@@ -5696,6 +5395,68 @@
         "name": "Kartnivalz",
         "url": "https://allevents.in/org/kartnivalz/28149770",
         "description": "Kartnivalzis India's first 3-level electric go-kart entertainment zone, located in Bettahalasuru, North Bengaluru. Along with multi-level go-karting, the venue features ATV rides, bowling, arcade games, and a food court — built as a destination for karting enthusiasts, families, birthday parties, and corporate events alike. Kartnivalz opens to the public on October 12, 2026."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Founder Pitches by CEDAT",
+    "image": "https://cdn-az.allevents.in/events4/banners/f07d98dc123a43955dd28c1fb8da277f9edae8ef50c2155a83406ad27836b2d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1790348484",
+    "startDate": "2026-10-23T18:00:00+05:30",
+    "endDate": "2026-10-23T20:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/founder-pitches-by-cedat/100002001040748746",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Samagata Foundation",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Church Street",
+        "postalCode": "560001",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9756186",
+        "longitude": "77.60275589999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "An event showcasing innovative startups presenting their ideas in short pitches.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-25",
+        "availabilityEnds": "2026-10-23T20:00:00+05:30",
+        "validFrom": "2026-09-25",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/founder-pitches-by-cedat/100002001040748746"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-25",
+        "availabilityEnds": "",
+        "validFrom": "2026-09-25",
+        "url": "https://allevents.in/bengaluru/founder-pitches-by-cedat/100002001040748746",
+        "price": 0,
+        "name": "Founder Pitches by CEDAT"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
       }
     ]
   },
