@@ -1,29 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Unfolding Through Folding",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
-    },
-    "startDate": "2026-10-18T14:00:00+05:30",
-    "endDate": "2026-10-18T16:00:00+05:30",
-    "description": "What can a sheet of paper teach us about the weirdness of the quantum world?\n\n*Unfolding Through Folding* brings origami and quantum mechanics together in an unexpected, hands-on experience. Follow the folds, challenge your intuition, and discover how ideas that seem worlds apart can begin to make sense through something as simple as paper. The experience offers an intuitive, playful introduction to the Copenhagen interpretation of quantum mechanics.\n\nThe session will also feature a “cat in a box” origami model, specifically designed for the programme.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=unfolding-through-folding",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FIMG_3160%20Large.jpg-1791025525809?alt=media&token=8e8f5ed2-f2a9-4ef0-86ab-aafaf1be7230",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Rajath J"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "The Bengaluru Uncertainty Principle",
     "location": {
       "@type": "Place",
@@ -54,6 +31,29 @@
     ]
   },
   {
+    "@type": "EducationEvent",
+    "name": "RECYCLERS: Urban Animation",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-10-21T15:00:00+05:30",
+    "endDate": "2026-10-21T18:00:00+05:30",
+    "description": "What happens when a wilted vegetable, a fallen leaf, or a forgotten spoon becomes a character?\n\nIn this hands-on stop-motion workshop, we’ll turn found objects and organic waste into curious characters, strange creatures and animated stories. Using vegetables, plants, leaves, stones and everyday food-related objects, join Nikki Schuster in bringing together a  stop-motion animation—turning the inanimate to life, one frame at a time.\n\nPlease bring organic waste or any food-related items you might wish to include in your character.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=recyclers-urban-animation",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "12",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FStill2%20Medium.jpeg-1791109571458?alt=media&token=0b63885d-3530-4604-a763-f8aa3c220db5",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Nikki Schuster"
+      }
+    ]
+  },
+  {
     "@type": "Event",
     "name": "Animated Realities: Experimental Animation and Documentary Filmmaking",
     "location": {
@@ -73,51 +73,6 @@
       {
         "@type": "Person",
         "name": "Nikki Schuster"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "A Glimpse Into the Quantum World",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
-    },
-    "startDate": "2026-10-18T11:00:00+05:30",
-    "endDate": "2026-10-18T13:00:00+05:30",
-    "description": "How did the quantum world change our understanding of reality and lead to quantum computing?\n\nThe talk will begin with the \"First Quantum Revolution\" at the dawn of the 20th century, marking the birth of quantum mechanics and a profound departure from classical reality. Key counterintuitive concepts—superposition, measurement, and entanglement—will be introduced, alongside Einstein's foundational critique (the EPR paradox), Bell's inequalities, experimental Bell violations, and the 2022 Nobel Prize in Physics. The discussion will also examine the revolutionary technologies enabled by quantum theory, including semiconductors, lasers, and superconductors. Finally, the talk explores the latest quantum revolution born from merging quantum physics with information theory, highlighting ongoing breakthroughs in quantum computing, quantum communication, and quantum metrology.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=a-glimpse-into-the-quantum-world",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "80",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FQuantum_foam%20Large.jpg-1791708650101?alt=media&token=1962efbd-2d09-4030-8d7f-45a4e19e0ffa",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Arvind"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
-    "startDate": "2026-10-18T16:30:00+05:30",
-    "endDate": "2026-10-18T18:00:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join Aditi from the Learning Team as she traces the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en16",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Aditi Rajesh Narayanan"
       }
     ]
   },
