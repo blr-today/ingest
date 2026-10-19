@@ -193,6 +193,14 @@ def jev_type(answers):
     return kind if kind in TYPES and confidence >= TYPE_CONFIDENCE else None
 
 
+def event_tags(event, answers):
+    tags = with_parents(by_rules(event) | jev_tags(answers))
+    # BookMyShow lists hosted games as plays, which fools the theatre question
+    if "BOARDGAMES" in tags:
+        tags.discard("THEATER")
+    return tags | {DEMOTE[t] for t in tags if t in DEMOTE}
+
+
 def main():
     conn = sqlite3.connect("events.db")
     rows = conn.execute("SELECT rowid, url, event_json FROM events").fetchall()
@@ -211,8 +219,7 @@ def main():
             if retype:
                 event["@type"] = kind
                 typed += 1
-            tags = with_parents(by_rules(event) | jev_tags(answers))
-            tags |= {DEMOTE[t] for t in tags if t in DEMOTE}
+            tags = event_tags(event, answers)
             new = sorted(tags - set(keywords(event)))
             if new:
                 event["keywords"] = keywords(event) + new

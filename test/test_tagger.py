@@ -8,7 +8,17 @@ from typesafe_sdk import TypeSafeError
 
 from src import tagger
 from src.common.activities import TAGS, THRESHOLDS, VERSION, with_parents
-from src.tagger import RULES, ask, by_jev, by_rules, jev_tags, jev_type, keywords, state
+from src.tagger import (
+    RULES,
+    ask,
+    by_jev,
+    by_rules,
+    event_tags,
+    jev_tags,
+    jev_type,
+    keywords,
+    state,
+)
 
 ROWS = json.loads((Path(__file__).parent / "fixtures/tagger/events.json").read_text())
 # Canned Jev replies by event name; a missing name fails the call
@@ -61,6 +71,12 @@ def test_near_misses():
 def test_stage_and_books():
     assert "THEATER" in tags("13 Day Hybrid Acting Intensive")
     assert "BOOK-CLUB" in tags("The Quiet Library: Read Together")
+
+
+def test_games_are_not_theatre():
+    botc = {"@type": "TheaterEvent", "name": "Blood on the Clocktower"}
+    assert event_tags(botc, {"THEATER": 0.9}) == {"BOARDGAMES", "SOCIAL-DEDUCTION"}
+    assert event_tags({"name": "Hamlet"}, {"THEATER": 0.9}) == {"THEATER"}
 
 
 def test_audience():
