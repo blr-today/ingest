@@ -5,7 +5,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 from urllib.parse import unquote, urlparse
 
-from src.common.activities import EXCLUDE
+from src.common.activities import EXCLUDE, TAGS
 from src.processors.cost import TAGS as COST_TAGS, Cost, price
 
 # Mirrors calendar types: venues/organisers win, then aggregators, then curators
@@ -104,6 +104,12 @@ def hidden(event):
     return bool(EXCLUDE & set(k.split(",") if isinstance(k, str) else k))
 
 
+def activities(event):
+    k = event.get("keywords", [])
+    tags = set(k.split(",") if isinstance(k, str) else k)
+    return {t for t in tags if t in TAGS and TAGS[t][0] is None}
+
+
 def same_session(a, b):
     if hidden(a) != hidden(b):
         return False
@@ -113,6 +119,10 @@ def same_session(a, b):
     if domain(a.get("url", "")) not in AGGREGATORS:
         return False
     if domain(a.get("url", "")) != domain(b.get("url", "")):
+        return False
+    # A venue's painting class and its dance class are not one session
+    x, y = activities(a), activities(b)
+    if x and y and not x & y:
         return False
     organizer = text_of(a, "organizer")
     return bool(organizer) and organizer == text_of(b, "organizer") and same_place(a, b)

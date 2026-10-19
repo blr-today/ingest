@@ -188,6 +188,18 @@ def test_hidden_and_geo():
     assert geo({"location": "Koota"}) is None
 
 
+def test_session_needs_a_shared_activity():
+    venue = ("Bloom Creative Zone - Haralur", 12.9034889, 77.6621356)
+    paint = listing(
+        "Acrylic Painting Workshop", *venue, ["ART-CRAFT", "PAINTING-SKETCHING"]
+    )
+    clay = listing("Clay Crafting Workshop", *venue, ["ART-CRAFT", "POTTERY"])
+    dance = listing("Semi Classical Dance Workshop", *venue, ["DANCE-CLASS"])
+    assert same_session(paint, clay)
+    assert not same_session(paint, dance)
+    assert same_session(paint, listing("Mystery Workshop", *venue))
+
+
 def test_session_needs_an_aggregator_and_organizer():
     a = listing("Sip and Clay", "URU - JP Nagar", 12.9, 77.6)
     b = listing("Sip and Paint", "URU - JP Nagar", 12.9, 77.6)
