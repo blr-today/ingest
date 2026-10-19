@@ -1971,6 +1971,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bolly Casa By Boom Parties",
+    "description": "HighlightsExclusive limited-entry poolside party at Spot 360Featuring DJ GEE from MumbaiHigh-energy Bolly-Casa beats and dance-floor favouritesOpen-air poolside",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/15/b15a6c3216a854600fc00584aaf81894.jpg"
+    ],
+    "startDate": "2026-10-24T20:00:00+05:30",
+    "endDate": "2026-10-25T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Spot 360, DoubleTree Suites by Hilton",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Marathahalli - Sarjapur Rd, Amblipura, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91876,
+        "longitude": 77.665078
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BOOM PARTIES",
+      "url": "https://www.highape.com/bangalore/organisers/boom-parties-f016f25df0"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/bolly-casa-by-boom-parties-z7pdxaskdu",
+      "validFrom": "2026-10-18T15:56:08.330Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "BOOM PARTIES",
+        "url": "https://www.highape.com/bangalore/organisers/boom-parties-f016f25df0"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/bolly-casa-by-boom-parties-z7pdxaskdu"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "BollyHolly Night",
     "description": "Highlights Live DJ performance by DJ Abhishek SinghBollywood chartbusters and commercial party hitsNonstop dance floor entertainmentHigh-energy music and vibran",
     "image": [
@@ -2017,6 +2066,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/bollyholly-night-392dsn05d8"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BollyTech Wednesday | Toca Brigade",
+    "description": "HighlightsBollyTech fusion night at Toca BrigadeBollywood melodies blended with high-energy Tech beatsResident DJ Firex on the decksBollytech Wednesday at Toca ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/e09f0076cbcb405c203b67ca2b10ea01.jpg"
+    ],
+    "startDate": "2026-10-21T20:00:00+05:30",
+    "endDate": "2026-10-22T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Brigade",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974096,
+        "longitude": 77.607694
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca Brigade",
+      "url": "https://www.highape.com/bangalore/organisers/toca-brigade-f1ababf130"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/bollytech-wednesday-toca-brigade-40fx5j507m",
+      "validFrom": "2026-10-19T13:26:32.472Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Firex",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/bollytech-wednesday-toca-brigade-40fx5j507m"
   },
   {
     "@context": "https://schema.org",
@@ -2174,7 +2273,7 @@
     "name": "Bollywood Ladies Night ft DJ Mark",
     "description": "HighlightsBollywood Ladies Night with high-energy desi vibesDJ Mark spinning Bollywood hits and party anthemsGlam crowd with TOCA’s signature party ambiencePrem",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/29/83dfa58fc9cbaf317b1b8faff01c271e.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/12bf0d11c5dbde08e3e260c2e12cfe04.jpg"
     ],
     "startDate": "2026-10-22T20:00:00+05:30",
     "endDate": "2026-10-23T01:00:00+05:30",
@@ -2205,8 +2304,8 @@
       "price": "0",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-ft-dj-mark-z42gct01ah",
-      "validFrom": "2026-10-18T14:09:09.294Z"
+      "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-ft-dj-mark-6u4ehay28z",
+      "validFrom": "2026-10-19T13:26:33.653Z"
     },
     "performer": [
       {
@@ -2222,7 +2321,7 @@
         "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
       }
     ],
-    "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-ft-dj-mark-z42gct01ah"
+    "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-ft-dj-mark-6u4ehay28z"
   },
   {
     "@context": "https://schema.org",
@@ -2421,6 +2520,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/brew-reignited-2ko1qaxtmv"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cacao Ceremony - A Wellness Event",
+    "description": "HighlightsA two-hour guided inner-self exploration by KoiAmorIntimate candlelit circle limited to 10 participantsCeremonial cacao and personal intention setting",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/85f47555c30ab8496e4a946fd9a905ce.jpg"
+    ],
+    "startDate": "2026-10-24T17:00:00+05:30",
+    "endDate": "2026-10-24T19:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Offstage - Grounds For Practice",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Floor, 415/2/1, 4th Cross Rd, NGO Colony, Wilson Garden, Bengaluru, Karnataka 560027, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.951584,
+        "longitude": 77.595497
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KoiAmor",
+      "url": "https://www.highape.com/bangalore/organisers/koiamor-c58wt"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1299",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/cacao-ceremony-a-wellness-event-hslagsqh7u",
+      "validFrom": "2026-10-19T13:25:47.181Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "KoiAmor",
+        "url": "https://www.highape.com/bangalore/organisers/koiamor-c58wt"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/cacao-ceremony-a-wellness-event-hslagsqh7u"
   },
   {
     "@context": "https://schema.org",
@@ -2925,6 +3073,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "City Showdown Ft Daaku Duo",
+    "description": "HighlightsLive performance by Daaku DuoHigh-energy desi beats and party anthemsExplosive drops and infectious rhythmsNonstop dancefloor energySignature swagger ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/08/31/83dcc2981d7f324c7d460f36ad9d149f.jpg"
+    ],
+    "startDate": "2026-10-23T20:00:00+05:30",
+    "endDate": "2026-10-24T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Magique",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.937676,
+        "longitude": 77.626986
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RichBoyz",
+      "url": "https://www.highape.com/bangalore/organisers/richboyz"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/city-showdown-ft-daaku-duo-e7v496wzy5",
+      "validFrom": "2026-10-19T12:33:52.789Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Daaku Duo",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/07/03/76a2de8d59181b65396259d42b2110bc.jpg",
+        "url": "https://www.highape.com/bangalore/artists/daaku-duo-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/city-showdown-ft-daaku-duo-e7v496wzy5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Clay Trinket Tray Workshop | Milaap ",
     "description": "HighlightsHands-on clay trinket making workshopLearn basic clay modeling and shaping techniquesExplore detailing and texturing for miniature creationsGuided ste",
     "image": [
@@ -3166,6 +3364,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/coil-pottery-milaap-1jph1nd4jv"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Commercial Bollywood | Toca Brigade ",
+    "description": "HighlightsDJ Night ft DJ FirexNon-Stop MusicBollywood NightDance FloorMouth-watering AppetizersCocktails and MocktailKickstart your week with unbeatable desi vi",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/496c6d52fe27cdfdffe132f238b2e3d3.jpg"
+    ],
+    "startDate": "2026-10-19T20:00:00+05:30",
+    "endDate": "2026-10-20T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Brigade",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974096,
+        "longitude": 77.607694
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca Brigade",
+      "url": "https://www.highape.com/bangalore/organisers/toca-brigade-f1ababf130"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/commercial-bollywood-toca-brigade-je056aoayu",
+      "validFrom": "2026-10-19T12:55:11.438Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Firex",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/commercial-bollywood-toca-brigade-je056aoayu"
   },
   {
     "@context": "https://schema.org",
@@ -3709,7 +3957,7 @@
       "highPrice": "25",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/desi-disco-dandiya-vol-07-qdzd24kfx3",
-      "validFrom": "2026-10-18T09:39:43.095Z"
+      "validFrom": "2026-10-19T13:26:36.219Z"
     },
     "performer": [
       {
@@ -4919,6 +5167,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "FTCU Tuesday | Toca Brigade ",
+    "description": "Highlights DJ Night ft Jonas MonteiroResident DJ Firex spinning&nbsp;Non-Stop MusicBollywood NightDance FloorMouth-watering AppetizersCocktails and Mocktail&nbs",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/ae46e9c174a1f3d0ef5d011f23238a84.jpg"
+    ],
+    "startDate": "2026-10-20T20:00:00+05:30",
+    "endDate": "2026-10-21T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Brigade",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974096,
+        "longitude": 77.607694
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca Brigade",
+      "url": "https://www.highape.com/bangalore/organisers/toca-brigade-f1ababf130"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ftcu-tuesday-toca-brigade-2w33te80bq",
+      "validFrom": "2026-10-19T13:26:37.458Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Jonas Monteiro",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/6507a308/pp62rqrjenanwxd8drid.jpg",
+        "url": "https://www.highape.com/bangalore/artists/jonas-monteiro"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ftcu-tuesday-toca-brigade-2w33te80bq"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Gala Queen",
     "description": "HighlightsA glamorous Friday night curated by URBN EntertainmentDance-floor favourites, electrifying beats and sing-along anthemsSpecial freebies for all ladies",
     "image": [
@@ -5264,6 +5562,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/global-ladies-night-kpjpgq4jou"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Goddess Portraits",
+    "description": "HighlightsA safe space for self-expression without fear of judgementExplore art as a medium to discover and express your voiceEmbrace self-reverence, confidence",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/c4b15cefec0769cea8e22087daca90c1.jpg"
+    ],
+    "startDate": "2026-10-25T15:00:00+05:30",
+    "endDate": "2026-10-25T17:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sanctuary Creative Studio",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "535A , 3rd floor 15th Cross, 17th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.913736,
+        "longitude": 77.641952
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Knot Therapy",
+      "url": "https://www.highape.com/bangalore/organisers/knot-therapy-8v65x"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "799",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/goddess-portraits-k7ll7ve0jz",
+      "validFrom": "2026-10-19T13:26:38.127Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Knot Therapy",
+        "url": "https://www.highape.com/bangalore/organisers/knot-therapy-8v65x"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/goddess-portraits-k7ll7ve0jz"
   },
   {
     "@context": "https://schema.org",
@@ -6223,6 +6570,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/kalyan-nagar-dandiya-night-2026-fc5l3sz14j"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kalyana  Virundhu Tamil Night",
+    "description": "HighlightsA high-energy Tamil-themed wedding party with full-on mapillai aattam.Dance to Tamil hits, Gaana beats and kuthu anthems.Celebrate with infectious Sou",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/73b9f90a179cd58bf0028353ff06b512.jpg"
+    ],
+    "startDate": "2026-10-23T19:00:00+05:30",
+    "endDate": "2026-10-24T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "GToxe (The Premium Rooftop Vibe)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/ a, 4th Floor, Industrial Layout, Koramangala, South, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933258,
+        "longitude": 77.613791
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Namma Vibes",
+      "url": "https://www.highape.com/bangalore/organisers/charles-s-0397758f89"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/kalyana-virundhu-tamil-night-h1lq521t3k",
+      "validFrom": "2026-10-19T13:26:39.325Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dj Charlesss",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-charlesss-4qgb"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/kalyana-virundhu-tamil-night-h1lq521t3k"
   },
   {
     "@context": "https://schema.org",
@@ -7372,8 +7769,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/10/d2488050b9603e346142ba9936e0d243.jpg"
     ],
-    "startDate": "2026-10-18T16:00:00+05:30",
-    "endDate": "2026-10-18T23:00:00+05:30",
+    "startDate": "2026-10-19T16:00:00+05:30",
+    "endDate": "2026-10-19T23:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -7398,7 +7795,7 @@
       "highPrice": "3999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/maha-dandiya-utsav-2026-at-jayamahal-palace-ixvwiyk7n2",
-      "validFrom": "2026-10-18T09:52:06.402Z"
+      "validFrom": "2026-10-19T11:36:47.047Z"
     },
     "performer": [
       {
@@ -7557,56 +7954,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/mantri-dandiya-mahotsav-2-0-j42aa7eyfr"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Marathalli Biggest Dandiya Celebration 2026",
-    "description": "HighlightsLive Dandiya and Garba beatsHigh-energy DJ setsExpansive dance floorVibrant ethnic festive ambienceMix of Garba, Gujarati and Bollywood hitsCompliment",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/19/3e5953a3db6511c1e1febd637810a9e3.jpg"
-    ],
-    "startDate": "2026-10-18T18:00:00+05:30",
-    "endDate": "2026-10-19T00:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HIDDEN BUNKER PUB",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36/1, Outer Ring Rd, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.941771,
-        "longitude": 77.697046
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shane Events",
-      "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "99",
-      "highPrice": "1699",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/marathalli-biggest-dandiya-celebration-2026-hnxa0kpp0y",
-      "validFrom": "2026-10-18T14:37:50.648Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Shane Events",
-        "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/marathalli-biggest-dandiya-celebration-2026-hnxa0kpp0y"
   },
   {
     "@context": "https://schema.org",
@@ -8052,6 +8399,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/monday-mischief-at-sugar-factory-reloaded-eokdtjfhxn"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Monday Mood ft. DJ Christin x TOM",
+    "description": "HighlightsDJ Christin x TOM taking over the decksCommercial hits and party anthems all nightMonday Mood experience at HOD ClubGuest list entry with table reserv",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/18/e4c5bd498d793dcc910c8ae6402085a1.jpg"
+    ],
+    "startDate": "2026-10-19T20:00:00+05:30",
+    "endDate": "2026-10-20T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/monday-mood-ft-dj-christin-x-tom-breml0jmpq",
+      "validFrom": "2026-10-19T13:17:54.962Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Christin",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-christin-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "TOM",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/tom-hzh4"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/monday-mood-ft-dj-christin-x-tom-breml0jmpq"
   },
   {
     "@context": "https://schema.org",
@@ -8682,6 +9085,57 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "No Parking Fridays Halloween Special",
+    "description": "HighlightsNo Parking Fridays: Halloween SpecialFeaturing Phenom (DJ Set), Panic and FriendsHip-hop and DHH music all nightHalloween-themed party atmosphere1+1 o",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/bbe4b73e67aa8f3d5e9d506b6f1db413.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-30T23:59:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "The Park Bangalore",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "14/7, Mahatma Gandhi Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.973971,
+        "longitude": 77.617437
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shane Events",
+      "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "100",
+      "highPrice": "399",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/no-parking-fridays-halloween-special-2r7l959g5m",
+      "validFrom": "2026-10-19T13:09:07.309Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Phenom",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/14/652a89742d43ec269adbabb804960e74.jpg",
+        "url": "https://www.highape.com/bangalore/artists/phenom-aieg93"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/no-parking-fridays-halloween-special-2r7l959g5m"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "North East Bollywood Night",
     "description": "HighlightsNorth East Bollywood Night every MondayHigh-energy Bollywood and commercial musicFree entry for ladies throughout the eventComplimentary drinks for la",
     "image": [
@@ -8876,6 +9330,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/perfumery-2sjm5gh94c"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pink City Ft DJ Deafox",
+    "description": "HighlightsDJ Night Ft DJ&nbsp;DeafoxNonstop MusicBollywood MusicUK PunjabiCommercialMouthwatering AppetizersCocktails and MocktailsPINK CITY brings a vibrant fu",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/e21c5eb6d41c9035b50b38ac6df0348b.jpg"
+    ],
+    "startDate": "2026-10-24T20:00:00+05:30",
+    "endDate": "2026-10-25T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Magique",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.937676,
+        "longitude": 77.626986
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RichBoyz",
+      "url": "https://www.highape.com/bangalore/organisers/richboyz"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/pink-city-ft-dj-deafox-k16ug60x8w",
+      "validFrom": "2026-10-19T12:40:38.070Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "RichBoyz",
+        "url": "https://www.highape.com/bangalore/organisers/richboyz"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/pink-city-ft-dj-deafox-k16ug60x8w"
   },
   {
     "@context": "https://schema.org",
@@ -9814,6 +10317,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/social-mixer-bcp558p5ad"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sound Of Magique Ft Elektraa",
+    "description": "HighlightsELEKTRAA brings electrifying sounds and hypnotic beats to Magique.Experience immersive electronic music and high-energy dance-floor moments.Lose yours",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/7e3333cd52726b36174236e3fd94b99f.jpg"
+    ],
+    "startDate": "2026-10-25T20:00:00+05:30",
+    "endDate": "2026-10-26T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Magique",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.937676,
+        "longitude": 77.626986
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RichBoyz",
+      "url": "https://www.highape.com/bangalore/organisers/richboyz"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sound-of-magique-ft-elektraa-zrf7phpkaz",
+      "validFrom": "2026-10-19T12:48:07.641Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Triad",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/b4b039a4/jus38kbiz5otfov4juel.jpg",
+        "url": "https://www.highape.com/bangalore/artists/triad-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Elektraa",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/elektraa-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sound-of-magique-ft-elektraa-zrf7phpkaz"
   },
   {
     "@context": "https://schema.org",
@@ -11030,7 +11589,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tipsy-bull-halloween-bash-2026-ft-dj-esha-52d04qnkpc",
-      "validFrom": "2026-10-18T10:07:46.010Z"
+      "validFrom": "2026-10-19T11:23:50.727Z"
     },
     "performer": [
       {
@@ -12309,6 +12868,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/whitefield-s-biggest-dandiya-utsav-season-9-12ilvbtmjp"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "WIP Wednesdays",
+    "description": "HighlightsConnect with fellow crafters, knitters and crocheters in a welcoming community.Bring your own knitting or crochet project, or learn the basics.Unwind ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/c73248d682a00a78b65de525bfcf0bf8.jpg"
+    ],
+    "startDate": "2026-10-21T17:30:00+05:30",
+    "endDate": "2026-10-21T19:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sanctuary Creative Studio",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "535A , 3rd floor 15th Cross, 17th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.913736,
+        "longitude": 77.641952
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Knot Therapy",
+      "url": "https://www.highape.com/bangalore/organisers/knot-therapy-8v65x"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "299",
+      "highPrice": "1199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wip-wednesdays-2utudc5fsr",
+      "validFrom": "2026-10-19T13:26:43.704Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Knot Therapy",
+        "url": "https://www.highape.com/bangalore/organisers/knot-therapy-8v65x"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wip-wednesdays-2utudc5fsr"
   },
   {
     "@context": "https://schema.org",

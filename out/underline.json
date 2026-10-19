@@ -171,7 +171,26 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Namma Bengaluru Quiz by Calm Your Wits Quizzing",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 399,
+      "offerCount": 1,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-11-01T14:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2026-buy-tickets",
+          "validFrom": "2026-10-19T12:24:42.216Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2026-buy-tickets"
+    },
     "sameAs": [
       "https://district.in/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2026/event"
     ],
@@ -247,6 +266,42 @@
     ],
     "startDate": "2026-11-01T15:00:00.000+05:30",
     "url": "https://underline.center/t/a-brief-study-of-with-the-eleven-am-club/821"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!",
+    "endDate": "2026-10-27T22:30:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/2X/b/bc076e90bd6873358897b948f3fcd64341b7bd8b.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Screening of Chicken For Linda! (2023) with Cinema Next Door",
+    "startDate": "2026-10-27T19:30:00.000+05:30",
+    "url": "https://underline.center/t/screening-of-chicken-for-linda-2023-with-cinema-next-door/900"
   },
   {
     "@context": "https://schema.org",
@@ -760,6 +815,45 @@
     ],
     "startDate": "2026-10-21T19:00:00.000+05:30",
     "url": "https://underline.center/t/after-hours-with-eleven-am-club/583"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!",
+    "endDate": "2026-10-20T22:30:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/2X/c/c7f1ea05b7f05b50270f042891135063e08b1781.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Screening of The Umbrellas of Cherbourg (1964) with Cinema Next Door",
+    "sameAs": [
+      "https://puttingscene.com/events/BMLDV5/"
+    ],
+    "startDate": "2026-10-20T19:30:00.000+05:30",
+    "url": "https://underline.center/t/screening-of-the-umbrellas-of-cherbourg-1964-with-cinema-next-door/899"
   },
   {
     "@context": "https://schema.org",
