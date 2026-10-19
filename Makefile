@@ -142,6 +142,7 @@ post-build:
 	python -m sqlite3 events.db < post-build.sql
 	python -m src.tagger
 	python -m src.dedup
+	python -m src.event_ids
 	python -m src.validator --output report.json
 
 all: build post-build
