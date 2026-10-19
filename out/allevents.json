@@ -1454,45 +1454,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Whitefield Biggest Open Air Dandiya Utsav 2026",
-    "image": "https://cdn-az.allevents.in/events3/banners/645e78b0-cb6e-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792381041",
-    "startDate": "2026-10-19T18:00:00+05:30",
-    "endDate": "2026-10-20T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/whitefield-biggest-open-air-dandiya-utsav-2026/3900030777575124",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Yard: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "22/A, Doddanakundi Industrial Area 2, Phase 1, Doddanekkundi, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9778",
-        "longitude": "77.7073"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Highlights:Celebrity DJs: Dance the night away to the beats of renowned celebrity DJs who will keep the energy soaring and the crowd grooving with the latest hits and traditional tunes.Live Food Stalls: Savor a delectable array of culinary delights from our live food stalls. From spicy street food t",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-04",
-        "availabilityEnds": "2026-10-20T00:00:00+05:30",
-        "validFrom": "2026-10-04",
-        "url": "https://allevents.in/bangalore/whitefield-biggest-open-air-dandiya-utsav-2026/3900030777575124"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Tu Jhoom",
     "image": "https://cdn-az.allevents.in/events1/banners/36c3b060-c53c-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1791699783",
@@ -1689,45 +1650,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Lasya Ft. Anika Kulkarni and Nireeksha G",
-    "image": "https://cdn-az.allevents.in/events5/banners/0a167d10-c7b5-11f1-ac75-15a87e2724d8-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1791971579",
-    "startDate": "2026-10-23T19:30:00+05:30",
-    "endDate": "2026-10-23T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Shoonya - Centre for Art and Somatic Practices",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "4th Floor, Rear Wing, Brahmananda Court, 37 Lal Bagh Road, Bengaluru, Karnataka 560027, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9596",
-        "longitude": "77.5874"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Anika Kulkarni and Nireeksha G Rao",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-14",
-        "availabilityEnds": "2026-10-23T20:30:00+05:30",
-        "validFrom": "2026-10-14",
-        "url": "https://allevents.in/bangalore/lasya-ft-anika-kulkarni-and-nireeksha-g/3900030834095100"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Paint Like Picasso",
     "image": "https://cdn-az.allevents.in/events7/banners/dba668c0-cb59-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc180808-gmir.jpg?v=1792372251",
     "startDate": "2026-10-24T15:20:00+05:30",
@@ -1878,6 +1800,45 @@
         "availabilityEnds": "2026-10-24T21:00:00+05:30",
         "validFrom": "2026-10-16",
         "url": "https://allevents.in/bangalore/dj-concert-x-band-reveal/3900030842472616"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Glasses Holder",
+    "image": "https://cdn-az.allevents.in/events5/banners/f89e8d10-cc01-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcd8c8c8-gmir.jpg?v=1792444426",
+    "startDate": "2026-10-20T12:04:00+05:30",
+    "endDate": "2026-10-20T13:04:00+05:30",
+    "url": "https://allevents.in/bangalore/glasses-holder/3900030845143451",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Rendezvous: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "15-1, Block - 4, 4th Cross, 80 Feet Road, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9353",
+        "longitude": "77.6291"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create a stylish and functional accessory in this fun and beginner friendly Glasses Holder Making Workshop. Learn how to design and decorate your own personalized holder that keeps your glasses organized while adding a creative touch to your desk, bedside table, or workspace.Guided step by step, you",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-16",
+        "availabilityEnds": "2026-10-20T13:04:00+05:30",
+        "validFrom": "2026-10-16",
+        "url": "https://allevents.in/bangalore/glasses-holder/3900030845143451"
       }
     ]
   },
@@ -2196,6 +2157,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Seeta &amp; Geeta - A Standup Comedy Show",
+    "image": "https://cdn-az.allevents.in/events7/banners/abf63200-cb8a-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcb80808-gmir.jpg?v=1792393210",
+    "startDate": "2026-10-31T21:00:00+05:30",
+    "endDate": "2026-10-31T22:30:00+05:30",
+    "url": "https://allevents.in/bangalore/seeta-and-geeta-a-standup-comedy-show/3900030854851711",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "TAG Comedy Club: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1022, 1st floor, Besides Chai Nagri, 80 Feet Rd, 4th Block, S.T. Bed, S T Bed Layout, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9307",
+        "longitude": "77.6331"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Apeksha Agarwal & Vidushi Swaroop come together for an unfiltered stand-up comedy show about growing up, relationships, marriage, family expectations, women, and all the wonderfully ridiculous things Indian society expects from us.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-19",
+        "availabilityEnds": "2026-10-31T22:30:00+05:30",
+        "validFrom": "2026-10-19",
+        "url": "https://allevents.in/bangalore/seeta-and-geeta-a-standup-comedy-show/3900030854851711"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Glowing Lantern Painting",
     "image": "https://cdn-az.allevents.in/events9/banners/42c30930-cbc5-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc383838-gmir.jpg?v=1792418357",
     "startDate": "2026-10-20T15:32:00+05:30",
@@ -2268,6 +2268,84 @@
         "availabilityEnds": "2026-10-24T19:00:00+05:30",
         "validFrom": "2026-10-19",
         "url": "https://allevents.in/bangalore/clay-lighter/3900030856081359"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Boho Texture Art",
+    "image": "https://cdn-az.allevents.in/events4/banners/4a6de5d0-cbc8-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcc8b898-gmir.jpg?v=1792419669",
+    "startDate": "2026-10-24T15:31:00+05:30",
+    "endDate": "2026-10-24T16:46:00+05:30",
+    "url": "https://allevents.in/bangalore/boho-texture-art/3900030856098809",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9873",
+        "longitude": "77.5945"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Boho Texture Art WorkshopUnleash your creativity with our Boho Texture Art Workshop and create a beautiful textured artwork inspired by warm earthy tones and bohemian aesthetics. Explore different textures patterns and artistic techniques while creating a piece that reflects your personal style.No p",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-19",
+        "availabilityEnds": "2026-10-24T16:46:00+05:30",
+        "validFrom": "2026-10-19",
+        "url": "https://allevents.in/bangalore/boho-texture-art/3900030856098809"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hand Crafted pottery",
+    "image": "https://cdn-az.allevents.in/events4/banners/f63f5740-cbc8-11f1-87af-a5fe78201b78-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1792419941",
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/hand-crafted-pottery/3900030856105041",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU (Kaavu) Whitefield: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Village Main Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9609",
+        "longitude": "77.7321"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Discover the joy of working with clay and create something truly unique with your own hands.Join us for a relaxing handcrafted pottery workshop where you will learn the basics of pottery in a fun and beginner friendly environment. From shaping and molding clay to adding your own creative touch, you",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-19",
+        "availabilityEnds": "2026-10-24T17:00:00+05:30",
+        "validFrom": "2026-10-19",
+        "url": "https://allevents.in/bangalore/hand-crafted-pottery/3900030856105041"
       }
     ]
   },
@@ -2862,59 +2940,6 @@
         "url": "https://allevents.in/bangalore/social-deduction-in-brookefield/4100030852592610",
         "price": "399.00",
         "name": "Regular Ticket"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "DumPukht's Curated Menu",
-    "image": "https://cdn-az.allevents.in/events10/banners/d71d7680-cb5f-11f1-87af-a5fe78201b78-rimg-w1200-h675-dc888888-gmir.jpg?v=1792374791",
-    "startDate": "2026-10-20T19:30:00+05:30",
-    "endDate": "2026-10-20T21:30:00+05:30",
-    "url": "https://allevents.in/bangalore/dumpukhts-curated-menu/4100030853408112",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Dum Pukht - ITC Windsor | ITC Windsor",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "ITC Windsor",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.994",
-        "longitude": "77.5864"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Enjoy a curated 3-course experience by DumPukht, ITC Windsor, as part of Kotak Solitaire Restaurant Week India, exclusively on District. All prices are inclusive of applicable taxes.Dum Pukht by ITC Hotels celebrates the culinary traditions of Awadh, drawing on the slow-cooking techniques of the reg",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-19",
-        "availabilityEnds": "2026-10-20T21:30:00+05:30",
-        "validFrom": "2026-10-19",
-        "lowPrice": "2596.00",
-        "highPrice": "2596.00",
-        "price": "2596.00",
-        "url": "https://allevents.in/bangalore/dumpukhts-curated-menu/4100030853408112"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-19",
-        "availabilityEnds": "",
-        "validFrom": "2026-10-19",
-        "url": "https://allevents.in/bangalore/dumpukhts-curated-menu/4100030853408112",
-        "price": "2596.00",
-        "name": "Solo"
       }
     ]
   },
@@ -5103,68 +5128,6 @@
         "name": "Go Dharmic",
         "url": "https://allevents.in/org/go-dharmic/22891430",
         "description": "Withone million interactionsinover 40 countries, GoDharmicis a growing movement for individual and social change.We believe it is our collective responsibility to do the righteous thing for the welfare of all. Inspired by the idea ofDharma, which we interpret as righteous social conduct, we want to create a world where individuals can come together to create positive change in their lives and their communities.Click hereto know a bit more about us."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "GCG Navratri 2026",
-    "image": "https://cdn-az.allevents.in/events5/banners/8af9c7825377b0f1189afd130c87b6d1d6f44982e85090d8f04561e5c8f496ca-rimg-w1200-h450-dcf8f8e8-gmir.jpg?v=1788981527",
-    "startDate": "2026-10-11T19:00:00+05:30",
-    "endDate": "2026-10-19T22:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/gcg-navratri-2026/100002000144545177",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Saraswath Bhavan",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Nyanapahalli Main Road",
-        "postalCode": "560076",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8797649",
-        "longitude": "77.612043"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready to dance and celebrate vibrant GCG Navratri 2026 with music, colors, and loads of fun!",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-09",
-        "availabilityEnds": "2026-10-19T22:00:00+05:30",
-        "validFrom": "2026-09-09",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/gcg-navratri-2026/100002000144545177"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-09",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-09",
-        "url": "https://allevents.in/bengaluru/gcg-navratri-2026/100002000144545177",
-        "price": 0,
-        "name": "Early Bird"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Sachin Jhala Jignesh Patel Hitesh Zaveri Dilip Mewada Upesh Patel Paresh Shukla",
-        "url": "https://allevents.in/org/sachin-jhala-jignesh-patel-hitesh-zaveri-dilip-mewada-upesh-patel-paresh-shukla/20341664",
-        "description": "Navratri Event 2022"
       }
     ]
   },
