@@ -306,6 +306,46 @@
   {
     "@context": "https://schema.org",
     "@type": "SocialEvent",
+    "description": "When was the last time you put a jigsaw puzzle together? Puzzles are for everyone! It doesn’t matter if you loved puzzles as a kid, enjoy them now, or want to pick up a new hobby; if you do them solo or with friends and family; whether you like to take your time or prefer to blitz them - Bangalore Puzzle Pals is for you.\n\nJoin us to enjoy a relaxed off-screen evening in a social setting while you put together beautiful images, solve puzzles from new and exciting brands, and get a little competitive with some speed puzzling or puzzle chess! You’re also welcome to bring your own puzzles either to solve or sell/swap with others.\n\nCome alone, with a partner, with friends or family! We will have something for everyone. (Under-18s may attend if accompanied by an adult.)\n\nWho is Playful Pursuits?\n\nWe are Bangalore’s first jigsaw puzzle meetup group, providing a space for puzzle enthusiasts to come together to solve jigsaws, swap and sell their puzzles, and compete in speed puzzling! We meet in-person every Monday and on the occasional weekend.\n\nYou can follow us on Instagram at \n@playful.pursuits\n and \njoin our WhatsApp group\n.",
+    "endDate": "2026-10-26T22:30:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/b2abebf8f3875e9f7c2e37b4bea4c95dae2f556f.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Bangalore Puzzle Pals with Playful Pursuits",
+    "offers": null,
+    "sameAs": [
+      "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
+    ],
+    "startDate": "2026-10-26T18:30:00.000+05:30",
+    "url": "https://underline.center/t/bangalore-puzzle-pals-with-playful-pursuits/11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
     "description": "And, Then? brings together some of Improv Lore’s most experienced performers for an evening of unscripted theatre. Whether we’re revisiting a format we love or exploring something entirely new, every performance is built live with curiosity, collaboration, and a sense of play at its heart.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
     "endDate": "2026-10-25T21:00:00.000+05:30",
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -529,6 +569,86 @@
     ],
     "startDate": "2026-10-25T10:30:00.000+05:30",
     "url": "https://underline.center/t/uke-jam-bangalore-by-ukulele-with-luv/894"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "This is a community meetup for \nMagic: The Gathering\n, one of the world’s most popular card games. If you are curious about game and don’t know where to start, or are already a player looking to find others to play with in-person, this is for you!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group \n.",
+    "endDate": "2026-10-24T23:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/648ccd6cad9b66fb9632156ffc8ee2c320af975c.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Magic: The Gathering with ReRoll Board Games",
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 1199,
+      "lowPrice": 349,
+      "offerCount": 3,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-24T12:30:00.000Z",
+          "name": " Early Bird - Casual Play",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T11:16:25.614Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-24T17:30:00.000Z",
+          "name": " Regular Ticket - Casual Play",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T11:16:25.614Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-24T12:30:00.000Z",
+          "name": "Reality Fracture - Draft Format",
+          "price": 1199,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T11:16:25.614Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets"
+    },
+    "sameAs": [
+      "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
+      "https://magic.wizards.com/en/intro"
+    ],
+    "startDate": "2026-10-24T18:00:00.000+05:30",
+    "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
   },
   {
     "@context": "https://schema.org",
@@ -854,84 +974,5 @@
     ],
     "startDate": "2026-10-20T19:30:00.000+05:30",
     "url": "https://underline.center/t/screening-of-the-umbrellas-of-cherbourg-1964-with-cinema-next-door/899"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "When was the last time you put a jigsaw puzzle together? Puzzles are for everyone! It doesn’t matter if you loved puzzles as a kid, enjoy them now, or want to pick up a new hobby; if you do them solo or with friends and family; whether you like to take your time or prefer to blitz them - Bangalore Puzzle Pals is for you.\n\nJoin us to enjoy a relaxed off-screen evening in a social setting while you put together beautiful images, solve puzzles from new and exciting brands, and get a little competitive with some speed puzzling or puzzle chess! You’re also welcome to bring your own puzzles either to solve or sell/swap with others.\n\nCome alone, with a partner, with friends or family! We will have something for everyone. (Under-18s may attend if accompanied by an adult.)\n\nWho is Playful Pursuits?\n\nWe are Bangalore’s first jigsaw puzzle meetup group, providing a space for puzzle enthusiasts to come together to solve jigsaws, swap and sell their puzzles, and compete in speed puzzling! We meet in-person every Monday and on the occasional weekend.\n\nYou can follow us on Instagram at \n@playful.pursuits\n and \njoin our WhatsApp group\n.",
-    "endDate": "2026-10-19T22:30:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/1X/b2abebf8f3875e9f7c2e37b4bea4c95dae2f556f.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Bangalore Puzzle Pals with Playful Pursuits",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 299,
-      "offerCount": 3,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-19T13:00:00.000Z",
-          "name": "Early Bird",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-19T13:00:00.000Z",
-          "name": "Regular Ticket",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-19T17:00:00.000Z",
-          "name": "Walk-In",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets"
-    },
-    "sameAs": [
-      "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
-    ],
-    "startDate": "2026-10-19T18:30:00.000+05:30",
-    "url": "https://underline.center/t/bangalore-puzzle-pals-with-playful-pursuits/11"
   }
 ]

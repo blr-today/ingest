@@ -5507,5 +5507,59 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Gongura & Grapes ( A Women-Only brunch)",
+    "description": "Gongura & Grapes is a Women-only event organised by Bindu Rao in collaboration with Fratelli Wines to pait them with aVegan Andhra menu.Bindu Rao runs Gongura Bhojanam Society for a living and cooks for people who eat food which is less spicy, less oily and is more focused on vegetables and ingredients which have fibre , green leafy vegetables ,water-based vegetables and her meals aren't as protein-obsessed.Wine by Fratelli:Sauvignon Blanc | Shiraz Rosé - 2 servings of each which pair beautifully well with sour food.Appetisers:1) Coin Pesarettu with allam pachchadi chutney (a thick dosa made from green moong dal, served with a ginger chutney)2) Vada with velulli palli chutney (Air fried vada with raw garlic peanut chutney)3) Dahi Vada made with peanut curdMains (everything pre-plated in a thaali) :1) Nagarjuna style Andhra  Spinach Pappu (Spinach with toor dal tempered with mustard, red chillies, garlic and curry leaves)2) Gongura Annam (Made with a tempering of mustard, urad dal , red chillies , asafoetida, gongura (sour sorrel leaves) with peanuts for the crunch)3) Dondakaya ulli karam (Ivy gourd fry sauted with onions and byadgi chilli powder made in sesame oil)4) Bombay chutney (Besani Onion and potato curry made with a finishing touch of lemon)DessertPesarapappu payasam (Moong dal and rice payasam with a touch of coconut milk, raisins and air-fried cashews)The spice level is for people who can tolerate North Indian food level of spicy and it's made exactly how my family eats.Two servings of all the wine and food will be provided.This event is only for Women who are based in Bangalore.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7E3E8F0259D34CD291F7E0FFC1230B15_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/11C54FB50B534353B208ECDDCF21992D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E1EB740EC56F4C0899ED46B8E209891C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/05CFBFDC604F4D2DAF323C2C8119084D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5EFDC446FD2A4F969FF46914AD771463_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E9A17D143766433E93ED5C29BE9BBE78_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F6DFA1775E8F4F6BBF57B5EEEE6BD2C4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/83F0684D3F9948078BFC68119C1BADE9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/AC07901A0DDD4F8B83B1ABDABC5F0623_converted_webp.webp"
+    ],
+    "startDate": "2026-10-24T13:00:00+05:30",
+    "endDate": "2026-10-24T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2HQF+8C9, Krishnappa Layout, Nagashetty Halli, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0382971,
+        "longitude": 77.5735979
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2200.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bindureybindu",
+      "description": "Bindu Rao loves to curate and create beginner friendly and vegan friendly experiences for those with gluten and milk allergy.",
+      "url": "https://urbanaut.app/partner/bindureybindu",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/E86947860C2040888661AEA6D9B1AA81_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/gongura-grapes-a-women-only-brunch",
+    "keywords": [
+      "Pop-up Event",
+      "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
