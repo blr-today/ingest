@@ -336,3 +336,15 @@ def test_collect_refreshes_stale_posts_by_url(db):
     assert "discover_by" not in api.params[0]
     assert api.inputs == [{"url": "https://www.instagram.com/p/OLD/"}]
     assert db.execute("SELECT shortcode FROM fetched").fetchall() == [("OLD",)]
+
+
+def test_lines_read_bold_and_quoted_titles():
+    caption = (
+        "Join us on 𝐒𝐚𝐭𝐮𝐫𝐝𝐚𝐲, 𝟐𝟒 𝐎𝐜𝐭𝐨𝐛𝐞𝐫 for the play 𝐑𝐨𝐛𝐢’𝐬 𝐆𝐚𝐫𝐝𝐞𝐧 by our troupe.\n"
+        "𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: English\nTeam Size: 2 students per team\n"
+        "“Solving for Love” is a storytelling music show"
+    )
+    found = instagram.lines(caption)
+    assert "Robi’s Garden" in found and "Solving for Love" in found
+    assert not any(l.startswith(("Language", "Team Size")) for l in found)
+    assert "Saturday, 24 October" not in found

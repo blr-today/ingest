@@ -37,7 +37,7 @@ API = "https://api.brightdata.com/datasets/v3"
 DATASET = "gd_lk5ns7kz21pck8jpis"
 CACHE = Path.home() / ".cache" / "ingest-instagram.sqlite"
 # Bump when a Jev question changes, so cached answers are asked again
-VERSION = 2
+VERSION = 3
 REFRESH = timedelta(hours=20)
 # Instagram image links expire about four days after they are fetched
 IMAGE_REFRESH = timedelta(days=3)
@@ -57,10 +57,13 @@ WORD_RE = re.compile(r"[a-z]{4,}")
 COMMON_WORDS = {"bangalore", "bengaluru", "with", "from", "this", "that", "your", "event"}
 EMOJI_RE = re.compile("[\U0001f000-\U0001faff☀-➿️‍|•]")
 SKIP_RE = re.compile(
-    r"^([#@]|hosted by|(event )?details\b|date\b|time\b|venue\b|when\b|where\b)"
+    r"^([#@]|hosted by|(event )?details\b|date\b|time\b|venue\b|when\b|where\b|language\b"
+    r"|team size\b|eligibility\b|duration\b|to reserve\b|for (queries|details)\b|contact\b)"
     r"|link in (our )?bio|\bbookmyshow\b|\bregist(er|ration)\b|\btickets? (are )?(now )?live\b",
     re.IGNORECASE,
 )
+BOLD_RE = re.compile(r"[\U0001d400-\U0001d7ff][\U0001d400-\U0001d7ff ’'&,:-]*[\U0001d400-\U0001d7ff]")
+QUOTED_RE = re.compile(r"[“\"]([^”\"\n]{3,80})[”\"]")
 WHEN_RE = re.compile(
     r"\b(mon|tues?|wed|thur?s?|fri|sat|sun|(mon|tues|wednes|thurs|fri|satur|sun)day)\b|\b(jan|feb|mar|apr|jun|jul|aug|sept?|oct|nov|dec)\b"
     r"|\b(january|february|march|april|may|june|july|august|september|october|november|december)\b"
@@ -425,9 +428,12 @@ def matches(db, pairs, by_day):
 
 
 def lines(caption):
+    # Titles often sit inside a sentence, set in bold letters or in quotes
+    marked = BOLD_RE.findall(caption) + QUOTED_RE.findall(caption)
     parts = (
-        re.sub(r"\s+", " ", EMOJI_RE.sub(" ", l)).strip(" .,:-–*")
-        for l in caption.splitlines()
+        re.sub(r"\s+", " ", EMOJI_RE.sub(" ", unicodedata.normalize("NFKC", l)))
+        .strip(" .,:-–*")
+        for l in caption.splitlines() + marked
     )
     return list(
         dict.fromkeys(
