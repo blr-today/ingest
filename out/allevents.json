@@ -473,6 +473,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Plot Twist | Youth Camp 2026",
+    "image": "https://cdn-az.allevents.in/events1/banners/1d482ef958e4d14e5b42a60ed756d01b615b5a8bfc080a6f066f0cc7f459bada-rimg-w880-h1210-dcf8f8f8-gmir?v=1792116319",
+    "startDate": "2026-10-30T08:00:00+05:30",
+    "endDate": "2026-11-01T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/plot-twist-youth-camp-2026/200030840918419",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Camp Revive",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No: 5/267-D1, TVS Main Road, Adjoining Nanjapuram Village, Kothakondapalli Post.",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9907949",
+        "longitude": "77.6932039"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The Youth Fellowship of Immanuel CSI Malayalam Church is gearing up for three days away 🏕️ and we've saved you a spot.\n\n*Here's what's waiting* 👇\n🔥 Campfire nights with stories, songs and too many snacks\n💬 Real talk on the stuff we don't usually say out loud: pressure, identity, what comes next\n🎲 A",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Immanuel CSI Malayalam ChurchAnagalpuraBangalore",
+        "url": "https://allevents.in/org/immanuel-csi-malayalam-churchanagalpurabangalore/23261347",
+        "description": "Immanuel CSI Malayalam Church,Anagalpura,Bangalore, Bangalore. 733 followers · 9 talking about this · 57 were here. Immanuel CSI Malayalam Church was..."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "SportsEvent",
     "name": "Cottonpet heritage walk (Tales of Sufis, Akhadas and Saints)",
     "image": "https://cdn-az.allevents.in/events7/banners/a2e07bad93dc0e080f81196283e5c368c6ec82685ba578005c4b8d11e633f76d-rimg-w1200-h1200-dc686868-gmir?v=1792270397",
@@ -4100,89 +4136,6 @@
         "@type": "Organization",
         "name": "GEMS KIDS CLUB ",
         "url": "https://allevents.in/org/gems-kids-club/16611595"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tamil Dj Night",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ad7541246fa2.jpg",
-    "startDate": "2026-10-23T19:30:00+05:30",
-    "endDate": "2026-10-24T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tamil-dj-night-tickets/80003714119658",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Babylonia - Global Food and Cocktails",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7th Block, 9, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.936228",
-        "longitude": "77.6157097"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🔥 FRIDAY TAMIL NIGHT @ BABYLONIA 🔥🎧 DJ Max Featuring 🕢 Time: 7:30 PM – 1:00 AM 🎟️ Free Entry for All 🥂 Special Free Drinks for Ladies 💃 Tamil Beats • Commercial Hits • Party Vibes📍 Babylonia, Koramangala, BangaloreGather your gang and kick-start your weekend with the best Tamil party vibes! 🔥🎶",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-20",
-        "availabilityEnds": "2026-10-24T01:00:00+05:30",
-        "validFrom": "2026-10-20",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tamil-dj-night-tickets/80003714119658"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-20",
-        "availabilityEnds": "2026-10-24T01:00:00+05:30",
-        "validFrom": "2026-10-20",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tamil-dj-night-tickets/80003714119658",
-        "availability": "https://schema.org/InStock",
-        "name": "GIRLS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-20",
-        "availabilityEnds": "2026-10-24T01:00:00+05:30",
-        "validFrom": "2026-10-20",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tamil-dj-night-tickets/80003714119658",
-        "availability": "https://schema.org/InStock",
-        "name": "BOYS FREE ENTRY ON GUESTLIST✅"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-20",
-        "availabilityEnds": "2026-10-24T01:00:00+05:30",
-        "validFrom": "2026-10-20",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tamil-dj-night-tickets/80003714119658",
-        "availability": "https://schema.org/InStock",
-        "name": "COUPLES FREE ENTRY ON GUESTLIST✅"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "GLAMBU",
-        "url": "https://allevents.in/org/glambu/27862034"
       }
     ]
   },
