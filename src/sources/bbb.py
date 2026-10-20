@@ -1,4 +1,3 @@
-import calendar
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -14,7 +13,9 @@ from src.common.jev import (
     MIN_CONFIDENCE,
     ask as ask_jev,
     clock,
+    date_questions,
     end_clock,
+    event_date,
     pick,
     time_questions,
     value,
@@ -26,7 +27,6 @@ FEED = "https://brokebibliophilesbangalore.substack.com/feed"
 POSTS = 2
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
 BLOCKS = ["p", "li", "h1", "h2", "h3"]
-MONTHS = {str(m): calendar.month_name[m] for m in range(1, 13)}
 NUMBER_RE = re.compile(r"\d[\d,]*")
 EMOJI_RE = re.compile("[\U0001f300-\U0001faff☀-➿|]")
 LABEL_RE = re.compile(
@@ -101,14 +101,7 @@ def ask(client, post):
             "meetup, that readers can attend on a stated date?"
         ),
         "has_fee": Noul(instructions="Does attending the announced event cost money?"),
-        "month": pick("Which month is the announced event held in?", MONTHS),
-        "day": pick(
-            "Which day of the month is the announced event held on?",
-            [str(d) for d in range(1, 32)],
-        ),
-        "year": pick(
-            "Which year is the announced event held in?", [str(year), str(year + 1)]
-        ),
+        **date_questions("the announced event", year),
         "venue": pick(
             "Which of these names the venue of the announced event?",
             unique(post["bold"] + s),
@@ -138,17 +131,6 @@ def ask(client, post):
         "text": post["text"],
     }
     return ask_jev(client, state, asks)
-
-
-def event_date(picks, published):
-    month, day = value(picks, "month"), value(picks, "day")
-    if not month or not day:
-        return None
-    year = int(value(picks, "year") or published.year)
-    when = date(year, int(month), int(day))
-    if not value(picks, "year") and when < published:
-        when = when.replace(year=year + 1)
-    return when
 
 
 def place(post, picks):

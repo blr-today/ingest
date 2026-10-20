@@ -11,6 +11,9 @@ on:
       TYPESAFE_JEV_API_KEY:
         description: TypeSafe key for sources that use Jev
         required: false
+      BRIGHT_DATA_API_KEY:
+        description: Bright Data key for the Instagram source
+        required: false
     outputs:
       built:
         description: Whether events.db was uploaded
@@ -89,6 +92,13 @@ jobs:
         path: ~/.cache/ingest-activities.sqlite
         key: "cache-activities-${{ github.run_id }}"
         restore-keys: "cache-activities-"
+    - name: Cache Instagram Posts
+      if: runner.environment == 'github-hosted'
+      uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: ~/.cache/ingest-instagram.sqlite
+        key: "cache-instagram-${{ github.run_id }}"
+        restore-keys: "cache-instagram-"
     - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       name: Clone self repository
       with:
@@ -106,6 +116,7 @@ jobs:
     - name: Fetch updates
       env:
         TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+        BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
       run: |
         # List BookMyShow fills this on sel; each branch reads only its own
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
