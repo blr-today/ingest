@@ -125,6 +125,7 @@ fetch: out/allevents.json \
  out/bac.json \
  out/aceofpubs.json \
  out/fillum.json \
+ out/gcw.json \
  out/manual.json
 	@echo "Done"
 
