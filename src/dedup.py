@@ -249,7 +249,8 @@ def merge(kept, dropped, dropped_url):
     images = as_list(kept.get("image")) + as_list(dropped.get("image"))
     original = kept.get("offers")
     offers = combine_offers(kept, dropped)
-    fill(kept, dropped)
+    # An identifier names its own source's event, so it never moves to another
+    fill(kept, {k: v for k, v in dropped.items() if k != "identifier"})
     kept["keywords"] = keywords
     kept["sameAs"] = same_as
     if images and all(isinstance(i, str) for i in images):

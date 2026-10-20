@@ -273,6 +273,12 @@ def test_merge_combines_listings():
     assert "offers" not in kept
 
 
+def test_merge_keeps_identifier_with_its_source():
+    kept = {"url": "https://highape.com/a"}
+    merge(kept, {"url": "https://skillboxes.com/b", "identifier": "com.skillboxes.1"}, "b")
+    assert "identifier" not in kept
+
+
 def test_merge_reprices_from_both_offers():
     kept = {"url": "k", "keywords": ["PRICEY"], "offers": {"price": "2500"}}
     merge(kept, {"offers": [{"price": "300"}]}, "d")

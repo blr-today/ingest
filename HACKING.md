@@ -86,4 +86,5 @@ flowchart TD
 ## Event ids
 
 `src/event_ids.py` runs after dedup and fills the `id` column, like `com.highape.vv0tytlqlg`: the reversed host, then the source's own id (JSON-LD `@id`, query, fragment or slug).
+A source can name its own events with `identifier`, like `gcw.2026-11-01`, used as is.
 The start time, then the venue, join in only when an id repeats; blr.today builds `/event/<id>/` from it.

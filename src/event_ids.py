@@ -55,6 +55,12 @@ def venue(event):
     return slug(name.split(":")[0]) if isinstance(name, str) else ""
 
 
+def base_id(url, event):
+    if isinstance(event.get("identifier"), str) and event["identifier"]:
+        return event["identifier"]
+    return f"{namespace(url)}.{slug(upstream_key(url, event)) or 'event'}"
+
+
 def more_than_once(keys):
     counts = Counter(keys)
     return [counts[k] > 1 for k in keys]
@@ -63,10 +69,7 @@ def more_than_once(keys):
 def assign_ids(rows):
     """Ids for (url, event_json) rows: the start time and venue join in only when needed"""
     events = [json.loads(raw) for _, raw in rows]
-    ids = [
-        f"{namespace(url)}.{slug(upstream_key(url, e)) or 'event'}"
-        for (url, _), e in zip(rows, events)
-    ]
+    ids = [base_id(url, e) for (url, _), e in zip(rows, events)]
     ids = [
         f"{i}.{occurs(e)}" if again else i
         for i, e, again in zip(ids, events, more_than_once(ids))

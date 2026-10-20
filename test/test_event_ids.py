@@ -131,6 +131,14 @@ def test_ids_are_url_safe():
     assert i == "com.deardk.event"
 
 
+def test_source_identifier_is_the_id():
+    form = "https://docs.google.com/forms/d/e/abc/viewform"
+    assert ids(event(form, identifier="gcw.2026-11-01")) == ["gcw.2026-11-01"]
+    assert ids(event(form, identifier="")) == ["com.google.docs.viewform"]
+    a, b = event(form, identifier="gcw.x"), event(form, identifier="gcw.x", start="2026-10-25")
+    assert ids(a, b) == ["gcw.x.20261024t1100", "gcw.x.20261025"]
+
+
 def test_write_ids_adds_the_column(tmp_path):
     db = tmp_path / "events.db"
     with sqlite3.connect(db) as conn:

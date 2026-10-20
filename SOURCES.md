@@ -6,6 +6,7 @@ for setup and for what happens to events after they are fetched.
 ## Script Structure
 - **Name**: `src/sources/venue.py`; `venue` is the output stem and source keyword
 - **Contract**: `events()` returns Event dicts and writes nothing; `python -m src.sources venue` writes `out/venue.json` and logs `[VENUE] N events`
+- **Id**: optional `identifier` string, the event's blr.today id as is (`gcw.2026-11-01`); otherwise it comes from the url, see [HACKING.md](HACKING.md)
 - **Dependencies**: Use existing packages from `pyproject.toml`
 - **Makefile**: List `out/venue.json` in `fetch`; a raw download gets a rule plus `out/venue.json: out/venue.ics`
 
