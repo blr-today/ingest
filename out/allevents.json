@@ -473,42 +473,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Plot Twist | Youth Camp 2026",
-    "image": "https://cdn-az.allevents.in/events1/banners/1d482ef958e4d14e5b42a60ed756d01b615b5a8bfc080a6f066f0cc7f459bada-rimg-w880-h1210-dcf8f8f8-gmir?v=1792116319",
-    "startDate": "2026-10-30T08:00:00+05:30",
-    "endDate": "2026-11-01T16:00:00+05:30",
-    "url": "https://allevents.in/bangalore/plot-twist-youth-camp-2026/200030840918419",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Camp Revive",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No: 5/267-D1, TVS Main Road, Adjoining Nanjapuram Village, Kothakondapalli Post.",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9907949",
-        "longitude": "77.6932039"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "The Youth Fellowship of Immanuel CSI Malayalam Church is gearing up for three days away 🏕️ and we've saved you a spot.\n\n*Here's what's waiting* 👇\n🔥 Campfire nights with stories, songs and too many snacks\n💬 Real talk on the stuff we don't usually say out loud: pressure, identity, what comes next\n🎲 A",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Immanuel CSI Malayalam ChurchAnagalpuraBangalore",
-        "url": "https://allevents.in/org/immanuel-csi-malayalam-churchanagalpurabangalore/23261347",
-        "description": "Immanuel CSI Malayalam Church,Anagalpura,Bangalore, Bangalore. 733 followers · 9 talking about this · 57 were here. Immanuel CSI Malayalam Church was..."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SportsEvent",
     "name": "Cottonpet heritage walk (Tales of Sufis, Akhadas and Saints)",
     "image": "https://cdn-az.allevents.in/events7/banners/a2e07bad93dc0e080f81196283e5c368c6ec82685ba578005c4b8d11e633f76d-rimg-w1200-h1200-dc686868-gmir?v=1792270397",
@@ -2157,6 +2121,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Resin Art Basics",
+    "image": "https://cdn-az.allevents.in/events5/banners/d72cfc40-cc22-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792458543",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/resin-art-basics/3900030857800604",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9787",
+        "longitude": "77.6455"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Explore the fascinating world of resin art through a beginner friendly creative experience designed to introduce participants to one of the most popular modern art forms. Learn how resin can be combined with colours, pigments, glitter, dried flowers, and decorative elements to create glossy and eye",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-20",
+        "availabilityEnds": "2026-10-24T16:00:00+05:30",
+        "validFrom": "2026-10-20",
+        "url": "https://allevents.in/bangalore/resin-art-basics/3900030857800604"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Sufi Crcle : Tabish Pasha live at Bastian BLR",
     "image": "https://cdn-az.allevents.in/events8/banners/b24d4260-cc25-11f1-87af-a5fe78201b78-rimg-w1200-h600-dce8d8b8-gmir.jpg?v=1792459770",
     "startDate": "2026-11-01T21:30:00+05:30",
@@ -2268,6 +2271,45 @@
         "availabilityEnds": "2026-10-24T16:30:00+05:30",
         "validFrom": "2026-10-20",
         "url": "https://allevents.in/bangalore/charm-it-your-way/3900030858526125"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Craft making",
+    "image": "https://cdn-az.allevents.in/events6/banners/062ac490-cc42-11f1-b2cf-a555c969fe55-rimg-w1200-h600-dc180808-gmir.jpg?v=1792471936",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/craft-making/3900030859187617",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Starbucks Indiranagar: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 945, Ground Floor, 12th Main Road, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9702",
+        "longitude": "77.6399"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Craft Making WorkshopGet creative and make something with your own hands! A fun, easy-going DIY experience where you can create, customize, and take home your handmade craft.Beginner-friendlyAll materials includedHands-on DIY experienceNote: Venue cover charge of Rs 300 to Rs 500 per person is appl",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-20",
+        "availabilityEnds": "2026-10-24T16:30:00+05:30",
+        "validFrom": "2026-10-20",
+        "url": "https://allevents.in/bangalore/craft-making/3900030859187617"
       }
     ]
   },
