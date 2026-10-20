@@ -248,7 +248,7 @@ def test_events_merge_reminders_and_skip_linked_posts(db, monkeypatch, tmp_path)
     assert [e["url"] for e in events] == ["https://www.instagram.com/p/NEW/"]
     assert events[0]["sameAs"] == ["https://www.instagram.com/p/OLD/"]
     listing = {"name": "Jazz Night Live", "url": "https://venue.in/jazz", "startDate": "2026-10-18T19:30:00+05:30"}
-    monkeypatch.setattr(instagram, "matches", lambda db, pairs, by_day: {"NEW": listing})
+    monkeypatch.setattr(instagram, "matches", lambda db, pairs, by_day, *repeat: {} if repeat else {"NEW": listing})
     merged = instagram.events()[0]
     assert merged["startDate"] == listing["startDate"]
     assert merged["sameAs"] == ["https://venue.in/jazz", "https://www.instagram.com/p/OLD/"]
@@ -291,8 +291,8 @@ def test_candidates_put_shared_words_before_the_same_time():
 
 
 def test_describe_lists_name_time_and_venue():
-    assert instagram.describe(LISTINGS["2026-10-18"][1]) == "Jazz Night Live | 19:00 | Venue"
-    assert instagram.describe({"name": "Fair", "startDate": "2026-10-18"}) == "Fair | all day"
+    assert instagram.describe(LISTINGS["2026-10-18"][1]) == "Jazz Night Live | 2026-10-18 19:00 | Venue"
+    assert instagram.describe({"name": "Fair", "startDate": "2026-10-18"}) == "Fair | 2026-10-18 all day"
 
 
 def expiring(hours):
@@ -360,3 +360,23 @@ def test_to_event_skips_lineups_remote_events_and_clashing_weekdays():
     assert event(weekday="Wednesday") is None
     assert event(weekday="Sunday")["startDate"] == "2026-10-18T19:00:00+05:30"
     assert event({"several": 0.2, "elsewhere": 0.1}) is not None
+
+
+def test_repeats_fold_into_the_earliest_post_of_the_account(db, monkeypatch):
+    jev = FakeJev(({}, {"same": "0"}))
+    monkeypatch.setattr(instagram, "TypeSafeClient", lambda: nullcontext(jev))
+    monkeypatch.setenv("TYPESAFE_API_KEY", "key")
+    def pair(code, start, account="bengaluruanimeclub"):
+        p = instagram.to_post(record(code, account=account), account)
+        return p, {"name": code, "url": f"u/{code}", "startDate": start}
+    kept = {
+        ("a", "1"): pair("LIVE", "2027-01-09T18:00:00+05:30"),
+        ("a", "2"): pair("TICKETS", "2027-01-09T20:00:00+05:30"),
+        ("a", "3"): pair("GUEST", "2027-01-10"),
+        ("a", "4"): pair("LATER", "2027-01-12"),
+        ("b", "1"): pair("OTHER", "2027-01-09T20:00:00+05:30", account="af_bangalore"),
+    }
+    instagram.fold_repeats(db, kept)
+    assert sorted(k for k in kept) == [("a", "1"), ("a", "4"), ("b", "1")]
+    assert kept["a", "1"][1]["sameAs"] == ["u/GUEST", "u/TICKETS"]
+    assert len(jev.calls) == 2

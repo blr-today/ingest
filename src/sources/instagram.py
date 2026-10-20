@@ -53,6 +53,15 @@ STALE = timedelta(days=1)
 IMAGES = {"TypeSafe-Danger-Zone-Images": "true"}
 SUBJECT = "the announced event"
 WEEKDAYS = list(calendar.day_name)
+LISTING = (
+    "Which of these listings from other websites is the same event that this "
+    "Instagram post announces?"
+)
+REPEAT = (
+    "Which of these earlier posts by the same account is about the same event as "
+    "this post, such as a reminder, ticket update or line-up reveal for it, even "
+    "with a different time or title?"
+)
 POST_RE = re.compile(r"instagram\.com/(?:[\w.]+/)?(?:p|reel|tv)/([\w-]+)")
 ACCOUNT_RE = re.compile(r"instagram\.com/(?!(?:p|reel|tv)/)([\w.]+)")
 WORD_RE = re.compile(r"[a-z]{4,}")
@@ -370,19 +379,30 @@ def candidates(post, event, by_day):
     return sorted(by_day.get(event["startDate"][:10], []), key=rank)[:MAX_LISTINGS]
 
 
+def earlier(post, event, pairs):
+    # The same account often posts about one event again, a day either side
+    day = date.fromisoformat(event["startDate"][:10])
+    return [
+        e
+        for p, e in pairs
+        if p["account"] == post["account"]
+        and e["startDate"] < event["startDate"]
+        and abs(date.fromisoformat(e["startDate"][:10]) - day) <= timedelta(days=1)
+    ]
+
+
 def describe(listing):
     place = listing.get("location")
     venue = place.get("name") if isinstance(place, dict) else place
-    parts = [str(listing["name"])[:150], listing["startDate"][11:16] or "all day"]
-    return " | ".join(parts + ([str(venue)[:80]] if isinstance(venue, str) else []))
+    about = re.sub(r"<[^>]+>|\s+", " ", str(listing.get("description") or "")).strip()
+    start = listing["startDate"]
+    parts = [str(listing["name"])[:150], f"{start[:10]} {start[11:16] or 'all day'}"]
+    parts += [str(venue)[:80]] if isinstance(venue, str) else []
+    return " | ".join(parts + ([about[:160]] if about else []))
 
 
-def same_listing(client, post, event, found):
-    question = pick(
-        "Which of these listings from other websites is the same event that this "
-        "Instagram post announces?",
-        {str(i): describe(o) for i, o in enumerate(found)},
-    )
+def same_listing(client, post, event, found, question=LISTING):
+    question = pick(question, {str(i): describe(o) for i, o in enumerate(found)})
     announced = {"name": event["name"], "start": event["startDate"]}
     try:
         _, picks = ask_jev(
@@ -395,10 +415,10 @@ def same_listing(client, post, event, found):
     return found[int(choice)]["url"] if choice else None
 
 
-def matches(db, pairs, by_day):
+def matches(db, pairs, by_day, choose=candidates, question=LISTING):
     found, todo = {}, []
     for post, event in pairs:
-        if not (listed := candidates(post, event, by_day)):
+        if not (listed := choose(post, event, by_day)):
             continue
         key = hashlib.sha1("\n".join(sorted(o["url"] for o in listed)).encode())
         key = key.hexdigest()
@@ -415,7 +435,7 @@ def matches(db, pairs, by_day):
     log(f"{len(found)} matches cached, {len(todo)} to ask")
     if todo and os.environ.get("TYPESAFE_API_KEY"):
         with TypeSafeClient() as client, ThreadPoolExecutor(4) as pool:
-            urls = pool.map(lambda t: same_listing(client, *t[:3]), todo)
+            urls = pool.map(lambda t: same_listing(client, *t[:3], question), todo)
             for (post, _, listed, key), url in zip(todo, urls):
                 if url is not False:
                     db.execute(
@@ -658,6 +678,19 @@ def fold_reminders(kept):
             )
 
 
+def fold_repeats(db, kept):
+    pairs = sorted(kept.values(), key=lambda p: p[1]["startDate"])
+    found = matches(db, pairs, pairs, earlier, REPEAT)
+    keys = {post["shortcode"]: key for key, (post, _) in kept.items()}
+    # Later posts fold first, so a chain of repeats ends at the earliest
+    for post, event in reversed(pairs):
+        if target := found.get(post["shortcode"]):
+            target.setdefault("sameAs", []).extend(
+                [event["url"]] + event.get("sameAs", [])
+            )
+            kept.pop(keys[post["shortcode"]])
+
+
 def events():
     now = datetime.now(IST)
     db = connect()
@@ -684,6 +717,7 @@ def events():
             if same is not event:
                 same.setdefault("sameAs", []).append(event["url"])
     fold_reminders(kept)
+    fold_repeats(db, kept)
     found = matches(db, kept.values(), listings())
     for post, event in kept.values():
         if listing := found.get(post["shortcode"]):
