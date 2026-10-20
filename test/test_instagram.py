@@ -267,7 +267,7 @@ def test_listings_read_other_sources_by_day(tmp_path):
 
 
 def test_matches_ask_jev_once_and_cache(db, monkeypatch):
-    jev = FakeJev(({}, {"same": "1"}))
+    jev = FakeJev(({}, {"same": "0"}))
     monkeypatch.setattr(instagram, "TypeSafeClient", lambda: nullcontext(jev))
     monkeypatch.setenv("TYPESAFE_API_KEY", "key")
     event = {"name": "Jazz Night", "startDate": "2026-10-18T19:00:00+05:30"}
@@ -278,6 +278,16 @@ def test_matches_ask_jev_once_and_cache(db, monkeypatch):
     assert instagram.matches(db, pairs, LISTINGS) == {"ABC": LISTINGS["2026-10-18"][1]}
     assert len(jev.calls) == 1
     assert instagram.matches(db, [(post(), event | {"startDate": "2026-10-19"})], LISTINGS) == {}
+
+
+def test_candidates_put_shared_words_before_the_same_time():
+    busy = [{"name": f"Ladies Night {i}", "url": f"u{i}", "startDate": "2026-10-24T16:30:00+05:30"} for i in range(60)]
+    jam = {"name": "Jam for a Cause", "url": "jam", "startDate": "2026-10-24T16:00:00+05:30"}
+    by_day = {"2026-10-24": busy + [jam]}
+    caption = "We're taking over for an evening of live music.\n#JamForACause\nEvery ticket goes to a good cause"
+    event = {"name": "The best nights", "startDate": "2026-10-24T16:30:00+05:30"}
+    found = instagram.candidates(post(caption=caption), event, by_day)
+    assert found[0] == jam and len(found) == instagram.MAX_LISTINGS
 
 
 def test_describe_lists_name_time_and_venue():

@@ -6,6 +6,7 @@ import re
 import sqlite3
 import sys
 import time
+import unicodedata
 import uuid
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
@@ -52,6 +53,8 @@ IMAGES = {"TypeSafe-Danger-Zone-Images": "true"}
 SUBJECT = "the announced event"
 POST_RE = re.compile(r"instagram\.com/(?:[\w.]+/)?(?:p|reel|tv)/([\w-]+)")
 ACCOUNT_RE = re.compile(r"instagram\.com/(?!(?:p|reel|tv)/)([\w.]+)")
+WORD_RE = re.compile(r"[a-z]{4,}")
+COMMON_WORDS = {"bangalore", "bengaluru", "with", "from", "this", "that", "your", "event"}
 EMOJI_RE = re.compile("[\U0001f000-\U0001faff☀-➿️‍|•]")
 SKIP_RE = re.compile(
     r"^([#@]|hosted by|(event )?details\b|date\b|time\b|venue\b|when\b|where\b)"
@@ -337,12 +340,29 @@ def listings(pattern="out/*.json"):
     return by_day
 
 
-def candidates(event, by_day):
-    # A busy day lists many events, so the ones at the same time come first
-    found = by_day.get(event["startDate"][:10], [])
-    return sorted(found, key=lambda o: o["startDate"] != event["startDate"])[
-        :MAX_LISTINGS
-    ]
+def words(text):
+    text = unicodedata.normalize("NFKC", str(text or "")).lower()
+    return set(WORD_RE.findall(text)) - COMMON_WORDS
+
+
+def minute(start):
+    return int(start[11:13]) * 60 + int(start[14:16]) if len(start) >= 16 else None
+
+
+def candidates(post, event, by_day):
+    # A busy day lists hundreds of events, so ones sharing words and starting near come first
+    said = words(post["caption"]) | words(event["name"]) | words(post["account"])
+    start = minute(event["startDate"])
+
+    def rank(listing):
+        place = listing.get("location")
+        venue = place.get("name") if isinstance(place, dict) else place
+        shared = len((words(listing["name"]) | words(venue)) & said)
+        other = minute(listing["startDate"])
+        apart = abs(start - other) if start is not None and other is not None else 0
+        return -shared, apart
+
+    return sorted(by_day.get(event["startDate"][:10], []), key=rank)[:MAX_LISTINGS]
 
 
 def describe(listing):
@@ -373,7 +393,7 @@ def same_listing(client, post, event, found):
 def matches(db, pairs, by_day):
     found, todo = {}, []
     for post, event in pairs:
-        if not (listed := candidates(event, by_day)):
+        if not (listed := candidates(post, event, by_day)):
             continue
         key = hashlib.sha1("\n".join(sorted(o["url"] for o in listed)).encode())
         key = key.hexdigest()
