@@ -336,7 +336,46 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Bangalore Puzzle Pals with Playful Pursuits",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 299,
+      "offerCount": 3,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-26T13:00:00.000Z",
+          "name": "Early Bird",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+          "validFrom": "2026-03-26T07:36:17.449Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-26T13:00:00.000Z",
+          "name": "Regular Ticket",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+          "validFrom": "2026-03-26T07:36:17.449Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-26T17:00:00.000Z",
+          "name": "Walk-In",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
+          "validFrom": "2026-03-26T07:36:17.449Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets"
+    },
     "sameAs": [
       "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
     ],
