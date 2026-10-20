@@ -1,4 +1,5 @@
 import base64
+import calendar
 import hashlib
 import json
 import os
@@ -51,6 +52,7 @@ POLL = 15
 STALE = timedelta(days=1)
 IMAGES = {"TypeSafe-Danger-Zone-Images": "true"}
 SUBJECT = "the announced event"
+WEEKDAYS = list(calendar.day_name)
 POST_RE = re.compile(r"instagram\.com/(?:[\w.]+/)?(?:p|reel|tv)/([\w-]+)")
 ACCOUNT_RE = re.compile(r"instagram\.com/(?!(?:p|reel|tv)/)([\w.]+)")
 WORD_RE = re.compile(r"[a-z]{4,}")
@@ -58,7 +60,7 @@ COMMON_WORDS = {"bangalore", "bengaluru", "with", "from", "this", "that", "your"
 EMOJI_RE = re.compile("[\U0001f000-\U0001faff☀-➿️‍|•]")
 SKIP_RE = re.compile(
     r"^([#@]|hosted by|(event )?details\b|date\b|time\b|venue\b|when\b|where\b|language\b"
-    r"|team size\b|eligibility\b|duration\b|to reserve\b|for (queries|details)\b|contact\b)"
+    r"|team size\b|participation\b|eligibility\b|duration\b|to reserve\b|for (queries|details)\b|contact\b)"
     r"|link in (our )?bio|\bbookmyshow\b|\bregist(er|ration)\b|\btickets? (are )?(now )?live\b",
     re.IGNORECASE,
 )
@@ -433,7 +435,7 @@ def lines(caption):
     parts = (
         re.sub(r"\s+", " ", EMOJI_RE.sub(" ", unicodedata.normalize("NFKC", l)))
         .strip(" .,:-–*")
-        for l in caption.splitlines() + marked
+        for l in marked + caption.splitlines()
     )
     return list(
         dict.fromkeys(
@@ -455,8 +457,15 @@ def questions(post):
             instructions="Does this Instagram post announce a specific event, such as a "
             "performance, workshop, screening, talk, walk or meetup, that the public "
             "can attend on a stated date? Calls for vendors, sponsors, applications or "
-            "submissions, sales and product launches are not events."
+            "submissions, sales, product launches, restaurant menus, brunches and "
+            "dining offers are not events."
         ),
+        "several": Noul(
+            instructions="Does this post list several different events, such as a "
+            "weekly or monthly schedule or a festival line-up, rather than announce one? "
+            "Repeat shows of the same event count as one."
+        ),
+        "elsewhere": Noul(instructions=f"Is {SUBJECT} held online, or outside Bengaluru?"),
         "name": pick(
             f"Which of these lines is the title of {SUBJECT}: the name of the show, "
             "workshop, talk or session itself, not its date, venue, host, a slogan or "
@@ -464,6 +473,7 @@ def questions(post):
             lines(post["caption"]),
         ),
         **date_questions(SUBJECT, post["posted"].year),
+        "weekday": pick(f"Which day of the week does the text say {SUBJECT} is on?", WEEKDAYS),
         **time_questions(SUBJECT),
     }
 
@@ -594,6 +604,11 @@ def to_event(post, result, now):
     nouls, picks = result["nouls"], result["picks"]
     day = event_date(picks, post["posted"])
     if nouls.get("event", 0) < MIN_CONFIDENCE or not day:
+        return None
+    if max(nouls.get("several", 0), nouls.get("elsewhere", 0)) >= MIN_CONFIDENCE:
+        return None
+    # A stated weekday that disagrees with the date means the date was misread
+    if (weekday := value(picks, "weekday")) and weekday != day.strftime("%A"):
         return None
     start, end = clock(picks, "start"), end_clock(nouls, picks)
     account = post["account"]

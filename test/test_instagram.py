@@ -348,3 +348,15 @@ def test_lines_read_bold_and_quoted_titles():
     assert "Robi’s Garden" in found and "Solving for Love" in found
     assert not any(l.startswith(("Language", "Team Size")) for l in found)
     assert "Saturday, 24 October" not in found
+
+
+def test_to_event_skips_lineups_remote_events_and_clashing_weekdays():
+    picks = {k: [v, 0.9] for k, v in DATED[1].items()}
+    def event(nouls={}, **more):
+        result = {"nouls": DATED[0] | nouls, "picks": picks | {k: [v, 0.9] for k, v in more.items()}}
+        return instagram.to_event(post(), result, NOW)
+    assert event({"several": 0.8}) is None
+    assert event({"elsewhere": 0.7}) is None
+    assert event(weekday="Wednesday") is None
+    assert event(weekday="Sunday")["startDate"] == "2026-10-18T19:00:00+05:30"
+    assert event({"several": 0.2, "elsewhere": 0.1}) is not None
