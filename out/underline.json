@@ -91,7 +91,26 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Only 90s Kids Will Remember This: A nostalgia themed pop culture quiz by Calm Your Wits Quizzing",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 399,
+      "offerCount": 1,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-11-14T17:00:00.000Z",
+          "name": "Regular Ticket",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing-nov14-2026-buy-tickets",
+          "validFrom": "2026-10-20T09:29:28.356Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing-nov14-2026-buy-tickets"
+    },
     "sameAs": [
       "https://district.in/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing-nov14-2026/event"
     ],
@@ -266,6 +285,65 @@
     ],
     "startDate": "2026-11-01T15:00:00.000+05:30",
     "url": "https://underline.center/t/a-brief-study-of-with-the-eleven-am-club/821"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "The Open Stage Jam is where you get to step in and play, and try your hand at doing some improv on stage!\n\nWe’ll set up simple scenes and scenarios, guide you, and keep things moving so you’re never left figuring it out on your own. You can jump in for a scene or two, try something new, and step back whenever you like.\n\nIt’s a space that’s designed to be easy to enter, and built for taking small risks. You might come in just to watch, but we’re hoping you’ll leave having played.\n\nWho are Improv Lore?\n\nWe are a Bangalore-based community-theatre troupe, working towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
+    "endDate": "2026-10-28T22:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/93127b876dabc1491ed6211a7a109ec640c9c2ae.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 499,
+      "lowPrice": 499,
+      "offerCount": 1,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-28T16:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 499,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026-buy-tickets",
+          "validFrom": "2026-04-24T06:31:49.032Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026-buy-tickets"
+    },
+    "sameAs": [
+      "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
+    ],
+    "startDate": "2026-10-28T20:00:00.000+05:30",
+    "url": "https://underline.center/t/make-friends-with-the-stage-open-stage-jam-by-improv-lore/769"
   },
   {
     "@context": "https://schema.org",
@@ -608,6 +686,85 @@
     ],
     "startDate": "2026-10-25T10:30:00.000+05:30",
     "url": "https://underline.center/t/uke-jam-bangalore-by-ukulele-with-luv/894"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group\n.\n\nCome solo, with a date, or in a group—we’ve got something for everyone!",
+    "endDate": "2026-10-24T23:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/07e46d67990b577742e434b3810ab9bfa74949af.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Weekend Games with ReRoll Board Games",
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 299,
+      "offerCount": 3,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-24T12:30:00.000Z",
+          "name": "Early Bird",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+          "validFrom": "2026-03-30T15:13:19.423Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-24T12:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+          "validFrom": "2026-03-30T15:13:19.423Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-24T17:30:00.000Z",
+          "name": "Walk-In",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+          "validFrom": "2026-03-30T15:13:19.423Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets"
+    },
+    "sameAs": [
+      "https://www.district.in/weekend-games-with-reroll/event"
+    ],
+    "startDate": "2026-10-24T18:00:00.000+05:30",
+    "url": "https://underline.center/t/weekend-games-with-reroll-board-games/549"
   },
   {
     "@context": "https://schema.org",

@@ -292,6 +292,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Afterall Live At Sunburn Union",
+    "description": "HighlightsAFTERALL Live performance in BengaluruHosted at Sunburn UnionSignature fusion of Indian melodies and global electronic soundsAfro tech grooves with ci",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/20/c80877227ef7dc1534191ceaddc575d2.jpg"
+    ],
+    "startDate": "2026-10-23T19:00:00+05:30",
+    "endDate": "2026-10-24T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.945166,
+        "longitude": 77.620135
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fireball Entertainments",
+      "url": "https://www.highape.com/bangalore/organisers/fireball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/afterall-live-at-sunburn-union-s3j33965tx",
+      "validFrom": "2026-10-20T11:45:03.334Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Afterall Music",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/02/16/49f2fcdfcd56ed1df65a3e3d408def57.jpg",
+        "url": "https://www.highape.com/bangalore/artists/afterall-music-b7gg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/afterall-live-at-sunburn-union-s3j33965tx"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Akashavani Ft Shreyas",
     "description": "HighlightsA vibrant evening of live music with ShreyasAkashavani an evening dedicated to soulful musical performancesLive performance featuring ShreyasA lively ",
     "image": [
@@ -4371,6 +4421,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Exclusive Tamil Kuthu Night",
+    "description": "HighlightsExclusive Tamil NightDJ Vale LiveSupported By DJ KramMass Kollywood BeatsNonstop Kuthu AnthemsSouthside Party EnergyGet ready for a night packed with ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/20/adb9601ea8f46e4e2b1c0893ba1e9e3a.jpg"
+    ],
+    "startDate": "2026-10-24T20:00:00+05:30",
+    "endDate": "2026-10-25T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SOUTHSIDE VIBES",
+      "url": "https://www.highape.com/bangalore/organisers/southside-vibes-r64aw"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/exclusive-tamil-kuthu-night-v01kgrti5v",
+      "validFrom": "2026-10-20T11:38:13.465Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "SOUTHSIDE VIBES",
+        "url": "https://www.highape.com/bangalore/organisers/southside-vibes-r64aw"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/exclusive-tamil-kuthu-night-v01kgrti5v"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Finch After Dark",
     "description": "HighlightsHalloween costume night at Jetlag Bar and GrillHigh-energy sets by Psy Walker, Vicky, Spiky and SumyaaBest Costume of the Night wins a special surpris",
     "image": [
@@ -7112,57 +7212,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/ladies-night-acesrgajdo"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Las Vegas 2027",
-    "description": "Highlights15th edition of the iconic Las Vegas New Year’s Eve celebrationTwo high-energy party halls with different music genresCandlelight concert beneath the ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/02/1b9e79f0f7112a8aee0d5db73f2ba70b.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/02/96b714f60bb012e25c578e3a69e46fb6.jpg"
-    ],
-    "startDate": "2026-12-31T20:00:00+05:30",
-    "endDate": "2027-01-01T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Taj Yeshwantpur, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2275, Tumkur Road, Yeshwanthpur Industrial Area, Phase 1, Yeshwanthpur, Bengaluru, Karnataka 560022, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.029138,
-        "longitude": 77.540708
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Las Vegas",
-      "url": "https://www.highape.com/bangalore/organisers/las-vegas-385822e359"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "4999",
-      "highPrice": "19999",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/las-vegas-2027-ehsfz56eqj",
-      "validFrom": "2026-10-19T16:36:01.959Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Las Vegas",
-        "url": "https://www.highape.com/bangalore/organisers/las-vegas-385822e359"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/las-vegas-2027-ehsfz56eqj"
   },
   {
     "@context": "https://schema.org",
@@ -12654,56 +12703,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/whitefield-s-biggest-dandiya-bash-dj-hemanth-x-dj-bhavesh-9oxaibl3gb"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Whitefield's Biggest Dandiya Utsav - Season 9 ",
-    "description": "Highlights6 days of Dandiya &amp; Garba celebrationsCelebrity DJs with festive, Bollywood &amp; Garba beatsEnergetic live Dhol performancesTalented Garba dancer",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/01/2fa3c402c80317163152b48b627ae12b.jpg"
-    ],
-    "startDate": "2026-10-19T17:00:00+05:30",
-    "endDate": "2026-10-20T00:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "MLR Cultural Center - Whitefield",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Kaveri Nagar, Mahadevapura, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.999005,
-        "longitude": 77.701937
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Brain Box Inc.",
-      "url": "https://www.highape.com/bangalore/organisers/brain-box-inc-2c26f9a59b"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "99",
-      "highPrice": "2499",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/whitefield-s-biggest-dandiya-utsav-season-9-12ilvbtmjp",
-      "validFrom": "2026-10-19T17:05:51.073Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Brain Box Inc.",
-        "url": "https://www.highape.com/bangalore/organisers/brain-box-inc-2c26f9a59b"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/whitefield-s-biggest-dandiya-utsav-season-9-12ilvbtmjp"
   },
   {
     "@context": "https://schema.org",
