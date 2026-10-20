@@ -79,6 +79,12 @@ def test_games_are_not_theatre():
     assert event_tags({"name": "Hamlet"}, {"THEATER": 0.9}) == {"THEATER"}
 
 
+def test_club_nights_are_hidden():
+    party = {"@type": "MusicEvent", "name": "Finch After Dark"}
+    tags = event_tags(party, {"DJ-NIGHT": 0.9, "BOLLYWOOD-NIGHT": 0.9})
+    assert tags == {"DJ-NIGHT", "BOLLYWOOD-NIGHT", "LOW-QUALITY"}
+
+
 def test_audience():
     assert "WOMEN-ONLY" in tags(
         "Basketball with the Sisters", keywords=["SISTERSINSWEAT"]
