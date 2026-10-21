@@ -31,29 +31,6 @@
     ]
   },
   {
-    "@type": "EducationEvent",
-    "name": "RECYCLERS: Urban Animation",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
-    },
-    "startDate": "2026-10-21T15:00:00+05:30",
-    "endDate": "2026-10-21T18:00:00+05:30",
-    "description": "What happens when a wilted vegetable, a fallen leaf, or a forgotten spoon becomes a character?\n\nIn this hands-on stop-motion workshop, we’ll turn found objects and organic waste into curious characters, strange creatures and animated stories. Using vegetables, plants, leaves, stones and everyday food-related objects, join Nikki Schuster in bringing together a  stop-motion animation—turning the inanimate to life, one frame at a time.\n\nPlease bring organic waste or any food-related items you might wish to include in your character.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=recyclers-urban-animation",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FStill2%20Medium.jpeg-1791109571458?alt=media&token=0b63885d-3530-4604-a763-f8aa3c220db5",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Nikki Schuster"
-      }
-    ]
-  },
-  {
     "@type": "Event",
     "name": "Animated Realities: Experimental Animation and Documentary Filmmaking",
     "location": {
@@ -214,7 +191,7 @@
     "description": "Step into the world of advanced scientific instrumentation with a visit to the TEM, cryo-TEM, and NMR facilities at NCBS. Discover how powerful imaging and spectroscopic techniques allow scientists to visualise and probe biological structures, and uncover the intricate architecture of life at the nanoscale.",
     "url": "https://quantum.scigalleryblr.org/programmes?p=quantum-life-science-machines",
     "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "30",
+    "maximumAttendeeCapacity": "45",
     "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2Flabvisit.jpg-1791958537801?alt=media&token=cd2803e8-f1f5-40ec-a654-cde7b4eb0cf5",
     "performer": [
       {
@@ -238,6 +215,7 @@
     "url": "https://quantum.scigalleryblr.org/programmes?p=Meow-Street-Mystery",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "35",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2F4781116307_502cb1c1bf_b%20-%20Anandita%20Balsavar.jpg-1792571401684?alt=media&token=017a90fd-4ad1-48ac-8524-13f54d2ac8ae",
     "performer": [
       {
         "@type": "Person",
@@ -250,6 +228,29 @@
       {
         "@type": "Person",
         "name": "Rohit Taeja Kumar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Universe in a Nutshell: From Big Bang to Dark Energy",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jVQvRq84YAWbaLCF9"
+    },
+    "startDate": "2026-10-31T11:00:00+05:30",
+    "endDate": "2026-10-31T13:00:00+05:30",
+    "description": "In this talk, Rajeev Kumar will take you through the 14 billion years of the evolution of the Universe, from its earliest moments to the present epoch. From the tiny primordial fluctuations that seeded cosmic structures to the mysterious nature of dark matter and dark energy, our Universe presents a remarkable puzzle: why does it have the properties we observe? \n\nWhile the standard cosmological model describes a wealth of observations with remarkable success, the fundamental origins of these properties remain elusive. In this talk, I will explore how early Universe physics, primordial black holes, gravitational waves, and cosmic microwave background observations can uncover the physics underlying our cosmic history. ",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=the-universe-in-a-nutshell",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FCosmic_Microwave_Background_(CMB).jpeg-1792561386668?alt=media&token=02a2b66d-fc7c-4cb8-8e6a-b58f2e9087c3",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Rajeev Kumar Jain"
       }
     ]
   }

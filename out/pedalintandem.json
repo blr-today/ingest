@@ -2,6 +2,33 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
+    "name": "Workshop - Roadside fixes & Home maintenance",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka",
+      "name": "Pedal in Tandem"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "workshop",
+        "price": "1000"
+      }
+    ],
+    "startDate": "2026-10-24T11:00:00+05:30",
+    "endDate": "2026-10-24T13:00:00+05:30",
+    "description": "If you've ever been stranded on the road with a breakdown, you'll know the importance of bike maintenance. Even if you're new to cycling, this is essential know-how that will only make your journey into the world of bicycles even more fascinating. So come on over to our workshop and leave with some essential skills. You bring your own bike and we'll provide the tools. If you don't have a bike, just show up and we'll get you some hands-on on one of our bikes.\n\n\n{}",
+    "url": "https://www.pedalintandem.com/experiences/workshops/bicycle-maintenance-l1",
+    "keywords": [
+      "workshops",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
     "name": "Devanahalli Heritage Ride",
     "sports": "Cycling",
     "location": {
@@ -30,6 +57,33 @@
     "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/devanahalli-heritage-ride",
     "keywords": [
       "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Cycle School",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka",
+      "name": "Pedal in Tandem"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "cycleschool",
+        "price": "1500"
+      }
+    ],
+    "startDate": "2026-11-07T08:00:00+05:30",
+    "endDate": "2026-11-07T10:00:00+05:30",
+    "description": "Cycle School is back!\nIf you are an adult and have been wanting to learn to ride a bicycle, then these sessions are perfect for you. We will have bicycles (with helmets) and trained instructors who will make this learning easy, and a whole lot of fun too. Cycling is a life-skill that everyone should possess, and our mission through these sessions is to ensure that you learn and practice it in a safe environment, until you have the confidence to pedal out on your own.\n{}",
+    "url": "https://www.pedalintandem.com/experiences/thePITStop/cycle-school",
+    "keywords": [
+      "thePITStop",
       "PEDALINTANDEM"
     ]
   }

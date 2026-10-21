@@ -380,9 +380,9 @@
     "name": "Screening of Chicken For Linda! (2023) with Cinema Next Door",
     "offers": {
       "@type": "AggregateOffer",
-      "highPrice": 249,
+      "highPrice": 299,
       "lowPrice": 249,
-      "offerCount": 1,
+      "offerCount": 2,
       "offers": [
         {
           "@type": "Offer",
@@ -390,6 +390,16 @@
           "availabilityEnds": "2026-10-27T14:00:00.000Z",
           "name": "Early Bird",
           "price": 249,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/screening-of-chicken-for-linda-2023-with-cinema-next-door-oct27-2026-buy-tickets",
+          "validFrom": "2026-10-20T11:43:16.085Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-27T14:00:00.000Z",
+          "name": "Regular Ticket",
+          "price": 299,
           "priceCurrency": "INR",
           "url": "https://www.district.in/events/screening-of-chicken-for-linda-2023-with-cinema-next-door-oct27-2026-buy-tickets",
           "validFrom": "2026-10-20T11:43:16.085Z"
@@ -445,7 +455,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-26T13:00:00.000Z",
           "name": "Early Bird",
           "price": 299,
@@ -751,7 +761,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-24T12:30:00.000Z",
           "name": "Early Bird",
           "price": 299,
