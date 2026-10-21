@@ -634,26 +634,26 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
+    "@type": "MusicEvent",
     "name": "Quick Style India Tour - Bangalore",
-    "image": "https://cdn-az.allevents.in/events1/banners/6ed08270-7b1e-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dce6e6e6-gmir.png?v=1783550606",
+    "image": "https://cdn-az.allevents.in/events8/banners/9ee96490-4b62-11f1-ad10-af1c0000fe82-rimg-w1200-h600-dce6e6e6-gmir.jpg?v=1778302237",
     "startDate": "2026-10-31T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Courtyard, Phoenix Market City: Bengaluru",
+      "name": "Venue To Be Announced: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Whitefield Main Rd, Devasandra Industrial Estate, Mahadevpura, Bengaluru, Karnataka 560048, India",
+        "streetAddress": "Bengaluru, Karnataka India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
+        "latitude": "12.9628957",
+        "longitude": "77.57754"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -663,10 +663,10 @@
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
+        "availabilityStarts": "2026-05-05",
         "availabilityEnds": "2026-10-31T20:00:00+05:30",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
         "lowPrice": "999.00",
         "price": "999.00"
       },
@@ -674,10 +674,21 @@
         "@type": "Offer",
         "availability": "",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
+        "availabilityStarts": "2026-05-05",
         "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "999.00",
+        "name": "GA Early Bird"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
         "price": "9999.00",
         "name": "Meet and Greet"
       },
@@ -685,23 +696,12 @@
         "@type": "Offer",
         "availability": "",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
+        "availabilityStarts": "2026-05-05",
         "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
         "price": "1499.00",
         "name": "Fan Zone EB"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "999.00",
-        "name": "GA Early Bird"
       }
     ]
   },
@@ -1853,25 +1853,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "LIPPAN ART COASTER",
-    "image": "https://cdn-az.allevents.in/events9/banners/f2cbad00-cb07-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcf8e8e8-gmir.jpg?v=1792337085",
+    "image": "https://cdn-az.allevents.in/events9/banners/f2cbad00-cb07-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcf8e8e8-gmir.jpg?v=1792337042",
     "startDate": "2026-10-24T15:14:00+05:30",
     "endDate": "2026-10-24T16:44:00+05:30",
-    "url": "https://allevents.in/bangalore/lippan-art-coaster/3900030851966245",
+    "url": "https://allevents.in/bangalore/lippan-art-coaster/3900030851963702",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Cafe De Verde: Bengaluru",
+      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9408",
-        "longitude": "77.6233"
+        "latitude": "12.9873",
+        "longitude": "77.5945"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1884,7 +1884,7 @@
         "availabilityStarts": "2026-10-18",
         "availabilityEnds": "2026-10-24T16:44:00+05:30",
         "validFrom": "2026-10-18",
-        "url": "https://allevents.in/bangalore/lippan-art-coaster/3900030851966245"
+        "url": "https://allevents.in/bangalore/lippan-art-coaster/3900030851963702"
       }
     ]
   },
@@ -2282,25 +2282,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Finger Fun Factory",
-    "image": "https://cdn-az.allevents.in/events4/banners/39a10660-cc45-11f1-b2cf-a555c969fe55-rimg-w1200-h600-dc584848-gmir.jpg?v=1792473329",
+    "image": "https://cdn-az.allevents.in/events4/banners/39a10660-cc45-11f1-b2cf-a555c969fe55-rimg-w1200-h600-dc584848-gmir.jpg?v=1792473311",
     "startDate": "2026-10-24T15:05:00+05:30",
     "endDate": "2026-10-24T16:20:00+05:30",
-    "url": "https://allevents.in/bangalore/finger-fun-factory/3900030859427530",
+    "url": "https://allevents.in/bangalore/finger-fun-factory/3900030859422512",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
+      "name": "Cafe De Verde: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9873",
-        "longitude": "77.5945"
+        "latitude": "12.9408",
+        "longitude": "77.6233"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -2313,7 +2313,7 @@
         "availabilityStarts": "2026-10-20",
         "availabilityEnds": "2026-10-24T16:20:00+05:30",
         "validFrom": "2026-10-20",
-        "url": "https://allevents.in/bangalore/finger-fun-factory/3900030859427530"
+        "url": "https://allevents.in/bangalore/finger-fun-factory/3900030859422512"
       }
     ]
   },
