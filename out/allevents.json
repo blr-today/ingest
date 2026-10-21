@@ -413,6 +413,41 @@
   {
     "@context": "https://schema.org",
     "@type": "MusicEvent",
+    "name": "Madhubanti Bagchi in Bengaluru",
+    "image": "https://cdn-az.allevents.in/events2/banners/20a88400-8562-11f1-9be5-4bebf44b4980-rimg-w1200-h675-dc300815-gmir.webp?v=1784679192",
+    "startDate": "2026-11-21T19:00:00+05:30",
+    "endDate": "2026-11-21T21:00:00+05:30",
+    "url": "https://allevents.in/bangalore/madhubanti-bagchi-in-bengaluru/3300030436751613",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Phoenix Marketcity",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Phoenix Marketcity, Bangalore, KA, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.971598625183",
+        "longitude": "77.594566345215"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "🎤 Experience Madhubanti Bagchi Live at Phoenix Marketcity on Saturday, November 21, 2026! 🎤\nThe countdown has begun! Madhubanti Bagchi is taking over Phoenix Marketcity on Saturday, November 21, 2026, and with hits like Aaj Ki Raat (From \"Stree 2\"), Barbaadiyan and Shayad (Film Version) - From \"L",
+    "performer": [
+      {
+        "@type": "MusicGroup",
+        "name": "Madhubanti Bagchi",
+        "url": "https://allevents.in/performer/madhubanti-bagchi"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
     "name": "Rajesh Krishnan in Bengaluru",
     "image": "https://cdn-az.allevents.in/events8/banners/faaa38e0-cabf-11f1-87af-a5fe78201b78-rimg-w640-h640-dcd8d898-gmir.jpg?v=1792306134",
     "startDate": "2026-11-06T18:00:00+05:30",
@@ -947,7 +982,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Phulka Dots Ft. Amruta Bendre",
-    "image": "https://cdn-az.allevents.in/events2/banners/56ddabb0-c8e5-11f1-849d-d196120da468-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792102287",
+    "image": "https://cdn-az.allevents.in/events5/banners/22e073c0-cd0d-11f1-9b7e-d709e3268b78-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792559172",
     "startDate": "2026-10-25T17:00:00+05:30",
     "endDate": "2026-10-25T18:30:00+05:30",
     "url": "https://allevents.in/bangalore/phulka-dots-ft-amruta-bendre/3900030563520620",
@@ -1376,9 +1411,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Roast Tank - India's First Founders Roast Show",
-    "image": "https://cdn-az.allevents.in/events3/banners/c567f090-cb33-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcf84818-gmir.jpg?v=1792355864",
+    "image": "https://cdn-az.allevents.in/events2/banners/a28961e0-cd7b-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dcf84818-gmir.jpg?v=1792606631",
     "startDate": "2026-10-24T17:00:00+05:30",
-    "endDate": "2026-10-24T19:00:00+05:30",
+    "endDate": "2026-10-25T13:00:00+05:30",
     "url": "https://allevents.in/bangalore/roast-tank-indias-first-founders-roast-show/3900030755133715",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -1405,7 +1440,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-09-30",
-        "availabilityEnds": "2026-10-24T19:00:00+05:30",
+        "availabilityEnds": "2026-10-25T13:00:00+05:30",
         "validFrom": "2026-09-30",
         "url": "https://allevents.in/bangalore/roast-tank-indias-first-founders-roast-show/3900030755133715"
       }
@@ -1493,7 +1528,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "CAGE ROOM X BOILER ROOM",
-    "image": "https://cdn-az.allevents.in/events3/banners/fdc721d0-ca26-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792240424",
+    "image": "https://cdn-az.allevents.in/events2/banners/dab15540-cd18-11f1-9b7e-d709e3268b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792564205",
     "startDate": "2026-10-23T21:30:00+05:30",
     "endDate": "2026-10-24T02:30:00+05:30",
     "url": "https://allevents.in/bangalore/cage-room-x-boiler-room/3900030764098247",
@@ -1571,7 +1606,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Tu Jhoom",
-    "image": "https://cdn-az.allevents.in/events1/banners/36c3b060-c53c-11f1-ba03-b7505d4e7d42-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1791699783",
+    "image": "https://cdn-az.allevents.in/events6/banners/3d5a5f70-ccf6-11f1-9b7e-d709e3268b78-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792549338",
     "startDate": "2026-10-24T18:00:00+05:30",
     "endDate": "2026-10-24T21:00:00+05:30",
     "url": "https://allevents.in/bangalore/tu-jhoom/3900030820116903",
@@ -1681,45 +1716,6 @@
         "availabilityEnds": "2026-10-24T16:00:00+05:30",
         "validFrom": "2026-10-12",
         "url": "https://allevents.in/bangalore/bottle-painting-workshop/3900030825944125"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bagmane Dandiya Utsav",
-    "image": "https://cdn-az.allevents.in/events10/banners/22ef95d0-c6f5-11f1-b689-9594e1faa8b2-rimg-w1200-h600-dc080828-gmir.jpg?v=1791889158",
-    "startDate": "2026-10-24T17:30:00+05:30",
-    "endDate": "2026-10-24T21:30:00+05:30",
-    "url": "https://allevents.in/bangalore/bagmane-dandiya-utsav/3900030829275718",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "KLAY Bagmane World Technology Centre: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2nd Floor, Onyx Food Court, Bagmane World Technology Centre, Laxmi Sagar Layout, Mahadevapura, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9859",
-        "longitude": "77.6944"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Event informationCelebrate Navratri. Dance. Connect. Celebrate Together.Celebrate the spirit of Navratri with an unforgettable evening of Dandiya, Garba, Dhol, music and festive energy.Get ready for a vibrant celebration where traditional Navratri vibes meet high energy music, colourful lights and a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-10-24T21:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/bagmane-dandiya-utsav/3900030829275718"
       }
     ]
   },
@@ -2038,45 +2034,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Boho Texture Art",
-    "image": "https://cdn-az.allevents.in/events4/banners/4a6de5d0-cbc8-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcc8b898-gmir.jpg?v=1792419669",
-    "startDate": "2026-10-24T15:31:00+05:30",
-    "endDate": "2026-10-24T16:46:00+05:30",
-    "url": "https://allevents.in/bangalore/boho-texture-art/3900030856098809",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9873",
-        "longitude": "77.5945"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Boho Texture Art WorkshopUnleash your creativity with our Boho Texture Art Workshop and create a beautiful textured artwork inspired by warm earthy tones and bohemian aesthetics. Explore different textures patterns and artistic techniques while creating a piece that reflects your personal style.No p",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-19",
-        "availabilityEnds": "2026-10-24T16:46:00+05:30",
-        "validFrom": "2026-10-19",
-        "url": "https://allevents.in/bangalore/boho-texture-art/3900030856098809"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Hand Crafted pottery",
     "image": "https://cdn-az.allevents.in/events4/banners/f63f5740-cbc8-11f1-87af-a5fe78201b78-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1792419941",
     "startDate": "2026-10-24T16:00:00+05:30",
@@ -2188,45 +2145,6 @@
         "availabilityEnds": "2026-10-30T23:59:00+05:30",
         "validFrom": "2026-10-20",
         "url": "https://allevents.in/bangalore/halloween-night-ft-dj-sam-at-the-pallet-by-abv/3900030857999549"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Charm it your way",
-    "image": "https://cdn-az.allevents.in/events9/banners/45d12cc0-cc37-11f1-b2cf-a555c969fe55-rimg-w1200-h600-dcc8b8a8-gmir.jpg?v=1792467324",
-    "startDate": "2026-10-24T15:00:00+05:30",
-    "endDate": "2026-10-24T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/charm-it-your-way/3900030858526125",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Starbucks Indiranagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No 945, Ground Floor, 12th Main Road, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9702",
-        "longitude": "77.6399"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "CHARM YOUR WAY Turn tiny pieces of clay into charms that are totally you! Learn to shape, decorate, and personalise your own cute clay charms from quirky miniatures to your favourite little things.No experience needed. Just pick your vibe, get creative, and make charms worth showing off.  Clay & all",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-20",
-        "availabilityEnds": "2026-10-24T16:30:00+05:30",
-        "validFrom": "2026-10-20",
-        "url": "https://allevents.in/bangalore/charm-it-your-way/3900030858526125"
       }
     ]
   },
@@ -3410,6 +3328,79 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Founders Unfiltered",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ad84afc4dd3f.jpg",
+    "startDate": "2026-10-24T16:00:00+05:30",
+    "endDate": "2026-10-24T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/founders-unfiltered-tickets/80001413887079",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Big Bean Cafe",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "28, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "postalCode": "560034",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9317392",
+        "longitude": "77.6325968"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "We're founders. We turn ideas into businesses, figure things out as we go, and find ways to make things happen.We chose a path of our own. We're here to build something that matters.Some days are full of breakthroughs. Others come with unexpected problems, tough calls, and a hundred things competing",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-21",
+        "availabilityEnds": "2026-10-24T18:00:00+05:30",
+        "validFrom": "2026-10-21",
+        "lowPrice": "249.00",
+        "highPrice": "399.00",
+        "price": "249.00",
+        "url": "https://allevents.in/bangalore/founders-unfiltered-tickets/80001413887079"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-21",
+        "availabilityEnds": "2026-10-24T18:00:00+05:30",
+        "validFrom": "2026-10-21",
+        "price": "249.00",
+        "url": "https://allevents.in/bangalore/founders-unfiltered-tickets/80001413887079",
+        "availability": "https://schema.org/InStock",
+        "name": "Founders Pass"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-21",
+        "availabilityEnds": "2026-10-24T18:00:00+05:30",
+        "validFrom": "2026-10-21",
+        "price": "399.00",
+        "url": "https://allevents.in/bangalore/founders-unfiltered-tickets/80001413887079",
+        "availability": "https://schema.org/InStock",
+        "name": "Bring your co-founder"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Edock",
+        "url": "https://allevents.in/org/edock/27852013",
+        "description": "Explore, Join, and Grow with Open Communities 🪴"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "LIT-MIC: Bengaluru Open Mic | Poetry, Stories, Comedy, Music | Edition 105",
     "image": "https://cdn2.allevents.in/thumbs/thumb6ad1c87d020cf.jpg",
     "startDate": "2026-10-24T16:00:00+05:30",
@@ -4002,6 +3993,66 @@
         "@type": "Organization",
         "name": "GEMS KIDS CLUB ",
         "url": "https://allevents.in/org/gems-kids-club/16611595"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "GARBA DANCE EVENT",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ad912eed3923.jpg",
+    "startDate": "2026-10-23T19:00:00+05:30",
+    "endDate": "2026-10-23T21:00:00+05:30",
+    "url": "https://allevents.in/bangalore/garba-dance-event-tickets/80003366755046",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Good Move Studios ,Fitness Space & Dance Academy - Koramangala, 80 Feet Road, 4th Block, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka, India",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Third floor, 14, 80 Feet Rd, 4th Block, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka 560047",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "💃 Garba Dance Night: Let’s Dance! ✨Get ready for an evening filled with festive vibes, infectious beats, and all things Garba! ❤️🪘 Whether you’re a seasoned dancer or a beginner, come celebrate the spirit of Garba with music, movement, and a whole lot of masti.✨ What to Expect💃 Trending Garba Choreo",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-21",
+        "availabilityEnds": "2026-10-23T21:00:00+05:30",
+        "validFrom": "2026-10-21",
+        "lowPrice": "500.00",
+        "highPrice": "500.00",
+        "price": "500.00",
+        "url": "https://allevents.in/bangalore/garba-dance-event-tickets/80003366755046"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-21",
+        "availabilityEnds": "2026-10-23T21:00:00+05:30",
+        "validFrom": "2026-10-21",
+        "price": "500.00",
+        "url": "https://allevents.in/bangalore/garba-dance-event-tickets/80003366755046",
+        "availability": "https://schema.org/InStock",
+        "name": "Garba Dance Experience - Singke entry"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Fit with Liva",
+        "url": "https://allevents.in/org/fit-with-liva/27456814"
       }
     ]
   },
