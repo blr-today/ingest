@@ -379,40 +379,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Job Training Workshop for College Students | Just ₹49",
-    "image": "https://cdn-az.allevents.in/events2/banners/5eef0223c2df2d8630266d4c63407eccf60d5b46a610affdec16655ea13b62e7-rimg-w1200-h670-dce87818-gmir?v=1791925301",
-    "startDate": "2026-10-24T10:30:00+05:30",
-    "url": "https://allevents.in/bangalore/job-training-workshop-for-college-students-just-₹49/200030831003742",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "3rd floor, Next Canara Bank, 303, Outer Ring Rd, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037, Bangalore, India, 560037, Bangalore, India 560037, Karnataka",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "3rd floor, Next Canara Bank, 303, Outer Ring Rd, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037, Bangalore, India, 560037, Bangalore, India 560037, Karnataka",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.95665",
-        "longitude": "77.70088"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Calling all current college students! 🎓 Want to know what a Digital Marketer ACTUALLY does inside a company?\n\nStop learning just definitions and theory. Join our 2-hour offline Job Training Workshop in Marathahalli, Bangalore, and get a complete breakdown of real company workflows, ad management, an",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Digital Marketer Land",
-        "url": "https://allevents.in/org/digital-marketer-land/28234042"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Free 1-Day Meditation Training Program (Bangalore KA)",
     "image": "https://cdn-az.allevents.in/events7/banners/72a40d04338af05560ff6c7819a131ba77111f079ddd673e5e56400eff231905-rimg-w1200-h675-dcf8f8f8-gmir?v=1792634846",
     "startDate": "2026-11-08T10:00:00+05:30",
@@ -1011,6 +977,58 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bonbon Chocolates",
+    "image": "https://cdn-az.allevents.in/events3/banners/b63a0530-7b4d-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dcdde6ed-gmir.jpg?v=1783570912",
+    "startDate": "2026-07-12T11:30:00+05:30",
+    "endDate": "2027-01-10T11:30:00+05:30",
+    "url": "https://allevents.in/bangalore/bonbon-chocolates/3900030314656658",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Have you ever wondered how bonbons are made?How that delicious filling stays hidden inside the chocolate?If you love learning something new and enjoy creative experiences, visit our space and make your own bonbons with our expert guidance.What is a Bonbon?A bonbon (from French for \"good-good\") is a",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-27",
+        "availabilityEnds": "2027-01-10T11:30:00+05:30",
+        "validFrom": "2026-06-27",
+        "url": "https://allevents.in/bangalore/bonbon-chocolates/3900030314656658",
+        "lowPrice": "1499.00",
+        "price": "1499.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-27",
+        "url": "https://allevents.in/bangalore/bonbon-chocolates/3900030314656658",
+        "price": "1499.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Dhvani Bhanushali Live In Bengaluru",
     "image": "https://cdn-az.allevents.in/events6/banners/409cb230-cad2-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc181818-gmir.jpg?v=1792313980",
@@ -1240,6 +1258,45 @@
         "availabilityEnds": "2026-10-31T01:30:00+05:30",
         "validFrom": "2026-09-16",
         "url": "https://allevents.in/bangalore/horror-circus/3900030705395915"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ilakathamafiliya. A Telugu Stand-up Comedy Show",
+    "image": "https://cdn-az.allevents.in/events4/banners/483d65c0-cd7f-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dc4818b8-gmir.jpg?v=1792608198",
+    "startDate": "2026-11-22T16:00:00+05:30",
+    "endDate": "2026-11-22T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Underground Comedy Club: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Building No.480, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9338",
+        "longitude": "77.6193"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Dubai Shaik Meeku Dandam Pedthundhayya!Calling out all the telugus out there, this show is especially designed for you. Let us put together a scene and create a beautiful evening filled with laughter.Come let us laugh together.\"Navvadam Oka Bhogam\"",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-17",
+        "availabilityEnds": "2026-11-22T17:30:00+05:30",
+        "validFrom": "2026-09-17",
+        "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
       }
     ]
   },
@@ -2182,45 +2239,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Hand Painted Happiness",
-    "image": "https://cdn-az.allevents.in/events8/banners/9d352a30-cd9e-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dcd8d8d8-gmir.jpg?v=1792621662",
-    "startDate": "2026-10-24T15:00:00+05:30",
-    "endDate": "2026-10-24T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/hand-painted-happiness/3900030873555243",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Starbucks Indiranagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No 945, Ground Floor, 12th Main Road, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9702",
-        "longitude": "77.6399"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Hand-Painted Happiness: A Creative JourneyUnleash your inner artist and experience the joy of hand painting! Our workshop is designed to inspire creativity, reduce stress, and connect you with your artistic side.Note: All materials provided.Note: Venue cover charge of Rs 300 to Rs 500 per person is",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-21",
-        "availabilityEnds": "2026-10-24T16:30:00+05:30",
-        "validFrom": "2026-10-21",
-        "url": "https://allevents.in/bangalore/hand-painted-happiness/3900030873555243"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "HALLOWKHA 2.0",
     "image": "https://cdn-az.allevents.in/events2/banners/64de8cb0-cdb4-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dc281818-gmir.jpg?v=1792631009",
     "startDate": "2026-10-30T18:00:00+05:30",
@@ -2260,39 +2278,78 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "DIY Resin Lamp",
-    "image": "https://cdn-az.allevents.in/events8/banners/efd5c6f0-cdb7-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dc585848-gmir.jpg?v=1792632546",
-    "startDate": "2026-10-25T13:02:00+05:30",
-    "endDate": "2026-10-25T14:02:00+05:30",
-    "url": "https://allevents.in/bangalore/diy-resin-lamp/3900030875173806",
+    "name": "Hand Built Pottery Workshop",
+    "image": "https://cdn-az.allevents.in/events3/banners/44fa0b40-ce27-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1792680362",
+    "startDate": "2026-10-23T15:33:00+05:30",
+    "endDate": "2026-10-23T16:33:00+05:30",
+    "url": "https://allevents.in/bangalore/hand-built-pottery-workshop/3900030880448502",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Chai Bar: Bengaluru",
+      "name": "Brik Oven, Koramangala: Bengaluru.",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "66, 11th Cross Road, 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9784",
-        "longitude": "77.6383"
+        "latitude": "12.9341",
+        "longitude": "77.6303"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Create a lamp that no one else has.In this hands on experience, you design and craft your own resin lamp playing with color, patterns, and light to create something truly unique. Watching the resin flow, settle, and transform is strangely calming and deeply satisfying.No prior experience needed. You",
+    "description": "Step into the world of tactile creativity at Clay Play Day, an immersive event designed for you to explore the joys of pottery without boundaries. Perfect for beginners and enthusiasts alike, this event invites you to delve into the art of hand-built clay modeling in a free-form, unguided environmen",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-22",
-        "availabilityEnds": "2026-10-25T14:02:00+05:30",
+        "availabilityEnds": "2026-10-23T16:33:00+05:30",
         "validFrom": "2026-10-22",
-        "url": "https://allevents.in/bangalore/diy-resin-lamp/3900030875173806"
+        "url": "https://allevents.in/bangalore/hand-built-pottery-workshop/3900030880448502"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Terrarium Lamp Art",
+    "image": "https://cdn-az.allevents.in/events7/banners/3b8b4110-ce30-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dc483828-gmir.jpg?v=1792684197",
+    "startDate": "2026-10-23T15:00:00+05:30",
+    "endDate": "2026-10-23T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/terrarium-lamp-art/3900030881238958",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Sarjapur Road: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "401, Sarjapur Main Road, Doddakannelli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9081",
+        "longitude": "77.6933"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create your own glowing miniature world inside a beautiful glass terrarium Using miniature decor and warm fairy lights you wil design a unique terrarium lamp that brings together nature creativity and ambient lightingWhether you prefer an enchanted forest a cozy fairy garden or a landscape inspired",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-10-23T16:30:00+05:30",
+        "validFrom": "2026-10-22",
+        "url": "https://allevents.in/bangalore/terrarium-lamp-art/3900030881238958"
       }
     ]
   },
@@ -3670,6 +3727,79 @@
         "name": "Bengaluru by Foot",
         "url": "https://allevents.in/org/bengaluru-by-foot/4028989",
         "description": "At Bengaluru by Foot, we take immense pride in guiding residents and visitors alike on a captivating journey through the city's vibrant culture, delectable cuisine, and timeless heritage—unveiled one curated walk at a time."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Atlantis Xperience With DJ Mari Ferrari at Atlantis Brewery",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ada1ba0561f7.jpg",
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T00:30:00+05:30",
+    "url": "https://allevents.in/bangalore/atlantis-xperience-with-dj-mari-ferrari-at-atlantis-brewery-tickets/80002731794017",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Atlantis Brewery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SY NO 38, 38/5, Sarjapur Rd, Agara Village, 1st Block Koramangala, HSR Layout, Bengaluru, Karnataka 560034, India",
+        "postalCode": "560034",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9239421",
+        "longitude": "77.6403078"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Experience powerful beats, immersive sounds and an unforgettable nightlife atmosphere with Elements Deep.About the artist: Mari Ferrari is a DJ and electronic music producer, known for tracks like Bad, Maria Maria (feat. Miss Mary), My Mind, Destiny and All I Want.Venue: Atlantis Brewery, HSR Layout",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-11-01T00:30:00+05:30",
+        "validFrom": "2026-10-22",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/atlantis-xperience-with-dj-mari-ferrari-at-atlantis-brewery-tickets/80002731794017"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-11-01T00:30:00+05:30",
+        "validFrom": "2026-10-22",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/atlantis-xperience-with-dj-mari-ferrari-at-atlantis-brewery-tickets/80002731794017",
+        "availability": "https://schema.org/InStock",
+        "name": "Couple Entry"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-11-01T00:30:00+05:30",
+        "validFrom": "2026-10-22",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/atlantis-xperience-with-dj-mari-ferrari-at-atlantis-brewery-tickets/80002731794017",
+        "availability": "https://schema.org/InStock",
+        "name": "Ladies Entry"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Beats HIGH Events",
+        "url": "https://allevents.in/org/beats-high-events/11102780",
+        "description": "Events | Nightlife | Party | Concerts | Party Promotions"
       }
     ]
   },
