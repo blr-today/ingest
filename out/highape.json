@@ -327,7 +327,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-featuring-shreyas-rayas-p48o8t9jut",
-      "validFrom": "2026-10-21T17:16:51.483Z"
+      "validFrom": "2026-10-22T21:26:33.766Z"
     },
     "performer": [
       {
@@ -377,7 +377,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-adarsha-jbvh4kbo58",
-      "validFrom": "2026-10-21T16:47:48.748Z"
+      "validFrom": "2026-10-22T21:26:34.478Z"
     },
     "performer": [
       {
@@ -426,7 +426,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-narendra-nhth7tj0gj",
-      "validFrom": "2026-10-21T17:12:54.969Z"
+      "validFrom": "2026-10-22T21:26:35.098Z"
     },
     "performer": [
       {
@@ -475,7 +475,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-narendra-zpt80qc4gv",
-      "validFrom": "2026-10-21T16:48:26.847Z"
+      "validFrom": "2026-10-22T21:26:35.704Z"
     },
     "performer": [
       {
@@ -1412,57 +1412,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bollyverse Ft Electro Smashers | Nolimmits ",
-    "description": "HighlightsRetro-meets-modern Bollywood nightCurated by Electro SmashersNon-stop Bollywood beats and dancingTropical cinema-inspired setting30% off on total food",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/07/b81e5a75ee7fa614f12d7591303a20a1.jpg"
-    ],
-    "startDate": "2026-10-22T20:00:00+05:30",
-    "endDate": "2026-10-23T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "NoLimmits Lounge and Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.970303,
-        "longitude": 77.610947
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Nolimmits Lounge & Club",
-      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge-club-9ubdh"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "1999",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/bollyverse-ft-electro-smashers-nolimmits-cuwb6qx19v",
-      "validFrom": "2026-10-22T03:46:25.846Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "ElectroSmashers",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/0863bd98/vd3npx5rz8f1jepahyiv.jpg",
-        "url": "https://www.highape.com/bangalore/artists/electrosmashers"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/bollyverse-ft-electro-smashers-nolimmits-cuwb6qx19v"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bollywood & Beyond Edition 6 | Nolimmits Lounge",
     "description": "HighlightsDJ Night ft. DJ Sash and DJ RaviBollywood NightDance FloorFood &amp; DrinksGreat AmbienceStep into the world of Bollywood at Bollywood &amp; Beyond – ",
     "image": [
@@ -1615,62 +1564,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-5s8cj2bi47"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bollywood Ladies Night ft DJ Mark",
-    "description": "HighlightsBollywood Ladies Night with high-energy desi vibesDJ Mark spinning Bollywood hits and party anthemsGlam crowd with TOCA’s signature party ambiencePrem",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/12bf0d11c5dbde08e3e260c2e12cfe04.jpg"
-    ],
-    "startDate": "2026-10-22T20:00:00+05:30",
-    "endDate": "2026-10-23T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Toca Brigade",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.974096,
-        "longitude": 77.607694
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toca Brigade",
-      "url": "https://www.highape.com/bangalore/organisers/toca-brigade-f1ababf130"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-ft-dj-mark-6u4ehay28z",
-      "validFrom": "2026-10-21T20:57:59.542Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Mark",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-mark-lavwqgkolg"
-      },
-      {
-        "@type": "Person",
-        "name": "DJ Firex",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-ft-dj-mark-6u4ehay28z"
   },
   {
     "@context": "https://schema.org",
@@ -3165,63 +3058,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dinner-with-strangers-478u1yb5el"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Divas Night",
-    "description": "HighlightsThursday Divas Night featuring DJ Sassy and DJ MysteryAfrobeat, Afro-Bollywood and Bollywood favouritesAdditional sets by DJ Prashanth and DJ DeepA hi",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/18/43ba1e0a17c55190221b42eb9461a69e.jpg"
-    ],
-    "startDate": "2026-10-22T20:00:00+05:30",
-    "endDate": "2026-10-23T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Yeda Republic Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.934342,
-        "longitude": 77.615545
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "YEDA REPUBLIC",
-      "url": "https://www.highape.com/bangalore/organisers/yeda-republic-bengaluru-u8d09"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "1000",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/divas-night-iw0die268h",
-      "validFrom": "2026-10-21T20:44:59.596Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ SASSY ",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-sassy-lavwqgkolg"
-      },
-      {
-        "@type": "Person",
-        "name": "DJ Mystery",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-mystery-bp1q"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/divas-night-iw0die268h"
   },
   {
     "@context": "https://schema.org",
@@ -5859,7 +5695,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/karaoke-evening-ft-adarsha-g95xpdvir9",
-      "validFrom": "2026-10-21T16:47:35.608Z"
+      "validFrom": "2026-10-22T21:26:36.467Z"
     },
     "performer": [
       {
@@ -5908,7 +5744,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/karaoke-evening-ft-joshika-9blpqxuuro",
-      "validFrom": "2026-10-21T16:47:44.045Z"
+      "validFrom": "2026-10-22T21:26:37.081Z"
     },
     "performer": [
       {
@@ -8590,7 +8426,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-i5wc2ozb34",
-      "validFrom": "2026-10-21T16:48:17.599Z"
+      "validFrom": "2026-10-22T21:26:37.786Z"
     },
     "performer": [
       {
@@ -8639,7 +8475,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-o1rpnge6wi",
-      "validFrom": "2026-10-21T16:47:29.263Z"
+      "validFrom": "2026-10-22T21:26:38.380Z"
     },
     "performer": [
       {
@@ -8688,7 +8524,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-rz51hu9np6",
-      "validFrom": "2026-10-21T17:16:56.918Z"
+      "validFrom": "2026-10-22T21:26:39.484Z"
     },
     "performer": [
       {
@@ -8738,7 +8574,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-tuwzx5f67k",
-      "validFrom": "2026-10-21T16:47:47.749Z"
+      "validFrom": "2026-10-22T21:26:40.127Z"
     },
     "performer": [
       {
@@ -9848,7 +9684,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sunday-karaoke-evening-0vj9k7puj9",
-      "validFrom": "2026-10-21T16:47:59.320Z"
+      "validFrom": "2026-10-22T21:26:41.180Z"
     },
     "performer": [
       {
@@ -9898,7 +9734,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sunday-karaoke-evening-tz00jp3rzi",
-      "validFrom": "2026-10-21T16:42:51.430Z"
+      "validFrom": "2026-10-22T21:26:42.331Z"
     },
     "performer": [
       {
@@ -10785,56 +10621,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Thursday Red Room",
-    "description": "HighlightsDJ NightNonstop MusicBollywood MusicGreat AmbienceMouthwatering AppetisersCocktails and MocktailsStep into a night of bold energy, seductive beats, an",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/20/ed49412080b9b5575db843663f138843.jpg"
-    ],
-    "startDate": "2026-10-22T20:00:00+05:30",
-    "endDate": "2026-10-23T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "BudBee Restobar 104",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933225,
-        "longitude": 77.614688
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban NS Events",
-      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/thursday-red-room-t129g189zu",
-      "validFrom": "2026-10-22T10:14:37.230Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Kismat",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/01/19/a20eb117f8ce895c7cf9792153940620.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-kismat-fedcty"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/thursday-red-room-t129g189zu"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Tipsy Bull Halloween Bash 2026 Ft DJ Esha",
     "description": "HighlightsHalloween party with spooky-themed decor and immersive ambienceDJ Esha headlining the nightSupporting act by DJ SanketHigh-energy music and electrifyi",
     "image": [
@@ -11420,7 +11206,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-nandini-o1ew5qoykz",
-      "validFrom": "2026-10-21T17:16:59.927Z"
+      "validFrom": "2026-10-22T21:26:43.526Z"
     },
     "performer": [
       {
@@ -11470,7 +11256,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-pavan-260691fzcn",
-      "validFrom": "2026-10-21T17:17:00.649Z"
+      "validFrom": "2026-10-22T21:26:44.260Z"
     },
     "performer": [
       {
@@ -11520,7 +11306,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-pavan-ixi1kcl2pk",
-      "validFrom": "2026-10-21T15:24:44.312Z"
+      "validFrom": "2026-10-22T21:26:45.345Z"
     },
     "performer": [
       {
@@ -11619,7 +11405,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-shreyas-6ei9mux0wo",
-      "validFrom": "2026-10-21T17:17:02.506Z"
+      "validFrom": "2026-10-22T21:26:46.797Z"
     },
     "performer": [
       {
