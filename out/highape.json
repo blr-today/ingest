@@ -277,7 +277,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/afterall-live-at-sunburn-union-s3j33965tx",
-      "validFrom": "2026-10-21T10:46:42.766Z"
+      "validFrom": "2026-10-22T11:59:32.049Z"
     },
     "performer": [
       {
@@ -1101,7 +1101,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/biggest-kannada-dj-party-r2w0rh34wt",
-      "validFrom": "2026-10-21T11:57:28.999Z"
+      "validFrom": "2026-10-22T11:59:32.753Z"
     },
     "performer": [
       {
@@ -2301,7 +2301,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/city-showdown-ft-dr-prakhar-and-art-htgewkl9yn",
-      "validFrom": "2026-10-21T10:08:31.338Z"
+      "validFrom": "2026-10-22T10:00:01.724Z"
     },
     "performer": [
       {
@@ -2761,6 +2761,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dear-zindagi-circl-m1lffo46tz"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Desi Sunday Ft VDJ Sandy | Nolimmits Lounge",
+    "description": "HighlightsDJ Night ft VDJ SandyNon-stop MusicBollywood MusicEDMGreat AmbienceMouthwatering AppetizersCocktails and MocktailsGet ready to turn up the heat with D",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/0c6d8cc0abfacf155dbdbf01d8dda4cc.jpg"
+    ],
+    "startDate": "2026-10-25T20:00:00+05:30",
+    "endDate": "2026-10-26T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-vdj-sandy-nolimmits-lounge-8syvkjjtou",
+      "validFrom": "2026-10-22T11:01:04.385Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "VDJ Sandy",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/vdj-sandy-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-vdj-sandy-nolimmits-lounge-8syvkjjtou"
   },
   {
     "@context": "https://schema.org",
@@ -3257,7 +3307,7 @@
       "highPrice": "199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/exclusive-tamil-kuthu-night-v01kgrti5v",
-      "validFrom": "2026-10-21T11:21:35.318Z"
+      "validFrom": "2026-10-22T11:59:34.629Z"
     },
     "performer": [
       {
@@ -4302,7 +4352,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-night-cw9arrtem7",
-      "validFrom": "2026-10-21T09:57:53.355Z"
+      "validFrom": "2026-10-22T10:25:20.278Z"
     },
     "performer": [
       {
@@ -5212,6 +5262,58 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/karaoke-thursday-wt8j6ulwl6"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kinusaiga Fabric Art Workshop - Diwali Edition",
+    "description": "Come spend a few slow hours playing with fabric, colour and texture - with a festive twist.Kinusaiga is a beautiful Japanese art form where pieces of fabric are",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/56d909a7c20ffc59e0d674f7fcff5509.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/cfde6ef336cf1bebc86611cfff99cc1e.avif",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/30280c43b84289eef352cf2f7ab569f5.png"
+    ],
+    "startDate": "2026-10-31T12:00:00+05:30",
+    "endDate": "2026-10-31T14:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Pinball",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "524, 16th Main Rd, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.929482,
+        "longitude": 77.62466
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pinball labs",
+      "url": "https://www.highape.com/bangalore/organisers/pinball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1190",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/kinusaiga-fabric-art-workshop-diwalii-edition-v5vf2yle9s",
+      "validFrom": "2026-10-22T10:05:15.954Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sanskruti Landage",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/a6285458/y7t72wpew2igpzuxuklc.jpg",
+        "url": "https://www.highape.com/bangalore/artists/sanskruti-landage-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/kinusaiga-fabric-art-workshop-diwalii-edition-v5vf2yle9s"
   },
   {
     "@context": "https://schema.org",
@@ -6439,7 +6541,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/monday-mischief-at-sugar-factory-reloaded-eokdtjfhxn",
-      "validFrom": "2026-10-21T11:46:39.795Z"
+      "validFrom": "2026-10-22T11:59:36.271Z"
     },
     "performer": [
       {
@@ -7244,7 +7346,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pre-halloween-night-yvv9jh6y4d",
-      "validFrom": "2026-10-21T11:57:32.228Z"
+      "validFrom": "2026-10-22T11:59:36.969Z"
     },
     "performer": [
       {
@@ -7942,6 +8044,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/saturday-botc-game-evening-t8g9uk63bf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Saturday Club Nocturno",
+    "description": "HighlightsExperience Club Nocturno, an electrifying nightlife event at Skyee.Featuring a special DJ set by Rishiboi.Immerse yourself in high-energy beats, vibra",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/5a43afb8399f69c7c5fc080176dc9f62.jpg"
+    ],
+    "startDate": "2026-10-24T20:00:00+05:30",
+    "endDate": "2026-10-25T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Skyye",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.971427,
+        "longitude": 77.596508
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/saturday-club-nocturno-uk7hcp1ej9",
+      "validFrom": "2026-10-22T11:27:24.228Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ JD",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-jd-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Rishiboy",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/rishiboy-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/saturday-club-nocturno-uk7hcp1ej9"
   },
   {
     "@context": "https://schema.org",
@@ -9365,6 +9523,59 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Weaving Room - Wall Tapestry Artsy Workshop",
+    "description": "Come spend a few slow hours exploring yarn, fibre, texture and the meditative rhythm of weaving.This workshop is a tactile introduction to weaving, where you’ll",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/203260c507e4024d4531e7fb53bf34d2.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/79945a927b1e0c2dfdf9f8d799bd5b40.heic",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/a0a7fb294202c9cd812db53ea4e736b4.heic",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/22/2b8dcd084493aafacfaf724cbf5fc44a.heic"
+    ],
+    "startDate": "2026-11-01T12:00:00+05:30",
+    "endDate": "2026-11-01T14:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Pinball",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "524, 16th Main Rd, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.929482,
+        "longitude": 77.62466
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pinball labs",
+      "url": "https://www.highape.com/bangalore/organisers/pinball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1590",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-weaving-room-wall-tapestry-artsy-workshop-ekctnfz49g",
+      "validFrom": "2026-10-22T11:00:55.075Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sanskruti Landage",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/a6285458/y7t72wpew2igpzuxuklc.jpg",
+        "url": "https://www.highape.com/bangalore/artists/sanskruti-landage-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-weaving-room-wall-tapestry-artsy-workshop-ekctnfz49g"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Wild Wednesday Night",
     "description": "HighlightsDJ NightHard-Hitting BeatsHigh-Energy Dance FloorWarehouse-Inspired VibesWednesday Night PartyPremium Food &amp; DrinksImmersive Sound &amp; LightingL",
     "image": [
@@ -9499,7 +9710,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/thursday-red-room-t129g189zu",
-      "validFrom": "2026-10-21T11:57:33.553Z"
+      "validFrom": "2026-10-22T10:14:37.230Z"
     },
     "performer": [
       {
