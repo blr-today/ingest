@@ -20,6 +20,10 @@ def venues():
 
 # Listings append the city or the area to the venue's own name
 SUFFIX = re.compile(r"\s*(\|.*|[:,]\s*(bengaluru|bangalore)\W*)$", re.IGNORECASE)
+CITY = re.compile(
+    r"\s*[,:|-]\s*(bengaluru|bangalore)(\s*,\s*karnataka)?(\s*,\s*india)?\W*$",
+    re.IGNORECASE,
+)
 
 
 def lookup(name):
@@ -32,13 +36,22 @@ def lookup(name):
     return None
 
 
+def near(venue, lat, lng, metres):
+    north = (venue["latitude"] - lat) * 110_600
+    east = (venue["longitude"] - lng) * 109_000
+    return north * north + east * east <= metres * metres
+
+
 def nearest(lat, lng, metres=30):
-    for venue in venues():
-        north = (venue["latitude"] - lat) * 110_600
-        east = (venue["longitude"] - lng) * 109_000
-        if north * north + east * east <= metres * metres:
-            return venue
-    return None
+    return next((v for v in venues() if near(v, lat, lng, metres)), None)
+
+
+def pin(place, venue):
+    place["geo"] = {
+        "@type": "GeoCoordinates",
+        "latitude": venue["latitude"],
+        "longitude": venue["longitude"],
+    }
 
 
 class Venues(Processor):
@@ -49,21 +62,28 @@ class Venues(Processor):
         if not isinstance(place, dict):
             return event
         geo = place.get("geo")
-        if geo:
-            # Hosts like Urbanaut's leave the venue unnamed but pinned
-            if not str(place.get("name") or "").strip():
-                try:
-                    venue = nearest(float(geo["latitude"]), float(geo["longitude"]))
-                except KeyError, TypeError, ValueError:
-                    venue = None
-                if venue:
-                    place["name"] = venue["name"]
+        name = str(place.get("name") or "").strip()
+        # The city belongs in the address, not the place name
+        if CITY.search(name):
+            name = place["name"] = CITY.sub("", name)
+        if not geo:
+            venue = lookup(name)
+            if venue:
+                pin(place, venue)
             return event
-        venue = lookup(str(place.get("name") or ""))
-        if venue:
-            place["geo"] = {
-                "@type": "GeoCoordinates",
-                "latitude": venue["latitude"],
-                "longitude": venue["longitude"],
-            }
+        try:
+            lat, lng = float(geo["latitude"]), float(geo["longitude"])
+        except KeyError, TypeError, ValueError:
+            return event
+        # Hosts like Urbanaut's leave the venue unnamed but pinned
+        if not name:
+            venue = nearest(lat, lng)
+            if venue:
+                place["name"] = venue["name"]
+                pin(place, venue)
+            return event
+        # Listings pin one venue metres apart, which splits it on the map
+        venue = lookup(name)
+        if venue and near(venue, lat, lng, 100):
+            pin(place, venue)
         return event

@@ -57,3 +57,28 @@ def test_names_unnamed_places_at_a_known_venue():
         }
     }
     assert Venues.process("u", named)["location"]["name"] == "Host"
+
+
+def test_snaps_nearby_pins_to_the_venue():
+    for lat, lng in [(12.9672214, 77.6366982), (12.9672315, 77.6367239)]:
+        event = {"location": {"name": "Underline Center", "geo": {"latitude": lat, "longitude": lng}}}
+        geo = Venues.process("u", event)["location"]["geo"]
+        assert (geo["latitude"], geo["longitude"]) == (12.96725, 77.63674)
+    far = {"location": {"name": "Underline Center", "geo": {"latitude": 12.97, "longitude": 77.64}}}
+    assert Venues.process("u", far)["location"]["geo"]["latitude"] == 12.97
+
+
+def test_drops_the_city_from_place_names():
+    names = {
+        "BudBee Restobar 104: Bengaluru": "BudBee Restobar 104",
+        "Hobby Ghar: Seshadripuram, Bengaluru.": "Hobby Ghar: Seshadripuram",
+        "The Humming Tree Bar and Bistro | Indiranagar, Bangalore": "The Humming Tree Bar and Bistro | Indiranagar",
+        "Fortius Origin, Koramangala, Bengaluru, Karnataka, India": "Fortius Origin, Koramangala",
+        "Science Gallery Bengaluru": "Science Gallery Bengaluru",
+        "Bengaluru": "Bengaluru",
+    }
+    for before, after in names.items():
+        event = {"location": {"name": before, "address": f"{before}, India"}}
+        place = Venues.process("u", event)["location"]
+        assert place["name"] == after
+        assert place["address"] == f"{before}, India"
