@@ -1,56 +1,6 @@
 [
   {
     "@type": "SportsEvent",
-    "name": "Run and Socialise at Agara Lake",
-    "url": "https://indiarunning.com/events/run_and_socialise_at_agara_lake_32404",
-    "startDate": "2026-10-24T07:00:00+05:30",
-    "endDate": "2026-10-24T08:30:00+05:30",
-    "description": "A relaxed Saturday morning run, followed by a chance to slow down, hang out, and actually get to know the people you run with.\n🏃‍♀️ Community Run through Agara Lake\n🤝 Socialising with the PaceX community\nCome for the miles, stay for the people. Just run, hang out, and have a good Saturday.",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2026/10/24/10485/banner1792227672881",
-    "location": {
-      "@type": "Place",
-      "name": "Agara Village",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3, Agara Lake Trail, near Cafe Coffee Day - Ramesh Plaza, HSR Layout, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560102",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9233945,
-        "longitude": 77.645995
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "2.5K",
-        "price": "99",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "99",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "7K",
-        "price": "99",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
     "name": "Breakthrough Run",
     "url": "https://indiarunning.com/events/breakthrough_run_33370",
     "startDate": "2026-10-25T05:00:00+05:30",
@@ -162,23 +112,23 @@
     "url": "https://indiarunning.com/events/run_and_coffee_rave_at_indiranagar_with_pacex_58677",
     "startDate": "2026-10-25T07:00:00+05:30",
     "endDate": "2026-10-25T10:30:00+05:30",
-    "description": "Get ready for \nPaceX Run + Rave at Social, Indiranagar!\n 🏃‍♀️🔥 \nJoin us for a fun community run followed by a post-run \nrave with music, dancing and good vibes. \nActiv Hippy\n is joining us to fuel the experience, making it the perfect mix of fitness, recovery and socialising. \nWhether you’re coming to get your miles in, meet new people or dance your Sunday morning away, this one’s for you. \nCome for the run, stay for the rave! ❤️‍🔥",
+    "description": "Get ready for \nPaceX Run + Rave at Indiranagar!\n 🏃‍♀️🔥\nJoin us for a fun community run followed by a post-run \nrave at Social, Indiranagar\n, with music, dancing and good vibes. ❤️‍🔥\nActiv Hippy\n is joining us to fuel the experience, making it the perfect mix of fitness, recovery and socialising.\nWhether you’re here to get your miles in, meet new people or dance your Sunday morning away, this one’s for you.\nCome for the run, stay for the rave!\n 🔥",
     "image": "https://race-registration-cdn.indiarunning.com/events/2026/10/25/10474/banner1792132771625",
     "location": {
       "@type": "Place",
-      "name": "Hal",
+      "name": "7th Cross",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Thippasandra, Bengaluru, Karnataka 560075, India",
+        "streetAddress": "XJCV+GMP Indiranagara Park, 6th Cross, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
         "addressLocality": "Bengaluru",
         "addressRegion": "Karnataka",
-        "postalCode": "560075",
+        "postalCode": "560008",
         "addressCountry": "India"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.9707654,
-        "longitude": 77.6476266
+        "latitude": 12.9713289,
+        "longitude": 77.64421569999999
       }
     },
     "sport": "Running",
@@ -200,6 +150,13 @@
       {
         "@type": "Offer",
         "name": "7K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
         "price": "499",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
@@ -322,21 +279,21 @@
       {
         "@type": "Offer",
         "name": "5k",
-        "price": "1250",
+        "price": "1100",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "10k",
-        "price": "1250",
+        "price": "1100",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
         "name": "21.1K",
-        "price": "1250",
+        "price": "1100",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }
@@ -539,7 +496,8 @@
         "@type": "Offer",
         "name": "10k",
         "price": "720",
-        "priceCurrency": "INR"
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
       },
       {
         "@type": "Offer",
