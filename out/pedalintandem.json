@@ -29,40 +29,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Devanahalli Heritage Ride",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "in association with bangalore local walks"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "devanahalli heritage ride",
-        "price": "3150",
-        "addOn": [
-          {
-            "@type": "offer",
-            "name": "devanahalli heritage ride + bicycle rental ",
-            "price": "4050",
-            "priceCurrency": "INR"
-          }
-        ]
-      }
-    ],
-    "startDate": "2026-10-25T06:30:00+05:30",
-    "endDate": "2026-10-25T11:00:00+05:30",
-    "description": "\nExplore the beautiful environs of Devanahalli Fort and Avathi village on a breezy bicycle ride through lakes, fields, heritage monuments and secret pathways. You'll hear tales of mystery, romance, palace intrigue and conquest. You'll stop by some beautifully restored railway stations from the colonial era. You'll bike through fields of roses, chrysanthemum and jasmine, and enjoy a delicious picnic breakfast at one of the most scenic spots in the area.\n{'DISTANCE': '20KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '120M', '% UNPAVED': '45%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/devanahalli-heritage-ride",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "Cycle School",
     "sports": "Cycling",
     "location": {
