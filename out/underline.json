@@ -682,7 +682,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-24T19:30:00.000Z",
           "name": "Early Bird",
           "price": 299,
@@ -850,7 +850,7 @@
         },
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-25T08:00:00.000Z",
           "name": "Spectator - Regular Ticket",
           "price": 249,

@@ -388,6 +388,63 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Eureka Eklavya Festival",
+    "description": "Eureka Eklavya Festival - A celebration of curiosity, creativity, and childhood joy.Eklavya School invites children and families to the Eureka Eklavya Festival, a vibrant, day-long celebration designed especially for children aged 2 to 10 years. The festival is all about sparking curiosity, imagination, and the pure joy of learning through play. Grab this opportunity to interact with renowned artists and experts in their field, who will conduct a hands-on workshop for your child.See your child go from an art workshop to a special music session, to learning about Science in a hands-on way, to petting unique animals to enjoying Rameshwaram Cafe to an amazing Magic Show, all between 10am-3pm! Every corner of the festival offers hands-on fun and discovery for young minds, you would need to choose from dozens of simultaneous sessions!What's more, enjoy the delicious food of Rameshwaram Cafe, deserts by Chunkology and The Bakers' Dozen and shop amazing goodies with Zookeeper and Loopie.Limited spots are available.Entry pass is on a per child basis. Two adults may accompany the child free of cost.Entry pass includes access to all workshops and activities for FREE!What's happening at the festival?Prani Pet Sanctuary's interaction with AnimalsMagic Show by Amazing DavidSun PaintingStorytelling & PuppetryScience Experiments with Param Science Centre Musical Sessions with Tala Music Academy2D to 3D DrawingLearning about the Colour WheelTattoo ArtistBig Bubble StationBook Fair by Dragonfly Reads BookstoreShopping with Zookeeper and Loopie!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/99B901175F8941FEAC781A0AB8763FF3_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5E210BFACBB046D7B4A9BE3D512577E5_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F87B685E18F04C7A8CC92557E8ADF8ED_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4E2A765C5BCF49308DDB92BE53A5AE00_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0DD38B9848FF4A78B13C9EAFD722C0F3_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/58A0FD29374A4ECAB2FD2DEC072936A7_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/26D4EEA163674E32B66D2FD57B22100D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/610FE660BD87467D9AC56A1E463B2676_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E97599B5FD134E5C875324D211E0D456_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3425AC5E40F8490BAE62ABF66F1DAB46_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6C0B40938463411AA5B37B184857B63F_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-14T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Sy. No. 85/6, Opp Kogilu Lake Kogilu - Kattigenahalli, road, Kogilu Main Rd, Yelahanka, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgQELQQUZrjsRMwo_5zHZuuY",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1077181,
+        "longitude": 77.62020079999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 500,
+    "remainingAttendeeCapacity": 500,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 999.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Eklavya School, Bengaluru",
+      "description": "A unique event for 2-6 year olds offering early exposure to different kinds of arts from theatre, to cinema to folk art and community choir.",
+      "url": "https://urbanaut.app/partner/artzopia",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/2230AB2EC96040E2867954701D103EC8_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/eureka-eklavya-festival",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "AG Lit Sisters",
     "description": "With Diwali around the corner, AG Lit Sisters invites readers to explore the fascinating world of goddesses in Indian mythology and literature.From Lakshmi and Saraswati to Durga and Kali, and from Sita and Draupadi to contemporary mythological retellings, we'll explore the many stories, interpretations and representations of the feminine divine. Through books, folklore and literary retellings, we'll discuss themes of power, wisdom, courage, devotion, sacrifice, agency and rebellion, while revisiting familiar stories through fresh perspectives.Members are welcome to bring a book about an Indian goddess, a mythological retelling, a collection of folklore, or simply their curiosity about these timeless stories.As always, readers are welcome, but non-readers are celebrated! The session is open to anyone who enjoys stories and thoughtful conversations, whether or not they've read a book for the theme.",
@@ -507,7 +564,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -552,7 +609,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -596,7 +653,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -881,52 +938,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/14CFA1171B734589BBB06DAE191E5DA6_converted_webp.webp"
     ],
-    "startDate": "2026-10-22T19:00:00+05:30",
-    "endDate": "2026-10-22T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672214,
-        "longitude": 77.6366982
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/tabletop-thursday-with-reroll-board-games#2026-10-22T1900",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tabletop Thursday with ReRoll Board Games",
-    "description": "We're here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!You don’t need to have any experience with these kinds of board games before—we love introducing people to new ones! We’ll help you pick a game, set it up, and explain the rules.You can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases while making some friends in the process.Come solo, with a date, or in a group—we've got something for everyone!Who are ReRoll Board Games?We’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part-time for almost nine years now.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/14CFA1171B734589BBB06DAE191E5DA6_converted_webp.webp"
-    ],
     "startDate": "2026-10-29T19:00:00+05:30",
     "endDate": "2026-10-29T23:00:00+05:30",
     "location": {
@@ -957,7 +968,7 @@
       "url": "https://urbanaut.app/partner/underlinecenter",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/69E820415CFC45B3943A3264334C02F4_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/tabletop-thursday-with-reroll-board-games#2026-10-29T1900",
+    "url": "https://urbanaut.app/spot/tabletop-thursday-with-reroll-board-games",
     "keywords": [
       "Leisure",
       "Local",
@@ -1136,7 +1147,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1154,57 +1165,6 @@
     "url": "https://urbanaut.app/spot/sthira-for-food-entrepreneurs",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "शून्य शिखर - Shoonya Shikhar",
-    "description": "Shoonya — emptiness, the zero, the point past which nothing further needs saying — is where this evening is headed. Rather than build to a peak, this is a night that quietens, note by note, until only stillness remains.Vedanth Bharadwaj and Gurupriya Atreya begin. They start with the Bhakti poets, songs that still have some movement and argument in them, lullabies from across the world and then turn gradually towards gentler pieces, the kind that ask the room to lean in rather than sit back.Mir Rajak and Group follow, Mirasi musicians from Pugal in Rajasthan, whose families have sung the Sufiyana kalam for generations. Their music is often full-throated, built for courtyards and long nights. Tonight they sing Kabir, Bulleh Shah and other Sufi poets in its softer, more inward register, the way these songs are sung when the gathering is small and no one is in a hurry.By the end, if it works, the last note will not feel like a finish. It will feel like the room has simply gone quiet.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/36615B46CCFF4C84984DF8AB2BB67D6A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/67CA38799AC649A6B310FC240E117733_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E4D0283670A74CDDBAB3C92A9D0B6AB1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0219EAA844D1483E948A1FA21597E2B0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7629438E436C4AFE93851A25C455523B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/266B66BF40A04CF6AD829691CBA0E904_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7AB2A6CCCB5340C29CB693A3CA7D819F_converted_webp.webp"
-    ],
-    "startDate": "2026-10-24T19:00:00+05:30",
-    "endDate": "2026-10-24T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Museum Rd, opp. Patricks church, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9703765,
-        "longitude": 77.6043811
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 799.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Kabir Festival",
-      "description": "Music for harmony: Creating space for shared humanity beyond identities.\n Recalling poets and saints and their language of love , equality ,oneness  via music and singing- together in harmony",
-      "url": "https://urbanaut.app/partner/bangalore-kabir-festival",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9D46E766A2504B9DA174F8073F1A6903_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/bangalore-kabir-festival-shoonya-shikhar",
-    "keywords": [
-      "Music",
-      "Festival",
       "URBANAUT"
     ]
   },
@@ -1335,7 +1295,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1380,7 +1340,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1470,7 +1430,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2039,50 +1999,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
     ],
-    "startDate": "2026-10-22T17:00:00+05:30",
-    "endDate": "2026-10-22T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-22T1700",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Photo Meetup - Shoot Together",
-    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
-    ],
     "startDate": "2026-10-29T17:00:00+05:30",
     "endDate": "2026-10-29T19:00:00+05:30",
     "location": {
@@ -2113,7 +2029,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together#2026-10-29T1700",
+    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -2199,7 +2115,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2238,6 +2154,61 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
     ],
+    "startDate": "2026-10-24T12:00:00+05:30",
+    "endDate": "2026-10-24T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd, Jayabharath Nagar, M.E.G. Officers Colony, Cooke Town, Bengaluru, Karnataka 560033, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0011525,
+        "longitude": 77.6292213
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2950.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "paChaak",
+      "description": null,
+      "url": "https://urbanaut.app/partner/pachaak",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/07880A165B554FFCB3DFAFEB67512042_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/goa-is-a-bebinca-a-food-theatre-experience#2026-10-24T1200",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Goa is a Bebinca - A Food Theatre Experience",
+    "description": "What makes a place linger in your memory—its performance, its people, or its flavor?Welcome to Goa is a Bebinca, brought to you by paChaak (yes, the food theatre people! ✨).We’re turning back the clock and inviting you into a bustling, atmospheric Goan taverna—a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary—a total firecracker of a woman who is determined to put her family’s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch—you’ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn’t just a show or a meal—it’s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect🎭 90 Minutes of Pure Immersive Theatre Step into the narrative, interact with characters, and be part of the story as it unfolds around you!🍸 Bar Bites & Spirits Includes a curated menu of Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol. Note: Entry allowed for guests above 21 years, as alcohol is being served.Meat served is Pork and note Bebinca contains egg📍 Bangalore Run Only in October!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7218664A2A8E4A138EBAC6044B9A8F80_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/553C1392CCD944768F44C8CCFB4F5F7C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D86975F8160E4088A7D0DB27083E30BE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FA521654EE6B4C8B97D4353A07AC13C9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A29D79E447F3487B9A939CF779F0F324_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0C581237DEBE43198E4DDB7A33B40D9F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7C7AF5A099204E1F917A300BCAE0753E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5E8C1AB473FE42558CF93D7BF5B56A39_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D8B396619B91466095F2292BDA61726D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F859740472D540ECB6856A1838704A64_converted_webp.webp"
+    ],
     "startDate": "2026-10-25T12:00:00+05:30",
     "endDate": "2026-10-25T13:30:00+05:30",
     "location": {
@@ -2253,7 +2224,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2308,7 +2279,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2635,7 +2606,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2777,7 +2748,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2874,7 +2845,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3156,7 +3127,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 174,
+    "remainingAttendeeCapacity": 172,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3200,7 +3171,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3342,7 +3313,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4262,7 +4233,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4346,7 +4317,7 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/69A4260EA6FD4E56939D1A0B8F0B1486_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/50A362D4F8B9441685832D20A4D3909F_converted_webp.webp"
     ],
-    "startDate": "2026-10-24T15:00:00+05:30",
+    "startDate": "2026-10-24T18:00:00+05:30",
     "endDate": "2026-10-24T23:55:00+05:30",
     "location": {
       "@type": "Place",
@@ -4360,8 +4331,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 47,
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 140,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4501,7 +4472,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 147,
+    "remainingAttendeeCapacity": 145,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4718,60 +4689,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chef's table by Michelin-trained chef",
-    "description": "A few weeks ago, a guest walked in feeling a little homesick. By dessert, he wasn’t. Another said it felt like walking into her cousin’s house for a family dinner.That’s exactly what we’re going for. Not Just Dinner is run by two best friends who’ve known each other for over a decade. We built it to feel like a home away from home, except the food is anything but ordinary.This October, we’re bringing you Menu 4.0 a brand-new, fully vegetarian 6 course menu with dishes you’ve genuinely never had before. Our kitchen is led by a Le Cordon Bleu Paris alumna and Michelin-trained chef, with every course designed to surprise you.And because Kiran, our chef, our founder turned a year older on 3rd October, she’s celebrating the only way she knows how, by cooking for people.🎁The first 2 bookings for our dinners get 20% off.Use code BIRTHDAYTREAT20 at checkout.📅 Saturdays, 17th & 24th October | 7:30 PM📍 Koramangala — address shared after booking🎟️ Only 8 seats per eveningAllergies? Don’t worry, we’ll check in with you personally.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/88B27728D6F64685974E09ABA9F01E75_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DE0E9557DF86433FB1E1111642CDB692_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7F2F05F08FE943578FEBFC1BDAD7E579_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D523934D3B684C76AF969B7ADE48CD18_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/444F6C9FFAB74D038F61CB125BCBAB72_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/871EFBDABFD34824B88A25E4DFD75627_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/932F43E843A8494F99B86F45D4B0AAD0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7484E6AA3B824394AFD3DD10EE53AEA4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BAC4557A82484069AB39C8B3B1EAE002_converted_webp.webp"
-    ],
-    "startDate": "2026-10-24T19:30:00+05:30",
-    "endDate": "2026-10-24T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Koramangala, Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9352403,
-        "longitude": 77.624532
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 4,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 3200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "NOT JUST DINNER",
-      "description": null,
-      "url": "https://urbanaut.app/partner/not-just-dinner",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/22ED04A61DCE41149D4601D729C4498C_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/17oct",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Physical Theatre: Its Possibilities and Limits",
     "description": "Physical Theatre: Its Possibilities and LimitsA Conversation with Tushar Pandey, Ashwath Bhatt and Vivek Vijayakumaran, moderated by Anmol Vellani Sunday, 22nd November, 7.30 p.m. - 9.00 p.m.About the ConversationPhysical theatre communicates primarily, though not solely, through the language of gestures, facial expressions and movement. The exception is mime, which is non-verbal by definition.In this session, three theatre artists will speak about what attracted them to physical theatre and describe the nature of their involvement in the teaching and practice of this stylised form of performance. As their work as directors and actors has also extended beyond physical theatre, they will reflect on the reasons for their divergent artistic choices.Physical theatre has many strengths. Most notably, it can overcome language barriers, express what words cannot, connect with audiences at a visceral level, harness the ideas and creativity of the whole group, and rely on minimalist scenography. But equally, it is constrained by the very characteristics that set it apart from other theatre styles. This session will conclude with a discussion on the limits of physical theatre and the creative strategies that can prevent style from overshadowing substance.About the ParticipantsAshwath BhattAshwath Bhatt is a Mumbai-based screen and stage artist, who has worked with acclaimed filmmakers and reputed theatre companies both in India and abroad. He has acted under the direction of various Indian and international theatre luminaries, and conducted workshops on various aspects of acting worldwide. He serves on the selection panel of LAMDA in India as well as for the Inlaks Theatre Awards, of which he is the co-creator. He teaches at various prestigious institutions in India and overseas. He is widely known for his work on the ‘Red Nose Clowning’ in India. In 2007, he established a nonprofit trust called the Theatre Garage Project. His work is guided by the idea of finding something in nothing. He recently directed the play Paladin based on the best-selling book When Breath Becomes Air by Dr. Paul Kalanithi.Tushar PandeyTushar Pandey is an actor, director and theatre educator with over two decades of experience in performance, teaching and devised theatre. He is a graduate of the National School of Drama, India, and has trained in physical theatre and Lecoq pedagogy at the London International School of Performing Arts (LISPA), London.His work has involved acting, directing, devising and teaching across theatre and film, with a particular interest in movement, physicality and the relationship between text and performance. He has worked on projects in India and internationally, including in England, Scotland, Greece, Dubai and China.Tushar serves on the Board of the Drama Schools Foundation Mumbai and has been a guest faculty at the National School of Drama, Delhi and Sikkim. His screen work includes Chhichhore, Pink, Hum Chaar, Lost and Aashram.Vivek VijayakumaranVivek Vijayakumaran is a Bengaluru-based theatre director, actor, and pedagogue with over 15 years of experience in performance, embodied research, and actor training. Trained under masters including Heisnam Kanhailal, Guru G. Venu, and at the Workcenter of Jerzy Grotowski and Thomas Richards, his practice integrates traditional Indian performance frameworks like Navarasa with contemporary physical theatre. His paper on his pedagogy of training contemporary actors in Navarasas has been selected for publication.As Artistic Director of Our Theatre Collective and Studio, Vivek leads experimental, research-driven performance initiatives. His original stage work includes directing the contemporary physical theatre piece The Thumb and acclaimed productions like IT IS YOU. He has acted in the feature film, Pada. Vivek has served as visiting faculty at Drama School Mumbai and Azim Premji University, and trained over 300 performers in India. He was named one of Forbes India’s 12 Boundary-Pushing Theatre Innovators.About the FestivalPLAYINTERPLAY is a theatre festival with a difference. It celebrates 50 years of the Inlaks Shivdasani Foundation, bringing together its theatre awardees and scholars to show their work, share their experiences, skills and learnings, and converse on matters of common interest.PLAYINTERPLAY presents plays that are new to Bengaluru. What is different, however, is that it looks back as well as forward, featuring a work of theatre that has been specially revived for the festival and readings of plays that are still to become the finished article.PLAYINTERPLAY does more: it forges connections between its constituent parts — performances, workshops, conversations and experience sharing — emphasising the interplay between thought, learning and practice.See the plays! Apply for the workshops! Join the conversations! Soak in the magic of theatre.About the Artistic DirectorAnmol Vellani is the founder and former executive director of India Foundation for the Arts, the first independent philanthropic organisation in India devoted exclusively to supporting the arts. He is also the co-founder of Toto Funds the Arts, which nurtures, encourages and rewards new voices and emerging talent in the arts.Anmol did not, however, aspire to become a professional in the field of philanthropy. His early fascination was with the arts, especially theatre and music, and also philosophy, which he studied at the Universities of Poona, Oxford and Cambridge. He taught ethics, logic and the history of philosophy at Elphinstone College, Mumbai, in the 1970s.His writing and talks — on arts entrepreneurship, the creative economy, cultural policy, the role of grant-making foundations, culture and development, arts collaboration and the performing arts, for example — have reflected on the insights he has gleaned from his long engagement with the arts and philanthropy.Anmol has been associated with nearly 50 plays as a director, designer or actor. He has directed theatre productions in different languages and cities. His last two plays — Innocence (2024) and Apne Ghar Jaisa (2022) — have been lauded for their sharp and critical look at contemporary social and political realities in India.",
@@ -4794,7 +4711,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 117,
+    "remainingAttendeeCapacity": 116,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4840,7 +4757,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 46,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4976,7 +4893,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5022,7 +4939,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 149,
+    "remainingAttendeeCapacity": 148,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5072,7 +4989,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5140,50 +5057,6 @@
       "Workshop",
       "Festival",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Mycelium & Muse: A Science Storytelling Workshop",
-    "description": "About the Workshop:We often equate creativity with making art. Picasso was creative. Beethoven was creative. Van Gogh was creative.But what about the person who first picked up a piece of charcoal and scribbled on the wall of a cave, hoping the people in the next cave would get the message? Or the bowerbird who spends an entire season collecting blue bottle caps and flowers to decorate a little stage for a mate?And what about a fungus? This one is literally brainless, yet it sends out electrical signals that, when connected to a synthesiser, play out like music.So if creativity shows up in organisms without brains, it is far older than us, isn't it?That's the question we'll sit with: Where does creativity really begin on the tree of life, and what does that mean for all of us who have spent years saying \"I'm just not the creative type\". Along the way, you'll hear a mushroom playing music, make an idea card that is deliberately, wonderfully bad, write a letter to your future self, and discover a new answer to the question “Am I creative?”You don't need any science background to join in. Just come in, and let's get some creativity brewing.Because, tell you what, we are not sure if a creative life is a happier one. But what we can absolutely guarantee is that it's a far more meaningful one.About the facilitator:Bitasta Datta is a microbiologist by training, an educator by profession and a science storyteller by passion.For over 10 years, she has been turning science into stories for school learners and curious adults. She started at the National Digital Library of India, went on to co-found The Synapse, led curriculum and learning experience design at BYJU'S and Tutopiya, and now leads the efforts at Khan Academy India to narrate science in a way that sticks.She believes science and art are two lenses on the same world, and that if you look through both long enough, you arrive at the same philosophy. So that's what she does. She dissects science to find the art in it, dissects art to find the science in it, and narrates her findings as stories.Outside work, she paints, bakes, and travels, and writes about the places where science, art and philosophy run into each other. Mycelium & Muse began as one of those pieces.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DB52CB84993241689EFFC58304880A89_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T16:00:00+05:30",
-    "endDate": "2026-11-22T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 899.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bitasta Datta",
-      "description": "Dissecting science to find art, dissecting art to find science.",
-      "url": "https://urbanaut.app/partner/bitasta-datta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/51B1A222300344459C375620E27380C4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/mycelium-muse",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   }
