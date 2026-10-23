@@ -571,6 +571,58 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bracelet making",
+    "image": "https://cdn-az.allevents.in/events9/banners/3631a340-14a8-11f1-8ae5-771ed3dbcff0-rimg-w1200-h600-dce2a9f0-gmir.jpg?v=1772284812",
+    "startDate": "2026-02-28T18:45:00+05:30",
+    "endDate": "2027-01-25T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/bracelet-making/3900029192336456",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Savinaya, 1st Floor, 64, 7th Main Road, Mahadeshwara Nagar, 2nd Phase, BTM Layout, Bengaluru, Karnataka 560076, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Carry home 2 bracelets custom made by yourself for you or your loved ones...wear it or gift it ...💫 What You’ll Learn in Our Bracelet-Making Activity 💫How to choose the right beads, colors and materialsHow to measure your bracelet size correctlyHow to thread beads neatly and securelyHow to add charm",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2025-11-13",
+        "availabilityEnds": "2027-01-25T18:30:00+05:30",
+        "validFrom": "2025-11-13",
+        "url": "https://allevents.in/bangalore/bracelet-making/3900029192336456",
+        "lowPrice": "649.00",
+        "price": "649.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2025-11-13",
+        "availabilityEnds": "",
+        "validFrom": "2025-11-13",
+        "url": "https://allevents.in/bangalore/bracelet-making/3900029192336456",
+        "price": "649.00",
+        "name": "ENTRY REGULAR"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Crochet Keychain or Earrings",
     "image": "https://cdn-az.allevents.in/events1/banners/99b72260-7b1d-11f1-878a-71a1982e9830-rimg-w1200-h600-dccb6be6-gmir.jpg?v=1783550249",
     "startDate": "2026-05-29T19:00:00+05:30",
@@ -948,6 +1000,58 @@
         "availabilityEnds": "",
         "validFrom": "2026-06-27",
         "url": "https://allevents.in/bangalore/bonbon-chocolates/3900030314656658",
+        "price": "1499.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Decorate Cup Cakes",
+    "image": "https://cdn-az.allevents.in/events8/banners/324da7c0-7b31-11f1-b18e-dfc0ec596bf4-rimg-w1200-h600-dcfefefe-gmir.jpg?v=1783558665",
+    "startDate": "2026-07-05T17:30:00+05:30",
+    "endDate": "2026-11-22T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Do you like cupcakesIf yes then lets make oneCome and experience the joy of baking your own cupcake from scratch in our cozy welcoming space at our spaceWhat you will get to learnBasic cupcake batter preparationBaking techniques for soft fluffy cupcakesHow to decorate cupcakes using whipping creamSi",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "2026-11-22T17:30:00+05:30",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+        "lowPrice": "1499.00",
+        "price": "1499.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
         "price": "1499.00",
         "name": "TICKET FOR ONE"
       }
@@ -1815,7 +1919,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "THE FRIDAY NIGHT FEVER PARTY HUNGRY HIPPIE",
-    "image": "https://cdn-az.allevents.in/events1/banners/b3c52bc0-cd2a-11f1-88a6-1f897f3e6bf3-rimg-w1200-h600-dc080808-gmir.jpg?v=1792571871",
+    "image": "https://cdn-az.allevents.in/events7/banners/7c165ff0-ce51-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dc080808-gmir.jpg?v=1792698479",
     "startDate": "2026-10-23T21:30:00+05:30",
     "endDate": "2026-10-24T02:50:00+05:30",
     "url": "https://allevents.in/bangalore/the-friday-night-fever-party-hungry-hippie/3900030830273641",
@@ -2165,45 +2269,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "HALLOWKHA 2.0",
-    "image": "https://cdn-az.allevents.in/events2/banners/64de8cb0-cdb4-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dc281818-gmir.jpg?v=1792631009",
-    "startDate": "2026-10-30T18:00:00+05:30",
-    "endDate": "2026-10-31T01:30:00+05:30",
-    "url": "https://allevents.in/bangalore/hallowkha-20/3900030875010529",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "DND - The Venue: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "26, Haralur Main Road, Near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9152",
-        "longitude": "77.6663"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "BENGALURU, GET READY FOR HALLOWKHA 2.0 ! Step into the mysterious world of HALLOWKHA season 2, where Halloween madness meets Kerala`s music culture and Bengaluru`s electrifying nightlife!  Get ready for an unforgettable celebration packed with spooky vibes, explosive performances, and beats that wi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-22",
-        "availabilityEnds": "2026-10-31T01:30:00+05:30",
-        "validFrom": "2026-10-22",
-        "url": "https://allevents.in/bangalore/hallowkha-20/3900030875010529"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Saturday Night Ft Dj Jeevan // Oct 24th",
     "image": "https://cdn-az.allevents.in/events8/banners/7a53f9a0-ce08-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dc080808-gmir.jpg?v=1792667123",
     "startDate": "2026-10-24T19:00:00+05:30",
@@ -2237,45 +2302,6 @@
         "availabilityEnds": "2026-10-25T01:40:00+05:30",
         "validFrom": "2026-10-22",
         "url": "https://allevents.in/bangalore/saturday-night-ft-dj-jeevan-oct-24th/3900030878477723"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hand Built Pottery Workshop",
-    "image": "https://cdn-az.allevents.in/events3/banners/44fa0b40-ce27-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1792680362",
-    "startDate": "2026-10-23T15:33:00+05:30",
-    "endDate": "2026-10-23T16:33:00+05:30",
-    "url": "https://allevents.in/bangalore/hand-built-pottery-workshop/3900030880448502",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Koramangala: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9341",
-        "longitude": "77.6303"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the world of tactile creativity at Clay Play Day, an immersive event designed for you to explore the joys of pottery without boundaries. Perfect for beginners and enthusiasts alike, this event invites you to delve into the art of hand-built clay modeling in a free-form, unguided environmen",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-22",
-        "availabilityEnds": "2026-10-23T16:33:00+05:30",
-        "validFrom": "2026-10-22",
-        "url": "https://allevents.in/bangalore/hand-built-pottery-workshop/3900030880448502"
       }
     ]
   },
@@ -2321,39 +2347,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Gold Foil Painting",
-    "image": "https://cdn-az.allevents.in/events6/banners/07681040-ce97-11f1-9ae9-bb3794fe3bcd-rimg-w1200-h600-dc181818-gmir.jpg?v=1792728353",
-    "startDate": "2026-10-23T15:27:00+05:30",
-    "endDate": "2026-10-23T17:27:00+05:30",
-    "url": "https://allevents.in/bangalore/gold-foil-painting/3900030884144553",
+    "name": "Mushroom Lamp",
+    "image": "https://cdn-az.allevents.in/events8/banners/4d1e06e0-ced7-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1792755958",
+    "startDate": "2026-10-24T15:00:00+05:30",
+    "endDate": "2026-10-24T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/mushroom-lamp/3900030885777959",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Brik Oven, Koramangala: Bengaluru.",
+      "name": "Brik Oven, Bellandur: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk, Bellandur, Bengaluru, Karnataka 560103, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9341",
-        "longitude": "77.6303"
+        "latitude": "12.9204",
+        "longitude": "77.6868"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Gold Foil Painting Workshop A Luxurious Art ExperienceDiscover the Elegance of GoldJoin us for a captivating workshop where you ll explore the luxurious art of gold foil painting Learn to create stunning metallic accents and intricate designs using this timeless techniqueNo prior experience necessar",
+    "description": "Create your own mushroom inspired decorative lamp in this fun and hands on workshop. Learn how to shape, design and assemble your lamp while adding your own creative touch.What to expectLearn the basics of making a mushroom inspired lampGet all the required materialsFollow step by step guidance from",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-23",
-        "availabilityEnds": "2026-10-23T17:27:00+05:30",
+        "availabilityEnds": "2026-10-24T16:00:00+05:30",
         "validFrom": "2026-10-23",
-        "url": "https://allevents.in/bangalore/gold-foil-painting/3900030884144553"
+        "url": "https://allevents.in/bangalore/mushroom-lamp/3900030885777959"
       }
     ]
   },
@@ -3109,90 +3135,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bengaluru Corporate Wellness Run 2026",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6a59f8cd23103.jpg",
-    "startDate": "2026-11-15T05:00:00+05:30",
-    "endDate": "2026-11-15T06:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bengaluru-corporate-wellness-run-2026-tickets/80001337443417",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Nice Tollgate Hosakerehalli",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "WGPJ+JFW, Dwaraka Nagar, Hosakerehalli, Bengaluru, Karnataka 560026, India",
-        "postalCode": "560026",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9366173",
-        "longitude": "77.53119319999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bengaluru Corporate Wellness Run 2026Run for a Healthy LifeGlobal Events & Entertainment proudly presents the Bengaluru Corporate Wellness Run 2026—a premier corporate fitness and wellness event designed to promote healthier lifestyles, workplace well-being, and community engagement.Scheduled for Su",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-17",
-        "availabilityEnds": "2026-11-15T06:00:00+05:30",
-        "validFrom": "2026-07-17",
-        "lowPrice": "999.00",
-        "highPrice": "1200.00",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/bengaluru-corporate-wellness-run-2026-tickets/80001337443417"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-17",
-        "availabilityEnds": "2026-11-15T06:00:00+05:30",
-        "validFrom": "2026-07-17",
-        "price": "1200.00",
-        "url": "https://allevents.in/bangalore/bengaluru-corporate-wellness-run-2026-tickets/80001337443417",
-        "availability": "https://schema.org/InStock",
-        "name": "10K TIMED Run"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-17",
-        "availabilityEnds": "2026-11-15T06:00:00+05:30",
-        "validFrom": "2026-07-17",
-        "price": "1100.00",
-        "url": "https://allevents.in/bangalore/bengaluru-corporate-wellness-run-2026-tickets/80001337443417",
-        "availability": "https://schema.org/InStock",
-        "name": "5 Km TIMED Run"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-07-17",
-        "availabilityEnds": "2026-11-15T06:00:00+05:30",
-        "validFrom": "2026-07-17",
-        "price": "999.00",
-        "url": "https://allevents.in/bangalore/bengaluru-corporate-wellness-run-2026-tickets/80001337443417",
-        "availability": "https://schema.org/InStock",
-        "name": "3KM FUN RUN"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Global Events",
-        "url": "https://allevents.in/org/global-events/16468376",
-        "description": "Digital Marketing || Social Media Marketing || E-Commerce Handling || Events\n"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "THE ROOM OF MEMORIES MLR 25th 11AM",
     "image": "https://cdn2.allevents.in/thumbs/thumb6a4d11b880d89.jpg",
     "startDate": "2026-10-25T11:00:00+05:30",
@@ -3321,7 +3263,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Founders Unfiltered",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ad84afc4dd3f.jpg",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6adb2a53360c4.jpg",
     "startDate": "2026-10-24T16:00:00+05:30",
     "endDate": "2026-10-24T18:00:00+05:30",
     "url": "https://allevents.in/bangalore/founders-unfiltered-tickets/80001413887079",
@@ -3804,6 +3746,79 @@
         "name": "Beats HIGH Events",
         "url": "https://allevents.in/org/beats-high-events/11102780",
         "description": "Events | Nightlife | Party | Concerts | Party Promotions"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Spooky Pumpkin Bucket Workshop",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ada5687de1f4.jpg",
+    "startDate": "2026-10-31T16:00:00+05:30",
+    "endDate": "2026-10-31T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/spooky-pumpkin-bucket-workshop-tickets/80002743606103",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU - JP Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "postalCode": "560078",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9057826",
+        "longitude": "77.6011616"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "A spooky little workshop for tiny creators 🎃Let your child decorate their own pumpkin bucket and take home a festive Halloween creation.📅 Saturday, 31 October 2026🕓 4:00–5:00 pm IST👧 Age: 3-10 years🎨 All materials included📍Uru, JP nagar💰 Rs. 549 per child👫 Book 4+ tickets: ₹519 per child✨ Limited se",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-10-31T17:00:00+05:30",
+        "validFrom": "2026-10-22",
+        "lowPrice": "519.00",
+        "highPrice": "549.00",
+        "price": "519.00",
+        "url": "https://allevents.in/bangalore/spooky-pumpkin-bucket-workshop-tickets/80002743606103"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-10-31T17:00:00+05:30",
+        "validFrom": "2026-10-22",
+        "price": "549.00",
+        "url": "https://allevents.in/bangalore/spooky-pumpkin-bucket-workshop-tickets/80002743606103",
+        "availability": "https://schema.org/InStock",
+        "name": "Regular"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-22",
+        "availabilityEnds": "2026-10-31T17:00:00+05:30",
+        "validFrom": "2026-10-22",
+        "price": "519.00",
+        "url": "https://allevents.in/bangalore/spooky-pumpkin-bucket-workshop-tickets/80002743606103",
+        "availability": "https://schema.org/InStock",
+        "name": "Group — 4+ children"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Artsy Siri",
+        "url": "https://allevents.in/org/artsy-siri/28266965",
+        "description": "Artsy Siri hosts hands-on art and craft workshops in Bengaluru. Past sessions include terracotta pot and plate painting and Kolam tray art. Workshops are planned for children or adults, with materials included. Each event lists its own activity, age group, venue and booking details."
       }
     ]
   },
