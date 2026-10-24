@@ -1,5 +1,44 @@
 [
   {
+    "name": "SIS x Mini Golf - Halloween Madness",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-misters-mini-golf-halloween",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-misters-mini-golf-halloween",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "1299",
+        "priceCurrency": "INR"
+      }
+    ],
+    "image": "https://sistersinsweat.com/api/media/file/2c20bef8-c689-408f-828b-0e70ae9c5bd2.jpeg",
+    "location": {
+      "name": "Mini Golf Madness",
+      "address": "4th Floor, 838, 7th Main Rd, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008",
+      "@type": "Place"
+    },
+    "startDate": "2026-10-31T19:00:00+05:30",
+    "endDate": "2026-10-31T21:00:00+05:30"
+  },
+  {
     "name": "SIS x Hive Club - Padel Coaching Workshop (Batch 2)",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Padel-Workshop-Hive2",
@@ -38,46 +77,6 @@
     },
     "startDate": "2026-10-24T17:30:00+05:30",
     "endDate": "2026-10-24T19:00:00+05:30"
-  },
-  {
-    "name": "SIS x Hive Club - Padel Coaching Workshop (Batch 1)",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Padel-Workshop-Hive",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Padel-Workshop-Hive",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "500",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Padel",
-    "image": "https://sistersinsweat.com/api/media/file/Padel%20Hive",
-    "location": {
-      "name": "Hive Club, Thanisandra",
-      "address": "Hive Club, Thanisandra Main Road, Thanisandra, Bengaluru, Karnataka",
-      "@type": "Place"
-    },
-    "startDate": "2026-10-24T16:00:00+05:30",
-    "endDate": "2026-10-24T17:30:00+05:30"
   },
   {
     "name": "Sisters & Misters Football Game Day",
@@ -716,45 +715,6 @@
       "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
       "@type": "Place"
     },
-    "startDate": "2026-10-24T11:00:00+05:30"
-  },
-  {
-    "name": "Badminton Coaching-Beginner & Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "425",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Badminton",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
-    "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
-      "@type": "Place"
-    },
     "startDate": "2026-10-31T11:00:00+05:30"
   },
   {
@@ -834,6 +794,45 @@
       "@type": "Place"
     },
     "startDate": "2026-11-14T11:00:00+05:30"
+  },
+  {
+    "name": "Badminton Coaching-Beginner & Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "425",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Badminton",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
+    "location": {
+      "name": "Game Theory, Double Road, Indiranagar",
+      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+      "@type": "Place"
+    },
+    "startDate": "2026-11-21T11:00:00+05:30"
   },
   {
     "name": "Women's Football Coaching - Beginner",

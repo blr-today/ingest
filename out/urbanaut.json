@@ -490,6 +490,53 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Wickedly Delicious Cupcake Workshop",
+    "description": "🎃 Halloween Cupcake Decoration Workshop – Bangalore 👻Get ready for a frightfully fun time at Fired Up Studio!Join us for a hands-on cupcake decorating session where you’ll create four spooky-sweet cupcakes — scary, silly, or monstrously fun! 🧁Dress up in your Halloween costume and bring your festive spirit — we’ll provide everything else you need: cupcakes, frosting, tools, and all the toppings for your creepy creations.Whether you’re a baking newbie or just here for the fun, it’s the perfect way to celebrate the spooky season with friends or family.🧁 What’s Included:4 cupcakes per participantFrosting, toppings & decorating toolsAll decorating materials & guidance💀 Who Can Join: All Ages. Kids below 5 need an adult helper.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7859F0C3C2284B27A2064FD58BD415ED_converted_webp.webp"
+    ],
+    "startDate": "2026-10-31T11:00:00+05:30",
+    "endDate": "2026-10-31T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9627873,
+        "longitude": 77.750968
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 1399.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/cupcake-decoration-halloween",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Listening Room",
     "description": "20 people. 1 quiet room. No phones. A circle where people share the songs and the stories that stayed with them. 🫶We’re bringing you an intimate, deeply human, musical experience with real people, real stories, and real memories.💌bring that one song that arrived like a whisper, a serendipity. the kind that lingered long after the last note. that's the magic we're after.come as you are. bring a song, or just your presence. the rest will find you.",
@@ -1020,57 +1067,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Workshop - चलो हमारा देस - Chalo Hamara Des",
-    "description": "Chalo hamara des, come to my country, is one of Kabir's recurring calls. The country he means is not on any map. It is his name for the place a seeker arrives at when the searching quiets down, and in the oral traditions of Malwa and elsewhere, singers have carried this invitation from village to village for centuries, mostly in the voices of people who never thought of themselves as performers.This workshop takes that call as its starting point. Over four and a half hours, we will learn and sing songs from Kabir, Meerabai and the Sufi kalam, and pay attention to what they are actually saying. Many of these songs begin with ordinary things: a pot, a thread, a well, a lamp, a road. From there they move, sometimes in a single line, towards what cannot be seen or named. We will follow that movement, starting with the familiar and letting the songs take us further in.The poets did not agree on one way of walking this road. Meera longs and waits. Kabir argues, mocks and asks awkward questions. The Sufis speak of remembrance, of surrender, of the beloved. We will spend time with each of these voices, and notice where they meet.You do not need to have sung before. These songs were made to be sung together, by people sitting on the ground, not by trained voices on a stage. What matters here is listening closely and joining in.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2121870C5B88423DA02D6B6C81FA8BAF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6E15A07398194978818D3E7AEA474D3F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/EA8BE29C53B6492CBF67ED671CB0D747_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BEFDC8374B0446CA881E94DA7D8700D7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DCE721DD781F4064B44031400F16FCF3_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/68780FD271824347AF1837CD78C20380_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E64E6E87EDD440C4AF7DDC9C06CB5BD9_converted_webp.webp"
-    ],
-    "startDate": "2026-10-24T09:00:00+05:30",
-    "endDate": "2026-10-24T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1078, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9701439,
-        "longitude": 77.63810099999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 28,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2400.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Kabir Festival",
-      "description": "Music for harmony: Creating space for shared humanity beyond identities.\n Recalling poets and saints and their language of love , equality ,oneness  via music and singing- together in harmony",
-      "url": "https://urbanaut.app/partner/bangalore-kabir-festival",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9D46E766A2504B9DA174F8073F1A6903_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/bangalore-kabir-festival-chalo-hamara-des",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "An Immersive Workshop - Jo Dooba So Paar",
     "description": "An immersive workshop with  Artists Vedanth Bharadwaj and Mir Rajak and team , its a musical journey into surrender through the songs of Meerabai, Kabir, and Sufi mystics.Jo Dooba So Paar is an invitation to surrender—to step beyond the instinct to hold on, control, and understand, and to discover what becomes possible when we allow ourselves to be carried by the song.The phrase carries a beautiful paradox. In ordinary life, we learn to keep ourselves afloat—to hold on to certainty, identity, control, and the familiar. But in the songs of mystics, surrender can become another kind of crossing. When the grip loosens, something deeper can reveal itself.Across the Bhakti and Sufi traditions, the language of drowning is not one of defeat. To drown is to let the separate self loosen its grip; to cross is to discover another shore. In this paradox lies the heart of the workshop: perhaps the way across is not through resistance, but through surrender.Through songs, poetry, collective singing and deep listening, we will explore longing, love, devotion, dissolution and the mysterious movement from 'I' towards something larger than oneself.Drawing from Kabir and Meerabai and Sufi saints, the workshop brings together diverse musical traditions that speak, in different voices, of the same inward movement.Sometimes, the shore is found only when we stop trying to stay afloat.Jo Dooba So Paar is an invitation to take that leap: to enter the song deeply enough that, for a moment, there is no need to know where we are going.Perhaps that is the mystery of the mystic's path—the one who dares to drown discovers that the other shore was never far away.No prior experience of singing is required. The emphasis is on listening, participation, voice and the shared experience of letting the song take us somewhere.",
     "image": [
@@ -1521,51 +1517,6 @@
     "keywords": [
       "Workshop",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Puppy Yoga - Bangalore",
-    "description": "Join us for a beginner-friendly yoga session surrounded by the sweetest shelter puppies. It’s a light, relaxing flow where the pups freely wander around your mat, making the experience calm, happy, and a little chaotic in the best way.All the puppies are from local shelters and up for adoption, and a part of your ticket goes toward their care. You don’t need any yoga experience - the session is guided and open to all.The class is 60 minutes long. Please arrive 15 minutes early, and feel free to stay back a bit after to spend more time with the dogs.Seats fill up fast - book your spot soon!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CA4843B48C154C4E901CF31D17126CE8_converted_webp.webp"
-    ],
-    "startDate": "2026-10-24T11:00:00+05:30",
-    "endDate": "2026-10-24T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "477, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBfTTGAAXrjsRjfIIRMaGd9A",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9788825,
-        "longitude": 77.6417088
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 13,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1863.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pawga Pets Yoga",
-      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
-      "url": "https://urbanaut.app/partner/pawga",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/56384ED1915F45B195D3A130290A4940_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/puppyyogabangalore",
-    "keywords": [
-      "Active",
       "URBANAUT"
     ]
   },
@@ -2572,54 +2523,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Brush Pen Calligraphy Workshop",
-    "description": "Ever wanted to try calligraphy but didn’t know where to begin?Join us for a calm, colourful and hands-on brush pen calligraphy experience where you’ll learn everything from the very basics and gradually build your way towards creating your own piece of artwork.Whether you’ve never held a brush pen before or simply want to explore calligraphy in a relaxed setting, no prior experience is required. We’ll take it step by step, with plenty of guidance along the way.All you need to do is show up, slow down, and enjoy creating. ♡What to expect✦ Start from the basics — understand the brush pen, strokes, pressure and letter formation.✦ Learn step by step — practise at your own pace with guided exercises and worksheets.✦ Create with high-quality materials — all the materials you need for the workshop are provided, including your calligraphy kit.✦ Make your own take-home piece — put everything you’ve learnt together and create something you can take home with you.✦ Post-workshop guidance — have questions after the workshop or want to continue practising? You can reach out to me for guidance related to your calligraphy journey.Meet your instructorJerrlin Shiny — Calligraphy Instructor & ArtistWith a Diploma in Calligraphy and 6 years of experience teaching calligraphy, Jerrlin’s approach is centred around making the learning process approachable, enjoyable and pressure-free.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0ADC76386D6040E3A85F5F8288CB5F7B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D364DC86B01C48DE941326BC1B62D5EA_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A92E4B867DF4441F96494DC4EE530C5B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/AF313397C6714193A877DA228B0FE445_converted_webp.webp"
-    ],
-    "startDate": "2026-10-24T11:00:00+05:30",
-    "endDate": "2026-10-24T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1199.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/brush-pen-calligraphy-workshop",
-    "keywords": [
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "THE FESTIVE PRINT ATELIER",
     "description": "THE FESTIVE PRINT ATELIER ✨This festive season, step away from the usual and spend an afternoon creating something beautiful with your hands.Join us at Studio Common Roof for an intimate printmaking experience inspired by Indian botanicals, festive motifs and the art of slow making.You’ll learn the basics of block printing, create your own festive design and turn it into a beautiful collection of handmade prints and stationery.What you’ll create🌿 Your own hand-carved printing block🖼️ Limited-edition art prints💌 Handmade festive Prints / Cards ☕ Chai/coffee & festive treatsNo prior art experience required. Everything you need is provided.Duration: 2–2.5 hoursGroup size: Limited to 6–8 guestsLocation: Studio Common Roof, Indiranagar, BengaluruExperience level: Beginner-friendlyCome for the making. Leave with something worth keeping.",
     "image": [
@@ -2811,9 +2714,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Bhajan Clubbing for Kids!",
-    "description": "BHAJAN CLUBBING FOR KIDS 🎶✨👶👧Have your child become besties with gods and goddesses!From the OG Superhero, Hanuman; to the young boy whose focus shocked Vishnu! Hear amazing stories and sing along awesome songs!Welcome to this interactive concert for kids, filled with lot of wisdom and laughter!🎤 Singer: AnaghaAnagha Karvir is a full-time musician, breath-work and meditation coach, trained Kathak dancer, and founder of the band Ana & Co. She has performed at over 1,000 concerts, creating magic with music. She has the unique ability to make people feel comfortable enough to participate, connect, and let their guard down, whether at a concert, workshop, or bhajan jam!📖 Story Teller: PriyaPriya Mani is the creator of The Little Shloka Book Series (now in over 50,000 homes worldwide), a breath-work coach with The Art of Living Foundation, and founder of Little Desi ~ creating products and experiences to make ancient Indian wisdom, fun, beautiful, and relatable. She tells stories that may remind you of your grandma and her super power is making world-class rasam!👶🏼 For Ages 3 - 12years🗓 Sunday, 15th November⏰ 4pm - 5pm📍 Hobby Ghar, Seshadripuram",
+    "description": "BHAJAN CLUBBING FOR KIDS 🎶✨👶👧Have your child become besties with gods and goddesses!From the OG Superhero, Hanuman; to the young boy whose focus shocked Vishnu! Hear amazing stories and sing along awesome songs!Welcome to this interactive concert for kids, filled with lot of wisdom and laughter!🎤 Singer: AdityaHe is a marketing professional and a breath-work and meditation coach for kids! He has performed at over 500 concerts, creating magic with bhajans. He has the unique ability to make people feel comfortable enough to participate, connect, and have a lovely time!📖 Story Teller: PriyaPriya Mani is the creator of The Little Shloka Book Series (now in over 50,000 homes worldwide), a breath-work coach with The Art of Living Foundation, and founder of Little Desi ~ creating products and experiences to make ancient Indian wisdom, fun, beautiful, and relatable. She tells stories that may remind you of your grandma and her super power is making world-class rasam!👶🏼 For Ages 3 - 12years🗓 Sunday, 15th November⏰ 4pm - 5pm📍 Hobby Ghar, Seshadripuram",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1C2F744562D8430AB6AF864E457A723B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E5FA503B4DA04DD1B1CA0306976767B2_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/507A4F1E643B46388C3C5DEF12715C20_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/D720F17865D541BA8FA31E0CED613045_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/53313973A34D44A2B2B34F4C9067C928_converted_webp.webp",
@@ -3782,7 +3685,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Boo! Ya Watchin? Screen Screams: Halloween",
-    "description": "About the Event:SCREEN SCREAMS: PSYCHOThis Halloween, Boo!yawatchin? is checking into the Bates Motel. No vacancies. No refunds. Costume compulsory!And absolutely no showers.For our annual Halloween screening, we’re going back to where so much of modern horror learned how to behave badly: Alfred Hitchcock’s “Psycho”Come for the screaming, stay for the costume competition, judged by Scream Queen herself, Queen Andro.Happy Halloween. Please lock the bathroom door.The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosystem.Now, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it’s a hub for creativity, culture and collaboration.",
+    "description": "About the Event:Tarot reading by Queen Andro: 5:30-6:30SCREEN SCREAMS: PSYCHOThis Halloween, Boo!yawatchin? is checking into the Bates Motel. No vacancies. No refunds. Costume compulsory!And absolutely no showers.For our annual Halloween screening, we’re going back to where so much of modern horror learned how to behave badly: Alfred Hitchcock’s “Psycho”Come for the screaming, stay for the costume competition, judged by Scream Queen herself, Queen Andro.Happy Halloween. Please lock the bathroom door.The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosystem.Now, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it’s a hub for creativity, culture and collaboration.",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/9A9557320773478EB9D264168372E2BC_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/1D373BDF1E2648FABBCCB70C9692F35F_converted_webp.webp",
@@ -4761,6 +4664,138 @@
     "keywords": [
       "Festival",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kuzhali Manickavel and Vinayak Varma - discussion",
+    "description": "In the oppressive heat of a small Tamil Nadu town, strange happenings are common. And the local government secondary school is teeming with supernatural entities. For Thamarai, an outsider considered strange by her peers, life is dreary and frustrating. She endures nosy neighbours and incomprehensible tuition classes. She despises the way her lecherous English teacher harasses the other girls in her grade. But when Thamarai finds a mysterious notebook full of descriptions of the school's paranormal phenomena, she wonders if it may hold the key to escape...Join us for a discussion on A Compendium of Supernatural Entities Found in the Government Girls Higher Secondary School with Kuzhali Manickavel and Vinayak Varma!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/621AB418BE0544938004B2279AC30DC3_converted_webp.webp"
+    ],
+    "startDate": "2026-10-25T18:00:00+05:30",
+    "endDate": "2026-10-25T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 35,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/kuzhali-manickavel-and-vinayak-varma-discussion",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "READ ALOUD: A Halloween Storytelling Session",
+    "description": "🎃 Something spooky is brewing… and it’s not just the coffee! ☕👻This Halloween, we’re bringing you a morning of stories, giggles, imagination and a little bit of creativity!📖 First, READ ALOUD a Halloween story.✨ Then, your little storytellers get to create their own version of the story and tell it their way!🎨 Add some creative fun…🎁 Sprinkle in a little goodie……and you have the perfect Sunday morning!Come join us at Dialogues Café, KoramangalaOn Sunday, 1st November and bring your little storyteller.Leave the grown-up seriousness at home. 😄Come for the story. Stay for the  creativity. Maybe leave with a little mischief! ✨",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/43CE7C46353A44D8A03A0BD5641AEC98_converted_webp.webp"
+    ],
+    "startDate": "2026-11-01T11:00:00+05:30",
+    "endDate": "2026-11-01T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9324179,
+        "longitude": 77.631954
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 499.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dialogues Cafe",
+      "description": "Dialogues Cafe is a warm, homely space in Koramangala where natural light meets community vibes. Enjoy freshly made, minimalist cuisine while engaging in open mics, book clubs, and more. Whether you’re here to work, create, or connect, Dialogues Cafe is your space to belong.",
+      "url": "https://urbanaut.app/partner/dialogues-cafe",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9D4620F72E654189BC4C5166D27666D7_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/read-aloud-a-halloween-storytelling-session",
+    "keywords": [
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kurukshetra",
+    "description": "Every culture has a night when the dead come closer. Long before modern campfire tales, the Mahabharata recorded nights when shadows held daggers, man-eating monsters went on rampages, and the dead climbed out of dark river waters to speak with the living.Join Aparna Jaishankar as she shares ominous, spine chilling tales from the many Mahabharatas found across cultures",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7B6549E8569B46FFA8B79DA816492951_converted_webp.webp"
+    ],
+    "startDate": "2026-10-31T19:00:00+05:30",
+    "endDate": "2026-10-31T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 200.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/kurukshetra",
+    "keywords": [
+      "History & heritage",
       "URBANAUT"
     ]
   }

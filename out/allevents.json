@@ -827,58 +827,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Make Your Own Custom Soap",
-    "image": "https://cdn-az.allevents.in/events9/banners/e3aa68a0-7b1d-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dcbfd2d5-gmir.jpg?v=1783550373",
-    "startDate": "2026-07-11T10:30:00+05:30",
-    "endDate": "2027-06-05T10:30:00+05:30",
-    "url": "https://allevents.in/bangalore/make-your-own-custom-soap/3900030313802752",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Why should you choose to make your own custom soap?We use soap every single day - it touches our skin more than almost anything else.Just like we are careful about what we eat, we also need to be mindful of what we apply on our skin. And that is the beauty of making your own soap at our space.Here,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-27",
-        "availabilityEnds": "2027-06-05T10:30:00+05:30",
-        "validFrom": "2026-06-27",
-        "url": "https://allevents.in/bangalore/make-your-own-custom-soap/3900030313802752",
-        "lowPrice": "999.00",
-        "price": "999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-27",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-27",
-        "url": "https://allevents.in/bangalore/make-your-own-custom-soap/3900030313802752",
-        "price": "999.00",
-        "name": "TICKET FOR ONE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Make Waist Chain",
     "image": "https://cdn-az.allevents.in/events4/banners/e4445de0-7b4d-11f1-878a-71a1982e9830-rimg-w1200-h600-dcf57332-gmir.jpg?v=1783570990",
     "startDate": "2026-07-18T15:30:00+05:30",
@@ -983,6 +931,58 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Apricot Delight",
+    "image": "https://cdn-az.allevents.in/events10/banners/3d069440-7b1f-11f1-b18e-dfc0ec596bf4-rimg-w1200-h600-dcf3f1f0-gmir.jpg?v=1783550952",
+    "startDate": "2026-07-12T17:30:00+05:30",
+    "endDate": "2027-03-28T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/apricot-delight/3900030315200914",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Hello everyone!Yet another amazing dessert is here in our Summer Edition - Apricot DelightIf youve always wanted to learn how to make this rich, creamy, and absolutely delicious dessert, this is your chance! Join us for a fun-filled, hands-on experience.Learn step-by-step preparationAll materials pr",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-27",
+        "availabilityEnds": "2027-03-28T17:30:00+05:30",
+        "validFrom": "2026-06-27",
+        "url": "https://allevents.in/bangalore/apricot-delight/3900030315200914",
+        "lowPrice": "1499.00",
+        "price": "1499.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-27",
+        "url": "https://allevents.in/bangalore/apricot-delight/3900030315200914",
+        "price": "1499.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Decorate Cup Cakes",
     "image": "https://cdn-az.allevents.in/events8/banners/324da7c0-7b31-11f1-b18e-dfc0ec596bf4-rimg-w1200-h600-dcfefefe-gmir.jpg?v=1783558665",
     "startDate": "2026-07-05T17:30:00+05:30",
@@ -1075,7 +1075,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Phulka Dots Ft. Amruta Bendre",
-    "image": "https://cdn-az.allevents.in/events5/banners/22e073c0-cd0d-11f1-9b7e-d709e3268b78-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792559172",
+    "image": "https://cdn-az.allevents.in/events6/banners/f1040480-ceb9-11f1-9ae9-bb3794fe3bcd-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792743343",
     "startDate": "2026-10-25T17:00:00+05:30",
     "endDate": "2026-10-25T18:30:00+05:30",
     "url": "https://allevents.in/bangalore/phulka-dots-ft-amruta-bendre/3900030563520620",
@@ -1231,7 +1231,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "3 Idiots",
-    "image": "https://cdn-az.allevents.in/events8/banners/3ec92f90-c9b2-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc080808-gmir.jpg?v=1792190282",
+    "image": "https://cdn-az.allevents.in/events4/banners/c1019d00-cf14-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792782346",
     "startDate": "2026-10-25T16:00:00+05:30",
     "endDate": "2026-10-25T17:30:00+05:30",
     "url": "https://allevents.in/bangalore/3-idiots/3900030705335829",
@@ -1270,7 +1270,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Horror Circus",
-    "image": "https://cdn-az.allevents.in/events9/banners/1f730a30-cacf-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc080808-gmir.jpg?v=1792312636",
+    "image": "https://cdn-az.allevents.in/events5/banners/e0d87820-cec8-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792749758",
     "startDate": "2026-10-30T19:30:00+05:30",
     "endDate": "2026-10-31T01:30:00+05:30",
     "url": "https://allevents.in/bangalore/horror-circus/3900030705395915",
@@ -1387,7 +1387,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "The Book of Queens",
-    "image": "https://cdn-az.allevents.in/events9/banners/b2423b90-cb85-11f1-87af-a5fe78201b78-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792391050",
+    "image": "https://cdn-az.allevents.in/events6/banners/2ab1c6c0-cf16-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792782953",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T20:30:00+05:30",
     "url": "https://allevents.in/bangalore/the-book-of-queens/3900030727751655",
@@ -1426,7 +1426,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Halloween Edition with Qurated",
-    "image": "https://cdn-az.allevents.in/events1/banners/356a73f0-cbc9-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc380808-gmir.jpg?v=1792420047",
+    "image": "https://cdn-az.allevents.in/events10/banners/53032100-cec1-11f1-9ae9-bb3794fe3bcd-rimg-w1200-h600-dc380808-gmir.jpg?v=1792746514",
     "startDate": "2026-10-31T21:00:00+05:30",
     "endDate": "2026-10-31T23:00:00+05:30",
     "url": "https://allevents.in/bangalore/halloween-edition-with-qurated/3900030745588934",
@@ -1660,25 +1660,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Sip and Clay",
-    "image": "https://cdn-az.allevents.in/events10/banners/162adbf0-cbb6-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc885838-gmir.jpg?v=1792411834",
-    "startDate": "2026-10-24T11:00:00+05:30",
-    "endDate": "2026-10-24T14:00:00+05:30",
-    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303",
+    "image": "https://cdn-az.allevents.in/events10/banners/162adbf0-cbb6-11f1-87af-a5fe78201b78-rimg-w1200-h600-dc885838-gmir.jpg?v=1792411846",
+    "startDate": "2026-10-25T09:30:00+05:30",
+    "endDate": "2026-10-25T12:30:00+05:30",
+    "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Third Wave Coffee, Church Street: Bengaluru",
+      "name": "The Dual Room: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shop 52/2, Sujaya Pride Building, Church Street, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "streetAddress": "616, 12th Main Road, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9747",
-        "longitude": "77.6068"
+        "latitude": "12.9705",
+        "longitude": "77.6459"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1689,9 +1689,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-02",
-        "availabilityEnds": "2026-10-24T14:00:00+05:30",
+        "availabilityEnds": "2026-10-25T12:30:00+05:30",
         "validFrom": "2026-10-02",
-        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763345303"
+        "url": "https://allevents.in/bangalore/sip-and-clay/3900030763346111"
       }
     ]
   },
@@ -1699,7 +1699,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Jewels of India 2026 : Biggest Jewellery Festival",
-    "image": "https://cdn-az.allevents.in/events1/banners/2f549690-c952-11f1-8579-3b3fe6ab2704-rimg-w1200-h600-dc582818-gmir.jpg?v=1792149024",
+    "image": "https://cdn-az.allevents.in/events4/banners/afac66a0-cf84-11f1-958f-31ad8555babb-rimg-w1200-h600-dc582818-gmir.jpg?v=1792830421",
     "startDate": "2026-10-29T10:00:00+05:30",
     "endDate": "2026-10-29T20:00:00+05:30",
     "url": "https://allevents.in/bangalore/jewels-of-india-2026-biggest-jewellery-festival/3900030766034154",
@@ -2010,45 +2010,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Glossy Trays",
-    "image": "https://cdn-az.allevents.in/events8/banners/06f4cd40-ccf0-11f1-9b7e-d709e3268b78-rimg-w1200-h600-dcd8d8d8-gmir.jpg?v=1792546670",
-    "startDate": "2026-10-24T15:00:00+05:30",
-    "endDate": "2026-10-24T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/glossy-trays/3900030864650151",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Starbucks Indiranagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No 945, Ground Floor, 12th Main Road, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9702",
-        "longitude": "77.6399"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Glossy Trays  A Resin Tray Art WorkshopUnleash your inner artist with Glossy Trays, a vibrant resin art workshop where you design and pour your very own glossy, one-of-a-kind trays. Add flowers, glitter, gold flakes, or bold colors to create stunning functional art that is as unique as you are.Note:",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-21",
-        "availabilityEnds": "2026-10-24T16:30:00+05:30",
-        "validFrom": "2026-10-21",
-        "url": "https://allevents.in/bangalore/glossy-trays/3900030864650151"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Corporate Majdoor By Anmol Garg",
     "image": "https://cdn-az.allevents.in/events1/banners/d778ea50-cd8b-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1792613598",
     "startDate": "2026-11-01T19:00:00+05:30",
@@ -2283,6 +2244,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "DIY Fairy House",
+    "image": "https://cdn-az.allevents.in/events2/banners/15c662a0-cec8-11f1-958f-31ad8555babb-rimg-w1200-h600-dc383828-gmir.jpg?v=1792749417",
+    "startDate": "2026-10-24T15:02:00+05:30",
+    "endDate": "2026-10-24T16:32:00+05:30",
+    "url": "https://allevents.in/bangalore/diy-fairy-house/3900030885234258",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Sarjapur Road: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "401, Sarjapur Main Road, Doddakannelli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9081",
+        "longitude": "77.6933"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "DIY Fairy House Workshop  Build a Little MagicStep into a whimsical world of creativity and craft your very own Fairy House  In this hands on workshop you  turn simple materials into enchanting fairy homes complete with mushrooms leaves tiny doors and lots of charm  What to Expect Learn the basics o",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-23",
+        "availabilityEnds": "2026-10-24T16:32:00+05:30",
+        "validFrom": "2026-10-23",
+        "url": "https://allevents.in/bangalore/diy-fairy-house/3900030885234258"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Mushroom Lamp",
     "image": "https://cdn-az.allevents.in/events8/banners/4d1e06e0-ced7-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1792755958",
     "startDate": "2026-10-24T15:00:00+05:30",
@@ -2394,45 +2394,6 @@
         "availabilityEnds": "2026-10-25T02:32:00+05:30",
         "validFrom": "2026-10-23",
         "url": "https://allevents.in/bangalore/the-super-saturday-night-at-flo-church-street/3900030892024734"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hand Built Pottery",
-    "image": "https://cdn-az.allevents.in/events2/banners/315a6b40-cf3d-11f1-958f-31ad8555babb-rimg-w1200-h600-dca86858-gmir.jpg?v=1792799735",
-    "startDate": "2026-10-24T16:09:00+05:30",
-    "endDate": "2026-10-24T16:39:00+05:30",
-    "url": "https://allevents.in/bangalore/hand-built-pottery/3900030894049935",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Whitefield: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Ground Floor, Santosh Tower, 120-A3, 3rd Road, Vijayanagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9772",
-        "longitude": "77.7249"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the world of tactile creativity at Clay Play Day, an immersive event designed for you to explore the joys of hand built pottery without boundaries. Perfect for beginners and enthusiasts alike, this event invites you to delve into the art of clay modeling and pottery using only your hands a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-23",
-        "availabilityEnds": "2026-10-24T16:39:00+05:30",
-        "validFrom": "2026-10-23",
-        "url": "https://allevents.in/bangalore/hand-built-pottery/3900030894049935"
       }
     ]
   },
@@ -3009,7 +2970,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Startup Founders Meetup by CEDAT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ac095f4b70d1.jpg",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ad9e2a7ea43e.jpg",
     "startDate": "2026-11-04T18:00:00+05:30",
     "endDate": "2026-11-04T19:00:00+05:30",
     "url": "https://allevents.in/bangalore/startup-founders-meetup-by-cedat-tickets/80001085525152",
@@ -5228,68 +5189,6 @@
         "name": "Royal College of Art",
         "url": "https://allevents.in/org/royal-college-of-art/22517209",
         "description": "Ranked the world's number one university of art & design for nine consecutive years (2015-2023) by the influential QS World University Subject Rankings, the Royal College of Art offers 30 highly specialised postgraduate programmes in Art & Design. These sit within four Schools: Architecture, Design, Communication and Arts & Humanities.Founded in 1837, the RCA is the world’s oldest art & design institution. Based in the heart of London, the College is an international university, with artists and designers from over 80 countries making up our diverse student body."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kartnivalz Grand Opening - India's First 3-Level Electric Go-Kart Track",
-    "image": "https://cdn-az.allevents.in/events3/banners/1deb6698e1fb7592f195e4e0e7b32a8b6599e67e0d80f7ab02d27f67646ab82c-rimg-w512-h512-dc486848-gmir.png?v=1789215382",
-    "startDate": "2026-10-24T11:00:00+05:30",
-    "endDate": "2026-10-24T23:30:00+05:30",
-    "url": "https://allevents.in/bengaluru/kartnivalz-grand-opening-indias-first-3-level-electric-go-kart-track/100002000402302135",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kartnivalz",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "SY No. 318 &amp; 321, JALA HOBLI YELAHANKA TALUK, Bettahalasur, Bengaluru, Karnataka, 562157, India.",
-        "postalCode": "562157",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.1880439",
-        "longitude": "77.6180619"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready to zoom at Kartnivalz Grand Opening, India’s first 3-level electric go-kart track – fun in 3D!",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "EUR",
-        "availabilityStarts": "2026-09-12",
-        "availabilityEnds": "2026-10-24T23:30:00+05:30",
-        "validFrom": "2026-09-12",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/kartnivalz-grand-opening-indias-first-3-level-electric-go-kart-track/100002000402302135"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/SoldOut",
-        "priceCurrency": "EUR",
-        "availabilityStarts": "2026-09-12",
-        "availabilityEnds": "",
-        "validFrom": "2026-09-12",
-        "url": "https://allevents.in/bengaluru/kartnivalz-grand-opening-indias-first-3-level-electric-go-kart-track/100002000402302135",
-        "price": 0,
-        "name": "General Admission"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Kartnivalz",
-        "url": "https://allevents.in/org/kartnivalz/28149770",
-        "description": "Kartnivalzis India's first 3-level electric go-kart entertainment zone, located in Bettahalasuru, North Bengaluru. Along with multi-level go-karting, the venue features ATV rides, bowling, arcade games, and a food court — built as a destination for karting enthusiasts, families, birthday parties, and corporate events alike. Kartnivalz opens to the public on October 12, 2026."
       }
     ]
   },
