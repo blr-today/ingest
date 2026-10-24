@@ -319,7 +319,36 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "The Silliest Show Tonight by Improv Lore",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 249,
+      "lowPrice": 199,
+      "offerCount": 2,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-30T15:30:00.000Z",
+          "name": "Early Bird",
+          "price": 199,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
+          "validFrom": "2026-03-26T07:29:43.028Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-30T17:00:00.000Z",
+          "name": "Regular Ticket",
+          "price": 249,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
+          "validFrom": "2026-03-26T07:29:43.028Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets"
+    },
     "sameAs": [
       "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
     ],
