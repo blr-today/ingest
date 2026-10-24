@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://www.sofarsounds.com/events/67871",
-    "startDate": "2026-10-24T17:00:00+05:30",
-    "doorTime": "2026-10-24T16:30:00+05:30",
-    "endDate": "2026-10-24T19:00:00+05:30",
-    "name": "Sofar concert in Bangalore",
-    "description": "An intimate concert by Sofar Sounds, at an offbeat venue. Venue details will be disclosed 36 hours before the event.",
-    "location": {
-      "@type": "Place",
-      "address": "Bangalore"
-    },
-    "image": "https://sofar-sounds-live.imgix.net/images/default-images/event-image-pool/outdoor/outdoor-event-image-20.jpg?ixlib=rails-4.3.1&fit=crop&crop=entropy&ar=1:1&auto=format&q=50",
-    "remainingAttendeeCapacity": 0,
-    "offers": {
-      "@type": "Offer",
-      "price": 904.0,
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock"
-    }
-  },
-  {
     "url": "https://www.sofarsounds.com/events/67912",
     "startDate": "2026-11-21T18:00:53+05:30",
     "doorTime": "2026-11-21T17:30:51+05:30",
@@ -32,6 +12,26 @@
     },
     "image": "https://sofar-sounds-live.imgix.net/images/default-images/event-image-pool/commercial-indoor/commercial-indoor-event-image-42.jpg?ixlib=rails-4.3.1&fit=crop&crop=entropy&ar=1:1&auto=format&q=50",
     "remainingAttendeeCapacity": 75,
+    "offers": {
+      "@type": "Offer",
+      "price": 1204.0,
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "url": "https://www.sofarsounds.com/events/67913",
+    "startDate": "2026-12-19T20:00:00+05:30",
+    "doorTime": "2026-12-19T19:30:00+05:30",
+    "endDate": "2026-12-19T22:00:00+05:30",
+    "name": "Sofar concert at a Co-Working/Local Business in Bangalore",
+    "description": "An intimate concert by Sofar Sounds, at an offbeat venue. Venue details will be disclosed 36 hours before the event.",
+    "location": {
+      "@type": "Place",
+      "address": "Bangalore"
+    },
+    "image": "https://sofar-sounds-live.imgix.net/images/default-images/event-image-pool/commercial-indoor/commercial-indoor-event-image-15.jpg?ixlib=rails-4.3.1&fit=crop&crop=entropy&ar=1:1&auto=format&q=50",
+    "remainingAttendeeCapacity": 120,
     "offers": {
       "@type": "Offer",
       "price": 1204.0,
