@@ -160,6 +160,46 @@
   {
     "@context": "https://schema.org",
     "@type": "SocialEvent",
+    "description": "And, Then? brings together some of Improv Lore’s most experienced performers for an evening of unscripted theatre. Whether we’re revisiting a format we love or exploring something entirely new, every performance is built live with curiosity, collaboration, and a sense of play at its heart.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
+    "endDate": "2026-11-01T21:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/2X/5/579b3c2cc7514fa9880b4e63d5d0026ada97fdcb.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "And Then?: An Improv Show by Improv Lore",
+    "offers": null,
+    "sameAs": [
+      "https://district.in/and-then-an-improv-show-by-improv-lore-jul26-2026/event"
+    ],
+    "startDate": "2026-11-01T19:00:00.000+05:30",
+    "url": "https://underline.center/t/and-then-an-improv-show-by-improv-lore/841"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
     "description": "From filter coffee to flyovers, how well do you really know Bangalore? Come test your knowledge of our city at the ultimate Bangalore city quiz, presented by Calm Your Wits Quizzing on the occasion of Kannada Rajyotsava. Whether you know every nook of the city or have just moved here, we promise you a fun evening of (re)discovering Bangalore’s quirks, culture, and charm.\n\nIf you’ve never attended one of our quizzes before, this is a great place to start. Every question is framed in a way that will let you work out the answer, and we are liberal with hints.\n\nAbout Calm Your Wits:\n\nCalm Your Wits Quizzing is a Bengaluru-based quizzing collective that curates and hosts engaging, beginner-friendly pub quizzes across India. Founded by quizmaster Sanket Mandal, they have expanded beyond the Bengaluru quizzing circuit to host regular events in Mumbai, Pune, Delhi, Hyderabad, and even London. Launched with the intention of avoiding the intimidating archetype of traditional academic trivia, their style leans towards long-form questions, with lots of clues and audio-visual elements thrown in to help participants arrive at the answer.\n\nQuizmaster Sanket also draws heavily from humour on social media, and uses tweets, Instagram reels, and memes to make questions on even the most serious of topics, as a way to remind people that all that doomscrolling can actually come in handy, and that knowledge can come from anywhere if we’re open to the possibilities.\n\nExpect questions that keep you guessing, hints that reward lateral thinking, and a few intentional misdirects that may have you arguing with your teammates. Come early, and come curious!\n\nYou can follow them on Instagram \n@calm.your.wits.quizzing",
     "endDate": "2026-11-01T20:00:00.000+05:30",
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -251,16 +291,16 @@
     "name": "A Brief Study of with the Eleven AM Club",
     "offers": {
       "@type": "AggregateOffer",
-      "highPrice": 349,
-      "lowPrice": 299,
+      "highPrice": 399,
+      "lowPrice": 349,
       "offerCount": 2,
       "offers": [
         {
           "@type": "Offer",
           "availability": "http://schema.org/InStock",
           "availabilityEnds": "2026-11-01T09:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 299,
+          "name": "Early Bird",
+          "price": 349,
           "priceCurrency": "INR",
           "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets",
           "validFrom": "2026-06-23T10:28:44.828Z"
@@ -269,8 +309,8 @@
           "@type": "Offer",
           "availability": "http://schema.org/InStock",
           "availabilityEnds": "2026-11-01T12:30:00.000Z",
-          "name": "Walk-in",
-          "price": 349,
+          "name": "Regular Ticket",
+          "price": 399,
           "priceCurrency": "INR",
           "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets",
           "validFrom": "2026-06-23T10:28:44.828Z"
@@ -768,64 +808,5 @@
     ],
     "startDate": "2026-10-26T18:30:00.000+05:30",
     "url": "https://underline.center/t/bangalore-puzzle-pals-with-playful-pursuits/11"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "And, Then? brings together some of Improv Lore’s most experienced performers for an evening of unscripted theatre. Whether we’re revisiting a format we love or exploring something entirely new, every performance is built live with curiosity, collaboration, and a sense of play at its heart.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
-    "endDate": "2026-10-25T21:00:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/2X/5/579b3c2cc7514fa9880b4e63d5d0026ada97fdcb.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "And Then?: An Improv Show by Improv Lore",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-25T15:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
-          "validFrom": "2026-07-22T10:05:53.630Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets"
-    },
-    "sameAs": [
-      "https://district.in/and-then-an-improv-show-by-improv-lore-jul26-2026/event"
-    ],
-    "startDate": "2026-10-25T19:00:00.000+05:30",
-    "url": "https://underline.center/t/and-then-an-improv-show-by-improv-lore/841"
   }
 ]
