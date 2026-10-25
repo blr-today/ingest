@@ -43,3 +43,9 @@ jobs:
           find "$HOME/.cache/bms/main" -maxdepth 1 -name '????-??-??-*.json' -exec cp -t "$BMS_CACHE" {} +
         fi
         python -m src.sources bookmyshow
+    - name: Save pages for GitHub-hosted builds
+      if: github.ref == 'refs/heads/main'
+      uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: ~/.cache/bms/main
+        key: "cache-bms-main-${{ github.run_id }}"

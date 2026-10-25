@@ -99,6 +99,14 @@ jobs:
         path: ~/.cache/ingest-instagram.sqlite
         key: "cache-instagram-${{ github.run_id }}"
         restore-keys: "cache-instagram-"
+    - name: Restore BookMyShow pages
+      # sel reads the pages List BookMyShow wrote to its disk; others restore its last upload
+      if: runner.environment == 'github-hosted'
+      uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: ~/.cache/bms/main
+        key: "cache-bms-main-none"
+        restore-keys: "cache-bms-main-"
     - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       name: Clone self repository
       with:
@@ -120,6 +128,9 @@ jobs:
       run: |
         # List BookMyShow fills this on sel; each branch reads only its own
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
+        if [ ! -d "$BMS_CACHE" ] && [ -d "$HOME/.cache/bms/main" ]; then
+          cp -r "$HOME/.cache/bms/main" "$BMS_CACHE"
+        fi
         make clean && make -s all
     - name: Upload Artifacts
       uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
