@@ -10,7 +10,8 @@ URL = "https://lavonne.in/courses/weekend-classes"
 
 def parse_time_range(time_str, base_date):
     """Parse time range like '10:00 am to 1:00 pm' and attach to base_date"""
-    start_time, end_time = time_str.split(" to ")
+    # Multi-day classes carry a prefix such as "2 days | 9:00 am to 5:00 pm"
+    start_time, end_time = re.findall(r"\d{1,2}:\d{2} [ap]m", time_str, re.I)
     start = datetime.strptime(f"{base_date} {start_time}", "%Y-%m-%d %I:%M %p")
     end = datetime.strptime(f"{base_date} {end_time}", "%Y-%m-%d %I:%M %p")
     return start.replace(tzinfo=IST), end.replace(tzinfo=IST)
