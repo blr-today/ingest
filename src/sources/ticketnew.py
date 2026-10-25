@@ -30,6 +30,7 @@ LANGUAGE_TO_ISO_MAP = {
     "Nepali": "ne",
     "Odia": "or",
     "Punjabi": "pa",
+    "Rajasthani": "raj",
     "Sanskrit": "sa",
     "Sindhi": "sd",
     "Tamil": "ta",
@@ -96,6 +97,9 @@ def fetch_movies(movie_list):
         }
 
         for lang in movie_detail["languageFormatGroups"]:
+            if lang["lang"] not in LANGUAGE_TO_ISO_MAP:
+                print(f"[TICKETNEW] Unknown language {lang['lang']!r}, skipping")
+                continue
             movie["formats"].append(
                 {
                     "lang": LANGUAGE_TO_ISO_MAP[lang["lang"]],
