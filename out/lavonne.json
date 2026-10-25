@@ -1,59 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Celebration Cakes",
-    "description": "Learn the making, baking & layering of these celebration cakes, getting a beautiful finish, along with a handful of elements to play around with, flavour, compositions & much more.\n• Chocolate Truffle Cake (Chocolate cake, Cocoa nib syrup, Corn flakes crunch, Chocolate ganache cream, Dark ganache)\n• Pineapple Coconut Cake (Genoise sponge, Sugar syrup, Pineapple confit, Coconut ganache cream, Lemon Italian meringue buttercream, Cocoa butter spray)\n• Carrot Cake (Spiced Carrot Cake, Caramelised white chocolate cheese, Walnut crumble)",
-    "url": "https://lavonne.in/courses/weekend-classes#class-i4i3uk71c6wfrnhb3sn7plsb",
-    "image": "https://lavonne-media.sgp1.cdn.digitaloceanspaces.com/Celebration_Cakes_99fc239223.webp",
-    "startDate": "2026-10-17T09:00:00+05:30",
-    "endDate": "2026-10-17T17:00:00+05:30",
-    "offers": {
-      "@type": "Offer",
-      "price": "5500",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/SoldOut"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Lavonne Academy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      }
-    }
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Mastering Macarons",
-    "description": "Crack the code to make perfect macarons, be it the French or Italian way! Learn the method of making the perfect macaron mix along with the piping and baking techniques! Also learn to make easy, fun and delicious filling to take your macarons to the next level.\n• French macarons with 4 varieties of fillings\n• Italian macarons with 4 varieties of fillings",
-    "url": "https://lavonne.in/courses/weekend-classes#class-q29pw66yce6ov03rjilsc0sg",
-    "image": "https://lavonne-media.sgp1.cdn.digitaloceanspaces.com/Macarons_378f54f6e5.webp",
-    "startDate": "2026-10-24T09:00:00+05:30",
-    "endDate": "2026-10-24T17:00:00+05:30",
-    "offers": {
-      "@type": "Offer",
-      "price": "5000",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "remainingAttendeeCapacity": 16
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Lavonne Academy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      }
-    }
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Entremets",
     "description": "A class about constructing unique entremets with various components and textures. Learn how to create, assemble, and balance ratios of components, while glazing, garnishing and finishing your entremets to look exquisite.\n• Coffee & Hazelnut Entremet (Coffee & Hazelnut Moelleux, Coffee Cremeux, Hazelnut Praline Crunch, Milk Chocolate Coffee Mousse\n\n• Tropical Entremet (Banana Sponge, Exotic Fruit Compote, Passion Cremeux, Caramelised White Chocolate Mousse, Mirror Glaze)",
     "url": "https://lavonne.in/courses/weekend-classes#class-irhbkblg145vvfrja6m4fihk",
@@ -169,6 +116,33 @@
       "price": "5000",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Lavonne Academy",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "2-day Christmas Baking",
+    "description": "Learn techniques and recipes for classic festive products in this fun filled two-day workshop, covering a wide range of Christmas goodies.\n• Christmas Plum Cake\n• Dundee Cake\n• Plum Pudding\n• Dresden Stollen\n• Kugelhopf\n• Florentine Bars\n• Mince Pies\n• Crinkle Cookie\n• Kipferl Cookie\n• Spiced Chocolate Truffles\n• Yule Log\n• Gingerbread Man\n• Christmas Verrine\n• Chocolate Mediants\n• Inclusion Bars  ",
+    "url": "https://lavonne.in/courses/weekend-classes#class-s6385yvtuxv7uu11y92uihlm",
+    "image": "https://lavonne-media.sgp1.cdn.digitaloceanspaces.com/Xmas_66048a1a28.webp",
+    "startDate": "2026-12-05T09:00:00+05:30",
+    "endDate": "2026-12-05T17:00:00+05:30",
+    "offers": {
+      "@type": "Offer",
+      "price": "18500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "remainingAttendeeCapacity": 10
     },
     "location": {
       "@type": "Place",

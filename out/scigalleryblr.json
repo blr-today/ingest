@@ -1,37 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "The Bengaluru Uncertainty Principle",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
-    },
-    "startDate": "2026-10-25T17:00:00+05:30",
-    "endDate": "2026-10-25T19:30:00+05:30",
-    "description": "What does Bengaluru have to do with quantum physics? Quite a bit, as it turns out.\n\nThis quiz will explore the surprising connections between the city and the quantum world—from C. V. Raman and IISc to present-day quantum research, homegrown startups and a few unexpected detours through Bengaluru’s history and culture.\n\nNo physics degree required. The questions are designed to be beginner-friendly and workoutable, so curiosity and good guessing will take you a long way.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=the-bengaluru-uncertainty-principle",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FSGB00520%20Medium.jpeg-1791029539960?alt=media&token=a48ff53f-0511-4290-afc1-16f393b63301",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Raksha Nagaraj"
-      },
-      {
-        "@type": "Person",
-        "name": "Sumeet Pai"
-      },
-      {
-        "@type": "Person",
-        "name": "Suyash Kumar"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "QUANTUM Trails",
     "location": {
       "@type": "Place",
@@ -53,55 +22,6 @@
       {
         "@type": "Person",
         "name": "Manasvi J"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "A Joke in Two States: QUANTUM Through Memes",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
-    "startDate": "2026-10-25T16:30:00+05:30",
-    "endDate": "2026-10-25T18:30:00+05:30",
-    "description": "A neutron walks into a bar and asks, \"How much for a drink?\" The bartender replies, \"For you, no charge!\" — This joke may or may not land, but we'll leave that up to you!\n\nQuantum physics is many things: complicated, strange, and quirky, among others. But what if we could have some fun while learning about the many mysteries of our universe? Making an exhibition on quantum physics was difficult, sure! It also included a string of shared memes, silly jokes that appeared out of nowhere and of course, one too many cats!\n\nJoin David and Sarasi from the Curatorial Team, for a walkthrough where we walk you through our experience of learning about quantum physics, but purely through memes. We invite you to look up from the doom scroll and towards our exhibition. Don't be scared of the big terms and symbols, pick up some fun facts along the way!",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=themed-walkthrough-01",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "David Verghese"
-      },
-      {
-        "@type": "Person",
-        "name": "Sarasi Ganguly"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Big Machines to Study Molecules",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
-    },
-    "startDate": "2026-10-25T11:00:00+05:30",
-    "endDate": "2026-10-25T13:00:00+05:30",
-    "description": "How does quantum physics help big machines unravel the mysteries of life?\n\nLife is organised in a hierarchy, from atoms and molecules to organelles, cells, tissues, organs, populations, ecosystems, and ultimately the biosphere. At the heart of this intricate organisation lie molecules, whose structures, interactions, and changes shape the evolution of organisms and influence health and disease. Yet, understanding these tiny building blocks of life is no small feat. It requires extraordinarily sophisticated scientific instruments, some of which are so large that they span hundreds of meters or even kilometres. In this lecture, Vinoth will explore how these large scientific machines, relying on quantum physics, reveal the molecular processes that sustain life and influence health and disease.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=big-machines-to-study-molecules",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "80",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FCRYO-EM_STRUCTURE_OF_the_human_MPSF_-_8E3Q.jpeg-1791969815122?alt=media&token=bc4bcdb2-704b-4643-9e0c-412e8d796129",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Vinothkumar Kutti Ragunath"
       }
     ]
   },
@@ -156,6 +76,236 @@
       {
         "@type": "Person",
         "name": "Rajeev Kumar Jain"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Optogenetics: Controlling Brain Cells with Light",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/qpjQRnJJ1yQosfKV8"
+    },
+    "startDate": "2026-11-07T11:00:00+05:30",
+    "endDate": "2026-11-07T13:30:00+05:30",
+    "description": "The 2026 Nobel Prize for Physiology or Medicine went to researchers Karl Deisseroth, Peter Hegemann and Georg Nagel for their work on optogenetics. Optogenetics is the technique of using genetically expressed light-sensitive  proteins to control the activity of brain cells. \n\nJoin Upinder Singh Bhalla for a lecture tracing the story of how very basic research into the light responsiveness of a single-celled plant micro-organism led to the discovery of light-sensitive proteins that allow current to flow into a cell. Learn how this was then developed into a powerful tool for studying the brain, and possibly for therapeutic purposes in the future. Come discover the path of development of optogenetics, both as a triumph of basic science, and also as a way to tell the story of many people who contributed fundamentally but were left aside when the prizes rolled in.\n\nThis lecture is organised in collaboration with Infosys Science Foundation.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=optogentics",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Upinder Singh Bhalla"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-07T12:00:00+05:30",
+    "endDate": "2026-11-07T13:30:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Manasi and Srivikashini, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en19",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Manasi Narula"
+      },
+      {
+        "@type": "Person",
+        "name": "Srivikashini Krishnaraj"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-07T16:30:00+05:30",
+    "endDate": "2026-11-07T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Deepak and Sparsh, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en20",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Deepak V S"
+      },
+      {
+        "@type": "Person",
+        "name": "Sparsh Bhatt"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-08T12:00:00+05:30",
+    "endDate": "2026-11-08T13:30:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ashita and Manasi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en21",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ashita Yedida"
+      },
+      {
+        "@type": "Person",
+        "name": "Manasi Narula"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Kathegalu: Kannada Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-08T16:30:00+05:30",
+    "endDate": "2026-11-08T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ajay and Hrithika, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life. Don't miss your chance to experience QUANTUM's Kannada walkthrough!",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=kannada-walkthrough-3",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ajay R H"
+      },
+      {
+        "@type": "Person",
+        "name": "Hrithika CA"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-14T00:00:00+05:30",
+    "endDate": "2026-11-14T01:30:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ajay and Apoorva, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en22",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ajay R H"
+      },
+      {
+        "@type": "Person",
+        "name": "Apoorva Masade"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-14T16:00:00+05:30",
+    "endDate": "2026-11-14T17:30:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Anandita and Rohit, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en23",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Anandita Balsavar"
+      },
+      {
+        "@type": "Person",
+        "name": "Rohit Taeja Kumar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-15T12:00:00+05:30",
+    "endDate": "2026-11-15T13:30:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Keerthi and Vaishnavi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en24",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Keerthi V Patil"
+      },
+      {
+        "@type": "Person",
+        "name": "Vaishnavi Rajesh"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Kathegalu: Kannada Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-15T16:30:00+05:30",
+    "endDate": "2026-11-15T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Anusha and Deepak, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life. Don't miss your chance to experience QUANTUM's Kannada walkthrough!",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=kannada-walkthrough-4",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Anusha YG"
+      },
+      {
+        "@type": "Person",
+        "name": "Deepak V S"
       }
     ]
   }
