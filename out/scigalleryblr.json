@@ -94,6 +94,7 @@
     "url": "https://quantum.scigalleryblr.org/programmes?p=optogentics",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FRat_hippocampus_stained_with_antibody_to_NeuN_(green)%2C_myelin_basic_protein_(red)_and_DNA_(blue)%20Medium.jpeg-1792930112852?alt=media&token=14771bd6-bc7a-4a3a-b441-d87a0f1e42e7",
     "performer": [
       {
         "@type": "Person",
@@ -214,8 +215,8 @@
       "address": "Science Gallery, Bangalore",
       "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
     },
-    "startDate": "2026-11-14T00:00:00+05:30",
-    "endDate": "2026-11-14T01:30:00+05:30",
+    "startDate": "2026-11-14T12:00:00+05:30",
+    "endDate": "2026-11-14T13:30:00+05:30",
     "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ajay and Apoorva, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
     "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en22",
     "isAccessibleForFree": true,
@@ -240,8 +241,8 @@
       "address": "Science Gallery, Bangalore",
       "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
     },
-    "startDate": "2026-11-14T16:00:00+05:30",
-    "endDate": "2026-11-14T17:30:00+05:30",
+    "startDate": "2026-11-14T16:30:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
     "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Anandita and Rohit, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
     "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en23",
     "isAccessibleForFree": true,
@@ -306,6 +307,72 @@
       {
         "@type": "Person",
         "name": "Deepak V S"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Playful Writer: What Anne Carson Taught Me",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/qpjQRnJJ1yQosfKV8"
+    },
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T13:30:00+05:30",
+    "description": "The 2026 Nobel Prize for Literature went to Anne Carson. \n\nJoin Srilata Krishnan for a talk about Carson’s work and what writers and artists can learn from it. Carson’s training was in the classics, which spurred in her a wide-ranging interest in comparative literature, anthropology, history and the arts. Hers is a quintessentially interdisciplinary mind, and her work feels like jewels studded with the gemstones of ancient Greek and Latin literature (Sappho, Catullus, Stesichorus, for instance) and of writers such as Virginia Woolf, Keats and Gertrude Stein.\n\nFormally, her work may be best described as cross-genre. It is the spirit of playfulness and enquiry that drives all of Carson’s work, making each of her books different from the others. Her playfulness precludes neither depth nor rigour, as borne out by every single work of hers. \n\nAs a writer, Srilata has learnt a lot about craft from Carson and will be sharing the subtle ways in which reading Carson helped shape her own writing.\n\nThis lecture is organised in collaboration with Infosys Science Foundation.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=the-playful-writer",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Srilata Krishnan"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Hello, Quantum! A Hands-on Introduction to Quantum Computing",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/qpjQRnJJ1yQosfKV8"
+    },
+    "startDate": "2026-11-07T18:00:00+05:30",
+    "endDate": "2026-11-07T20:00:00+05:30",
+    "description": "Ready to write your first programme for a quantum computer?\n\nJoin us for an interactive session exploring one of the most exciting frontiers in modern technology—quantum computing. Discover what makes quantum computers different from the devices we use every day, and get acquainted with the fascinating world of qubits, superposition and quantum circuits. \n\nWith Qiskit, an open-source software framework for quantum computing, we’ll go beyond theory to see how quantum programmes actually work and take our first steps towards writing one ourselves. No prior knowledge of quantum computing is required—just curiosity and a willingness to experiment! Whether you’re a student, a technology enthusiast or simply curious about the quantum world, come along to demystify the science, explore new possibilities and experience quantum computing hands-on.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=hello-quantum-qiskit",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Archit Chadalawada"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "If On a Winter's Night a Traveller",
+    "location": {
+      "@type": "Place",
+      "name": "Patio, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/qpjQRnJJ1yQosfKV8"
+    },
+    "startDate": "2026-11-07T15:00:00+05:30",
+    "endDate": "2026-11-07T16:30:00+05:30",
+    "description": "This edition of Co-Read will explore excerpts from Italo Calvino’s novel, *If on a Winter’s Night a Traveller*.\n\nJoin us to discover what happens when a book speaks to you directly, makes you its main character, only to interrupt every story as it begins. We will read short passages aloud and pass “you” around the circle, to piece together the many ways a book can involve its readers: as the author, an observer or a participant.\n\nNo prior knowledge of the book required.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=if-on-a-winters-night-a-traveller",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Thuvaja G"
       }
     ]
   }
