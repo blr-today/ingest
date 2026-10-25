@@ -66,14 +66,23 @@ def get_event_type(type, subheading):
 
 
 def make_event(session, event_dict):
-    startTimeText = (
-        event_dict["date_start_full"][0:10] + "T" + event_dict["time_start_txt"]
-    )
-    startTime = datetime.datetime.strptime(startTimeText, "%Y-%m-%dT%I:%M %p")
+    if event_dict.get("time_start_txt"):
+        startTimeText = (
+            event_dict["date_start_full"][0:10] + "T" + event_dict["time_start_txt"]
+        )
+        startTime = datetime.datetime.strptime(startTimeText, "%Y-%m-%dT%I:%M %p")
+    else:
+        # Installations list no time; date_start_full carries a noon placeholder
+        startTime = datetime.datetime.fromisoformat(event_dict["date_start_full"])
 
     # Unverified: no multi-day listing seen yet, so date_end_full mirrors date_start_full
-    endDay = (event_dict.get("date_end_full") or event_dict["date_start_full"])[0:10]
-    unknown = [k for k in event_dict if "end" in k and k not in ("date_end_full", "time_end_txt")]
+    endDay = (
+        event_dict.get("date_end_full")
+        or event_dict.get("date_end_ical")
+        or event_dict["date_start_full"]
+    )[0:10]
+    known = ("date_end_full", "date_end_ical", "date_end", "date_end_txt", "time_end_txt")
+    unknown = [k for k in event_dict if "end" in k and k not in known]
     if unknown:
         print("[GOETHE] Unhandled end fields:", unknown, event_dict["object_id"])
     if event_dict.get("time_end_txt"):
