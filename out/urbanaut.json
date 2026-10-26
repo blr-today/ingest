@@ -170,7 +170,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -371,7 +371,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -499,53 +499,6 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/FA78B3CDF34747D1B13E283029959C03_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/B53B5A6CC93E4A90B55F406B259FF566_converted_webp.webp"
     ],
-    "startDate": "2026-10-25T18:30:00+05:30",
-    "endDate": "2026-10-25T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "301, 14th main, 2nd floor, 15th Cross Rd, 5th Phase, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSiybFgVrjsRSW3pq1hAuiI",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9061517,
-        "longitude": 77.5920561
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 17,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 749.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Third Place",
-      "description": "you’re invited. welcome to third place, where dinners spark real connections, experiences bring us closer, and evenings unfold beautifully, unscripted. just say “yes” and discover the people, places, and moments you were never supposed to miss. reserve your seat now & see where the night takes you.",
-      "url": "https://urbanaut.app/partner/thirdplace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/6F7BE68E418B4A3AA6258FF12AA9C085_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/movie-conversation-coffee#2026-10-25T1830",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Movie, Conversation & Coffee",
-    "description": "“movie, conversation & coffee” is a slow, no-pressure evening at Third Place where we:🎬 watch a thoughtfully chosen short films that stirs something real🗣️ sit in a guided group conversation about what it brought up☕ sip on coffee (or chai) while the chat drifts into life, love, work, and everything in betweenNo film bros, no hot takes required. You don’t need to be a cinephile or an extrovert - just come as you are, watch with the room, and share as much or as little as you feel like.If you’ve been craving softer nights, meaningful conversations and new people who feel… human, this one’s for you.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/82D2981BFB714474AAE36B4CBE780806_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FA78B3CDF34747D1B13E283029959C03_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B53B5A6CC93E4A90B55F406B259FF566_converted_webp.webp"
-    ],
     "startDate": "2026-11-28T18:00:00+05:30",
     "endDate": "2026-11-28T21:00:00+05:30",
     "location": {
@@ -577,7 +530,7 @@
       "url": "https://urbanaut.app/partner/thirdplace",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/6F7BE68E418B4A3AA6258FF12AA9C085_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/movie-conversation-coffee#2026-11-28T1800",
+    "url": "https://urbanaut.app/spot/movie-conversation-coffee",
     "keywords": [
       "Art & culture",
       "URBANAUT"
@@ -898,7 +851,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -959,50 +912,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/open-brag-come-brag-about-you",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Metta Practice",
-    "description": "Monday Morning VipassanaBegin the week in silence and stillness.A shared morning meditation for Vipassana practitioners, creating space to sit together, return to the practice, and begin the week with awareness and equanimity.For old students who have completed a 10 day course only.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2CD349865F574972ADED9CB80CF33588_converted_webp.webp"
-    ],
-    "startDate": "2026-10-26T06:30:00+05:30",
-    "endDate": "2026-10-26T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/metta-practice",
     "keywords": [
       "Workshop",
       "URBANAUT"
@@ -1121,7 +1030,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1662,7 +1571,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1807,7 +1716,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 160,
+    "remainingAttendeeCapacity": 158,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1948,7 +1857,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2599,7 +2508,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 133,
+    "remainingAttendeeCapacity": 132,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2852,7 +2761,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Uncle Dance",
-    "description": "Uncle DanceMonday, 23rd November, 6.00 p.m. - 6.45 p.m.Language: Hindi, EnglishAbout the PerformanceUncle Dance borrows from Pranjal’s personal struggles with patriarchy and with dance. It enquires into the quintessential uncle and the role of power and security in relationships and on the dance floor. The play also explores marriage as a construct, and the possibility of two people tying the knot to become one, when they are always actually two.Cast: Pranjal Vaid and Anya GhaiLight Design: Yash PotnisAbout the ArtistsPranjal VaidBorn into a Punjabi joint family with 26 people living under one roof, Pranjal’s tryst with drama began fairly early. He has continued to observe drama and reimagine it on the stage and the screen, as an actor, writer and director.Pranjal has acted in productions such as Viraasat, directed by Anuradha Kapur, Mezok, directed by Jyoti Dogra, and Quicksand, directed by Neel Chaudhuri. He has also devised, written and acted in the play Amb Da Boota.Having studied Creative Communications at MICA, Ahmedabad, Pranjal has directed ad-films and campaigns for brands such as upGrad, Amazon, Starbucks, JSL, IndusInd Bank and Dabur Real.Jai Prakash KumarJai is a Delhi-based actor, theatre practitioner and maker with a keen interest in physical theatre. His artistic journey includes productions such as Mezok and Amb Da Boota, as well as his solo performance, Sattu Sherawaali Da.Performance Photos Credit: Kwantum PhotozAbout the Festival:PLAYINTERPLAY is a theatre festival with a difference. It celebrates 50 years of the Inlaks Shivdasani Foundation, bringing together its theatre awardees and scholars to show their work, share their experiences, skills and learnings, and converse on matters of common interest.PLAYINTERPLAY presents plays that are new to Bengaluru. What is different, however, is that it looks back as well as forward, featuring a work of theatre that has been specially revived for the festival and readings of plays that are still to become the finished article.PLAYINTERPLAY does more: it forges connections between its constituent parts — performances, workshops, conversations and experience sharing — emphasising the interplay between thought, learning and practice.See the plays! Apply for the workshops! Join the conversations! Soak in the magic of theatre.About the Artistic Director Anmol Vellani is the founder and former executive director of India Foundation for the Arts, the first independent philanthropic organisation in India devoted exclusively to supporting the arts. He is also the co-founder of Toto Funds the Arts, which nurtures, encourages and rewards new voices and emerging talent in the arts.Anmol did not, however, aspire to become a professional in the field of philanthropy. His early fascination was with the arts, especially theatre and music, and also philosophy, which he studied at the Universities of Poona, Oxford and Cambridge. He taught ethics, logic and the history of philosophy at Elphinstone College, Mumbai, in the 1970s.His writing and talks — on arts entrepreneurship, the creative economy, cultural policy, the role of grant-making foundations, culture and development, arts collaboration and the performing arts, for example — have reflected on the insights he has gleaned from his long engagement with the arts and philanthropy.Anmol has been associated with nearly 50 plays as a director, designer or actor. He has directed theatre productions in different languages and cities. His last two plays — Innocence (2024) and Apne Ghar Jaisa (2022) — have been lauded for their sharp and critical look at contemporary social and political realities in India.",
+    "description": "Uncle DanceMonday, 23rd November, 6.00 p.m. - 6.45 p.m.Language: Hindi, EnglishAbout the PerformanceUncle Dance borrows from Pranjal’s personal struggles with patriarchy and with dance. It enquires into the quintessential uncle and the role of power and security in relationships and on the dance floor. The play also explores marriage as a construct, and the possibility of two people tying the knot to become one, when they are always actually two.Cast: Pranjal Vaid and Jai Prakash KumarLight Design: Yash PotnisAbout the ArtistsPranjal VaidBorn into a Punjabi joint family with 26 people living under one roof, Pranjal’s tryst with drama began fairly early. He has continued to observe drama and reimagine it on the stage and the screen, as an actor, writer and director.Pranjal has acted in productions such as Viraasat, directed by Anuradha Kapur, Mezok, directed by Jyoti Dogra, and Quicksand, directed by Neel Chaudhuri. He has also devised, written and acted in the play Amb Da Boota.Having studied Creative Communications at MICA, Ahmedabad, Pranjal has directed ad-films and campaigns for brands such as upGrad, Amazon, Starbucks, JSL, IndusInd Bank and Dabur Real.Jai Prakash KumarJai is a Delhi-based actor, theatre practitioner and maker with a keen interest in physical theatre. His artistic journey includes productions such as Mezok and Amb Da Boota, as well as his solo performance, Sattu Sherawaali Da.Performance Photos Credit: Kwantum PhotozAbout the Festival:PLAYINTERPLAY is a theatre festival with a difference. It celebrates 50 years of the Inlaks Shivdasani Foundation, bringing together its theatre awardees and scholars to show their work, share their experiences, skills and learnings, and converse on matters of common interest.PLAYINTERPLAY presents plays that are new to Bengaluru. What is different, however, is that it looks back as well as forward, featuring a work of theatre that has been specially revived for the festival and readings of plays that are still to become the finished article.PLAYINTERPLAY does more: it forges connections between its constituent parts — performances, workshops, conversations and experience sharing — emphasising the interplay between thought, learning and practice.See the plays! Apply for the workshops! Join the conversations! Soak in the magic of theatre.About the Artistic Director Anmol Vellani is the founder and former executive director of India Foundation for the Arts, the first independent philanthropic organisation in India devoted exclusively to supporting the arts. He is also the co-founder of Toto Funds the Arts, which nurtures, encourages and rewards new voices and emerging talent in the arts.Anmol did not, however, aspire to become a professional in the field of philanthropy. His early fascination was with the arts, especially theatre and music, and also philosophy, which he studied at the Universities of Poona, Oxford and Cambridge. He taught ethics, logic and the history of philosophy at Elphinstone College, Mumbai, in the 1970s.His writing and talks — on arts entrepreneurship, the creative economy, cultural policy, the role of grant-making foundations, culture and development, arts collaboration and the performing arts, for example — have reflected on the insights he has gleaned from his long engagement with the arts and philanthropy.Anmol has been associated with nearly 50 plays as a director, designer or actor. He has directed theatre productions in different languages and cities. His last two plays — Innocence (2024) and Apne Ghar Jaisa (2022) — have been lauded for their sharp and critical look at contemporary social and political realities in India.",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/2E76E2962B4A4A14AFE771F90F46057A_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/9148CDA80EDE4F9A8CF047703A4EB79C_converted_webp.webp",
@@ -2873,7 +2782,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 148,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2918,7 +2827,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 144,
+    "remainingAttendeeCapacity": 143,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3111,7 +3020,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 120,
+    "remainingAttendeeCapacity": 118,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3157,7 +3066,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 109,
+    "remainingAttendeeCapacity": 108,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3385,7 +3294,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 146,
+    "remainingAttendeeCapacity": 145,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3483,7 +3392,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3667,7 +3576,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 109,
+    "remainingAttendeeCapacity": 107,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3756,7 +3665,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4912,7 +4821,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 275,
-    "remainingAttendeeCapacity": 218,
+    "remainingAttendeeCapacity": 214,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -5403,6 +5312,59 @@
     "keywords": [
       "Workshop",
       "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Lino Printing Workshop",
+    "description": "Lino Printing Workshop at Atta GalattaThis hands-on workshop introduces the basics of lino cut printmaking, from carving a simple design to inking and printing your own artwork. Participants will be guided through the process step by step and will leave with their own prints, perfect as small artworks or gifts.The session runs for three hours and includes demonstrations, supported making time, and space to experiment.Open to beginners and anyone curious about printmaking — no prior experience needed. Suitable for ages 14+.What should I bring?Clothes you don’t mind getting messy in, ideas or finished sketches for designs (found images from books are welcome), and lots of creativity.What’s provided?All printing tools, paper, and inks will be provided.What do I take home?All finished artworks are yours to keep, along with any unfinished pieces. Participants will also keep their carved lino block, allowing them to reprint at home with basic supplies.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5AB571561BB74FA3B2DA9A45E9AEC7D4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BC7C08BD2F01400CA2656C10ECC89442_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C4D09CCD6CE749249B5C5D0F420F439E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9E15A7881C09424C8A1AC60D9D0DBA4B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/598E34A8290146698FBA1ECF1AE8AA5C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/98A0DBDD1A6D4C52B1878F80A9D79E8B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/DD3F1828865C472F88F98C1FC29A0A6A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7F0FF1C277074CF1A7B6821F1E3544A1_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/89996548A3B344EA87497E77D6CA9131_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T14:30:00+05:30",
+    "endDate": "2026-11-28T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1600.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Aparna Konat",
+      "description": "Exploring communities through print making and print making through communities",
+      "url": "https://urbanaut.app/partner/aparna-konat",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BD97CC563E724A08BBD7AB204394AC17_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lino-printing-workshop-attagalatt",
+    "keywords": [
+      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
