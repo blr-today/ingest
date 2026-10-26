@@ -1,6 +1,63 @@
 [
   {
     "@type": "SportsEvent",
+    "name": "The Halloween Run and Coffee Rave",
+    "url": "https://indiarunning.com/events/the_halloween_run_and_coffee_rave_50661",
+    "startDate": "2026-10-31T07:00:00+05:30",
+    "endDate": "2026-10-31T10:30:00+05:30",
+    "description": "Get ready for a spooky Sunday with PaceX! 🎃👻 \nWe’re kicking things off with a\n community run at Cubbon Park\n, followed by a \nHalloween-themed Coffee Rave at Nothing Before Coffee (NBC), Residency Road.\nExpect more than just a run, we’re talking\n coffee, music, dancing, fun games and challenges, socialising, meeting new people, and a whole lot of spooky energy.\n \nCome dressed in your Halloween best, bring your friends, make new ones, and get ready for a morning filled with miles, caffeine, and unforgettable vibes! ☕🕸️🏃‍♀️",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/10/31/10527/banner1792937897730",
+    "location": {
+      "@type": "Place",
+      "name": "Ambedkar Veedhi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Raj Bhavan Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9808056,
+        "longitude": 77.5951699
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "2.5K",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "5k",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "7K",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "name": "10k",
+        "price": "399",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "BeAthlit Lake Run - November 2026 Edition",
     "url": "https://indiarunning.com/events/beathlitlakerunnovember2026edition-9019",
     "startDate": "2026-11-01T06:00:00+05:30",
@@ -316,7 +373,7 @@
     "offers": [
       {
         "@type": "Offer",
-        "name": "3K + YOGA",
+        "name": "3K",
         "price": "720",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"

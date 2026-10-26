@@ -645,6 +645,52 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Restorative Sound Meditation",
+    "description": "Join experienced facilitators Veena Narasimhan and Ruchir Dwivedi for a restorative sound meditation session hosted in a serene, century-old heritage building. Veena, a seasoned somatic movement practitioner and yoga teacher, partners with Ruchir, founder of the Arivu Yoga Collective, to guide participants toward deep relaxation. Their combined expertise in holistic healing, sound meditation, and traditional Hatha yoga ensures a deeply rejuvenating experience. About the facilitatorsVeena Narasimhan: Veena has over a decade of experience in yoga, movement, and healing. She holds Basic and Intermediate Yoga Teacher Training Certifications and a Diploma from Attakkalari, where she trained in Yoga, Kalari, Bharatanatyam, and Somatics. She previously taught at Akshar Yoga Kendraa and Dhurii Studios and led sessions for corporates and institutions like Reliance, Herbalife, and Army Public School. As a facilitator for Westside’s Wellness Campaign (2022–2024), she promoted wellness through yoga. She has also worked with Carer India as a cancer recovery yoga therapist and was selected to train nurses in Vietnam in 2025.Ruchir Dwivedi: Ruchir is a visual artist and a certified yoga teacher. He founded the Arivu Yoga Collective in Ulsoor. Drawing on almost seven years of dedicated practice, he loves guiding others through the ancient wisdom of yoga. At the collective, his teachings focus on traditional Hatha yoga - deeply inspired by the renowned Sivananda and Bihar School of Yoga traditions.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6C76858AFEFF48759E9F1A78C2E190BD_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F44C62297632473B8871E3211ACEF8D2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/2364BA0E7083498B9A18871A402953EB_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1a, Milkmen St, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974124,
+        "longitude": 77.6221573
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sthala",
+      "description": "Where creativity and conservation come together",
+      "url": "https://urbanaut.app/partner/sthala",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/134E8F83EABD4B2A9036D75CD6003052_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/restorative-sound-meditation",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tabletop Thursday with ReRoll Board Games",
     "description": "We're here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!You don’t need to have any experience with these kinds of board games before—we love introducing people to new ones! We’ll help you pick a game, set it up, and explain the rules.You can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases while making some friends in the process.Come solo, with a date, or in a group—we've got something for everyone!Who are ReRoll Board Games?We’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part-time for almost nine years now.",
     "image": [
@@ -830,7 +876,7 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
+    "@type": "Event",
     "name": "Open Mic: Poetry, Rap, Music",
     "description": "Open MicYour words. Your sound. Your stage.A warm, open space for poetry, rap, music and everything in between. Bring something you’ve been working on, something you’ve never shared before, or simply come to listen and cheer people on.No auditions. No judgement. Just a mic and a room ready to listen.No standup comedy.",
     "image": [
@@ -869,7 +915,6 @@
     "url": "https://urbanaut.app/spot/open-mic-poetry-rap-music-16746",
     "keywords": [
       "Music",
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -919,7 +964,7 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
+    "@type": "Event",
     "name": "Music Jam",
     "description": "Bring an instrument, bring your curiosity, and make some beautiful noise together.A playful, open jam for exploring sounds, rhythms and instruments you don't hear every day. No setlist, no pressure, no Bollywood, pop, or reel music: just musicians listening, experimenting and building something together.Come to play, listen, improvise or discover.",
     "image": [
@@ -958,13 +1003,12 @@
     "url": "https://urbanaut.app/spot/music-jam",
     "keywords": [
       "Music",
-      "Workshop",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
+    "@type": "Event",
     "name": "The Quiet Library: Read Together",
     "description": "For those who come alive when the world goes quiet.A late-night library for slow reading, wandering through books, quiet conversations and the strange pleasure of being awake when everyone else has gone home.Bring a book, borrow one, or simply find a corner and stay awhile.Open late. Come quietly. Leave whenever you’re ready.Passes available only after Vibe Check!",
     "image": [
@@ -1002,14 +1046,13 @@
     },
     "url": "https://urbanaut.app/spot/the-quite-library",
     "keywords": [
-      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
+    "@type": "Event",
     "name": "Plant & Play: Garden Together",
     "description": "Get your hands in the soil and grow something together.A relaxed community gardening session for planting, tending, learning and getting to know the people around you. No gardening experience needed — just come ready to get a little dirty.Plant something. Meet someone. Watch it grow.",
     "image": [
@@ -1047,14 +1090,13 @@
     },
     "url": "https://urbanaut.app/spot/plant-play-garden-together",
     "keywords": [
-      "Workshop",
       "Eco Friendly",
       "URBANAUT"
     ]
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
+    "@type": "Event",
     "name": "Knitty Kitty: Crochet, Macrame, Knit Together",
     "description": "A cosy gathering for people who make things with their hands.Bring your knitting, crochet, macramé or any fibre-based craft and spend an evening making, sharing skills, swapping ideas and chatting with fellow makers.No workshop. No pressure to be productive. Just good company, good threads and something lovely taking shape.Bring your project. Come make together.",
     "image": [
@@ -1092,7 +1134,6 @@
     },
     "url": "https://urbanaut.app/spot/knitty-kitty-crochet-together",
     "keywords": [
-      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1191,7 +1232,7 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
+    "@type": "Event",
     "name": "Photo Meetup - Shoot Together",
     "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
     "image": [
@@ -1229,7 +1270,6 @@
     },
     "url": "https://urbanaut.app/spot/photo-meetup-shoot-together",
     "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -4129,7 +4169,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "King’s Halloween Party at Coro: Potion Laboratory",
+    "name": "Potion Laboratory: King’s Halloween Party at Coro",
     "description": "The King’s Potion Laboratory 🧪✨Step into a magical laboratory at Coro with The King’s School Canterbury! Your child(aged 3-8) becomes an Apprentice Potion Maker and joins a theatrical, apothecary-style lab to observe, predict, experiment and create. Packed with fizzing reactions, colour-changing potions and gooey discoveries, this is a Halloween experience where play meets purposeful learning. Little ones delight in the wonder, while older children start thinking like real scientists. Parents get a first-hand look at how King’s blends joyful childhood with academic ambition.☕🎃 Treat yourself, it’s on us!Your entire ticket price is redeemable at Cafe Plume, so you can unwind with a treat once the experiments are done.Cafe Plume will be serving a special Halloween-inspired menu just for the occasion.🏆 Costume CompetitionCome dressed to impress! Our Halloween costume competition is open to kids and adults, with prizes for the winners.🧪 3 Potions Children Can MakePotion of Curiosity: Dragon’s Breath 🐉Children predict what will happen, then watch the mixture fizz and foam like a dragon’s breath. They try small, medium and large amounts to see how the reaction changes.Potion of Imagination: Moonlight Magic 🌙Children add different liquids and watch the potion change colour. The colours get magical lab names: Moon Pink, Dragon Purple, Forest Green and Midnight Blue.Potion of Character: Monster Goo 👾This goo behaves like both a liquid and a solid! Children squeeze it, poke it and move it fast and slow to see what happens.",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/F213C775E10C4F2D8A03079A2B4CB9C0_converted_webp.webp",
@@ -5312,59 +5352,6 @@
     "keywords": [
       "Workshop",
       "Festival",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Lino Printing Workshop",
-    "description": "Lino Printing Workshop at Atta GalattaThis hands-on workshop introduces the basics of lino cut printmaking, from carving a simple design to inking and printing your own artwork. Participants will be guided through the process step by step and will leave with their own prints, perfect as small artworks or gifts.The session runs for three hours and includes demonstrations, supported making time, and space to experiment.Open to beginners and anyone curious about printmaking — no prior experience needed. Suitable for ages 14+.What should I bring?Clothes you don’t mind getting messy in, ideas or finished sketches for designs (found images from books are welcome), and lots of creativity.What’s provided?All printing tools, paper, and inks will be provided.What do I take home?All finished artworks are yours to keep, along with any unfinished pieces. Participants will also keep their carved lino block, allowing them to reprint at home with basic supplies.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5AB571561BB74FA3B2DA9A45E9AEC7D4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BC7C08BD2F01400CA2656C10ECC89442_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C4D09CCD6CE749249B5C5D0F420F439E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9E15A7881C09424C8A1AC60D9D0DBA4B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/598E34A8290146698FBA1ECF1AE8AA5C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/98A0DBDD1A6D4C52B1878F80A9D79E8B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DD3F1828865C472F88F98C1FC29A0A6A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7F0FF1C277074CF1A7B6821F1E3544A1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/89996548A3B344EA87497E77D6CA9131_converted_webp.webp"
-    ],
-    "startDate": "2026-11-28T14:30:00+05:30",
-    "endDate": "2026-11-28T17:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1600.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Aparna Konat",
-      "description": "Exploring communities through print making and print making through communities",
-      "url": "https://urbanaut.app/partner/aparna-konat",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/BD97CC563E724A08BBD7AB204394AC17_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/lino-printing-workshop-attagalatt",
-    "keywords": [
-      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]

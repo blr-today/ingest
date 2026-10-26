@@ -329,6 +329,201 @@
   {
     "@context": "https://schema.org",
     "@type": "SocialEvent",
+    "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group\n.\n\nCome solo, with a date, or in a group—we’ve got something for everyone!",
+    "endDate": "2026-10-31T23:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/07e46d67990b577742e434b3810ab9bfa74949af.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Weekend Games with ReRoll Board Games",
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 299,
+      "offerCount": 3,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T12:30:00.000Z",
+          "name": "Early Bird",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+          "validFrom": "2026-03-30T15:13:19.423Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T12:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+          "validFrom": "2026-03-30T15:13:19.423Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T17:30:00.000Z",
+          "name": "Walk-In",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
+          "validFrom": "2026-03-30T15:13:19.423Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets"
+    },
+    "sameAs": [
+      "https://www.district.in/weekend-games-with-reroll/event"
+    ],
+    "startDate": "2026-10-31T18:00:00.000+05:30",
+    "url": "https://underline.center/t/weekend-games-with-reroll-board-games/549"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "This is a community meetup for \nMagic: The Gathering\n, one of the world’s most popular card games. If you are curious about game and don’t know where to start, or are already a player looking to find others to play with in-person, this is for you!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group \n.",
+    "endDate": "2026-10-31T23:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/648ccd6cad9b66fb9632156ffc8ee2c320af975c.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Magic: The Gathering with ReRoll Board Games",
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 349,
+      "offerCount": 3,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T12:30:00.000Z",
+          "name": " Early Bird - Casual Play",
+          "price": 349,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T11:16:25.614Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T17:30:00.000Z",
+          "name": " Regular Ticket - Casual Play",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T11:16:25.614Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T17:30:00.000Z",
+          "name": "Register - Standard Tournament",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
+          "validFrom": "2026-03-26T11:16:25.614Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets"
+    },
+    "sameAs": [
+      "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
+      "https://magic.wizards.com/en/intro"
+    ],
+    "startDate": "2026-10-31T18:00:00.000+05:30",
+    "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!",
+    "endDate": "2026-10-31T03:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/2X/6/6079e86171702fd61e17063ff6b57dda81810e8b.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Halloween Screening of The Exorcist (1973) with Cinema Next Door",
+    "startDate": "2026-10-31T00:00:00.000+05:30",
+    "url": "https://underline.center/t/halloween-screening-of-the-exorcist-1973-with-cinema-next-door/901"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
     "description": "A classic good ol’ improv show packed with riddles, tongue twisters, and some nostalgia. If you’ve been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!\n\nWe promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
     "endDate": "2026-10-30T22:30:00.000+05:30",
     "eventAttendanceMode": "OfflineEventAttendanceMode",
