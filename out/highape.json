@@ -87,7 +87,7 @@
       "highPrice": "3499",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/2027-new-year-eve-79my33ijnb",
-      "validFrom": "2026-10-25T19:09:20.743Z"
+      "validFrom": "2026-10-26T22:43:50.784Z"
     },
     "performer": [
       {
@@ -623,7 +623,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/amour-by-kesari-onncnnsjec",
-      "validFrom": "2026-10-25T19:00:52.183Z"
+      "validFrom": "2026-10-26T21:42:54.345Z"
     },
     "performer": [
       {
@@ -1112,55 +1112,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Black Day Special",
-    "description": "HighlightsEnjoy 50% off on selected craft beers and liquor.Celebrate Black Day with exclusive drink deals.Explore a selection of craft beers and spirits at spec",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/17/d5dd4a20b0f69fb2c9112b601721c429.jpg"
-    ],
-    "startDate": "2026-10-26T11:30:00+05:30",
-    "endDate": "2026-10-26T23:30:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "153 Biere Street",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "153/1, Hagadur Main Road, Next to Prestige Ozone, Whitefield, Brooke Bond First Cross, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.96274,
-        "longitude": 77.750752
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rajata Hospitality LLP",
-      "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/black-day-special-yxli9oj8z4",
-      "validFrom": "2026-10-26T13:05:16.927Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Rajata Hospitality LLP",
-        "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/black-day-special-yxli9oj8z4"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Block Buster Saturday Night - Hydra Club",
     "description": "HighlightsLive music with concert-style party energySignature cocktails and gourmet food experienceHigh-energy Saturday nightlife atmosphereVibrant crowd and im",
     "image": [
@@ -1401,7 +1352,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bollytech-wednesday-dj-night-ft-ddj-firex-19yc7wg6rd",
-      "validFrom": "2026-10-25T20:55:52.715Z"
+      "validFrom": "2026-10-26T22:43:52.539Z"
     },
     "performer": [
       {
@@ -1412,6 +1363,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/bollytech-wednesday-dj-night-ft-ddj-firex-19yc7wg6rd"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bollyverse Ft DJ Savanth | Nolimmits ",
+    "description": "HighlightsRetro-meets-modern Bollywood nightCurated by SavanthNon-stop Bollywood beats and dancingTropical cinema-inspired setting30% off on total food &amp; be",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/29/edb2b4e0eb1a8768b92db7783829000f.jpg"
+    ],
+    "startDate": "2026-10-29T20:00:00+05:30",
+    "endDate": "2026-10-30T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/bollyverse-ft-dj-savanth-nolimmits-ngcf2b99bc",
+      "validFrom": "2026-10-26T22:15:41.301Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Savanth",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/d2297d7c/vcpd1dt2gatneusmotlz.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-savanth-4-4qkbmzdwbl"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/bollyverse-ft-dj-savanth-nolimmits-ngcf2b99bc"
   },
   {
     "@context": "https://schema.org",
@@ -1964,62 +1966,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Monday But It's Coded Bestie - Live at HOD",
-    "description": "HighlightsLive DJ set by Christin and TomMonday night party at HOD ClubA mix of warm grooves and peak-hour anthemsCraft brews freshly poured from the in-house b",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/25/097556293caae4155eef38acf34de49b.jpg"
-    ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-27T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HOD - House Of Dopamine Brewery LLP",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933648,
-        "longitude": 77.614883
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HOD - House Of Dopamine",
-      "url": "https://www.highape.com/bangalore/organisers/khushi-s-g-6b5ce5a5aa"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/christin-monday-but-it-s-coded-bestie-live-at-hod-kowz5k24np",
-      "validFrom": "2026-10-26T11:08:25.350Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Christin",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-christin-lavwqgkolg"
-      },
-      {
-        "@type": "Person",
-        "name": "TOM",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/tom-hzh4"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/christin-monday-but-it-s-coded-bestie-live-at-hod-kowz5k24np"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Church Street Gaming by The Boardgame Den",
     "description": "HighlightsAccess to 350+ board games from around the worldSuitable for beginners, casual players, and experienced gamersLearn new games with guidance from frien",
     "image": [
@@ -2319,8 +2265,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/23/3bf5a2604f7ecd178b7349f2cc0ef5c9.jpg"
     ],
-    "startDate": "2026-10-26T19:30:00+05:30",
-    "endDate": "2026-10-27T00:30:00+05:30",
+    "startDate": "2026-11-02T19:30:00+05:30",
+    "endDate": "2026-11-03T00:30:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -2349,7 +2295,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/commercial-bollywood-dj-night-ft-dj-firex-ah9qb42zhq",
-      "validFrom": "2026-10-25T20:55:54.077Z"
+      "validFrom": "2026-10-26T21:44:05.954Z"
     },
     "performer": [
       {
@@ -2954,6 +2900,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dot-mandala-art-milaap-as9407aio7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Elite Tuesday | Nolimmits Brigade",
+    "description": "HighlightsDJ Night ft&nbsp;DJ HarshBollywood NightDance FloorMouthwatering AppetizersCocktails and MocktailsElevate your Tuesday night with a premium blend of m",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/08/01/55acc0728f833be48d77b0e51d12ab36.png"
+    ],
+    "startDate": "2026-10-27T20:00:00+05:30",
+    "endDate": "2026-10-28T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-vd6dhao4q9",
+      "validFrom": "2026-10-26T22:43:54.395Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Harsh",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/9d81d51194f49b0228c1be579d44bdd0.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-harsh-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-vd6dhao4q9"
   },
   {
     "@context": "https://schema.org",
@@ -3641,7 +3638,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/ftcu-tuesday-dj-night-ft-jonas-monteiro-n37y3dbw6q",
-      "validFrom": "2026-10-25T20:55:55.481Z"
+      "validFrom": "2026-10-26T20:40:31.519Z"
     },
     "performer": [
       {
@@ -3957,6 +3954,57 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Halloween Bash | Nolimmits ",
+    "description": "HighlightsHalloween Bash featuring live DJ performance by LijohnSpooky Halloween-themed party with eerie visuals and haunting décorElectrifying music and high-e",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/ec521755875908b7de3a6cfa957ea35a.jpg"
+    ],
+    "startDate": "2026-11-01T20:00:00+05:30",
+    "endDate": "2026-11-02T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge-club-9ubdh"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-bash-nolimmits-irhy0ojadr",
+      "validFrom": "2026-10-26T22:16:14.229Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Lijohn",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/dafed0f3/jilx93wkkpabfkfa9lz0.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-lijohn"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-bash-nolimmits-irhy0ojadr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Carnival Ft NY",
     "description": "HighlightsHalloween Carnival with spooky décor and a thrilling party atmosphereFeaturing DJ NY, supported by DJ KramMusic genres: Bolly Tech, Bollywood and Comm",
     "image": [
@@ -4106,6 +4154,63 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Halloween Carnival | Nolimmits ",
+    "description": "HighlightsHalloween Carnival featuring VIC (DJ Harsh)Spooky Halloween-themed carnival atmosphereLive DJ performance by VIC (DJ Harsh)Eerie visuals, haunted-hous",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/32ff41678d8599938c586134c3739e6a.png"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge-club-9ubdh"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-carnival-nolimmits-58xf6xe9ux",
+      "validFrom": "2026-10-26T22:16:09.469Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Vic",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-vic-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Harsh",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/9d81d51194f49b0228c1be579d44bdd0.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-harsh-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-carnival-nolimmits-58xf6xe9ux"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Graveyard Shift",
     "description": "HighlightsHalloween special at ZOZO The ClubFeaturing Zena and Mr MittalSpooky graveyard theme with haunting visuals and blood-red aestheticsHigh-energy beats a",
     "image": [
@@ -4159,6 +4264,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/halloween-graveyard-shift-612i3ruvdf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Night",
+    "description": "HighlightsHalloween Night featuring KismatSpooky Halloween-themed party atmosphereLive DJ performance by KismatFree drinks for ladies from 8:30 PM to 10:30 PMHa",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/31deb54a010fcfb62370a8d8ebd8147a.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Queen - The Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934518,
+        "longitude": 77.616246
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-night-ab7wzlf1t2",
+      "validFrom": "2026-10-26T21:21:50.041Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Kismat",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/01/19/a20eb117f8ce895c7cf9792153940620.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-kismat-fedcty"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-night-ab7wzlf1t2"
   },
   {
     "@context": "https://schema.org",
@@ -4248,7 +4403,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-night-cw9arrtem7",
-      "validFrom": "2026-10-25T19:53:38.734Z"
+      "validFrom": "2026-10-26T21:45:39.098Z"
     },
     "performer": [
       {
@@ -4349,7 +4504,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-night-make-your-own-voodoo-doll-ek45fbr08v",
-      "validFrom": "2026-10-25T15:07:42.557Z"
+      "validFrom": "2026-10-26T20:41:24.935Z"
     },
     "performer": [
       {
@@ -4611,6 +4766,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/haunted-carnival-halloween-at-hydra-ggksbgcpfz"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Haunted House Edition 1 - HSR Layout",
+    "description": "HighlightsHalloween-themed party with spooky décor and a haunted-house atmosphereFeaturing DJ SamMusic genres: Bollywood, EDM and CommercialImmersive Halloween ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/00ccd2ad62177c54d935bfda3e4e8aaa.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Don't Tell Mama",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#14, 9th Main Road, 13th Cross Road, Sector VI, HSR Layout, Below The Elite Royale, Sector 6, HSR Layout, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.915755,
+        "longitude": 77.634531
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "siaentertainments",
+      "url": "https://www.highape.com/bangalore/organisers/sia"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/haunted-house-edition-1-9hxgnng4du",
+      "validFrom": "2026-10-26T22:15:38.580Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ SAM",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/1cf9a3c5/ch0aprcpidbvioyxtgd4.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-sam-2"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/haunted-house-edition-1-9hxgnng4du"
   },
   {
     "@context": "https://schema.org",
@@ -5011,6 +5216,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Kannada Rajyotsava",
+    "description": "HighlightsCelebrate Karnataka Rajyotsava with a vibrant Kannada-themed partyFeaturing DJ Nuthan with energetic beats and dancefloor favouritesExperience a night",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/97f54cf54176d0a588d4693e1d9a387e.png"
+    ],
+    "startDate": "2026-11-01T17:00:00+05:30",
+    "endDate": "2026-11-01T21:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DJ Nuthan",
+      "url": "https://www.highape.com/bangalore/organisers/dj-nuthan-3fc2c60b57"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "99",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/kannada-rajyotsava-arbchwlxr5",
+      "validFrom": "2026-10-26T22:43:58.932Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Nuthan",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/cff45602/cwgmfhv2awlp0q33casp.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nuthan-rvwkavdkmo"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/kannada-rajyotsava-arbchwlxr5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kannadotsva 70",
     "description": "HighlightsCelebrate 70 years of Karnataka’s pride, heritage and cultureA grand Kannada Rajyotsava celebrationFeaturing Jaygagan and LokeKannada music and high-e",
     "image": [
@@ -5346,7 +5601,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/kinusaiga-fabric-art-workshop-diwalii-edition-v5vf2yle9s",
-      "validFrom": "2026-10-25T18:56:23.456Z"
+      "validFrom": "2026-10-26T20:42:21.355Z"
     },
     "performer": [
       {
@@ -5642,7 +5897,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-punjabi-ft-dj-mark-9nteulr4f7",
-      "validFrom": "2026-10-25T20:49:33.132Z"
+      "validFrom": "2026-10-26T22:44:00.188Z"
     },
     "performer": [
       {
@@ -5851,55 +6106,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/live-music-y07lvrso9d"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Live Singing",
-    "description": "HighlightsCozy musical retreat every Monday nightSoul-stirring live vocal performancesRelaxed ambience for a perfect Monday eveningDelicious food and refreshing",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/15/024525663643fcb498d3e108fbb6de5c.jpg"
-    ],
-    "startDate": "2026-10-26T18:30:00+05:30",
-    "endDate": "2026-10-26T23:59:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "153 Biere Street",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "153/1, Hagadur Main Road, Next to Prestige Ozone, Whitefield, Brooke Bond First Cross, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.96274,
-        "longitude": 77.750752
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rajata Hospitality LLP",
-      "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/live-singing-veakackmbs",
-      "validFrom": "2026-10-26T13:05:14.659Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Rajata Hospitality LLP",
-        "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/live-singing-veakackmbs"
   },
   {
     "@context": "https://schema.org",
@@ -6399,113 +6605,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Monday Blues : Bollywood DJ Night Ft DJ Dhruv",
-    "description": "HighlightsHigh Energy Monday Night Party To Beat The Weekday BluesBollywood, Commercial And Club Hits All Night LongDJ Dhruv Bringing Powerful Dancefloor Energy",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/4747c031919701a078e8703a81626967.jpg"
-    ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-27T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Toca Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "122/A, 105, 1st A Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.934957,
-        "longitude": 77.61598
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toca",
-      "url": "https://www.highape.com/bangalore/organisers/toca"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/monday-blues-bollywood-dj-night-ft-dj-dhruv-96ig8pfphh",
-      "validFrom": "2026-10-26T13:05:13.865Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ DHRUV",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-dhruv-a92m"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/monday-blues-bollywood-dj-night-ft-dj-dhruv-96ig8pfphh"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Monday M-Night  ",
-    "description": "HighlightsDJ Night ft DJ KillerNonstop MusicBollywood MusicGreat AmbianceMouthwatering AppetizersCocktails and MocktailsStep into Monday M-Night for a high-ener",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/05/912e6ecf9b5850e244f9f3660f150a79.jpg"
-    ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-27T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Mirror Pub",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No 24, PURUSHOTHAM ARCADE, KML INDUSTRIAL AREA, 5th Block, Koramangala, Bangalore, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.932973,
-        "longitude": 77.613386
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "DJ KILL3R",
-      "url": "https://www.highape.com/bangalore/organisers/akash-sarma-0668e20b3c"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "99",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/monday-m-night-4oc4zq7wi0",
-      "validFrom": "2026-10-26T12:38:53.560Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "DJ KILL3R",
-        "url": "https://www.highape.com/bangalore/organisers/akash-sarma-0668e20b3c"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/monday-m-night-4oc4zq7wi0"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Monday Mischief | Sugar Factory Reloaded",
     "description": "Highlights spinning the hottest BollyTech & commercial tracksHigh-energy Monday night party experienceFree entry for couplesComplimentary drinks for ladiesPremi",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/14/38b45c3bb0fbc8832667c2902342bcf1.jpg"
     ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-27T00:45:00+05:30",
+    "startDate": "2026-11-02T20:00:00+05:30",
+    "endDate": "2026-11-03T00:45:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -6534,7 +6640,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/monday-mischief-at-sugar-factory-reloaded-eokdtjfhxn",
-      "validFrom": "2026-10-25T20:37:38.635Z"
+      "validFrom": "2026-10-26T22:32:19.413Z"
     },
     "performer": [
       {
@@ -6593,55 +6699,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/moon-lamp-workshop-alj3jmoozk"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "MRP Monday",
-    "description": "HighlightsMRP Monday – Industry x DJs meet-up1+1 drinks throughout the nightFree drinks for ladies from 8:30 PM to 10:30 PMHigh-energy DJ sets and club atmosphe",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/05/3e003cc8253527e18bdb35281eaabc05.jpg"
-    ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-27T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "BudBee Restobar 104",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933225,
-        "longitude": 77.614688
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban NS Events",
-      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/mrp-monday-kqvc33f0lo",
-      "validFrom": "2026-10-26T13:05:15.249Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Urban NS Events",
-        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/mrp-monday-kqvc33f0lo"
   },
   {
     "@context": "https://schema.org",
@@ -7188,6 +7245,55 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Pre Halloween Night",
+    "description": "HighlightsPre-Halloween Night featuring DJ SerinSpooky Halloween-themed party with eerie visuals and haunting décorLive DJ performance featuring electrifying be",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/7465581eb73b93431a5af970e8ba967a.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Queen - The Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934518,
+        "longitude": 77.616246
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/pre-halloween-night-jkwc7i1gns",
+      "validFrom": "2026-10-26T21:22:10.933Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/pre-halloween-night-jkwc7i1gns"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pre Halloween Night",
     "description": "HighlightsGet ready for a spooky pre-Halloween party at Queen The Club.Experience a thrilling Halloween atmosphere with eerie visuals and haunting vibes.Enjoy f",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/20/dbbd558b792a85419d1f640e7a7d37fe.jpg"
@@ -7222,7 +7328,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pre-halloween-night-yvv9jh6y4d",
-      "validFrom": "2026-10-25T18:55:45.259Z"
+      "validFrom": "2026-10-26T22:44:01.911Z"
     },
     "performer": [
       {
@@ -7577,6 +7683,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Return To The Jungle - Halloween Costume Party",
+    "description": "HighlightsHalloween costume party with a dark jungle themeExperience the spooky atmosphere of Return to the JungleImmersive Halloween decor with eerie lighting ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/48db587e37ef9480bf5733427bd03cba.png"
+    ],
+    "startDate": "2026-10-31T19:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Pebble - The Jungle Lounge",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3 Princess Academy, Palace Grounds, Ramanna Maharishi Road, Princess Academy, Bengaluru, Karnataka 560080, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.005065,
+        "longitude": 77.584489
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "URBAN VIBES",
+      "url": "https://www.highape.com/bangalore/organisers/shamin-fernandez-943aa0fcda"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "499",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/return-to-the-jungle-halloween-costume-party-6gjfaru4zq",
+      "validFrom": "2026-10-26T22:15:35.102Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "URBAN VIBES",
+        "url": "https://www.highape.com/bangalore/organisers/shamin-fernandez-943aa0fcda"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/return-to-the-jungle-halloween-costume-party-6gjfaru4zq"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Sakkath “Hot” Fridays | Ladies Night",
     "description": "HighlightsLive music performance featuring Likith“Hot” Fridays – Ladies Night (Shanti Kranti Edition)Complimentary shooters and slushies for ladiesHigh-energy F",
     "image": [
@@ -7871,6 +8027,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/saturday-botc-game-evening-t8g9uk63bf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Saturday Halloween Night Ft DJ Saif",
+    "description": "HighlightsHalloween Night celebration at Night VoltFeaturing DJ SaifSpooky red-and-black Halloween atmosphereHigh-energy DJ music and dance floor actionA thrill",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/afdea0c8f64230bd76de4dff7619553e.png"
+    ],
+    "startDate": "2026-10-31T19:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Night Volt Pub & Resto Bar - Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, 146, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933848,
+        "longitude": 77.619795
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Eyeball Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/eyeball-39059724f7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "200",
+      "highPrice": "500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/saturday-halloween-night-ft-dj-saif-uy24m88z2z",
+      "validFrom": "2026-10-26T21:20:49.561Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Eyeball Entertainment",
+        "url": "https://www.highape.com/bangalore/organisers/eyeball-39059724f7"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/saturday-halloween-night-ft-dj-saif-uy24m88z2z"
   },
   {
     "@context": "https://schema.org",
@@ -8273,51 +8479,52 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Spooky Pumpkin Bucket Workshop",
-    "description": "HighlightsA fun-filled Halloween workshop designed for little creators.Let your child unleash their creativity by decorating their very own pumpkin bucket.Take ",
+    "name": "Spooktober | Divss delivers haunting sets at HOD CLUB",
+    "description": "HighlightsSpooktober special featuring Divss liveHaunting beats and hypnotic rhythmsA sophisticated, mysterious Halloween atmosphereImmersive music and high-ene",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/23/0f0651dfe6a895fa7a13e2cf807dde99.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/7fa6cbf87fb99987ceff22ed1c8d5825.jpg"
     ],
-    "startDate": "2026-10-31T16:00:00+05:30",
-    "endDate": "2026-10-31T17:00:00+05:30",
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
       "@type": "Place",
-      "name": "URU - JP Nagar",
+      "name": "HOD - House Of Dopamine Brewery LLP",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
         "addressLocality": "Bangalore",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.905783,
-        "longitude": 77.601162
+        "latitude": 12.933648,
+        "longitude": 77.614883
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Artsy Siri",
-      "url": "https://www.highape.com/bangalore/organisers/sireesha-4djn5"
+      "name": "HOD - House Of Dopamine",
+      "url": "https://www.highape.com/bangalore/organisers/khushi-s-g-6b5ce5a5aa"
     },
     "offers": {
       "@type": "Offer",
-      "price": "549",
+      "price": "0",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/spooky-pumpkin-bucket-workshop-cy2f7e25gd",
-      "validFrom": "2026-10-26T13:05:15.422Z"
+      "url": "https://www.highape.com/bangalore/events/spooktober-divss-delivers-haunting-sets-at-hod-club-m0kzc4w8zf",
+      "validFrom": "2026-10-26T21:21:51.953Z"
     },
     "performer": [
       {
-        "@type": "Organization",
-        "name": "Artsy Siri",
-        "url": "https://www.highape.com/bangalore/organisers/sireesha-4djn5"
+        "@type": "Person",
+        "name": "DJ Divss",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-divss-lavwqgkolg"
       }
     ],
-    "url": "https://www.highape.com/bangalore/events/spooky-pumpkin-bucket-workshop-cy2f7e25gd"
+    "url": "https://www.highape.com/bangalore/events/spooktober-divss-delivers-haunting-sets-at-hod-club-m0kzc4w8zf"
   },
   {
     "@context": "https://schema.org",
@@ -8722,6 +8929,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Tamil Halloween Night",
+    "description": "HighlightsTamil Halloween Night featuring KismatExciting Halloween-themed party with a spooky atmosphereLive DJ performance by KismatFree drinks for ladies from",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/797581af6e188336f5071c48295514f6.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "BudBee Restobar 104",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933225,
+        "longitude": 77.614688
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/tamil-halloween-night-ys5n0r4gzk",
+      "validFrom": "2026-10-26T21:21:53.429Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/tamil-halloween-night-ys5n0r4gzk"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tamil Tashan Night",
     "description": "HighlightsDJ NightNonstop MusicRegional MusicGreat AmbienceMouthwatering AppetisersCocktails and MocktailsStep into a night of electrifying beats and vibrant en",
     "image": [
@@ -8885,6 +9141,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tease-tuesday-i-ladies-night-yfatgnsnbo"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Telugu Halloween Night",
+    "description": "HighlightsTelugu Halloween Night featuring KismatSpooky Halloween-themed party atmosphere with eerie visuals and festive décorLive DJ performance by KismatFree ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/a031786decead1a03f2a868f6e13eeac.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "BudBee Restobar 104",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933225,
+        "longitude": 77.614688
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/telugu-halloween-night-bajly15l7u",
+      "validFrom": "2026-10-26T21:13:50.333Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Kismat",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/01/19/a20eb117f8ce895c7cf9792153940620.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-kismat-fedcty"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/telugu-halloween-night-bajly15l7u"
   },
   {
     "@context": "https://schema.org",
@@ -9188,6 +9494,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Halloween Story",
+    "description": "HighlightsStep into a spooky Halloween celebration with a dark, horror-themed atmosphere.Experience an electrifying DJ set by Music Monk.Enjoy a thrilling mix o",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/14f31219b0982d2e6ac92a8c40c675be.jpg"
+    ],
+    "startDate": "2026-10-28T21:00:00+05:30",
+    "endDate": "2026-10-29T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Bombay Adda",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Z1 CONSTRUCTION BUILDING 5TH FLOOR,NEXT TO SAPNA BOOK HOUSE, 6, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560085, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.936208,
+        "longitude": 77.616121
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bombay Adda Bengaluru",
+      "url": "https://www.highape.com/bangalore/organisers/bombay-adda-bengaluru-1c67df9e0a"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-halloween-story-9elteg06r4",
+      "validFrom": "2026-10-26T21:05:38.997Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Music Monk",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/04/10/8c8204e4db05b67aae1e986c8b0de54d.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-music-monk-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-halloween-story-9elteg06r4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Night Shift | Saturday Ladies Night",
     "description": "HighlightsLadies get complimentary drinksBollywood &amp; Punjabi bangers all nightHigh-energy Saturday night partyNon-stop dancefloor vibesGather your squad and",
     "image": [
@@ -9324,7 +9680,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-weaving-room-wall-tapestry-artsy-workshop-ekctnfz49g",
-      "validFrom": "2026-10-25T20:02:23.860Z"
+      "validFrom": "2026-10-26T21:31:31.833Z"
     },
     "performer": [
       {
@@ -9434,6 +9790,105 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/thursday-lets-party-at-vibe-koramangala-lv5ekbdkoe"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Thursday Queens of Bollywood",
+    "description": "HighlightsQueens of Bollywood ladies nightBollywood hits and party anthemsFree drinks for ladies from 8:30 PM to 10:30 PMHigh-energy club atmosphereStylish Boll",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/f14703ffe7c13bc2b9ccd27105ff8877.jpg"
+    ],
+    "startDate": "2026-10-29T20:00:00+05:30",
+    "endDate": "2026-10-30T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Queen - The Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934518,
+        "longitude": 77.616246
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/thursday-queens-of-bollywood-hkajxetcbh",
+      "validFrom": "2026-10-26T21:20:44.261Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/thursday-queens-of-bollywood-hkajxetcbh"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ticket To Hell ",
+    "description": "HighlightsExperience a thrilling Halloween night at Ticket to Hell.Featuring LIJO for an electrifying DJ performance.Immersive gothic horror theme with a haunti",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/14a26543a6c236d30e897c4c9452f3ba.jpg"
+    ],
+    "startDate": "2026-10-31T21:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Bombay Adda",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Z1 CONSTRUCTION BUILDING 5TH FLOOR,NEXT TO SAPNA BOOK HOUSE, 6, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560085, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.936208,
+        "longitude": 77.616121
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bombay Adda Bengaluru",
+      "url": "https://www.highape.com/bangalore/organisers/bombay-adda-bengaluru-1c67df9e0a"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ticket-to-hell-46o9ckv222",
+      "validFrom": "2026-10-26T22:44:06.277Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dj Lijo",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-lijo"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ticket-to-hell-46o9ckv222"
   },
   {
     "@context": "https://schema.org",
@@ -9684,6 +10139,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Treat And Trick - Pre Halloween Night ",
+    "description": "HighlightsPre-Halloween Night – Treat and TrickSpooky Halloween-themed party with a thrilling atmosphereLive DJ music and energetic nightlife vibesFree drinks f",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/4cb28d2851c18786f9e928735c419891.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "BudBee Restobar 104",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933225,
+        "longitude": 77.614688
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/treat-and-trick-pre-halloween-night-nc4sqz5bev",
+      "validFrom": "2026-10-26T21:13:32.749Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/treat-and-trick-pre-halloween-night-nc4sqz5bev"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Tuesday Let's Party At: Vibe Koramangala",
     "description": "HighlightsBrand-new Tuesday party experience at VIBE ClubSouth X Bolly music experienceKannada, Tamil, Telugu, Malayalam, Bollywood &amp; Punjabi hitsHigh-energ",
     "image": [
@@ -9729,6 +10233,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tuesday-let-s-party-at-vibe-koramangala-hsosp3s3ly"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tuesday Northeast Night",
+    "description": "HighlightsNortheast-themed Tuesday night at Queen The ClubCurated Northeast-inspired festive ambienceHigh-energy club music and nightlife experienceFree drinks ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/e3679afba3df127ab6f57464eedeb47f.jpg"
+    ],
+    "startDate": "2026-10-27T20:00:00+05:30",
+    "endDate": "2026-10-28T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Queen - The Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934518,
+        "longitude": 77.616246
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/tuesday-northeast-night-gn2rumon93",
+      "validFrom": "2026-10-26T22:44:07.398Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/tuesday-northeast-night-gn2rumon93"
   },
   {
     "@context": "https://schema.org",
@@ -10231,6 +10784,106 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Wednesday Ladies Night At Don't Tell Mama",
+    "description": "HighlightsWednesday Ladies Night at Don't Tell MamaBollywood and Punjabi music by DJ SyncslipTwo hours of free drinks for ladies from 8 PM to 10 PMOne welcome c",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/e6fa498caa9debd8671befc5e056082c.jpg"
+    ],
+    "startDate": "2026-10-28T20:00:00+05:30",
+    "endDate": "2026-10-28T22:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Don't Tell Mama",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#14, 9th Main Road, 13th Cross Road, Sector VI, HSR Layout, Below The Elite Royale, Sector 6, HSR Layout, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.915755,
+        "longitude": 77.634531
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Dont Tell Mama",
+      "url": "https://www.highape.com/bangalore/organisers/dont-tell-mama-79cc30c735"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wednesday-ladies-night-at-don-t-tell-mama-rbsctssw0f",
+      "validFrom": "2026-10-26T22:15:46.529Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Syncslip",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-syncslip-moqf"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wednesday-ladies-night-at-don-t-tell-mama-rbsctssw0f"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wednesday Night Ft VDJ Yoochi ",
+    "description": "HighlightsWednesday Night featuring VDJ YoochiPre-Halloween party with high-energy musicBig production and immersive lightingStunning ambience for an electrifyi",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/a81540fe17b97313079c3613481e5911.jpg"
+    ],
+    "startDate": "2026-10-28T19:00:00+05:30",
+    "endDate": "2026-10-29T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Night Volt Pub & Resto Bar - Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, 146, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933848,
+        "longitude": 77.619795
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Eyeball Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/eyeball-39059724f7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "200",
+      "highPrice": "500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wednesday-night-ft-vdj-yoochi-t9hejdl0ww",
+      "validFrom": "2026-10-26T21:05:32.694Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Eyeball Entertainment",
+        "url": "https://www.highape.com/bangalore/organisers/eyeball-39059724f7"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wednesday-night-ft-vdj-yoochi-t9hejdl0ww"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Wednesday Pool Party Ladies Night | Rism Club",
     "description": "HighlightsExotica Ladies Night Pool Party at RISM – The Luxury ClubFeaturing Raghu AcharUnlimited drinks for ladiesLuxury poolside party experienceTropical ambi",
     "image": [
@@ -10381,6 +11034,62 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Wicked Thursday ",
+    "description": "HighlightsExperience a thrilling Halloween-themed party at Wicked Thursday.Enjoy electrifying music by Kaleem x Arpith.Step into a spooky gothic atmosphere with",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/5738838526423c34be73f9a23860be1d.jpg"
+    ],
+    "startDate": "2026-10-29T21:00:00+05:30",
+    "endDate": "2026-10-30T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Bombay Adda",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Z1 CONSTRUCTION BUILDING 5TH FLOOR,NEXT TO SAPNA BOOK HOUSE, 6, 20th Main Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560085, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.936208,
+        "longitude": 77.616121
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bombay Adda Bengaluru",
+      "url": "https://www.highape.com/bangalore/organisers/bombay-adda-bengaluru-1c67df9e0a"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wicked-thursday-rvg3jt90az",
+      "validFrom": "2026-10-26T21:13:47.553Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Kaleem",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/57022560/hvbhg5dwwugginfocfqq.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-kaleem"
+      },
+      {
+        "@type": "Person",
+        "name": "Dj Arpith",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-arpith-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wicked-thursday-rvg3jt90az"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "WIP Wednesdays",
     "description": "HighlightsConnect with fellow crafters, knitters and crocheters in a welcoming community.Bring your own knitting or crochet project, or learn the basics.Unwind ",
     "image": [
@@ -10477,6 +11186,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/wonderland-pre-halloween-0eybas2esi"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wow Wednesday",
+    "description": "HighlightsQueens of Koramangala – Wednesday Ladies NightFree drinks for ladies from 8:30 PM to 10:30 PMHigh-energy Bollywood and commercial musicVibrant club at",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/024692e910c90df782765bf1f2a46ed3.jpg"
+    ],
+    "startDate": "2026-10-28T20:00:00+05:30",
+    "endDate": "2026-10-29T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Queen - The Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934518,
+        "longitude": 77.616246
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wow-wednesday-4jkful9inx",
+      "validFrom": "2026-10-26T21:20:48.194Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wow-wednesday-4jkful9inx"
   },
   {
     "@context": "https://schema.org",

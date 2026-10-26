@@ -369,41 +369,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Let's Talk",
-    "image": "https://cdn-az.allevents.in/events3/banners/4327a2367567fbdfc87ade359f813f2a157e810c22db20a10c9383987b670918-rimg-w880-h876-dc080808-gmir?v=1792814104",
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-26T22:00:00+05:30",
-    "url": "https://allevents.in/bangalore/lets-talk/200030898079504",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "BTM Layout Road, BTM Layout, Bengaluru 560076, India",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "6-11/A BTM Layout Road, 2nd Stage-N S Palya, BTM Layout, Bengaluru 560076, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.90892",
-        "longitude": "77.60479"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Lets Talk Open Conversation Session\n\nWhat to expect?\n\nIf you are in Bengaluru for work, studies, or a visit and feel like talking to someone without fear of judgment, this is the place for you.\nOne to one conversations or small group chats\nA safe, friendly, and comfortable space\nShare, listen, relax",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Fabrizo - Creative Art Cafe",
-        "url": "https://allevents.in/org/fabrizo-creative-art-cafe/28266711"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Fortnightly Opportunities Review for Startup Founders &amp; Patners",
     "image": "https://cdn-az.allevents.in/events1/banners/8cd87346d49683fc3b394c15273320af965c28007932c76b3b571e2d4bf2bba7-rimg-w1200-h800-dc182848-gmir?v=1792814113",
     "startDate": "2026-10-30T14:00:00+05:30",
@@ -711,58 +676,6 @@
         "@type": "MusicGroup",
         "name": "Rajesh Krishnan",
         "url": "https://allevents.in/performer/rajesh-krishnan"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bracelet making",
-    "image": "https://cdn-az.allevents.in/events9/banners/3631a340-14a8-11f1-8ae5-771ed3dbcff0-rimg-w1200-h600-dce2a9f0-gmir.jpg?v=1772284812",
-    "startDate": "2026-02-28T18:45:00+05:30",
-    "endDate": "2027-01-25T18:30:00+05:30",
-    "url": "https://allevents.in/bangalore/bracelet-making/3900029192336456",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Savinaya, 1st Floor, 64, 7th Main Road, Mahadeshwara Nagar, 2nd Phase, BTM Layout, Bengaluru, Karnataka 560076, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Carry home 2 bracelets custom made by yourself for you or your loved ones...wear it or gift it ...💫 What You’ll Learn in Our Bracelet-Making Activity 💫How to choose the right beads, colors and materialsHow to measure your bracelet size correctlyHow to thread beads neatly and securelyHow to add charm",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2025-11-13",
-        "availabilityEnds": "2027-01-25T18:30:00+05:30",
-        "validFrom": "2025-11-13",
-        "url": "https://allevents.in/bangalore/bracelet-making/3900029192336456",
-        "lowPrice": "649.00",
-        "price": "649.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2025-11-13",
-        "availabilityEnds": "",
-        "validFrom": "2025-11-13",
-        "url": "https://allevents.in/bangalore/bracelet-making/3900029192336456",
-        "price": "649.00",
-        "name": "ENTRY REGULAR"
       }
     ]
   },
@@ -1359,8 +1272,8 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "DIY Coral Reef - Bangalore",
-    "image": "https://cdn-az.allevents.in/events4/banners/657f9a80-ce6b-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1792709613",
-    "startDate": "2026-10-24T14:00:00+05:30",
+    "image": "https://cdn-az.allevents.in/events2/banners/cc47d030-d185-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793050801",
+    "startDate": "2026-10-31T14:00:00+05:30",
     "endDate": "2026-10-31T19:00:00+05:30",
     "url": "https://allevents.in/bangalore/diy-coral-reef-bangalore/3900030752865723",
     "eventStatus": "https://schema.org/EventScheduled",
@@ -1632,7 +1545,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Acting Workshop",
-    "image": "https://cdn-az.allevents.in/events10/banners/58a1eff0-d043-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792912309",
+    "image": "https://cdn-az.allevents.in/events8/banners/1d887390-d0f6-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792989090",
     "startDate": "2026-11-01T09:30:00+05:30",
     "endDate": "2026-11-01T14:30:00+05:30",
     "url": "https://allevents.in/bangalore/acting-workshop/3900030846569137",
@@ -2020,45 +1933,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "YWCA Of Bangalore City",
-    "image": "https://cdn-az.allevents.in/events9/banners/ab2f01b0-ce0c-11f1-8b84-8bcd43972aa2-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792668923",
-    "startDate": "2026-10-31T10:00:00+05:30",
-    "endDate": "2026-10-31T11:00:00+05:30",
-    "url": "https://allevents.in/bangalore/ywca-of-bangalore-city/3900030878833723",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "YWCA: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7, 20th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9414",
-        "longitude": "77.6215"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This is an annual fest hosted by the YWCA Of Bangalore City.What makes YWCA Fest especially significant is its purpose. This is not simply a shopping and food event: it is an initiative that directly supports community development. Proceeds from the food sales help fund the YWCAs programmes, includi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-22",
-        "availabilityEnds": "2026-10-31T11:00:00+05:30",
-        "validFrom": "2026-10-22",
-        "url": "https://allevents.in/bangalore/ywca-of-bangalore-city/3900030878833723"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "CAD &amp; 3D Printing Classes for Kids",
     "image": "https://cdn-az.allevents.in/events7/banners/bab5b960-d0ac-11f1-958f-31ad8555babb-rimg-w1200-h600-dc480888-gmir.jpg?v=1792957571",
@@ -2093,6 +1967,45 @@
         "availabilityEnds": "2026-11-01T15:00:00+05:30",
         "validFrom": "2026-10-23",
         "url": "https://allevents.in/bangalore/cad-and-3d-printing-classes-for-kids/3900030884519423"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "DIY Fairy House",
+    "image": "https://cdn-az.allevents.in/events3/banners/7f748660-d183-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dc383828-gmir.jpg?v=1793049813",
+    "startDate": "2026-10-27T15:02:00+05:30",
+    "endDate": "2026-10-27T16:32:00+05:30",
+    "url": "https://allevents.in/bangalore/diy-fairy-house/3900030885234258",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Sarjapur Road: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "401, Sarjapur Main Road, Doddakannelli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9081",
+        "longitude": "77.6933"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "DIY Fairy House Workshop  Build a Little MagicStep into a whimsical world of creativity and craft your very own Fairy House  In this hands on workshop you  turn simple materials into enchanting fairy homes complete with mushrooms leaves tiny doors and lots of charm  What to Expect Learn the basics o",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-23",
+        "availabilityEnds": "2026-10-27T16:32:00+05:30",
+        "validFrom": "2026-10-23",
+        "url": "https://allevents.in/bangalore/diy-fairy-house/3900030885234258"
       }
     ]
   },
@@ -2178,9 +2091,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Paint Your Own Diyas",
-    "image": "https://cdn-az.allevents.in/events5/banners/665f6cf0-cf4c-11f1-958f-31ad8555babb-rimg-w1200-h600-dcc84828-gmir.jpg?v=1792806246",
+    "image": "https://cdn-az.allevents.in/events7/banners/3bd70980-d185-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dcc84828-gmir.jpg?v=1793050559",
     "startDate": "2026-11-01T11:00:00+05:30",
-    "endDate": "2026-11-01T13:30:00+05:30",
+    "endDate": "2026-11-01T12:30:00+05:30",
     "url": "https://allevents.in/bangalore/paint-your-own-diyas/3900030895868307",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -2207,7 +2120,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-24",
-        "availabilityEnds": "2026-11-01T13:30:00+05:30",
+        "availabilityEnds": "2026-11-01T12:30:00+05:30",
         "validFrom": "2026-10-24",
         "url": "https://allevents.in/bangalore/paint-your-own-diyas/3900030895868307"
       }
@@ -2295,7 +2208,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "SIP AND BEDAZZLE",
-    "image": "https://cdn-az.allevents.in/events2/banners/1b96d2e0-cfdc-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1792867990",
+    "image": "https://cdn-az.allevents.in/events10/banners/839240e0-d113-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1793001716",
     "startDate": "2026-10-31T11:00:00+05:30",
     "endDate": "2026-10-31T14:00:00+05:30",
     "url": "https://allevents.in/bangalore/sip-and-bedazzle/3900030904449110",
@@ -2489,45 +2402,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Knife Painting",
-    "image": "https://cdn-az.allevents.in/events6/banners/9b7ca420-d064-11f1-958f-31ad8555babb-rimg-w1200-h600-dce8e8f8-gmir.jpg?v=1792926594",
-    "startDate": "2026-10-26T16:04:00+05:30",
-    "endDate": "2026-10-26T17:34:00+05:30",
-    "url": "https://allevents.in/bangalore/knife-painting/3900030906851255",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Whitefield: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Ground Floor, Santosh Tower, 120-A3, 3rd Road, Vijayanagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9772",
-        "longitude": "77.7249"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the world of creativity, an immersive event exclusively for cult members. Perfect for beginners and enthusiasts alike, it is more than just a creative outlet it is a chance to connect with fellow members and share the experience in a relaxed, social atmosphere. Unleash Your Inner Artist: K",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-25",
-        "availabilityEnds": "2026-10-26T17:34:00+05:30",
-        "validFrom": "2026-10-25",
-        "url": "https://allevents.in/bangalore/knife-painting/3900030906851255"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Date Night Art - Bangalore",
     "image": "https://cdn-az.allevents.in/events5/banners/5ad13d20-d071-11f1-958f-31ad8555babb-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1792932069",
     "startDate": "2026-11-01T14:00:00+05:30",
@@ -2644,9 +2518,9 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
+    "@type": "MusicEvent",
     "name": "Desi Night ft. Manzar",
-    "image": "https://cdn-az.allevents.in/events8/banners/dfc96540-d08d-11f1-958f-31ad8555babb-rimg-w1200-h600-dc085858-gmir.jpg?v=1792944318",
+    "image": "https://cdn-az.allevents.in/events5/banners/83a6da80-d138-11f1-ad45-d9be74123a0e-rimg-w1200-h600-dc085858-gmir.jpg?v=1793017608",
     "startDate": "2026-11-14T21:00:00+05:30",
     "endDate": "2026-11-14T23:00:00+05:30",
     "url": "https://allevents.in/bangalore/desi-night-ft-manzar/3900030908005119",
@@ -2684,78 +2558,156 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "DIY Little Ram",
-    "image": "https://cdn-az.allevents.in/events6/banners/b537daa0-d0c4-11f1-958f-31ad8555babb-rimg-w1200-h600-dcd8c8b8-gmir.jpg?v=1792967875",
-    "startDate": "2026-10-31T13:02:00+05:30",
-    "endDate": "2026-10-31T14:02:00+05:30",
-    "url": "https://allevents.in/bangalore/diy-little-ram/3900030911094855",
+    "name": "Clay Craft",
+    "image": "https://cdn-az.allevents.in/events4/banners/88ac4930-d105-11f1-958f-31ad8555babb-rimg-w1200-h600-dcc8c8b8-gmir.jpg?v=1792995717",
+    "startDate": "2026-10-31T15:00:00+05:30",
+    "endDate": "2026-10-31T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/clay-craft/3900030914982858",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Espressoulster Coffee, Koramangala: Bengaluru.",
+      "name": "Starbucks: Jayanagar, Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No. 4, 80 Feet Road, Above 3M showroom, Next to 1522, S.T. Bed, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "Building No. 804, Avenue 4th Block 9th Main, 35th Cross Road, Near BSNL Office, Jayanagar, Bengaluru, Karnataka 560041, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9342",
-        "longitude": "77.6302"
+        "latitude": "12.9246",
+        "longitude": "77.5838"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DIY Little Ram WorkshopA tiny Ram, made by you.In this hands-on craft experience, you will create your own little Ram, shaping and detailing it step by step until a simple piece of material turns into a character with its own charm.Play with the expression, colours and little details that make your",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-25",
-        "availabilityEnds": "2026-10-31T14:02:00+05:30",
-        "validFrom": "2026-10-25",
-        "url": "https://allevents.in/bangalore/diy-little-ram/3900030911094855"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "African Basket Art",
-    "image": "https://cdn-az.allevents.in/events7/banners/76ca8650-d0dd-11f1-958f-31ad8555babb-rimg-w1200-h600-dcb87828-gmir.jpg?v=1792978502",
-    "startDate": "2026-10-26T15:02:00+05:30",
-    "endDate": "2026-10-26T17:02:00+05:30",
-    "url": "https://allevents.in/bangalore/african-basket-art/3900030913270202",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Sarjapur Road: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "401, Sarjapur Main Road, Doddakannelli, Bengaluru, Karnataka 560035, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9081",
-        "longitude": "77.6933"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Discover the Art of African Basketry with Jute Rope (or macrame rope) Join us for an immersive workshop exploring the rich tradition of African basketry. Learn to create stunning, functional, and culturally significant baskets using the versatile and sustainable material, jute rope.In this workshop,",
+    "description": "Clay Craft Workshop: Sculpt Your ImaginationDiscover the joy of shaping clay into stunning creations! Our clay craft workshop is perfect for both beginners and experienced artists. Learn various techniques to mold, shape, and decorate your own unique pieces.Note: All materials Provided",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-10-26T17:02:00+05:30",
+        "availabilityEnds": "2026-10-31T16:30:00+05:30",
         "validFrom": "2026-10-26",
-        "url": "https://allevents.in/bangalore/african-basket-art/3900030913270202"
+        "url": "https://allevents.in/bangalore/clay-craft/3900030914982858"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Trinket Treasures",
+    "image": "https://cdn-az.allevents.in/events6/banners/a87135d0-d170-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dcc8c8b8-gmir.jpg?v=1793041721",
+    "startDate": "2026-10-31T15:00:00+05:30",
+    "endDate": "2026-10-31T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/trinket-treasures/3900030917975342",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Starbucks: Jayanagar, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Building No. 804, Avenue 4th Block 9th Main, 35th Cross Road, Near BSNL Office, Jayanagar, Bengaluru, Karnataka 560041, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9246",
+        "longitude": "77.5838"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Trinket Treasures Clay Trinket Tray WorkshopCreate your own beautiful clay trinket tray in this fun and beginner friendly workshop. Learn how to shape, design, and decorate a handcrafted tray that is perfect for holding jewelry, keys, or other small keepsakes while adding a personal touch to your sp",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-26",
+        "availabilityEnds": "2026-10-31T16:30:00+05:30",
+        "validFrom": "2026-10-26",
+        "url": "https://allevents.in/bangalore/trinket-treasures/3900030917975342"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Couple Lap Dance Experience",
+    "image": "https://cdn-az.allevents.in/events10/banners/ac6e1b10-d172-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dc080808-gmir.jpg?v=1793042587",
+    "startDate": "2026-10-31T19:43:00+05:30",
+    "endDate": "2026-10-31T20:43:00+05:30",
+    "url": "https://allevents.in/bangalore/couple-lap-dance-experience/3900030918033307",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "New York Dance Classes: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "49, Ranka Colony Road, BTM 2nd Stage, Bengaluru, Karnataka 560076, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9035",
+        "longitude": "77.6036"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Exclusive Couple Lap Dance ExperiencePresented by New York Dance Classes, this unique and tastefully designed workshop is specially created for couples who want to explore connection, confidence, and expression through dance in a safe and professional environment.This experience focuses on guided ch",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-26",
+        "availabilityEnds": "2026-10-31T20:43:00+05:30",
+        "validFrom": "2026-10-26",
+        "url": "https://allevents.in/bangalore/couple-lap-dance-experience/3900030918033307"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Designer Mirror",
+    "image": "https://cdn-az.allevents.in/events4/banners/173ab380-d183-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dc284868-gmir.jpg?v=1793049638",
+    "startDate": "2026-10-27T13:07:00+05:30",
+    "endDate": "2026-10-27T14:07:00+05:30",
+    "url": "https://allevents.in/bangalore/designer-mirror/3900030918450939",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Bellandur: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk, Bellandur, Bengaluru, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9204",
+        "longitude": "77.6868"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Designer Mirror WorkshopCreate a decorative mirror using simple art and craft techniques. In this hands on workshop, you will learn how to arrange colors, textures and decorative elements around a mirror to create your own design.Materials Provided: Mirror, decorative base, beads, stones, embellishm",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-26",
+        "availabilityEnds": "2026-10-27T14:07:00+05:30",
+        "validFrom": "2026-10-26",
+        "url": "https://allevents.in/bangalore/designer-mirror/3900030918450939"
       }
     ]
   },
@@ -4106,7 +4058,7 @@
     "name": "Java Training with Placement in Electronic City Bangalore",
     "image": "https://cdn-az.allevents.in/events6/banners/11e9c94e11a57957fbe22e47d8011d64c55b3df9cd140c76a20cdc9577803935-rimg-w1200-h668-dc134a8e-gmir.jpg?v=1779879385",
     "startDate": "2026-08-14T10:00:00+05:30",
-    "endDate": "2026-10-22T10:00:00+05:30",
+    "endDate": "2026-10-29T10:00:00+05:30",
     "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -4134,7 +4086,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "2026-10-22T10:00:00+05:30",
+        "availabilityEnds": "2026-10-29T10:00:00+05:30",
         "validFrom": "2026-05-27",
         "lowPrice": "0.00",
         "highPrice": "0.00",
@@ -4594,6 +4546,68 @@
         "url": "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
         "price": 0,
         "name": "North Bengaluru Startups Meetup by CEDAT"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Startup Stories by Bengaluru Founders",
+    "image": "https://cdn-az.allevents.in/events7/banners/75cf21b40df057374573786682ff5518969c778ff20e936d0a34dfc33ab6133a-rimg-w1200-h900-dc080808-gmir.jpg?v=1792041595",
+    "startDate": "2026-11-26T18:00:00+05:30",
+    "endDate": "2026-11-26T20:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IKP EDEN",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "16 Tavarekere Main Road",
+        "postalCode": "560029",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.934167",
+        "longitude": "77.6098037"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Get ready for an exciting evening with Startup Stories by Bengaluru Founders. An event where ideas, inspiration and meaningful connects",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "2026-11-26T20:00:00+05:30",
+        "validFrom": "2026-10-15",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "",
+        "validFrom": "2026-10-15",
+        "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069",
+        "price": 0,
+        "name": "Startup Stories by Bengaluru Founders"
       }
     ],
     "organizer": [

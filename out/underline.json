@@ -160,6 +160,46 @@
   {
     "@context": "https://schema.org",
     "@type": "SocialEvent",
+    "description": "When was the last time you put a jigsaw puzzle together? Puzzles are for everyone! It doesn’t matter if you loved puzzles as a kid, enjoy them now, or want to pick up a new hobby; if you do them solo or with friends and family; whether you like to take your time or prefer to blitz them - Bangalore Puzzle Pals is for you.\n\nJoin us to enjoy a relaxed off-screen evening in a social setting while you put together beautiful images, solve puzzles from new and exciting brands, and get a little competitive with some speed puzzling or puzzle chess! You’re also welcome to bring your own puzzles either to solve or sell/swap with others.\n\nCome alone, with a partner, with friends or family! We will have something for everyone. (Under-18s may attend if accompanied by an adult.)\n\nWho is Playful Pursuits?\n\nWe are Bangalore’s first jigsaw puzzle meetup group, providing a space for puzzle enthusiasts to come together to solve jigsaws, swap and sell their puzzles, and compete in speed puzzling! We meet in-person every Monday and on the occasional weekend.\n\nYou can follow us on Instagram at \n@playful.pursuits\n and \njoin our WhatsApp group\n.",
+    "endDate": "2026-11-02T22:30:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/b2abebf8f3875e9f7c2e37b4bea4c95dae2f556f.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Bangalore Puzzle Pals with Playful Pursuits",
+    "offers": null,
+    "sameAs": [
+      "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
+    ],
+    "startDate": "2026-11-02T18:30:00.000+05:30",
+    "url": "https://underline.center/t/bangalore-puzzle-pals-with-playful-pursuits/11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
     "description": "And, Then? brings together some of Improv Lore’s most experienced performers for an evening of unscripted theatre. Whether we’re revisiting a format we love or exploring something entirely new, every performance is built live with curiosity, collaboration, and a sense of play at its heart.\n\nWho are Improv Lore?\n\nWe are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.\n\nYou can follow us on Instagram at \n@improvlore\n and \njoin our WhatsApp community\n.",
     "endDate": "2026-11-01T21:00:00.000+05:30",
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -297,7 +337,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-11-01T09:30:00.000Z",
           "name": "Early Bird",
           "price": 349,
@@ -924,84 +964,5 @@
     ],
     "startDate": "2026-10-27T19:30:00.000+05:30",
     "url": "https://underline.center/t/screening-of-chicken-for-linda-2023-with-cinema-next-door/900"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "When was the last time you put a jigsaw puzzle together? Puzzles are for everyone! It doesn’t matter if you loved puzzles as a kid, enjoy them now, or want to pick up a new hobby; if you do them solo or with friends and family; whether you like to take your time or prefer to blitz them - Bangalore Puzzle Pals is for you.\n\nJoin us to enjoy a relaxed off-screen evening in a social setting while you put together beautiful images, solve puzzles from new and exciting brands, and get a little competitive with some speed puzzling or puzzle chess! You’re also welcome to bring your own puzzles either to solve or sell/swap with others.\n\nCome alone, with a partner, with friends or family! We will have something for everyone. (Under-18s may attend if accompanied by an adult.)\n\nWho is Playful Pursuits?\n\nWe are Bangalore’s first jigsaw puzzle meetup group, providing a space for puzzle enthusiasts to come together to solve jigsaws, swap and sell their puzzles, and compete in speed puzzling! We meet in-person every Monday and on the occasional weekend.\n\nYou can follow us on Instagram at \n@playful.pursuits\n and \njoin our WhatsApp group\n.",
-    "endDate": "2026-10-26T22:30:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/1X/b2abebf8f3875e9f7c2e37b4bea4c95dae2f556f.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Bangalore Puzzle Pals with Playful Pursuits",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 299,
-      "offerCount": 3,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-26T13:00:00.000Z",
-          "name": "Early Bird",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-26T13:00:00.000Z",
-          "name": "Regular Ticket",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-26T17:00:00.000Z",
-          "name": "Walk-In",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets"
-    },
-    "sameAs": [
-      "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
-    ],
-    "startDate": "2026-10-26T18:30:00.000+05:30",
-    "url": "https://underline.center/t/bangalore-puzzle-pals-with-playful-pursuits/11"
   }
 ]
