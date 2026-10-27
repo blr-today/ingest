@@ -169,40 +169,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "All Them Witches",
-    "image": "https://cdn-az.allevents.in/events7/banners/3d74872d4cb14ba14819e029a2d8572648b85f4d6568b6fbb09a4afe576f156e-rimg-w1200-h675-dc080808-gmir?v=1788611965",
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/all-them-witches/200030619082340",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "First Avenue",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jakkasandra 1st Block, 50 1st Cross Road, 1st Block-Venkatapura-Jakkasandra, Koramangala, Bengaluru 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9186",
-        "longitude": "77.63143"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "\"All Them Witches tickets 🎟️\n \n Experience the thrill of live entertainment with All Them Witches! Whether it's a night out with friends or a moment you've waited for, this is your time to be part of something special.\n \n Find tickets now at FindTick and join the action while seats last.\n \n #AllThem",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "HypeStage",
-        "url": "https://allevents.in/org/hypestage/27857303"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Little Peak Seekers",
     "image": "https://cdn-az.allevents.in/events1/banners/399d838f4d7691639fa776356bb112548ed785cb50e12ca3d0a65eabf61511fb-rimg-w1064-h394-dce8e8e8-gmir?v=1790579685",
     "startDate": "2026-11-15T05:00:00+05:30",
@@ -464,7 +430,8 @@
       {
         "@type": "Organization",
         "name": "Nextora ",
-        "url": "https://allevents.in/org/nextora/28286263"
+        "url": "https://allevents.in/org/nextora/28286263",
+        "description": "Nextora Online Tuition – Empowering Every Student to Learn Better, Grow Confidently, and Achieve Academic Excellence with Expert Guidance."
       }
     ]
   },
@@ -500,42 +467,6 @@
         "@type": "Organization",
         "name": "Critton Ball",
         "url": "https://allevents.in/org/critton-ball/28286221"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BBCh26 Race #10 | Nandi Epic Road Race | FRI, 20 Nov 2026",
-    "image": "https://cdn-az.allevents.in/events6/banners/befa13b16b68aa22ea825584ac356d656f6a5f30f9e3c67b2e85eb72292398c5-rimg-w924-h530-dc081838-gmir?v=1792944316",
-    "startDate": "2026-11-20T05:45:00+05:30",
-    "endDate": "2026-11-20T12:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bbch26-race-10-nandi-epic-road-race-fri-20-nov-2026/200030908004918",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Nandi Hill Bangalore",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bangalore, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9502238",
-        "longitude": "77.699481"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "BBCh26 Race #10 | Nandi Epic Road Race | FRI, 20 Nov 2026\n\nRegistration Link: https://in.explara.com/e/bbch26-race10\n\nHere comes the most awaited BBCh Nandi Epic Road race, THE EPIC ROAD RACE of the Country.\n\nThe BBCh Nandi Epic Road Race will now take place on Friday! Due to the heavy traffic on we",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Bangalore Bicycle Championships",
-        "url": "https://allevents.in/org/bangalore-bicycle-championships/617854",
-        "description": "Visit the official site www.bbch.in"
       }
     ]
   },
@@ -721,6 +652,183 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Quick Style India Tour - Bangalore",
+    "image": "https://cdn-az.allevents.in/events8/banners/9ee96490-4b62-11f1-ad10-af1c0000fe82-rimg-w1200-h600-dce6e6e6-gmir.jpg?v=1778302237",
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue To Be Announced: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Karnataka India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9628957",
+        "longitude": "77.57754"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "From viral videos to global stages, the world has always shown up for Quick Style.Now they’re bringing something to India they’ve never brought before.With 20 years of legacy, two world championship titles, viral videos that captivated billions online, and performances on the world’s biggest stages,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "2026-10-31T20:00:00+05:30",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "lowPrice": "999.00",
+        "price": "999.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "999.00",
+        "name": "GA Early Bird"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "9999.00",
+        "name": "Meet and Greet"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "1499.00",
+        "name": "Fan Zone EB"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kudremukh Trek",
+    "image": "https://cdn-az.allevents.in/events9/banners/03b1e230-5f5e-11f1-b16f-0f9f4695b0c4-rimg-w1200-h600-dc434c4b-gmir.jpg?v=1780499282",
+    "startDate": "2026-11-27T20:00:00+05:30",
+    "endDate": "2026-11-27T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kudremukh-trek/3900030139490142",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Shantala Silk and Sarees: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "First Floor, Tank Bund Road, ,Near Shantala Circle, Opposite KSRTC Bus Stand (APSRTC Bus Stand), Bengaluru, Karnataka 560053, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "escape2explore presents \"Kudremukh Trek from Bangalore\" ✦ Activity Location: Chikkamagaluru, Karnataka ✦ Starting Day: Friday✦ End Day: Sunday✦ Nights/Days: 2 Nights | 2 Days✦ Kudremukh Height: 2,674 ft.✦ Kudremukh Trek Distance: Approx. 22 km (Both Ways/Round Trip)✦ Trek Difficulty: Moderate to Dif",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "2026-11-27T22:00:00+05:30",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/kudremukh-trek/3900030139490142",
+        "lowPrice": "4399.00",
+        "price": "4399.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/kudremukh-trek/3900030139490142",
+        "price": "4399.00",
+        "name": "SINGLE ENTRY"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kodachadri Trek",
+    "image": "https://cdn-az.allevents.in/events3/banners/ec100f60-5fb9-11f1-b16f-0f9f4695b0c4-rimg-w1200-h600-dc2a311c-gmir.jpg?v=1780538756",
+    "startDate": "2027-01-15T20:00:00+05:30",
+    "endDate": "2027-01-15T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kodachadri-trek/3900030139688824",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Silk Board Bus Stand: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Central Silk Board Colony, Stage 2, BTM Layout, Bengaluru, Karnataka 560068, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "escape2explore presents \"Kodachadri Trek from Bangalore\"Activity location: Kodachadri, ShimogaStart Day: FridayEnd Day: SundayNights/Days: 2 Nights | 2 DaysKodachadri Hill Height: 5,735 ft. (1,343 m)Kodachadri Trek Distance: 10 km (One Way)Trek Difficulty: Moderate to Difficult About Kodachadri Trek",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "2027-01-15T22:00:00+05:30",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/kodachadri-trek/3900030139688824",
+        "lowPrice": "4499.00",
+        "price": "4499.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/kodachadri-trek/3900030139688824",
+        "price": "4499.00",
+        "name": "SINGLE ENTRY"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Wonder Woman",
     "image": "https://cdn-az.allevents.in/events5/banners/279e4d50-5f59-11f1-83e9-7d6c0032c368-rimg-w1200-h600-dc2d1612-gmir.jpg?v=1780497194",
@@ -768,79 +876,6 @@
         "url": "https://allevents.in/bangalore/wonder-woman/3900030140197911",
         "price": "1000.00",
         "name": "COUPLE FULLY REDEEMABLE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Quick Style India Tour - Bangalore",
-    "image": "https://cdn-az.allevents.in/events1/banners/6ed08270-7b1e-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dce6e6e6-gmir.png?v=1783550606",
-    "startDate": "2026-10-31T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard, Phoenix Market City: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Whitefield Main Rd, Devasandra Industrial Estate, Mahadevpura, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "From viral videos to global stages, the world has always shown up for Quick Style.Now they’re bringing something to India they’ve never brought before.With 20 years of legacy, two world championship titles, viral videos that captivated billions online, and performances on the world’s biggest stages,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "2026-10-31T20:00:00+05:30",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "lowPrice": "999.00",
-        "price": "999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "9999.00",
-        "name": "Meet and Greet"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "1499.00",
-        "name": "Fan Zone EB"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "999.00",
-        "name": "GA Early Bird"
       }
     ]
   },
@@ -1316,7 +1351,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Jewels of India 2026 : Biggest Jewellery Festival",
-    "image": "https://cdn-az.allevents.in/events4/banners/afac66a0-cf84-11f1-958f-31ad8555babb-rimg-w1200-h600-dc582818-gmir.jpg?v=1792830421",
+    "image": "https://cdn-az.allevents.in/events2/banners/e097e140-d22c-11f1-8447-9779e1ae937e-rimg-w1200-h600-dc582818-gmir.jpg?v=1793122561",
     "startDate": "2026-10-29T10:00:00+05:30",
     "endDate": "2026-10-29T20:00:00+05:30",
     "url": "https://allevents.in/bangalore/jewels-of-india-2026-biggest-jewellery-festival/3900030766034154",
@@ -1394,7 +1429,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Ghayal Ft. Pranit More",
-    "image": "https://cdn-az.allevents.in/events2/banners/c874fd20-cdde-11f1-bcbf-931de181f7ff-rimg-w1200-h600-dc181818-gmir.jpg?v=1792649221",
+    "image": "https://cdn-az.allevents.in/events8/banners/f6b54e70-d206-11f1-8447-9779e1ae937e-rimg-w1200-h600-dc181818-gmir.jpg?v=1793106277",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T20:40:00+05:30",
     "url": "https://allevents.in/bangalore/ghayal-ft-pranit-more/3900030830383253",
@@ -1588,84 +1623,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "CAD &amp; 3D Printing Classes for Kids",
-    "image": "https://cdn-az.allevents.in/events7/banners/bab5b960-d0ac-11f1-958f-31ad8555babb-rimg-w1200-h600-dc480888-gmir.jpg?v=1792957571",
-    "startDate": "2026-11-01T12:00:00+05:30",
-    "endDate": "2026-11-01T15:00:00+05:30",
-    "url": "https://allevents.in/bangalore/cad-and-3d-printing-classes-for-kids/3900030884519423",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "STEAM Varsity Makerspace: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1st Floor, 778, N Damodaran Road, A Block, Sahakar Nagar, Bengaluru, Karnataka 560092, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0639",
-        "longitude": "77.5852"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Dive into the world of 3D creation with our interactive workshop designed for young makers and tech enthusiasts. Suitable for all experience levels, this session emphasizes project-based learning and real-world applications of Computer-Aided Design (CAD) and the revolutionary world of 3D printing.Jo",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-23",
-        "availabilityEnds": "2026-11-01T15:00:00+05:30",
-        "validFrom": "2026-10-23",
-        "url": "https://allevents.in/bangalore/cad-and-3d-printing-classes-for-kids/3900030884519423"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "HALLOWEEN BASH SATURDAY",
-    "image": "https://cdn-az.allevents.in/events4/banners/93c5ba50-d0f5-11f1-958f-31ad8555babb-rimg-w1200-h600-dc180818-gmir.jpg?v=1792988859",
-    "startDate": "2026-10-31T21:00:00+05:30",
-    "endDate": "2026-11-01T02:00:00+05:30",
-    "url": "https://allevents.in/bangalore/halloween-bash-saturday/3900030887094101",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Sugar Factory Reloaded: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "93/A Ground floor, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9334",
-        "longitude": "77.614"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "HALLOWEEN NIGHT 2026Get ready for a thrilling Halloween Night with DJ CEEZ at Sugar Factory Koramangala on 31st October 2026Enjoy electrifying music spooky vibes Halloween costumes and an unforgettable party experienceEVENT DETAILSDate - 31 October 2026Venue - Sugar Factory Koramangala BengaluruArti",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-23",
-        "availabilityEnds": "2026-11-01T02:00:00+05:30",
-        "validFrom": "2026-10-23",
-        "url": "https://allevents.in/bangalore/halloween-bash-saturday/3900030887094101"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "BOLLYWOOD BHANGRA RAVE",
     "image": "https://cdn-az.allevents.in/events1/banners/60327ec0-cf3e-11f1-958f-31ad8555babb-rimg-w1200-h600-dc180808-gmir.jpg?v=1792800223",
     "startDate": "2026-10-30T20:30:00+05:30",
@@ -1705,8 +1662,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Lighter Clay Hard Case Workshop",
+    "image": "https://cdn-az.allevents.in/events8/banners/81178060-d225-11f1-8447-9779e1ae937e-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793119394",
+    "startDate": "2026-10-31T14:00:00+05:30",
+    "endDate": "2026-10-31T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/lighter-clay-hard-case-workshop/3900030901983109",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Third Wave Coffee, Whitefield: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Plot No 207, Varthur Main Road, Palm Meadows, Ramagondanahalli, Whitefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9573",
+        "longitude": "77.7368"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Join Our Lighter Clay Hard Case Workshop! Get ready to add a personal touch to your everyday items! In this handson workshop, youll learn how to design and craft a stylish, custom lighter case using lightweight clay. Whether youre a beginner or have some crafting experience, this workshop will guide",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-24",
+        "availabilityEnds": "2026-10-31T16:00:00+05:30",
+        "validFrom": "2026-10-24",
+        "url": "https://allevents.in/bangalore/lighter-clay-hard-case-workshop/3900030901983109"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "YAP GOD by Raunaq Rajani",
-    "image": "https://cdn-az.allevents.in/events7/banners/c3c77de0-cf8f-11f1-958f-31ad8555babb-rimg-w1200-h600-dc181818-gmir.jpg?v=1792835179",
+    "image": "https://cdn-az.allevents.in/events7/banners/96f70e50-d20c-11f1-8447-9779e1ae937e-rimg-w1200-h600-dc181818-gmir.jpg?v=1793108693",
     "startDate": "2026-11-01T14:00:00+05:30",
     "endDate": "2026-11-01T15:10:00+05:30",
     "url": "https://allevents.in/bangalore/yap-god-by-raunaq-rajani/3900030902237520",
@@ -1745,7 +1741,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Jassie Gift Live in Bangalore",
-    "image": "https://cdn-az.allevents.in/events2/banners/13447a30-cfae-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792848198",
+    "image": "https://cdn-az.allevents.in/events1/banners/c223cfe0-d1c7-11f1-ae5f-79d88ce200e4-rimg-w1200-h600-dc080808-gmir.jpg?v=1793079131",
     "startDate": "2026-11-15T19:00:00+05:30",
     "endDate": "2026-11-16T01:00:00+05:30",
     "url": "https://allevents.in/bangalore/jassie-gift-live-in-bangalore/3900030902962218",
@@ -1862,7 +1858,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Lasya Ft. Chinmayi D and Shravani Satish.",
-    "image": "https://cdn-az.allevents.in/events1/banners/755daa90-d006-11f1-958f-31ad8555babb-rimg-w1200-h600-dc280808-gmir.jpg?v=1792886158",
+    "image": "https://cdn-az.allevents.in/events1/banners/ed95a160-d1dd-11f1-ae5f-79d88ce200e4-rimg-w1200-h600-dc280808-gmir.jpg?v=1793088652",
     "startDate": "2026-10-30T19:30:00+05:30",
     "endDate": "2026-10-30T20:30:00+05:30",
     "url": "https://allevents.in/bangalore/lasya-ft-chinmayi-d-and-shravani-satish/3900030905402158",
@@ -2290,45 +2286,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Beaded Coaster Workshop",
-    "image": "https://cdn-az.allevents.in/events5/banners/89d44210-d13f-11f1-9cd5-953965a6640a-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1793020625",
-    "startDate": "2026-11-01T15:00:00+05:30",
-    "endDate": "2026-11-01T17:00:00+05:30",
-    "url": "https://allevents.in/bangalore/beaded-coaster-workshop/3900030917006905",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tim Hortons, HSR Layout: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "17th Cross Road, Vanganahalli, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9121",
-        "longitude": "77.6471"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This pass includes food/beverage voucher which you can redeem at the venue.What to Expect Dive into a playful, hands-on session where creativity flows freely. It is an easygoing space to explore, experiment, and enjoy the process - no experience needed.What You will Do Create beaded Coaster in your",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-11-01T17:00:00+05:30",
-        "validFrom": "2026-10-26",
-        "url": "https://allevents.in/bangalore/beaded-coaster-workshop/3900030917006905"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Trinket Treasures",
     "image": "https://cdn-az.allevents.in/events6/banners/a87135d0-d170-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dcc8c8b8-gmir.jpg?v=1793041721",
     "startDate": "2026-10-31T15:00:00+05:30",
@@ -2401,45 +2358,6 @@
         "availabilityEnds": "2026-10-31T20:43:00+05:30",
         "validFrom": "2026-10-26",
         "url": "https://allevents.in/bangalore/couple-lap-dance-experience/3900030918033307"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Designer Mirror",
-    "image": "https://cdn-az.allevents.in/events4/banners/173ab380-d183-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dc284868-gmir.jpg?v=1793049638",
-    "startDate": "2026-10-27T13:07:00+05:30",
-    "endDate": "2026-10-27T14:07:00+05:30",
-    "url": "https://allevents.in/bangalore/designer-mirror/3900030918450939",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Bellandur: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk, Bellandur, Bengaluru, Karnataka 560103, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9204",
-        "longitude": "77.6868"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Designer Mirror WorkshopCreate a decorative mirror using simple art and craft techniques. In this hands on workshop, you will learn how to arrange colors, textures and decorative elements around a mirror to create your own design.Materials Provided: Mirror, decorative base, beads, stones, embellishm",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-10-27T14:07:00+05:30",
-        "validFrom": "2026-10-26",
-        "url": "https://allevents.in/bangalore/designer-mirror/3900030918450939"
       }
     ]
   },
@@ -2563,6 +2481,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Candle Painting Workshop",
+    "image": "https://cdn-az.allevents.in/events9/banners/e023d310-d1c6-11f1-ae5f-79d88ce200e4-rimg-w1200-h600-dc180808-gmir.jpg?v=1793078751",
+    "startDate": "2026-10-31T15:00:00+05:30",
+    "endDate": "2026-10-31T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/candle-painting-workshop/3900030919624152",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9787",
+        "longitude": "77.6455"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Add colour and creativity to everyday decor at Candle Painting Workshop, a relaxing art experience where participants transform plain candles into beautifully hand painted decorative pieces. Using vibrant colours, artistic patterns, floral elements, and personalised designs, each candle becomes a un",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-27",
+        "availabilityEnds": "2026-10-31T16:00:00+05:30",
+        "validFrom": "2026-10-27",
+        "url": "https://allevents.in/bangalore/candle-painting-workshop/3900030919624152"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Night ft. DJ Sandra at The Pallet by ABV",
     "image": "https://cdn-az.allevents.in/events8/banners/65fece30-d1f0-11f1-bfc5-859d560c33db-rimg-w1200-h600-dc080808-gmir.jpg?v=1793096585",
     "startDate": "2026-10-31T22:00:00+05:30",
@@ -2596,6 +2553,123 @@
         "availabilityEnds": "2026-10-31T23:59:00+05:30",
         "validFrom": "2026-10-27",
         "url": "https://allevents.in/bangalore/halloween-night-ft-dj-sandra-at-the-pallet-by-abv/3900030921052306"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay Flower Bouquet",
+    "image": "https://cdn-az.allevents.in/events5/banners/04faaa20-d202-11f1-bfc5-859d560c33db-rimg-w1200-h600-dc7898d8-gmir.jpg?v=1793104154",
+    "startDate": "2026-10-28T15:02:00+05:30",
+    "endDate": "2026-10-28T16:02:00+05:30",
+    "url": "https://allevents.in/bangalore/clay-flower-bouquet/3900030921980514",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Bellandur: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk, Bellandur, Bengaluru, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9204",
+        "longitude": "77.6868"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Clay Flower Bouquet is a gentle, hands-on experience where you sculpt flowers that never wilt.Using soft clay, you shape petals, stems, and blooms  creating a bouquet that carries your time, patience, and intention.This workshop isnt about getting it perfect. It about slowing down, being present, an",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-27",
+        "availabilityEnds": "2026-10-28T16:02:00+05:30",
+        "validFrom": "2026-10-27",
+        "url": "https://allevents.in/bangalore/clay-flower-bouquet/3900030921980514"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "HALLOWEEN ART WORKSHOP - Trick Or Paint",
+    "image": "https://cdn-az.allevents.in/events8/banners/6c5e4140-d202-11f1-bfc5-859d560c33db-rimg-w1200-h600-dc080808-gmir.jpg?v=1793104327",
+    "startDate": "2026-10-31T18:00:00+05:30",
+    "endDate": "2026-10-31T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/halloween-art-workshop-trick-or-paint/3900030922001308",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Glad Studio: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "507, Chinmaya Mission Hospital Road, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9782",
+        "longitude": "77.644"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Trick or Paint is our version of SIP & Paint Workshops. This is a 2 hour workshop which involves a lot of painting, laughter, scary things, blood and everything Halloween. You know what`s the best part? You can even cast your own little pumpkin!!!! How cool is that? Materials will be provided and Al",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-27",
+        "availabilityEnds": "2026-10-31T20:00:00+05:30",
+        "validFrom": "2026-10-27",
+        "url": "https://allevents.in/bangalore/halloween-art-workshop-trick-or-paint/3900030922001308"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Moon Mirror Workshop",
+    "image": "https://cdn-az.allevents.in/events8/banners/cfc4f220-d20b-11f1-8447-9779e1ae937e-rimg-w1200-h600-dc182828-gmir.jpg?v=1793108375",
+    "startDate": "2026-10-31T15:14:00+05:30",
+    "endDate": "2026-10-31T16:29:00+05:30",
+    "url": "https://allevents.in/bangalore/moon-mirror-workshop/3900030922515436",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe De Verde: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9408",
+        "longitude": "77.6233"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Moon Mirror Workshop Unleash your creativity and create a beautiful Moon Mirror inspired by the soft and magical look of the moon. In this hands on workshop you will learn how to design and decorate your own mirror using creative techniques and artistic elements. You will be guided step by step thro",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-27",
+        "availabilityEnds": "2026-10-31T16:29:00+05:30",
+        "validFrom": "2026-10-27",
+        "url": "https://allevents.in/bangalore/moon-mirror-workshop/3900030922515436"
       }
     ]
   },

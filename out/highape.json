@@ -37,7 +37,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/10-days-finland-and-sweden-tour-package-northern-lights-q2rzdi17pe",
-      "validFrom": "2026-10-26T13:05:36.002Z"
+      "validFrom": "2026-10-27T22:20:03.611Z"
     },
     "performer": [
       {
@@ -131,7 +131,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/SoldOut",
       "url": "https://www.highape.com/bangalore/events/6-days-andaman-tour-package-with-neil-xmas-new-year-xy8vwncj9z",
-      "validFrom": "2026-10-26T13:05:35.758Z"
+      "validFrom": "2026-10-27T22:20:04.472Z"
     },
     "performer": [
       {
@@ -180,7 +180,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/a-bollywood-mirror-saturday-night-yg6j2i6lxp",
-      "validFrom": "2026-10-26T13:05:20.185Z"
+      "validFrom": "2026-10-27T21:07:15.630Z"
     },
     "performer": [
       {
@@ -229,7 +229,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/adiyogi-and-lepakshi-temple-one-day-trip-from-bangalore-by-e2e-6pyv8vzfcc",
-      "validFrom": "2026-10-26T13:05:29.320Z"
+      "validFrom": "2026-10-27T20:53:44.869Z"
     },
     "performer": [
       {
@@ -278,7 +278,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/adiyogi-one-day-trip-by-e2e-kxj5mhf0ii",
-      "validFrom": "2026-10-26T11:45:41.047Z"
+      "validFrom": "2026-10-27T21:36:08.048Z"
     },
     "performer": [
       {
@@ -288,6 +288,106 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/adiyogi-one-day-trip-by-e2e-kxj5mhf0ii"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "India’s Biggest Halloween Party Ft Aerreo at Sunburn Union",
+    "description": "HighlightsIndia’s Biggest Halloween PartyWicked Wardrobe Theme with Iconic Superhero and Villain LooksSpooky Halloween Ambience and Immersive Party ExperienceLa",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/2305bc5a6ca7954869d2b27465f58d80.jpg"
+    ],
+    "startDate": "2026-10-31T19:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.945166,
+        "longitude": 77.620135
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fireball Entertainments",
+      "url": "https://www.highape.com/bangalore/organisers/fireball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/aerreo-halloween-party-india-s-biggest-halloween-party-j6ctgt6mxe",
+      "validFrom": "2026-10-27T21:39:04.615Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Aerreo",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/d5ea8ebe/swaik5zvfidrapto3nqz.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-aerreo-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/aerreo-halloween-party-india-s-biggest-halloween-party-j6ctgt6mxe"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Afterlife : The Halloween Ritual",
+    "description": "HighlightsHalloween-themed AFTERLIFE experience with dark and immersive vibesFeaturing Shiva BuddhaDeep bass and electrifying musicSpooky atmosphere filled with",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/7f438023b34e911b1ebfa895a84f749d.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T00:45:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Cleo's Up Top",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th floor, Manyata Business Park, opposite Embassy, Vyalikaval HBCS Layout, Nagavara, Bengaluru, Karnataka 560045, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.040765,
+        "longitude": 77.619849
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cleo's Uptop",
+      "url": "https://www.highape.com/bangalore/organisers/white-barrels-hospitality-pvt-ltd-ieho9"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/afterlife-the-halloween-ritual-gpsbctxlbu",
+      "validFrom": "2026-10-27T22:20:07.750Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Shivabudha",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/04/29/1f3649b0dc3f5d7abc21b499ca2838ae.jpg",
+        "url": "https://www.highape.com/bangalore/artists/shivabudha-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/afterlife-the-halloween-ritual-gpsbctxlbu"
   },
   {
     "@context": "https://schema.org",
@@ -327,7 +427,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-featuring-shreyas-rayas-p48o8t9jut",
-      "validFrom": "2026-10-26T13:05:34.376Z"
+      "validFrom": "2026-10-27T21:56:07.151Z"
     },
     "performer": [
       {
@@ -377,7 +477,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-adarsha-jbvh4kbo58",
-      "validFrom": "2026-10-26T13:05:34.447Z"
+      "validFrom": "2026-10-27T22:10:08.224Z"
     },
     "performer": [
       {
@@ -426,7 +526,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-narendra-nhth7tj0gj",
-      "validFrom": "2026-10-26T13:05:35.133Z"
+      "validFrom": "2026-10-27T21:31:25.740Z"
     },
     "performer": [
       {
@@ -475,7 +575,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-narendra-zpt80qc4gv",
-      "validFrom": "2026-10-26T13:05:32.896Z"
+      "validFrom": "2026-10-27T21:42:15.176Z"
     },
     "performer": [
       {
@@ -524,7 +624,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/akashavani-ft-shreyas-gnffij2wu6",
-      "validFrom": "2026-10-26T12:38:15.939Z"
+      "validFrom": "2026-10-27T21:05:35.393Z"
     },
     "performer": [
       {
@@ -574,7 +674,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/all-india-students-conference-on-science-and-spirituality-quest-50530zu5eq",
-      "validFrom": "2026-10-26T13:05:26.607Z"
+      "validFrom": "2026-10-27T21:08:43.697Z"
     },
     "performer": [
       {
@@ -673,7 +773,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/antharagange-trek-3lkzpesf1v",
-      "validFrom": "2026-10-26T13:05:28.981Z"
+      "validFrom": "2026-10-27T21:15:15.603Z"
     },
     "performer": [
       {
@@ -722,7 +822,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/art-date-sbd7sgdhx7",
-      "validFrom": "2026-10-26T11:25:04.804Z"
+      "validFrom": "2026-10-27T22:20:13.390Z"
     },
     "performer": [
       {
@@ -772,7 +872,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/astra-friday-nights-ixh3hdged5",
-      "validFrom": "2026-10-26T12:07:16.297Z"
+      "validFrom": "2026-10-27T22:20:14.132Z"
     },
     "performer": [
       {
@@ -821,7 +921,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bengali-odia-dj-night-veieu3d9ha",
-      "validFrom": "2026-10-26T12:16:11.085Z"
+      "validFrom": "2026-10-27T21:05:53.713Z"
     },
     "performer": [
       {
@@ -870,7 +970,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bengaluru-tech-at-h-o-d-rizeyq870p",
-      "validFrom": "2026-10-26T12:10:34.456Z"
+      "validFrom": "2026-10-27T21:05:46.522Z"
     },
     "performer": [
       {
@@ -919,7 +1019,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/SoldOut",
       "url": "https://www.highape.com/bangalore/events/best-of-spiti-valley-xmas-and-new-year-special-tour-jg0gvlbdmg",
-      "validFrom": "2026-10-26T13:05:35.909Z"
+      "validFrom": "2026-10-27T21:37:40.522Z"
     },
     "performer": [
       {
@@ -979,7 +1079,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/between-rounds-oops-to-opportunity-z79qoin674",
-      "validFrom": "2026-10-26T12:23:08.426Z"
+      "validFrom": "2026-10-27T21:05:56.986Z"
     },
     "performer": [
       {
@@ -1041,7 +1141,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/big-bollywood-halloween-night-at-badmaash-koramangala-er1g6v6ej1",
-      "validFrom": "2026-10-26T13:05:23.010Z"
+      "validFrom": "2026-10-27T21:14:20.019Z"
     },
     "performer": [
       {
@@ -1097,7 +1197,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/big-bollywood-punjabi-night-at-badmaash-kormangala-kwwf4374da",
-      "validFrom": "2026-10-26T12:16:49.189Z"
+      "validFrom": "2026-10-27T21:08:06.872Z"
     },
     "performer": [
       {
@@ -1147,7 +1247,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/block-buster-saturday-night-hydra-club-cw2f19n2ih",
-      "validFrom": "2026-10-26T13:05:17.181Z"
+      "validFrom": "2026-10-27T21:08:04.512Z"
     },
     "performer": [
       {
@@ -1158,62 +1258,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/block-buster-saturday-night-hydra-club-cw2f19n2ih"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Body Talk",
-    "description": "HighlightsHigh-energy dance event featuring street-style culture and heavy beatsDJ Lethal A and DJ Mana on the decksLive dance battle and freestyle cypherCompet",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/25/d5d74846241ed446c5f2ffadfe7f68fa.jpg"
-    ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T00:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Gsuper Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "93/ a, Industrial Layout, Koramangala, Bengaluru, Bengaluru South, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933287,
-        "longitude": 77.613843
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gsuper Club",
-      "url": "https://www.highape.com/bangalore/organisers/gsuper-club-fe45e3227f"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/body-talk-y7a2kvqxa2",
-      "validFrom": "2026-10-26T11:08:49.345Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Lethal",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-lethal"
-      },
-      {
-        "@type": "Person",
-        "name": "DJ Mana",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-mana-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/body-talk-y7a2kvqxa2"
   },
   {
     "@context": "https://schema.org",
@@ -1253,7 +1297,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bolly-budhwar-at-ginza-koramangala-ecssna9xgy",
-      "validFrom": "2026-10-26T13:05:14.464Z"
+      "validFrom": "2026-10-27T21:05:12.629Z"
     },
     "performer": [
       {
@@ -1302,7 +1346,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bollyholly-night-392dsn05d8",
-      "validFrom": "2026-10-26T13:05:25.365Z"
+      "validFrom": "2026-10-27T21:08:23.958Z"
     },
     "performer": [
       {
@@ -1453,7 +1497,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bollywood-dj-night-7mkqtrnegb",
-      "validFrom": "2026-10-26T13:05:23.719Z"
+      "validFrom": "2026-10-27T22:20:23.172Z"
     },
     "performer": [
       {
@@ -1502,7 +1546,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bollywood-ladies-night-5s8cj2bi47",
-      "validFrom": "2026-10-26T13:05:20.088Z"
+      "validFrom": "2026-10-27T21:05:18.429Z"
     },
     "performer": [
       {
@@ -1552,7 +1596,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/booze-boos-halloween-night-ga1ltq9ggr",
-      "validFrom": "2026-10-26T11:31:37.893Z"
+      "validFrom": "2026-10-27T21:00:31.218Z"
     },
     "performer": [
       {
@@ -1602,7 +1646,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/bottle-painting-workshop-5sd2vb0mi6",
-      "validFrom": "2026-10-26T13:05:31.824Z"
+      "validFrom": "2026-10-27T22:20:27.695Z"
     },
     "performer": [
       {
@@ -1652,7 +1696,7 @@
       "highPrice": "1250",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/box-cricket-blast-3juowucqt2",
-      "validFrom": "2026-10-26T12:16:20.539Z"
+      "validFrom": "2026-10-27T22:20:28.401Z"
     },
     "performer": [
       {
@@ -1702,7 +1746,7 @@
       "highPrice": "1999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/brew-reignited-2ko1qaxtmv",
-      "validFrom": "2026-10-26T13:00:10.726Z"
+      "validFrom": "2026-10-27T21:27:09.909Z"
     },
     "performer": [
       {
@@ -1752,7 +1796,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/cake-mixing-evening-lyy3wong57",
-      "validFrom": "2026-10-26T13:05:32.832Z"
+      "validFrom": "2026-10-27T21:49:44.491Z"
     },
     "performer": [
       {
@@ -1801,7 +1845,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/canvas-diary-art-bm3fedhya6",
-      "validFrom": "2026-10-26T13:05:30.101Z"
+      "validFrom": "2026-10-27T22:20:30.100Z"
     },
     "performer": [
       {
@@ -1850,7 +1894,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/canvas-fridge-magnet-milaap-sekolrsn4k",
-      "validFrom": "2026-10-26T13:05:31.435Z"
+      "validFrom": "2026-10-27T21:47:08.310Z"
     },
     "performer": [
       {
@@ -1899,7 +1943,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/canvas-painting-milaap-efd5w414tq",
-      "validFrom": "2026-10-26T13:05:31.349Z"
+      "validFrom": "2026-10-27T22:20:31.262Z"
     },
     "performer": [
       {
@@ -1952,7 +1996,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/SoldOut",
       "url": "https://www.highape.com/bangalore/events/chopta-tungnath-christmas-new-year-trip-package-7k84afeiax",
-      "validFrom": "2026-10-26T13:05:36.569Z"
+      "validFrom": "2026-10-27T22:20:31.909Z"
     },
     "performer": [
       {
@@ -2001,7 +2045,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/church-street-gaming-by-the-boardgame-den-9yr5wcw8mr",
-      "validFrom": "2026-10-26T11:37:12.049Z"
+      "validFrom": "2026-10-27T21:07:01.350Z"
     },
     "performer": [
       {
@@ -2050,7 +2094,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/clay-trinket-tray-workshop-milaap-9nxfv76y8c",
-      "validFrom": "2026-10-26T13:05:32.146Z"
+      "validFrom": "2026-10-27T22:20:33.073Z"
     },
     "performer": [
       {
@@ -2099,7 +2143,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coaster-painting-workshop-rg5j6c169a",
-      "validFrom": "2026-10-26T13:05:30.995Z"
+      "validFrom": "2026-10-27T21:56:12.786Z"
     },
     "performer": [
       {
@@ -2148,7 +2192,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coffee-painting-milaap-1m4t5qimgw",
-      "validFrom": "2026-10-26T13:05:32.233Z"
+      "validFrom": "2026-10-27T22:20:34.051Z"
     },
     "performer": [
       {
@@ -2197,7 +2241,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coffee-painting-milaap-b6fgt33vfm",
-      "validFrom": "2026-10-26T13:05:32.210Z"
+      "validFrom": "2026-10-27T22:20:34.589Z"
     },
     "performer": [
       {
@@ -2246,7 +2290,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/coil-pottery-milaap-1jph1nd4jv",
-      "validFrom": "2026-10-26T12:16:20.500Z"
+      "validFrom": "2026-10-27T22:20:35.143Z"
     },
     "performer": [
       {
@@ -2310,6 +2354,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Content Creation Workshop - Influencers & Business",
+    "description": "HighlightsLearn personal branding and business content creation strategiesMaster storytelling, hooks, reels, captions and content planningCreate engaging conten",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/1e2d618e0e6e2bf0dc326807ef294533.jpg"
+    ],
+    "startDate": "2026-11-21T12:00:00+05:30",
+    "endDate": "2026-11-21T14:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Phoenix Mall Of Asia",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "239/240, Byatarayanapura, Yelahanka, Hobli, Yelahanka Taluk, Bellary Rd, Indra Nagar, Sahakar Nagar, Bengaluru, Karnataka 560092, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.070626,
+        "longitude": 77.591419
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SR Media Global",
+      "url": "https://www.highape.com/bangalore/organisers/sarath-raj-97f081d3b1"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "2499",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/content-creation-workshop-influencers-business-9jrts8jev9",
+      "validFrom": "2026-10-27T21:41:30.638Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "SR Media Global",
+        "url": "https://www.highape.com/bangalore/organisers/sarath-raj-97f081d3b1"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/content-creation-workshop-influencers-business-9jrts8jev9"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": " Couple Art Date | Milaap ",
     "description": "HighlightsCouple-focused guided painting experienceStep-by-step instruction suitable for beginnersCreate a shared artwork on a single canvasAll art supplies inc",
     "image": [
@@ -2345,7 +2438,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/couple-art-date-milaap-1twl8zppjv",
-      "validFrom": "2026-10-26T13:05:31.472Z"
+      "validFrom": "2026-10-27T21:12:10.829Z"
     },
     "performer": [
       {
@@ -2394,7 +2487,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/couple-clay-keychain-workshop-milaap-kgt5ihmngk",
-      "validFrom": "2026-10-26T13:05:32.360Z"
+      "validFrom": "2026-10-27T22:20:36.575Z"
     },
     "performer": [
       {
@@ -2443,7 +2536,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/curse-of-the-bollywood-halloween-night-vddkey1c3m",
-      "validFrom": "2026-10-26T13:05:21.655Z"
+      "validFrom": "2026-10-27T21:25:58.207Z"
     },
     "performer": [
       {
@@ -2492,7 +2585,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dear-zindagi-circl-m1lffo46tz",
-      "validFrom": "2026-10-26T11:36:10.996Z"
+      "validFrom": "2026-10-27T21:05:13.496Z"
     },
     "performer": [
       {
@@ -2541,7 +2634,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/desi-thursday-jtsecn8vfl",
-      "validFrom": "2026-10-26T13:05:20.112Z"
+      "validFrom": "2026-10-27T21:05:48.194Z"
     },
     "performer": [
       {
@@ -2556,13 +2649,76 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Dil Se Diwali 2026",
+    "description": "Highlights Diwali celebration with a vibrant festive atmosphereDJ Vipul Khurana live on the decksHigh-energy Bollywood and party musicStunning Diwali-inspired d",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/07/c693af1206b91f90adb95490f87611f8.jpg"
+    ],
+    "startDate": "2026-11-05T20:00:00+05:30",
+    "endDate": "2026-11-06T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Mirage",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6th Floor, 1 Sobha, Sobha Mall, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.975301,
+        "longitude": 77.602494
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "A7 Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/a7-entertainment-go9b9"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "399",
+      "highPrice": "1499",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dil-se-diwali-kbezepkyqp",
+      "validFrom": "2026-10-27T21:54:56.051Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dj Vipul Khurana",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/23/8cceb901d02f69686036b39e29315105.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-vipul-khurana"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Deep Bhamra",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/b1f85278/nvgvcvtmvwnaur4w2fxb.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-deep-bhamra"
+      },
+      {
+        "@type": "Person",
+        "name": "dj cronic",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-cronic-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dil-se-diwali-kbezepkyqp"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dinner With Strangers",
     "description": "HighlightsDinner with strangers, new connectionsMeet new people over a shared dining experienceDelicious food and engaging conversationsA relaxed setting design",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/01/1dd94eda913ef4ef1ddb1232f2e18f99.jpg"
     ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-26T23:00:00+05:30",
+    "startDate": "2026-10-28T20:00:00+05:30",
+    "endDate": "2026-10-28T23:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -2591,7 +2747,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dinner-with-strangers-0m9vzqltk3",
-      "validFrom": "2026-10-26T13:05:13.135Z"
+      "validFrom": "2026-10-27T21:05:14.365Z"
     },
     "performer": [
       {
@@ -2610,8 +2766,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/08/73c0cfb552f1a54b7fdcbe2ec8a7e221.jpg"
     ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-26T23:00:00+05:30",
+    "startDate": "2026-10-28T20:00:00+05:30",
+    "endDate": "2026-10-28T23:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -2640,7 +2796,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dinner-with-strangers-478u1yb5el",
-      "validFrom": "2026-10-26T12:16:11.458Z"
+      "validFrom": "2026-10-27T21:05:22.698Z"
     },
     "performer": [
       {
@@ -2689,7 +2845,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/diy-fridge-magnet-workshop-1q0g832uls",
-      "validFrom": "2026-10-26T13:05:30.289Z"
+      "validFrom": "2026-10-27T22:20:39.762Z"
     },
     "performer": [
       {
@@ -2708,8 +2864,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/06/a71317976dc806e5e32ca79a4b6a902f.jpg"
     ],
-    "startDate": "2026-10-26T20:00:00+05:30",
-    "endDate": "2026-10-27T01:00:00+05:30",
+    "startDate": "2026-10-28T20:00:00+05:30",
+    "endDate": "2026-10-29T01:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -2739,7 +2895,7 @@
       "highPrice": "99",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dj-killer-7-nights-7-vibes-m7q5zk9wo2",
-      "validFrom": "2026-10-26T13:05:13.035Z"
+      "validFrom": "2026-10-27T21:05:11.715Z"
     },
     "performer": [
       {
@@ -2750,56 +2906,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dj-killer-7-nights-7-vibes-m7q5zk9wo2"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "DJ Zia Tuesday Tea Spilled at HOD",
-    "description": "HighlightsTuesday Tea Spilled with DJ Zia and TDMHouse music, pulsating rhythms and seamless transitionsSophisticated mid-week nightlife experienceHouse-crafted",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/25/73316e8dc5afc90eae0a92107bfd43fc.jpg"
-    ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HOD - House Of Dopamine Brewery LLP",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933648,
-        "longitude": 77.614883
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HOD - House Of Dopamine",
-      "url": "https://www.highape.com/bangalore/organisers/khushi-s-g-6b5ce5a5aa"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/dj-zia-tuesday-tea-spilled-at-hod-eqgvlk5k5u",
-      "validFrom": "2026-10-26T11:08:36.868Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Dj zia",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-zia-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/dj-zia-tuesday-tea-spilled-at-hod-eqgvlk5k5u"
   },
   {
     "@context": "https://schema.org",
@@ -2839,7 +2945,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dot-mandala-art-milaap-as9407aio7",
-      "validFrom": "2026-10-26T13:05:27.561Z"
+      "validFrom": "2026-10-27T21:12:04.103Z"
     },
     "performer": [
       {
@@ -2849,57 +2955,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dot-mandala-art-milaap-as9407aio7"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Elite Tuesday | Nolimmits Brigade",
-    "description": "HighlightsDJ Night ft&nbsp;DJ HarshBollywood NightDance FloorMouthwatering AppetizersCocktails and MocktailsElevate your Tuesday night with a premium blend of m",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/08/01/55acc0728f833be48d77b0e51d12ab36.png"
-    ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "NoLimmits Lounge and Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.970303,
-        "longitude": 77.610947
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Nolimmits Lounge & Club",
-      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "1999",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-vd6dhao4q9",
-      "validFrom": "2026-10-26T22:43:54.395Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Harsh",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/9d81d51194f49b0228c1be579d44bdd0.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-harsh-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-vd6dhao4q9"
   },
   {
     "@context": "https://schema.org",
@@ -2940,7 +2995,7 @@
       "highPrice": "99",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/exclusive-saturday-exmdtai9ba",
-      "validFrom": "2026-10-26T11:10:53.515Z"
+      "validFrom": "2026-10-27T20:30:35.913Z"
     },
     "performer": [
       {
@@ -2991,7 +3046,7 @@
       "highPrice": "999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/finch-after-dark-ocx85q4koh",
-      "validFrom": "2026-10-26T12:01:47.421Z"
+      "validFrom": "2026-10-27T21:08:31.301Z"
     },
     "performer": [
       {
@@ -3065,7 +3120,7 @@
       "highPrice": "299",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/foam-island-halloween-edition-oftz76kj9d",
-      "validFrom": "2026-10-26T12:01:56.387Z"
+      "validFrom": "2026-10-27T20:23:10.544Z"
     },
     "performer": [
       {
@@ -3114,7 +3169,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/freaky-friday-w0lkf2yjyg",
-      "validFrom": "2026-10-26T13:05:19.944Z"
+      "validFrom": "2026-10-27T21:55:27.851Z"
     },
     "performer": [
       {
@@ -3171,7 +3226,7 @@
       "highPrice": "99",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-activated-hod-club-koramangala-evd99r38ep",
-      "validFrom": "2026-10-26T13:05:13.189Z"
+      "validFrom": "2026-10-27T21:07:49.819Z"
     },
     "performer": [
       {
@@ -3220,7 +3275,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-bollywood-night-party-unfmtlbria",
-      "validFrom": "2026-10-26T13:05:13.816Z"
+      "validFrom": "2026-10-27T22:14:53.740Z"
     },
     "performer": [
       {
@@ -3282,7 +3337,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-let-s-party-at-vibe-kormangala-nsrk7076dz",
-      "validFrom": "2026-10-26T13:05:22.426Z"
+      "validFrom": "2026-10-27T22:20:44.291Z"
     },
     "performer": [
       {
@@ -3332,7 +3387,7 @@
       "highPrice": "1995",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-midnight-botc-ewri1t7zct",
-      "validFrom": "2026-10-26T13:05:26.862Z"
+      "validFrom": "2026-10-27T22:20:44.827Z"
     },
     "performer": [
       {
@@ -3381,7 +3436,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-nakhra-big-bollywood-night-u4z9bmo461",
-      "validFrom": "2026-10-26T13:05:27.798Z"
+      "validFrom": "2026-10-27T22:20:45.349Z"
     },
     "performer": [
       {
@@ -3431,7 +3486,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-rooftop-pre-diwali-party-at-sky-ub-city-pxttet88vy",
-      "validFrom": "2026-10-26T13:05:33.025Z"
+      "validFrom": "2026-10-27T22:20:46.464Z"
     },
     "performer": [
       {
@@ -3481,7 +3536,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-sufi-night-jiw05s60wl",
-      "validFrom": "2026-10-26T13:05:23.776Z"
+      "validFrom": "2026-10-27T20:52:09.200Z"
     },
     "performer": [
       {
@@ -3580,7 +3635,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/garba-workshop-for-beginners-5poe9rq26f",
-      "validFrom": "2026-10-26T13:12:46.167Z"
+      "validFrom": "2026-10-27T21:11:17.116Z"
     },
     "performer": [
       {
@@ -3590,6 +3645,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/garba-workshop-for-beginners-5poe9rq26f"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ghost Loves Bollywood ",
+    "description": "HighlightsHalloween-themed Bollywood party at GlorifyFeaturing ARPITBollywood hits and high-energy party anthemsSpooky Halloween décor and themed cocktailsA nig",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/53625f3e98a1b6109ef52055d8d27999.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Glorify Pub & Kitchen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "41, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, 5th Block, Koramangala, Bengaluru, Karnataka 560092, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933702,
+        "longitude": 77.614685
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "G Glorify",
+      "url": "https://www.highape.com/bangalore/organisers/glorify-ppp8l"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ghost-loves-bollywood-lia5nfo3d1",
+      "validFrom": "2026-10-27T21:23:28.351Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Arpit",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/arpit-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ghost-loves-bollywood-lia5nfo3d1"
   },
   {
     "@context": "https://schema.org",
@@ -3629,7 +3734,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/glamorous-night-d7zqm41tdm",
-      "validFrom": "2026-10-26T13:05:20.244Z"
+      "validFrom": "2026-10-27T21:10:17.670Z"
     },
     "performer": [
       {
@@ -3679,7 +3784,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/global-ladies-night-kpjpgq4jou",
-      "validFrom": "2026-10-26T13:05:20.806Z"
+      "validFrom": "2026-10-27T21:05:51.320Z"
     },
     "performer": [
       {
@@ -3729,7 +3834,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/groove-theory-saturday-featuring-dj-himo-ushied1baf",
-      "validFrom": "2026-10-26T11:08:53.996Z"
+      "validFrom": "2026-10-27T21:08:15.263Z"
     },
     "performer": [
       {
@@ -3740,6 +3845,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/groove-theory-saturday-featuring-dj-himo-ushied1baf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween 2026 Ft Shameless Mani",
+    "description": "HighlightsHalloween 2026 celebration at ArteziA BengaluruFeaturing a special appearance by Shameless ManiDark gothic theme with a spooky Halloween atmosphereA n",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/de48c82e5339b80ce4e6eb617b329646.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "ARTEZIA",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No.56-6B, Palace Road,, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.99187,
+        "longitude": 77.588293
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-2026-ft-shameless-mani-obbupz9fh1",
+      "validFrom": "2026-10-27T21:41:26.097Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Shameless Mani",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/defa3bb9/vqud10pi8obiowaecg4s.jpg",
+        "url": "https://www.highape.com/bangalore/artists/shameless-mani"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-2026-ft-shameless-mani-obbupz9fh1"
   },
   {
     "@context": "https://schema.org",
@@ -3780,7 +3935,7 @@
       "highPrice": "599",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-2026-into-the-jungle-lq7j6ya1gh",
-      "validFrom": "2026-10-26T13:05:25.160Z"
+      "validFrom": "2026-10-27T22:20:51.146Z"
     },
     "performer": [
       {
@@ -3791,6 +3946,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/halloween-2026-into-the-jungle-lq7j6ya1gh"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Affair",
+    "description": "HighlightsPre-Halloween party with electrifying music and spooky vibesFeaturing SAVANTH live on the decksExperience a night of Halloween madness and dance floor",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/6de7167cefc10b21782bcded12771072.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Glorify Pub & Kitchen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "41, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, 5th Block, Koramangala, Bengaluru, Karnataka 560092, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933702,
+        "longitude": 77.614685
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "G Glorify",
+      "url": "https://www.highape.com/bangalore/organisers/glorify-ppp8l"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-affair-ynu0ydey1b",
+      "validFrom": "2026-10-27T21:39:11.366Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "G Glorify",
+        "url": "https://www.highape.com/bangalore/organisers/glorify-ppp8l"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-affair-ynu0ydey1b"
   },
   {
     "@context": "https://schema.org",
@@ -3831,7 +4035,7 @@
       "highPrice": "1999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-after-dark-nolimmits-zxxu6ofs2h",
-      "validFrom": "2026-10-26T12:00:28.320Z"
+      "validFrom": "2026-10-27T21:07:45.806Z"
     },
     "performer": [
       {
@@ -3842,6 +4046,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/halloween-after-dark-nolimmits-zxxu6ofs2h"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Bash",
+    "description": "HighlightsHalloween Bash featuring DJ BhaveshBollywood beats and high-energy party anthemsSpooky Halloween-themed party atmosphereElectrifying music and a livel",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/e435272fd751877272f8b9f99fb610e9.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-10-31T23:59:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "TAMASHA The Bollywood Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "13/4, Hoodi Main Road, Graphite India Main Rd, Hoodi, KEB Colony, Signal, Mahadevapura, Bengaluru, Karnataka 560048, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.988474,
+        "longitude": 77.710337
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tipsy Bull- The Bar Exchange",
+      "url": "https://www.highape.com/bangalore/organisers/tipsy-bull-brewhouse--kitchen-f01acd85b5"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-bash-a4xoiy5ekv",
+      "validFrom": "2026-10-27T21:41:43.610Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Bhavesh",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-bhavesh"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-bash-a4xoiy5ekv"
   },
   {
     "@context": "https://schema.org",
@@ -3897,6 +4151,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Halloween Bash | Nolimmits Lounge",
+    "description": "HighlightsHalloween-themed party with a spooky, high-energy atmosphereFeaturing Liokhn for an electrifying musical experienceImmersive Halloween décor with a fi",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/eb64f94c2f5d292d7798448208b4737d.jpg"
+    ],
+    "startDate": "2026-11-01T20:00:00+05:30",
+    "endDate": "2026-11-02T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-bash-nolimmits-lounge-70icdyt3jb",
+      "validFrom": "2026-10-27T22:20:54.011Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Lijohn",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/dafed0f3/jilx93wkkpabfkfa9lz0.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-lijohn"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-bash-nolimmits-lounge-70icdyt3jb"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Carnival Ft NY",
     "description": "HighlightsHalloween Carnival with spooky décor and a thrilling party atmosphereFeaturing DJ NY, supported by DJ KramMusic genres: Bolly Tech, Bollywood and Comm",
     "image": [
@@ -3932,7 +4236,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-carnival-ft-ny-sooc8n344g",
-      "validFrom": "2026-10-26T11:09:11.546Z"
+      "validFrom": "2026-10-27T20:40:36.010Z"
     },
     "performer": [
       {
@@ -3989,7 +4293,7 @@
       "highPrice": "300",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-carnival-koramangala-c0zmncl4h7",
-      "validFrom": "2026-10-26T12:28:34.110Z"
+      "validFrom": "2026-10-27T21:36:58.381Z"
     },
     "performer": [
       {
@@ -4103,6 +4407,107 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Halloween Fest Day 1",
+    "description": "HighlightsHalloween celebration with spooky vibes and a thrilling party atmosphereDJ Guru live on the decksMusic featuring UK Punjabi, Bollywood and Commercial ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/fe3a2d6c2da3d3f991f632a0a6388f5e.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Ginza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "27, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933059,
+        "longitude": 77.613853
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ginza pub",
+      "url": "https://www.highape.com/bangalore/organisers/ginza"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-fest-day-1-j23tn97odx",
+      "validFrom": "2026-10-27T22:20:56.499Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Guru",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-guru-ygjy"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-fest-day-1-j23tn97odx"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Goom Gum",
+    "description": "HighlightsExperience a spine-chilling Halloween night with Goom GumDance to the best techno rhythms and electrifying electronic beatsShow off your most creative",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/fddabbda720402c7ade9317fdd78cbf6.jpg"
+    ],
+    "startDate": "2026-10-31T19:30:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Atlantis",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SY NO 38, 38/5, Sarjapur - Marathahalli Rd, Agara Village, 1st Block Koramangala, HSR Layout, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.923942,
+        "longitude": 77.640308
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SM EVENTS",
+      "url": "https://www.highape.com/bangalore/organisers/sm-events-ec99dd0bbd"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "249",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-goom-gum-kecxf1nqkt",
+      "validFrom": "2026-10-27T21:41:58.535Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Goom Gum",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/962bc234/qtoxuwx5sammtjyta8wi.jpg",
+        "url": "https://www.highape.com/bangalore/artists/goom-gum-92r66e5rp6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-goom-gum-kecxf1nqkt"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Graveyard Shift",
     "description": "HighlightsHalloween special at ZOZO The ClubFeaturing Zena and Mr MittalSpooky graveyard theme with haunting visuals and blood-red aestheticsHigh-energy beats a",
     "image": [
@@ -4139,7 +4544,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-graveyard-shift-612i3ruvdf",
-      "validFrom": "2026-10-26T13:05:25.511Z"
+      "validFrom": "2026-10-27T22:20:58.343Z"
     },
     "performer": [
       {
@@ -4246,7 +4651,7 @@
       "highPrice": "99",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-night-at-drava-pub-koramangala-iuffnltx18",
-      "validFrom": "2026-10-26T13:05:21.627Z"
+      "validFrom": "2026-10-27T21:06:40.804Z"
     },
     "performer": [
       {
@@ -4310,6 +4715,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Halloween Fest Day 2",
+    "description": "HighlightsHalloween night celebration at GinzaDJ Soul spinning UK Punjabi, Bollywood and Commercial hitsSpooky atmosphere with high-energy party vibesFree entry",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/d98329645172e51212fc6e3ce084d06e.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Ginza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "27, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933059,
+        "longitude": 77.613853
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ginza pub",
+      "url": "https://www.highape.com/bangalore/organisers/ginza"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-night-day-2-xpixtgczya",
+      "validFrom": "2026-10-27T22:21:00.235Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Soul Music",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-soul-music-7yag"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-night-day-2-xpixtgczya"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween Night",
     "description": "HighlightsSpooky Halloween-themed celebration at 153 Biere StreetThrilling chills and haunting surprisesKiller craft beers and delicious food plattersScary sigh",
     "image": [
@@ -4345,7 +4800,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-night-jlvciikndn",
-      "validFrom": "2026-10-26T13:05:26.325Z"
+      "validFrom": "2026-10-27T20:26:59.726Z"
     },
     "performer": [
       {
@@ -4447,7 +4902,7 @@
       "highPrice": "3199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-party-j4d7jfk4p6",
-      "validFrom": "2026-10-26T13:07:53.556Z"
+      "validFrom": "2026-10-27T21:55:57.533Z"
     },
     "performer": [
       {
@@ -4547,7 +5002,7 @@
       "highPrice": "4995",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-party-t3o2t6w1c5",
-      "validFrom": "2026-10-26T13:05:27.800Z"
+      "validFrom": "2026-10-27T21:56:30.780Z"
     },
     "performer": [
       {
@@ -4557,6 +5012,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/halloween-party-t3o2t6w1c5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Party",
+    "description": "HighlightsExperience a thrilling Halloween celebration with Bollywood glamourParticipate in an immersive murder mystery and uncover hidden cluesDress up in crea",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/97f1f5d70e10d9ec0e2bf2031b820e8d.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "URU - Whitefield",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Village Main Rd, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.961342,
+        "longitude": 77.732524
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lets Getaway",
+      "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "499",
+      "highPrice": "3199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-party-tti4o1dqfn",
+      "validFrom": "2026-10-27T21:41:33.095Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Lets Getaway",
+        "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-party-tti4o1dqfn"
   },
   {
     "@context": "https://schema.org",
@@ -4596,7 +5101,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-rush-h73wjga7o9",
-      "validFrom": "2026-10-26T13:05:22.596Z"
+      "validFrom": "2026-10-27T20:51:17.996Z"
     },
     "performer": [
       {
@@ -4607,6 +5112,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/halloween-rush-h73wjga7o9"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Takeover",
+    "description": "HighlightsHalloween Takeover with a dark, gothic party themeFeaturing DJ Jeevan liveImmersive horror-inspired atmosphere with dramatic visualsA night of music, ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/b1c5ee44158bffbcfff154af6e5d1848.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Lounge",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934792,
+        "longitude": 77.613928
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-takeover-cy84py0z8g",
+      "validFrom": "2026-10-27T20:43:59.511Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Nikz",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/99749ac4/gx4dy8zw4v1n60bnypzx.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nikz-2"
+      },
+      {
+        "@type": "Person",
+        "name": "Dj Jeevan",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/e47d45b5/yvwmadrmps7hlsiwgabh.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-jeevan-1"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-takeover-cy84py0z8g"
   },
   {
     "@context": "https://schema.org",
@@ -4658,6 +5219,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/halloween-takeover-ft-dj-kram-m4e79kp05o"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Theme Party",
+    "description": "HighlightsHalloween-themed party with a spooky, high-energy atmosphereFeaturing SKATE with Bollywood beats₹20,000 cash prize for the best outfitWin a champagne ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/34fa69b836c01f6725df66f8e204e710.jpg"
+    ],
+    "startDate": "2026-10-31T07:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "RISM THE LUXURY CLUB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93363,
+        "longitude": 77.614577
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rockvybe_events",
+      "url": "https://www.highape.com/bangalore/organisers/Rockvybe"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-theme-party-r830jydxkx",
+      "validFrom": "2026-10-27T22:21:05.044Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Skate",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/91933c53/jx21ssc5o0i8fjieqbfm.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-skate-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-theme-party-r830jydxkx"
   },
   {
     "@context": "https://schema.org",
@@ -4748,7 +5359,7 @@
       "highPrice": "99",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-uscj83vx5d",
-      "validFrom": "2026-10-26T11:27:24.314Z"
+      "validFrom": "2026-10-27T21:56:03.229Z"
     },
     "performer": [
       {
@@ -4798,7 +5409,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/haunted-carnival-halloween-at-hydra-ggksbgcpfz",
-      "validFrom": "2026-10-26T12:16:44.654Z"
+      "validFrom": "2026-10-27T21:38:56.404Z"
     },
     "performer": [
       {
@@ -4898,7 +5509,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/high-end-thursday-bollywood-night-ft-dj-kamra-dytde396pq",
-      "validFrom": "2026-10-26T13:05:21.989Z"
+      "validFrom": "2026-10-27T21:05:52.830Z"
     },
     "performer": [
       {
@@ -4948,7 +5559,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/hivagange-sunrise-trek-by-musafir-tribe-pqi5frctqb",
-      "validFrom": "2026-10-26T13:05:28.125Z"
+      "validFrom": "2026-10-27T22:21:07.569Z"
     },
     "performer": [
       {
@@ -4997,7 +5608,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/hod-friday-bollywood-party-krihqmdvi5",
-      "validFrom": "2026-10-26T12:16:28.662Z"
+      "validFrom": "2026-10-27T21:56:19.203Z"
     },
     "performer": [
       {
@@ -5047,7 +5658,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/holly-bolly-ladies-night-dj5z771m9p",
-      "validFrom": "2026-10-26T11:09:19.062Z"
+      "validFrom": "2026-10-27T21:32:09.605Z"
     },
     "performer": [
       {
@@ -5096,7 +5707,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/indo-euro-fusion-food-fest-tdb53skk75",
-      "validFrom": "2026-10-26T13:05:22.901Z"
+      "validFrom": "2026-10-27T21:05:37.228Z"
     },
     "performer": [
       {
@@ -5145,7 +5756,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/japanese-art-of-kintsugi-milaap-6c3tl7znp5",
-      "validFrom": "2026-10-26T13:05:29.357Z"
+      "validFrom": "2026-10-27T22:21:09.552Z"
     },
     "performer": [
       {
@@ -5194,7 +5805,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/japanese-kintsugi-odm13nh17q",
-      "validFrom": "2026-10-26T11:40:41.174Z"
+      "validFrom": "2026-10-27T21:05:40.317Z"
     },
     "performer": [
       {
@@ -5245,7 +5856,7 @@
       "highPrice": "12744",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/jive-in-hennur-kk4c7h9jzd",
-      "validFrom": "2026-10-26T13:05:33.712Z"
+      "validFrom": "2026-10-27T21:13:37.868Z"
     },
     "performer": [
       {
@@ -5345,7 +5956,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/kannadotsava-70-iubna3ytn6",
-      "validFrom": "2026-10-26T12:01:35.849Z"
+      "validFrom": "2026-10-27T21:27:54.391Z"
     },
     "performer": [
       {
@@ -5365,8 +5976,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/06/01/7a71fd16df695cf89eb948a070647527.jpg"
     ],
-    "startDate": "2026-10-26T17:00:00+05:30",
-    "endDate": "2026-10-26T17:30:00+05:30",
+    "startDate": "2026-10-28T06:30:00+05:30",
+    "endDate": "2026-10-28T07:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -5396,7 +6007,7 @@
       "highPrice": "15000",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/kanto-aerosports-bengalore-pb0a0y0a4f",
-      "validFrom": "2026-10-26T13:05:19.039Z"
+      "validFrom": "2026-10-27T20:37:04.145Z"
     },
     "performer": [
       {
@@ -5445,7 +6056,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/karaoke-evening-ft-adarsha-g95xpdvir9",
-      "validFrom": "2026-10-26T13:05:35.480Z"
+      "validFrom": "2026-10-27T20:37:56.259Z"
     },
     "performer": [
       {
@@ -5494,7 +6105,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/karaoke-evening-ft-joshika-9blpqxuuro",
-      "validFrom": "2026-10-26T13:05:35.107Z"
+      "validFrom": "2026-10-27T21:56:39.099Z"
     },
     "performer": [
       {
@@ -5513,8 +6124,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/25/a58574c478ecf373894e736cabf246fd.jpg"
     ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-27T22:30:00+05:30",
+    "startDate": "2026-10-29T20:00:00+05:30",
+    "endDate": "2026-10-29T22:30:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -5543,7 +6154,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/karaoke-nights-at-food-affair-tue-thu-0f7wv9faat",
-      "validFrom": "2026-10-26T13:05:22.866Z"
+      "validFrom": "2026-10-27T21:06:03.345Z"
     },
     "performer": [
       {
@@ -5592,7 +6203,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/karaoke-thursday-wt8j6ulwl6",
-      "validFrom": "2026-10-26T13:05:23.154Z"
+      "validFrom": "2026-10-27T21:05:55.375Z"
     },
     "performer": [
       {
@@ -5694,7 +6305,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/knife-painting-milaap-jij84w7xnq",
-      "validFrom": "2026-10-26T13:05:31.109Z"
+      "validFrom": "2026-10-27T22:21:14.444Z"
     },
     "performer": [
       {
@@ -5744,7 +6355,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/kunti-betta-sunrise-trek-with-water-activities-by-e2e-gaz9kla74r",
-      "validFrom": "2026-10-26T13:05:31.371Z"
+      "validFrom": "2026-10-27T22:21:15.115Z"
     },
     "performer": [
       {
@@ -5793,7 +6404,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/labubu-clay-doll-making-1qz19gbqln",
-      "validFrom": "2026-10-26T13:05:31.858Z"
+      "validFrom": "2026-10-27T22:21:15.710Z"
     },
     "performer": [
       {
@@ -5842,7 +6453,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/labubu-clay-keychain-xf5ck68jzz",
-      "validFrom": "2026-10-26T12:07:02.644Z"
+      "validFrom": "2026-10-27T22:21:16.226Z"
     },
     "performer": [
       {
@@ -5891,7 +6502,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/ladies-night-acesrgajdo",
-      "validFrom": "2026-10-26T12:15:28.996Z"
+      "validFrom": "2026-10-27T21:05:19.346Z"
     },
     "performer": [
       {
@@ -5992,7 +6603,7 @@
       "highPrice": "21999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/las-vegas-2027-ehsfz56eqj",
-      "validFrom": "2026-10-26T12:15:29.574Z"
+      "validFrom": "2026-10-27T21:55:00.637Z"
     },
     "performer": [
       {
@@ -6041,7 +6652,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/lighter-clay-hard-case-workshop-7kgyad6hmg",
-      "validFrom": "2026-10-26T12:38:23.847Z"
+      "validFrom": "2026-10-27T22:21:17.794Z"
     },
     "performer": [
       {
@@ -6090,7 +6701,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/lippan-art-workshop-1fu0kcvryo",
-      "validFrom": "2026-10-26T13:05:28.507Z"
+      "validFrom": "2026-10-27T21:38:12.257Z"
     },
     "performer": [
       {
@@ -6139,7 +6750,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/live-music-y07lvrso9d",
-      "validFrom": "2026-10-26T12:16:12.703Z"
+      "validFrom": "2026-10-27T21:56:53.397Z"
     },
     "performer": [
       {
@@ -6158,8 +6769,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/08/115a5772ac89285cb5348532ebd78aa2.jpg"
     ],
-    "startDate": "2026-10-27T14:00:00+05:30",
-    "endDate": "2026-10-27T17:00:00+05:30",
+    "startDate": "2026-10-28T14:00:00+05:30",
+    "endDate": "2026-10-28T17:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -6188,7 +6799,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/lunch-with-strangers-roev1wjb0c",
-      "validFrom": "2026-10-26T12:16:11.027Z"
+      "validFrom": "2026-10-27T21:05:33.773Z"
     },
     "performer": [
       {
@@ -6207,8 +6818,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/01/b873559d20a15deb3d153d1f761214b5.jpg"
     ],
-    "startDate": "2026-10-26T14:00:00+05:30",
-    "endDate": "2026-10-26T17:00:00+05:30",
+    "startDate": "2026-10-28T14:00:00+05:30",
+    "endDate": "2026-10-28T17:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -6237,7 +6848,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/lunch-with-strangers-tn5drz1iuf",
-      "validFrom": "2026-10-26T12:16:11.064Z"
+      "validFrom": "2026-10-27T20:57:56.714Z"
     },
     "performer": [
       {
@@ -6286,7 +6897,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/SoldOut",
       "url": "https://www.highape.com/bangalore/events/magical-bali-with-nusa-penida-and-gili-island-898vpoxydd",
-      "validFrom": "2026-10-26T13:05:36.481Z"
+      "validFrom": "2026-10-27T22:21:20.130Z"
     },
     "performer": [
       {
@@ -6335,7 +6946,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/makalidurga-sunrise-trek-by-e2e-nig8x35ygh",
-      "validFrom": "2026-10-26T12:49:06.688Z"
+      "validFrom": "2026-10-27T21:57:30.192Z"
     },
     "performer": [
       {
@@ -6384,7 +6995,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/malayalam-mass-night-m1xfw5yasy",
-      "validFrom": "2026-10-26T12:11:55.127Z"
+      "validFrom": "2026-10-27T21:33:26.149Z"
     },
     "performer": [
       {
@@ -6434,7 +7045,7 @@
       "highPrice": "199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/malluminati-32-0-the-night-starts-here-7mjroiyofo",
-      "validFrom": "2026-10-26T12:55:23.430Z"
+      "validFrom": "2026-10-27T20:23:56.164Z"
     },
     "performer": [
       {
@@ -6479,7 +7090,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/SoldOut",
       "url": "https://www.highape.com/bangalore/events/meghalaya-with-kaziranga-road-trip-christmas-and-new-year-0ha28i46zf",
-      "validFrom": "2026-10-26T13:05:35.979Z"
+      "validFrom": "2026-10-27T22:21:22.260Z"
     },
     "performer": [
       {
@@ -6533,7 +7144,7 @@
       "highPrice": "849",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/mehfil-mafia-night-game-night-u7qqolki5g",
-      "validFrom": "2026-10-26T13:05:34.079Z"
+      "validFrom": "2026-10-27T21:56:30.807Z"
     },
     "performer": [
       {
@@ -6583,7 +7194,7 @@
       "highPrice": "10",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/mid-week-thursday-vy992wlgln",
-      "validFrom": "2026-10-26T13:05:26.503Z"
+      "validFrom": "2026-10-27T21:06:00.389Z"
     },
     "performer": [
       {
@@ -6634,7 +7245,7 @@
       "highPrice": "1596",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/midnight-werewolf-game-night-y8xgnvbuv5",
-      "validFrom": "2026-10-26T11:46:20.674Z"
+      "validFrom": "2026-10-27T21:07:28.952Z"
     },
     "performer": [
       {
@@ -6732,7 +7343,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/moon-lamp-workshop-alj3jmoozk",
-      "validFrom": "2026-10-26T13:05:30.229Z"
+      "validFrom": "2026-10-27T21:48:05.726Z"
     },
     "performer": [
       {
@@ -6776,7 +7387,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/mysore-one-day-trip-from-bangalore-by-e2e-3kty8mgw60",
-      "validFrom": "2026-10-26T12:36:03.826Z"
+      "validFrom": "2026-10-27T21:09:13.897Z"
     },
     "performer": [
       {
@@ -6826,7 +7437,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/narayanagiri-sunrise-trek-with-water-activities-ypww4guoli",
-      "validFrom": "2026-10-26T12:11:30.215Z"
+      "validFrom": "2026-10-27T22:21:25.270Z"
     },
     "performer": [
       {
@@ -6876,7 +7487,7 @@
       "highPrice": "3999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/new-year-bash-2027-wbkx4g6icb",
-      "validFrom": "2026-10-26T13:05:35.448Z"
+      "validFrom": "2026-10-27T21:57:10.278Z"
     },
     "performer": [
       {
@@ -6926,7 +7537,7 @@
       "highPrice": "399",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/no-parking-fridays-halloween-special-2r7l959g5m",
-      "validFrom": "2026-10-26T12:23:17.836Z"
+      "validFrom": "2026-10-27T22:21:26.829Z"
     },
     "performer": [
       {
@@ -6946,8 +7557,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/21/e98e50b8b1fdc735f5d05a0fc3a9d9a3.jpg"
     ],
-    "startDate": "2026-10-26T19:30:00+05:30",
-    "endDate": "2026-10-27T00:30:00+05:30",
+    "startDate": "2026-11-02T19:30:00+05:30",
+    "endDate": "2026-11-03T00:30:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -6976,7 +7587,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/north-east-bollywood-night-hydpsh5e3b",
-      "validFrom": "2026-10-26T13:05:16.034Z"
+      "validFrom": "2026-10-27T21:43:08.880Z"
     },
     "performer": [
       {
@@ -6986,55 +7597,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/north-east-bollywood-night-hydpsh5e3b"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "North-East DJ Night",
-    "description": "HighlightsEvery Tuesday: North East DJ NightHigh-energy beats celebrating North-Eastern cultureCurated North East flavours and refreshing drinksA lively space t",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/15/5f8e21f19ef93acc48cc170f6e1c86dc.jpg"
-    ],
-    "startDate": "2026-10-27T18:30:00+05:30",
-    "endDate": "2026-10-27T23:59:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "153 Biere Street",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "153/1, Hagadur Main Road, Next to Prestige Ozone, Whitefield, Brooke Bond First Cross, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.96274,
-        "longitude": 77.750752
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Rajata Hospitality LLP",
-      "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/north-east-dj-night-ewbcm3wh7j",
-      "validFrom": "2026-10-26T12:17:03.128Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Rajata Hospitality LLP",
-        "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/north-east-dj-night-ewbcm3wh7j"
   },
   {
     "@context": "https://schema.org",
@@ -7075,7 +7637,7 @@
       "highPrice": "2997",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/oh-my-lampshade-workshop-74sz5vn83j",
-      "validFrom": "2026-10-26T13:05:27.077Z"
+      "validFrom": "2026-10-27T21:34:06.112Z"
     },
     "performer": [
       {
@@ -7124,7 +7686,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/perfume-making-qb1gcqdx2n",
-      "validFrom": "2026-10-26T11:40:36.568Z"
+      "validFrom": "2026-10-27T22:21:29.107Z"
     },
     "performer": [
       {
@@ -7223,7 +7785,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pisasu-party-tamil-dj-night-w24lkso1cg",
-      "validFrom": "2026-10-26T13:05:28.538Z"
+      "validFrom": "2026-10-27T21:08:48.469Z"
     },
     "performer": [
       {
@@ -7273,7 +7835,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pottery-painting-milaap-s0c69gjk1h",
-      "validFrom": "2026-10-26T13:05:28.081Z"
+      "validFrom": "2026-10-27T22:21:30.438Z"
     },
     "performer": [
       {
@@ -7322,7 +7884,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pouch-painting-0dw03gqxey",
-      "validFrom": "2026-10-26T13:05:31.419Z"
+      "validFrom": "2026-10-27T22:21:31.054Z"
     },
     "performer": [
       {
@@ -7469,7 +8031,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/rajarajeshwari-nagar-biggest-halloween-kannada-dj-party-lsoa71chy7",
-      "validFrom": "2026-10-26T11:51:00.196Z"
+      "validFrom": "2026-10-27T21:12:50.107Z"
     },
     "performer": [
       {
@@ -7521,7 +8083,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/reimagining-reforming-healthcare-in-india-m192z8usbe",
-      "validFrom": "2026-10-26T12:09:21.884Z"
+      "validFrom": "2026-10-27T21:56:10.667Z"
     },
     "performer": [
       {
@@ -7613,7 +8175,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/resin-beach-art-kkeo8qt24i",
-      "validFrom": "2026-10-26T13:05:25.040Z"
+      "validFrom": "2026-10-27T21:05:43.344Z"
     },
     "performer": [
       {
@@ -7663,7 +8225,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/resin-jhumka-workshop-vv0tytlqlg",
-      "validFrom": "2026-10-26T13:05:30.191Z"
+      "validFrom": "2026-10-27T22:21:33.471Z"
     },
     "performer": [
       {
@@ -7712,7 +8274,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/resin-pendant-workshop-72oaevrplk",
-      "validFrom": "2026-10-26T13:05:28.179Z"
+      "validFrom": "2026-10-27T22:21:33.996Z"
     },
     "performer": [
       {
@@ -7761,7 +8323,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/resin-ring-workshop-v594n8cwjr",
-      "validFrom": "2026-10-26T13:05:32.618Z"
+      "validFrom": "2026-10-27T22:21:34.611Z"
     },
     "performer": [
       {
@@ -7860,7 +8422,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-2ddrpkk51f",
-      "validFrom": "2026-10-26T13:05:29.443Z"
+      "validFrom": "2026-10-27T22:21:35.129Z"
     },
     "performer": [
       {
@@ -7910,7 +8472,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-i5wc2ozb34",
-      "validFrom": "2026-10-26T13:05:32.976Z"
+      "validFrom": "2026-10-27T22:21:35.687Z"
     },
     "performer": [
       {
@@ -7959,7 +8521,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-o1rpnge6wi",
-      "validFrom": "2026-10-26T13:05:35.527Z"
+      "validFrom": "2026-10-27T21:56:08.150Z"
     },
     "performer": [
       {
@@ -8008,7 +8570,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-rz51hu9np6",
-      "validFrom": "2026-10-26T13:05:34.793Z"
+      "validFrom": "2026-10-27T21:03:31.520Z"
     },
     "performer": [
       {
@@ -8058,7 +8620,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-tuwzx5f67k",
-      "validFrom": "2026-10-26T12:16:20.911Z"
+      "validFrom": "2026-10-27T21:56:31.232Z"
     },
     "performer": [
       {
@@ -8109,7 +8671,7 @@
       "highPrice": "1589",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/saturday-botc-game-evening-t8g9uk63bf",
-      "validFrom": "2026-10-26T12:15:29.373Z"
+      "validFrom": "2026-10-27T20:30:30.779Z"
     },
     "performer": [
       {
@@ -8208,7 +8770,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/saturday-let-s-party-at-happy-brew-koramangala-1o4j4wkoj6",
-      "validFrom": "2026-10-26T11:15:32.410Z"
+      "validFrom": "2026-10-27T21:08:00.673Z"
     },
     "performer": [
       {
@@ -8258,7 +8820,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/savanadurga-sunrise-trek-by-e2e-jp3bq1qylh",
-      "validFrom": "2026-10-26T13:05:30.283Z"
+      "validFrom": "2026-10-27T22:21:38.639Z"
     },
     "performer": [
       {
@@ -8307,7 +8869,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/shaandar-saturday-n0zrgkqlo2",
-      "validFrom": "2026-10-26T12:20:56.453Z"
+      "validFrom": "2026-10-27T21:07:36.992Z"
     },
     "performer": [
       {
@@ -8358,7 +8920,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/shivagange-sunrise-trek-d7zsnghr40",
-      "validFrom": "2026-10-26T11:12:59.966Z"
+      "validFrom": "2026-10-27T22:21:39.937Z"
     },
     "performer": [
       {
@@ -8408,7 +8970,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/skandagiri-sunrise-trek-by-e2e-kc5el2f5v6",
-      "validFrom": "2026-10-26T13:05:14.029Z"
+      "validFrom": "2026-10-27T22:21:40.547Z"
     },
     "performer": [
       {
@@ -8458,7 +9020,7 @@
       "highPrice": "399",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/social-mixer-bcp558p5ad",
-      "validFrom": "2026-10-26T13:05:30.514Z"
+      "validFrom": "2026-10-27T20:26:21.186Z"
     },
     "performer": [
       {
@@ -8508,7 +9070,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/soy-wax-candle-making-lotus-urli-pond-v5gcnm2xlz",
-      "validFrom": "2026-10-26T11:45:23.651Z"
+      "validFrom": "2026-10-27T21:27:59.818Z"
     },
     "performer": [
       {
@@ -8557,7 +9119,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/soy-wax-candle-making-workshop-p2av0lcnn9",
-      "validFrom": "2026-10-26T13:05:34.294Z"
+      "validFrom": "2026-10-27T22:21:42.290Z"
     },
     "performer": [
       {
@@ -8624,7 +9186,7 @@
     "name": "Spooky Pumpkin Bucket Workshop",
     "description": "HighlightsA fun-filled Halloween workshop designed for little creators.Let your child unleash their creativity by decorating their very own pumpkin bucket.Take ",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/23/0f0651dfe6a895fa7a13e2cf807dde99.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/11490d5f0e4552f7bf77c9ef548e9f5e.jpg"
     ],
     "startDate": "2026-10-31T16:00:00+05:30",
     "endDate": "2026-10-31T17:00:00+05:30",
@@ -8656,7 +9218,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/spooky-pumpkin-bucket-workshop-cy2f7e25gd",
-      "validFrom": "2026-10-26T13:05:15.422Z"
+      "validFrom": "2026-10-27T21:08:40.963Z"
     },
     "performer": [
       {
@@ -8706,7 +9268,7 @@
       "highPrice": "399",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/strangers-meet-h5pqevbiao",
-      "validFrom": "2026-10-26T12:16:06.548Z"
+      "validFrom": "2026-10-27T21:50:01.846Z"
     },
     "performer": [
       {
@@ -8755,7 +9317,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sufi-crcle-diwali-edition-w-tabish-pasha-at-bastian-garden-city-ftnufxhh8c",
-      "validFrom": "2026-10-26T12:16:03.575Z"
+      "validFrom": "2026-10-27T21:25:32.671Z"
     },
     "performer": [
       {
@@ -8805,7 +9367,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sugar-rush-saturdays-ehqm9r6caf",
-      "validFrom": "2026-10-26T12:30:12.019Z"
+      "validFrom": "2026-10-27T21:29:35.834Z"
     },
     "performer": [
       {
@@ -8855,7 +9417,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sugar-wednesday-ladies-night-m86jnqoi89",
-      "validFrom": "2026-10-26T12:16:44.568Z"
+      "validFrom": "2026-10-27T21:05:15.870Z"
     },
     "performer": [
       {
@@ -8905,7 +9467,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sunday-karaoke-evening-0vj9k7puj9",
-      "validFrom": "2026-10-26T13:05:34.856Z"
+      "validFrom": "2026-10-27T21:56:31.349Z"
     },
     "performer": [
       {
@@ -8955,7 +9517,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sunday-karaoke-evening-tz00jp3rzi",
-      "validFrom": "2026-10-26T13:05:33.444Z"
+      "validFrom": "2026-10-27T20:29:07.263Z"
     },
     "performer": [
       {
@@ -9005,7 +9567,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sunday-let-s-party-at-sky-garden-koramangala-vn4ewid3wr",
-      "validFrom": "2026-10-26T13:05:26.361Z"
+      "validFrom": "2026-10-27T21:17:09.822Z"
     },
     "performer": [
       {
@@ -9055,7 +9617,7 @@
       "highPrice": "19999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sunny-leone-live-halloween-party-finn-club-fmyf3fchgp",
-      "validFrom": "2026-10-26T11:10:55.968Z"
+      "validFrom": "2026-10-27T22:21:46.691Z"
     },
     "performer": [
       {
@@ -9154,7 +9716,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tamil-tashan-night-wbv8uwkcw7",
-      "validFrom": "2026-10-26T11:58:11.839Z"
+      "validFrom": "2026-10-27T21:58:03.682Z"
     },
     "performer": [
       {
@@ -9203,7 +9765,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tashan-thursday-hpaelsxp17",
-      "validFrom": "2026-10-26T12:59:24.995Z"
+      "validFrom": "2026-10-27T21:01:32.403Z"
     },
     "performer": [
       {
@@ -9220,68 +9782,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tashan-thursday-hpaelsxp17"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tease Tuesday I Ladies Night",
-    "description": "Highlights&nbsp;Featuring Roan, DJ Rohit&nbsp;Bollywood, Bollytech, BollyAfro soundsTease Tuesday – Let’s Paint the City PinkSpecial Girls Night vibesHigh-energ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/c6e4d0bace5264a38d0e62b428ee571c.jpg"
-    ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Happy Brew - Bar & Kitchen",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "5th, Block 40, 4th B Cross, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933806,
-        "longitude": 77.615336
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "EVENTUROUZ NETWORKS",
-      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/tease-tuesday-i-ladies-night-yfatgnsnbo",
-      "validFrom": "2026-10-26T12:16:12.525Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Roan",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/5e41209c/vouw2qkqwemxrd68a782.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-roan"
-      },
-      {
-        "@type": "Person",
-        "name": "DJ Rohit Barker",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/2abe8780/th0paxayljv4do2jce1e.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-rohit-barker"
-      },
-      {
-        "@type": "Person",
-        "name": "Dj Vee",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/2eceb344/v0pdyaeaszf9c8illxiz.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-vee"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/tease-tuesday-i-ladies-night-yfatgnsnbo"
   },
   {
     "@context": "https://schema.org",
@@ -9371,7 +9871,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/telugu-tashan-night-wgo2ppk3t7",
-      "validFrom": "2026-10-26T13:05:20.455Z"
+      "validFrom": "2026-10-27T21:58:19.474Z"
     },
     "performer": [
       {
@@ -9420,7 +9920,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/terrarium-workshop-s8m7agx225",
-      "validFrom": "2026-10-26T11:40:43.197Z"
+      "validFrom": "2026-10-27T21:05:38.828Z"
     },
     "performer": [
       {
@@ -9471,7 +9971,7 @@
       "highPrice": "54999",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/thailand-trip-with-full-moon-party-at-koh-samui-csbtvh45za",
-      "validFrom": "2026-10-26T13:05:36.206Z"
+      "validFrom": "2026-10-27T21:05:10.769Z"
     },
     "performer": [
       {
@@ -9520,7 +10020,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-awakening-ft-daaku-duo-13ljei7l1m",
-      "validFrom": "2026-10-26T12:54:29.853Z"
+      "validFrom": "2026-10-27T21:05:24.360Z"
     },
     "performer": [
       {
@@ -9570,7 +10070,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-candy-affair-6ui9hnc9f2",
-      "validFrom": "2026-10-26T12:15:46.941Z"
+      "validFrom": "2026-10-27T21:11:41.337Z"
     },
     "performer": [
       {
@@ -9581,6 +10081,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/the-candy-affair-6ui9hnc9f2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Clown’s Curse: Halloween Night",
+    "description": "HighlightsStep into a chilling Halloween experience filled with sinister clown-themed decor.Explore a haunted carnival atmosphere with eerie lighting and spooky",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/8464d3b1b4d5eecb68c71bbb37be2443.png"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "XYLON Bar & Kitchen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6th Floor, 152/5, Neeladri Rd, Neeladri Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.841519,
+        "longitude": 77.645084
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-clown-s-curse-halloween-night-z8xe3lfglx",
+      "validFrom": "2026-10-27T21:41:45.649Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-clown-s-curse-halloween-night-z8xe3lfglx"
   },
   {
     "@context": "https://schema.org",
@@ -9620,7 +10169,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-devil-walks-in-ft-lost-soul-halloween-edition-skk75k4pxt",
-      "validFrom": "2026-10-26T13:05:23.449Z"
+      "validFrom": "2026-10-27T20:51:08.288Z"
     },
     "performer": [
       {
@@ -9720,7 +10269,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-night-shift-saturday-ladies-night-vm9rfe5b8m",
-      "validFrom": "2026-10-26T13:05:22.017Z"
+      "validFrom": "2026-10-27T21:08:12.503Z"
     },
     "performer": [
       {
@@ -9769,7 +10318,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-pei-party-tamil-night-ukrucl614c",
-      "validFrom": "2026-10-26T12:15:09.505Z"
+      "validFrom": "2026-10-27T21:56:07.694Z"
     },
     "performer": [
       {
@@ -9871,7 +10420,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-wild-wednesday-night-xsmajupuav",
-      "validFrom": "2026-10-26T12:16:13.420Z"
+      "validFrom": "2026-10-27T21:05:21.758Z"
     },
     "performer": [
       {
@@ -9882,6 +10431,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/the-wild-wednesday-night-xsmajupuav"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "This Halloween, Were Playing With fire",
+    "description": "HighlightsExperience a wicked Halloween night at Cleo’s Up Top.Featuring ARIA with electrifying beats and high-energy music.Immerse yourself in dark vibes and a",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/59e47d94dac3f35dafc30aee5fb7e511.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T00:45:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Cleo's Up Top",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th floor, Manyata Business Park, opposite Embassy, Vyalikaval HBCS Layout, Nagavara, Bengaluru, Karnataka 560045, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.040765,
+        "longitude": 77.619849
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cleo's Uptop",
+      "url": "https://www.highape.com/bangalore/organisers/white-barrels-hospitality-pvt-ltd-ieho9"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/this-halloween-we-re-playing-with-fire-jjqjoq1d4q",
+      "validFrom": "2026-10-27T22:21:53.264Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Aria",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/1d553060/a4jhnyzncmmclng8dtzz.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-aria"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/this-halloween-we-re-playing-with-fire-jjqjoq1d4q"
   },
   {
     "@context": "https://schema.org",
@@ -9921,7 +10520,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/thursday-lets-party-at-vibe-koramangala-lv5ekbdkoe",
-      "validFrom": "2026-10-26T11:11:16.819Z"
+      "validFrom": "2026-10-27T21:05:49.148Z"
     },
     "performer": [
       {
@@ -10069,7 +10668,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tipsy-bull-halloween-bash-2026-ft-dj-esha-52d04qnkpc",
-      "validFrom": "2026-10-26T12:15:53.385Z"
+      "validFrom": "2026-10-27T21:59:12.457Z"
     },
     "performer": [
       {
@@ -10088,8 +10687,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/22/e25237776c9134426fda5a6c7f41ac82.jpg"
     ],
-    "startDate": "2026-10-27T19:30:00+05:30",
-    "endDate": "2026-10-28T00:30:00+05:30",
+    "startDate": "2026-11-03T19:30:00+05:30",
+    "endDate": "2026-11-04T00:30:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10118,7 +10717,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tipsy-tuesday-wvpfqz9bxr",
-      "validFrom": "2026-10-26T13:05:17.052Z"
+      "validFrom": "2026-10-27T20:33:28.690Z"
     },
     "performer": [
       {
@@ -10167,7 +10766,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tissue-art-workshop-wda8c7abes",
-      "validFrom": "2026-10-26T11:33:54.975Z"
+      "validFrom": "2026-10-27T22:00:02.417Z"
     },
     "performer": [
       {
@@ -10216,7 +10815,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tollywood-takiles-8f4azvdqc5",
-      "validFrom": "2026-10-26T13:05:20.925Z"
+      "validFrom": "2026-10-27T20:24:10.018Z"
     },
     "performer": [
       {
@@ -10266,7 +10865,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tote-bag-painting-milaap-rljp3h3hvi",
-      "validFrom": "2026-10-26T13:05:30.680Z"
+      "validFrom": "2026-10-27T21:41:15.625Z"
     },
     "performer": [
       {
@@ -10334,8 +10933,8 @@
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/09/f41cc3e5920f9f3614f024819d0f41c5.jpg"
     ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
+    "startDate": "2026-11-03T20:00:00+05:30",
+    "endDate": "2026-11-04T01:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10364,7 +10963,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tuesday-let-s-party-at-vibe-koramangala-hsosp3s3ly",
-      "validFrom": "2026-10-26T11:34:31.445Z"
+      "validFrom": "2026-10-27T22:00:03.408Z"
     },
     "performer": [
       {
@@ -10378,62 +10977,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tuesday Northeast Night",
-    "description": "HighlightsNortheast-themed Tuesday night at Queen The ClubCurated Northeast-inspired festive ambienceHigh-energy club music and nightlife experienceFree drinks ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/e3679afba3df127ab6f57464eedeb47f.jpg"
-    ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Queen - The Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.934518,
-        "longitude": 77.616246
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban NS Events",
-      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/tuesday-northeast-night-gn2rumon93",
-      "validFrom": "2026-10-26T22:44:07.398Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Urban NS Events",
-        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/tuesday-northeast-night-gn2rumon93"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Tuesday Trends",
     "description": "Highlights DJ spinning the hottest Bollywood, Punjabi, and Bollytech tracksHigh-energy Tuesday nightlife experience with premium party vibesComplimentary drinks",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/16/8a89e4b3e3d5259dfdaae2ee63d030e3.jpg"
     ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T00:40:00+05:30",
+    "startDate": "2026-11-03T20:00:00+05:30",
+    "endDate": "2026-11-04T00:40:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10462,7 +11012,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tuesday-trendz-u2k1tmqsqj",
-      "validFrom": "2026-10-26T12:20:58.852Z"
+      "validFrom": "2026-10-27T22:00:16.372Z"
     },
     "performer": [
       {
@@ -10476,63 +11026,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tuesday Twist",
-    "description": "&nbsp;HighlightsTuesday midweek party vibesDJ Firex live on decksBollywood, commercial and club anthemsNeon-lit high-energy atmosphereFree drinks for ladiesBrea",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/19/6fbf384f88c9dc9852ddc75c97772a81.jpg"
-    ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Toca Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "122/A, 105, 1st A Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.934957,
-        "longitude": 77.61598
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toca",
-      "url": "https://www.highape.com/bangalore/organisers/toca"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/tuesday-twist-ku9kj3azb7",
-      "validFrom": "2026-10-26T13:13:41.732Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Firex",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/tuesday-twist-ku9kj3azb7"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Turn Up Tuesday ",
     "description": "HighlightsDJ Night ft DJ CeezNon-Stop MusicBollywood Punjabi mix&nbsp;NightDance FloorLadies Night - Free Drinks For LadiesGreat AmbianceMouthwatering Appetizer",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/04/07/e195e020e6485a4d81fac3183d4629b3.jpg"
     ],
-    "startDate": "2026-10-27T20:00:00+05:30",
-    "endDate": "2026-10-28T01:00:00+05:30",
+    "startDate": "2026-11-03T20:00:00+05:30",
+    "endDate": "2026-11-04T01:00:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -10561,7 +11061,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/turn-up-tuesday-wyj6esfvnh",
-      "validFrom": "2026-10-26T13:05:14.895Z"
+      "validFrom": "2026-10-27T22:00:29.720Z"
     },
     "performer": [
       {
@@ -10611,7 +11111,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-nandini-o1ew5qoykz",
-      "validFrom": "2026-10-26T13:05:34.668Z"
+      "validFrom": "2026-10-27T22:00:40.924Z"
     },
     "performer": [
       {
@@ -10661,7 +11161,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-pavan-260691fzcn",
-      "validFrom": "2026-10-26T12:40:03.287Z"
+      "validFrom": "2026-10-27T22:00:43.508Z"
     },
     "performer": [
       {
@@ -10711,7 +11211,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-pavan-ixi1kcl2pk",
-      "validFrom": "2026-10-26T12:41:19.596Z"
+      "validFrom": "2026-10-27T20:43:15.960Z"
     },
     "performer": [
       {
@@ -10761,7 +11261,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-pawan-kotaian-4idesil6yr",
-      "validFrom": "2026-10-26T13:05:29.258Z"
+      "validFrom": "2026-10-27T20:50:56.540Z"
     },
     "performer": [
       {
@@ -10810,7 +11310,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/unplugged-saturday-ft-shreyas-6ei9mux0wo",
-      "validFrom": "2026-10-26T12:40:41.114Z"
+      "validFrom": "2026-10-27T21:12:24.481Z"
     },
     "performer": [
       {
@@ -10861,7 +11361,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/uttari-betta-sunrise-trek-with-water-activities-toqpp0veh3",
-      "validFrom": "2026-10-26T11:55:34.231Z"
+      "validFrom": "2026-10-27T22:22:00.912Z"
     },
     "performer": [
       {
@@ -10910,7 +11410,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/vision-board-workshop-u8dm7zip64",
-      "validFrom": "2026-10-26T11:40:39.749Z"
+      "validFrom": "2026-10-27T21:05:45.639Z"
     },
     "performer": [
       {
@@ -11060,7 +11560,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/wednesday-pool-party-ladies-night-rism-club-dit0ux9d4w",
-      "validFrom": "2026-10-26T12:01:32.385Z"
+      "validFrom": "2026-10-27T21:05:25.955Z"
     },
     "performer": [
       {
@@ -11111,7 +11611,7 @@
       "highPrice": "15930",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/west-coast-beignners-npviz4u83l",
-      "validFrom": "2026-10-26T13:05:33.056Z"
+      "validFrom": "2026-10-27T21:56:31.209Z"
     },
     "performer": [
       {
@@ -11160,7 +11660,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/whiplash-arnima-delivers-live-sound-at-hod-club-um93zuwk77",
-      "validFrom": "2026-10-26T13:13:48.510Z"
+      "validFrom": "2026-10-27T21:05:32.871Z"
     },
     "performer": [
       {
@@ -11267,7 +11767,7 @@
       "highPrice": "1199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/wip-wednesdays-2utudc5fsr",
-      "validFrom": "2026-10-26T13:11:08.377Z"
+      "validFrom": "2026-10-27T21:05:28.317Z"
     },
     "performer": [
       {
@@ -11316,7 +11816,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/wonderland-pre-halloween-0eybas2esi",
-      "validFrom": "2026-10-26T13:05:19.736Z"
+      "validFrom": "2026-10-27T20:49:33.392Z"
     },
     "performer": [
       {
@@ -11416,7 +11916,7 @@
       "highPrice": "950",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/yara-x-glosolalia-j8cht5p21u",
-      "validFrom": "2026-10-26T12:15:36.989Z"
+      "validFrom": "2026-10-27T22:22:04.395Z"
     },
     "performer": [
       {

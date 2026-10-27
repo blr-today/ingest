@@ -150,7 +150,36 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Whimsical Wednesday with Improv Lore",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 499,
+      "lowPrice": 399,
+      "offerCount": 2,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/SoldOut",
+          "availabilityEnds": "2026-11-04T14:30:00.000Z",
+          "name": "Early Bird ",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/whimsical-wednesday-with-improv-lore-buy-tickets",
+          "validFrom": "2026-03-26T08:52:10.042Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-11-04T16:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 499,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/whimsical-wednesday-with-improv-lore-buy-tickets",
+          "validFrom": "2026-03-26T08:52:10.042Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/whimsical-wednesday-with-improv-lore-buy-tickets"
+    },
     "sameAs": [
       "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
     ],
@@ -438,6 +467,46 @@
   {
     "@context": "https://schema.org",
     "@type": "SocialEvent",
+    "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!",
+    "endDate": "2026-11-01T03:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/2X/6/6079e86171702fd61e17063ff6b57dda81810e8b.jpeg",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Halloween Screening of The Exorcist (1973) with Cinema Next Door",
+    "offers": null,
+    "sameAs": [
+      "https://district.in/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026/event"
+    ],
+    "startDate": "2026-10-31T23:45:00.000+05:30",
+    "url": "https://underline.center/t/halloween-screening-of-the-exorcist-1973-with-cinema-next-door/901"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
     "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!\n\nWho are ReRoll Board Games?\n\nWe’re a couple of friends who are trying to build a community around tabletop gaming in Bangalore. We’ve been doing this part time for almost 8 years now.\n\nYou can follow us on Instagram at \n@ReRollBLR\n and \njoin our WhatsApp group\n.\n\nCome solo, with a date, or in a group—we’ve got something for everyone!",
     "endDate": "2026-10-31T23:00:00.000+05:30",
     "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -593,65 +662,6 @@
     ],
     "startDate": "2026-10-31T18:00:00.000+05:30",
     "url": "https://underline.center/t/magic-the-gathering-with-reroll-board-games/130"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!",
-    "endDate": "2026-10-31T03:00:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/2X/6/6079e86171702fd61e17063ff6b57dda81810e8b.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Halloween Screening of The Exorcist (1973) with Cinema Next Door",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 249,
-      "lowPrice": 249,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-30T18:30:00.000Z",
-          "name": "Early Bird",
-          "price": 249,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets",
-          "validFrom": "2026-10-26T12:44:55.169Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets"
-    },
-    "sameAs": [
-      "https://district.in/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026/event"
-    ],
-    "startDate": "2026-10-31T00:00:00.000+05:30",
-    "url": "https://underline.center/t/halloween-screening-of-the-exorcist-1973-with-cinema-next-door/901"
   },
   {
     "@context": "https://schema.org",
@@ -901,7 +911,7 @@
       "offers": [
         {
           "@type": "Offer",
-          "availability": "http://schema.org/InStock",
+          "availability": "http://schema.org/SoldOut",
           "availabilityEnds": "2026-10-28T16:30:00.000Z",
           "name": "Regular Ticket",
           "price": 499,
@@ -987,74 +997,5 @@
     ],
     "startDate": "2026-10-28T19:00:00.000+05:30",
     "url": "https://underline.center/t/after-hours-with-eleven-am-club/583"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "Who is Cinema Next Door?\n\nA space for every kind of movie lover!\n\nWhether you’re new to films or a veteran, want to discover new favorites or rewatch old ones— this is the space for you to do it all. After the screening, you can join in the group discussion about the film or just stick around for the vibes.\n\nFriends, fun, films… that’s what Cinema Next Door is about!",
-    "endDate": "2026-10-27T22:30:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/2X/b/bc076e90bd6873358897b948f3fcd64341b7bd8b.jpeg",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Screening of Chicken For Linda! (2023) with Cinema Next Door",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 299,
-      "lowPrice": 249,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-27T14:00:00.000Z",
-          "name": "Early Bird",
-          "price": 249,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/screening-of-chicken-for-linda-2023-with-cinema-next-door-oct27-2026-buy-tickets",
-          "validFrom": "2026-10-20T11:43:16.085Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-27T14:00:00.000Z",
-          "name": "Regular Ticket",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/screening-of-chicken-for-linda-2023-with-cinema-next-door-oct27-2026-buy-tickets",
-          "validFrom": "2026-10-20T11:43:16.085Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/screening-of-chicken-for-linda-2023-with-cinema-next-door-oct27-2026-buy-tickets"
-    },
-    "sameAs": [
-      "https://www.district.in/screening-of-chicken-for-linda-2023-with-cinema-next-door-oct27-2026/event"
-    ],
-    "startDate": "2026-10-27T19:30:00.000+05:30",
-    "url": "https://underline.center/t/screening-of-chicken-for-linda-2023-with-cinema-next-door/900"
   }
 ]
