@@ -1588,45 +1588,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Corporate Majdoor By Anmol Garg",
-    "image": "https://cdn-az.allevents.in/events1/banners/d778ea50-cd8b-11f1-a131-07ac36c3bea1-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1792613598",
-    "startDate": "2026-11-01T19:00:00+05:30",
-    "endDate": "2026-11-01T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/corporate-majdoor-by-anmol-garg/3900030865296627",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Banter Comedy Club: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "ASK Complex, 177/1, Kammanahalli Main Road, Below Cashify, St Thomas Town, Ramaiah Layout, Kammanahalli, Bengaluru, Karnataka 560084, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0165",
-        "longitude": "77.6361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Corporate Majdoor is a stand-up comedy show by Anmol Garg, popularly known as Corporate Babaji.From endless meetings and office politics to appraisals and leave requests, Anmol talks about the everyday experiences that corporate employees know all too well.With personal stories and relatable observa",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-21",
-        "availabilityEnds": "2026-11-01T20:30:00+05:30",
-        "validFrom": "2026-10-21",
-        "url": "https://allevents.in/bangalore/corporate-majdoor-by-anmol-garg/3900030865296627"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "CAD &amp; 3D Printing Classes for Kids",
     "image": "https://cdn-az.allevents.in/events7/banners/bab5b960-d0ac-11f1-958f-31ad8555babb-rimg-w1200-h600-dc480888-gmir.jpg?v=1792957571",
     "startDate": "2026-11-01T12:00:00+05:30",
@@ -2596,6 +2557,45 @@
         "availabilityEnds": "2026-11-21T21:30:00+05:30",
         "validFrom": "2026-10-27",
         "url": "https://allevents.in/bangalore/vishnu-pai-live/3900030919021740"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Night ft. DJ Sandra at The Pallet by ABV",
+    "image": "https://cdn-az.allevents.in/events8/banners/65fece30-d1f0-11f1-bfc5-859d560c33db-rimg-w1200-h600-dc080808-gmir.jpg?v=1793096585",
+    "startDate": "2026-10-31T22:00:00+05:30",
+    "endDate": "2026-10-31T23:59:00+05:30",
+    "url": "https://allevents.in/bangalore/halloween-night-ft-dj-sandra-at-the-pallet-by-abv/3900030921052306",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "ABV - Artisanal Bier Village: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ABV, Previously known as The Pallet Brewhouse and Kitchen, Hoodi, Whitefield Main Road, Thigalarapalya, Mahadevpura, Krishnarajapuram, Bengaluru, Karnataka 560048, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9918",
+        "longitude": "77.7199"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Possess the dance floor. Halloween proper lands at The Pallet by ABV, and DJ Sandra is taking the decks to run the floor till late. Pumpkins, candles, smoke and a room full of costumes. Come dressed to haunt, dazzle or unsettle, and expect a set that climbs all night, with the lights and sound turne",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-27",
+        "availabilityEnds": "2026-10-31T23:59:00+05:30",
+        "validFrom": "2026-10-27",
+        "url": "https://allevents.in/bangalore/halloween-night-ft-dj-sandra-at-the-pallet-by-abv/3900030921052306"
       }
     ]
   },
