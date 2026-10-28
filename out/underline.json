@@ -259,7 +259,36 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "And Then?: An Improv Show by Improv Lore",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 399,
+      "lowPrice": 299,
+      "offerCount": 2,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T19:30:00.000Z",
+          "name": "Early Bird",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
+          "validFrom": "2026-07-22T10:05:53.630Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-11-01T15:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 399,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
+          "validFrom": "2026-07-22T10:05:53.630Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets"
+    },
     "sameAs": [
       "https://district.in/and-then-an-improv-show-by-improv-lore-jul26-2026/event"
     ],
@@ -497,7 +526,36 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Halloween Screening of The Exorcist (1973) with Cinema Next Door",
-    "offers": null,
+    "offers": {
+      "@type": "AggregateOffer",
+      "highPrice": 299,
+      "lowPrice": 249,
+      "offerCount": 2,
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T18:15:00.000Z",
+          "name": "Early Bird",
+          "price": 249,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets",
+          "validFrom": "2026-10-26T12:44:55.169Z"
+        },
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "availabilityEnds": "2026-10-31T21:30:00.000Z",
+          "name": "Regular Ticket",
+          "price": 299,
+          "priceCurrency": "INR",
+          "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets",
+          "validFrom": "2026-10-26T12:44:55.169Z"
+        }
+      ],
+      "priceCurrency": "INR",
+      "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets"
+    },
     "sameAs": [
       "https://district.in/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026/event"
     ],
