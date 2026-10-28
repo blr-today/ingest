@@ -1106,6 +1106,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Big Bollywood Halloween ",
+    "description": "HighlightsHalloween night party at PAPI – The Cocktail ClubFeaturing celebrity DJ SonalSpooky beats and high-energy party musicHalloween-themed nightlife experi",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/28/29e742e7deb46e2537afd0b9b044c78e.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-11-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "PAPI The Cocktail Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SY NO 153/1, HIMAGIRI PLAZA, Doddathoguru, Electronic City Phase I, Electronic City, Bengaluru, Doddathoguru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.843271,
+        "longitude": 77.644568
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Vibe Networks",
+      "url": "https://www.highape.com/bangalore/organisers/atifkhan-8613985ec4"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/big-bollywood-halloween-36xaix60k6",
+      "validFrom": "2026-10-28T12:52:47.889Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Sonal",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/04/18/0ff827579d2b511ab9f77221666cb59e.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-sonal-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/big-bollywood-halloween-36xaix60k6"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Big Bollywood Halloween Night ",
     "description": "HighlightsHalloween-themed club setupBollywood and Punjabi music all nightDJ OPPOZIT on the decksHalloween special at BADMAASH, KoramangalaDress up in your favo",
     "image": [
@@ -3010,6 +3060,63 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Exclusive Telugu Night Tolly Jalsa",
+    "description": "HighlightsExclusive Telugu Night featuring electrifying Telugu beats and a vibrant party atmosphereFeaturing DJ Sandy with supporting sets by DJ KramEnjoy high-",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/28/1d9f16f892231e6f6aaa7879a8d90f81.jpg"
+    ],
+    "startDate": "2026-11-01T20:00:00+05:30",
+    "endDate": "2026-11-02T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PANACEA BLR",
+      "url": "https://www.highape.com/bangalore/organisers/vysakh-b-ra-at5m1"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/exclusive-telugu-night-tolly-jalsa-smg5mwmfwc",
+      "validFrom": "2026-10-28T11:58:38.703Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "dj kram",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-kram-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Dj Sandy - Bangalore",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-sandy-bangalore"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/exclusive-telugu-night-tolly-jalsa-smg5mwmfwc"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Finch After Dark",
     "description": "Highlights Halloween costume night at Jetlag Bar and GrillHigh-energy sets by Psy Walker, Vicky, Spiky and SumyaaBest Costume of the Night wins a special surpri",
     "image": [
@@ -3075,61 +3182,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/finch-after-dark-ocx85q4koh"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Foam Island-Halloween Edition",
-    "description": "HighlightsBengaluru’s first open-air foam festival – Halloween editionImmersive 360-degree foam productionHigh-energy music and non-stop beatsSpooky Halloween v",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/16/6db1650e5aeb8bf735e45785eaeb82b3.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/16/8eca58070f435a058f7fa918720cf135.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/16/2f94e09fd16af193d90dcc1ffc22850c.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/16/41a28565d5ab91ca109561f93c34b293.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/16/c4d5165e216d848e224992eca8c10d05.jpg",
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/16/0ca4c0f99aa09aa14a0b219b6fe793c4.jpg"
-    ],
-    "startDate": "2026-10-31T19:00:00+05:30",
-    "endDate": "2026-11-01T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard by Marriott Bengaluru Hebbal",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2, 55, Outer Ring Rd, Jogappa Layout, Nagavara, Bengaluru, Karnataka 560045, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.042874,
-        "longitude": 77.609455
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hypewaveculture",
-      "url": "https://www.highape.com/bangalore/organisers/hypewaveculture-q70d3"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "149",
-      "highPrice": "299",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/foam-island-halloween-edition-oftz76kj9d",
-      "validFrom": "2026-10-27T20:23:10.544Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Hypewaveculture",
-        "url": "https://www.highape.com/bangalore/organisers/hypewaveculture-q70d3"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/foam-island-halloween-edition-oftz76kj9d"
   },
   {
     "@context": "https://schema.org",
@@ -4867,6 +4919,55 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Halloween Party",
+    "description": "HighlightsHalloween-themed party with spooky décor and a vibrant atmosphereBollywood x EDM beats all night longFree drinks for ladiesFree entry for all, with co",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/28/3e6746d715735ae0572da8970eca78f9.jpg"
+    ],
+    "startDate": "2026-11-01T20:00:00+05:30",
+    "endDate": "2026-11-02T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Drava",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "104, 1st main, 5th Block, 3rd Floor JATTI BUILDING, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934624,
+        "longitude": 77.615748
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atabb Apromotions",
+      "url": "https://www.highape.com/bangalore/organisers/tabb-fashion-event-398475c83b"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/halloween-party-gyaaoxmyas",
+      "validFrom": "2026-10-28T12:57:54.172Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Atabb Apromotions",
+        "url": "https://www.highape.com/bangalore/organisers/tabb-fashion-event-398475c83b"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/halloween-party-gyaaoxmyas"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Halloween Party",
     "description": "HighlightsExperience a thrilling Halloween celebration with Bollywood glamourParticipate in an immersive murder mystery and uncover hidden cluesDress up in crea",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/97f1f5d70e10d9ec0e2bf2031b820e8d.jpg"
@@ -4952,7 +5053,7 @@
       "highPrice": "8000",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-party-rdm2vuvhom",
-      "validFrom": "2026-10-27T12:19:16.934Z"
+      "validFrom": "2026-10-28T13:03:02.114Z"
     },
     "performer": [
       {
@@ -5172,7 +5273,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Halloween Takeover Ft DJ Kram",
+    "name": "Exclusive Tamil Night — Halloween Takeover",
     "description": "HighlightsExclusive Tamil Halloween night with a spooky party atmosphereFeaturing DJ Harly with supporting sets by DJ KramEnjoy Tamil beats and energetic dance-",
     "image": [
       "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/27/04c66d39fd1aa50e90bc373711bae1dc.jpg"
@@ -5208,7 +5309,7 @@
       "highPrice": "199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-takeover-ft-dj-kram-m4e79kp05o",
-      "validFrom": "2026-10-27T12:12:25.191Z"
+      "validFrom": "2026-10-28T12:46:43.613Z"
     },
     "performer": [
       {
@@ -5308,7 +5409,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/halloween-unleashed-029w3zhkin",
-      "validFrom": "2026-10-27T11:59:53.161Z"
+      "validFrom": "2026-10-28T11:19:05.189Z"
     },
     "performer": [
       {
@@ -7736,7 +7837,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/pink-paradise-divas-midnight-glam-fmnp1izpc0",
-      "validFrom": "2026-10-27T11:22:01.669Z"
+      "validFrom": "2026-10-28T11:11:09.991Z"
     },
     "performer": [
       {
@@ -8934,6 +9035,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Sin City Ft HRX x ART",
+    "description": "HighlightsStep into a dark, gothic-inspired nightlife experience at Magique.Featuring HRX and ART on music duties.Experience a powerful mix of beats, intense rh",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/28/66f4cd6ac5b574678916f1383c28b17b.jpg"
+    ],
+    "startDate": "2026-10-30T20:00:00+05:30",
+    "endDate": "2026-10-31T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Magique",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.937676,
+        "longitude": 77.626986
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RichBoyz",
+      "url": "https://www.highape.com/bangalore/organisers/richboyz"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sin-city-ft-hrx-x-art-pgxwkw1ldc",
+      "validFrom": "2026-10-28T13:01:37.882Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "HRX",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/hrx-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sin-city-ft-hrx-x-art-pgxwkw1ldc"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Skandagiri Sunrise Trek By e2e",
     "description": "HighlightsNight trek experience leading to a stunning sunrise above the cloudsPanoramic views from a height of 1,450 metersExplore ancient fort ruins and temple",
     "image": [
@@ -9031,6 +9182,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/social-mixer-bcp558p5ad"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sound Of Magique | Haynah",
+    "description": "HighlightsDJ Night ft&nbsp;Haynah, Flowyy and TriadNonstop MusicTechnoGreat AmbienceMouthwatering AppetizersCocktails&nbsp;and&nbsp;MocktailsMagique, Koramangal",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/28/48b4dfc5d2756afce85c826b9174f65e.jpg"
+    ],
+    "startDate": "2026-11-01T20:00:00+05:30",
+    "endDate": "2026-11-02T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Magique",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.937676,
+        "longitude": 77.626986
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RichBoyz",
+      "url": "https://www.highape.com/bangalore/organisers/richboyz"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sound-of-magique-haynah-0f4vom3b5o",
+      "validFrom": "2026-10-28T13:01:38.774Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Haynah",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/15/2e786296045c30f0b4b0c6884b849340.jpg",
+        "url": "https://www.highape.com/bangalore/artists/haynah-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Triad",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/b4b039a4/jus38kbiz5otfov4juel.jpg",
+        "url": "https://www.highape.com/bangalore/artists/triad-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sound-of-magique-haynah-0f4vom3b5o"
   },
   {
     "@context": "https://schema.org",
@@ -10230,6 +10437,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/the-halloween-story-9elteg06r4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Halloween Takeover ",
+    "description": "HighlightsHalloween-themed party with spooky decor and a vibrant nightlife atmosphereHosted by the sensational duo Shweta &amp; PalakMusic by Sunny ZahirDJ beat",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/28/34177aace1fe622a93058d49d1e8f032.jpg"
+    ],
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "endDate": "2026-10-31T23:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "KICO Community, Cocktail, Coffee",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Marks Square, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.973732,
+        "longitude": 77.601705
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Drawing Room Club",
+      "url": "https://www.highape.com/bangalore/organisers/the-drawing-room-club-gkv1n"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "999",
+      "highPrice": "1599",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-halloween-takeover-fx0undi4f1",
+      "validFrom": "2026-10-28T12:11:08.104Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dj Sunny Zahir",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/a674cb76/rcxebnjdvbofyz2fq5yt.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-sunny-zahir"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-halloween-takeover-fx0undi4f1"
   },
   {
     "@context": "https://schema.org",
