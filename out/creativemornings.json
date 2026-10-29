@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CreativeMornings: Devotion Across the Arts",
+    "startDate": "2026-11-15T04:30:00Z",
+    "endDate": "2026-11-15T06:30:00Z",
+    "image": "https://creativemornings.com/images/rainbow-logo.png",
+    "offers": [
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "price": 0,
+        "priceCurrency": "USD",
+        "validFrom": "2026-10-29T03:30:00Z",
+        "url": "https://creativemornings.com/talks/devotion-across-the-arts?utm_source=google_events"
+      }
+    ],
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dr. Meera Rajaram Pranesh",
+        "sameAs": [
+          "https://vanamalaarts.org/"
+        ]
+      }
+    ],
+    "description": "Dr. Meera Rajaram Pranesh — a musician, musicologist, and researcher — is the Managing Trustee of Vanamala Center for Art and Culture. She heads the Degree, Masters, and Ph.D. programs in Music at the Lakshminarayana Global Center of Excellence (LGCE) founded by Dr. L. Subramaniam and Dr. Kavita Krishnamurthy Subramaniam. She is an Eminent Faculty in the Department of Music, Vishwakarma University, Pune, and Adjunct Faculty, Vedic Wellness University, Florida, USA.\nDr. Meera has also served as a Visiting and Adjunct Professor in Bangalore and Jain Universities. She has authored books, articles, and served as editor for government and private publications. She has also produced audio and video discs.",
+    "location": {
+      "@type": "Place",
+      "name": "Artkhoj",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "31/2, 1st Floor, 22nd Main Rd, R.K Colony, Marenahalli, 2nd Phase, J. P. Nagar",
+        "addressLocality": "Bangalore",
+        "postalCode": "560078",
+        "addressRegion": "Karnataka",
+        "addressCountry": "India"
+      },
+      "sameAs": "https://www.instagram.com/artkhoj/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.914728478209874,
+        "longitude": 77.58706077374138
+      }
+    },
+    "url": "https://creativemornings.com/talks/devotion-across-the-arts"
+  }
+]
