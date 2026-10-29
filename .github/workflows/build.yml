@@ -78,7 +78,7 @@ jobs:
         fi
         echo "$bin" >> "$GITHUB_PATH"
     - name: Cache Requests SQLite
-      # sel keeps its cache on disk between runs
+      # Self-hosted runners keep their cache on disk between runs
       if: runner.environment == 'github-hosted'
       uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:
@@ -100,7 +100,7 @@ jobs:
         key: "cache-instagram-${{ github.run_id }}"
         restore-keys: "cache-instagram-"
     - name: Restore BookMyShow pages
-      # sel reads the pages List BookMyShow wrote to its disk; others restore its last upload
+      # Self-hosted runners read the pages List BookMyShow wrote to their disk; others restore its last upload
       if: runner.environment == 'github-hosted'
       uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:
@@ -126,7 +126,7 @@ jobs:
         TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
         BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
       run: |
-        # List BookMyShow fills this on sel; each branch reads only its own
+        # List BookMyShow fills this on the self-hosted runner; each branch reads only its own
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
         if [ ! -d "$BMS_CACHE" ] && [ -d "$HOME/.cache/bms/main" ]; then
           cp -r "$HOME/.cache/bms/main" "$BMS_CACHE"

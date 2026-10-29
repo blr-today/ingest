@@ -1,0 +1,47 @@
+name: Pick runner
+
+on:
+  workflow_call:
+    outputs:
+      labels:
+        description: JSON runs-on value, the first online self-hosted runner or GitHub-hosted
+        value: ${{ jobs.pick.outputs.labels }}
+    secrets:
+      PUBLISH_PRIVATE_KEY:
+        required: true
+permissions: {}
+jobs:
+  pick:
+    name: Pick runner
+    runs-on: ubuntu-26.04
+    outputs:
+      labels: ${{ steps.pick.outputs.labels }}
+    steps:
+    - uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+      id: app-token
+      continue-on-error: true
+      with:
+        client-id: ${{ vars.PUBLISH_APP_ID }}
+        private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
+        owner: ${{ github.repository_owner }}
+        permission-organization-self-hosted-runners: read
+    - name: Use sel, then roshar, when online
+      id: pick
+      env:
+        GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        ORG: ${{ github.repository_owner }}
+      run: |
+        labels='"ubuntu-26.04"'
+        online=""
+        if [ -n "$GH_TOKEN" ]; then
+          online=$(gh api "orgs/$ORG/actions/runners" \
+            --jq '.runners[] | select(.status == "online") | .labels[].name')
+        fi
+        for name in sel roshar; do
+          if grep -qx "$name" <<< "$online"; then
+            labels="[\"self-hosted\",\"$name\"]"
+            break
+          fi
+        done
+        echo "Running on $labels"
+        echo "labels=$labels" >> "$GITHUB_OUTPUT"

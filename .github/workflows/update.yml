@@ -13,38 +13,15 @@ concurrency:
 permissions: {}
 jobs:
   runner:
-    name: Pick runner
-    runs-on: ubuntu-26.04
-    outputs:
-      labels: ${{ steps.pick.outputs.labels }}
-    steps:
-    - uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
-      id: app-token
-      continue-on-error: true
-      with:
-        client-id: ${{ vars.PUBLISH_APP_ID }}
-        private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
-        owner: ${{ github.repository_owner }}
-        permission-organization-self-hosted-runners: read
-    - name: Use sel when it is online
-      id: pick
-      env:
-        GH_TOKEN: ${{ steps.app-token.outputs.token }}
-        ORG: ${{ github.repository_owner }}
-      run: |
-        labels='"ubuntu-26.04"'
-        if [ -n "$GH_TOKEN" ] && gh api "orgs/$ORG/actions/runners" \
-          --jq '.runners[] | select(.status == "online") | .labels[].name' | grep -x sel > /dev/null; then
-          labels='["self-hosted","sel","steamos"]'
-        fi
-        echo "Running on $labels"
-        echo "labels=$labels" >> "$GITHUB_OUTPUT"
+    uses: ./.github/workflows/runner.yml
+    secrets:
+      PUBLISH_PRIVATE_KEY: ${{ secrets.PUBLISH_PRIVATE_KEY }}
 
   update:
     needs: runner
     permissions:
       contents: write
-    # sel avoids cloud IP blocks (District); GitHub-hosted is the fallback
+    # sel and roshar avoid cloud IP blocks (District); GitHub-hosted is the fallback
     uses: ./.github/workflows/build.yml
     with:
       runs-on: ${{ needs.runner.outputs.labels }}
@@ -54,7 +31,7 @@ jobs:
 
   fallback:
     needs: [runner, update]
-    if: ${{ failure() && contains(needs.runner.outputs.labels, 'sel') && needs.update.outputs.built != 'true' }}
+    if: ${{ failure() && contains(needs.runner.outputs.labels, 'self-hosted') && needs.update.outputs.built != 'true' }}
     permissions:
       contents: write
     uses: ./.github/workflows/build.yml

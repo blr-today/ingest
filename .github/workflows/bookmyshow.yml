@@ -8,17 +8,23 @@ on:
     - src/sources/bookmyshow.py
     - .github/workflows/bookmyshow.yml
   schedule:
-    # Between the Update Data runs, since both use sel
+    # Between the Update Data runs, since both use the same self-hosted runner
     - cron: '17 3,15 * * *'
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
 permissions: {}
 jobs:
+  runner:
+    uses: ./.github/workflows/runner.yml
+    secrets:
+      PUBLISH_PRIVATE_KEY: ${{ secrets.PUBLISH_PRIVATE_KEY }}
   crawl:
     name: List events and refresh pages
-    # The listing and one file per page stay on sel's disk for Update Data
-    runs-on: [self-hosted, sel, steamos]
+    needs: runner
+    # The listing and one file per page stay on the runner's disk for Update Data
+    if: contains(needs.runner.outputs.labels, 'self-hosted')
+    runs-on: ${{ fromJSON(needs.runner.outputs.labels) }}
     timeout-minutes: 180
     permissions:
       contents: read
