@@ -34,9 +34,10 @@ jobs:
         labels='"ubuntu-26.04"'
         online=""
         if [ -n "$GH_TOKEN" ]; then
-          online=$(gh api "orgs/$ORG/actions/runners" \
+          online=$(gh api --paginate "orgs/$ORG/actions/runners?per_page=100" \
             --jq '.runners[] | select(.status == "online") | .labels[].name')
         fi
+        echo "Online runner labels:" $online
         for name in sel roshar; do
           if grep -qx "$name" <<< "$online"; then
             labels="[\"self-hosted\",\"$name\"]"
