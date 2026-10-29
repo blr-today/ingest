@@ -371,7 +371,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 471,
+    "remainingAttendeeCapacity": 468,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -418,7 +418,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1103,49 +1103,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Photo Meetup - Shoot Together",
-    "description": "Always looking for someone who gets just as excited about light, frames and that perfect shot? Bring your camera, your curiosity and your eye for a good photograph.Find your tribe of photographers and shoot together.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B118341782C8401A8508D1745F01380E_converted_webp.webp"
-    ],
-    "startDate": "2026-10-29T17:00:00+05:30",
-    "endDate": "2026-10-29T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 99.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/photo-meetup-shoot-together",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Goa is a Bebinca - A Food Theatre Experience",
     "description": "What makes a place linger in your memory—its performance, its people, or its flavor?Welcome to Goa is a Bebinca, Now in Namma Bengaluru, brought to you by paChaak (yes, the food theatre people! ✨).Originally commissioned by Serendipity Arts Foundation for Serendipity Arts Festival 2025.We’re turning back the clock and inviting you into a bustling, atmospheric Goan taverna—a place where Konkani and Portuguese culture collide, where flower power, poetry, and politics share the same wooden tables, and where strangers walk in and leave as family.The Drama:Meet Mary—a total firecracker of a woman who is determined to put her family’s business on the map. The only hitch? Her father, who is fiercely rooted in tradition and isn't about to let the old ways slip away easily. As their world shifts, you won't just sit back and watch—you’ll be right in the middle of it all.Eat, drink, listen, and unravel a layered slice of Goan history as stories unfold between delicious courses.Curated alongside master culinary storytelling and brought to life by paChaak's creative crew, this isn’t just a show or a meal—it’s a living, breathing feast about identity, migration, tradition, and innovation.Pull up a chair at our lively Goan taverna! A 90-minute immersive theatrical feast blending history, high-stakes drama, delicious bar bites, and handcrafted spirits.What to Expect🎭 90 Minutes of Pure Immersive Theatre Step into the narrative, interact with characters, and be part of the story as it unfolds around you!🍸 Bar Bites & Spirits Includes a curated menu of Goan-inspired bar bites (veg & non-veg options) paired with delicious drinks/alcohol. Note: Entry allowed for guests above 21 years, as alcohol is being served.Meat served is Pork and note Bebinca contains egg📍 Bangalore Run Only in October!",
@@ -1176,7 +1133,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1456,7 +1413,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 127,
+    "remainingAttendeeCapacity": 121,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1500,7 +1457,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1571,49 +1528,6 @@
       "Live GIG",
       "Music",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A Look at African Cinema - TPCC",
-    "description": "A bi-feature on African Cinema!Le Franc by Djibril Diop MambétyA penniless, fast-thinking musician buys a lottery ticket which he glues to his back door, in hopes of eventually retrieving his instrument from his exasperating landlady. —but the ticket wins. Samba Traoré by Idrissa OuedraogoThe only surviving accomplice of a gas station robbery gone bad, Samba Traoré flees the scene with a suitcase full of cash. However, his newfound happiness is put to the test as he struggles to cope with the moral crisis of his crimes.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B386357D5B2E498B96F7BE08CE4CEBA6_converted_webp.webp"
-    ],
-    "startDate": "2026-10-29T19:45:00+05:30",
-    "endDate": "2026-10-29T22:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 375.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film—come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/africancinema",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1726,7 +1640,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2205,7 +2119,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 120,
+    "remainingAttendeeCapacity": 117,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2524,7 +2438,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 135,
+    "remainingAttendeeCapacity": 134,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2763,7 +2677,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 105,
+    "remainingAttendeeCapacity": 104,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2809,7 +2723,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 42,
+    "remainingAttendeeCapacity": 41,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2855,7 +2769,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 44,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2900,7 +2814,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 43,
+    "remainingAttendeeCapacity": 42,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2945,7 +2859,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2991,7 +2905,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 143,
+    "remainingAttendeeCapacity": 142,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3089,7 +3003,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3362,7 +3276,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3496,7 +3410,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 175,
+    "remainingAttendeeCapacity": 174,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3644,7 +3558,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3659,63 +3573,7 @@
       "url": "https://urbanaut.app/partner/canellastudio",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/halloweenpartyy#2026-10-31T1100",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Halloween Kids Party",
-    "description": "*Amazing themed baking activities, art stations to make their own crafts and carve pumpkins for the kids,*Spooktacular Halloween Experience at Canella StudioGet ready for a Halloween celebration like no other! This Halloween, Canella Studio is bringing little monsters a world of spooky-cute fun, creative activities, delicious treats, and festive surprises.🎃 Little chefs will get hands-on baking their own spooky Halloween treats, from creepy-cute creations to deliciously fun bakes! A sweet mix of baking, creativity, and Halloween magic awaits. 👻From carving pumpkins to making ghost-shaped pizzas and monster burgers, kids get to dive into the Halloween spirit through hands-on culinary adventures, creative crafts, and fun baking activities. With playful Halloween décor, costumes, and just the right amount of spooky magic, it’s a celebration designed to delight little ones without being too scary!What’s in Store?Pumpkin CarvingHalloween CraftsGhost Pizza MakingMonster Burger MakingHalloween BakingAnd while the kids enjoy their Halloween adventures, parents can soak in the festive atmosphere and enjoy delicious food and drinks available to purchase at the venue.Dress code: Trick or Treat, Dress to Impress!Get those costumes ready! Whether spooky, silly, or super cute, let your little chef’s Halloween style shine.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/71076F0A98D14CCE8EA910CA58846594_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8785FA1C468C4241B06A1AE3EA476D24_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3A99A191EFD8453BA9E40A30A445E424_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C9E367D90B0140F685D7A5F287C63AA6_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/81F608F9FF624AC7A3C20C06E73B877A_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4CADD616E5C34F30B0883B34CC180F91_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DB1B665908E1463DB89186FECBDB9825_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BAE9913FC0FE4DBE96ECAD99AD4CC1F2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/806E1AA825A74537AFC76152788A832F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/42F874E1130E4BBCB613EF223CE0A9A4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A8916AEFF5A741378B49657C38C57F25_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T16:00:00+05:30",
-    "endDate": "2026-10-31T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672959,
-        "longitude": 77.642634
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Canella Studio",
-      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
-      "url": "https://urbanaut.app/partner/canellastudio",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/halloweenpartyy#2026-10-31T1600",
+    "url": "https://urbanaut.app/spot/halloweenpartyy",
     "keywords": [
       "Leisure",
       "Workshop",
@@ -3847,7 +3705,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3893,7 +3751,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 39,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4026,7 +3884,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 68,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4472,7 +4330,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 275,
-    "remainingAttendeeCapacity": 198,
+    "remainingAttendeeCapacity": 195,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -4800,7 +4658,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4847,7 +4705,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5214,6 +5072,98 @@
     "url": "https://urbanaut.app/spot/origin-and-innovation",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Beginner's Tango Workshop | B'lore Tango Academy",
+    "description": "Tango, anyone? 💃🏽Come find out what Argentine Tango feels like when you’re the one dancing it ✨Bangalore Tango Academy is hosting a beginner-friendly, queer exclusive workshop right here at Beku, led by a pioneer teacher with 20+ years of experience (since 2006), trained under grand masters in Buenos Aires, Argentina.A few things to note:Two left feet? You’re absolutely welcome. No experience needed. Flying solo? No partner required. Queer Exclusive: This workshop is a queer-centric event, and everyone learns both lead and follow roles, regardless of gender. Partner rotation is part of the fun, so come ready to dance with the group.About the facilitator: Roopa’s dance journey, spanning 20+ years, began with classical Bharatnatyam in childhood, expanded into Bollywood through school and college, and moved into Latin styles in 2006 with Salsa before focusing on Argentine Tango. She trained internationally under master teachers and continues to study in Buenos Aires every other year, dancing in traditional milongas. Because she firmly believes that being a good dancer is completely different from knowing how to teach, she ensures her own training never stops. This ongoing education across Tango hubs in Europe, the United States, and East Asia keeps her teaching current and grounded.⚠️ Disclaimer: This event is only for members of the LGBTQIA+ community. This event is only accessible by stairs. ﻿By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/93F1B47FE1254E44A2AE35B4189A2891_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T16:00:00+05:30",
+    "endDate": "2026-11-14T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1300.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/beginners-tango-workshop-blore-tango-academy",
+    "keywords": [
+      "Workshop",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BYO-Personality: Sober Stroll and Conversations",
+    "description": "Bring Your Own Personality: Sober Stroll and ConversationsHow do we discover people anew in life? People who have A tendency to notice things. A capacity to experience life. An ability to assimilate lived experiences. People who delight in discovering themselves and others.How do we make such discoveries?Make some effort. Bring Your Own Personality Be Respectful. Be Curious.That should work.What do we exactly do:A group of 8 (max) people. 90 minutes of walk together through a neighbourhood's foothpaths. + Engaging conversations.For starters, Share a glimpse of your personality by filling up this questionnaire.Participants will be curated based on their responses to the questionnaire.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8BADF3353BC34BE69BFE68839D65C2FA_converted_webp.webp"
+    ],
+    "startDate": "2026-10-31T18:00:00+05:30",
+    "endDate": "2026-10-31T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9783692,
+        "longitude": 77.6408356
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5000,
+    "remainingAttendeeCapacity": 4997,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BYOPersonality",
+      "description": "Not a brand or event agency. A human stirring up murmurations.",
+      "url": "https://urbanaut.app/partner/byopersonality",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/147EFBD568644D62A018FE23EBC6DDC4_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/byo-personality-sober-stroll-and-conversations",
+    "keywords": [
+      "Leisure",
+      "Walking Tour",
       "URBANAUT"
     ]
   }

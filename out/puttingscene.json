@@ -49,7 +49,7 @@
         "price": "299.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 50
+        "remainingAttendeeCapacity": 49
       },
       {
         "@type": "Offer",
@@ -90,8 +90,7 @@
         "name": "The Winemaker's Table",
         "price": "3150.00",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 13
+        "availability": "https://schema.org/SoldOut"
       }
     ]
   },
@@ -159,7 +158,7 @@
         "price": "899.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 20
+        "remainingAttendeeCapacity": 16
       }
     ]
   },
@@ -583,31 +582,6 @@
     "startDate": "2026-10-31T11:00:00+05:30",
     "endDate": "2026-10-31T16:00:00+05:30",
     "maximumAttendeeCapacity": 200,
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Perspectives of OCD - A zine making workshop",
-    "url": "https://puttingscene.com/events/46CKM3",
-    "description": "Conversations about OCD often revolve around pop-culture representation, which centres on cleanliness and being organised. This workshop invites us to look beyond the diagnosis and to recognise the strengths, resilience, and humanity of individuals whose lives are often reduced to a diagnosis. We’ll create a space for experiences that often go unseen and unheard.\n\nThrough guided discussions, creative reflection, and collaborative zine-making, participants will explore these perspectives while contributing to a collective publication that captures diverse viewpoints about this disorder.\n\nWe welcome people with lived experience of OCD, their caregivers, students, educators, healthcare professionals, researchers, members of civil society organisations, policymakers, and anyone interested in mental health and creating more compassionate conversations around addiction.",
-    "image": "https://cdn.puttingscene.com/base/image/0LKt7bBoQF23ab-qClvTag.jpg",
-    "location": {
-      "name": "NIMHANS Centre for Well - Being",
-      "address": "53, NIMHANS Centre for Well - Being, 19, 9th Main Rd, KEB Colony, New Gurappana Palya, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029, India",
-      "url": "https://maps.google.com/?cid=14182806855293378194",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.919066,
-        "longitude": 77.6042018
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Centre for Brain and Mind NIMHANS Organization"
-    },
-    "startDate": "2026-10-31T14:00:00+05:30",
-    "endDate": "2026-10-31T17:00:00+05:30",
-    "maximumAttendeeCapacity": 20,
     "isAccessibleForFree": true
   },
   {
