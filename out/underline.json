@@ -32,26 +32,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Gamble: A Trivia Game Show by Tasty Trivia",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-20T15:30:00.000Z",
-          "name": "Early Bird",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/gamble-a-trivia-game-show-by-tasty-trivia-nov20-2026-buy-tickets",
-          "validFrom": "2026-10-16T09:29:23.858Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/gamble-a-trivia-game-show-by-tasty-trivia-nov20-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/gamble-a-trivia-game-show-by-tasty-trivia-nov20-2026/event"
     ],
@@ -91,31 +72,52 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Only 90s Kids Will Remember This: A nostalgia themed pop culture quiz by Calm Your Wits Quizzing",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-14T17:00:00.000Z",
-          "name": "Regular Ticket",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing-nov14-2026-buy-tickets",
-          "validFrom": "2026-10-20T09:29:28.356Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing-nov14-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing-nov14-2026/event"
     ],
     "startDate": "2026-11-14T20:30:00.000+05:30",
     "url": "https://underline.center/t/only-90s-kids-will-remember-this-a-nostalgia-themed-pop-culture-quiz-by-calm-your-wits-quizzing/898"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialEvent",
+    "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!",
+    "endDate": "2026-11-05T23:00:00.000+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "image": "https://underline.center/uploads/default/original/1X/9a55d70aaf39454cb10b6083ae683370875ee1c9.png",
+    "inLanguage": "en",
+    "keywords": [
+      "UNDERLINE",
+      "INDIRANAGAR"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "postalCode": "560071",
+        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672549,
+        "longitude": 77.6367397
+      },
+      "name": "Underline Center"
+    },
+    "maximumAttendeeCapacity": 45,
+    "maximumPhysicalAttendeeCapacity": 45,
+    "name": "Tabletop Thursday with ReRoll Board Games",
+    "offers": null,
+    "sameAs": [
+      "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
+    ],
+    "startDate": "2026-11-05T19:00:00.000+05:30",
+    "url": "https://underline.center/t/tabletop-thursday-with-reroll-board-games/13"
   },
   {
     "@context": "https://schema.org",
@@ -150,36 +152,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Whimsical Wednesday with Improv Lore",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 499,
-      "lowPrice": 399,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-11-04T14:30:00.000Z",
-          "name": "Early Bird ",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/whimsical-wednesday-with-improv-lore-buy-tickets",
-          "validFrom": "2026-03-26T08:52:10.042Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-04T16:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 499,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/whimsical-wednesday-with-improv-lore-buy-tickets",
-          "validFrom": "2026-03-26T08:52:10.042Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/whimsical-wednesday-with-improv-lore-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
     ],
@@ -259,36 +232,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Bangalore Puzzle Pals with Playful Pursuits",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 349,
-      "lowPrice": 299,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-02T13:00:00.000Z",
-          "name": "Early Bird",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-02T13:00:00.000Z",
-          "name": "Regular Ticket",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets",
-          "validFrom": "2026-03-26T07:36:17.449Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/bangalore-puzzle-pals-with-playful-pursuits-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
     ],
@@ -328,36 +272,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "And Then?: An Improv Show by Improv Lore",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 299,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T19:30:00.000Z",
-          "name": "Early Bird",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
-          "validFrom": "2026-07-22T10:05:53.630Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-01T15:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets",
-          "validFrom": "2026-07-22T10:05:53.630Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/and-then-an-improv-show-by-improv-lore-jul26-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/and-then-an-improv-show-by-improv-lore-jul26-2026/event"
     ],
@@ -397,26 +312,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Namma Bengaluru Quiz by Calm Your Wits Quizzing",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-01T14:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2026-buy-tickets",
-          "validFrom": "2026-10-19T12:24:42.216Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/namma-bengaluru-quiz-by-calm-your-wits-quizzing-nov1-2026/event"
     ],
@@ -456,36 +352,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "A Brief Study of with the Eleven AM Club",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 349,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-11-01T09:30:00.000Z",
-          "name": "Early Bird",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets",
-          "validFrom": "2026-06-23T10:28:44.828Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-01T12:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets",
-          "validFrom": "2026-06-23T10:28:44.828Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/a-brief-study-of-jun28-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/a-brief-study-of-jun28-2026/event",
       "https://www.newindianexpress.com/cities/chennai/2026/Oct/08/making-time-for-creativity-networking-a-space-in-chennai-to-expand-horizons-contacts-and-relax"
@@ -526,26 +393,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Make Friends with the Stage: Open Stage Jam by Improv Lore",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 499,
-      "lowPrice": 499,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-01T11:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 499,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026-buy-tickets",
-          "validFrom": "2026-04-24T06:31:49.032Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/make-friends-with-the-stage-open-stage-jam-by-improv-lore-may1-2026/event"
     ],
@@ -585,36 +433,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Folding Ninjas - Origami Club with Roligami",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 349,
-      "lowPrice": 299,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-01T05:30:00.000Z",
-          "name": "Early Bird",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/folding-ninjas-with-roligami-buy-tickets",
-          "validFrom": "2026-04-05T13:36:06.312Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-11-01T08:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/folding-ninjas-with-roligami-buy-tickets",
-          "validFrom": "2026-04-05T13:36:06.312Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/folding-ninjas-with-roligami-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/folding-ninjas-with-roligami/event"
     ],
@@ -654,36 +473,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Halloween Screening of The Exorcist (1973) with Cinema Next Door",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 299,
-      "lowPrice": 249,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-31T18:15:00.000Z",
-          "name": "Early Bird",
-          "price": 249,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets",
-          "validFrom": "2026-10-26T12:44:55.169Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T21:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets",
-          "validFrom": "2026-10-26T12:44:55.169Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/halloween-screening-of-the-exorcist-1973-with-cinema-next-door-oct30-2026/event"
     ],
@@ -723,46 +513,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Weekend Games with ReRoll Board Games",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 299,
-      "offerCount": 3,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T12:30:00.000Z",
-          "name": "Early Bird",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
-          "validFrom": "2026-03-30T15:13:19.423Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T12:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
-          "validFrom": "2026-03-30T15:13:19.423Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T17:30:00.000Z",
-          "name": "Walk-In",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets",
-          "validFrom": "2026-03-30T15:13:19.423Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/weekend-games-with-reroll-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://www.district.in/weekend-games-with-reroll/event"
     ],
@@ -802,46 +553,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Magic: The Gathering with ReRoll Board Games",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 349,
-      "offerCount": 3,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-31T12:30:00.000Z",
-          "name": " Early Bird - Casual Play",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T11:16:25.614Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T17:30:00.000Z",
-          "name": " Regular Ticket - Casual Play",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T11:16:25.614Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T17:30:00.000Z",
-          "name": "Register - Standard Tournament",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T11:16:25.614Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/magic-the-gathering-with-reroll-board-games-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://www.district.in/magic-the-gathering-with-reroll-board-games/event",
       "https://magic.wizards.com/en/intro"
@@ -882,26 +594,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "Piece-off 25: The Puzzlympic Games by Playful Pursuits",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 1499,
-      "lowPrice": 1499,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-31T05:30:00.000Z",
-          "name": "Register for Musical Pairs",
-          "price": 1499,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/pieceoff-speed-puzzling-competition-by-playful-pursuits-apr26-2026-buy-tickets",
-          "validFrom": "2026-04-19T16:19:09.129Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/pieceoff-speed-puzzling-competition-by-playful-pursuits-apr26-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://www.district.in/pieceoff-speed-puzzling-competition-by-playful-pursuits-apr26-2026/event"
     ],
@@ -941,36 +634,7 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "The Silliest Show Tonight by Improv Lore",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 249,
-      "lowPrice": 199,
-      "offerCount": 2,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-30T15:30:00.000Z",
-          "name": "Early Bird",
-          "price": 199,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
-          "validFrom": "2026-03-26T07:29:43.028Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-30T17:00:00.000Z",
-          "name": "Regular Ticket",
-          "price": 249,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets",
-          "validFrom": "2026-03-26T07:29:43.028Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/the-silliest-show-tonight-by-improv-lore-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://www.district.in/the-silliest-show-tonight-by-improv-lore/event"
     ],
@@ -1010,109 +674,11 @@
     "maximumAttendeeCapacity": 45,
     "maximumPhysicalAttendeeCapacity": 45,
     "name": "The Clueless Crossword | Quiz Pro Quo",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 399,
-      "offerCount": 1,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-30T17:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/the-clueless-crossword-by-quiz-pro-quo-may17-2026-buy-tickets",
-          "validFrom": "2026-05-08T11:17:15.867Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/the-clueless-crossword-by-quiz-pro-quo-may17-2026-buy-tickets"
-    },
+    "offers": null,
     "sameAs": [
       "https://district.in/the-clueless-crossword-by-quiz-pro-quo-may17-2026/event"
     ],
     "startDate": "2026-10-30T20:30:00.000+05:30",
     "url": "https://underline.center/t/the-clueless-crossword-quiz-pro-quo/618"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialEvent",
-    "description": "We’re here to show you a whole new world of wonderful board games beyond Monopoly and Scrabble!\n\nYou don’t need to have played any board games before - we love introducing people to new ones! We’ll help you pick a game, set up, and explain the rules.\n\nYou can get straight to manipulating and deceiving your friends, surviving a zombie apocalypse with your significant other, or saving the world from deadly diseases and making some friends in the process.\n\nCome solo, with a date or in a group - we’ve got something for everyone!",
-    "endDate": "2026-10-29T23:00:00.000+05:30",
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "image": "https://underline.center/uploads/default/original/1X/9a55d70aaf39454cb10b6083ae683370875ee1c9.png",
-    "inLanguage": "en",
-    "keywords": [
-      "UNDERLINE",
-      "INDIRANAGAR"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "postalCode": "560071",
-        "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672549,
-        "longitude": 77.6367397
-      },
-      "name": "Underline Center"
-    },
-    "maximumAttendeeCapacity": 45,
-    "maximumPhysicalAttendeeCapacity": 45,
-    "name": "Tabletop Thursday with ReRoll Board Games",
-    "offers": {
-      "@type": "AggregateOffer",
-      "highPrice": 399,
-      "lowPrice": 299,
-      "offerCount": 3,
-      "offers": [
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/SoldOut",
-          "availabilityEnds": "2026-10-29T13:30:00.000Z",
-          "name": "Early Bird ",
-          "price": 299,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T09:45:23.684Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-29T13:30:00.000Z",
-          "name": "Regular Ticket",
-          "price": 349,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T09:45:23.684Z"
-        },
-        {
-          "@type": "Offer",
-          "availability": "http://schema.org/InStock",
-          "availabilityEnds": "2026-10-29T17:30:00.000Z",
-          "name": "Walk-In",
-          "price": 399,
-          "priceCurrency": "INR",
-          "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets",
-          "validFrom": "2026-03-26T09:45:23.684Z"
-        }
-      ],
-      "priceCurrency": "INR",
-      "url": "https://www.district.in/events/tabletop-thursday-with-reroll-board-games-buy-tickets"
-    },
-    "sameAs": [
-      "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
-    ],
-    "startDate": "2026-10-29T19:00:00.000+05:30",
-    "url": "https://underline.center/t/tabletop-thursday-with-reroll-board-games/13"
   }
 ]
