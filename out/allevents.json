@@ -586,6 +586,131 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Quick Style India Tour - Bangalore",
+    "image": "https://cdn-az.allevents.in/events8/banners/9ee96490-4b62-11f1-ad10-af1c0000fe82-rimg-w1200-h600-dce6e6e6-gmir.jpg?v=1778302237",
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue To Be Announced: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Karnataka India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9628957",
+        "longitude": "77.57754"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "From viral videos to global stages, the world has always shown up for Quick Style.Now they’re bringing something to India they’ve never brought before.With 20 years of legacy, two world championship titles, viral videos that captivated billions online, and performances on the world’s biggest stages,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "2026-10-31T20:00:00+05:30",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "lowPrice": "999.00",
+        "price": "999.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "999.00",
+        "name": "GA Early Bird"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "9999.00",
+        "name": "Meet and Greet"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-05",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-05",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
+        "price": "1499.00",
+        "name": "Fan Zone EB"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ticket To Bollywood Saturday Bollywood Party",
+    "image": "https://cdn-az.allevents.in/events7/banners/c45fdc90-643f-11f1-9aee-bba5b52782fe-rimg-w1200-h600-dcf7c075-gmir.jpg?v=1781036046",
+    "startDate": "2026-05-30T19:00:00+05:30",
+    "endDate": "2026-12-12T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/ticket-to-bollywood-saturday-bollywood-party/3900030047573213",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Gilly`s 104: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No.65, JNC Road, Koramanagala 5th Block, Koramangala Industrial Layout, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9332745",
+        "longitude": "77.6146662"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Fly Into Bollywood – Music, Dance & Party All Night!Get ready for Koramangala’s most exciting Bollywood party night! ✨This Saturday, your “Ticket To Bollywood” is officially boarding. Step into a Bollywood cinema-style party experience where music, lights, and energy take over the dance floor.Expect",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-12",
+        "availabilityEnds": "2026-12-12T19:00:00+05:30",
+        "validFrom": "2026-05-12",
+        "url": "https://allevents.in/bangalore/ticket-to-bollywood-saturday-bollywood-party/3900030047573213",
+        "lowPrice": "49.00",
+        "price": "49.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-12",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-12",
+        "url": "https://allevents.in/bangalore/ticket-to-bollywood-saturday-bollywood-party/3900030047573213",
+        "price": "49.00",
+        "name": "FINAL PHASE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Kudremukh Trek",
     "image": "https://cdn-az.allevents.in/events9/banners/03b1e230-5f5e-11f1-b16f-0f9f4695b0c4-rimg-w1200-h600-dc434c4b-gmir.jpg?v=1780499282",
@@ -691,79 +816,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Quick Style India Tour - Bangalore",
-    "image": "https://cdn-az.allevents.in/events1/banners/6ed08270-7b1e-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dce6e6e6-gmir.png?v=1783550606",
-    "startDate": "2026-10-31T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard, Phoenix Market City: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Whitefield Main Rd, Devasandra Industrial Estate, Mahadevpura, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "From viral videos to global stages, the world has always shown up for Quick Style.Now they’re bringing something to India they’ve never brought before.With 20 years of legacy, two world championship titles, viral videos that captivated billions online, and performances on the world’s biggest stages,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "2026-10-31T20:00:00+05:30",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "lowPrice": "999.00",
-        "price": "999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "9999.00",
-        "name": "Meet and Greet"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "1499.00",
-        "name": "Fan Zone EB"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-06-15",
-        "availabilityEnds": "",
-        "validFrom": "2026-06-15",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
-        "price": "999.00",
-        "name": "GA Early Bird"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "DIY Hair Accessories",
     "image": "https://cdn-az.allevents.in/events3/banners/cf726c00-7b3d-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dc276475-gmir.jpg?v=1783564083",
     "startDate": "2026-07-11T11:30:00+05:30",
@@ -860,6 +912,58 @@
         "availabilityEnds": "",
         "validFrom": "2026-06-28",
         "url": "https://allevents.in/bangalore/handcrafted-jewellery/3900030321471824",
+        "price": "999.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lippan ArtWork",
+    "image": "https://cdn-az.allevents.in/events2/banners/21569460-7b48-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dca22e39-gmir.jpg?v=1783568515",
+    "startDate": "2026-07-12T10:30:00+05:30",
+    "endDate": "2026-12-13T10:30:00+05:30",
+    "url": "https://allevents.in/bangalore/lippan-artwork/3900030322234801",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Discover the charm of traditional Lippan Art - a unique mud and mirror craft from Gujarat that turns simple materials into stunning home decor.What is Special About Lippan Art?Made using natural clay and mirrorsReflects light beautifullyEco-friendly and timelessAdds elegance to any wall or cornerWha",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "2026-12-13T10:30:00+05:30",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/lippan-artwork/3900030322234801",
+        "lowPrice": "999.00",
+        "price": "999.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/lippan-artwork/3900030322234801",
         "price": "999.00",
         "name": "TICKET FOR ONE"
       }
@@ -1648,143 +1752,26 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "AT FRIDAY BOLLYWOOD N ALL SONGS MIX NIGHT DRAVA PU",
-    "image": "https://cdn-az.allevents.in/events10/banners/5ae411f0-d0aa-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792956551",
-    "startDate": "2026-10-30T21:30:00+05:30",
-    "endDate": "2026-10-31T02:32:00+05:30",
-    "url": "https://allevents.in/bangalore/at-friday-bollywood-n-all-songs-mix-night-drava-pu/3900030905803559",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Drava: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd Floor, Vijay Jatti Building, 104, 1st Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9346",
-        "longitude": "77.6158"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "AT FRIDAY BIGGEST BOLLYWOOD  ALL SONGS MIX NIGHT DRAVA PUB KORAMANGALAFRIDAY AT 8 PM ONWARDSBOLLYWOOD X EDM BEATS ALL NIGHT LONGHIGH ENERGY EPIC VIBES UNFORGETTABLE MOMENTSDONT MISS OUT LETS LIGHT UP THE NIGHT IN STYLEGIRLS FOR FREE DRINKS AVAILABLE COVER CHARGE APPLICABLE AT THE VENUECover fully re",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-25",
-        "availabilityEnds": "2026-10-31T02:32:00+05:30",
-        "validFrom": "2026-10-25",
-        "url": "https://allevents.in/bangalore/at-friday-bollywood-n-all-songs-mix-night-drava-pu/3900030905803559"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A HALLOWEEN NIGHT AT DRAVA PUBKORAMANGALA",
-    "image": "https://cdn-az.allevents.in/events1/banners/65237650-d114-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1793002095",
-    "startDate": "2026-11-01T21:30:00+05:30",
-    "endDate": "2026-11-02T02:32:00+05:30",
-    "url": "https://allevents.in/bangalore/a-halloween-night-at-drava-pubkoramangala/3900030907077329",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Drava: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd Floor, Vijay Jatti Building, 104, 1st Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9346",
-        "longitude": "77.6158"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "THE HALLOWEEN NIGHT AT DRAVA PUB KORAMANGALASUNDAY 1ST NOVEMBER 8 PM ONWARDSFree Glow in the Dark Face PaintingBollywood X EDM Beats All Night LongSpooky Halloween VibesHigh Energy Epic Vibes Unforgettable MomentsGet ready for a spooky night of music dancing and Halloween madnessDress Up Glow Up N P",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-25",
-        "availabilityEnds": "2026-11-02T02:32:00+05:30",
-        "validFrom": "2026-10-25",
-        "url": "https://allevents.in/bangalore/a-halloween-night-at-drava-pubkoramangala/3900030907077329"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Desi Night ft. Manzar",
-    "image": "https://cdn-az.allevents.in/events5/banners/83a6da80-d138-11f1-ad45-d9be74123a0e-rimg-w1200-h600-dc085858-gmir.jpg?v=1793017608",
-    "startDate": "2026-11-14T21:00:00+05:30",
-    "endDate": "2026-11-14T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/desi-night-ft-manzar/3900030908005119",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Hard Rock Cafe, Whitefield: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Unit G-25 and 26, Ground Floor, Park Square Mall International Tech Park, Pattandur Agrahara, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9872",
-        "longitude": "77.7366"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Desi Night ft. Manzar - Bollywood Beats & Full-On Masti!Get ready to turn up the desi energy as Manzar takes the stage for a night packed with Bollywood favourites, foot-tapping beats, and infectious live music!From chart-topping Hindi hits to timeless melodies and high-energy sing-along anthems, ex",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-25",
-        "availabilityEnds": "2026-11-14T23:00:00+05:30",
-        "validFrom": "2026-10-25",
-        "url": "https://allevents.in/bangalore/desi-night-ft-manzar/3900030908005119"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Resin lotus pond",
-    "image": "https://cdn-az.allevents.in/events4/banners/af83c980-d104-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792995359",
+    "image": "https://cdn-az.allevents.in/events4/banners/af83c980-d104-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792995353",
     "startDate": "2026-10-31T15:23:00+05:30",
     "endDate": "2026-10-31T17:23:00+05:30",
-    "url": "https://allevents.in/bangalore/resin-lotus-pond/3900030914961759",
+    "url": "https://allevents.in/bangalore/resin-lotus-pond/3900030914961354",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Cafe De Verde: Bengaluru",
+      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9408",
-        "longitude": "77.6233"
+        "latitude": "12.9873",
+        "longitude": "77.5945"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1797,7 +1784,7 @@
         "availabilityStarts": "2026-10-26",
         "availabilityEnds": "2026-10-31T17:23:00+05:30",
         "validFrom": "2026-10-26",
-        "url": "https://allevents.in/bangalore/resin-lotus-pond/3900030914961759"
+        "url": "https://allevents.in/bangalore/resin-lotus-pond/3900030914961354"
       }
     ]
   },
@@ -2467,39 +2454,78 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bollywood Workshop with Amisha",
-    "image": "https://cdn-az.allevents.in/events4/banners/78ffcc30-d2a6-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dcf8e8a8-gmir.jpg?v=1793174786",
-    "startDate": "2026-10-31T13:30:00+05:30",
-    "endDate": "2026-10-31T15:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bollywood-workshop-with-amisha/3900030929786726",
+    "name": "Bottle &amp; Bubbles",
+    "image": "https://cdn-az.allevents.in/events7/banners/514f7a10-d291-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dc080808-gmir.jpg?v=1793165705",
+    "startDate": "2026-11-01T15:00:00+05:30",
+    "endDate": "2026-11-01T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/bottle-and-bubbles/3900030929465806",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Maxburn Elite: Bengaluru",
+      "name": "Third Wave Coffee: BOB Colony, Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Maxburn, 3rd and 4th floor Site, 8, 80 Feet Road, 4th Block, S.T. Bed, Area, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "Indian Music Experience, Brigade Millenium Campus, 7th Phase, BOB Colony, South, J. P. Nagar, Bengaluru, Karnataka 560078, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9338",
-        "longitude": "77.6306"
+        "latitude": "12.8917",
+        "longitude": "77.5839"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Celebrate the magic of Bollywood with an exciting Bollywood dance workshop with Amisha featuring a special Shah Rukh Khan birthday celebration.Whether you are a beginner or someone who loves Bollywood dance this workshop is designed for all age groups and all experience levels.Come with all your ent",
+    "description": "Bottle and Bubbles WorkshopTransform an ordinary bottle into a beautiful decorative masterpiece in this fun and beginner friendly workshop. Learn painting and decorating techniques with step by step guidance from an instructor as you create a unique bottle that adds charm to any space.Whether you ar",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-28",
-        "availabilityEnds": "2026-10-31T15:00:00+05:30",
+        "availabilityEnds": "2026-11-01T16:30:00+05:30",
         "validFrom": "2026-10-28",
-        "url": "https://allevents.in/bangalore/bollywood-workshop-with-amisha/3900030929786726"
+        "url": "https://allevents.in/bangalore/bottle-and-bubbles/3900030929465806"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mat Pilates Workshop",
+    "image": "https://cdn-az.allevents.in/events1/banners/2b620bd0-d2b7-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dc483828-gmir.jpg?v=1793181957",
+    "startDate": "2026-10-31T09:00:00+05:30",
+    "endDate": "2026-10-31T10:00:00+05:30",
+    "url": "https://allevents.in/bangalore/mat-pilates-workshop/3900030929987357",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Mushroom Studio: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "B2, No 73, Dinesh Complex, Bineeta Plaza Shubh Enclave, Haralur Main Road, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9131",
+        "longitude": "77.6663"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "If you are someone who loves movement, good music and some amazing company, this is for you!Whether you are already a Pilates enthusiast, have tried a few sessions, or are stepping onto the mat for the very first time, this session is for you!No prior experience is needed. Together, we will explore",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-28",
+        "availabilityEnds": "2026-10-31T10:00:00+05:30",
+        "validFrom": "2026-10-28",
+        "url": "https://allevents.in/bangalore/mat-pilates-workshop/3900030929987357"
       }
     ]
   },
@@ -2584,39 +2610,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "DIY Cheriyal Mask",
-    "image": "https://cdn-az.allevents.in/events10/banners/5165b900-d2c4-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dc284818-gmir.jpg?v=1793187610",
-    "startDate": "2026-10-29T13:03:00+05:30",
-    "endDate": "2026-10-29T14:03:00+05:30",
-    "url": "https://allevents.in/bangalore/diy-cheriyal-mask/3900030930382810",
+    "name": "Mini Canvas Painting Art",
+    "image": "https://cdn-az.allevents.in/events4/banners/bf725ae0-d2cc-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dcd8d8d8-gmir.jpg?v=1793191232",
+    "startDate": "2026-10-31T13:02:00+05:30",
+    "endDate": "2026-10-31T14:02:00+05:30",
+    "url": "https://allevents.in/bangalore/mini-canvas-painting-art/3900030930423032",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Tealogy Cafe (Neo): Bengaluru.",
+      "name": "Espressoulster Coffee, Koramangala: Bengaluru.",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "No. 4, 80 Feet Road, Above 3M showroom, Next to 1522, S.T. Bed, Koramangala, Bengaluru, Karnataka 560034, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9337",
+        "latitude": "12.9342",
         "longitude": "77.6302"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DIY Cheriyal Mask Painting WorkshopStep into the vibrant world of Cheriyal art, a 400 year old storytelling tradition from Telangana, and create your very own colourful Cheriyal Mask.If you love art, culture, craft, or simply want to spend a fun and relaxing evening doing something unique, this work",
+    "description": "Calling all art enthusiasts! Immerse yourself in a vibrant canvas painting workshop that will ignite your creativity and bring your artistic vision to life! No prior experience needed! Whether youre a beginner eager to dip your brush into the world of painting or a seasoned artist looking to refine",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-10-28",
-        "availabilityEnds": "2026-10-29T14:03:00+05:30",
+        "availabilityEnds": "2026-10-31T14:02:00+05:30",
         "validFrom": "2026-10-28",
-        "url": "https://allevents.in/bangalore/diy-cheriyal-mask/3900030930382810"
+        "url": "https://allevents.in/bangalore/mini-canvas-painting-art/3900030930423032"
       }
     ]
   },
@@ -2656,45 +2682,6 @@
         "availabilityEnds": "2026-11-21T23:00:00+05:30",
         "validFrom": "2026-10-28",
         "url": "https://allevents.in/bangalore/retro-rock-pop-ft-tidal-wave-from-goa/3900030930436634"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Clay Trinket Tray",
-    "image": "https://cdn-az.allevents.in/events1/banners/e6e79ba0-d2e8-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dca89888-gmir.jpg?v=1793203395",
-    "startDate": "2026-10-29T13:01:00+05:30",
-    "endDate": "2026-10-29T14:01:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-trinket-tray/3900030931008916",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tealogy Cafe (Neo): Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9337",
-        "longitude": "77.6302"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Discover the Joy of CreatingJoin us for a hands-on workshop where you will learn the art of crafting beautiful clay trinket trays. Under the guidance of our experienced instructors, you will explore various techniques to shape, mould, and decorate your own unique piece.What you will learn\tBasic clay",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-28",
-        "availabilityEnds": "2026-10-29T14:01:00+05:30",
-        "validFrom": "2026-10-28",
-        "url": "https://allevents.in/bangalore/clay-trinket-tray/3900030931008916"
       }
     ]
   },
@@ -4790,6 +4777,68 @@
         "url": "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
         "price": 0,
         "name": "North Bengaluru Startups Meetup by CEDAT"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Startup Stories by Bengaluru Founders",
+    "image": "https://cdn-az.allevents.in/events7/banners/75cf21b40df057374573786682ff5518969c778ff20e936d0a34dfc33ab6133a-rimg-w1200-h900-dc080808-gmir.jpg?v=1792041595",
+    "startDate": "2026-11-26T18:00:00+05:30",
+    "endDate": "2026-11-26T20:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IKP EDEN",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "16 Tavarekere Main Road",
+        "postalCode": "560029",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.934167",
+        "longitude": "77.6098037"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Get ready for an exciting evening with Startup Stories by Bengaluru Founders. An event where ideas, inspiration and meaningful connects",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "2026-11-26T20:00:00+05:30",
+        "validFrom": "2026-10-15",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "",
+        "validFrom": "2026-10-15",
+        "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069",
+        "price": 0,
+        "name": "Startup Stories by Bengaluru Founders"
       }
     ],
     "organizer": [
