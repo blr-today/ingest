@@ -334,6 +334,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "17 Poets, One Big Celebration - Edition 3",
+    "image": "https://dyn-image.allevents.in/generate-image?v=4&title=17+Poets%2C+One+Big+Celebration+-+Edition+3&date=Wed%2C+18+Nov%2C+2026&bg=1",
+    "startDate": "2026-11-18T09:00:00+05:30",
+    "url": "https://allevents.in/bangalore/17-poets-one-big-celebration-edition-3/200030936480620",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "32, Annaswamy Mudaliar Road, Bangalore, India 560042, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12 Annaswamy Mudaliar Road, Sivan Chetty Garden, Halasuru, Bengaluru 560042, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.98154",
+        "longitude": "77.6156"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "SPECIAL EDITION ON THE OCCASION OF THE 17TH ANNIVESARY OF URBAN SOLACE COMPRISING A 4 PART SPECIAL OF POETRY FROM THE HEART WITH 4 POETS IN EACH EDITION, MAKING IT A GRAND EXPERIENCE OF THE VERY BEST POETS IN BANGLORE MAKING IT 17 POETS FOR OUR 17TH ANNIVESARY.\n\nThis celebration of Urban Solace is a",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Urban Solace - Cafe for the Soul",
+        "url": "https://allevents.in/org/urban-solace-cafe-for-the-soul/338401",
+        "description": "Location: No 32, Annaswamy Mudaliar Road, (between Tamil Sangam and FotoFlash, opposite Ulsoor Lake)  Phone: 255.536.56  Mon - Sun: 11:00 am - 11:00 pm"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "17 Poets, One Big Celebration - Edition 1",
     "image": "https://cdn-az.allevents.in/events6/banners/6bdd9a9fb193b8de9dec9349e167f8db75a51266e7166e352e0bcecb7238c419-rimg-w1200-h664-dcf8c808-gmir?v=1793317280",
     "startDate": "2026-11-04T09:00:00+05:30",
@@ -399,41 +434,6 @@
         "@type": "Organization",
         "name": "Aye Sebastien",
         "url": "https://allevents.in/org/aye-sebastien/28318103"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A Night of Fright 3 - All Folked Up (Halloween Screening)",
-    "image": "https://cdn-az.allevents.in/events9/banners/845076101743e4582ee99356ac76e2eebe871b178c388fb8fa2cbf41233091ec-rimg-w915-h1600-dc080808-gmir?v=1793357748",
-    "startDate": "2026-10-31T02:00:00+05:30",
-    "endDate": "2026-10-31T10:00:00+05:30",
-    "url": "https://allevents.in/bangalore/a-night-of-fright-3-all-folked-up-halloween-screening/200030938834450",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Chamundesware Studio",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "48 MILLER TANK BUND ROAD,Bangalore, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.989336456987",
-        "longitude": "77.594378208742"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This Halloween Bollywood Crypt is All Folked up! and celebrating Folk Horror feature films and short films from India and around the world at its 3rd edition of 'A Night of Fright!\n\nWe are happy to announce Bollywood Directors Prosit Roy (Paatal Lok/Pari) and Vishal Furia (Chhorri/Maa), Writer/Direc",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Sandesh Shenoy",
-        "url": "https://allevents.in/org/sandesh-shenoy/784123"
       }
     ]
   },
@@ -643,79 +643,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Quick Style India Tour - Bangalore",
-    "image": "https://cdn-az.allevents.in/events8/banners/9ee96490-4b62-11f1-ad10-af1c0000fe82-rimg-w1200-h600-dce6e6e6-gmir.jpg?v=1778302237",
-    "startDate": "2026-10-31T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue To Be Announced: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Karnataka India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9628957",
-        "longitude": "77.57754"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "From viral videos to global stages, the world has always shown up for Quick Style.Now they’re bringing something to India they’ve never brought before.With 20 years of legacy, two world championship titles, viral videos that captivated billions online, and performances on the world’s biggest stages,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-05-05",
-        "availabilityEnds": "2026-10-31T20:00:00+05:30",
-        "validFrom": "2026-05-05",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
-        "lowPrice": "999.00",
-        "price": "999.00"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-05-05",
-        "availabilityEnds": "",
-        "validFrom": "2026-05-05",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
-        "price": "999.00",
-        "name": "GA Early Bird"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-05-05",
-        "availabilityEnds": "",
-        "validFrom": "2026-05-05",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
-        "price": "9999.00",
-        "name": "Meet and Greet"
-      },
-      {
-        "@type": "Offer",
-        "availability": "",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-05-05",
-        "availabilityEnds": "",
-        "validFrom": "2026-05-05",
-        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242",
-        "price": "1499.00",
-        "name": "Fan Zone EB"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Ticket To Bollywood Saturday Bollywood Party",
     "image": "https://cdn-az.allevents.in/events7/banners/c45fdc90-643f-11f1-9aee-bba5b52782fe-rimg-w1200-h600-dcf7c075-gmir.jpg?v=1781036046",
@@ -873,6 +800,79 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Quick Style India Tour - Bangalore",
+    "image": "https://cdn-az.allevents.in/events1/banners/6ed08270-7b1e-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dce6e6e6-gmir.png?v=1783550606",
+    "startDate": "2026-10-31T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard, Phoenix Market City: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Whitefield Main Rd, Devasandra Industrial Estate, Mahadevpura, Bengaluru, Karnataka 560048, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "From viral videos to global stages, the world has always shown up for Quick Style.Now they’re bringing something to India they’ve never brought before.With 20 years of legacy, two world championship titles, viral videos that captivated billions online, and performances on the world’s biggest stages,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-15",
+        "availabilityEnds": "2026-10-31T20:00:00+05:30",
+        "validFrom": "2026-06-15",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "lowPrice": "999.00",
+        "price": "999.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-15",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-15",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "price": "9999.00",
+        "name": "Meet and Greet"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-15",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-15",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "price": "1499.00",
+        "name": "Fan Zone EB"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-15",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-15",
+        "url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443",
+        "price": "999.00",
+        "name": "GA Early Bird"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "DIY Hair Accessories",
     "image": "https://cdn-az.allevents.in/events3/banners/cf726c00-7b3d-11f1-bdfc-2342bfd01096-rimg-w1200-h600-dc276475-gmir.jpg?v=1783564083",
     "startDate": "2026-07-11T11:30:00+05:30",
@@ -1022,6 +1022,58 @@
         "validFrom": "2026-06-28",
         "url": "https://allevents.in/bangalore/lippan-artwork/3900030322234801",
         "price": "999.00",
+        "name": "TICKET FOR ONE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Decorate Cup Cakes",
+    "image": "https://cdn-az.allevents.in/events8/banners/324da7c0-7b31-11f1-b18e-dfc0ec596bf4-rimg-w1200-h600-dcfefefe-gmir.jpg?v=1783558665",
+    "startDate": "2026-07-05T17:30:00+05:30",
+    "endDate": "2026-11-22T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Do you like cupcakesIf yes then lets make oneCome and experience the joy of baking your own cupcake from scratch in our cozy welcoming space at our spaceWhat you will get to learnBasic cupcake batter preparationBaking techniques for soft fluffy cupcakesHow to decorate cupcakes using whipping creamSi",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "2026-11-22T17:30:00+05:30",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+        "lowPrice": "1499.00",
+        "price": "1499.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-06-28",
+        "availabilityEnds": "",
+        "validFrom": "2026-06-28",
+        "url": "https://allevents.in/bangalore/decorate-cup-cakes/3900030322256213",
+        "price": "1499.00",
         "name": "TICKET FOR ONE"
       }
     ]
@@ -1848,6 +1900,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Japanese Chigiri-e",
+    "image": "https://cdn-az.allevents.in/events9/banners/fcf5e300-d114-11f1-958f-31ad8555babb-rimg-w1200-h600-dce8c8a8-gmir.jpg?v=1793002370",
+    "startDate": "2026-11-01T13:01:00+05:30",
+    "endDate": "2026-11-01T14:01:00+05:30",
+    "url": "https://allevents.in/bangalore/japanese-chigiri-e/3900030915531351",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Chai Bar: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "66, 11th Cross Road, 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9784",
+        "longitude": "77.6383"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "No brushes. No scissors. Just your hands and beautiful Japanese paper.Chigiri-e is a centuries old Japanese art form where paper is torn, not cut, and layered into a picture. Those soft, feathered edges are the whole point. They catch the light like watercolour and give every piece a texture you sim",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-26",
+        "availabilityEnds": "2026-11-01T14:01:00+05:30",
+        "validFrom": "2026-10-26",
+        "url": "https://allevents.in/bangalore/japanese-chigiri-e/3900030915531351"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Vishnu Pai Live",
     "image": "https://cdn-az.allevents.in/events9/banners/dd6ccc60-d1a5-11f1-9547-cd6e084cb72b-rimg-w1200-h600-dc483828-gmir.jpg?v=1793064579",
     "startDate": "2026-11-21T20:00:00+05:30",
@@ -2037,6 +2128,45 @@
         "availabilityEnds": "2026-10-30T19:30:00+05:30",
         "validFrom": "2026-10-27",
         "url": "https://allevents.in/bangalore/bricks-and-haunts-a-lego-halloween-build-experience/3900030926505717"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bollywood Workshop with Amisha",
+    "image": "https://cdn-az.allevents.in/events4/banners/78ffcc30-d2a6-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dcf8e8a8-gmir.jpg?v=1793174786",
+    "startDate": "2026-10-31T13:30:00+05:30",
+    "endDate": "2026-10-31T15:00:00+05:30",
+    "url": "https://allevents.in/bangalore/bollywood-workshop-with-amisha/3900030929786726",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Maxburn Elite: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Maxburn, 3rd and 4th floor Site, 8, 80 Feet Road, 4th Block, S.T. Bed, Area, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9338",
+        "longitude": "77.6306"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Celebrate the magic of Bollywood with an exciting Bollywood dance workshop with Amisha featuring a special Shah Rukh Khan birthday celebration.Whether you are a beginner or someone who loves Bollywood dance this workshop is designed for all age groups and all experience levels.Come with all your ent",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-28",
+        "availabilityEnds": "2026-10-31T15:00:00+05:30",
+        "validFrom": "2026-10-28",
+        "url": "https://allevents.in/bangalore/bollywood-workshop-with-amisha/3900030929786726"
       }
     ]
   },
@@ -2583,45 +2713,6 @@
         "availabilityEnds": "2026-10-31T16:30:00+05:30",
         "validFrom": "2026-10-30",
         "url": "https://allevents.in/bangalore/mini-masterpiece/3900030937206636"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bloom canvas",
-    "image": "https://cdn-az.allevents.in/events3/banners/c816da70-d427-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dce8d8d8-gmir.jpg?v=1793340275",
-    "startDate": "2026-10-31T15:00:00+05:30",
-    "endDate": "2026-10-31T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/bloom-canvas/3900030937769735",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Starbucks: Jayanagar, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Building No. 804, Avenue 4th Block 9th Main, 35th Cross Road, Near BSNL Office, Jayanagar, Bengaluru, Karnataka 560041, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9246",
-        "longitude": "77.5838"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "3D Bloom Canvas WorkshopTurn a blank canvas into a blooming 3D artwork. Learn how to create raised floral textures and build layers that give your painting depth, dimension and a unique handmade look.No prior experience needed. All materials are provided, and you can take your finished 3D artwork ho",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-30",
-        "availabilityEnds": "2026-10-31T16:30:00+05:30",
-        "validFrom": "2026-10-30",
-        "url": "https://allevents.in/bangalore/bloom-canvas/3900030937769735"
       }
     ]
   },

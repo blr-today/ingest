@@ -4706,62 +4706,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Movement & Matcha Sun-date",
-    "description": "Spend your Sunday moving, making and connecting. 🍵Join NaCl x 1POP for a morning of Pilates and breathwork, a tote you design together, and a few fun challenges along the way. Wind down with iced matcha by Chiran Tea, small bites by Mäki, and head home with a goodie bag.Come with your girls, or come solo and find them here.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0F9157EFE51C41968BCA570A51B1B43B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A3357F3B5FBD48098264E75C92B703C1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9AF46BB8ECB247508C0378C56DF3B4C7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D50CBB2E52D24CA6AA7E0D67A1E143E5_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/927D865262D74B3FB517180DF6204FDE_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/19CC20DFD1D5457FACA3B4C041A27720_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8FD48A52A4EA43E7885EE2BE65CA8ABD_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E58EDF60FD4D4A7A9080FC32529FAB25_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C7657F410B014AE1A5B68799CBB5033D_converted_webp.webp"
-    ],
-    "startDate": "2026-11-01T10:00:00+05:30",
-    "endDate": "2026-11-01T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2965, First Floor, 4th Cross, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.969937,
-        "longitude": 77.643633
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "NaCl",
-      "description": "NaCl is a community-centred brand that makes gathering fun. Through experiences across movement, culture, wellness and more, we bring people together to connect, explore and try something new.",
-      "url": "https://urbanaut.app/partner/nacl",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/7D265BD7842A4C76A1A6450D0EA41523_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/movement-matcha-sun-date-17749",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Pop-up Event",
-      "Food & drink",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Origin and Innovation",
     "description": "Origin and Innovation: Genetic Coffee x Vismaya PlantationJoin us for an afternoon with Manasa and Vishal from Vismaya Plantation, along with Bhavnish from Genetics Coffee, as we explore their partnership in developing the exclusive coffees we have on our Discovery Menu this month.  These coffees have undergone an innovative microbial fermentation process, developed specially by the roaster and planter.",
     "image": [
@@ -5298,6 +5242,50 @@
       "Workshop",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gaylloween Movie Night - The Carmilla Movie",
+    "description": "Join us for a very gay-lloween this year! 🎃🦇We’re screening The Carmilla Movie (2017), directed by Spencer Maybee, for a night of sapphic romance, vampire drama, and Halloween fun. Whether you’re here for the supernatural love story or simply looking to indulge in the Halloween spirit with good company, then grab those tickets!Synopsis:It’s been 5 years since Laura & Carmilla vanquished the apocalypse & Carmilla became a mortal human. They have moved into an apartment in Toronto but their domestic bliss is ruptured when she begins to show signs of “re-vamping”.English w/ Subtitles | 1h 37m | Comedy, Romance, Thriller | Only for those above the age of 18. ⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/00D33B14EBCB4A1093B536D50BA733BB_converted_webp.webp"
+    ],
+    "startDate": "2026-10-31T18:30:00+05:30",
+    "endDate": "2026-10-31T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/gaylloween-movie-night-the-carmilla-movie",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   }
