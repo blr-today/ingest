@@ -9,7 +9,8 @@ on:
     - .github/workflows/bookmyshow.yml
   schedule:
     # Between the Update Data runs, since both use the same self-hosted runner
-    - cron: '17 3,15 * * *'
+    - cron: '0 3 * * *'
+      timezone: "Europe/Berlin"
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
