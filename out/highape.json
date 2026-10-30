@@ -5888,6 +5888,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Japanese art of Kintsugi | Milaap ",
+    "description": "HighlightsIntroduction to the 400-year-old Japanese art of KintsugiLearn the philosophy of resilience, mindfulness, and embracing imperfectionsHands-on ceramic ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/02/04/adf51e6392c9b6feb2e83bd7143d4690.png"
+    ],
+    "startDate": "2026-11-14T11:30:00+05:30",
+    "endDate": "2026-11-14T13:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Third Wave Coffee - HSR Layout Sector 1",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17th Cross Rd, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.911777,
+        "longitude": 77.650214
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Milaap Events",
+      "url": "https://www.highape.com/bangalore/organisers/milaap-events-0zdvj"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/japanese-art-of-kintsugi-milaap-6lcdh2ke4h",
+      "validFrom": "2026-10-30T05:31:28.920Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Milaap Events",
+        "url": "https://www.highape.com/bangalore/organisers/milaap-events-0zdvj"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/japanese-art-of-kintsugi-milaap-6lcdh2ke4h"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Japanese Kintsugi",
     "description": "HighlightsLearn the timeless Japanese art of Kintsugi in a beginner friendly workshopDiscover the philosophy of embracing imperfections through restorationRepai",
     "image": [
