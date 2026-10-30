@@ -344,7 +344,7 @@
     },
     "startDate": "2026-11-07T18:00:00+05:30",
     "endDate": "2026-11-07T20:00:00+05:30",
-    "description": "Ready to write your first programme for a quantum computer?\n\nJoin us for an interactive session exploring one of the most exciting frontiers in modern technology—quantum computing. Discover what makes quantum computers different from the devices we use every day, and get acquainted with the fascinating world of qubits, superposition and quantum circuits. \n\nWith Qiskit, an open-source software framework for quantum computing, we’ll go beyond theory to see how quantum programmes actually work and take our first steps towards writing one ourselves. No prior knowledge of quantum computing is required—just curiosity and a willingness to experiment! Whether you’re a student, a technology enthusiast or simply curious about the quantum world, come along to demystify the science, explore new possibilities and experience quantum computing hands-on.\n\nAttribution for this photo: “2018 IBM Q” by Pierre Metivier, CC BY-NC 2.0",
+    "description": "Ready to write your first program for a quantum computer?\n\nJoin us for an interactive session exploring one of the most exciting frontiers in modern technology—quantum computing. Discover what makes quantum computers different from the devices we use every day, and get acquainted with the fascinating world of qubits, superposition and quantum circuits. \n\nWith Qiskit, an open-source software framework for quantum computing, we’ll go beyond theory to see how quantum programs actually work and take our first steps towards writing one ourselves. No prior knowledge of quantum computing is required—just curiosity and a willingness to experiment! Whether you’re a student, a technology enthusiast or simply curious about the quantum world, come along to demystify the science, explore new possibilities and experience quantum computing hands-on.\n\nAttribution for this photo: “2018 IBM Q” by Pierre Metivier, CC BY-NC 2.0",
     "url": "https://quantum.scigalleryblr.org/programmes?p=hello-quantum-qiskit",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "80",
@@ -358,7 +358,7 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "If On a Winter's Night a Traveller",
+    "name": "If on a Winter's Night a Traveller",
     "location": {
       "@type": "Place",
       "name": "Patio, Science Gallery Bengaluru",
@@ -448,6 +448,29 @@
       {
         "@type": "Person",
         "name": "Chetan Ghate"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Quantum Art Experiment",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/h6zMaunWUH8U8HMP9"
+    },
+    "startDate": "2026-11-15T15:00:00+05:30",
+    "endDate": "2026-11-15T16:30:00+05:30",
+    "description": "What happens when quantum physics meets doodles, wild ideas, and a little bit of creative chaos?\n\nCome find out! Join Divya Chalapathi for a session on mixing art and quantum curiosity through playful drawing experiments, unexpected twists, geometric patterns, and imaginative creations. Explore chance, possibilities, and connections as you create, exchange ideas, and let your imagination run wild. \n\nNo drawing skills or quantum knowledge needed—just bring your curiosity! And the best part? You'll leave with your very own artwork to take home.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=the-quantum-art-experiment",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FDSC09937%20Large.jpg-1793350452972?alt=media&token=e72828dd-7338-4c1e-8129-84f7f7d60d5e",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Divya Chalapathi"
       }
     ]
   }
