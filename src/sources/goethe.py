@@ -12,7 +12,12 @@ Gets extra details from the event page itself
 def get_event_details(session, url):
     response = session.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
-    txt = soup.find(class_="event-calendar-infotext-container").get_text(strip=True)
+    info = soup.find(class_="event-calendar-infotext-container")
+    # The WAF answers cloud IPs with a challenge page that has no event markup
+    if info is None:
+        print(f"[GOETHE] No event details at {url} (HTTP {response.status_code})")
+        return None
+    txt = info.get_text(strip=True)
     img_src = soup.find(class_="event-calendar-teaser-image").find("img")["src"]
     img_src = f"https://www.goethe.de{img_src}"
 
@@ -109,7 +114,10 @@ def make_event(session, event_dict):
         ),
         "url": f"https://www.goethe.de/ins/in/en/ver.cfm?event_id={event_dict['object_id']}",
     }
-    details |= get_event_details(session, details["url"])
+    page = get_event_details(session, details["url"])
+    if page is None:
+        return None
+    details |= page
 
     if event_dict.get("registration_link_url", None):
         details["offers"]["url"] = event_dict["registration_link_url"]
@@ -155,7 +163,7 @@ def fetch_events():
     pages = Fetch(browser="chrome")
     for event in response.json()["eventItems"]:
         details = make_event(pages, event)
-        if details["@type"] != None:
+        if details and details["@type"] != None:
             events.append(details)
     return events
 

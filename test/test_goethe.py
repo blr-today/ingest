@@ -11,8 +11,9 @@ EVENT_URL = "https://www.goethe.de/ins/in/en/ver.cfm?event_id=27317867"
 
 
 class FakeResponse:
-    def __init__(self, text):
+    def __init__(self, text, status_code=200):
         self.text = text
+        self.status_code = status_code
 
     def json(self):
         return json.loads(self.text)
@@ -99,6 +100,14 @@ def test_fetch_events_drops_non_events(monkeypatch):
     monkeypatch.setattr(goethe, "get_cached_session", lambda: fake)
     monkeypatch.setattr(goethe, "Fetch", lambda browser: fake)
     assert fetch_events() == []
+
+
+def test_challenge_page_skips_only_that_event(monkeypatch, capsys):
+    fake = session(page="<html><title>Just a moment...</title></html>")
+    monkeypatch.setattr(goethe, "get_cached_session", lambda: fake)
+    monkeypatch.setattr(goethe, "Fetch", lambda browser: fake)
+    assert fetch_events() == []
+    assert f"No event details at {EVENT_URL} (HTTP 200)" in capsys.readouterr().out
 
 
 def test_empty_calendar(monkeypatch):
