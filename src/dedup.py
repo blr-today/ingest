@@ -238,10 +238,15 @@ def merge(kept, dropped, dropped_url):
     # A specific type such as ScreeningEvent beats a plain Event
     if kept.get("@type") in (None, "Event") and isinstance(dropped.get("@type"), str):
         kept["@type"] = dropped["@type"]
-    keywords = []
-    for event in (kept, dropped):
+    keywords, own_listing = [], False
+    for event, url in ((kept, kept.get("url") or ""), (dropped, dropped_url)):
         k = event.get("keywords", [])
-        keywords += [s.strip() for s in k.split(",")] if isinstance(k, str) else k
+        k = [s.strip() for s in k.split(",")] if isinstance(k, str) else k
+        keywords += k
+        # The venue's own listing outranks an aggregator copy that skips curation
+        own_listing |= rank(url) == 0 and "-CURATED" not in k
+    if own_listing:
+        keywords = [k for k in keywords if k != "-CURATED"]
     # One cost tag survives if the merged offers cannot price the event
     costs = [k for k in keywords if k in COST_TAGS]
     keywords = [k for k in keywords if k not in COST_TAGS or k == costs[0]]

@@ -261,6 +261,16 @@ def test_offers_are_kept_once_per_price():
     assert offer_list(None) == [] and as_list(None) == []
 
 
+def test_merge_keeps_venue_listings_curated():
+    skipped = {"url": "https://urbanaut.app/spot/a", "keywords": ["URBANAUT", "-CURATED"]}
+    venue = {"url": "https://attagalatta.com/a", "keywords": ["ATTAGALATTA"]}
+    merge(venue, dict(skipped), skipped["url"])
+    assert venue["keywords"] == ["ATTAGALATTA", "URBANAUT"]
+    kept = {"url": "https://district.in/a", "keywords": ["DISTRICT"]}
+    merge(kept, dict(skipped), skipped["url"])
+    assert kept["keywords"] == ["DISTRICT", "URBANAUT", "-CURATED"]
+
+
 def test_merge_combines_listings():
     kept = {
         "@type": "Event",
