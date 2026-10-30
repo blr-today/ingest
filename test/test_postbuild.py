@@ -163,3 +163,26 @@ def test_bms_pay_at_venue_workshops_are_low_quality(tmp_path):
     got = postbuild(events, tmp_path / "events.db")
     low = [url for url, e in got.items() if "LOW-QUALITY" in e["keywords"]]
     assert low == [e["url"] for e in events[:2]]
+
+
+def test_urbanaut_hosts_skip_curation(tmp_path):
+    def spot(slug, host, name, start, keywords=()):
+        return {
+            "url": f"https://urbanaut.app/spot/{slug}#{start}",
+            "name": name,
+            "startDate": start,
+            "organizer": {"name": host, "url": f"https://urbanaut.app/partner/{host}"},
+            "keywords": ["URBANAUT", *keywords],
+        }
+
+    events = [
+        spot("walk", "benbyfoot", "Fort walk", "2026-11-01", ["Walking Tour"]),
+        spot("jam", "benbyfoot", "Fort walk", "2026-11-08", ["Walking Tour"]),
+        spot("pasta", "canellastudio", "Pasta", "2026-11-01", ["Workshop"]),
+        spot("dinner", "somechef", "Supper Club", "2026-11-01", ["Food & drink"]),
+        spot("gig", "somebar", "Jazz Dinner", "2026-11-01", ["Food & drink", "Music"]),
+        spot("ai", "somecoach", "AI | Online", "2026-11-01", ["Virtual"]),
+    ]
+    got = postbuild(events, tmp_path / "events.db")
+    skipped = [url for url, e in got.items() if "-CURATED" in e["keywords"]]
+    assert skipped == [events[i]["url"] for i in (1, 2, 3, 5)]

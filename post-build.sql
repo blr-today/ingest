@@ -1634,6 +1634,73 @@ WHERE
   url = 'https://attagalatta.com/event_page.php?eventid=EVT2171';
 
 
+-- Urbanaut lists any host who pays, so the curated calendar skips these via -CURATED
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', '-CURATED')
+  )
+WHERE
+  url LIKE 'https://urbanaut.app/%'
+  AND (
+    replace(event_json ->> '$.organizer.url', 'https://urbanaut.app/partner/', '') IN (
+      -- Craft, cooking and career classes from studios that run them every week
+      'aabha', 'canellastudio', 'craftyourlove', 'creator-chart-events', 'firedup',
+      'freelancefirst', 'mountainbeekombucha', 'ourbetterplanet', 'primateadvisory',
+      'psydex', 'sanctuary-creative-studio2', 'sideways', 'studio-common-roof',
+      'foodwize', 'theweddingbluprint',
+      -- Wellness and fitness classes
+      'awaytobe', 'bandsandcups', 'copperandcloves', 'janpilatesflow',
+      'kalari-edge-bangalore', 'pawga', 'wombs', 'zuvalife', 'enabl-life',
+      'allform-athlete',
+      -- Weekly drop-in sessions at a community space
+      'angala',
+      -- Restaurant menus and promotions
+      'chavadi-native-kitchenn', 'serious-slice', 'thekaavu', 'urbanautexperiences',
+      -- Meeting strangers and singles
+      'big-nose', 'fightclubindia', 'thirdplace',
+      -- School admissions and kids' markets
+      'anandischool', 'themerchantsofhappiness'
+    )
+    -- Set dinners and tastings, unless the menu comes with a show, talk or walk
+    OR (
+      event_json -> '$.keywords' LIKE '%"Food & drink"%'
+      AND event_json -> '$.keywords' NOT LIKE '%"Live GIG"%'
+      AND event_json -> '$.keywords' NOT LIKE '%"Music"%'
+      AND event_json -> '$.keywords' NOT LIKE '%"Art & culture"%'
+      AND event_json -> '$.keywords' NOT LIKE '%"History & heritage"%'
+      AND event_json -> '$.keywords' NOT LIKE '%"Festival"%'
+      AND event_json -> '$.keywords' NOT LIKE '%"Walking Tour"%'
+      AND replace(event_json ->> '$.organizer.url', 'https://urbanaut.app/partner/', '') NOT IN (
+        'attagalatta', 'blrdesigncentre', 'pachaak', 'thehummingtree', 'unlecture'
+      )
+    )
+    OR event_json ->> '$.name' LIKE '%with strangers%'
+    -- Online sessions
+    OR event_json -> '$.keywords' LIKE '%"Virtual"%'
+  );
+
+-- A recurring Urbanaut listing shows only its next session on the curated calendar
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', '-CURATED')
+  )
+WHERE
+  url LIKE 'https://urbanaut.app/%'
+  AND EXISTS (
+    SELECT 1 FROM events earlier
+    WHERE earlier.url LIKE 'https://urbanaut.app/%'
+      AND earlier.event_json ->> '$.organizer.url' = events.event_json ->> '$.organizer.url'
+      AND earlier.event_json ->> '$.name' = events.event_json ->> '$.name'
+      AND earlier.event_json ->> '$.startDate' < events.event_json ->> '$.startDate'
+  );
+
+
 -- Rules above append without checking, so drop repeated tags last
 UPDATE events
 SET
