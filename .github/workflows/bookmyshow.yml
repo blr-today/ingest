@@ -49,9 +49,13 @@ jobs:
           find "$HOME/.cache/bms/main" -maxdepth 1 -name '????-??-??-*.json' -exec cp -t "$BMS_CACHE" {} +
         fi
         python -m src.sources bookmyshow
+    - name: Stage pages for GitHub-hosted builds
+      if: github.ref == 'refs/heads/main'
+      # The cache stores paths relative to the workspace, whose depth differs per runner
+      run: rm -rf bms-pages && cp -a "$HOME/.cache/bms/main" bms-pages
     - name: Save pages for GitHub-hosted builds
       if: github.ref == 'refs/heads/main'
       uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:
-        path: ~/.cache/bms/main
+        path: bms-pages
         key: "cache-bms-main-${{ github.run_id }}"

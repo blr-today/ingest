@@ -104,9 +104,18 @@ jobs:
       if: runner.environment == 'github-hosted'
       uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:
-        path: ~/.cache/bms/main
+        path: bms-pages
         key: "cache-bms-main-none"
         restore-keys: "cache-bms-main-"
+    - name: Move BookMyShow pages out of the workspace
+      # Before the checkout, which empties the workspace
+      if: runner.environment == 'github-hosted'
+      run: |
+        if [ -d bms-pages ]; then
+          mkdir -p "$HOME/.cache/bms"
+          rm -rf "$HOME/.cache/bms/main"
+          mv bms-pages "$HOME/.cache/bms/main"
+        fi
     - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       name: Clone self repository
       with:
