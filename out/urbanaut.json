@@ -244,6 +244,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Brigade road heritage walk.",
+    "description": "Join us as we revive our cherished walks through the historic Cantonment this year. Step back in time as we trace the origins of this storied district once the heart of colonial Bangalore.On this journey we will explore a magnificent church that has stood the test of time pay homage at a solemn war memorial and admire a beautifully restored heritage structure. Along the way we will encounter stately British-era government buildings a statue of a notable foreigner and a road steeped in its own fascinating history.Every corner of the Cantonment whispers tales of its past—stories of soldiers administrators and the many communities that shaped this unique enclave. Join us as we rediscover its enduring legacy one step at a time.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E20D8ABDA31F44BFBAD03B8389A0E2DB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/20AF423338EB421EA7D2B1423BCFD52B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D86C0289EAEC4BE3B02597FA3F64C9E9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D5B0D524256F4B24A09DD1484F52F16A_converted_webp.webp"
+    ],
+    "startDate": "2026-11-21T08:00:00+05:30",
+    "endDate": "2026-11-21T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "15K, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJP3DMwH8WrjsRwI1WnfVpMLo",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9700658,
+        "longitude": 77.60594429999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 750.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/brigade-road-heritage-walk",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Mahabharata Dialogues - Epic Stories",
     "description": "Embark on a captivating journey into the legendary stories of the Mahabharata. Join us for a series of live storytelling sessions that will transport you into the fascinating world of the greatest epic ever written. Immerse yourself in that world and discover the heroic deeds, complex relationships, and moral dilemmas that have enthralled audiences for centuries.Host : Abhilash Purohit is an entrepreneur and a corporate educator.These last few years, he is stuck between two states of existence: (Re)reading the Mahabharata, and talking about the characters in it - their interactions, their aspirations, and their dilemmas.To audiences small and big, he brings the joy of the stories and the lessons within the Mahabharata. He finds and shares different perspectives of well-known stories from the world`s greatest epic.When not talking Mahabharata, he loves to geek out about coding and Urdu shayari.",
     "image": [
@@ -488,56 +538,6 @@
     "url": "https://urbanaut.app/spot/movie-conversation-coffee",
     "keywords": [
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Footprints of Fraser Town",
-    "description": "\"The Fraser Town Walk explores how one of Bengaluru’s earliest planned suburbs was designed and who it was built for.We trace the foundation of Fraser Town, its early residents, and the institutions that shaped daily life. From residential bungalows to churches and schools, the walk examines power, planning, faith, and reform.We also look at layered histories. A colonial suburb built over older landscapes. Influential residents who left visible marks. Women like Lydia Muthulakshmi, whose work in education shaped young girls’ lives.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D33D59CA1D754066BC4542DDD464DE26_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7BA50224123240118CBB2EBD0CFC2BC7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D0AD361B268049678B38AB09ED57D064_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/41E2D212AF96423B99CD5A037202FB7B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9713D753A53B4A2592303F03AB41C2A0_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T16:00:00+05:30",
-    "endDate": "2026-10-31T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Frazer Town, Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9970483,
-        "longitude": 77.61440759999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 900.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru Prayana",
-      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
-      "url": "https://urbanaut.app/partner/bengaluru-prayana",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/footprints-of-fraser-town",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -870,51 +870,6 @@
     "url": "https://urbanaut.app/spot/rethinking-work-in-midlife-17038",
     "keywords": [
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Banana Tusker",
-    "description": "One fine day, Teja’s friends discovered that he was missing from his home. They decided to go on a journey to find him.About the Host: Ninoj Abraham, Creator of Storylorry Theatre and the Storylorry comic book series. He is exploring ways to make offline storytelling a wonderful, interactive, human-to-human experience.Storylorry is a tabletop theatre designed in the shape of a lorry where we can do puppet shows, kamishibai, scroll theatre, and shadow play.The show will be free for parents, teachers, and storytellers. The first three rows will be reserved for kids, and parents/elders can sit behind them.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7FA9BDF9EF9E4FB2AC33280A02DD0DE8_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1AAB24EF05D9482FB76858F137C35E92_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T18:30:00+05:30",
-    "endDate": "2026-10-31T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 236.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-banana-tusker",
-    "keywords": [
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1586,57 +1541,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "A Night of Fright 3  (Halloween Screening Event)",
-    "description": "WALK- IN TICKETS ALSO AVAILABLE!This Halloween Bollywood Crypt is All Folked up! and celebrating Folk Horror feature films and short films from India and around the world at its 3rd edition of 'A Night of Fright!We are happy to announce Bollywood Directors Prosit Roy (Paatal Lok/Pari) and Vishal Furia (Chhorri/Maa), Writer/Director Yogesh Chandekar (Tumbbad 2/Munjya) and American Film historian Tim Paxton (Wengs Chop/Monster! magazine) as our guests of honour!A Night of Fright 3 - All Folked Up!Date -31st Oct, 2026.Venue - Chamundeshwari Studios, Millers Road, BangaloreTime: 2PM-10PMTickets Strictly Limited to 150!Program schedule :Introduction to Folk Horror - Tim Paxton (Film Historian/Author)Short Folk Horror Films Curation by Yogesh Chandekar (Tumbbad 2/ Munjya/Andhadhun)Feature Films Curation by Vishal Furia and Prosit RoyShort Film List:Mother of Toads By Richard Stanley (Colour out of Space)Palace of Horrors by Ashim Aluwalia (Miss Lovely)Siksa Kubur by Joko Anwar(Satan Slaves)The Forbidden Forest by Keith RondinelliThe Nest by Ben Frankin & Anthony Melton (UK)Arcana by Jerónimo Rocha (Portugal)Kandittund by Adithi Krishnadas (India)Blood on my name, by Brandon McCormick (US)Dagon by Jacob Everett (US)ted By Al KarisiThe Other Gods (Mike Boas)+ Many more to be announced!Feature Films :Lapachapi by Vishal FuriaMystery film by Prosit RoyAdditional attractions-Merchandise (Tshirts, Books, Cds, Vinyls)Horror Poster ExhibitionChamundeshwari Studio Tour",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/EC32F863F3C54D83A73E6E78AB24F819_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1F17F395A3E24A899A3720B8A9F7826C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/89B7D94D95B74CA4B538627B308499D8_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C3E81DD258F347ECB92071D14EBA36F0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2D25EF8DBC1F489AB8E14FE1190919EC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F6C3E73287C44944A4DA08AC33EB5F6E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/21A8B1AE6B704B21BF1668B852DB3494_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T14:00:00+05:30",
-    "endDate": "2026-10-31T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "48/3, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9892956,
-        "longitude": 77.5948148
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 111,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1100.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bollywood Crypt",
-      "description": "Promoting Asian and Indian horror, fantasy, science fiction movies, tv series, comic books, books, video games and popculture since 2018",
-      "url": "https://urbanaut.app/partner/bollywoodcrypt",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/EB72138B0D5743199B6100ABF6A88EEF_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/a-night-of-fright-3-all-folked-up-halloween",
-    "keywords": [
-      "Festival",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Mycelium and Muse - Interactive Science Class",
     "description": "We often equate creativity with making art. Picasso was creative. Beethoven was creative. Van Gogh was creative.But what about the person who first picked up a piece of charcoal and scribbled on the wall of a cave, hoping the people in the next cave would get the message? Or the bowerbird who spends an entire season collecting blue bottle caps and flowers to decorate a little stage for a mate?And what about a fungus? This one is literally brainless, yet it sends out electrical signals that, when connected to a synthesizer, play out like music.So if creativity shows up in organisms without brains, it is far older than us, isn't it? That's the question we'll sit with over coffee: where creativity really begins on the tree of life, and what that means for those of us who have spent years saying \"I'm just not the creative type.\"Along the way, you'll hear a mushroom play music, and you'll make something that is deliberately, wonderfully bad. You don't need any science background to join in.Just come, grab a coffee, and let's get some creativity brewing. Because, tell you what, I'm not sure a creative life is a happier one. But I'm pretty sure it's a far more meaningful one.About the Speaker:Bitasta Datta is a microbiologist by training, an educator by profession and a science storyteller by passion.For over 10 years, she has been turning science into stories for school learners and curious adults. She started at the National Digital Library of India, went on to co-found The Synapse, led curriculum and learning experience design at BYJU'S and Tutopiya, and tinkers with content at Khan Academy.",
@@ -1765,52 +1669,6 @@
     "keywords": [
       "Music",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Boo! Ya Watchin? Screen Screams: Halloween",
-    "description": "About the Event:Tarot reading by Queen Andro: 5:30-6:30SCREEN SCREAMS: PSYCHOThis Halloween, Boo!yawatchin? is checking into the Bates Motel. No vacancies. No refunds. Costume compulsory!And absolutely no showers.For our annual Halloween screening, we’re going back to where so much of modern horror learned how to behave badly: Alfred Hitchcock’s “Psycho”Come for the screaming, stay for the costume competition, judged by Scream Queen herself, Queen Andro.Happy Halloween. Please lock the bathroom door.The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosystem.Now, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it’s a hub for creativity, culture and collaboration.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9A9557320773478EB9D264168372E2BC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1D373BDF1E2648FABBCCB70C9692F35F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DFE129D1FAC6490BA561B63A47DBDC8E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4A888CD65CCC4BD9823A1593D393D635_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T17:30:00+05:30",
-    "endDate": "2026-10-31T20:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9711178,
-        "longitude": 77.6410673
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 37,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 750.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Humming Tree",
-      "description": "The Humming Tree, a cornerstone of Bangalore’s independent music, art, and culture (2013–2019), returns in 2026 with a purpose-built Indiranagar space. With 600+ capacity, world-class sound and lighting, and diverse F&B, it’s a hub for creativity and collaboration.",
-      "url": "https://urbanaut.app/partner/thehummingtree",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/203368D76E7346A98A12879ECDCDF0AD_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/boo-ya-watchin-screen-screams-halloween",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -2749,50 +2607,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kurukshetra",
-    "description": "Every culture has a night when the dead come closer. Long before modern campfire tales, the Mahabharata recorded nights when shadows held daggers, man-eating monsters went on rampages, and the dead climbed out of dark river waters to speak with the living.Join Aparna Jaishankar as she shares ominous, spine chilling tales from the many Mahabharatas found across cultures",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7B6549E8569B46FFA8B79DA816492951_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T19:00:00+05:30",
-    "endDate": "2026-10-31T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/kurukshetra",
-    "keywords": [
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Rouge",
     "description": "Founded in 2018 by pianist Madeleine Cazenave, ROUGE quickly established itself as a leading presence in the French new jazz scene. This piano, double bass and drums trio creates atmospheric music rooted in a quest for simplicity, drawing inspiration from cinema, classical music and contemporary pop-folk. Each composition evokes a rich palette of images, colours and emotions, moving between softness, intensity and intimacy. With Vermeilles, their second album released on Label Bleu, ROUGE reaches a new milestone, showcasing greater maturity and collective mastery. Their melodic and colourful compositions blend traditional jazz with contemporary soundscapes, creating music that is both sophisticated and accessible. Madeleine Cazenave – Piano Sylvain Didou – Double Bass Boris Louvet – Drums ",
@@ -3568,50 +3382,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "🖤 DARK MODE ON: A Halloween Takeover 🎃",
-    "description": "This Halloween, it's time to switch your DARK MODE ON.The BLR Crawl Club presents a Halloween takeover that's equal parts mysterious, mischievous, and unforgettable.Think after-hours energy, wicked cocktails, unexpected conversations, and a room full of people ready to embrace their darker side.We're taking over KICO for a night of music, dancing, cocktails, and a little Halloween madness.Hosted by Shweta & Palak, this is your invitation to step away from the ordinary, meet interesting people, dance to great music, and celebrate Halloween in your own way.What's in store? 🦇🍸 One drink included in your ticket🎧 DJ, music and dancing🖤 A curated crowd and after-hours energy🎃 Halloween-inspired cocktails and a few surprisesDress Code: DARK MODE ON 🖤Think black, gothic, mysterious, or your own interpretation of the dark side.Go all out or keep it effortlessly dark. Costumes are welcome, not compulsory.Come as you are. Or as your alter ego.Your usual self can take the night off.This Halloween, DARK MODE ON. 🦇",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2A36ABA151CB4D3F9B0E84E64C3EDF9F_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T20:00:00+05:30",
-    "endDate": "2026-10-31T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Marks Square, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9737323,
-        "longitude": 77.60170459999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 999.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Drawing Room",
-      "description": "Welcome to The Drawing Room, a delightful gathering of art lovers, travel enthusiasts and wellness seekers. Here, we share experiences and embark on journeys together.",
-      "url": "https://urbanaut.app/partner/thedrawingroom",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3AB69D423A3741E4B6FEF64317072F8B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/dark-mode-on-a-halloween-takeover",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Sketchy Mornings at Beku!",
     "description": "In a world increasingly dependent on AI for most things, and a world of AI art that steals and operates on the principle of \"making your life easier\", we're less and less encouraged to create for the sake of making something, and are forced to think along the lines of practicality, functionality, and perfectionism.In an effort to go completely against that notion, we happily welcome you to Sketchy Mornings at Beku, where no matter who you are, and where you're at in your journey of creation, we'd like you to bring yourself, and bring a desire to sketch something out of your own hands. Bring a friend or maybe two while you're at it!Any medium. Any materials. Zero pressure.Let's make something we're proud of.Note: You can bring your own sketchbook and materials, or we can give you our art supplies. No pressure here either!⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
@@ -3652,52 +3422,6 @@
     "keywords": [
       "Leisure",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ghost Story Night",
-    "description": "Ghost Story Night is an unscripted storytelling session in which event-goers sign up as either storytellers or listeners. Storytellers are given up to 10 minutes to narrate a ghost story (they can share their own story or the story of someone else) for the audience. Best story of the night wins a prize!The storytelling session will be followed by a social hangout. If you’ve ever enjoyed telling scary stories around the campfire, this is the event for you!Slots are limited (especially storyteller slots), so sign up as soon as you can. We look forward to spending Halloween Night hearing your very best fright night stories!About the Collective:The Ghost Story Collective is a community-driven storytelling organization with a focus on raw, unscripted ghost story events. Instead of telling well-known ghost stories, we invite interested audience members to sign up as storytellers and to tell the story that’s been haunting them (à la “Are You Afraid of the Dark,” for any 90s TV fans). We believe that stories of the ghostly and supernatural speak to the inherent drama of our lives, and to the challenges of the societies in which we live. To that end, we hope to bring together a variety of people to tell their own ghost stories or stories of people they know, and thus, to reveal something frightening, truthful, and even beautiful about the world we inhabit.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A5C4F85D05BE4000A8C2B5C6A20E8C93_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T18:45:00+05:30",
-    "endDate": "2026-10-31T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJV2r3S9wVrjsRG1fYx1RpiYg",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9596437,
-        "longitude": 77.5873823
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 34,
-    "remainingAttendeeCapacity": 32,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Ghost Story Collective",
-      "description": null,
-      "url": "https://urbanaut.app/partner/the-ghost-story-collective",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/74F08394576A4024BBE7A2D4699BF207_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ghost-story-night-blr",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
       "URBANAUT"
     ]
   },
@@ -3801,52 +3525,6 @@
     "keywords": [
       "Workshop",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dial up your Pleasure! - A Talk by Dr. Chaitra Rao",
-    "description": "'Do Yourself a Favour: Dial Up the Pleasure'When was the last time you made pleasure a priority?Somewhere between work, responsibilities, routines and everything life demands of us, we often forget to make space for intimacy, connection and simply feeling good.But pleasure isn't frivolous. What if it's an essential part of living a healthier, fuller life?Join us for 'The Living Room Sessions', an intimate and open conversation with 'Dr. Chaitra Rao', a cognitive neuroscientist, PhD in Psychology and internationally certified intimacy coach.Together, we'll explore the science of pleasure, our relationship with our bodies, and why intimacy and well-being deserve more space in our everyday lives.Expect an insightful talk, curious questions, and a little tea and conversation afterwards.No prior knowledge needed. Just bring your curiosity.Date: Saturday, 31st October 2026Time: 6:00 PM – 7:15 PMVenue: JustBooks, Indiranagar, Bangalore**Open to everyone aged 18 and above.**Limited spots, to keep the gathering intimate.**To reserve your spot:** WhatsApp 8095190255Come curious. Leave with something to think about, and perhaps a little more permission to prioritise yourself.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/14D28D3503E7453DBA69362B347FE473_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T18:00:00+05:30",
-    "endDate": "2026-10-31T19:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, Sector XI, L82, 9th B Main Rd, LIC Colony, HAL 3rd Stage, Sector 11, Jeevan Bima Nagar, Bengaluru, Karnataka 560075, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9684609,
-        "longitude": 77.6517856
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 499.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ekta's Gatherings",
-      "description": null,
-      "url": "https://urbanaut.app/partner/ektas-gatherings",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/D0910B009A164F07BEEA62444133BDBC_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/dial-up-your-pleasure-a-talk-by-dr-chaitra-rao",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Wellness",
       "URBANAUT"
     ]
   },
@@ -4132,52 +3810,6 @@
       "Workshop",
       "Active",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BYO-Personality: Sober Stroll and Conversations",
-    "description": "Bring Your Own Personality: Sober Stroll and ConversationsHow do we discover people anew in life?People who have A tendency to notice things. A capacity to experience life. An ability to assimilate lived experiences. People who delight in discovering themselves and others.How do we make such discoveries?Make some effort.Bring Your Own PersonalityBe Respectful. Be Curious.That should work.What do we exactly do:A group of 8 (max) people. 90 minutes of walk together through a neighbourhood's foothpaths. + Engaging conversations.For starters, Share a glimpse of your personality by filling up this questionnaire.https://opnform.com/forms/byop-rvo8pm/Participants will be curated based on their responses to the questionnaire.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8BADF3353BC34BE69BFE68839D65C2FA_converted_webp.webp"
-    ],
-    "startDate": "2026-10-31T18:00:00+05:30",
-    "endDate": "2026-10-31T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9783692,
-        "longitude": 77.6408356
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5000,
-    "remainingAttendeeCapacity": 4997,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "BYOPersonality",
-      "description": "Not a brand or event agency. A human stirring up murmurations.",
-      "url": "https://urbanaut.app/partner/byopersonality",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/147EFBD568644D62A018FE23EBC6DDC4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/byo-personality-sober-stroll-and-conversations",
-    "keywords": [
-      "Leisure",
-      "Walking Tour",
       "URBANAUT"
     ]
   },
@@ -5594,6 +5226,512 @@
     "url": "https://urbanaut.app/spot/yogawithpuppieatheyuotrispaces",
     "keywords": [
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Yoga with Puppies at The Treehouse",
+    "description": "Join us for a beginner-friendly yoga session surrounded by the sweetest shelter puppies. It’s a light, relaxing flow where the pups freely wander around your mat, making the experience calm, happy, and a little chaotic in the best way.All the puppies are from local shelters and up for adoption, and a part of your ticket goes toward their care. You don’t need any yoga experience - the session is guided and open to all.The class is 60 minutes long. Please arrive 15 minutes early, and feel free to stay back a bit after to spend more time with the dogs.Seats fill up fast - book your spot soon!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5E853A328FF142878EA86716A1C08972_converted_webp.webp"
+    ],
+    "startDate": "2026-11-29T11:00:00+05:30",
+    "endDate": "2026-11-29T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "477, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBfTTGAAXrjsRjfIIRMaGd9A",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9788825,
+        "longitude": 77.6417088
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1416.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pawga Pets Yoga",
+      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
+      "url": "https://urbanaut.app/partner/pawga",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/56384ED1915F45B195D3A130290A4940_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/yogawithpuppiesathetreehouse",
+    "keywords": [
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Diya Painting with Puppies at Story Coffee",
+    "description": "Spend an hour painting a diya while curious rescue puppies wander around you. You’ll receive all the art supplies you need, plus a diya to paint, and guidance through creative prompts designed for the experience.The prompts invite you to slow down, reflect, and bring your thoughts and feelings onto the canvas. While you paint, puppies from local shelters are free to explore, play, nap, or come over for a cuddle if they feel comfortable; interactions are never forced.More than just a painting session, the experience gives shelter puppies a chance to socialise with new people, helping them build confidence and increasing their chances of finding loving homes.What to expect:All painting supplies + diya providedTime with friendly rescue puppiesGuided creative promptsA relaxed, intimate setting with limited seatsArrival: Please arrive 15 minutes early. You’re also welcome to stay for another 15–20 minutes after the session to spend some extra time with the puppies.We intentionally limit seats to keep the experience comfortable and peaceful for guests and the puppies, so we recommend booking in advance.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/93CC31F5F897470BA41CF2F5F13EC6B7_converted_webp.webp"
+    ],
+    "startDate": "2026-11-15T11:00:00+05:30",
+    "endDate": "2026-11-15T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st floor, 42, 1st Main Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNeSxSkYVrjsRn1trfLNU6Ao",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.92917,
+        "longitude": 77.6346981
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1416.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pawga Pets Yoga",
+      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
+      "url": "https://urbanaut.app/partner/pawga",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/56384ED1915F45B195D3A130290A4940_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/diyapaintingwithpuppiesatstorycoffee",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Diya Painting with Puppies at Nuage Patisserrie",
+    "description": "Spend an hour painting a diya while curious rescue puppies wander around you. You’ll receive all the art supplies you need, plus a diya to paint, and guidance through creative prompts designed for the experience.The prompts invite you to slow down, reflect, and bring your thoughts and feelings onto the canvas. While you paint, puppies from local shelters are free to explore, play, nap, or come over for a cuddle if they feel comfortable; interactions are never forced.More than just a painting session, the experience gives shelter puppies a chance to socialise with new people, helping them build confidence and increasing their chances of finding loving homes.What to expect:All painting supplies + diya providedTime with friendly rescue puppiesGuided creative promptsA relaxed, intimate setting with limited seatsArrival: Please arrive 15 minutes early. You’re also welcome to stay for another 15–20 minutes after the session to spend some extra time with the puppies.We intentionally limit seats to keep the experience comfortable and peaceful for guests and the puppies, so we recommend booking in advance.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/93CC31F5F897470BA41CF2F5F13EC6B7_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T11:00:00+05:30",
+    "endDate": "2026-11-28T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "787, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNW5T4KcVrjsRY7LYpyiKSSg",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9698841,
+        "longitude": 77.64070269999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1416.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pawga Pets Yoga",
+      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
+      "url": "https://urbanaut.app/partner/pawga",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/56384ED1915F45B195D3A130290A4940_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/diyapaintingwithpuppiesatnuagepatisserie",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Toffee & Talk Book Club Meet-Up — Nov 2026",
+    "description": "If you crave connection, wholesome conversations, and cosy meet-ups with other book lovers, this is the place to be!Toffee & Talk Book Club is a cosy little community of book lovers celebrating incredible literature from around the world. It’s a safe space for literary fiction lovers who enjoy reading together and talking about books in a warm, relaxed setting. Every month, we pick a book, read it together on the Fable app or WhatsApp (our free online community), and then gather for an in-person meet up at the end of the month to discuss, play, and connect.About this month's book: The Bookshop Woman by Nanako HanadaA bookseller in Tokyo is navigating a personal crisis. She downloads an app called 'Perfect Stangers' and starts meeting people and recommending them books that might change their lives. It's a cosy and charming, bookish memoir about unexpected connections, starting over, and the magic of finding the right book at the right time.How does this book club work? We'll have fun ice-breakers, guided book-of-the-month discussions, bookish games, and engage in some fun reading journal and activities to keep things interesting. You will also receive cute book marks and a custom-made zine to take away! All materials will be provided.To read along before the meet-up: Join Toffee & Talk Book Club on the Fable app. It's completely free and open to everyone.Location:📍 Toffee & Talk, JayanagarFind more details on the @toffeeandtalk.bookclub Instagram page or WhatsApp group.This event is co-hosted by Merlin (@quarter.life.bliss) who is a lifelong book lover looking to make friends with bookish people in Bangalore.Terms & Conditions: All ticket sales are final — one ticket per person. Please show us the booking confirmation during entry. We do not offer refunds, but tickets are transferable — feel free to pass yours along to a friend if you can't make it! If the ticket is transferred, please show us the booking confirmation email to be a part of the event.Please arrive at the cafe by 11.45 PM so we can settle in and start together at 12 PM!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A8A0F49C0A7E4740ADA3C75EA202633A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8A52AFEB42344EA78A83251B12AB2596_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F0FD3E4F615141CB88CD02FB05F743DB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1341F87FE7A347BC938B61C6B84DC73E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D37A34E4DACC40A3A3D77A119E41970A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/EB304E4ED29542C7AE50513CC4C49AC4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/564F277298434C1B8D00620FC26BDD0B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1E59B23F12DF49F1AC13610E80F0A519_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BAE1F660732948FAA6A01AC36711ABD2_converted_webp.webp"
+    ],
+    "startDate": "2026-11-29T12:00:00+05:30",
+    "endDate": "2026-11-29T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "36th Cross, 20th Main Rd, 4th T Block East, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9231582,
+        "longitude": 77.5906605
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 11,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 349.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toffee and Talk",
+      "description": "At Toffee & Talk, we believe the best moments are shared over good coffee and meaningful conversations. Our events bring people together through art, hobbies & creativity. Join us for thoughtfully curated experiences that turn everyday moments into something special.",
+      "url": "https://urbanaut.app/partner/toffee-and-talk",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/22FACA17BB9E4855A6B0F86B0ADA91FD_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/toffeeandtalk-bookclub-meet-up-nov-2026",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Beku Trivia Night - Supernatural Edition",
+    "description": "A world where myths come alive, legends linger, and the unexplained takes the stage. from eerie folklore to haunted histories, the paranormal show of supernatural covers it all. this trivia night will test your knowledge (and will) for all things spooky. Gather your fellow demon hunters and join us for an evening of curious questions, unexpected twists, and a little friendly competition. think you know the supernatural? It's time to prove it.Come for the trivia, stay for the mystery. just remember — not everything has an explanation.Who can attend? Participants aged 15 and above are welcome! Parents or guardians who wish to participate alongside their children are also welcome and will need to purchase a separate ticket.⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C9E17072C9E740E3A903E9102679279D_converted_webp.webp"
+    ],
+    "startDate": "2026-11-29T19:00:00+05:30",
+    "endDate": "2026-11-29T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 27,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 399.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/beku-trivia-night-supernatural-edition",
+    "keywords": [
+      "Leisure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "GFT: November Edition in Bangalore",
+    "description": "Grounds for Thought: Bangalore, November 2026A Blue Tokai × unLecture Series, Three evenings. Three very different conversations. Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Bangalore runs from constitutional literacy to the history of economic ideas, closing with a reframing of how India's princely states shaped its founding.15th November: Anjor BhaskarDemocracy Is Dying. Why Don't Young People Care? Democracy doesn't die when constitutions fail — it dies when citizens stop practising democratic values. Anjor Bhaskar, faculty at Azim Premji University and founder of Dialogues on Democracy and Development, has worked with over 30,000 participants across India on what he calls constitutional literacy: translating values like liberty, equality, and fraternity into everyday practice. This session asks why so many young people know more about celebrities than the Constitution, why misinformation outruns truth so easily, and why constitutional morality may be the most important skill nobody is teaching.21st November: Alex M. Thomas Fantastic Economic Theories and Where to Find Them Are wages and interest rates \"fantastic\" in the sense of excellent — or in the sense of hard to believe? Alex M. Thomas, Associate Professor of Economics at Azim Premji University and author of the widely used textbook Macroeconomics: An Introduction, takes this question through the history of economic ideas: does raising the minimum wage really raise unemployment? Does the rate of interest actually capture how people value the present over the future? An interactive session that moves from classical political economy to a sharper way of thinking about economic policy — and who it's really for.28th November: Shruti Viswanathan Princely States and Constitutionalism: Uncovering the Many Imaginations of People, Power and Politics India's founding is usually told as a story with two actors — British India, and from 1946, the Constituent Assembly. Shruti Viswanathan, founder of The Equals Project and a graduate of NLSIU Bangalore and the Fletcher School at Tufts, argues that leaves out a third: the roughly 565 princely states governing a third of the subcontinent's population, usually mentioned only at the moment of their accession, as a problem to be solved rather than as sites of constitutional thought in their own right. This session reframes their integration as a provocation — revealing that the \"Idea of India\" was never a single, inevitable outcome, but a fiercely contested space with constitutional activity of its own, often well before 1947.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C837C33B85AD404DB4B4DF82A4A67BD3_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B113153EA3D344FB8A441DBA3C392819_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9C0CC1EDCA4146BFA260CC4B2B09A8DC_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FFE79E6D16BE42A0AAC528AF35E96A02_converted_webp.webp"
+    ],
+    "startDate": "2026-11-15T17:00:00+05:30",
+    "endDate": "2026-11-15T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "583, 20th Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9407077,
+        "longitude": 77.6201045
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 45,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 300.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "description": "unLecture is Delhi’s first-of-its-kind event series that brings big ideas out of classrooms and into cafés, and bars. Each edition features lectures by leading thinkers, followed by an open Q&A session and a lot more uniquely curated for each event.",
+      "url": "https://urbanaut.app/partner/unlecture",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3327826D9DA24CF7A9708FA2736F9D34_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/gft-november-edition-in-bangalore#2026-11-15T1700",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "GFT: November Edition in Bangalore",
+    "description": "Grounds for Thought: Bangalore, November 2026A Blue Tokai × unLecture Series, Three evenings. Three very different conversations. Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Bangalore runs from constitutional literacy to the history of economic ideas, closing with a reframing of how India's princely states shaped its founding.15th November: Anjor BhaskarDemocracy Is Dying. Why Don't Young People Care? Democracy doesn't die when constitutions fail — it dies when citizens stop practising democratic values. Anjor Bhaskar, faculty at Azim Premji University and founder of Dialogues on Democracy and Development, has worked with over 30,000 participants across India on what he calls constitutional literacy: translating values like liberty, equality, and fraternity into everyday practice. This session asks why so many young people know more about celebrities than the Constitution, why misinformation outruns truth so easily, and why constitutional morality may be the most important skill nobody is teaching.21st November: Alex M. Thomas Fantastic Economic Theories and Where to Find Them Are wages and interest rates \"fantastic\" in the sense of excellent — or in the sense of hard to believe? Alex M. Thomas, Associate Professor of Economics at Azim Premji University and author of the widely used textbook Macroeconomics: An Introduction, takes this question through the history of economic ideas: does raising the minimum wage really raise unemployment? Does the rate of interest actually capture how people value the present over the future? An interactive session that moves from classical political economy to a sharper way of thinking about economic policy — and who it's really for.28th November: Shruti Viswanathan Princely States and Constitutionalism: Uncovering the Many Imaginations of People, Power and Politics India's founding is usually told as a story with two actors — British India, and from 1946, the Constituent Assembly. Shruti Viswanathan, founder of The Equals Project and a graduate of NLSIU Bangalore and the Fletcher School at Tufts, argues that leaves out a third: the roughly 565 princely states governing a third of the subcontinent's population, usually mentioned only at the moment of their accession, as a problem to be solved rather than as sites of constitutional thought in their own right. This session reframes their integration as a provocation — revealing that the \"Idea of India\" was never a single, inevitable outcome, but a fiercely contested space with constitutional activity of its own, often well before 1947.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C837C33B85AD404DB4B4DF82A4A67BD3_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B113153EA3D344FB8A441DBA3C392819_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9C0CC1EDCA4146BFA260CC4B2B09A8DC_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FFE79E6D16BE42A0AAC528AF35E96A02_converted_webp.webp"
+    ],
+    "startDate": "2026-11-21T17:00:00+05:30",
+    "endDate": "2026-11-21T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "583, 20th Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9407077,
+        "longitude": 77.6201045
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 45,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 300.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "description": "unLecture is Delhi’s first-of-its-kind event series that brings big ideas out of classrooms and into cafés, and bars. Each edition features lectures by leading thinkers, followed by an open Q&A session and a lot more uniquely curated for each event.",
+      "url": "https://urbanaut.app/partner/unlecture",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3327826D9DA24CF7A9708FA2736F9D34_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/gft-november-edition-in-bangalore#2026-11-21T1700",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "GFT: November Edition in Bangalore",
+    "description": "Grounds for Thought: Bangalore, November 2026A Blue Tokai × unLecture Series, Three evenings. Three very different conversations. Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Bangalore runs from constitutional literacy to the history of economic ideas, closing with a reframing of how India's princely states shaped its founding.15th November: Anjor BhaskarDemocracy Is Dying. Why Don't Young People Care? Democracy doesn't die when constitutions fail — it dies when citizens stop practising democratic values. Anjor Bhaskar, faculty at Azim Premji University and founder of Dialogues on Democracy and Development, has worked with over 30,000 participants across India on what he calls constitutional literacy: translating values like liberty, equality, and fraternity into everyday practice. This session asks why so many young people know more about celebrities than the Constitution, why misinformation outruns truth so easily, and why constitutional morality may be the most important skill nobody is teaching.21st November: Alex M. Thomas Fantastic Economic Theories and Where to Find Them Are wages and interest rates \"fantastic\" in the sense of excellent — or in the sense of hard to believe? Alex M. Thomas, Associate Professor of Economics at Azim Premji University and author of the widely used textbook Macroeconomics: An Introduction, takes this question through the history of economic ideas: does raising the minimum wage really raise unemployment? Does the rate of interest actually capture how people value the present over the future? An interactive session that moves from classical political economy to a sharper way of thinking about economic policy — and who it's really for.28th November: Shruti Viswanathan Princely States and Constitutionalism: Uncovering the Many Imaginations of People, Power and Politics India's founding is usually told as a story with two actors — British India, and from 1946, the Constituent Assembly. Shruti Viswanathan, founder of The Equals Project and a graduate of NLSIU Bangalore and the Fletcher School at Tufts, argues that leaves out a third: the roughly 565 princely states governing a third of the subcontinent's population, usually mentioned only at the moment of their accession, as a problem to be solved rather than as sites of constitutional thought in their own right. This session reframes their integration as a provocation — revealing that the \"Idea of India\" was never a single, inevitable outcome, but a fiercely contested space with constitutional activity of its own, often well before 1947.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C837C33B85AD404DB4B4DF82A4A67BD3_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B113153EA3D344FB8A441DBA3C392819_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9C0CC1EDCA4146BFA260CC4B2B09A8DC_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FFE79E6D16BE42A0AAC528AF35E96A02_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T17:00:00+05:30",
+    "endDate": "2026-11-28T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "583, 20th Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9407077,
+        "longitude": 77.6201045
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 45,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 300.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unLecture",
+      "description": "unLecture is Delhi’s first-of-its-kind event series that brings big ideas out of classrooms and into cafés, and bars. Each edition features lectures by leading thinkers, followed by an open Q&A session and a lot more uniquely curated for each event.",
+      "url": "https://urbanaut.app/partner/unlecture",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3327826D9DA24CF7A9708FA2736F9D34_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/gft-november-edition-in-bangalore#2026-11-28T1700",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lasya Ft. Shriya S Rao and Vidyashree H.S",
+    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Shriya S Rao and Vidyashree H.S. Join us and watch them create magic on stage.Open to all ages, tickets applicable for attendees above 5 years of ageNote: Valid institutional to be mandatorily produced for entry of 'Student Pass' holders.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/449DC32F621F43E39A4E83F1013C5360_converted_webp.webp"
+    ],
+    "startDate": "2026-11-13T19:30:00+05:30",
+    "endDate": "2026-11-13T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9596437,
+        "longitude": 77.5873823
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 70,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 350.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "description": null,
+      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lasya-ft-shriya-s-rao-and-vidyashree-hs",
+    "keywords": [
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Amba",
+    "description": "Amba by Sowmya Vishal s a solo Bharatanatyam production that retells the story of Amba's transformation into Shikhandi from the Mahabharata. Through the traditional Margam format it explores love, rejection, vengeance, femininity and gender identity, portraying the journey of a woman who reclaims her destiny through resilience and courage.Open to all ages, tickets applicable for attendees above 5 years of ageNote: Valid institutional to be mandatorily produced for entry of 'Student Pass' holders.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D8D665CE8802428BB6AD3FB2185AD612_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T19:30:00+05:30",
+    "endDate": "2026-11-14T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9596437,
+        "longitude": 77.5873823
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 64,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 375.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shoonya - Centre for Art and Somatic Practices",
+      "description": null,
+      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/amba",
+    "keywords": [
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cosmic Karaoke",
+    "description": "Some evenings call for a different kind of soundtrack.Join us at away for an evening of live music, soulful melodies and good company with Tusker & The Croc.Rooted in devotional music and shaped by contemporary sounds, Tusker & The Croc bring together years of satsang, musical exploration and live performance. Their music moves between the traditional and the modern, creating an experience that is as much about feeling as it is about listening. The band's name draws inspiration from the Bhagavatam's story of Gajendra, the mighty elephant, and the crocodile. A story of struggle, surrender and grace, it reflects the spirit behind their music.Meet the musiciansShreesh Otta – Lead VocalsA Product Manager at PwC by day, Shreesh is also a devotional singer who has spent years leading satsangs. His music brings people together through songs that turn a gathering into a shared experience.Chavinay Sharma – Lead GuitarA 3D modelling designer by profession, Chavinay brings his musical sensibility to the band through soulful guitar work. Over the years, he has introduced contemporary musical elements into satsangs, creating a distinctive blend of traditional and modern sounds.Date: Saturday, 14 November 2026Time: 6:30 PM onwards",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/036A84D2E4904A04893AC7D9C350C2ED_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T18:30:00+05:30",
+    "endDate": "2026-11-14T20:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, Eterna, 80 Feet Rd, KHB Colony, Industrial Area, Properties,#9, Koramangala, Bengaluru, Karnataka 560095, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9355566,
+        "longitude": 77.61528640000002
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 600.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "away center",
+      "description": "an elevated wellness-centric coworking space that doubles up as a community center with carefully curated events.",
+      "url": "https://urbanaut.app/partner/awaytobe",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0799E2FB2BE403D8564DD129694C6A3_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/cosmic-karaoke",
+    "keywords": [
+      "Live GIG",
       "URBANAUT"
     ]
   }
