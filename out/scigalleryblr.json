@@ -1,63 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
-    "startDate": "2026-10-31T16:30:00+05:30",
-    "endDate": "2026-10-31T18:00:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ashi and Manasvi, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en18",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Ashi Mishra"
-      },
-      {
-        "@type": "Person",
-        "name": "Manasvi J"
-      }
-    ]
-  },
-  {
-    "@type": "Event",
-    "name": "Meow Street Mystery",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
-    },
-    "startDate": "2026-10-31T18:00:00+05:30",
-    "endDate": "2026-10-31T20:00:00+05:30",
-    "description": "We, the Three, of 13, Meow Street, host this treasure hunt and call upon your aid! O brave, capable and well-dressed strangers, might you find it in your hearts to follow the trail of our lost cat? \n\nPass the trials of tricks, in this maze of mysteries, to perhaps find treasures and treats. Might you, bedecked in imaginative quantum garb, at once Dr Jekyll and Mr Hyde or the Cheshire Cat alike, be the ones to band together and untangle this cat's cradle?\n",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=Meow-Street-Mystery",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "33",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2F4781116307_502cb1c1bf_b%20-%20Anandita%20Balsavar.jpg-1792571401684?alt=media&token=017a90fd-4ad1-48ac-8524-13f54d2ac8ae",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Anandita Balsavar"
-      },
-      {
-        "@type": "Person",
-        "name": "Manasi Narula"
-      },
-      {
-        "@type": "Person",
-        "name": "Rohit Taeja Kumar"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Optogenetics: Controlling Brain Cells with Light",
     "location": {
       "@type": "Place",

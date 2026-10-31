@@ -2,66 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Lake Hoppin'",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "this location"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l2 - moderate - 40 km (with b'fast)",
-        "price": "3610",
-        "addOn": [
-          {
-            "@type": "offer",
-            "name": "rental bike (with transport)",
-            "price": "800",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "offer",
-            "name": "transport my bicycle",
-            "price": "400",
-            "priceCurrency": "INR"
-          }
-        ]
-      },
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l3 - challenging - 100 km (with b'fast)",
-        "price": "4560",
-        "addOn": [
-          {
-            "@type": "offer",
-            "name": "rental bike (with transport)",
-            "price": "800",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "offer",
-            "name": "transport my bicycle",
-            "price": "400",
-            "priceCurrency": "INR"
-          }
-        ]
-      }
-    ],
-    "startDate": "2026-11-01T06:00:00+05:30",
-    "endDate": "2026-11-01T11:00:00+05:30",
-    "description": "Enjoy a scenic bicycle ride on country roads, either side of Kanakapura Road, on the outskirts of Bangalore. You will hop across a dozen lakes and reservoirs that are set against a backdrop of rolling hills, on the fringes of the Bannerghatta National Park and the Ragihalli State Forest. In addition to stopping at and taking in views of these scenic water bodies, get a glimpse of the rural and semi-rural life as you pass through these villages. While cattle and their herders shuttle on dirt roads flanked by fields, orchards, and plantations, flocks of birds hang out on grasslands and backwaters. Given the undulating terrain in the region, you can expect challenges in the means of short and sweet ascents, and exhilarating descents.\n\n{'DISTANCE': '25 | 40 | 100KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '230 | 450 | 1000M', '% UNPAVED': '5 | 10%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/lake-hoppin",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "Cycle School",
     "sports": "Cycling",
     "location": {
