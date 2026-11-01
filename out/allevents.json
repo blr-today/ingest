@@ -134,40 +134,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Boise Halloween Parade -- Chaos &amp; Joy!",
-    "image": "https://cdn-az.allevents.in/events10/banners/b398100f6793bfbc85166f0ecaa1ce5b12ac61e84bbc85f3126e748683d14a7e-rimg-w512-h512-dc151516-gmir?v=1769705427",
-    "startDate": "2026-11-01T06:00:00+05:30",
-    "url": "https://allevents.in/bangalore/boise-halloween-parade-chaos-and-joy/200027236384222",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "11th & Main to 6th & Main",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "11th &amp; Main to 6th &amp; Main, Bangalore, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.89611",
-        "longitude": "77.56012"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "A Come One, Come All, Y' Wanna be in a Parade, Come Be in the Parade, Participatory Manifestation of Chaos & Joy where Everyone is Welcome!",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Chaos & Joy",
-        "url": "https://allevents.in/org/chaos-and-joy/24796217"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "South Side Story 2026 - Bengaluru",
     "image": "https://cdn-az.allevents.in/events10/banners/3badf49e078adb3791b52b9a419c6f5cdee9743a2500ab73a4bdb002ae6b9b69-rimg-w1200-h628-dc080818-gmir?v=1788532441",
@@ -924,7 +890,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "SHAAM-E-RAFI-2",
-    "image": "https://cdn-az.allevents.in/events6/banners/2703b960-d278-11f1-92d0-83bf448843a0-rimg-w1200-h600-dc080808-gmir.jpg?v=1793154891",
+    "image": "https://cdn-az.allevents.in/events7/banners/9f995d10-d5ae-11f1-9187-719412f0172c-rimg-w1200-h600-dc080808-gmir.jpg?v=1793508140",
     "startDate": "2026-11-22T17:30:00+05:30",
     "endDate": "2026-11-22T21:00:00+05:30",
     "url": "https://allevents.in/bangalore/shaam-e-rafi-2/3900030635769030",
@@ -1041,7 +1007,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Ilakathamafiliya. A Telugu Stand-up Comedy Show",
-    "image": "https://cdn-az.allevents.in/events8/banners/89b22020-d268-11f1-92d0-83bf448843a0-rimg-w1200-h600-dc4818b8-gmir.jpg?v=1793148185",
+    "image": "https://cdn-az.allevents.in/events6/banners/c2ee6f60-d597-11f1-9187-719412f0172c-rimg-w1200-h600-dc4818b8-gmir.jpg?v=1793498321",
     "startDate": "2026-11-22T16:00:00+05:30",
     "endDate": "2026-11-22T17:30:00+05:30",
     "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812",
@@ -1073,6 +1039,45 @@
         "availabilityEnds": "2026-11-22T17:30:00+05:30",
         "validFrom": "2026-09-17",
         "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Jewels of India 2026 : Biggest Jewellery Festival",
+    "image": "https://cdn-az.allevents.in/events1/banners/7ac436e0-d577-11f1-9187-719412f0172c-rimg-w1200-h600-dc582818-gmir.jpg?v=1793484456",
+    "startDate": "2026-11-01T10:00:00+05:30",
+    "endDate": "2026-11-01T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/jewels-of-india-2026-biggest-jewellery-festival/3900030766034154",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tripura Vasini, Palace Grounds: Bangalore",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Armane Nagar, 10th Main Road, Bengaluru, Karnataka 560006, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0122",
+        "longitude": "77.5848"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Jewels of India 2026 - India`s Biggest Jewellery FestivalA jewellery buying experience like never before. Jewels of India Exhibition & Sale brings together 100+ top jewellers of the country at one place - giving you unmatched variety in gold, diamond and silver jewellery.From traditional Indian arti",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-03",
+        "availabilityEnds": "2026-11-01T20:00:00+05:30",
+        "validFrom": "2026-10-03",
+        "url": "https://allevents.in/bangalore/jewels-of-india-2026-biggest-jewellery-festival/3900030766034154"
       }
     ]
   },
@@ -1157,84 +1162,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clay Candle Holder Making Workshop",
-    "image": "https://cdn-az.allevents.in/events3/banners/17dab050-cf4f-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792807403",
-    "startDate": "2026-11-07T15:00:00+05:30",
-    "endDate": "2026-11-07T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-candle-holder-making-workshop/3900030830842946",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Dialogues Cafe, Koramangala: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd Floor, 21, 80 Feet Road, 4th Block, S.T. Bed, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9324",
-        "longitude": "77.6319"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This pass includes food/beverage voucher which you can redeem at the venue.What to ExpectDive into a playful, hands-on clay session where creativity flows freely. It is an easygoing space to explore, experiment, and enjoy the process - no experience needed.What You will DoShape and style your own cl",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-11-07T16:30:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/clay-candle-holder-making-workshop/3900030830842946"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Bengali Jamming Kolkata Vibe",
-    "image": "https://cdn-az.allevents.in/events6/banners/4882aad0-ceed-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792765394",
-    "startDate": "2026-11-22T19:15:00+05:30",
-    "endDate": "2026-11-22T22:35:00+05:30",
-    "url": "https://allevents.in/bangalore/bengali-jamming-kolkata-vibe/3900030838003814",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue To Be Announced: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Karnataka India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for a soulful night celebrating the sounds, stories and energy of Bengal.Bengali Jamming brings together live music, timeless Bengali melodies and high energy sing along moments in a special tribute to the music loved across generations.Expect soulful vocals, live instruments, nostalgic cl",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-15",
-        "availabilityEnds": "2026-11-22T22:35:00+05:30",
-        "validFrom": "2026-10-15",
-        "url": "https://allevents.in/bangalore/bengali-jamming-kolkata-vibe/3900030838003814"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Blindfold Drawing Challenge",
     "image": "https://cdn-az.allevents.in/events8/banners/bfcc8440-d4fa-11f1-bb79-ff670ddc0d91-rimg-w1200-h600-dc080808-gmir.jpg?v=1793430885",
     "startDate": "2026-10-31T15:00:00+05:30",
@@ -1268,45 +1195,6 @@
         "availabilityEnds": "2026-11-01T16:00:00+05:30",
         "validFrom": "2026-10-15",
         "url": "https://allevents.in/bangalore/blindfold-drawing-challenge/3900030839827716"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "A ROOFTOP SATURDAY VIBES KORMANGAL",
-    "image": "https://cdn-az.allevents.in/events8/banners/cb73bbf0-d104-11f1-958f-31ad8555babb-rimg-w1200-h600-dc080808-gmir.jpg?v=1792995394",
-    "startDate": "2026-10-31T22:00:00+05:30",
-    "endDate": "2026-11-01T03:20:00+05:30",
-    "url": "https://allevents.in/bangalore/a-rooftop-saturday-vibes-kormangal/3900030842466418",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Hungry Hippie: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "104, Vijay Building, 4th Floor, near Empire Hotel, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9346",
-        "longitude": "77.6158"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "A ROOFTOP SATURDAY VIBES KORMANGALGet ready for a high-energy Saturday night packed with Bollywood bangers EDM drops and all-time party anthems8 PM ONWARDFREE DRINKS FOR LADIEST AND C APPLYBOOK THE TICKET ONE NIGHT ONE VIBE NON-STOP ENERGYVENUE HUNGRY HIPPIE 4TH FLOOR KORAMANGALA",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-16",
-        "availabilityEnds": "2026-11-01T03:20:00+05:30",
-        "validFrom": "2026-10-16",
-        "url": "https://allevents.in/bangalore/a-rooftop-saturday-vibes-kormangal/3900030842466418"
       }
     ]
   },
@@ -1502,6 +1390,45 @@
         "availabilityEnds": "2026-11-02T01:30:00+05:30",
         "validFrom": "2026-10-20",
         "url": "https://allevents.in/bangalore/sufi-crcle-tabish-pasha-live-at-bastian-blr/3900030857883130"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lolbagh Reunion",
+    "image": "https://cdn-az.allevents.in/events1/banners/1be7df20-ced6-11f1-958f-31ad8555babb-rimg-w1200-h600-dc280808-gmir.jpg?v=1792755441",
+    "startDate": "2026-11-29T17:00:00+05:30",
+    "endDate": "2026-11-29T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/lolbagh-reunion/3900030858507447",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Prabath Kaladwaraka: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9379",
+        "longitude": "77.6241"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Get ready for an unforgettable evening of laughter with LOL Bagh Reunion a Kannada stand up comedy show bringing together some of the most entertaining comedians on one stage in BengaluruFrom hilarious everyday experiences and relatable Kannada humour to unexpected punchlines and laugh out loud mome",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-20",
+        "availabilityEnds": "2026-11-29T18:30:00+05:30",
+        "validFrom": "2026-10-20",
+        "url": "https://allevents.in/bangalore/lolbagh-reunion/3900030858507447"
       }
     ]
   },
@@ -2600,6 +2527,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Paint With Puppies By Little Flower",
+    "image": "https://cdn-az.allevents.in/events2/banners/f12ea8c0-d521-11f1-b876-0fd56e6846be-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1793447718",
+    "startDate": "2026-11-07T17:00:00+05:30",
+    "endDate": "2026-11-07T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/paint-with-puppies-by-little-flower/3900030943821218",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Story Coffee House, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1st Floor, 42, 1st Main Road, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9292",
+        "longitude": "77.6347"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Paint With Puppies By Little Flower is a joyful, interactive experience where creativity meets playful puppy energy.For Details Contact : 8095391884A Little Cafe TreatYour experience also includes rupees 200 redeemable on food and drinks at the cafe, so you can enjoy a little treat alongside your pa",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-31",
+        "availabilityEnds": "2026-11-07T18:30:00+05:30",
+        "validFrom": "2026-10-31",
+        "url": "https://allevents.in/bangalore/paint-with-puppies-by-little-flower/3900030943821218"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Clay Flower Tray Workshop",
     "image": "https://cdn-az.allevents.in/events1/banners/b3dbe3a0-d523-11f1-b876-0fd56e6846be-rimg-w1200-h600-dcf8b8b8-gmir.jpg?v=1793448474",
     "startDate": "2026-11-01T14:00:00+05:30",
@@ -2750,6 +2716,84 @@
         "availabilityEnds": "2026-11-01T16:30:00+05:30",
         "validFrom": "2026-10-31",
         "url": "https://allevents.in/bangalore/pottery-date/3900030945292345"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "SIP AND PAINT - HALLOWEEN EDITION",
+    "image": "https://cdn-az.allevents.in/events8/banners/93063520-d57a-11f1-9187-719412f0172c-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793485785",
+    "startDate": "2026-11-01T16:00:00+05:30",
+    "endDate": "2026-11-01T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/sip-and-paint-halloween-edition/3900030946269645",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons, HSR Layout: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17th Cross Road, Vanganahalli, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9121",
+        "longitude": "77.6471"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Swap small talk for brush strokes and enjoy a relaxed evening of painting, conversations and new connections.ABOUT THE EVENTJoin us for a fun and relaxing painting experience where creativity meets community. Whether you are a complete beginner or someone who enjoys painting, this experience is desi",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-31",
+        "availabilityEnds": "2026-11-01T19:00:00+05:30",
+        "validFrom": "2026-10-31",
+        "url": "https://allevents.in/bangalore/sip-and-paint-halloween-edition/3900030946269645"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Resin Koi Pond Art - Bangalore",
+    "image": "https://cdn-az.allevents.in/events7/banners/ed9705a0-d57a-11f1-9187-719412f0172c-rimg-w1200-h600-dc786858-gmir.jpg?v=1793485937",
+    "startDate": "2026-11-01T14:00:00+05:30",
+    "endDate": "2026-11-01T15:30:00+05:30",
+    "url": "https://allevents.in/bangalore/resin-koi-pond-art-bangalore/3900030946283037",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Indiranagar Social: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "37, 80 Feet Road, Hal, HAL 3rd Stage, Stage 3, New Tippasandra, Bengaluru, Karnataka 560075, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9707",
+        "longitude": "77.6476"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Whether you on a romantic date sharing a fun moment with your bestie or seeking a peaceful solo escape this workshop offers a one of a kind artistic experience.Craft your own mesmerizing koi pond using resin miniature koi fish pebbles plants and water like textures. No prior experience neededjust br",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-31",
+        "availabilityEnds": "2026-11-01T15:30:00+05:30",
+        "validFrom": "2026-10-31",
+        "url": "https://allevents.in/bangalore/resin-koi-pond-art-bangalore/3900030946283037"
       }
     ]
   },
@@ -3699,6 +3743,67 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Soy Wax Candle Making- Lotus Urli Pond",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6acf7fb9ce845.jpg",
+    "startDate": "2026-11-07T12:30:00+05:30",
+    "endDate": "2026-11-07T14:30:00+05:30",
+    "url": "https://allevents.in/bangalore/soy-wax-candle-making-lotus-urli-pond-tickets/80003378878063",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Starbucks sahakarnagar, 11th Main Road, opposite State Bank of India, Sahakar Nagar, Byatarayanapura, Bengaluru, Karnataka, India",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 2382, Ground Floor, Keshava Krishna Blk E, 15th Cross, 11th Main Rd, opposite State Bank of India, Sahakar Nagar, Karnataka 560092",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create Your Own Lotus Pond Urli Candle!Make and take home a beautiful, fragrant Lotus Urli Candle, crafted with premium organic soy wax and delicate wax embellishments, and elegant pearls adorning the top.An experience where art meets fragrance, creativity meets craftsmanship, and every little detai",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-14",
+        "availabilityEnds": "2026-11-07T14:30:00+05:30",
+        "validFrom": "2026-10-14",
+        "lowPrice": "1650.00",
+        "highPrice": "1650.00",
+        "price": "1650.00",
+        "url": "https://allevents.in/bangalore/soy-wax-candle-making-lotus-urli-pond-tickets/80003378878063"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-10-14",
+        "availabilityEnds": "2026-11-07T14:30:00+05:30",
+        "validFrom": "2026-10-14",
+        "price": "1650.00",
+        "url": "https://allevents.in/bangalore/soy-wax-candle-making-lotus-urli-pond-tickets/80003378878063",
+        "availability": "https://schema.org/InStock",
+        "name": "Standard"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "POSH Creative Studio",
+        "url": "https://allevents.in/org/posh-creative-studio/4695155",
+        "description": "Upcycle, Decoupage home decor, customised and personalised products.\r\nDecoupage workshops,Resin Art Workshops and we also organise customised corporate workshops."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Festival",
     "name": "Karnataka Sambrama OOTA",
     "image": "https://cdn2.allevents.in/thumbs/thumb6ace01711d497.jpg",
@@ -4188,7 +4293,7 @@
     "name": "House of Sobers",
     "image": "https://cdn-az.allevents.in/events2/banners/a4a1bd48c12beebc43d1c8ee8fe75a52a50b62872dd5899926d15c6c3631b39e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1786085337",
     "startDate": "2026-08-14T19:30:00+05:30",
-    "endDate": "2026-11-13T23:30:00+05:30",
+    "endDate": "2026-11-06T20:00:00+05:30",
     "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -4216,7 +4321,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-08-07",
-        "availabilityEnds": "2026-11-13T23:30:00+05:30",
+        "availabilityEnds": "2026-11-06T20:00:00+05:30",
         "validFrom": "2026-08-07",
         "lowPrice": "0.00",
         "highPrice": "0.00",
@@ -4240,68 +4345,6 @@
         "@type": "Organization",
         "name": "HSR meetups",
         "url": "https://allevents.in/org/hsr-meetups/25535050"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "City to Summit - Shivagange Trek - November",
-    "image": "https://cdn-az.allevents.in/events1/banners/fa5c06b11bf776210bdcbfd8b0c2b6049bf7a671ad072a35d1a8d7e6cd19e944-rimg-w1200-h600-dc081828-gmir.jpg?v=1786636043",
-    "startDate": "2026-11-01T05:00:00+05:30",
-    "endDate": "2026-11-01T15:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/city-to-summit-shivagange-trek-november/100001996997815223",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Around Big Cities",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "13 Ali Asker Road",
-        "postalCode": "560001",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9864089",
-        "longitude": "77.5921348"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Discover Shivagange’s misty trails, ancient temples, rocky climbs & stunning summit views—a perfect monsoon adventure for all ages!",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-13",
-        "availabilityEnds": "2026-11-01T15:00:00+05:30",
-        "validFrom": "2026-08-13",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/city-to-summit-shivagange-trek-november/100001996997815223"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-13",
-        "availabilityEnds": "",
-        "validFrom": "2026-08-13",
-        "url": "https://allevents.in/bengaluru/city-to-summit-shivagange-trek-november/100001996997815223",
-        "price": 0,
-        "name": "General Admission"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Ameeshi Goenka",
-        "url": "https://allevents.in/org/ameeshi-goenka/27929903",
-        "description": "Ameeshi Goenka is the founder of Around Big Cities (ABC), a community-driven platform that curates treks, road trips, heritage walks, outdoor adventures, and experiential events across India.An entrepreneur and interior designer by profession, she also leads DPG Interiors, where she specializes in creating thoughtful and functional spaces. Her passion for travel, nature, culture, and human connection inspired the creation of ABC—a platform that brings together like-minded people through meaningful outdoor experiences.Through ABC, Ameeshi aims to make adventure accessible, safe, inclusive, and memorable for participants of all ages and experience levels."
       }
     ]
   },

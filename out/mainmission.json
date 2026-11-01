@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Main Mission Gurgaon \\ 5K \\ Galleria Market \\ NOV 1",
-    "startDate": "2026-11-01T06:45:00+05:30",
-    "endDate": "2026-11-01T08:45:00+05:30",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "url": "https://mainmission.in/#/events/cnjSzzkRrz5JnFtCXx9h",
-    "location": {
-      "@type": "Place",
-      "name": "Galleria Market, Gurgaon",
-      "address": "Galleria Market, Gurgaon, Bengaluru, Karnataka, India"
-    },
-    "isAccessibleForFree": true,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "url": "https://mainmission.in/#/events/cnjSzzkRrz5JnFtCXx9h"
-      }
-    ],
-    "organizer": {
-      "@type": "Organization",
-      "name": "Main Mission",
-      "url": "https://mainmission.in"
-    },
-    "description": "<p><strong>About This Event</strong></p><p>Make this your day one of running. Main Mission is coming to Gurgaon for the first time, and we'd love for you to be part of our first community 5K here. If you've been waiting for a reason to start, this is it. Come for the run, meet your running people and stay for a post-run hang at FES Cafe.</p><p><strong>What To Expect</strong></p><p>Report at Galleria Market at 6:45 AM for check-in and a warm-up with the run leads. Then head out for a 5K together, with run leads at the front and back of the group. We'll finish with a post-run hang at FES Cafe.</p><p><strong>Who Is This For</strong></p><p>First-time runners, anyone who's been meaning to start, and regular runners looking for a community in Gurgaon. You don't have to be fast to join. All paces are welcome.</p><p><strong>What's Included</strong></p><p>• A warm-up led by the run leads</p><p>• A 5K community run</p><p>• A post-run community hang at FES Cafe</p><p>•  Cookies and Coffee on us!</p><p></p>",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fmc-43566484-d5f6d.firebasestorage.app/o/events%2FcnjSzzkRrz5JnFtCXx9h%2FMM_gurgaon_5k_post_hero_v15%20(1)_high.png?alt=media&token=a286e587-7e26-45b0-a1e2-c1272a4d1925",
-    "keywords": [
-      "Fun",
-      "Community",
-      "Beginner-friendly",
-      "sundayrun"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "FormLabAI by MM Gurgaon (In-Person Session) | NOV 1",
     "startDate": "2026-11-01T13:00:00+05:30",
     "endDate": "2026-11-01T15:00:00+05:30",
@@ -57,7 +19,7 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
+        "availability": "https://schema.org/SoldOut",
         "url": "https://mainmission.in/#/events/x5vtt7gC6q90Y39g8bh8"
       }
     ],
