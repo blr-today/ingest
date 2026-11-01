@@ -166,8 +166,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "description": "Arsenal FC VS Liverpool FC | Watson’s Indiranagar, Bangalore.Date -   1st November  ",
-    "endDate": "2026-11-01T23:59:00",
+    "description": "Arsenal FC VS Liverpool FC | Watson’s Indiranagar, Bangalore.\r\n\r\n \r\n\r\nDate -   1st November  | Sunday.\r\n\r\nTimings - 10:30 PM \r\n\r\nVenue",
+    "endDate": "2026-11-02T12:00:00",
     "identifier": "com.skillboxes.42652",
     "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1792767859U37Bbma8ZdXnQDSG.jpg.webp",
     "isAccessibleForFree": false,
@@ -185,7 +185,15 @@
       "name": "Watson's Indiranagar"
     },
     "name": "Arsenal FC VS Liverpool FC | Watson’s Indiranagar, Bangalore.",
-    "offers": [],
+    "offers": [
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "inventoryLevel": 116,
+        "name": "Single Ticket",
+        "url": "https://www.skillboxes.com/events/ticket/arsenal-fc-vs-liverpool-fc-watson-s-indiranagar-bangalore-sbbvpnvw"
+      }
+    ],
     "startDate": "2026-11-01T10:30:00",
     "url": "https://www.skillboxes.com/events/arsenal-fc-vs-liverpool-fc-watson-s-indiranagar-bangalore-sbbvpnvw"
   },
@@ -279,61 +287,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "description": "THE PAUSE IS OVER , LET’S BREW IT UP. 🌀⚡\r\n\r\n \r\n\r\nWe’re back with a new frequency, a new chapter, and an experience beyond the ordinary.\r\n\r\n \r\n\r\n🔥 BREW RE:IGNITED 🔥 BENGALURU 🔥\r\n\r\n",
-    "endDate": "2026-11-02T01:00:00",
-    "identifier": "com.skillboxes.42446",
-    "image": "https://1840729241.rsc.cdn77.org/media/event_cover/STJTQlp1Q25mekRBMnhqRno2czM4Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17928192801U7rD11Fkz2WtPr1.png.webp",
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Club Gigs - Music"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": "DND The Venue, 26, Haralur Main Rd, opposite to Mandovi motors, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9151176",
-        "longitude": "77.6665363"
-      },
-      "name": "DND - The Venue"
-    },
-    "name": "BREW RE:IGNITED BENGALURU",
-    "offers": [
-      {
-        "@type": "Offer",
-        "availability": "InStock",
-        "inventoryLevel": 1000,
-        "name": "Phase 1 Single Pass",
-        "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
-      },
-      {
-        "@type": "Offer",
-        "availability": "InStock",
-        "inventoryLevel": 1000,
-        "name": "Phase 1 Group of 3 Pass",
-        "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
-      },
-      {
-        "@type": "Offer",
-        "availability": "InStock",
-        "inventoryLevel": 1000,
-        "name": "Early Bird Single Pass",
-        "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
-      },
-      {
-        "@type": "Offer",
-        "availability": "InStock",
-        "inventoryLevel": 1000,
-        "name": "Early Bird Group of 3",
-        "url": "https://www.skillboxes.com/events/ticket/brew-re-ignited-bengaluru-sbkmuzfe"
-      }
-    ],
-    "startDate": "2026-11-01T18:00:00",
-    "url": "https://www.skillboxes.com/events/brew-re-ignited-bengaluru-sbkmuzfe"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "description": "Step into The Time Machine — an evening where iconic music, live performance and audience energy come together. Get ready for ",
     "endDate": "2026-12-05T20:30:00",
     "identifier": "com.skillboxes.42410",
@@ -358,7 +311,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Early Bird - Donor Pass\n",
-        "inventoryLevel": 337,
+        "inventoryLevel": 335,
         "name": "Single Ticket",
         "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
       },
@@ -366,7 +319,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Donor Pass\n",
-        "inventoryLevel": 147,
+        "inventoryLevel": 145,
         "name": "Single Ticket",
         "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
       },
