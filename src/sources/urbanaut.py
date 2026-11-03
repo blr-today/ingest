@@ -9,22 +9,41 @@ TYPESENSE_API_KEY = "NSUWIvHiEDI8jvLN2GLhTfCzg3T6oYYV"
 SEARCH_URL = "https://search-v2.urbanaut.app/multi_search"
 BASE_IMAGE_URL = "https://d10y46cwh6y6x1.cloudfront.net"
 """
-urbanaut supports hosts, which are not necessarily venues
-in case a host is also the venue
-we can use the host name as the venue name
-so we keep a list of such host slugs or names
+urbanaut hosts are not necessarily venues, but these hosts
+run their events at their own space, so the host gives the venue
 """
-KNOWN_HOST_VENUES = [
-    "Bento Bento",
-    "copperandcloves",
-    "courtyard",
-    "loveooru",
-    "printingwithtypes",
-    "cafeplume",
-    "museum-of-art-and-photography-map",
-    "ksaraah",
-    "flourishclasses",  # Flourish Bakery
-]
+KNOWN_HOST_VENUES = {
+    "attagalatta": "Atta Galatta",
+    "awaytobe": "away center",
+    "balsamicwalls": "Balsamic Walls",
+    "bangalore-tango-academy": "Bangalore Tango Academy",
+    "beku": "Beku",
+    "bentobento": "Bento Bento",
+    "Bento Bento": "Bento Bento",
+    "blrdesigncentre": "BLR Design Centre",
+    "canellastudio": "Canella Studio",
+    "copperandcloves": "Copper + Cloves",
+    "corospace": "Coro",
+    "courtyard": "Courtyard",
+    "courtyardkoota": "Courtyard Koota",
+    "dialogues-cafe": "Dialogues Cafe",
+    "dialoguescafe": "Dialogues Cafe",
+    "firedup": "Fired Up",
+    "hamilton": "Hamilton",
+    "indianmusicexperience": "Indian Music Experience",
+    "jugni_kitchen_bar": "Jugni Kitchen + Bar",
+    "kesari": "Kesari, The Memory Studio",
+    "loveooru": "love OORU",
+    "mahjonglounge": "Mahjong Lounge",
+    "mohlat": "Mohlat",
+    "museum-of-art-and-photography-map": "Museum of Art & Photography",
+    "sanctuary-creative-studio2": "Sanctuary Creative Studio",
+    "studio-common-roof": "Studio Common Roof",
+    "thehummingtree": "The Humming Tree",
+    "tijouri": "Tijouri",
+    "underlinecenter": "Underline Center",
+    "windmills-craftworks": "Windmills Craftworks",
+}
 session = get_cached_session()
 
 
@@ -92,6 +111,11 @@ def get_event_type(x):
         return "Event"
 
 
+def host_venue(x):
+    venues = KNOWN_HOST_VENUES
+    return venues.get(x.get("account_slug")) or venues.get(x.get("company_name"))
+
+
 def get_keywords(x):
     base = [y["name"] for y in x.get("genre_tag", [])]
     if x.get("account_slug") == "courtyard":
@@ -123,14 +147,7 @@ def make_event(x):
                 "endDate": parse_date(slot["end"]).isoformat(),
                 "location": {
                     "@type": "Place",
-                    "name": (
-                        x["company_name"]
-                        if (
-                            x.get("account_slug") in KNOWN_HOST_VENUES
-                            or x.get("company_name") in KNOWN_HOST_VENUES
-                        )
-                        else None
-                    ),
+                    "name": host_venue(x),
                     "address": x["address"],
                     **(
                         {"url": f"https://www.google.com/maps/search/?api=1&query=Google&query_place_id={x['google_place_id']}"}

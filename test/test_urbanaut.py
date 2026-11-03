@@ -122,6 +122,13 @@ def test_sold_out_slots_are_skipped(session):
 def test_host_venue_and_missing_place(session):
     spot = dict(spots()["kalighat-painting-workshop"], account_slug="courtyard")
     [event] = urbanaut.make_event(spot)
-    assert event["location"]["name"] == "HUES BY SINDHOOR"
+    assert event["location"]["name"] == "Courtyard"
     assert "url" not in event["location"]
     assert event["keywords"][-2:] == ["COURTYARD", "URBANAUT"]
+
+
+def test_host_venue_by_slug_or_company_name():
+    dialogues = {"account_slug": "dialoguescafe", "company_name": "Dialogues Cafe Private Limited"}
+    assert urbanaut.host_venue(dialogues) == "Dialogues Cafe"
+    assert urbanaut.host_venue({"company_name": "Bento Bento"}) == "Bento Bento"
+    assert urbanaut.host_venue({"account_slug": "unlecture", "company_name": "unLecture"}) is None
