@@ -145,6 +145,62 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "HOD Diwali DJ Night ft. Karthik Gopinath x Saket Maskara",
+    "description": "HighlightsA festive Diwali night at HOD Club, KoramangalaFeaturing Karthik Gopinath and Saket MaskaraBack-to-back DJ performances and high-energy club musicCele",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/6b574ed6f4a73d732dba09626d1e2767.jpg"
+    ],
+    "startDate": "2026-11-08T20:00:00+05:30",
+    "endDate": "2026-11-09T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/a-thousand-lamps-one-dance-floor-ft-karthik-gopinath-x-saket-maskara-w89s8cl4ht",
+      "validFrom": "2026-11-03T03:00:20.139Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Karthik",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-karthik"
+      },
+      {
+        "@type": "Person",
+        "name": "Saket Maskara",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/saket-maskara-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/a-thousand-lamps-one-dance-floor-ft-karthik-gopinath-x-saket-maskara-w89s8cl4ht"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Adiyogi and Lepakshi Temple One Day Trip By e2e",
     "description": "HighlightsVisit the iconic Adiyogi Shiva StatueExplore the historic Lepakshi Temple and its architectureWitness the famous hanging pillarSee the massive monolit",
     "image": [
@@ -588,55 +644,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Thirsty Thursday | HOD Club - Koramangala",
-    "description": "Highlights Bengaluru Techno NightHigh-energy techno musicDancefloor vibes all nightPremium sound and immersive atmospherePerfect destination for techno loversGe",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/21/1ca853e34ec514e2407bf68cb357f1ed.jpg"
-    ],
-    "startDate": "2026-11-05T20:00:00+05:30",
-    "endDate": "2026-11-06T00:50:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HOD - House Of Dopamine Brewery LLP",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933648,
-        "longitude": 77.614883
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "NightHype Entertainments",
-      "url": "https://www.highape.com/bangalore/organisers/nighthype"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/bengaluru-tech-at-h-o-d-rizeyq870p",
-      "validFrom": "2026-11-02T05:01:11.060Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "NightHype Entertainments",
-        "url": "https://www.highape.com/bangalore/organisers/nighthype"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/bengaluru-tech-at-h-o-d-rizeyq870p"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Best of Spiti Valley - Xmas and New Year Special Tour",
     "description": "OverviewWinter expedition through Spiti Valley’s snow-covered cold desertScenic route: Delhi – Shimla – Sangla – Kalpa – Tabo – Kaza – Hikkim – Komic – LangzaVi",
     "image": [
@@ -782,6 +789,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/block-buster-saturday-night-hydra-club-cw2f19n2ih"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Blue Monday, Red Night ft. DJ Christin x DJ Tom",
+    "description": "HighlightsDJ Christin and DJ Tom live on the decksHigh-energy club music and electrifying beatsMonday night party as part of HOD Anniversary MonthA buzzing danc",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/6efc69c21702f927f274040003313222.jpg"
+    ],
+    "startDate": "2026-11-16T20:00:00+05:30",
+    "endDate": "2026-11-17T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/blue-monday-red-night-ft-dj-christin-x-dj-tom-49l8pqdegw",
+      "validFrom": "2026-11-03T03:00:20.842Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Christin",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-christin-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "TOM",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/tom-hzh4"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/blue-monday-red-night-ft-dj-christin-x-dj-tom-49l8pqdegw"
   },
   {
     "@context": "https://schema.org",
@@ -1037,6 +1100,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/built-for-pure-adrenaline-play-arena-9e02o8gcjz"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Burning ft. DJ Christin x DJ Melvin | HOD Anniversary Month",
+    "description": "HighlightsHigh-energy Monday night at HOD ClubLive DJ sets by Christin and DJ MelvinExperience an electrifying mix of club musicPart of HOD Anniversary Month ce",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/dbe4059f43fa045d1731c2878cbc63d0.jpg"
+    ],
+    "startDate": "2026-11-09T20:00:00+05:30",
+    "endDate": "2026-11-10T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/burning-ft-dj-christin-x-dj-melvin-hod-anniversary-month-bqqxxuq6pu",
+      "validFrom": "2026-11-03T03:00:20.767Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Christin",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-christin-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Dj melvin",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-melvin-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/burning-ft-dj-christin-x-dj-melvin-hod-anniversary-month-bqqxxuq6pu"
   },
   {
     "@context": "https://schema.org",
@@ -1339,6 +1458,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/desi-thursday-jtsecn8vfl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dil Se Diwali ft. Chirnth Smshkr ",
+    "description": "HighlightsLive DJ set by Chirnth SmshkrBiggest Bollywood and commercial hitsHigh-energy Diwali celebrationFestive atmosphere with stunning rooftop viewsCelebrat",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/e57ccdca07a620bceeb3d0c2f1d7ccad.jpg"
+    ],
+    "startDate": "2026-11-07T19:00:00+05:30",
+    "endDate": "2026-11-08T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "SkyDeck by Sherlock's",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "52, MG Road, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97503,
+        "longitude": 77.607534
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dil-se-diwali-ft-chirnth-smshkr-skydeck-by-sherlock-s-mg-road-n19fw3iwrs",
+      "validFrom": "2026-11-03T03:00:19.904Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ CHIRANTH SMSHKR",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-chiranth-smshkr-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dil-se-diwali-ft-chirnth-smshkr-skydeck-by-sherlock-s-mg-road-n19fw3iwrs"
   },
   {
     "@context": "https://schema.org",
@@ -1722,57 +1891,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Holloween Hangover | HOD Club - Koramangala",
-    "description": "HighlightsDJ Night Hard-Hitting BeatsHigh-Energy Dance NightSaturday Night ExperiencePremium Food & DrinksTable Reservations AvailableGet ready for an electrify",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/26/dbcb8bc8a253c3d3a70195a255209c8f.jpg"
-    ],
-    "startDate": "2026-11-07T19:30:00+05:30",
-    "endDate": "2026-11-08T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HOD - House Of Dopamine Brewery LLP",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933648,
-        "longitude": 77.614883
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "NightHype Entertainments",
-      "url": "https://www.highape.com/bangalore/organisers/nighthype"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "99",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/exclusive-saturday-exmdtai9ba",
-      "validFrom": "2026-11-02T05:00:08.998Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Sahil",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-sahil-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/exclusive-saturday-exmdtai9ba"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Freaky Friday  : Bollywood DJ Night Ft DJ Mark",
     "description": "HighlightsFreaky Friday Bollywood Night at TOCA KoramangalaDJ Mark spinning Bollywood, commercial &amp; party anthemsHigh-energy underground dance floorStunning",
     "image": [
@@ -1825,56 +1943,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/freaky-friday-bollywood-dj-night-ft-dj-mark-3r7w5q60nh"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Spooktober Pre Holloween | HOD - Koramangala",
-    "description": "Highlights Mini Vibe Concert experienceLive music and high-energy performancesFriday night party atmosphereDance to a mix of crowd-favourite hitsClub-style soun",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/23/21020e6219265ab6023767e28683b109.jpg"
-    ],
-    "startDate": "2026-11-06T20:00:00+05:30",
-    "endDate": "2026-11-07T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HOD - House Of Dopamine Brewery LLP",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933648,
-        "longitude": 77.614883
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "NightHype Entertainments",
-      "url": "https://www.highape.com/bangalore/organisers/nighthype"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "99",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/friday-activated-hod-club-koramangala-evd99r38ep",
-      "validFrom": "2026-11-02T05:00:12.793Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "NightHype Entertainments",
-        "url": "https://www.highape.com/bangalore/organisers/nighthype"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/friday-activated-hod-club-koramangala-evd99r38ep"
   },
   {
     "@context": "https://schema.org",
@@ -2174,6 +2242,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/global-ladies-night-kpjpgq4jou"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gold Rush - Dhanteras Night | HOD Anniversary Month",
+    "description": "HighlightsCelebrate Dhanteras with Gold Rush at HOD Club.Part of HOD Anniversary Month celebrations.Festive gold-themed party atmosphere.High-energy club music ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/4427a07a7a74299238475338a7a2424a.jpg"
+    ],
+    "startDate": "2026-11-06T20:00:00+05:30",
+    "endDate": "2026-11-07T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/gold-rush-dhanteras-night-hod-anniversary-month-z56jpeg3cx",
+      "validFrom": "2026-11-03T03:00:20.639Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Sid Productions",
+        "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/gold-rush-dhanteras-night-hod-anniversary-month-z56jpeg3cx"
   },
   {
     "@context": "https://schema.org",
@@ -3226,57 +3343,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Monday Madness |  Nolimmits Brigade",
-    "description": "HighlightsMonday Madness featuring DJ&nbsp;HarshHigh-energy mashups of chartbusters and crowd favouritesElectrifying club atmosphere with nonstop musicComplimen",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/07/04/a8cc618eefc45e15324b4b72e8835877.png"
-    ],
-    "startDate": "2026-11-02T20:00:00+05:30",
-    "endDate": "2026-11-03T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "NoLimmits Lounge and Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.970303,
-        "longitude": 77.610947
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Nolimmits Lounge & Club",
-      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge-club-9ubdh"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "1999",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/monday-madness-nolimmits-brigade-2a9f9yeixx",
-      "validFrom": "2026-11-02T14:37:52.375Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Harsh",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/9d81d51194f49b0228c1be579d44bdd0.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-harsh-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/monday-madness-nolimmits-brigade-2a9f9yeixx"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Monday Mischief | Sugar Factory Reloaded",
     "description": "Highlights spinning the hottest BollyTech & commercial tracksHigh-energy Monday night party experienceFree entry for couplesComplimentary drinks for ladiesPremi",
     "image": [
@@ -3322,6 +3388,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/monday-mischief-at-sugar-factory-reloaded-eokdtjfhxn"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mutiny Ft Karthik Gopinath | HOD Anniversary Month",
+    "description": "HighlightsHOD Anniversary Month celebrations continue with Mutiny.Featuring Karthik Gopinath on the decks.High-energy club music and an electrifying dancefloor.",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/d4804058a0a21d7d1fb323131606bb8c.jpg"
+    ],
+    "startDate": "2026-11-04T20:00:00+05:30",
+    "endDate": "2026-11-05T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/mutiny-ft-karthik-gopinath-hod-anniversary-month-pl4gtiqr3b",
+      "validFrom": "2026-11-03T03:00:21.230Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ karthik G",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-karthik-g-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/mutiny-ft-karthik-gopinath-hod-anniversary-month-pl4gtiqr3b"
   },
   {
     "@context": "https://schema.org",
@@ -3466,6 +3582,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/new-year-party-velvete-2027-ilvsdsv9rv"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Night Has Teeth Ft Zia x DJ Melvin",
+    "description": "HighlightsNight Has Teeth takes over HOD Club, Koramangala.High-energy club music throughout the night.DJs Zia and Melvin on the decks.Experience HOD's signatur",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/fe292a7c8369533ebf32f0e3f41bf013.jpg"
+    ],
+    "startDate": "2026-11-03T20:00:00+05:30",
+    "endDate": "2026-11-04T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/night-has-teeth-ft-zia-x-dj-melvin-bfvoz3rhm0",
+      "validFrom": "2026-11-03T03:00:20.697Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Zia",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/zia-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Dj melvin",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-melvin-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/night-has-teeth-ft-zia-x-dj-melvin-bfvoz3rhm0"
   },
   {
     "@context": "https://schema.org",
@@ -4411,6 +4583,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Smoke In The Air ft DJ Tom x DJ Zia",
+    "description": "HighlightsLive DJ performances by DJ Tom and DJ ZiaHigh-energy club music throughout the nightA buzzing dance floor and lively party atmosphereHOD Club’s signat",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/772736aa601d9e3d7378c7077dcf1430.jpg"
+    ],
+    "startDate": "2026-11-10T20:00:00+05:30",
+    "endDate": "2026-11-11T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/smoke-in-the-air-ft-dj-tom-x-dj-zia-1n9qulg37p",
+      "validFrom": "2026-11-03T03:00:21.163Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Zia",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/zia-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/smoke-in-the-air-ft-dj-tom-x-dj-zia-1n9qulg37p"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Social Mixer",
     "description": "HighlightsRelaxed Social Mixer ExperienceMeet New People &amp; Make FriendsFun Games &amp; IcebreakersGreat Conversations &amp; Shared LaughterCome Solo or Brin",
     "image": [
@@ -5180,6 +5402,106 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Eve of Flames Ft VDJ Shaan | Choti Diwali at HOD",
+    "description": "HighlightsChoti Diwali celebration at HOD ClubLive DJ performance by VDJ ShaanHigh-energy visuals and electrifying club musicPart of HOD Anniversary MonthFestiv",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/83a93fef52cde62a83d4b7bd3c1bc9f8.jpg"
+    ],
+    "startDate": "2026-11-07T20:00:00+05:30",
+    "endDate": "2026-11-08T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-eve-of-flames-ft-vdj-shaan-choti-diwali-at-hod-g7owa2ey2z",
+      "validFrom": "2026-11-03T03:00:20.945Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dj Shaan",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-shaan-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-eve-of-flames-ft-vdj-shaan-choti-diwali-at-hod-g7owa2ey2z"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Fuse Is Lit Ft Sisko | HOD Anniversary Month",
+    "description": "HighlightsThe Fuse Is Lit ft. SiskoPart of HOD Anniversary Month celebrationsHigh-energy club music and electrifying beatsKick off the Diwali festive weekend ea",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/bec5b89a3e4bddfbcc55d855a7e3c050.jpg"
+    ],
+    "startDate": "2026-11-05T20:00:00+05:30",
+    "endDate": "2026-11-06T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-fuse-is-lit-ft-sisko-hod-anniversary-month-yzv6dfzm81",
+      "validFrom": "2026-11-03T03:00:20.289Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Sisko",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/26/bfd741b47fb4e1fce0641f43ae41f6db.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-sisko-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-fuse-is-lit-ft-sisko-hod-anniversary-month-yzv6dfzm81"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Thirsty Thursdays",
     "description": "HighlightsEnjoy 50% off on all drinksEvery Thursday at Old Mill Brewing Co.Special offer from 12 PM to 11 PMA perfect midweek escape with refreshing cocktails a",
     "image": [
@@ -5871,6 +6193,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/west-coast-beignners-npviz4u83l"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wood, Fire & Bass | Live Instruments Night at HOD",
+    "description": "HighlightsLive music experience blending real instruments with club beatsA unique fusion of live sounds and electronic musicPart of HOD Anniversary Month celebr",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/03f1de89b6e712a0342e58d2ed815c12.jpg"
+    ],
+    "startDate": "2026-11-15T20:00:00+05:30",
+    "endDate": "2026-11-16T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933648,
+        "longitude": 77.614883
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sid Productions",
+      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wood-fire-bass-live-instruments-night-at-hod-4e39bsivic",
+      "validFrom": "2026-11-03T03:00:19.745Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Sid Productions",
+        "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wood-fire-bass-live-instruments-night-at-hod-4e39bsivic"
   },
   {
     "@context": "https://schema.org",

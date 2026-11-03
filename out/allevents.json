@@ -1220,6 +1220,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Kintsugi Workshop",
+    "image": "https://cdn-az.allevents.in/events5/banners/4df22740-d710-11f1-9f1b-13af6280af23-rimg-w1200-h600-dc080808-gmir.jpg?v=1793660045",
+    "startDate": "2026-11-07T16:00:00+05:30",
+    "endDate": "2026-11-07T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kintsugi-workshop/3900030664911328",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU - JP Nagar: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Maratt Estate, Bannerghatta Road, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9055",
+        "longitude": "77.6012"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Kintsugi WorkshopTurn broken pieces into beautiful art using the Japanese philosophy of embracing imperfections with goldWhats IncludedAll materials and supplies providedCommunity host to guide the sessionLearn the art and philosophy behind KintsugiTake home your finished masterpieceWho Is It ForPer",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-09-06",
+        "availabilityEnds": "2026-11-07T19:00:00+05:30",
+        "validFrom": "2026-09-06",
+        "url": "https://allevents.in/bangalore/kintsugi-workshop/3900030664911328"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "BANGTANVERSE CARNIVAL - FAN TOUR",
     "image": "https://cdn-az.allevents.in/events10/banners/28413250-beb7-11f1-8a18-b3e52d4bf2d6-rimg-w1200-h600-dce898d8-gmir.jpg?v=1790982948",
     "startDate": "2026-11-13T16:00:00+05:30",
@@ -1292,45 +1331,6 @@
         "availabilityEnds": "2026-11-22T17:30:00+05:30",
         "validFrom": "2026-09-17",
         "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kintsugi Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/c30c5c70-d53b-11f1-8ed4-fb8a9a850dae-rimg-w1200-h600-dc080808-gmir.jpg?v=1793458813",
-    "startDate": "2026-11-07T12:00:00+05:30",
-    "endDate": "2026-11-07T15:00:00+05:30",
-    "url": "https://allevents.in/bangalore/kintsugi-workshop/3900030800750733",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "21st Amendment Gastrobar: Indiranagar",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1211, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.966",
-        "longitude": "77.6413"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Kintsugi WorkshopTurn broken pieces into beautiful art using the Japanese philosophy of embracing imperfections with goldWhats IncludedAll materials and supplies providedCommunity host to guide the sessionLearn the art and philosophy behind KintsugiTake home your finished masterpieceWho Is It ForPer",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-07",
-        "availabilityEnds": "2026-11-07T15:00:00+05:30",
-        "validFrom": "2026-10-07",
-        "url": "https://allevents.in/bangalore/kintsugi-workshop/3900030800750733"
       }
     ]
   },
@@ -2189,6 +2189,162 @@
         "availabilityEnds": "2026-11-03T15:30:00+05:30",
         "validFrom": "2026-11-02",
         "url": "https://allevents.in/bangalore/clay-trinket-workshop/3900030953953047"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "DIY Paper Mola",
+    "image": "https://cdn-az.allevents.in/events1/banners/ecd3a190-d71a-11f1-9f1b-13af6280af23-rimg-w1200-h600-dcd8d8c8-gmir.jpg?v=1793664612",
+    "startDate": "2026-11-03T19:00:00+05:30",
+    "endDate": "2026-11-03T19:06:00+05:30",
+    "url": "https://allevents.in/bangalore/diy-paper-mola/3900030959932812",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Koramangala: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9341",
+        "longitude": "77.6303"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Discover the joy of creating with our DIY Paper Mola Workshop inspired by vibrant traditional layered paper art In this guided session you will learn paper cutting layering and composition techniques to create your own unique artworkWhat you will get All art materials step by step guidance from a fa",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-03T19:06:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/diy-paper-mola/3900030959932812"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Korean Glass Decal",
+    "image": "https://cdn-az.allevents.in/events8/banners/6a6745e0-d729-11f1-9f1b-13af6280af23-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1793670830",
+    "startDate": "2026-11-03T19:00:00+05:30",
+    "endDate": "2026-11-03T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/korean-glass-decal/3900030960403450",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Koramangala: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9341",
+        "longitude": "77.6303"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Korean Glass Decal WorkshopSoft aesthetics clean designs and calming creativityStep into the world of Korean inspired decor with our Korean Glass Decal Workshop where youll create minimal pastel and aesthetic glass decals perfect for windows mirrors bottles or room decor.This workshop is all about s",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-03T20:00:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/korean-glass-decal/3900030960403450"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Solar Printing",
+    "image": "https://cdn-az.allevents.in/events1/banners/d84a5900-d72c-11f1-9f1b-13af6280af23-rimg-w1200-h600-dc184868-gmir.jpg?v=1793672303",
+    "startDate": "2026-11-03T13:02:00+05:30",
+    "endDate": "2026-11-03T14:02:00+05:30",
+    "url": "https://allevents.in/bangalore/solar-printing/3900030960459523",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tealogy Cafe (Neo): Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9337",
+        "longitude": "77.6302"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Step into the world of creativity and science with our unique Solar Painting Event Discover the magic of sun powered art as you create stunning cyanotype prints using natural sunlight Perfect for art lovers science enthusiasts and anyone curious to try something newNo prior experience needed  just b",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-03T14:02:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/solar-printing/3900030960459523"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Phirsay Art Date",
+    "image": "https://cdn-az.allevents.in/events6/banners/5104b840-d72d-11f1-9f1b-13af6280af23-rimg-w1200-h600-dc180808-gmir.jpg?v=1793672505",
+    "startDate": "2026-11-08T15:00:00+05:30",
+    "endDate": "2026-11-08T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/phirsay-art-date/3900030960466646",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tealogy Cafe (Neo): Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9337",
+        "longitude": "77.6302"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Art Date is your chance to take yourself out on a date and spend some quality time creating something just for you.No pressure, no experience needed and no need to be an artist. Just choose the art that feels right for you and enjoy a relaxed creative session at your own pace.You can choose from thr",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-08T16:30:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/phirsay-art-date/3900030960466646"
       }
     ]
   },
@@ -3237,6 +3393,78 @@
         "name": "The Founders",
         "url": "https://allevents.in/org/the-founders/25499127",
         "description": "The Founders is a community built for and by entrepreneurs, innovators, and investors who believe in collaboration over competition. Whether you're launching your first startup, scaling your business, or investing in groundbreaking ideas, this is the place where you’ll find the right people, real opportunities, and powerful conversations that fuel growth.\n"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tuesday Takover at Yeda Republic Bangalore",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6ae8fc23efbb0.jpg",
+    "startDate": "2026-11-03T20:00:00+05:30",
+    "endDate": "2026-11-04T01:00:00+05:30",
+    "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Yeda Republic Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100, 4th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "postalCode": "560095",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9343419",
+        "longitude": "77.61554509999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "✨ Get ready for an unforgettable night at the Tuesday Takeover at Yeda Republic Bangalore! Join us for an electrifying evening filled with music, dancing, and great vibes that you won't want to miss. On November 3rd, starting at 8 PM, Yeda Republic in Koramangala will transform into the ultimate par",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-11-04T01:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-11-04T01:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403",
+        "availability": "https://schema.org/InStock",
+        "name": "Single"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-11-04T01:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403",
+        "availability": "https://schema.org/InStock",
+        "name": "Ladies"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Saurabh Patil",
+        "url": "https://allevents.in/org/saurabh-patil/22845230"
       }
     ]
   },
