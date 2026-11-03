@@ -1,6 +1,27 @@
 [
   {
     "@type": "Event",
+    "name": "JISR at IME: Gnawa Meets Karnatic",
+    "url": "https://puttingscene.com/events/C64UBM",
+    "description": "JISR at IME: Gnawa Meets Karnatic",
+    "image": "https://cdn.puttingscene.com/base/image/43BXkpOGQymRY_xQcEl-Wg.jpg",
+    "location": {
+      "name": "IME Museum, JP Nagar",
+      "address": "Indian Music Experience Museum, Brigade Millenium Rd, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://maps.app.goo.gl/CNXTzhfjj1oPKEeA6",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8917819,
+        "longitude": 77.58371079999999
+      }
+    },
+    "sameAs": "https://indianmusicexperience.org/mec-events/jisr-at-ime-gnawa-meets-karnatic/",
+    "startDate": "2026-11-04T18:00:00+05:30",
+    "endDate": "2026-11-04T19:00:00+05:30",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "Pop Up Paper: Diwali Edition",
     "url": "https://puttingscene.com/events/EIVGZI",
     "description": "Discover how paper can stand, fold, and surprise!\n\nIn this beginner-friendly workshop, you’ll explore the basics of pop-up design: how simple cuts and folds can create stairs, buildings, and other playful structures.\n\nThis Diwali edition, we’ll put those skills to work making small fractal-inspired ornaments that attach onto fairy lights, ready to brighten up your home for the festival of lights. A fun, hands-on introduction to the creative possibilities of paper engineering.\n\nAll materials provided. No experience needed.",
@@ -60,7 +81,7 @@
       {
         "@type": "Offer",
         "name": "General",
-        "price": "1060.82",
+        "price": "899.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
         "remainingAttendeeCapacity": 20
@@ -389,6 +410,40 @@
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
         "remainingAttendeeCapacity": 16
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "India Wine Day: The People's Choice Wine Awards",
+    "url": "https://puttingscene.com/events/WLGRBC",
+    "description": "What happens when you taste Indian wines without knowing what's in your glass?\n\nCelebrate India Wine Day at Trippy Goat Café with a curated blind-tasting experience featuring wines from Karnataka. Taste across three categories, discover new favourites and vote for the wines you love at the inaugural India Wine Day People's Choice Awards.\n\nNo labels. No brand bias. Just wine, your palate and your vote.",
+    "image": "https://cdn.puttingscene.com/base/image/WN8yZTlyRleggX7nE5CU5Q.jpg",
+    "location": {
+      "name": "Trippy Goat Cafe",
+      "address": "Indicube Symphony, Trippy Goat Cafe, Shankarnarayan Building, Mahatma Gandhi Rd, opposite East Parade Church, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trippy%20Goat%20Cafe&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.973179,
+        "longitude": 77.6149496
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trippy Goat Cafe Organization"
+    },
+    "startDate": "2026-11-14T16:00:00+05:30",
+    "endDate": "2026-11-14T20:00:00+05:30",
+    "maximumAttendeeCapacity": 60,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "IWD Special",
+        "price": "999.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 60
       }
     ]
   },
