@@ -725,6 +725,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sannyasa Diksha Ceremony 2026 | Vrindavan Chandrodaya Mandir | Srila Prabhupada's ISKCON",
+    "image": "https://cdn-az.allevents.in/events1/banners/1e5a29c92a6649952cf4a1b49413bdb8326e28dd45c396c8cc7d6ae39fec6ac3-rimg-w1200-h675-dc082848-gmir?v=1793725521",
+    "startDate": "2026-11-04T11:00:00+05:30",
+    "url": "https://allevents.in/bangalore/sannyasa-diksha-ceremony-2026-vrindavan-chandrodaya-mandir-srila-prabhupadas-iskcon/200030963596021",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "H K Hill, Chord Road, Rajajinagar, Bangalore, India 560010, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Narayana Nethralaya, W O C Road, 2nd Stage, Rajaji Nagar, Bengaluru 560010, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.01197",
+        "longitude": "77.55221"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "We are pleased to announce that three senior devotees of Srila Prabhupada’s ISKCON Bangalore Group will be accepting Sannyasa Ashrama in Sridham Vrindavan. These highly respected leaders of our movement have devoted several decades of their lives to serving Srila Prabhupada’s mission. \n\nThe acceptan",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "ISKCON Bangalore",
+        "url": "https://allevents.in/org/iskcon-bangalore/644803",
+        "description": "Official Page of ISKCON Bangalore"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Madhubanti Bagchi in Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/20a88400-8562-11f1-9be5-4bebf44b4980-rimg-w1200-h675-dc300815-gmir.webp?v=1784679192",
@@ -1189,45 +1224,6 @@
         "availabilityEnds": "2026-11-07T18:00:00+05:30",
         "validFrom": "2026-10-12",
         "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Fast-Cure UV Resin Jewellery Workshop",
-    "image": "https://cdn-az.allevents.in/events8/banners/e1871a70-d796-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1793717845",
-    "startDate": "2026-11-07T16:00:00+05:30",
-    "endDate": "2026-11-07T18:00:00+05:30",
-    "url": "https://allevents.in/bangalore/fast-cure-uv-resin-jewellery-workshop/3900030830587354",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Gupchi - DIY Art Studio: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Site No. 1220, 6th Floor, Mookambika Complex, 9th Cross Road, Ananth Nagar, Phase 1, Kammasandra, Electronic City, Bengaluru, Karnataka 560100, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8342",
-        "longitude": "77.6935"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Design and create your own line of custom resin jewelry - without the 24 hour wait! Join our hands on Fast-Cure UV Resin Jewellery Workshop and discover the instant gratification of working with UV resin. Guided step by step, you will learn how to embed real dried petals, charms, glitter, and color",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-13",
-        "availabilityEnds": "2026-11-07T18:00:00+05:30",
-        "validFrom": "2026-10-13",
-        "url": "https://allevents.in/bangalore/fast-cure-uv-resin-jewellery-workshop/3900030830587354"
       }
     ]
   },
@@ -1781,7 +1777,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Vishnu Pai Live",
-    "image": "https://cdn-az.allevents.in/events3/banners/0bb10310-d4c2-11f1-8599-e352b0c6872f-rimg-w1200-h600-dc483828-gmir.jpg?v=1793406536",
+    "image": "https://cdn-az.allevents.in/events7/banners/eacf2920-d795-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dc483828-gmir.jpg?v=1793717437",
     "startDate": "2026-11-21T20:00:00+05:30",
     "endDate": "2026-11-21T21:30:00+05:30",
     "url": "https://allevents.in/bangalore/vishnu-pai-live/3900030919021740",
@@ -1937,7 +1933,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Po'pourrie: A Children's Festival",
-    "image": "https://cdn-az.allevents.in/events8/banners/4b43d960-d39d-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1793280795",
+    "image": "https://cdn-az.allevents.in/events7/banners/77b07630-d743-11f1-9f1b-13af6280af23-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1793682019",
     "startDate": "2026-11-13T11:00:00+05:30",
     "endDate": "2026-11-13T13:45:00+05:30",
     "url": "https://allevents.in/bangalore/popourrie-a-childrens-festival/3900030934339515",
@@ -2008,45 +2004,6 @@
         "availabilityEnds": "2026-11-08T13:00:00+05:30",
         "validFrom": "2026-10-31",
         "url": "https://allevents.in/bangalore/hand-crafted-pottery/3900030941118331"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Coaster Painting",
-    "image": "https://cdn-az.allevents.in/events6/banners/9e9fad50-d77b-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dcf8c8f8-gmir.jpg?v=1793706142",
-    "startDate": "2026-11-03T19:00:00+05:30",
-    "endDate": "2026-11-03T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/coaster-painting/3900030942045743",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Koramangala: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9341",
-        "longitude": "77.6303"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Unleash Your Creativity at Our Coaster Painting WorkshopJoin us for a fun and relaxing Coaster Painting Workshop where you can express your artistic flair and create stunning, personalized coasters. Whether you re a seasoned artist or a complete beginner, this workshop offers a delightful experience",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-31",
-        "availabilityEnds": "2026-11-03T20:00:00+05:30",
-        "validFrom": "2026-10-31",
-        "url": "https://allevents.in/bangalore/coaster-painting/3900030942045743"
       }
     ]
   },
@@ -2131,78 +2088,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "DIY Paper Mola",
-    "image": "https://cdn-az.allevents.in/events1/banners/ecd3a190-d71a-11f1-9f1b-13af6280af23-rimg-w1200-h600-dcd8d8c8-gmir.jpg?v=1793664612",
-    "startDate": "2026-11-03T19:00:00+05:30",
-    "endDate": "2026-11-03T19:06:00+05:30",
-    "url": "https://allevents.in/bangalore/diy-paper-mola/3900030959932812",
+    "name": "3D magic Canvas painting",
+    "image": "https://cdn-az.allevents.in/events1/banners/b3a339e0-d7b4-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dc887868-gmir.jpg?v=1793730661",
+    "startDate": "2026-11-04T13:00:00+05:30",
+    "endDate": "2026-11-04T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/3d-magic-canvas-painting/3900030952320929",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Brik Oven, Koramangala: Bengaluru.",
+      "name": "URU Whitefield: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9341",
-        "longitude": "77.6303"
+        "latitude": "12.9613",
+        "longitude": "77.7325"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Discover the joy of creating with our DIY Paper Mola Workshop inspired by vibrant traditional layered paper art In this guided session you will learn paper cutting layering and composition techniques to create your own unique artworkWhat you will get All art materials step by step guidance from a fa",
+    "description": "Ready to bring your imagination to life Join us for the Small World 3D Magic Canvas Painting workshop  where you can transform your art into a mesmerizing floating creation  Using the magic of 3D techniques and a few drops of water you  watch as your drawings lift off the surface turning into an enc",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-03",
-        "availabilityEnds": "2026-11-03T19:06:00+05:30",
-        "validFrom": "2026-11-03",
-        "url": "https://allevents.in/bangalore/diy-paper-mola/3900030959932812"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Korean Glass Decal",
-    "image": "https://cdn-az.allevents.in/events8/banners/6a6745e0-d729-11f1-9f1b-13af6280af23-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1793670830",
-    "startDate": "2026-11-03T19:00:00+05:30",
-    "endDate": "2026-11-03T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/korean-glass-decal/3900030960403450",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Koramangala: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Brik Oven, 4th Block, 80 Feet Road, New Friends Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9341",
-        "longitude": "77.6303"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Korean Glass Decal WorkshopSoft aesthetics clean designs and calming creativityStep into the world of Korean inspired decor with our Korean Glass Decal Workshop where youll create minimal pastel and aesthetic glass decals perfect for windows mirrors bottles or room decor.This workshop is all about s",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-03",
-        "availabilityEnds": "2026-11-03T20:00:00+05:30",
-        "validFrom": "2026-11-03",
-        "url": "https://allevents.in/bangalore/korean-glass-decal/3900030960403450"
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-11-04T14:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "url": "https://allevents.in/bangalore/3d-magic-canvas-painting/3900030952320929"
       }
     ]
   },
@@ -2476,6 +2394,123 @@
         "availabilityEnds": "2026-11-15T21:30:00+05:30",
         "validFrom": "2026-11-03",
         "url": "https://allevents.in/bangalore/live-music-with-jeevan/3900030963145834"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Resin Galaxy / Clock",
+    "image": "https://cdn-az.allevents.in/events2/banners/f2716fb0-d797-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793718303",
+    "startDate": "2026-11-04T11:00:00+05:30",
+    "endDate": "2026-11-04T13:00:00+05:30",
+    "url": "https://allevents.in/bangalore/resin-galaxy-clock/3900030963273203",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "StoryZone: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "StoryZone Studio, 3rd Floor, 9th Main Road, Opposite to Shivam Sanitary Hardware, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9084",
+        "longitude": "77.6353"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "In resin art session we will be learning basics of resin, mixing ratios, tools and techniques, material handling and finally creating a galaxy art or a functional galaxy themed clock.- 2 hours session- Beginner friendly- No prior experience required- All material will be provided at the venue- Exper",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-04T13:00:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/resin-galaxy-clock/3900030963273203"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mandala Art Therapeutic Workshop - Monica Prakash",
+    "image": "https://cdn-az.allevents.in/events10/banners/5ade3210-d79b-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dc080808-gmir.jpg?v=1793719766",
+    "startDate": "2026-11-08T15:00:00+05:30",
+    "endDate": "2026-11-08T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/mandala-art-therapeutic-workshop-monica-prakash/3900030963378927",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Eco Cottage: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Store 1, 401/A, 5th A Main Road, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0223",
+        "longitude": "77.6401"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Take a pause from screens and schedules, and spend a calm Sunday afternoon creating your own mandala.In this guided Mandala Art Therapeutic Workshop, artist and educator Monica Prakash (founder, PraShree Arts) walks you through the mandala step by step: finding the centre, building concentric rings",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-08T17:00:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/mandala-art-therapeutic-workshop-monica-prakash/3900030963378927"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Film Room",
+    "image": "https://cdn-az.allevents.in/events2/banners/046e5a80-d7a6-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dc080808-gmir.jpg?v=1793724346",
+    "startDate": "2026-11-07T17:00:00+05:30",
+    "endDate": "2026-11-07T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-film-room/3900030963560646",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9787",
+        "longitude": "77.6455"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Celebrate the art of cinema at Movie Discussion Club by Neram, a welcoming community experience where film lovers come together to explore stories, characters, performances, cinematography, and the ideas behind memorable movies.Rather than simply watching films, participants engage in thoughtful con",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-07T18:00:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/the-film-room/3900030963560646"
       }
     ]
   },
@@ -3530,78 +3565,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tuesday Takover at Yeda Republic Bangalore",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ae8fc23efbb0.jpg",
-    "startDate": "2026-11-03T20:00:00+05:30",
-    "endDate": "2026-11-04T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Yeda Republic Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "100, 4th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9343419",
-        "longitude": "77.61554509999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "✨ Get ready for an unforgettable night at the Tuesday Takeover at Yeda Republic Bangalore! Join us for an electrifying evening filled with music, dancing, and great vibes that you won't want to miss. On November 3rd, starting at 8 PM, Yeda Republic in Koramangala will transform into the ultimate par",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-02",
-        "availabilityEnds": "2026-11-04T01:00:00+05:30",
-        "validFrom": "2026-11-02",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-02",
-        "availabilityEnds": "2026-11-04T01:00:00+05:30",
-        "validFrom": "2026-11-02",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403",
-        "availability": "https://schema.org/InStock",
-        "name": "Single"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-02",
-        "availabilityEnds": "2026-11-04T01:00:00+05:30",
-        "validFrom": "2026-11-02",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tuesday-takover-at-yeda-republic-bangalore-tickets/80002032202403",
-        "availability": "https://schema.org/InStock",
-        "name": "Ladies"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Saurabh Patil",
-        "url": "https://allevents.in/org/saurabh-patil/22845230"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "South Bengaluru Startups Meetup by CEDAT",
     "image": "https://cdn2.allevents.in/thumbs/thumb6ad9ebbd72fd8.jpg",
     "startDate": "2026-11-20T18:00:00+05:30",
@@ -4353,68 +4316,6 @@
         "name": "Go Dharmic",
         "url": "https://allevents.in/org/go-dharmic/22891430",
         "description": "Withone million interactionsinover 40 countries, GoDharmicis a growing movement for individual and social change.We believe it is our collective responsibility to do the righteous thing for the welfare of all. Inspired by the idea ofDharma, which we interpret as righteous social conduct, we want to create a world where individuals can come together to create positive change in their lives and their communities.Click hereto know a bit more about us."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "North Bengaluru Startups Meetup by CEDAT",
-    "image": "https://cdn-az.allevents.in/events5/banners/3d2ec0cc0576c0d052001ced41849091381842edb8e42bd219e202b1a4490e2b-rimg-w1200-h900-dc181818-gmir.jpg?v=1790877606",
-    "startDate": "2026-11-03T18:00:00+05:30",
-    "endDate": "2026-11-03T20:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cortis Medtech Pvt.Ltd",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36 14th Main Road",
-        "postalCode": "560092",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0587118",
-        "longitude": "77.5923206"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "North Bengaluru Startups Circle is a gathering for people who are creating, building, and growing businesses.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-01",
-        "availabilityEnds": "2026-11-03T20:00:00+05:30",
-        "validFrom": "2026-10-01",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-01",
-        "availabilityEnds": "",
-        "validFrom": "2026-10-01",
-        "url": "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
-        "price": 0,
-        "name": "North Bengaluru Startups Meetup by CEDAT"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT",
-        "url": "https://allevents.in/org/cedat/25486355",
-        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
       }
     ]
   },

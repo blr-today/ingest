@@ -30,7 +30,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 600.0,
+      "price": 1000.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -781,6 +781,113 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Malleshwaram Heritage Trail",
+    "description": "\"The Malleshwaram Heritage Walk is a guided, storytelling-led walk that explores one of Bengaluru’s oldest neighbourhoods beyond its well-known identity as a planned suburb. The event focuses on uncovering Malleshwaram’s deeper history, going back to its temple-centred origins, forest landscape, and community life that existed long before modern city planning.Through temples, water bodies, markets, and cultural institutions, the walk connects historical records, local memory, and everyday spaces to show how Malleshwaram evolved into a centre of education, culture, and lived heritage. This event is designed for those who want to understand Bengaluru slowly, thoughtfully, and through stories rooted in place and people.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7A4E87A9ADBB4CD091DAF4B13A5CC00E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6BC0F79FCC1947EAAEC9DC2AD206CBEE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BD9BDAACFEC9446F814DCAFC3BEA0F1E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/EC3B346D2D22415092D509C3104F1080_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/87DAD5DFC0E3479691456D0A46A3A633_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F016D70875DE44E3AEEF1742A3554A71_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1F1904EB3171496E9159445E9A366DDE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F91E33DA76F04E288FEC27DBD26012B4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7A0DD2AF368544BBADE9B21C4EBAFB20_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0D7E0574394F49C3926D11F647061ECA_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D0BB1C2A0DD047FDBC6AE00A3AB6C122_converted_webp.webp"
+    ],
+    "startDate": "2026-11-08T09:00:00+05:30",
+    "endDate": "2026-11-08T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "183, Margosa Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1znC6y4WrjsRnHG7-SQMSz8",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0056609,
+        "longitude": 77.56932429999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/malleshwaram-heritage-trail",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "KR Market Heritage Trail",
+    "description": "The KR Market Heritage Walk is about exploring one of Bangalore’s oldest and most active neighbourhoods through a guided, story-led experience.The walk takes participants through the flower and trade markets, historic streets, and key landmarks such as Tipu Sultan’s Summer Palace. It focuses on how trade, faith, and power shaped old Bangalore and how these spaces continue to function today.This is not just a sightseeing walk. It is a structured exploration of the city’s history, architecture, communities, and everyday life.- A guided walk through the KR Market and the surrounding historic lanes- Insights into old Bangalore’s trade networks and community life- A visit to Tipu Sultan’s Summer Palace- Stories that connect markets, temples, and political history- Easy-paced walking with regular stops for explanation- A small group setting for better interaction and questions- A deeper understanding of how old Bangalore still shapes the present city",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/FBC6BF1DB8E44ACA92C42E20DB47A2E6_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5DBBC218859A472696A3DD1319A47270_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4B90A9516E464A4989A9B446E9135B7F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0A27B202725B45D185C042BBD9975D28_converted_webp.webp"
+    ],
+    "startDate": "2026-11-15T08:30:00+05:30",
+    "endDate": "2026-11-15T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Chickpet Rd, KR Market, Mamulpet, Chickpet, Bengaluru, Karnataka 560002, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_xC6VOEVrjsRy_ZNwGx87Ac",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9653799,
+        "longitude": 77.57608979999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/kr-market-heritage-trail",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "After Hours with Eleven AM Club",
     "description": "After Hours is for anyone who wants to unwind with their hands and imagination. Come by on Wednesdays for evenings that invite you to make, play, and tinker without making anything perfect.Here’s how it goes:You walk in. It’s been a long day, probably. You see strangers working, chatting, and sometimes doing nothing. You join a table. Or sit alone. Whatever floats your boat.You set your space and begin your unfinished project: a piece of writing you’re finishing, crochet, a Lego set, postcards waiting to be written, or sketches that might turn into something new.Or — you could dive into what we have here: Use the colourful papers, old magazines for collages, and books to inspire you. Use a medium you haven’t tried before.Bring a friend, or drop in alone after work. Leave with messy hands and a sense of calm and excitement for all the possibilities.No two After Hours are the same, since each evening is shaped by the people who attend. One thing is certain — you are going to have a gala time. See you at the club!Follow along @elevenamclub and join the Eleven AM Club WhatsApp community.About the Eleven AM Club:Where do we meet new people in the city anymore? A space for slow, intentional gatherings where time stretches, stories unfold, and creativity finds room to breathe. At Eleven AM Club, we come together to write, draw, cook, read, play, or simply be—no rush, no agenda, just a day well spent.",
     "image": [
@@ -1143,6 +1250,360 @@
       "Leisure",
       "Active",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Warrior Sufi Saints",
+    "description": "\"This is a guided heritage walk focused on the warrior Sufi saints of Bengaluru.The walk explores how Sufi saints were not only spiritual figures, but also protectors of communities, mediators in conflicts, and active participants in the social life of the city.Through this trail, participants will:- Visit multiple historic dargahs in central Bengaluru- Learn who these saints were and why they mattered- Understand how faith, trade, bazaars, and daily city life were closely connected- See parts of Bengaluru that most people pass through but never truly noticeThe walk uses storytelling, history, and local context to explain how these Sufi spaces shaped neighbourhoods like Halasuru and KR Market.This is a historical and cultural exploration of the city through the lens of Sufi traditions.The trail is designed for people who are curious about Bengaluru’s layered past and want to understand the city beyond landmarks.\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A656BF20E5B245A6AE9F8BE0E85D34BB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CEC4C7CBCE844695AB2A1353813A3F2E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7BEF4BBEC27740D0A89BDE4E2F7B9168_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BD300C2770084BA2904CD78640D3F505_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C5A98EDB0CB0402AA711C639714C8A87_converted_webp.webp"
+    ],
+    "startDate": "2026-11-21T11:00:00+05:30",
+    "endDate": "2026-11-21T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Nagarathpete, Bengaluru, Karnataka 560002, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9662107,
+        "longitude": 77.581944
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/warrior-sufi-saints",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lalbagh Heritage Trail",
+    "description": "\"This experience brings out the layered history of Lalbagh, from its origins under Mysore rulers to its transformation during the British period. You will explore how this space evolved from a royal garden into a scientific botanical centre, while also uncovering hidden structures, early markers of the city, and details that most visitors overlook.Through this walk, Lalbagh is seen not just as a garden, but as a timeline of Bangalore, where geology, history, culture, and urban change come together to tell a larger story of the city.\"https://bengaluruprayana.com/terms-conditions-walks/",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D3BBF3EAFC0A48D7814EE66FA2A3894E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1FF5E0B047F0486EB05F8E1EAE7F734F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/065AB452CC6041A1BADF994F30C60A9B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/17C83C6C42AA410380FC9185EB7C978E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/60049A8CD369433896FE57B8EEE17427_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1B906B7A8E64437FA3676F2749301647_converted_webp.webp"
+    ],
+    "startDate": "2026-11-13T16:00:00+05:30",
+    "endDate": "2026-11-13T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Mavalli, Bengaluru, Karnataka 560004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9494158,
+        "longitude": 77.58468049999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lalbagh-heritage-trail",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gavipuram Heritage Trail",
+    "description": "\"The Gavipuram Heritage Walk is a guided walking experience that helps people understand one of Bangalore’s oldest and least-known neighbourhoods.On this walk, participants explore how early Bengaluru evolved through temples, hillocks, city boundaries, and sacred spaces. The walk focuses on Gavipuram’s role in shaping old Bangalore, long before the modern city developed.It covers places such as the Gavi Gangadhareshwara cave temple, hill temples, Kempegowda’s western tower, memorial sites, and sacred hills.This is a slow, story-driven walk, meant for people who want to look beyond popular landmarks and understand Bangalore in a deeper, more meaningful way.https://bengaluruprayana.com/terms-conditions-walks/\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BABC3BF2363940A3BE0EED7A25FEEFD2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/1FE72448B6EA4E14893A42B2C45B9A3A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/160B27DB42D64CA7BD1C2B4ED80C0BA5_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D6E4AC160D84454D812156985A873808_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BC5C62456847414AB662EE780AB60D12_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A46860A4368A461DBD1FA2B9CCF3969A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/0344D83DD5BE4BDBB9F037FA4D2B05F9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E755F33C36604711BBD45A84F12567E2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/93137DAC603A4773A53E27D77F0CC2ED_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8E1BBF40E5C948EA947A51CD1A3F35C9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/97824BA27C294424BEB32C7201CDE374_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T09:00:00+05:30",
+    "endDate": "2026-11-14T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "WHX7+64Q, 5th Main Rd, Gavipuram Extention, Kempegowda Nagar, Bengaluru, Karnataka 560004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9480823,
+        "longitude": 77.56286639999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/gavipuram-heritage-trail",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Sufi Trail (Jayamahal)",
+    "description": "\"The Sufi Trail in Jayamahal is a guided walk that explores dargahs and sacred spaces connected to Sufi traditions in Bengaluru.This walk focuses on the lives of Sufi saints, their teachings, and the message of unity and service they spread across communities. Participants learn how these spiritual spaces became part of the social and cultural history of the area.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C1250032E11143668E574AE7825E795B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CEDB3C308E6448A989A3C15C732D429B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F0641F8A5CC44222A63894E3F02C8BE2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5B1F6F0311DB453D86A5912042445173_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D3764E08616A45EB87201BABC4D45F3D_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T11:00:00+05:30",
+    "endDate": "2026-11-28T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Jayamahal Main Rd, Jayamahal Extension, Jayamahal, Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0022834,
+        "longitude": 77.594273
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-sufi-trail-jayamahal",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Footprints of Fraser Town",
+    "description": "\"The Fraser Town Walk explores how one of Bengaluru’s earliest planned suburbs was designed and who it was built for.We trace the foundation of Fraser Town, its early residents, and the institutions that shaped daily life. From residential bungalows to churches and schools, the walk examines power, planning, faith, and reform.We also look at layered histories. A colonial suburb built over older landscapes. Influential residents who left visible marks. Women like Lydia Muthulakshmi, whose work in education shaped young girls’ lives.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D33D59CA1D754066BC4542DDD464DE26_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7BA50224123240118CBB2EBD0CFC2BC7_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D0AD361B268049678B38AB09ED57D064_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/41E2D212AF96423B99CD5A037202FB7B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9713D753A53B4A2592303F03AB41C2A0_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Frazer Town, Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9970483,
+        "longitude": 77.61440759999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/footprints-of-fraser-town",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bangalore by Post",
+    "description": "\"Bangalore by Post is a curated heritage walk that explores the evolution of postal communication in Bangalore during the colonial period. The walk focuses on Bangalore Cantonment and traces how communication systems developed from the 1860s to 1947.This is a research-driven experience that goes beyond buildings. Attendees will engage with original postal covers, postmarks, and archival material from Bangalore, offering a rare insight into how letters travelled, who used these systems, and what they reveal about everyday life in the city.Led by philatelist Varun Khanna, the experience includes a focused showcase of philatelic artefacts and detailed explanations of postal systems during the colonial period.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6CBBC49A6B544E92B74E0A06645FC5C1_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D0256DCB814A422CA46D8AF06CAAE682_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E8532B58D51A420B905017F461E8B643_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/67A57646ABA24EE48E0537702B19ACC9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6F1E640CF83D4CA588493BAF95844DAE_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T10:00:00+05:30",
+    "endDate": "2026-11-14T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9798332,
+        "longitude": 77.58653930000001
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 900.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/bangalore-by-post-12965",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Whitefield Heritage Trail",
+    "description": "\"The guided walk focuses on the early history of Whitefield, long before it became a major tech hub. Participants walk through the Inner and Outer Circles and explore key heritage landmarks while learning about the people, institutions, and communities that shaped the area.The walk is interactive and discussion-based. It is not just about dates and buildings. It is about understanding how Whitefield evolved and how its past still connects to the present.Please note that the fee is not for access to the site, but rather for the curation of the experience.https://bengaluruprayana.com/terms-conditions-walks/\"",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/59B82DA7189C45CC9118B773887B9C06_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D96E795C93234EFB88154B2AB46C0931_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9928566ADEF247E985230EB47B15F092_converted_webp.webp"
+    ],
+    "startDate": "2026-11-15T09:00:00+05:30",
+    "endDate": "2026-11-15T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "15, SH 35, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9692854,
+        "longitude": 77.7496883
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 999.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru Prayana",
+      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
+      "url": "https://urbanaut.app/partner/bengaluru-prayana",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/whitefield-heritage-trail",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -1753,49 +2214,6 @@
       "Live GIG",
       "Music",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Red Desert by Michelangelo Antonioni - TPCC",
-    "description": "This is the story of a woman… Her hidden thirsts and hungers…In an industrializing Italian town, a married woman, rendered mentally unstable after a traffic accident, drifts into an affair with a friend of her husband.This film is part of 2 month curation built around the recommendations recieved by the members. This is our final curation for the year 2026!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4E00F8EA22C64116B98B972241A8E337_converted_webp.webp"
-    ],
-    "startDate": "2026-11-03T19:45:00+05:30",
-    "endDate": "2026-11-03T22:45:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 375.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film—come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/reddesert",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -5953,393 +6371,6 @@
       "Local",
       "Music",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The ROAR and The Squeak!",
-    "description": "The ROAR and The Squeak! Puppet Show, Art Session and some Fun-Time!For 5-8 Year-OldsVenue: The Gallery, Bangalore Creative CircusDate: 12th December, 2026 (Saturday)Time: 11:00 AM – noon (12:00 PM)About the SessionThe mighty lion and the tiny mouse in a charming mini-theatrical puppet show filled with sing-along songs and storytelling through handmade puppets. Children will then be guided through an art activity to create an animated lion – the imaginative storytelling version of the character on paper!A perfect blend of art, imagination, and storytelling: come and create your own jungle tale!Please Note: This event is exclusively for Kids, and a part of the Bengaluru Jatre festival. Accompanying parent(s) (if needed) can have an additional ticket in the booking.About The Puppeteer/Artist/HostFor Aditi, creativity is a loop of endless possibility: art sparks a character, and story breathes life through imagination.After beginning her career as a UX/UI Design professional in Bengaluru and pursuing it for more than a decade; she has been pursuing the joy of storytelling through her venture, band of beads. Narratives are woven through beading, fabrics, and puppetry - crafting tiny worlds with big hearts.Art. Story. Repeat!About the VenueBangalore Creative Circus is an urban living lab for regenerative systems, communities, and cultures. Our physical space is a 20,000 sqft industrial warehouse converted using repurposed materials into an experience centre for sustainability solutions, a learning centre, a creative arts hub, a farm-to-table restaurant, edible gardens, and a community centre for events, workshops, and performances.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A2D106BAF8C5480EA9422B56903A3A3E_converted_webp.webp"
-    ],
-    "startDate": "2026-12-12T11:00:00+05:30",
-    "endDate": "2026-12-12T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "12/2, Yeshwanthpur Industrial Suburb, Estate, Bengaluru, Karnataka 560086, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0138897,
-        "longitude": 77.5481114
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 590.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "band of beads",
-      "description": "Theme Products. Art Sessions. Puppet Shows.",
-      "url": "https://urbanaut.app/partner/bandofbeads",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/64D69E0C655A45E69D73856CFF48D3A8_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-roar-and-the-squeak",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Workshop",
-      "Active",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mehfil Feat. Veet Raag, Roy George & Jaisen",
-    "description": "An Evening of Ghazals, Unplugged.From the haunting elegance of Mehdi Hassan and Ghulam Ali to the timeless poetry of Jagjit Singh , experience an intimate musical evening with Veet Raag, Roy George on keyboards, and Jason on tabla. Mehfil invites you to slow down, tune in and experience music in it's purest form.Date : 21st November Time : 6PM Onwards Venue : Ram's Musique Experience",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/79081034A0C14D6BB16379A2CAEF3753_converted_webp.webp"
-    ],
-    "startDate": "2026-11-21T18:00:00+05:30",
-    "endDate": "2026-11-21T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "28, 1st Floor, Public Utility Building, 7, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9744745,
-        "longitude": 77.6097489
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 46,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 999.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ram's Musique Experience",
-      "description": "India's largest vinyl record store and experience centre",
-      "url": "https://urbanaut.app/partner/ramsmusiqueexp",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/C280E3AE43FC4A2AA2E2444BB2CEEDC0_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/mehfilatrams",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Monochrome to Modernity: Day 1 - The Golden Age",
-    "description": "Welcome to the first set of screenings of 'From Monochrome to Modernity'!This is a collaboration of The Parallel Cinema Club, Daijoubu eSports and Japan Habba to bring to everyone the rich cinematic culture of Japan. Through curated films from the likes of Kurosawa and Teshigahara, we span through 120 years of Japanese cinema's vibrant richness.The first set of films will look at the Golden Age of Japanese Cinema.About the period: The Golden Age of Japanese cinema, usually dated to the 1950s, early 1960s, grew from a prewar studio system reshaped by postwar Occupation reforms. Rashomon’s 1951 Venice win opened Western markets and brought Kurosawa, Ozu, Mizoguchi, and Naruse global acclaim, while the late-1950s peak of major studios, huge attendance, and widescreen/color gave way in the 1960s to television, studio crises, and changing audiences. Formally, it was a studio-genre synthesis, jidaigeki, gendai-geki, shomingeki, and melodrama using classical continuity with strong mise-en-scène, long takes, and expressive sound, with key styles including Ozu’s low static “tatami” camera and pillow shots, Mizoguchi’s long moving takes, Kurosawa’s dynamic montage and telephoto action, and Naruse’s restrained, elliptical melodrama.Films to be screened:Floating Weeds by Yasujirō Ozu Ikiru by Akira KurosawaWife! Be Like a Rose! by Mikio NaruseThis is a free screening, with breaks after each film. For more details about the curation itself, you can go here: Curation for Japan HabbaPlease note that there are a total of 4 entry passes to this event, and you can either RSVP for select films or all the films. Please be sure to show up early because the seats are not going to be reserved for anyone. The RSVP form is just for our headcount reference. ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4095584C43BB4D3ABBC5BC94F245B91D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2B2D338E56DE4B57A966393614A95E83_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1D008FF251A743DDAB7D0F136EFF48B4_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T14:30:00+05:30",
-    "endDate": "2026-11-07T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.983484,
-        "longitude": 77.61101699999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 139,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film—come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/monochrome-to-modernity-day-1-the-golden-age",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Monochrome to Modernity: Day 2 - Japanese New Wave",
-    "description": "Welcome to the second set of screenings of 'From Monochrome to Modernity'!This is a collaboration of The Parallel Cinema Club, Daijoubu eSports and Japan Habba to bring to everyone the rich cinematic culture of Japan. Through curated films from the likes of Kurosawa and Teshigahara, we span through 120 years of Japanese cinema's vibrant richness.The second set of films will look at the The Japanese New Wave.About the period: The Japanese New Wave (Nuberu Bagu) emerged in the late 1950s–1960s as younger directors reacted against the studio system’s commercial formulas and the older Golden Age masters. Led by figures such as Nagisa Oshima, Shohei Imamura, Yoshishige Yoshida, Masahiro Shinoda, and Hiroshi Teshigahara, it engaged with politics, youth alienation, sexuality, and social taboos. Formally it broke with classical continuity, favoring handheld cameras, jump cuts, improvisation, documentary-like textures, and self-reflexive experimentation. Its energy was tied to postwar protest culture and independent production, often challenging both Japanese society and cinematic convention.Films to be screened:Face of Another by Hiroshi Teshigahara Death by Hanging by Nagisa ŌshimaDemons by Toshio MatsumotoThis is a free screening, with breaks after each film. For more details about the curation itself, you can go here: Curation for Japan HabbaPlease note that there are a total of 4 entry passes to this event, and you can either RSVP for select films or all the films. Please be sure to show up early because the seats are not going to be reserved for anyone. The RSVP form is just for our headcount reference. ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0558426CE8FB4A99B5C1F3B27EA39935_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B34DF9F41AD44D4791535F1657007991_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7B7B6550C4204157AD7254E74D9F3B01_converted_webp.webp"
-    ],
-    "startDate": "2026-11-21T15:00:00+05:30",
-    "endDate": "2026-11-21T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Thimmaiah Rd, opposite UNI, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxxStOF0WrjsRMw_H82JP0FY",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9914564,
-        "longitude": 77.5968487
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 143,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film—come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/m2m-day2-japannewwave",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pint of View Lecture Over Drinks: Ctrl + Alt + Infringe",
-    "description": "About the eventWe use AI to write, design, make videos, edit photographs and even polish our Instagram captions. We are all eager participants in this new creative revolution. But have you ever wondered: Who owns the copyright to something you create using AI?AI models are trained on enormous amounts of human-created work scraped from across the internet. So, who owns the intellectual property used to train these models? Is there copyright infringement when machines learn from human creativity? And when AI creates something new, who owns the output?Join us for a fascinating deep dive into the collision between artificial intelligence and intellectual property, exploring copyright, patents, authorship, licensing and the economics of innovation.About the SpeakerAnu Vaidyanathan is a filmmaker, comedian, engineer and entrepreneur. She is the founder of PatNMarks, an intellectual property firm working at the intersection of technology and innovation. With a PhD in Electrical and Computer Engineering, she is also the first Asian woman to complete Ultraman Canada, an extraordinary endurance achievement. She is the author of the bestselling memoir Anywhere But Home, and has worked across independent filmmaking, screenwriting and stand-up comedy, performing internationally.Expect intellectual property, AI and a generous dose of Anu's wry humour.Event Details📅 Saturday, 7 November 2026⏰ 4 PM – 6 PM📍 Bangalore Local, Koramangala, BengaluruYour ticket includes:• 1 complimentary kombucha from Local Ferment Co.• First-come, first-served seatingAbout Pint of ViewPint of View is India's Largest Lecture Community. We brought the lecture in bar format to India and are now expanding across the globe with chapters in 16 cities worldwide. Here, big ideas meet intimate spaces, and you walk in curious and walk out with a sharper lens on the world.Book now and develop your own pint of view. 🍻",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8677384577254FBF8AFE591327765547_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D69DAF95DAE649A99D56372D1B1A8CB1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/57B5BE32F4984578B04C1D947BB78662_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/67EBD2B07E0946689636E383A113FE11_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7D0219DACBC44A698D23649F194047C0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9C8815F66B76475DA64C9E70138D4318_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8294D1F3B410434986DD66E1EA6AF125_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E107F9BC3A34D619B14C6449671B7FA_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T16:00:00+05:30",
-    "endDate": "2026-11-07T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "159, 1st Cross Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9253191,
-        "longitude": 77.6350693
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 899.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View, Bengaluru",
-      "description": "Welcome to Pint of View – Bangalore's first-ever community where cutting-edge science meets craft beer. Inspired by the successful Lectures on Tap movement in the US, Pint of View is bringing this revolutionary format to India for the very first time.",
-      "url": "https://urbanaut.app/partner/pintofview",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CAD0DF9888C64EC8BBE31A279636551B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ctrl-alt-infringe",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pint of View Lecture Over Drinks: Who is Democracy Really For?",
-    "description": "About the eventDemocracy is often measured by who gets elected. But what happens after the election, when decisions have to be made about land, employment, education, health and public resources?Drawing on her experience in public administration and grassroots work, P. Sivakami examines the gap between political representation and actual participation in governance. What does it mean for a policy to be designed with people rather than simply for them? And can decentralisation make local government more responsive to the people it serves?The lecture looks at these questions through concrete examples from Sivakami’s work, including efforts to address child labour in Tamil Nadu’s match and fireworks industries, employment camps connecting rural job-seekers with employers, and campaigns for land rights and greater political representation for Dalit communities. She also examines questions of women’s participation, including how local knowledge and lived experience can change what governments see as a priority.So, when people who have historically been left out of decision-making gain a meaningful voice, does governance itself begin to change?About the SpeakerP. Sivakami (Former IAS) is a writer, social activist and former Indian Administrative Service officer who served for 28 years before taking voluntary retirement in 2008.During her career, she served as District Collector of Vellore and Thoothukudi and held senior positions across the Tamil Nadu government, including Secretary to the Government for Labour Welfare, Adi Dravidar and Tribal Welfare, and Animal Husbandry, Dairying and Fisheries. She also served as Managing Director of the Tamil Nadu Tourism Development Corporation and held leadership roles in the Food Safety and Employment and Training departments.Her work has focused extensively on public administration, social welfare and the challenges of translating policy into meaningful outcomes on the ground.A celebrated Tamil writer, Sivakami has authored five novels, over 60 short stories and more than 100 essays. Her novel The Grip of Change is prescribed in postgraduate literature courses at several universities.She currently heads the Forum for Indian Women Intellect, which conducts empirical surveys and field research on socio-economic challenges and contributes to public policy formulation.Event DetailsDate: Wednesday, 4 NovemberTime: 7 PM – 9 PMVenue: The Bangalore Local, Koramangala, BengaluruThis is a sober venue.Your ticket includes:• 1 complimentary kombucha from Local Ferment Co.• First-come, first-served seatingAbout Pint of ViewPint of View is India's Largest Lecture Community. We brought the lecture in bar format to India and are now expanding across the globe with chapters in 16 cities worldwide. Here, big ideas meet intimate spaces, and you walk in curious and walk out with a sharper lens on the world.Book now and develop your own pint of view. 🍻",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1161D1952D794A1BB837D23E73A70F86_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D69DAF95DAE649A99D56372D1B1A8CB1_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/57B5BE32F4984578B04C1D947BB78662_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/67EBD2B07E0946689636E383A113FE11_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7D0219DACBC44A698D23649F194047C0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9C8815F66B76475DA64C9E70138D4318_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8294D1F3B410434986DD66E1EA6AF125_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E107F9BC3A34D619B14C6449671B7FA_converted_webp.webp"
-    ],
-    "startDate": "2026-11-04T19:00:00+05:30",
-    "endDate": "2026-11-04T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "159, 1st Cross Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9253191,
-        "longitude": 77.6350693
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 899.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View, Bengaluru",
-      "description": "Welcome to Pint of View – Bangalore's first-ever community where cutting-edge science meets craft beer. Inspired by the successful Lectures on Tap movement in the US, Pint of View is bringing this revolutionary format to India for the very first time.",
-      "url": "https://urbanaut.app/partner/pintofview",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CAD0DF9888C64EC8BBE31A279636551B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/who-is-democracy-really-for",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Word of Mouth: A Food Walk with Berty Ashley",
-    "description": "Have you ever stopped mid-bite and wondered why the thing you’re eating is called what it’s called? Why a galouti kebab is a galouti kebab, or which beloved drink took its name from a famously busty actress?Join quiz master Berty Ashley for an afternoon of eating through the city with a historian’s curiosity and a trivia-lover’s glee. As you wander, Berty unpacks the etymology and backstory behind iconic dishes: the accidents, empires, puns and personalities buried in names we say without thinking.The walk pans out on Church Street, hopping through some yummy spots including Indian Coffee House, Empire & Big Fat Roll.Berty AshleyBerty Ashley is a molecular biologist by day and one of Bengaluru’s best-loved quiz masters. He sets The Hindu’s weekly “Easy Like Sunday Morning” quiz, has co-authored a science quiz book, and is a serial collector of music, trivia and clearly food facts. Few people can make you this hungry and this much smarter in a single afternoon.Urbanaut ProductionsWe find the best a city has to offer and then we build a way in. Urbanaut Productions curates urban experiences at the intersection of food, art, music, and culture. For the curious, the restless, and anyone who suspects their city still has a few secrets left.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4EAFB1D382054308ADFA2480330BEAC0_converted_webp.webp"
-    ],
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.974422,
-        "longitude": 77.60733970000001
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1785.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urbanaut Productions",
-      "description": "At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one - or three - or hit us up with ideas and collaborations!",
-      "url": "https://urbanaut.app/partner/urbanaut-productions",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/B355D735DB6A4CEBAFB98E811AA4D5B6_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/word-of-mouth-a-food-walk-with-berty-ashley",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "Food & drink",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Copy of BREATHE, FEEL, HEAL",
-    "description": "Imagine, if you could free yourself of troubling thoughts or feelings which keep you in a loop?If you could be free of all old and stuck emotions?How would you live then? What different choices would you make?What if your breath can set you free from these old emotions and stuck thoughts?Come and experience what your breath can do to set you free, without having to speak a single word.Reset your nervous system at Utsmaya on:November 21st, 10am–3:30pmFacilitated by Mamtha Rajesh, Psychotherapist and Breathwork therapist with 26 years of experience.Limited spots and small group size.📅: 21/11/26⏰: 10.00 am - 3.30 pm📍Utsmaya, Basavanagudi",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/035D15FD3F814DD7A34048EE05349070_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9589F09DE56A4B5C95BC2AB5D83F6C62_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9ED7948CFA80400E8F8F6CD7044B365E_converted_webp.webp"
-    ],
-    "startDate": "2026-11-21T10:00:00+05:30",
-    "endDate": "2026-11-21T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "7, Krishna Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9454139,
-        "longitude": 77.5754166
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2999.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Utsmaya LLP",
-      "description": "Mental and emotional wellness and healing",
-      "url": "https://urbanaut.app/partner/Utsmaya",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/4FC471E19AA84527AD981AC4EEE07B9C_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/breathefeelheal",
-    "keywords": [
-      "Premium",
-      "Wellness",
-      "Workshop",
       "URBANAUT"
     ]
   }
