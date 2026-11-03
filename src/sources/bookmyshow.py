@@ -30,7 +30,8 @@ LISTINGS = (
     ("activities", None, SOONEST_PAGES),
 )
 # A separate job lists BMS and fills the page cache, the build reads both
-MAX_AGE = 2 * 24 * 3600
+STALE = 2 * 24 * 3600
+MAX_AGE = 7 * 24 * 3600
 SUMMARY = {"@type", "name", "url", "startDate", "endDate", "image", "location", "eventStatus"}
 
 
@@ -107,6 +108,8 @@ def saved():
     age = time.time() - float(data["listed"])
     if not 0 <= age <= MAX_AGE:
         raise RuntimeError(f"BookMyShow listing at {path} is {age / 3600:.0f}h old")
+    if age > STALE:
+        logging.warning("BMS: using the listing from %.0fh ago", age / 3600)
     return [s for s in map(clean, data["events"]) if s]
 
 
@@ -131,6 +134,9 @@ def page_events(summary, refresh=False):
     found = []
     for event in data["events"]:
         if not bookmyshow.in_bengaluru(event):
+            continue
+        # An older listing or page still holds shows that are over
+        if str(event.get("endDate") or event.get("startDate") or "9999")[:10] < bookmyshow.today():
             continue
         result = summary | event
         result.pop("@context", None)

@@ -94,13 +94,15 @@ def venue(city, lat, lng):
     }
 
 
-def test_page_events_keep_bengaluru_venues(monkeypatch):
+def test_page_events_keep_upcoming_bengaluru_shows(monkeypatch):
+    monkeypatch.setattr(bookmyshow, "today", lambda: "2026-10-16")
     shows = [
+        dict(EVENT, startDate="2026-10-15T15:09", location=venue("Bengaluru", 12.91, 77.68)),
         dict(EVENT, startDate="2026-10-16T13:00", location=venue("Hyderabad", 17.43, 78.37)),
         dict(EVENT, startDate="2026-10-16T15:09", location=venue("Bengaluru", 12.91, 77.68)),
         dict(EVENT, startDate="2026-10-17T11:00", location={"name": "Studio: Bengaluru"}),
     ]
-    shows[1]["organizer"] = {"name": "BookMyShow"}
+    shows[2]["organizer"] = {"name": "BookMyShow"}
     html = HTML.replace(f"[{json.dumps(EVENT)}]", json.dumps(shows))
     monkeypatch.setattr(bookmyshow, "load", lambda url, refresh: bookmyshow.record(url, html))
     summary = {"@context": "http://schema.org", "url": LINK, "startDate": "2026-10-16"}
@@ -260,6 +262,13 @@ def test_stale_listing_fails_the_source(cache):
     (cache / "listing.json").write_text(json.dumps({"listed": 0, "events": [{"url": LINK}]}))
     with pytest.raises(RuntimeError):
         source.saved()
+
+
+def test_listing_from_a_few_days_ago_still_builds(cache, caplog):
+    listed = time.time() - 3 * 24 * 3600
+    (cache / "listing.json").write_text(json.dumps({"listed": listed, "events": [{"url": LINK}]}))
+    assert source.saved() == [{"url": LINK}]
+    assert "using the listing from 72h ago" in caplog.text
 
 
 def test_builds_from_a_saved_listing_only_read_the_cache(monkeypatch):
