@@ -106,3 +106,71 @@ def test_page_without_event_or_unreachable(capsys):
     assert district.page_event(session, IMPROV) is None
     assert district.page_event(session, WORKSHOP) is None
     assert f"Error fetching {WORKSHOP}: {WORKSHOP}" in capsys.readouterr().out
+
+
+@pytest.fixture
+def cache(monkeypatch, tmp_path):
+    monkeypatch.setenv("DISTRICT_CACHE", str(tmp_path))
+    monkeypatch.setattr(district, "today", lambda: "2026-10-16")
+    return tmp_path
+
+
+def page(slug, start, fetched):
+    return {"fetched": fetched, "event": {"name": slug, "startDate": start}}
+
+
+def test_crawl_fetches_new_then_stale_pages_within_budget(monkeypatch, cache):
+    now = district.time.time()
+    old = {
+        "kept": page("kept", "2026-10-30", now),
+        "stale": page("stale", "2026-10-16", now - district.DAY),
+        "gone": page("gone", "2026-10-20", now),
+    }
+    district.save(old)
+    monkeypatch.setattr(district, "slugs", lambda: {"kept", "stale", "new"})
+    fetched = []
+
+    def fake_page(session, url):
+        fetched.append(url.split("/")[3])
+        return {"name": "fresh", "startDate": "2026-10-17"}
+
+    monkeypatch.setattr(district, "page_event", fake_page)
+    monkeypatch.setenv("DISTRICT_MAX_FETCHES", "1")
+    found = district.crawl()
+    assert fetched == ["new"]
+    assert sorted(found) == ["kept", "new", "stale"]
+    monkeypatch.setenv("DISTRICT_MAX_FETCHES", "5")
+    fetched.clear()
+    district.crawl()
+    assert fetched == ["stale"]
+    assert district.load()["pages"]["stale"]["event"]["name"] == "fresh"
+
+
+def test_crawl_keeps_a_fuller_saved_copy(monkeypatch, cache):
+    district.save({s: page(s, "2026-10-20", district.time.time()) for s in "abcd"})
+    monkeypatch.setattr(district, "slugs", lambda: {"a"})
+    with pytest.raises(RuntimeError):
+        district.crawl()
+    assert len(district.load()["pages"]) == 4
+
+
+def test_builds_read_upcoming_saved_events(monkeypatch, cache):
+    monkeypatch.delenv("DISTRICT_CRAWL", raising=False)
+    now = district.time.time()
+    district.save({
+        "past": page("past", "2026-10-15T19:00", now),
+        "running": {"fetched": now, "event": {"name": "running", "startDate": "2026-10-01", "endDate": "2026-10-20"}},
+        "soon": page("soon", "2026-10-16T19:00", now),
+    })
+    assert sorted(e["name"] for e in district.events()) == ["running", "soon"]
+
+
+def test_saved_pages_expire_after_a_week(cache, capsys):
+    district.save({"a": page("a", "2026-10-20", 0)})
+    data = json.loads(Path(district.cache_path()).read_text())
+    Path(district.cache_path()).write_text(json.dumps(data | {"listed": data["listed"] - 3 * district.DAY}))
+    assert list(district.saved()) == ["a"]
+    assert "using pages from 72h ago" in capsys.readouterr().err
+    Path(district.cache_path()).write_text(json.dumps(data | {"listed": 0}))
+    with pytest.raises(RuntimeError):
+        district.saved()

@@ -1,0 +1,65 @@
+name: List District
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+    - src/sources/district.py
+    - src/common/restore.py
+    - .github/workflows/district.yml
+  schedule:
+    # Half an hour before each Update Data run
+    - cron: '47 23,5,11,17 * * *'
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+permissions: {}
+jobs:
+  runner:
+    uses: ./.github/workflows/runner.yml
+    secrets:
+      PUBLISH_PRIVATE_KEY: ${{ secrets.PUBLISH_PRIVATE_KEY }}
+  crawl:
+    name: List events and refresh pages
+    needs: runner
+    # District blocks cloud IPs, so builds elsewhere read what this saves
+    if: contains(needs.runner.outputs.labels, 'self-hosted')
+    runs-on: ${{ fromJSON(needs.runner.outputs.labels) }}
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    steps:
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      with:
+        persist-credentials: false
+    - uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
+      with:
+        activate-environment: true
+    - name: Restore pages from the last crawl
+      uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: district-pages
+        key: "cache-district-main-none"
+        restore-keys: "cache-district-main-"
+    - name: Crawl
+      env:
+        DISTRICT_CRAWL: "1"
+        DISTRICT_MAX_FETCHES: "600"
+      run: |
+        command -v zstd > /dev/null || echo "::warning::No zstd on $RUNNER_NAME, so other runners miss its cache"
+        uv sync --frozen
+        DISTRICT_CACHE="$HOME/.cache/district/main" python -m src.common.restore district district-pages
+        export DISTRICT_CACHE="$HOME/.cache/district/${GITHUB_REF_NAME//\//-}"
+        if [ "$GITHUB_REF_NAME" != main ]; then
+          python -m src.common.restore district "$HOME/.cache/district/main"
+        fi
+        python -m src.sources district
+    - name: Stage pages for other runners
+      if: github.ref == 'refs/heads/main'
+      run: rm -rf district-pages && cp -a "$HOME/.cache/district/main" district-pages
+    - name: Save pages for other runners
+      if: github.ref == 'refs/heads/main'
+      uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: district-pages
+        key: "cache-district-main-${{ github.run_id }}"

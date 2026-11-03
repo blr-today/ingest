@@ -36,25 +36,33 @@ jobs:
     - uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
       with:
         activate-environment: true
+    - name: Restore pages from the last crawl
+      # The last crawl may have run on another runner
+      uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: bms-pages
+        key: "cache-bms-main-none"
+        restore-keys: "cache-bms-main-"
     - name: Crawl
       env:
         BMS_CRAWL: "1"
         BMS_MAX_FETCHES: "300"
         LOG_LEVEL: INFO
       run: |
+        command -v zstd > /dev/null || echo "::warning::No zstd on $RUNNER_NAME, so other runners miss its cache"
         uv sync --frozen
+        BMS_CACHE="$HOME/.cache/bms/main" python -m src.common.restore bms bms-pages
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
-        # Branches start from a copy of main's pages but never write main's
-        if [ "$GITHUB_REF_NAME" != main ] && [ ! -d "$BMS_CACHE" ] && [ -d "$HOME/.cache/bms/main" ]; then
-          mkdir -p "$BMS_CACHE"
-          find "$HOME/.cache/bms/main" -maxdepth 1 -name '????-??-??-*.json' -exec cp -t "$BMS_CACHE" {} +
+        # Branches start from main's pages but never write main's
+        if [ "$GITHUB_REF_NAME" != main ]; then
+          python -m src.common.restore bms "$HOME/.cache/bms/main"
         fi
         python -m src.sources bookmyshow
-    - name: Stage pages for GitHub-hosted builds
+    - name: Stage pages for other runners
       if: github.ref == 'refs/heads/main'
       # The cache stores paths relative to the workspace, whose depth differs per runner
       run: rm -rf bms-pages && cp -a "$HOME/.cache/bms/main" bms-pages
-    - name: Save pages for GitHub-hosted builds
+    - name: Save pages for other runners
       if: github.ref == 'refs/heads/main'
       uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
       with:

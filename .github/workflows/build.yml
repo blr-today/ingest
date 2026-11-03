@@ -57,7 +57,8 @@ jobs:
       if: runner.environment == 'self-hosted'
       run: |
         missing=""
-        for tool in git gh jq wget curl; do
+        # zstd keeps cache versions equal to GitHub-hosted ones
+        for tool in git gh jq wget curl zstd; do
           command -v "$tool" > /dev/null || missing="$missing $tool"
         done
         if [ -n "$missing" ]; then
@@ -99,23 +100,6 @@ jobs:
         path: ~/.cache/ingest-instagram.sqlite
         key: "cache-instagram-${{ github.run_id }}"
         restore-keys: "cache-instagram-"
-    - name: Restore BookMyShow pages
-      # Self-hosted runners read the pages List BookMyShow wrote to their disk; others restore its last upload
-      if: runner.environment == 'github-hosted'
-      uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
-      with:
-        path: bms-pages
-        key: "cache-bms-main-none"
-        restore-keys: "cache-bms-main-"
-    - name: Move BookMyShow pages out of the workspace
-      # Before the checkout, which empties the workspace
-      if: runner.environment == 'github-hosted'
-      run: |
-        if [ -d bms-pages ]; then
-          mkdir -p "$HOME/.cache/bms"
-          rm -rf "$HOME/.cache/bms/main"
-          mv bms-pages "$HOME/.cache/bms/main"
-        fi
     - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       name: Clone self repository
       with:
@@ -125,6 +109,19 @@ jobs:
     - uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
       with:
         activate-environment: true
+    # The List BookMyShow and List District jobs may have run on another runner
+    - name: Restore BookMyShow pages
+      uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: bms-pages
+        key: "cache-bms-main-none"
+        restore-keys: "cache-bms-main-"
+    - name: Restore District pages
+      uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: district-pages
+        key: "cache-district-main-none"
+        restore-keys: "cache-district-main-"
     - name: Setup
       run: |
         git config --global init.defaultBranch main
@@ -135,11 +132,16 @@ jobs:
         TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
         BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
       run: |
-        # List BookMyShow fills this on the self-hosted runner; each branch reads only its own
-        export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
-        if [ ! -d "$BMS_CACHE" ] && [ -d "$HOME/.cache/bms/main" ]; then
-          cp -r "$HOME/.cache/bms/main" "$BMS_CACHE"
-        fi
+        # Keep the newest pages from this disk and the restored copy; each branch reads only its own
+        branch="${GITHUB_REF_NAME//\//-}"
+        for name in bms district; do
+          dir="$HOME/.cache/$name"
+          BMS_CACHE="$dir/main" DISTRICT_CACHE="$dir/main" python -m src.common.restore "$name" "$name-pages"
+          if [ "$branch" != main ]; then
+            BMS_CACHE="$dir/$branch" DISTRICT_CACHE="$dir/$branch" python -m src.common.restore "$name" "$dir/main"
+          fi
+        done
+        export BMS_CACHE="$HOME/.cache/bms/$branch" DISTRICT_CACHE="$HOME/.cache/district/$branch"
         make clean && make -s all
     - name: Upload Artifacts
       uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
