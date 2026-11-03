@@ -139,6 +139,9 @@ clean:
 build: fetch
 	python -m src.build
 
+# Sources that only crawl from home IPs; when one fails, the last release fills in
+CARRY_TAGS ?= DISTRICT,BOOKMYSHOW
+
 # post-build.sql uses ->>, which needs SQLite 3.38; uv's Python bundles a newer one
 post-build:
 	@echo "Running post-build steps"
@@ -146,6 +149,7 @@ post-build:
 	python -c "import sqlite3; print(sqlite3.sqlite_version); assert sqlite3.sqlite_version_info >= (3, 38)"
 	python -m sqlite3 events.db < post-build.sql
 	python -m src.tagger
+	python -m src.carry previous.db $(CARRY_TAGS)
 	python -m src.dedup
 	python -m src.event_ids
 	python -m src.validator --output report.json

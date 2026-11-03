@@ -23,7 +23,7 @@ log = logging.getLogger(__name__)
 logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("typesafe_sdk").setLevel(logging.WARNING)
 
-SOURCES = {"All", "DISTRICT", "URBANAUT", "HIGHAPE", "INSIDER", "ALLEVENTS"}
+SOURCES = {"All", "BOOKMYSHOW", "DISTRICT", "URBANAUT", "HIGHAPE", "INSIDER", "ALLEVENTS"}
 # Tags we classify but do not want to show
 DEMOTE = {
     "DEVOTIONAL-MUSIC": "LOW-QUALITY",

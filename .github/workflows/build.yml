@@ -142,6 +142,8 @@ jobs:
           fi
         done
         export BMS_CACHE="$HOME/.cache/bms/$branch" DISTRICT_CACHE="$HOME/.cache/district/$branch"
+        # src.carry fills sources that fail from the last release
+        curl -fsSL -o previous.db https://github.com/blr-today/dataset/releases/latest/download/events.db || rm -f previous.db
         make clean && make -s all
     - name: Upload Artifacts
       uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
