@@ -26,16 +26,16 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Permits Free entry to the event without cover charges till 6:00PM only, Post 6:00PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
-        "inventoryLevel": 3,
-        "name": "Pre Sale - Single Lady",
+        "inventoryLevel": 10,
+        "name": "Phase 1 - Single Lady",
         "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
       },
       {
         "@type": "Offer",
         "availability": "InStock",
         "description": "Permits Free entry for one couple to the event without cover charges till 6:00PM only, Post 6:00PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
-        "inventoryLevel": 1,
-        "name": "Pre Sale - Couple",
+        "inventoryLevel": 9,
+        "name": "Phase 1 - Couple",
         "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
       },
       {
@@ -57,14 +57,6 @@
       {
         "@type": "Offer",
         "availability": "InStock",
-        "description": "Permits Free entry for one male stag to the event without cover charges till 6:00PM only, Post 6:00PM additional cover charges of INR 2000/- applicable per head as per club rules and regulations.\n",
-        "inventoryLevel": 3,
-        "name": "Pre Sale - Stag",
-        "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
-      },
-      {
-        "@type": "Offer",
-        "availability": "InStock",
         "description": "Permits entry for One Individual or One Couple Or Two Single Ladies without cover charges all night Long. Walk-in Like a VIP.\n",
         "inventoryLevel": 3,
         "name": "Pre Sale - VIP (ANYTIME ENTRY)",
@@ -74,8 +66,32 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Permits entry for One Individual or One Couple Or Two Single Ladies without cover charges all night Long. Walk-in Like a VIP. Grants you Exclusive Backstage access.\n",
-        "inventoryLevel": 4,
+        "inventoryLevel": 3,
         "name": "Pre Sale - VVIP (BACKSTAGE ACCESS + ANYTIME ENTRY)",
+        "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
+      },
+      {
+        "@type": "Offer",
+        "availability": "SoldOut",
+        "description": "Permits Free entry to the event without cover charges till 6:00PM only, Post 6:00PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
+        "inventoryLevel": 0,
+        "name": "Pre Sale - Single Lady",
+        "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
+      },
+      {
+        "@type": "Offer",
+        "availability": "SoldOut",
+        "description": "Permits Free entry for one couple to the event without cover charges till 6:00PM only, Post 6:00PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
+        "inventoryLevel": 0,
+        "name": "Pre Sale - Couple",
+        "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
+      },
+      {
+        "@type": "Offer",
+        "availability": "SoldOut",
+        "description": "Permits Free entry for one male stag to the event without cover charges till 6:00PM only, Post 6:00PM additional cover charges of INR 2000/- applicable per head as per club rules and regulations.\n",
+        "inventoryLevel": 0,
+        "name": "Pre Sale - Stag",
         "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration-2026-sbccjbrw"
       }
     ],
@@ -108,7 +124,7 @@
       {
         "@type": "Offer",
         "availability": "InStock",
-        "inventoryLevel": 997,
+        "inventoryLevel": 992,
         "name": "Early Bird Pass",
         "url": "https://www.skillboxes.com/events/ticket/lakkshya-presents-tonics-in-the-stone-world-sbbrkpfp"
       }
@@ -119,7 +135,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "description": "Madhur Sharma is coming to Bangalore for an evening of soulful, Sufi tinged pop. Known for his velvety voice and his reworkings of timeless classics, he has built a loyal following across India through his live shows and online. His rece",
+    "description": "Madhur Sharma is coming to Bangalore for an evening of soulful, Sufi tinged pop. Known for his velvety voice and his reworkings of timeless classics, he has built a loyal following across India through his live shows and online. His recent tour be",
     "endDate": "2026-12-12T22:00:00",
     "identifier": "com.skillboxes.42934",
     "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TmVUdVhpVlZUYkUwNWpMOVVQL0xBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1793538195Cf9wzlAr0I3439pU.jpg.webp",
@@ -144,22 +160,30 @@
         "availability": "InStock",
         "description": "Carry original student ID and Aadhar card | Valid for one individual | All Prices Inclusive of 18% GST\n",
         "inventoryLevel": 200,
-        "name": "Student Pass",
+        "name": "Student Pass GA",
         "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
       },
       {
         "@type": "Offer",
         "availability": "InStock",
         "description": "General Admission | Valid for one individual | All Prices Inclusive of 18% GST\n",
-        "inventoryLevel": 250,
+        "inventoryLevel": 249,
         "name": "Early Bird GA Pass",
         "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
       },
       {
         "@type": "Offer",
         "availability": "InStock",
+        "description": "Carry original student ID and Aadhar card | Valid for one individual | All Prices Inclusive of 18% GST\n",
+        "inventoryLevel": 200,
+        "name": "Student Pass Fanpit",
+        "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
+      },
+      {
+        "@type": "Offer",
+        "availability": "InStock",
         "description": "Fan Pit Admission | Valid for one individual | All Prices Inclusive of 18% GST\n",
-        "inventoryLevel": 250,
+        "inventoryLevel": 233,
         "name": "Early Bird Fanpit Pass",
         "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
       }
@@ -391,36 +415,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "description": "Grassroots Wednesday : Rohan Raveesh Live & Aamir RizviRohan Raveesh: is a 23-year-old guitarist, producer, songwriter and singer based in Bengaluru. He picked up the guitar at five, and metal and prog shaped the way he plays. From",
-    "endDate": "2026-11-04T23:59:00",
-    "identifier": "com.skillboxes.42565",
-    "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1792663978Qrki9cyE2jkHdW5U.jpg.webp",
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Music Concerts"
-    ],
-    "location": {
-      "@type": "Place",
-      "address": "",
-      "name": "To Be Decided"
-    },
-    "name": "Grassroots Wednesday : Rohan Raveesh Live & Aamir Rizvi",
-    "offers": [
-      {
-        "@type": "Offer",
-        "availability": "InStock",
-        "description": "An additional cover of INR 500 applicable at the door, fully redeemable against Food and Beverage.\n",
-        "inventoryLevel": 391,
-        "name": "General",
-        "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesday-rohan-raveesh-live-aamir-rizvi-sbunfpfz"
-      }
-    ],
-    "startDate": "2026-11-04T21:00:00",
-    "url": "https://www.skillboxes.com/events/grassroots-wednesday-rohan-raveesh-live-aamir-rizvi-sbunfpfz"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "description": "Step into The Time Machine — an evening where iconic music, live performance and audience energy come together. Get ready for ",
     "endDate": "2026-12-05T20:30:00",
     "identifier": "com.skillboxes.42410",
@@ -504,7 +498,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Additional mandatory cover charges of INR 500 each applicable at gates.\n",
-        "inventoryLevel": 41,
+        "inventoryLevel": 39,
         "name": "Phase 1 Group of 2 Pass",
         "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
       }

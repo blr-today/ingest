@@ -62,7 +62,7 @@
     "endDate": "2026-11-15T20:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Dialogues Cafe",
       "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
       "geo": {
@@ -109,7 +109,7 @@
     "endDate": "2026-12-20T20:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Dialogues Cafe",
       "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
       "geo": {
@@ -158,7 +158,7 @@
     "endDate": "2026-11-15T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Dialogues Cafe",
       "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
       "geo": {
@@ -204,7 +204,7 @@
     "endDate": "2026-11-09T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
       "geo": {
@@ -251,7 +251,7 @@
     "endDate": "2026-11-16T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
       "geo": {
@@ -298,7 +298,7 @@
     "endDate": "2026-11-23T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
       "geo": {
@@ -345,7 +345,7 @@
     "endDate": "2026-11-30T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
       "geo": {
@@ -446,7 +446,7 @@
     "endDate": "2026-11-29T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Dialogues Cafe",
       "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
       "geo": {
@@ -484,6 +484,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Harry Potter Book Discussion",
+    "description": "For hard-core Potterheads age 12 and above!Get into the minds of the characters, ferret out the intricacies of the plot - enter the wizarding world and share your thoughts and insights!Will help if you have read all the Harry Potter books - this discussion will be based only on the books and not the movies.The event is curated by Lahe Lahe Caravan and is being hosted at Atta Galatta.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/037939177F9C4A449EE57F611A1F49AB_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T14:30:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta",
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 200.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lahe-lahe-caravan-presents-harry-potter-book-disc",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Coffee and Conversations",
     "description": "What about some Filter Coffee and Unfiltered conversations on a fine Sunday morning?Listeners Circle is an initiative to facilitate listening without judgment, hence giving a safe space for anyone to speak their heart out without the fear of judgment.We at Listeners Circle are committed to building a community where there are no unsaid words, held back emotions and buried feelings because of the fear of being judged.After 50+ Editions of Tell your Story, Listeners Circle relaunching a lighter format - Coffee and Conversations!Coffee lightens us up. Coffee gives us clarity. Coffee refreshes up. Sip a coffee and speak your heart out without fear of judgment and listen without judging! Coffee is on us and the onus of conversation without judgment is on you.Every word matters. Every emotion matters. Every feeling matters.Think about how it would feel to take an hour out of your fast-paced life and share your experiences and thoughts to people who listen to you without judging over a cup of Coffee? Also, listen to others without judging.Listeners` circle Coffee and Conversations -This is an event to make that happen.Speak your mind without being judged. Speak your mind without any boundaries. No photography and videography without consent. Your stories stay within the four walls of the room and the hearts.Would you like to just listen? We have a place for you too.Book your passes in advance to avoid the last-minute sell outs.Listeners Circle is an initiative to facilitate listening without judgment, hence giving a safe space for anyone to speak their heart out without the fear of judgment. We have done 50+ sessions over the last year, enabling people to voice their stories. Coffee & Conversations is our new format based on popular demand.",
     "image": [
@@ -493,7 +537,7 @@
     "endDate": "2026-11-15T13:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Atta Galatta",
       "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
       "geo": {
@@ -560,7 +604,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 436,
+    "remainingAttendeeCapacity": 419,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -746,7 +790,7 @@
     "endDate": "2026-11-04T22:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -792,7 +836,7 @@
     "endDate": "2026-11-11T22:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -838,7 +882,7 @@
     "endDate": "2026-11-18T22:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -884,7 +928,7 @@
     "endDate": "2026-11-25T22:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -930,7 +974,7 @@
     "endDate": "2026-11-06T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -976,7 +1020,7 @@
     "endDate": "2026-11-13T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1022,7 +1066,7 @@
     "endDate": "2026-11-20T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1068,7 +1112,7 @@
     "endDate": "2026-11-27T22:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1108,9 +1152,10 @@
     "name": "Restorative Sound Meditation",
     "description": "Join experienced facilitators Veena Narasimhan and Ruchir Dwivedi for a restorative sound meditation session hosted in a serene, century-old heritage building. Veena, a seasoned somatic movement practitioner and yoga teacher, partners with Ruchir, founder of the Arivu Yoga Collective, to guide participants toward deep relaxation. Their combined expertise in holistic healing, sound meditation, and traditional Hatha yoga ensures a deeply rejuvenating experience. About the facilitatorsVeena Narasimhan: Veena has over a decade of experience in yoga, movement, and healing. She holds Basic and Intermediate Yoga Teacher Training Certifications and a Diploma from Attakkalari, where she trained in Yoga, Kalari, Bharatanatyam, and Somatics. She previously taught at Akshar Yoga Kendraa and Dhurii Studios and led sessions for corporates and institutions like Reliance, Herbalife, and Army Public School. As a facilitator for Westside’s Wellness Campaign (2022–2024), she promoted wellness through yoga. She has also worked with Carer India as a cancer recovery yoga therapist and was selected to train nurses in Vietnam in 2025.Ruchir Dwivedi: Ruchir is a visual artist and a certified yoga teacher. He founded the Arivu Yoga Collective in Ulsoor. Drawing on almost seven years of dedicated practice, he loves guiding others through the ancient wisdom of yoga. At the collective, his teachings focus on traditional Hatha yoga - deeply inspired by the renowned Sivananda and Bihar School of Yoga traditions.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F6EA54AACE304447AC7A3677A871D042_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A51D0EAFBB7940B9A6C2C85474DA10FF_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/F44C62297632473B8871E3211ACEF8D2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2364BA0E7083498B9A18871A402953EB_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/2364BA0E7083498B9A18871A402953EB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/AC47672D21B94198AC5CF5DB8C42C396_converted_webp.webp"
     ],
     "startDate": "2026-11-14T11:00:00+05:30",
     "endDate": "2026-11-14T12:30:00+05:30",
@@ -1160,7 +1205,7 @@
     "endDate": "2026-11-05T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1206,7 +1251,7 @@
     "endDate": "2026-11-12T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1252,7 +1297,7 @@
     "endDate": "2026-11-19T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1298,7 +1343,7 @@
     "endDate": "2026-11-26T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Underline Center",
       "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1344,7 +1389,7 @@
     "endDate": "2026-11-21T20:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Atta Galatta",
       "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1431,7 +1476,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF 2026 <> Bangalore",
-    "description": "There are times in history that ask something different of us.This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.Expect award winning films from around the world, filmmaker Q&As, immersive art, workshops, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is a Flagship ALT EFF experiences, curated end to end by the ALT EFF team. This is art as witness, joy as resistance, and cinema as a way home -- to each other.Program12th December 2026, SaturdaySloped Roof Block11:00 - 11:20 AM: Surara - Spirit of Resistance (Lea Hejn / Brazil, UK, The Netherlands / 17 mins / Brazilian Portuguese / 2026)11:20 - 11:35 AM: Your City (Ting Su / USA, China, France / 14 mins / Chinese Mandarin / 2026)11:35 - 11:55 AM: How I Fell (Julien Boisvert / Canada / 19 mins / French / 2024)11:55 - 12:15 PM: The Granny & Fishes (Maria Mavat, Ehsan Farrokhi Fard / Iran / 27 mins / Persian / 2025)12:15 - 1:45 PM: Land of Canaan (Maggie Lemere / Palestine / 1 hr 24 mins / English / 2025)1:45 - 2:00 PM: Last Night I Dreamed It Was Raining Fish (Shraddha Khanna / India / 16 mins / Marathi / 2025)2:00 - 2:15 PM: The Last Climber (Thida Swe /  Myanmar / 16 mins / Burmese / 2025)2:15 - 2:35 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)2:35 - 3:00 PM: Q&A with filmmaker (TBC)3:00 - 4:30 PM: Dear Ancestor (Nantenaina Lova / Madagascar, Réunion island / 1 h 11 mins / Malagasy, French / 2026)4:30 - 4:35 PM: The Balcony's View (Stella Hood / Germany / 3 mins / German / 2025)4:35 - 5:00 PM: Path of Return (Maraluva Daari) (Jayasri Sridhar / India / 23 mins / Kannada / 2024)5:00 - 5:30 PM: Amma, Do Giraffes Cry? (Kartikeya Saxena / India, Czech Republic / 27 mins / English, Hindi, Czech / 2026)13th December 2026, SundaySloped Roof Block11:00 - 11:15 AM: Wild Hope: Way of the Elephants (Bethany Jones / India / 15 mins / English / 2024)11:15 - 11:35 AM: This Tree Won't Fall (Deepak Ramola / India / 20 mins / English, Hindi, Garhwali / 2026)11:35 - 12:00 PM: A Clawsome Tale (Lucie Machin / United Kingdom / 22 mins / English / 2025)12:00 - 12:20 PM: Namsing | Preserving A Tradition (Ruella Rahman Khound / India / 21 mins / Assamese, Mising / 2025)12:20 - 1:00 PM: Q&A with the filmmaker (TBC)1:00 - 1:15 PM: The Farmer's Daughter (Melissa Bloom / USA / 13 mins / English / 2025)1:15 - 1:45 PM: Plant Life (Josh Izenberg, Brett Marty / USA / 24 mins / English /2026) 1:45 - 2:00 PM: Payuun: Thailand's Last Dugongs (Mailee Osten-Tan / Thailand / 15 mins / English, Thai / 2026)2:00 - 2:15 PM: Jwala (Amoghavarsha JS / India / 15 mins / English, Hindi / 2026)2:15 - 3:00 PM: Q&A with CAL (TBC)3:00 - 4:30 PM: The Lake (Abby Ellis / USA / 1 hr 33 mins / English / 2025)4:30 - 4:40 PM: Before the Fire (Swara Garge, Prakhar Dobhal / India / 11 mins / English, Hindi / 2026)4:40 - 4:55 PM: Benin: Vodun to the rescue of mangroves (Juliette Chapalain / Benin / 13 mins / English, French / 2026)4:55 - 5:20 PM: The Prediction (Kanippu) (Rishi Chandna / India / 24 mins / English, Tamil / 2025)5:20 - 5:40 PM: Vana Bhashi | India’s Living Ecosystem (Sneha Mitra, Vikram Vyawahare / India / 16 mins / English, Hindi, Marathi / 2025)5:40 - 6:00 PM: Q&A with the filmmaker (TBC)6:00 - 7:30 PM: Yurlu | Country (Yaara Bou Melhem / Australia / 1 hr 19 mins / English / 2025)7:30 - 8:30 PM: Youth ki Awaz Performance (TBC) / Shilpa Mudbi performance (TBC)8:30 - 10:00 PM: Derek vs Derek (James Dawson / United Kingdom / 1 hr 28 mins / English / 2026)\"",
+    "description": "There are times in history that ask something different of us.This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.Expect award winning films from around the world, filmmaker Q&As, immersive art, workshops, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is a Flagship ALT EFF experiences, curated end to end by the ALT EFF team. This is art as witness, joy as resistance, and cinema as a way home -- to each other.Programme12th December 2026, SaturdaySloped Roof Block11:00 - 11:20 AM: Surara - Spirit of Resistance (Lea Hejn / Brazil, UK, The Netherlands / 17 mins / Brazilian Portuguese / 2026)11:20 - 11:35 AM: Your City (Ting Su / USA, China, France / 14 mins / Chinese Mandarin / 2026)11:35 - 11:55 AM: How I Fell (Julien Boisvert / Canada / 19 mins / French / 2024)11:55 - 12:15 PM: The Granny & Fishes (Maria Mavat, Ehsan Farrokhi Fard / Iran / 27 mins / Persian / 2025)12:15 - 1:45 PM: Land of Canaan (Maggie Lemere / Palestine / 1 hr 24 mins / English / 2025)1:45 - 2:05 PM: Last Night I Dreamed It Was Raining Fish (Shraddha Khanna / India / 16 mins / Marathi / 2025)2:05 - 2:25 PM: The Last Climber (Thida Swe / Myanmar / 16 mins / Burmese / 2025)2:25 - 2:45 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)2:45 - 3:15 PM: Q&A with the filmmaker of Choora, moderated by Climate Action Live 3:15 - 4:30 PM: Overburden (Sarita West / Liberia, Guinea / 1 hr 16 mins / English (Liberian) / 2026)4:30 - 4:35 PM: The Balcony's View (Stella Hood / Germany / 3 mins / German / 2025)4:35 - 5:00 PM: Path of Return (Maraluva Daari) (Jayasri Sridhar / India / 23 mins / Kannada / 2024)5:00 - 5:30 PM: Amma, Do Giraffes Cry? (Kartikeya Saxena / India, Czech Republic / 27 mins / English, Hindi, Czech / 2026)5:30 - 5:45 PM: Break5:45 - 7:30 PM: Derek vs Derek (James Dawson / United Kingdom / 1 hr 28 mins / English / 2026)Flat Roof Block11:00 - 2:00 PM: Immersive Storytelling for Climate Realities Workshop: Listen - The Sonic Life of Nature | An Immersive Biosonification Workshop3:00 - 4:30 PM: Workshop by Dakshin FoundationOuter CourtyardAll Day: Live Street Art Project by Father Marker 13th December 2026, SundaySloped Roof Block11:00 - 11:20 AM: Wild Hope: Way of the Elephants (Bethany Jones / India / 15 mins / English / 2024)11:20 - 11:40 AM: This Tree Won't Fall (Deepak Ramola / India / 20 mins / English, Hindi, Garhwali / 2026)11:40 - 12:05 PM: A Clawsome Tale (Lucie Machin / United Kingdom / 22 mins / English / 2025)12:05 - 12:30 PM: Namsing | Preserving A Tradition (Ruella Rahman Khound / India / 21 mins / Assamese, Mising / 2025)12:30 - 1:00 PM: Q&A with Nevin (Good Food Movement) from the team of Namsing 1:00 - 1:15 PM: The Farmer's Daughter (Melissa Bloom / USA / 13 mins / English / 2025)1:15 - 1:45 PM: Plant Life (Josh Izenberg, Brett Marty / USA / 24 mins / English /2026)1:45 - 2:00 PM: Payuun: Thailand's Last Dugongs (Mailee Osten-Tan / Thailand / 15 mins / English, Thai / 2026)2:00 - 2:15 PM: Jwala (Amoghavarsha JS / India / 15 mins / English, Hindi / 2026)2:15 - 2:45 PM: Q&A with Anish Andheria (Wildlife Conservation Trust) from the team of Jwala 2:45 - 3:00 PM: Break3:00 - 4:30 PM: The Lake (Abby Ellis / USA / 1 hr 33 mins / English / 2025)4:30 - 4:45 PM: Break4:45 - 4:55 PM: Before the Fire (Swara Garge, Prakhar Dobhal / India / 11 mins / English, Hindi / 2026)4:55 - 5:10 PM: Benin: Vodun to the rescue of mangroves (Juliette Chapalain / Benin / 13 mins / English, French / 2026)5:10 - 5:30 PM: The Prediction (Kanippu) (Rishi Chandna / India / 24 mins / English, Tamil / 2025)5:30 - 6:00 PM: Vana Bhashi | India’s Living Ecosystem (Sneha Mitra, Vikram Vyawahare / India / 16 mins / English, Hindi, Marathi / 2025)6:00 - 6:30 PM: Q&A with Sneha from Vana Bhashi 6:30 - 8:00 PM: Yurlu | Country (Yaara Bou Melhem / Australia / 1 hr 19 mins / English / 2025)Flat Roof Block12:00 - 1:30 PM: Zine Lab: Fungal Folklore and Kinship with the Living World by Fungi Foundation3:00 - 4:30 PM: Workshop by Climate Action Live5:00 - 6:00 PM: ALT EFF VoicesOuter CourtyardAll Day - Live Street Art Project by Father Marker ",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/5D23A68776BF42FD85E4218C7B62C382_converted_webp.webp"
     ],
@@ -1477,7 +1522,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "ALT EFF 2026 <> Bangalore",
-    "description": "There are times in history that ask something different of us.This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.Expect award winning films from around the world, filmmaker Q&As, immersive art, workshops, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is a Flagship ALT EFF experiences, curated end to end by the ALT EFF team. This is art as witness, joy as resistance, and cinema as a way home -- to each other.Program12th December 2026, SaturdaySloped Roof Block11:00 - 11:20 AM: Surara - Spirit of Resistance (Lea Hejn / Brazil, UK, The Netherlands / 17 mins / Brazilian Portuguese / 2026)11:20 - 11:35 AM: Your City (Ting Su / USA, China, France / 14 mins / Chinese Mandarin / 2026)11:35 - 11:55 AM: How I Fell (Julien Boisvert / Canada / 19 mins / French / 2024)11:55 - 12:15 PM: The Granny & Fishes (Maria Mavat, Ehsan Farrokhi Fard / Iran / 27 mins / Persian / 2025)12:15 - 1:45 PM: Land of Canaan (Maggie Lemere / Palestine / 1 hr 24 mins / English / 2025)1:45 - 2:00 PM: Last Night I Dreamed It Was Raining Fish (Shraddha Khanna / India / 16 mins / Marathi / 2025)2:00 - 2:15 PM: The Last Climber (Thida Swe /  Myanmar / 16 mins / Burmese / 2025)2:15 - 2:35 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)2:35 - 3:00 PM: Q&A with filmmaker (TBC)3:00 - 4:30 PM: Dear Ancestor (Nantenaina Lova / Madagascar, Réunion island / 1 h 11 mins / Malagasy, French / 2026)4:30 - 4:35 PM: The Balcony's View (Stella Hood / Germany / 3 mins / German / 2025)4:35 - 5:00 PM: Path of Return (Maraluva Daari) (Jayasri Sridhar / India / 23 mins / Kannada / 2024)5:00 - 5:30 PM: Amma, Do Giraffes Cry? (Kartikeya Saxena / India, Czech Republic / 27 mins / English, Hindi, Czech / 2026)13th December 2026, SundaySloped Roof Block11:00 - 11:15 AM: Wild Hope: Way of the Elephants (Bethany Jones / India / 15 mins / English / 2024)11:15 - 11:35 AM: This Tree Won't Fall (Deepak Ramola / India / 20 mins / English, Hindi, Garhwali / 2026)11:35 - 12:00 PM: A Clawsome Tale (Lucie Machin / United Kingdom / 22 mins / English / 2025)12:00 - 12:20 PM: Namsing | Preserving A Tradition (Ruella Rahman Khound / India / 21 mins / Assamese, Mising / 2025)12:20 - 1:00 PM: Q&A with the filmmaker (TBC)1:00 - 1:15 PM: The Farmer's Daughter (Melissa Bloom / USA / 13 mins / English / 2025)1:15 - 1:45 PM: Plant Life (Josh Izenberg, Brett Marty / USA / 24 mins / English /2026) 1:45 - 2:00 PM: Payuun: Thailand's Last Dugongs (Mailee Osten-Tan / Thailand / 15 mins / English, Thai / 2026)2:00 - 2:15 PM: Jwala (Amoghavarsha JS / India / 15 mins / English, Hindi / 2026)2:15 - 3:00 PM: Q&A with CAL (TBC)3:00 - 4:30 PM: The Lake (Abby Ellis / USA / 1 hr 33 mins / English / 2025)4:30 - 4:40 PM: Before the Fire (Swara Garge, Prakhar Dobhal / India / 11 mins / English, Hindi / 2026)4:40 - 4:55 PM: Benin: Vodun to the rescue of mangroves (Juliette Chapalain / Benin / 13 mins / English, French / 2026)4:55 - 5:20 PM: The Prediction (Kanippu) (Rishi Chandna / India / 24 mins / English, Tamil / 2025)5:20 - 5:40 PM: Vana Bhashi | India’s Living Ecosystem (Sneha Mitra, Vikram Vyawahare / India / 16 mins / English, Hindi, Marathi / 2025)5:40 - 6:00 PM: Q&A with the filmmaker (TBC)6:00 - 7:30 PM: Yurlu | Country (Yaara Bou Melhem / Australia / 1 hr 19 mins / English / 2025)7:30 - 8:30 PM: Youth ki Awaz Performance (TBC) / Shilpa Mudbi performance (TBC)8:30 - 10:00 PM: Derek vs Derek (James Dawson / United Kingdom / 1 hr 28 mins / English / 2026)\"",
+    "description": "There are times in history that ask something different of us.This is one of them.The 7th edition of the All Living Things Environmental Film Festival returns with stories that don't look away. Films that find beauty in unlikely places, humour in dark times, and communities imagining futures worth fighting for.Expect award winning films from around the world, filmmaker Q&As, immersive art, workshops, unforgettable conversations, great food, drinks, and a room full of people who aren't afraid to ask difficult questions.Pull up a chair.Let's meet the times together.This event is a Flagship ALT EFF experiences, curated end to end by the ALT EFF team. This is art as witness, joy as resistance, and cinema as a way home -- to each other.Programme12th December 2026, SaturdaySloped Roof Block11:00 - 11:20 AM: Surara - Spirit of Resistance (Lea Hejn / Brazil, UK, The Netherlands / 17 mins / Brazilian Portuguese / 2026)11:20 - 11:35 AM: Your City (Ting Su / USA, China, France / 14 mins / Chinese Mandarin / 2026)11:35 - 11:55 AM: How I Fell (Julien Boisvert / Canada / 19 mins / French / 2024)11:55 - 12:15 PM: The Granny & Fishes (Maria Mavat, Ehsan Farrokhi Fard / Iran / 27 mins / Persian / 2025)12:15 - 1:45 PM: Land of Canaan (Maggie Lemere / Palestine / 1 hr 24 mins / English / 2025)1:45 - 2:05 PM: Last Night I Dreamed It Was Raining Fish (Shraddha Khanna / India / 16 mins / Marathi / 2025)2:05 - 2:25 PM: The Last Climber (Thida Swe / Myanmar / 16 mins / Burmese / 2025)2:25 - 2:45 PM: Choora (Anand Rama Krishnan / India / 17 mins / Malayalam / 2024)2:45 - 3:15 PM: Q&A with the filmmaker of Choora, moderated by Climate Action Live 3:15 - 4:30 PM: Overburden (Sarita West / Liberia, Guinea / 1 hr 16 mins / English (Liberian) / 2026)4:30 - 4:35 PM: The Balcony's View (Stella Hood / Germany / 3 mins / German / 2025)4:35 - 5:00 PM: Path of Return (Maraluva Daari) (Jayasri Sridhar / India / 23 mins / Kannada / 2024)5:00 - 5:30 PM: Amma, Do Giraffes Cry? (Kartikeya Saxena / India, Czech Republic / 27 mins / English, Hindi, Czech / 2026)5:30 - 5:45 PM: Break5:45 - 7:30 PM: Derek vs Derek (James Dawson / United Kingdom / 1 hr 28 mins / English / 2026)Flat Roof Block11:00 - 2:00 PM: Immersive Storytelling for Climate Realities Workshop: Listen - The Sonic Life of Nature | An Immersive Biosonification Workshop3:00 - 4:30 PM: Workshop by Dakshin FoundationOuter CourtyardAll Day: Live Street Art Project by Father Marker 13th December 2026, SundaySloped Roof Block11:00 - 11:20 AM: Wild Hope: Way of the Elephants (Bethany Jones / India / 15 mins / English / 2024)11:20 - 11:40 AM: This Tree Won't Fall (Deepak Ramola / India / 20 mins / English, Hindi, Garhwali / 2026)11:40 - 12:05 PM: A Clawsome Tale (Lucie Machin / United Kingdom / 22 mins / English / 2025)12:05 - 12:30 PM: Namsing | Preserving A Tradition (Ruella Rahman Khound / India / 21 mins / Assamese, Mising / 2025)12:30 - 1:00 PM: Q&A with Nevin (Good Food Movement) from the team of Namsing 1:00 - 1:15 PM: The Farmer's Daughter (Melissa Bloom / USA / 13 mins / English / 2025)1:15 - 1:45 PM: Plant Life (Josh Izenberg, Brett Marty / USA / 24 mins / English /2026)1:45 - 2:00 PM: Payuun: Thailand's Last Dugongs (Mailee Osten-Tan / Thailand / 15 mins / English, Thai / 2026)2:00 - 2:15 PM: Jwala (Amoghavarsha JS / India / 15 mins / English, Hindi / 2026)2:15 - 2:45 PM: Q&A with Anish Andheria (Wildlife Conservation Trust) from the team of Jwala 2:45 - 3:00 PM: Break3:00 - 4:30 PM: The Lake (Abby Ellis / USA / 1 hr 33 mins / English / 2025)4:30 - 4:45 PM: Break4:45 - 4:55 PM: Before the Fire (Swara Garge, Prakhar Dobhal / India / 11 mins / English, Hindi / 2026)4:55 - 5:10 PM: Benin: Vodun to the rescue of mangroves (Juliette Chapalain / Benin / 13 mins / English, French / 2026)5:10 - 5:30 PM: The Prediction (Kanippu) (Rishi Chandna / India / 24 mins / English, Tamil / 2025)5:30 - 6:00 PM: Vana Bhashi | India’s Living Ecosystem (Sneha Mitra, Vikram Vyawahare / India / 16 mins / English, Hindi, Marathi / 2025)6:00 - 6:30 PM: Q&A with Sneha from Vana Bhashi 6:30 - 8:00 PM: Yurlu | Country (Yaara Bou Melhem / Australia / 1 hr 19 mins / English / 2025)Flat Roof Block12:00 - 1:30 PM: Zine Lab: Fungal Folklore and Kinship with the Living World by Fungi Foundation3:00 - 4:30 PM: Workshop by Climate Action Live5:00 - 6:00 PM: ALT EFF VoicesOuter CourtyardAll Day - Live Street Art Project by Father Marker ",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/5D23A68776BF42FD85E4218C7B62C382_converted_webp.webp"
     ],
@@ -1578,7 +1623,7 @@
     "endDate": "2026-11-18T18:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Coro",
       "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -1614,7 +1659,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Bangalore Documentary Film Festival",
-    "description": "Full Programme Here -- https://bangalorefilmforum.com/bdff-programmeSchedule to be announced soon.The documentary tradition in India is as vibrant as it is groundbreaking. Join BDFF in keeping the documentary tradition going. Our film festival brings together contemporary filmmakers whose films offer a multi-faceted portrayal of India. Taking place between November 5th to November 8th, we invite everyone to come along and enjoy the cinematic achievements of various artists from around the country.This pass gives you access to all the films and conversation. The seats are on a first come first serve basis.",
+    "description": "Full Programme Here -- https://bangalorefilmforum.com/bdff-programmeSchedule -- https://bangalorefilmforum.com/bdff-scheduleThe documentary tradition in India is as vibrant as it is groundbreaking. Join BDFF in keeping the documentary tradition going. Our film festival brings together contemporary filmmakers whose films offer a multi-faceted portrayal of India. Taking place between November 5th to November 8th, we invite everyone to come along and enjoy the cinematic achievements of various artists from around the country.This pass gives you access to all the films and conversation. The seats are on a first come first serve basis.",
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/FCD2A09DE8C74F2395B9A6DF3FDAE52F_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/3649D96AA29A4F0CBA366FCAEBE46909_converted_webp.webp",
@@ -1637,8 +1682,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 83,
+    "maximumAttendeeCapacity": 140,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2239,7 +2284,7 @@
     "endDate": "2026-11-21T17:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Dialogues Cafe",
       "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -2296,7 +2341,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 141,
+    "remainingAttendeeCapacity": 137,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2343,7 +2388,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 143,
+    "remainingAttendeeCapacity": 142,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2533,7 +2578,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 147,
+    "remainingAttendeeCapacity": 146,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3171,7 +3216,7 @@
     "endDate": "2026-11-27T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Windmills Craftworks",
       "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -3216,7 +3261,7 @@
     "endDate": "2026-11-28T23:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Windmills Craftworks",
       "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -3272,7 +3317,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 300,
-    "remainingAttendeeCapacity": 294,
+    "remainingAttendeeCapacity": 291,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3370,7 +3415,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 462,
+    "remainingAttendeeCapacity": 453,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3420,7 +3465,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 390,
+    "remainingAttendeeCapacity": 346,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3821,7 +3866,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 275,
-    "remainingAttendeeCapacity": 174,
+    "remainingAttendeeCapacity": 172,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3856,7 +3901,7 @@
     "endDate": "2026-11-07T13:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Beku",
       "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -3901,7 +3946,7 @@
     "endDate": "2026-11-20T21:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Beku",
       "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -3999,7 +4044,7 @@
     "endDate": "2026-11-14T17:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Beku",
       "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -4399,7 +4444,7 @@
     "endDate": "2026-11-14T20:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Atta Galatta",
       "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -4410,7 +4455,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 861,
+    "remainingAttendeeCapacity": 855,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4447,7 +4492,7 @@
     "endDate": "2026-11-15T20:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Atta Galatta",
       "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -4458,7 +4503,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 941,
+    "remainingAttendeeCapacity": 939,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4683,8 +4728,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4729,8 +4774,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4765,7 +4810,7 @@
     "endDate": "2026-11-22T18:45:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Atta Galatta",
       "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -4810,7 +4855,7 @@
     "endDate": "2026-11-06T23:59:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "The Humming Tree",
       "address": "763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -4897,8 +4942,8 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/999D5D889D674EEB87C50AB87F219CD5_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/47B434AB3BC7479399599832E9F2619C_converted_webp.webp"
     ],
-    "startDate": "2026-11-07T12:30:00+05:30",
-    "endDate": "2026-11-07T14:30:00+05:30",
+    "startDate": "2026-11-07T11:00:00+05:30",
+    "endDate": "2026-11-07T12:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -4947,7 +4992,7 @@
     "endDate": "2026-11-15T12:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Studio Common Roof",
       "address": "267, 1st Main Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -4976,52 +5021,6 @@
     "url": "https://urbanaut.app/spot/still-life-beginner-series",
     "keywords": [
       "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Open Studio - The Common Roof",
-    "description": "🌿 **Welcome to Open Studio at The Common Roof!**Your creative time awaits.Join us for a relaxed, self-guided art session where you can explore your ideas, experiment with materials, and create at your own pace in a warm, welcoming studio.📍 The Common Roof, Indiranagar, Bengaluru  🎨 Bring your ideas and enjoy the process.We look forward to creating with you!**The Common Roof***Art · Print · Community*",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/181CEAB5DA4148AAB83A1F1C9A7A8785_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C7063ED782444857A3535DC35E487C81_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7253228D18A14F658BA99058A0AD3BC7_converted_webp.webp"
-    ],
-    "startDate": "2026-11-03T11:00:00+05:30",
-    "endDate": "2026-11-03T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "267, 1st Main Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9773551,
-        "longitude": 77.6455865
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 590.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Studio Common Roof",
-      "description": "A shared roof for creativity and community.",
-      "url": "https://urbanaut.app/partner/studio-common-roof",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/8C72A1A505374EE6A9F17EA052499514_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-studio-the-common-roof",
-    "keywords": [
       "Art & culture",
       "URBANAUT"
     ]
@@ -5272,7 +5271,7 @@
     "endDate": "2026-11-29T21:30:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Beku",
       "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -5508,7 +5507,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 56,
+    "remainingAttendeeCapacity": 52,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5542,7 +5541,7 @@
     "endDate": "2026-11-14T20:15:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "away center",
       "address": "3rd Floor, Eterna, 80 Feet Rd, KHB Colony, Industrial Area, Properties,#9, Koramangala, Bengaluru, Karnataka 560095, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -5592,7 +5591,7 @@
     "endDate": "2026-11-15T19:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Bangalore Tango Academy",
       "address": "11, 16th Main road, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -5642,7 +5641,7 @@
     "endDate": "2026-11-22T19:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Bangalore Tango Academy",
       "address": "11, 16th Main road, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -5692,7 +5691,7 @@
     "endDate": "2026-11-29T19:00:00+05:30",
     "location": {
       "@type": "Place",
-      "name": null,
+      "name": "Bangalore Tango Academy",
       "address": "11, 16th Main road, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
       "geo": {
         "@type": "GeoCoordinates",
@@ -5792,7 +5791,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 179,
+    "remainingAttendeeCapacity": 168,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5933,7 +5932,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 178,
+    "remainingAttendeeCapacity": 176,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5979,8 +5978,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -6053,52 +6052,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Monochrome to Modernity: Day 1 - The Golden Age",
-    "description": "Welcome to the first set of screenings of 'From Monochrome to Modernity'!This is a collaboration of The Parallel Cinema Club, Daijoubu eSports and Japan Habba to bring to everyone the rich cinematic culture of Japan. Through curated films from the likes of Kurosawa and Teshigahara, we span through 120 years of Japanese cinema's vibrant richness.The first set of films will look at the Golden Age of Japanese Cinema.About the period: The Golden Age of Japanese cinema, usually dated to the 1950s, early 1960s, grew from a prewar studio system reshaped by postwar Occupation reforms. Rashomon’s 1951 Venice win opened Western markets and brought Kurosawa, Ozu, Mizoguchi, and Naruse global acclaim, while the late-1950s peak of major studios, huge attendance, and widescreen/color gave way in the 1960s to television, studio crises, and changing audiences. Formally, it was a studio-genre synthesis, jidaigeki, gendai-geki, shomingeki, and melodrama using classical continuity with strong mise-en-scène, long takes, and expressive sound, with key styles including Ozu’s low static “tatami” camera and pillow shots, Mizoguchi’s long moving takes, Kurosawa’s dynamic montage and telephoto action, and Naruse’s restrained, elliptical melodrama.Films to be screened:Floating Weeds by Yasujirō Ozu Ikiru by Akira KurosawaWife! Be Like a Rose! by Mikio NaruseThis is a free screening, with breaks after each film. For more details about the curation itself, you can go here: Curation for Japan HabbaPlease note that there are a total of 4 entry passes to this event, and you can either RSVP for select films or all the films. Please be sure to show up early because the seats are not going to be reserved for anyone. The RSVP form is just for our headcount reference. ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4095584C43BB4D3ABBC5BC94F245B91D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2B2D338E56DE4B57A966393614A95E83_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1D008FF251A743DDAB7D0F136EFF48B4_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T14:30:00+05:30",
-    "endDate": "2026-11-07T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.983484,
-        "longitude": 77.61101699999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 139,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film—come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/monochrome-to-modernity-day-1-the-golden-age",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Monochrome to Modernity: Day 2 - Japanese New Wave",
     "description": "Welcome to the second set of screenings of 'From Monochrome to Modernity'!This is a collaboration of The Parallel Cinema Club, Daijoubu eSports and Japan Habba to bring to everyone the rich cinematic culture of Japan. Through curated films from the likes of Kurosawa and Teshigahara, we span through 120 years of Japanese cinema's vibrant richness.The second set of films will look at the The Japanese New Wave.About the period: The Japanese New Wave (Nuberu Bagu) emerged in the late 1950s–1960s as younger directors reacted against the studio system’s commercial formulas and the older Golden Age masters. Led by figures such as Nagisa Oshima, Shohei Imamura, Yoshishige Yoshida, Masahiro Shinoda, and Hiroshi Teshigahara, it engaged with politics, youth alienation, sexuality, and social taboos. Formally it broke with classical continuity, favoring handheld cameras, jump cuts, improvisation, documentary-like textures, and self-reflexive experimentation. Its energy was tied to postwar protest culture and independent production, often challenging both Japanese society and cinematic convention.Films to be screened:Face of Another by Hiroshi Teshigahara Death by Hanging by Nagisa ŌshimaDemons by Toshio MatsumotoThis is a free screening, with breaks after each film. For more details about the curation itself, you can go here: Curation for Japan HabbaPlease note that there are a total of 4 entry passes to this event, and you can either RSVP for select films or all the films. Please be sure to show up early because the seats are not going to be reserved for anyone. The RSVP form is just for our headcount reference. ",
     "image": [
@@ -6122,7 +6075,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 143,
+    "remainingAttendeeCapacity": 109,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6246,6 +6199,101 @@
       "Leisure",
       "Live GIG",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Word of Mouth: A Food Walk with Berty Ashley",
+    "description": "Have you ever stopped mid-bite and wondered why the thing you’re eating is called what it’s called? Why a galouti kebab is a galouti kebab, or which beloved drink took its name from a famously busty actress?Join quiz master Berty Ashley for an afternoon of eating through the city with a historian’s curiosity and a trivia-lover’s glee. As you wander, Berty unpacks the etymology and backstory behind iconic dishes: the accidents, empires, puns and personalities buried in names we say without thinking.The walk pans out on Church Street, hopping through some yummy spots including Indian Coffee House, Empire & Big Fat Roll.Berty AshleyBerty Ashley is a molecular biologist by day and one of Bengaluru’s best-loved quiz masters. He sets The Hindu’s weekly “Easy Like Sunday Morning” quiz, has co-authored a science quiz book, and is a serial collector of music, trivia and clearly food facts. Few people can make you this hungry and this much smarter in a single afternoon.Urbanaut ProductionsWe find the best a city has to offer and then we build a way in. Urbanaut Productions curates urban experiences at the intersection of food, art, music, and culture. For the curious, the restless, and anyone who suspects their city still has a few secrets left.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4EAFB1D382054308ADFA2480330BEAC0_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974422,
+        "longitude": 77.60733970000001
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1785.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urbanaut Productions",
+      "description": "At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one - or three - or hit us up with ideas and collaborations!",
+      "url": "https://urbanaut.app/partner/urbanaut-productions",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/B355D735DB6A4CEBAFB98E811AA4D5B6_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/word-of-mouth-a-food-walk-with-berty-ashley",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Copy of BREATHE, FEEL, HEAL",
+    "description": "Imagine, if you could free yourself of troubling thoughts or feelings which keep you in a loop?If you could be free of all old and stuck emotions?How would you live then? What different choices would you make?What if your breath can set you free from these old emotions and stuck thoughts?Come and experience what your breath can do to set you free, without having to speak a single word.Reset your nervous system at Utsmaya on:November 21st, 10am–3:30pmFacilitated by Mamtha Rajesh, Psychotherapist and Breathwork therapist with 26 years of experience.Limited spots and small group size.📅: 21/11/26⏰: 10.00 am - 3.30 pm📍Utsmaya, Basavanagudi",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/035D15FD3F814DD7A34048EE05349070_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9589F09DE56A4B5C95BC2AB5D83F6C62_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9ED7948CFA80400E8F8F6CD7044B365E_converted_webp.webp"
+    ],
+    "startDate": "2026-11-21T10:00:00+05:30",
+    "endDate": "2026-11-21T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, Krishna Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9454139,
+        "longitude": 77.5754166
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2999.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Utsmaya LLP",
+      "description": "Mental and emotional wellness and healing",
+      "url": "https://urbanaut.app/partner/Utsmaya",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/4FC471E19AA84527AD981AC4EEE07B9C_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/breathefeelheal",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   }
