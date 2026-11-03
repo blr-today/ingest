@@ -1195,6 +1195,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Fast-Cure UV Resin Jewellery Workshop",
+    "image": "https://cdn-az.allevents.in/events8/banners/e1871a70-d796-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1793717845",
+    "startDate": "2026-11-07T16:00:00+05:30",
+    "endDate": "2026-11-07T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/fast-cure-uv-resin-jewellery-workshop/3900030830587354",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Gupchi - DIY Art Studio: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Site No. 1220, 6th Floor, Mookambika Complex, 9th Cross Road, Ananth Nagar, Phase 1, Kammasandra, Electronic City, Bengaluru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8342",
+        "longitude": "77.6935"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Design and create your own line of custom resin jewelry - without the 24 hour wait! Join our hands on Fast-Cure UV Resin Jewellery Workshop and discover the instant gratification of working with UV resin. Guided step by step, you will learn how to embed real dried petals, charms, glitter, and color",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-13",
+        "availabilityEnds": "2026-11-07T18:00:00+05:30",
+        "validFrom": "2026-10-13",
+        "url": "https://allevents.in/bangalore/fast-cure-uv-resin-jewellery-workshop/3900030830587354"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Clay Candle Holder Making Workshop",
     "image": "https://cdn-az.allevents.in/events3/banners/17dab050-cf4f-11f1-958f-31ad8555babb-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1792807403",
     "startDate": "2026-11-07T15:00:00+05:30",
@@ -1579,6 +1618,45 @@
         "availabilityEnds": "2026-11-07T16:20:00+05:30",
         "validFrom": "2026-10-20",
         "url": "https://allevents.in/bangalore/finger-fun-factory/3900030859422512"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CAD &amp; 3D Printing Classes for Kids",
+    "image": "https://cdn-az.allevents.in/events2/banners/0ac4d410-d790-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dc480888-gmir.jpg?v=1793714908",
+    "startDate": "2026-11-08T12:00:00+05:30",
+    "endDate": "2026-11-08T15:00:00+05:30",
+    "url": "https://allevents.in/bangalore/cad-and-3d-printing-classes-for-kids/3900030884519423",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "STEAM Varsity Makerspace: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1st Floor, 778, N Damodaran Road, A Block, Sahakar Nagar, Bengaluru, Karnataka 560092, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0639",
+        "longitude": "77.5852"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Dive into the world of 3D creation with our interactive workshop designed for young makers and tech enthusiasts. Suitable for all experience levels, this session emphasizes project-based learning and real-world applications of Computer-Aided Design (CAD) and the revolutionary world of 3D printing.Jo",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-23",
+        "availabilityEnds": "2026-11-08T15:00:00+05:30",
+        "validFrom": "2026-10-23",
+        "url": "https://allevents.in/bangalore/cad-and-3d-printing-classes-for-kids/3900030884519423"
       }
     ]
   },
@@ -2209,34 +2287,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Chenille Art Workshop",
-    "image": "https://cdn-az.allevents.in/events2/banners/ad3538b0-c229-11f1-848b-1578c9159971-rimg-w900-h1200-dce8a878-gmir.jpg?v=1791361968",
-    "startDate": "2026-10-07T08:45:00+00:00",
-    "endDate": "2026-11-06T18:29:05+00:00",
-    "url": "https://allevents.in/bangalore/chenille-art-workshop/4100030797401348",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven - Neapolitan Style Pizzas (Koramangala)",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Brik Oven - Neapolitan Style Pizzas (Koramangala), Bengaluru",
-        "addressLocality": "Bangalore",
-        "addressRegion": "",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9340983",
-        "longitude": "77.6302769"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Pipe Cleaner Flowers Workshop — Bloom with Every TwistGet ready to bend, twist, and bloom your creativity. In this cheerful and beginner-friendly workshop, participants will learn how to create colourful flowers using soft and flexible pipe cleaners. No glue, no mess, just hands-on fun and imaginati"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Lucha Libre Clay Miniatures -Bangalore",
     "image": "https://cdn-az.allevents.in/events2/banners/d72063b0-d747-11f1-9f1b-13af6280af23-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793683897",
     "startDate": "2026-11-08T14:00:00+05:30",
@@ -2309,6 +2359,123 @@
         "availabilityEnds": "2026-11-07T18:30:00+05:30",
         "validFrom": "2026-11-03",
         "url": "https://allevents.in/bangalore/resin-geode-art-date-bangalore/3900030961170543"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE FLORAL CANVAS by Cosisters &amp; Co.",
+    "image": "https://cdn-az.allevents.in/events8/banners/33de9120-d76c-11f1-9f1b-13af6280af23-rimg-w1200-h600-dce8e8d8-gmir.jpg?v=1793699515",
+    "startDate": "2026-11-07T16:00:00+05:30",
+    "endDate": "2026-11-07T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-floral-canvas-by-cosisters-and-co/3900030962307555",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Beyond The Bean: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gate of, Resort, Ramanashree california resorts, Located Main, Yelahanka, Bengaluru, Karnataka 560064, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.1146",
+        "longitude": "77.5789"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "THE FLORAL CANVASA 3D Flower Art ExperienceCreate your own dimensional floral artwork on canvas at The Floral Canvas, a hands-on creative experience by Cosisters & Co.Bring art and nature together as you paint your canvas, customise a miniature vase, and arrange beautiful blooms to create a unique t",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-07T18:00:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/the-floral-canvas-by-cosisters-and-co/3900030962307555"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Diwali Edit: Paint, Bedazzle &amp; Celebrate",
+    "image": "https://cdn-az.allevents.in/events9/banners/203dd1a0-d76f-11f1-9f1b-13af6280af23-rimg-w1200-h600-dc082848-gmir.jpg?v=1793700770",
+    "startDate": "2026-11-07T14:00:00+05:30",
+    "endDate": "2026-11-07T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-diwali-edit-paint-bedazzle-and-celebrate/3900030962368451",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Dialogues Cafe, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Floor, 21, 80 Feet Road, 4th Block, S.T. Bed, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9324",
+        "longitude": "77.6319"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "THE DIWALI EDIT: PAINT, BEDAZZLE & CELEBRATE This Diwali, dress up in your favourite ethnic wear and join us for an afternoon of creativity, sparkle, music and festive vibes!Dabble Studio & Art Nook brings you a special Diwali collaboration at Dialogues Cafe, Koramangala. Whether you love painting o",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-07T17:00:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/the-diwali-edit-paint-bedazzle-and-celebrate/3900030962368451"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Live Music with Jeevan",
+    "image": "https://cdn-az.allevents.in/events8/banners/df47f220-d791-11f1-ac5a-0d5ecfdccfa9-rimg-w1200-h600-dc080808-gmir.jpg?v=1793715694",
+    "startDate": "2026-11-15T19:30:00+05:30",
+    "endDate": "2026-11-15T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/live-music-with-jeevan/3900030963145834",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Native Bar And Indian Kitchen: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "421Q, Shri Krishna Temple Road, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9792",
+        "longitude": "77.6424"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Title: Live Music with Jeevan - Sunday MadnessTagline: Multilingual covers, massive crowd interaction, and craft beer - your perfect Sunday night plan.Get ready for Sunday madness at Native Bar and Coastal Kitchen, Indiranagar as Jeevan takes over the stage with a powerful multilingual cover set. Ac",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-03",
+        "availabilityEnds": "2026-11-15T21:30:00+05:30",
+        "validFrom": "2026-11-03",
+        "url": "https://allevents.in/bangalore/live-music-with-jeevan/3900030963145834"
       }
     ]
   },
