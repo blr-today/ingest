@@ -132,41 +132,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Deepavali",
-    "image": "https://cdn-az.allevents.in/events4/banners/f4d2178c04bd14f9facb825279d889a1a6258bfad8dfc5687bf11d81fa4ebdf2-rimg-w768-h1024-dc582808-gmir?v=1788183090",
-    "startDate": "2026-11-08T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/deepavali/200030541268712",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "37, ground floor, karthik mansion, nagarathpet main road, Bangalore, Karnataka, India",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Yelemanni Prem Plaza, 1007/2 Nagarathpet Main Road, Nagarathpete, Bengaluru 560002, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9659",
-        "longitude": "77.58265"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Shubh Deepavali !! We pray to the God Laxmi that this  festival of lights bring knowledge and prosperity to all.\n#deepavali #happiness #familytime� #blessings",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "BlueChip Corporation",
-        "url": "https://allevents.in/org/bluechip-corporation/28087786",
-        "description": "BlueChip Corporation, Bangalore. 263 likes · 11 were here. BlueChip Corporation is a leading emerging IT hardware and software technology solution provider"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "1234556789",
     "image": "https://dyn-image.allevents.in/generate-image?v=4&title=1234556789&date=Sun%2C+08+Nov%2C+2026+at+01%3A30+pm&bg=3",
     "startDate": "2026-11-08T13:30:00+05:30",
@@ -1128,6 +1093,45 @@
         "availabilityEnds": "2026-11-22T22:35:00+05:30",
         "validFrom": "2026-10-15",
         "url": "https://allevents.in/bangalore/bengali-jamming-kolkata-vibe/3900030838003814"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mini Canvas Painting",
+    "image": "https://cdn-az.allevents.in/events2/banners/ae1e5670-d09e-11f1-958f-31ad8555babb-rimg-w1200-h600-dcc8b8a8-gmir.jpg?v=1792951537",
+    "startDate": "2026-11-07T15:00:00+05:30",
+    "endDate": "2026-11-07T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/mini-canvas-painting/3900030844472447",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Dialogues Cafe, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Floor, 21, 80 Feet Road, 4th Block, S.T. Bed, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9324",
+        "longitude": "77.6319"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "This pass Includes food /beverage voucher which you can redeem at venue.What to Expect Dive into a playful, hands-on session where creativity flows freely. It is an easygoing space to explore, experiment, and enjoy the process - no experience needed.It is a beginner friendly workshop, no experience",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-16",
+        "availabilityEnds": "2026-11-07T17:00:00+05:30",
+        "validFrom": "2026-10-16",
+        "url": "https://allevents.in/bangalore/mini-canvas-painting/3900030844472447"
       }
     ]
   },
@@ -2538,45 +2542,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Mini Canvas Painting",
-    "image": "https://cdn-az.allevents.in/events2/banners/8db98510-d7ee-11f1-b03f-97a3091e4506-rimg-w1200-h600-dcc8b8a8-gmir.jpg?v=1793755500",
-    "startDate": "2026-11-07T11:00:00+05:30",
-    "endDate": "2026-11-07T13:00:00+05:30",
-    "url": "https://allevents.in/bangalore/mini-canvas-painting/3900030965326901",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe Coffee Day, J.P Nagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Ward No. 57, Ground Floor, PID No. 57, 27/N/1/1, 24th Main Road, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9123",
-        "longitude": "77.5855"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This pass Includes food /beverage voucher which you can redeem at venue.What to Expect Dive into a playful, hands-on session where creativity flows freely. It is an easygoing space to explore, experiment, and enjoy the process - no experience needed.It is a beginner friendly workshop, no experience",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-07T13:00:00+05:30",
-        "validFrom": "2026-11-04",
-        "url": "https://allevents.in/bangalore/mini-canvas-painting/3900030965326901"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bedazzling Everything",
     "image": "https://cdn-az.allevents.in/events9/banners/fe234a70-d7ee-11f1-b03f-97a3091e4506-rimg-w1200-h600-dc9898c8-gmir.jpg?v=1793755689",
     "startDate": "2026-11-04T15:00:00+05:30",
@@ -2688,6 +2653,84 @@
         "availabilityEnds": "2026-11-04T20:02:00+05:30",
         "validFrom": "2026-11-04",
         "url": "https://allevents.in/bangalore/epic-day-pass/3900030965827932"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Paint With Strangers",
+    "image": "https://cdn-az.allevents.in/events4/banners/aabf4af0-d807-11f1-b03f-97a3091e4506-rimg-w1200-h600-dc585838-gmir.jpg?v=1793766292",
+    "startDate": "2026-11-04T15:03:00+05:30",
+    "endDate": "2026-11-04T16:03:00+05:30",
+    "url": "https://allevents.in/bangalore/paint-with-strangers/3900030965873453",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU Whitefield: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9613",
+        "longitude": "77.7325"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Not every friendship starts with an introduction. Sometimes, all it takes is a shared table, a few colours, and the courage to show up.Paint with Strangers is a creative social experience where you get to meet new people, pick up a paintbrush, and let the conversations happen naturally. No awkward i",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "2026-11-04T16:03:00+05:30",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/paint-with-strangers/3900030965873453"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Scratch Pottery",
+    "image": "https://cdn-az.allevents.in/events5/banners/fb82d730-d808-11f1-b03f-97a3091e4506-rimg-w1200-h600-dcb8b8b8-gmir.jpg?v=1793766857",
+    "startDate": "2026-11-07T15:01:00+05:30",
+    "endDate": "2026-11-07T17:01:00+05:30",
+    "url": "https://allevents.in/bangalore/scratch-pottery/3900030965892517",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU Whitefield: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9613",
+        "longitude": "77.7325"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Ever wondered what beauty lies just beneath the surface Join us for a hands-on Sgraffito Workshop, where you  carve through layers of color to reveal stunning contrasts and patterns. This ancient art form used in pottery, murals, and designteaches us that sometimes, uncovering depth takes a little s",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "2026-11-07T17:01:00+05:30",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/scratch-pottery/3900030965892517"
       }
     ]
   },
@@ -3722,67 +3765,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "South Bengaluru Startups Meetup by CEDAT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ad9ebbd72fd8.jpg",
-    "startDate": "2026-11-20T18:00:00+05:30",
-    "endDate": "2026-11-20T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80002491238429",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kaarya Shared Workspaces",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No.788, Eterna, 15th Cross Rd, Nagarjun Enclave, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "postalCode": "560078",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9066301",
-        "longitude": "77.5766065"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Building a startup? Or already running one? Come join us at South Bengaluru Startups Meetup – a chill and meaningful gathering for Startup Founders Co-Founders Entrepreneurs Business Owners and MSMEs​This meetup is all about real talk real connections and real support. We’re bringing together a comm",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-10",
-        "availabilityEnds": "2026-11-20T19:00:00+05:30",
-        "validFrom": "2026-10-10",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80002491238429"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-10",
-        "availabilityEnds": "2026-11-20T19:00:00+05:30",
-        "validFrom": "2026-10-10",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80002491238429",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT ",
-        "url": "https://allevents.in/org/cedat/25336161"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bini DESIGNER BOUTIQUE - FREE STITCHING DEMO CLASS",
     "image": "https://cdn2.allevents.in/thumbs/thumb671d0be6330a4.jpg",
     "startDate": "2026-11-30T12:30:00+05:30",
@@ -3881,61 +3863,61 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Namma Bengaluru Startups Meetup by CEDAT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ada26db33bf5.jpg",
-    "startDate": "2026-11-13T18:00:00+05:30",
-    "endDate": "2026-11-13T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/namma-bengaluru-startups-meetup-by-cedat-tickets/80003676250283",
+    "name": "BOLLYWOOD NIGHT - Queen",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6aeabf337ed47.jpg",
+    "startDate": "2026-11-04T19:00:00+05:30",
+    "endDate": "2026-11-06T01:00:00+05:30",
+    "url": "https://allevents.in/bangalore/bollywood-night-queen-tickets/80003609239527",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Bangalore Bioinnovation Centre (BBC)",
+      "name": "Queen - The Club",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Helix Biotech Park, IBAB Campus, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100, India",
-        "postalCode": "560100",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "postalCode": "560095",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.8441223",
-        "longitude": "77.6565474"
+        "latitude": "12.9345176",
+        "longitude": "77.6162463"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Building a startup? Or already running one? Come join us at Namma Bengaluru Startups Meetup – a chill and meaningful gathering for Startup Founders Co-Founders Entrepreneurs Business Owners and MSMEs​This meetup is all about real talk real connections and real support. We’re bringing together a comm",
+    "description": "BANGALORE, GET READY FOR TWO NIGHTS OF BOLLYWOOD MADNESS! 🔥This Wednesday & Thursday, Queens Koramangala is turning up the heat with non-stop Bollywood beats, crazy vibes and unforgettable party moments!📅 Wednesday, 4th November 📅 Thursday, 5th November🥂 UNLIMITED FREE DRINKS FOR LADIES! 🎧 Non-stop",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-10",
-        "availabilityEnds": "2026-11-13T19:00:00+05:30",
-        "validFrom": "2026-10-10",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "2026-11-06T01:00:00+05:30",
+        "validFrom": "2026-11-04",
         "lowPrice": "0.00",
         "highPrice": "0.00",
         "price": "0.00",
-        "url": "https://allevents.in/bangalore/namma-bengaluru-startups-meetup-by-cedat-tickets/80003676250283"
+        "url": "https://allevents.in/bangalore/bollywood-night-queen-tickets/80003609239527"
       },
       {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-10",
-        "availabilityEnds": "2026-11-13T19:00:00+05:30",
-        "validFrom": "2026-10-10",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "2026-11-06T01:00:00+05:30",
+        "validFrom": "2026-11-04",
         "price": "0.00",
-        "url": "https://allevents.in/bangalore/namma-bengaluru-startups-meetup-by-cedat-tickets/80003676250283",
+        "url": "https://allevents.in/bangalore/bollywood-night-queen-tickets/80003609239527",
         "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
+        "name": "Bollywood Night - Queen"
       }
     ],
     "organizer": [
       {
         "@type": "Organization",
-        "name": "CEDAT ",
-        "url": "https://allevents.in/org/cedat/25336161"
+        "name": "Rahul Lamani",
+        "url": "https://allevents.in/org/rahul-lamani/28100189"
       }
     ]
   },
