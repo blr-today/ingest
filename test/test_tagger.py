@@ -85,6 +85,10 @@ def test_club_nights_are_hidden():
     party = {"@type": "MusicEvent", "name": "Finch After Dark"}
     tags = event_tags(party, {"DJ-NIGHT": 0.9, "BOLLYWOOD-NIGHT": 0.9})
     assert tags == {"DJ-NIGHT", "BOLLYWOOD-NIGHT", "LOW-QUALITY"}
+    assert event_tags({"name": "Bollywood Karaoke Night"}, {}) == {
+        "KARAOKE",
+        "LOW-QUALITY",
+    }
 
 
 def test_audience():
