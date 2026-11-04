@@ -7,12 +7,16 @@ from lxml import etree
 import urllib.parse
 from math import ceil
 from bs4 import BeautifulSoup
-from src.common.session import get_cached_session
+from src.common.fetch import Fetch
+
+# Shopify answers plain requests with 429s, but serves a browser fingerprint
+fetcher = Fetch(cache={"days": 1, "allowable_codes": (200,)}, browser="chrome")
 
 
 def make_request(url):
-    session = get_cached_session()
-    return session.get(url)
+    response = fetcher.get(url)
+    if response.status_code != 200:
+        raise RuntimeError(f"{url} returned {response.status_code}")
     return response
 
 
@@ -33,7 +37,11 @@ This makes a correct product handle using the canonical ref
 
 
 def get_product_handle(url):
-    response = make_request(url)
+    try:
+        response = make_request(url)
+    except RuntimeError as e:
+        print(f"[CHAMPACA] {e}")
+        return None
     soup = BeautifulSoup(response.text, "html.parser")
     canonical_link = soup.find("link", rel="canonical")
     if canonical_link:
