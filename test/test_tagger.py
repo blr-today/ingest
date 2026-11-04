@@ -89,6 +89,8 @@ def test_club_nights_are_hidden():
         "KARAOKE",
         "LOW-QUALITY",
     }
+    pilates = event_tags({"name": "Reformer Pilates"}, {})
+    assert pilates == {"PILATES", "FITNESS", "-CURATED"}
 
 
 def test_audience():
