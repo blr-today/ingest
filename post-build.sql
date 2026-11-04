@@ -578,6 +578,18 @@ SET
 WHERE
   url LIKE '%artzo.in%';
 
+-- BIC hosts shows it never lists on its own calendar, like plays sold on BookMyShow
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'BIC')
+  )
+WHERE
+  lower(event_json ->> '$.location.name') LIKE '%bangalore international cent%'
+  AND event_json ->> '$.keywords' NOT LIKE '%"BIC"%';
+
 
 -- Real Estate events
 UPDATE events
