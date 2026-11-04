@@ -38,9 +38,10 @@
     "keywords": [
       "Bharata Natyam"
     ],
+    "inLanguage": "en",
     "location": {
       "@type": "Place",
-      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -49,8 +50,7 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    },
-    "inLanguage": "en"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -87,9 +87,10 @@
     "endDate": "2026-11-22T12:00:00+05:30",
     "description": "",
     "url": "https://iiwc.in/event/childrens-cultural-festival-2026-competition-in-painting/",
+    "inLanguage": "en",
     "location": {
       "@type": "Place",
-      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -98,8 +99,7 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    },
-    "inLanguage": "en"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -181,19 +181,21 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "3524-1794420000-1794427200@iiwc.in",
-    "name": "Mridangam Concert",
-    "startDate": "2026-11-11T18:00:00+05:30",
-    "endDate": "2026-11-11T20:00:00+05:30",
+    "@type": "ExhibitionEvent",
+    "@id": "3614-1794754800-1794762000@iiwc.in",
+    "name": "2026 - IIWC Painting Competition",
+    "startDate": "2026-11-15T15:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
     "description": "",
-    "url": "https://iiwc.in/event/mridangam-concert/",
+    "url": "https://iiwc.in/event/2026-iiwc-painting-competition/",
     "keywords": [
-      "Carnatic Instrumental"
+      "Art Gallery"
     ],
+    "inLanguage": "en",
+    "image": "https://iiwc.in/wp-content/uploads/2026/11/15Nov-PaintingCompetition-Misc.jpeg",
     "location": {
       "@type": "Place",
-      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -202,8 +204,7 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    },
-    "inLanguage": "en"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -217,9 +218,10 @@
     "keywords": [
       "Book Release"
     ],
+    "inLanguage": "en",
     "location": {
       "@type": "Place",
-      "name": "Karnataka, Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
@@ -228,8 +230,33 @@
         "postalCode": "560004",
         "addressCountry": "IN"
       }
-    },
-    "inLanguage": "en"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "3524-1794420000-1794427200@iiwc.in",
+    "name": "Mridangam Concert",
+    "startDate": "2026-11-11T18:00:00+05:30",
+    "endDate": "2026-11-11T20:00:00+05:30",
+    "description": "",
+    "url": "https://iiwc.in/event/mridangam-concert/",
+    "keywords": [
+      "Carnatic Instrumental"
+    ],
+    "inLanguage": "en",
+    "location": {
+      "@type": "Place",
+      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560004",
+        "addressCountry": "IN"
+      }
+    }
   },
   {
     "@context": "https://schema.org",

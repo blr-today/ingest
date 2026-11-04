@@ -2198,6 +2198,62 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Diwali Party at SOL55",
+    "description": "HighlightsGrand Diwali-themed celebration with elegant festive decor.Bollywood and Commercial music all night.Featuring DJ Nuthan and DJ Nemo.Spectacular lighti",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/04/4c078fee6d05d01c2d5775a22c86be80.jpg"
+    ],
+    "startDate": "2026-11-08T20:00:00+05:30",
+    "endDate": "2026-11-09T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "SOL55 - COMMUNITY BAR | KORAMANGALA",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933105,
+        "longitude": 77.630788
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DJ Nuthan",
+      "url": "https://www.highape.com/bangalore/organisers/dj-nuthan-3fc2c60b57"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/diwali-party-at-sol55-vcwo52azun",
+      "validFrom": "2026-11-04T13:21:52.321Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Nuthan",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/cff45602/cwgmfhv2awlp0q33casp.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nuthan-rvwkavdkmo"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Nemo",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-nemo-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/diwali-party-at-sol55-vcwo52azun"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Diwali Pataka Night ft. Sumaya",
     "description": "HighlightsCelebrate Diwali with a spectacular festive night at Sugar Factory Reloaded.Experience an electrifying Bollywood music night with Sumaya on the decks.",
     "image": [
@@ -2295,6 +2351,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/dj-killer-7-nights-7-vibes-m7q5zk9wo2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dr Prakhar live at Sunburn Union",
+    "description": "HighlightsLive appearance by Dr. Prakhar&nbsp;High-energy Friday night celebrationPremium red-and-gold party ambienceBollywood and commercial party musicStylish",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/04/34cfefe34cecd350c7ac44f830142112.jpg"
+    ],
+    "startDate": "2026-11-06T19:00:00+05:30",
+    "endDate": "2026-11-07T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.945166,
+        "longitude": 77.620135
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fireball Entertainments",
+      "url": "https://www.highape.com/bangalore/organisers/fireball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dr-prakhar-live-at-sunburn-union-ku07l5z6j3",
+      "validFrom": "2026-11-04T12:07:53.545Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dr Prakhar",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/1c67ca43/gdpfsmjmhgg8pe2nmerl.png",
+        "url": "https://www.highape.com/bangalore/artists/dr-prakhar-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Stuvi",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-stuvi-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dr-prakhar-live-at-sunburn-union-ku07l5z6j3"
   },
   {
     "@context": "https://schema.org",
@@ -5085,6 +5197,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Saturday Pre Diwali Bash Ft Ali Merchant | Rism Club",
+    "description": "HighlightsPre-Diwali celebration with an extravagant party atmosphereSpecial celebrity appearance by Ali MerchantBollywood beats and high-energy musicDazzling l",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/03/a05b43786a25495a4d55784f27dfcb22.jpg"
+    ],
+    "startDate": "2026-11-07T20:30:00+05:30",
+    "endDate": "2026-11-08T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "RISM THE LUXURY CLUB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93363,
+        "longitude": 77.614577
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Saamir Highspinn",
+      "url": "https://www.highape.com/bangalore/organisers/saamir-highspinn-1700002963"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/saturday-diwali-bash-ft-ali-merchant-rism-club-kzzo84mt8a",
+      "validFrom": "2026-11-04T12:32:16.869Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ali Merchant",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/25/28232d2ffd8868a5326e331e78853946.jpg",
+        "url": "https://www.highape.com/bangalore/artists/ali-merchant"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/saturday-diwali-bash-ft-ali-merchant-rism-club-kzzo84mt8a"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Saturday Let`s Party At: Happy Brew, Koramangala",
     "description": "HighlightsHigh-energy Saturday night at Happy BrewBollywood and Punjabi DJ setsMassive dance floor for an all-night partyImmersive audio and visual experienceHu",
     "image": [
@@ -5530,6 +5692,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/strangers-meet-h5pqevbiao"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sudesh Bhosle & Sugandha Mishra – Live in Concert",
+    "description": "HighlightsLive musical performance by legendary playback singer Sudesh Bhosle.Featuring singer and entertainer Sugandha Mishra.Enjoy timeless Bollywood classics",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/04/ae5672341d86780e4d726eb725a25d36.jpg"
+    ],
+    "startDate": "2026-11-20T19:00:00+05:30",
+    "endDate": "2026-11-20T22:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Indiranagar Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "9th Main Road, 4th Cross Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9723,
+        "longitude": 77.643667
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "JAYACHANDRAN PILLAI",
+      "url": "https://www.highape.com/bangalore/organisers/jayachandran-pillai-wrd28"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "1500",
+      "highPrice": "2000",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sudesh-bhosle-sugandha-mishra-live-in-concert-i8pnegwedk",
+      "validFrom": "2026-11-04T12:52:31.591Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "SUGANDHA MISHRA",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/sudesh-bhosle-sugandha-mishra-c5jw"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sudesh-bhosle-sugandha-mishra-live-in-concert-i8pnegwedk"
   },
   {
     "@context": "https://schema.org",
@@ -5994,6 +6207,68 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/telugu-tashan-night-wgo2ppk3t7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Teri Miko Live at Skyye Rooftop on Saturday",
+    "description": "HighlightsExperience an electrifying live DJ performance by international artist Teri Miko.Supporting acts by VDJ JD and other featured artists.An energetic mix",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/04/6144092d0effbe4a1c77dfee42fb69ff.jpg"
+    ],
+    "startDate": "2026-11-07T19:00:00+05:30",
+    "endDate": "2026-11-08T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Skyye - UB City",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.971427,
+        "longitude": 77.596508
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/teri-miko-live-skyye-rooftop-lqb7ump7fv",
+      "validFrom": "2026-11-04T12:41:59.723Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Teri Miko",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/04/18/5172e6102a207269fd1892f960a61904.jpg",
+        "url": "https://www.highape.com/bangalore/artists/teri-miko-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ JD",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-jd-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Snea",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/afdb83f1/vx8tbyriu5mv0i92me2a.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-snea"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/teri-miko-live-skyye-rooftop-lqb7ump7fv"
   },
   {
     "@context": "https://schema.org",
