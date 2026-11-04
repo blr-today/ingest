@@ -229,7 +229,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/a-thousand-lamps-one-dance-floor-ft-karthik-gopinath-x-saket-maskara-w89s8cl4ht",
-      "validFrom": "2026-11-03T03:00:20.139Z"
+      "validFrom": "2026-11-04T06:33:30.598Z"
     },
     "performer": [
       {
@@ -1136,7 +1136,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/blue-monday-red-night-ft-dj-christin-x-dj-tom-49l8pqdegw",
-      "validFrom": "2026-11-03T03:00:20.842Z"
+      "validFrom": "2026-11-04T05:01:15.712Z"
     },
     "performer": [
       {
@@ -1447,7 +1447,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/burning-ft-dj-christin-x-dj-melvin-hod-anniversary-month-bqqxxuq6pu",
-      "validFrom": "2026-11-03T03:00:20.767Z"
+      "validFrom": "2026-11-04T06:33:32.058Z"
     },
     "performer": [
       {
@@ -1805,7 +1805,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/dil-se-diwali-ft-chirnth-smshkr-skydeck-by-sherlock-s-mg-road-n19fw3iwrs",
-      "validFrom": "2026-11-03T03:00:19.904Z"
+      "validFrom": "2026-11-04T05:01:13.395Z"
     },
     "performer": [
       {
@@ -2194,6 +2194,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/diwali-party-4eu2y36xfm"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Diwali Pataka Night ft. Sumaya",
+    "description": "HighlightsCelebrate Diwali with a spectacular festive night at Sugar Factory Reloaded.Experience an electrifying Bollywood music night with Sumaya on the decks.",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/04/7c4a025a6b037ebc607eb92ae489fb39.jpg"
+    ],
+    "startDate": "2026-11-07T20:00:00+05:30",
+    "endDate": "2026-11-08T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sugar Factory Reloaded",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/A Ground floor, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933376,
+        "longitude": 77.61403
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BOLLYBOX EVENTS",
+      "url": "https://www.highape.com/bangalore/organisers/bollybox"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/diwali-pataka-night-ft-sumaya-pwx08qari7",
+      "validFrom": "2026-11-04T05:54:37.152Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Sumaya",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/ab211240/exilb8kc9jwyydeewws5.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-sumaya-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/diwali-pataka-night-ft-sumaya-pwx08qari7"
   },
   {
     "@context": "https://schema.org",
@@ -2738,7 +2788,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/gold-rush-dhanteras-night-hod-anniversary-month-z56jpeg3cx",
-      "validFrom": "2026-11-03T03:00:20.639Z"
+      "validFrom": "2026-11-04T06:33:34.143Z"
     },
     "performer": [
       {
@@ -3934,7 +3984,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/mutiny-ft-karthik-gopinath-hod-anniversary-month-pl4gtiqr3b",
-      "validFrom": "2026-11-03T03:00:21.230Z"
+      "validFrom": "2026-11-04T05:01:11.213Z"
     },
     "performer": [
       {
@@ -5319,7 +5369,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/smoke-in-the-air-ft-dj-tom-x-dj-zia-1n9qulg37p",
-      "validFrom": "2026-11-03T03:00:21.163Z"
+      "validFrom": "2026-11-04T06:33:35.300Z"
     },
     "performer": [
       {
@@ -5579,6 +5629,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/sugar-rush-saturdays-ehqm9r6caf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sugar Wednesday Ladies Night",
+    "description": "HighlightsDJ Night ft DJ SumayaNonstop MusicBollywood MusicGreat AmbianceMouthwatering AppetizersCocktails and MocktailsStep into an unforgettable Wednesday at ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/07/01/0899aaba4bb77257f849653328b41f60.jpg"
+    ],
+    "startDate": "2026-11-04T20:00:00+05:30",
+    "endDate": "2026-11-05T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sugar Factory Reloaded",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/A Ground floor, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933376,
+        "longitude": 77.61403
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BOLLYBOX EVENTS",
+      "url": "https://www.highape.com/bangalore/organisers/bollybox"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sugar-wednesday-ladies-night-tcrla743wy",
+      "validFrom": "2026-11-04T05:46:37.624Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Sumaya",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/ab211240/exilb8kc9jwyydeewws5.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-sumaya-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sugar-wednesday-ladies-night-tcrla743wy"
   },
   {
     "@context": "https://schema.org",
@@ -6138,7 +6238,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-eve-of-flames-ft-vdj-shaan-choti-diwali-at-hod-g7owa2ey2z",
-      "validFrom": "2026-11-03T03:00:20.945Z"
+      "validFrom": "2026-11-04T06:33:36.702Z"
     },
     "performer": [
       {
@@ -6188,7 +6288,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/the-fuse-is-lit-ft-sisko-hod-anniversary-month-yzv6dfzm81",
-      "validFrom": "2026-11-03T03:00:20.289Z"
+      "validFrom": "2026-11-04T06:33:37.265Z"
     },
     "performer": [
       {
@@ -6550,6 +6650,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tipsy-tuesday-wvpfqz9bxr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tollywood Sunday ft. DJ Aan | DJ Kram at Panacea Lounge",
+    "description": "HighlightsExclusive Telugu music night celebrating Tollywood hits.Featuring DJ Aan with an energetic DJ set.Supported by DJ Kram.Enjoy popular Telugu chartbuste",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/04/5dfd872c8a60b9e3862e7db427e85779.jpg"
+    ],
+    "startDate": "2026-11-08T20:00:00+05:30",
+    "endDate": "2026-11-09T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PANACEA BLR",
+      "url": "https://www.highape.com/bangalore/organisers/vysakh-b-ra-at5m1"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/tollywood-sunday-ft-dj-aan-dj-kram-at-panacea-lounge-0ff4ix94kv",
+      "validFrom": "2026-11-04T06:33:38.482Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "dj kram",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-kram-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/tollywood-sunday-ft-dj-aan-dj-kram-at-panacea-lounge-0ff4ix94kv"
   },
   {
     "@context": "https://schema.org",
@@ -7249,7 +7400,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/wood-fire-bass-live-instruments-night-at-hod-4e39bsivic",
-      "validFrom": "2026-11-03T03:00:19.745Z"
+      "validFrom": "2026-11-04T05:01:14.245Z"
     },
     "performer": [
       {
