@@ -77,6 +77,8 @@ def test_games_are_not_theatre():
     botc = {"@type": "TheaterEvent", "name": "Blood on the Clocktower"}
     assert event_tags(botc, {"THEATER": 0.9}) == {"BOARDGAMES", "SOCIAL-DEDUCTION"}
     assert event_tags({"name": "Hamlet"}, {"THEATER": 0.9}) == {"THEATER"}
+    night = {"name": "Board Game Night"}
+    assert event_tags(night, {"STRANGERS-MEETUP": 0.95}) == {"BOARDGAMES"}
 
 
 def test_club_nights_are_hidden():

@@ -23,7 +23,15 @@ log = logging.getLogger(__name__)
 logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("typesafe_sdk").setLevel(logging.WARNING)
 
-SOURCES = {"All", "BOOKMYSHOW", "DISTRICT", "URBANAUT", "HIGHAPE", "INSIDER", "ALLEVENTS"}
+SOURCES = {
+    "All",
+    "BOOKMYSHOW",
+    "DISTRICT",
+    "URBANAUT",
+    "HIGHAPE",
+    "INSIDER",
+    "ALLEVENTS",
+}
 # Tags we classify but do not want to show
 DEMOTE = {
     "DEVOTIONAL-MUSIC": "LOW-QUALITY",
@@ -196,9 +204,9 @@ def jev_type(answers):
 
 def event_tags(event, answers):
     tags = with_parents(by_rules(event) | jev_tags(answers))
-    # BookMyShow lists hosted games as plays, which fools the theatre question
+    # Game nights pass as plays on BMS, and as stranger meetups by their pitch
     if "BOARDGAMES" in tags:
-        tags.discard("THEATER")
+        tags -= {"THEATER", "STRANGERS-MEETUP"}
     return tags | {DEMOTE[t] for t in tags if t in DEMOTE}
 
 
