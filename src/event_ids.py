@@ -88,6 +88,26 @@ def assign_ids(rows):
     return ids
 
 
+def aliases(rows, ids):
+    """Ids an event may have had in an earlier build, mapped to its id now"""
+    live, claims = set(ids), {}
+    for (url, raw), i in zip(rows, ids):
+        event = json.loads(raw)
+        same = event.get("sameAs")
+        same = (
+            [same] if isinstance(same, str) else same if isinstance(same, list) else []
+        )
+        # A merged copy, or a lone occurrence before a second one showed up
+        names = {base_id(url, event)} | {
+            base_id(u, {}) for u in same if isinstance(u, str) and "://" in u
+        }
+        names |= {f"{n}.{occurs(event)}" for n in names}
+        for name in names - live:
+            if name not in claims or (occurs(event), i) < claims[name]:
+                claims[name] = (occurs(event), i)
+    return {name: i for name, (_, i) in claims.items()}
+
+
 def write_ids(db_path="events.db"):
     with closing(sqlite3.connect(db_path)) as conn:
         if "id" not in [c[1] for c in conn.execute("PRAGMA table_info(events)")]:
@@ -98,6 +118,12 @@ def write_ids(db_path="events.db"):
         conn.executemany(
             "UPDATE events SET id = ? WHERE rowid = ?",
             [(i, r[0]) for i, r in zip(ids, rows)],
+        )
+        conn.execute("DROP TABLE IF EXISTS event_aliases")
+        conn.execute("CREATE TABLE event_aliases (alias TEXT PRIMARY KEY, id TEXT)")
+        conn.executemany(
+            "INSERT INTO event_aliases VALUES (?, ?)",
+            aliases([(url, raw) for _, url, raw in rows], ids).items(),
         )
         conn.commit()
     print(f"Wrote {len(ids)} event ids")

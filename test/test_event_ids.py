@@ -135,7 +135,10 @@ def test_source_identifier_is_the_id():
     form = "https://docs.google.com/forms/d/e/abc/viewform"
     assert ids(event(form, identifier="gcw.2026-11-01")) == ["gcw.2026-11-01"]
     assert ids(event(form, identifier="")) == ["com.google.docs.viewform"]
-    a, b = event(form, identifier="gcw.x"), event(form, identifier="gcw.x", start="2026-10-25")
+    a, b = (
+        event(form, identifier="gcw.x"),
+        event(form, identifier="gcw.x", start="2026-10-25"),
+    )
     assert ids(a, b) == ["gcw.x.20261024t1100", "gcw.x.20261025"]
 
 
@@ -152,3 +155,17 @@ def test_write_ids_adds_the_column(tmp_path):
         assert conn.execute("SELECT id FROM events").fetchall() == [
             ("com.sofarsounds.67871",)
         ]
+
+
+def test_aliases_point_old_ids_at_the_merged_event():
+    from src.event_ids import aliases
+
+    sabha = {
+        "startDate": "2026-11-26T17:00:00+05:30",
+        "sameAs": ["https://urbanaut.app/spot/writingsciencefictionplays"],
+    }
+    rows = [("https://www.sabhablr.in/event-details/sci-fi-plays", json.dumps(sabha))]
+    ids = assign_ids(rows)
+    moved = aliases(rows, ids)
+    assert moved["app.urbanaut.writingsciencefictionplays"] == ids[0]
+    assert ids[0] not in moved
