@@ -288,7 +288,7 @@ SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'BOARDGAMES')
+    json_insert(event_json -> '$.keywords', '$[#]', 'GAMES/BOARDGAMES')
   )
 WHERE
   event_json ->> '$.location.name' LIKE 'Now Boarding Cafe%';
@@ -300,7 +300,7 @@ SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'BOARDGAMES')
+    json_insert(event_json -> '$.keywords', '$[#]', 'GAMES/BOARDGAMES')
   )
 WHERE
   url LIKE '%with-reroll%';
@@ -731,13 +731,13 @@ WHERE
   );
 
 
--- organizer = Games Lab, title contains "Board" or "Mafia" or "Game Night", tag as BOARDGAMES
+-- organizer = Games Lab, title contains "Board" or "Mafia" or "Game Night", tag as GAMES/BOARDGAMES
 UPDATE events
 SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'BOARDGAMES')
+    json_insert(event_json -> '$.keywords', '$[#]', 'GAMES/BOARDGAMES')
   )
 WHERE
   event_json ->> '$.organizer.name' LIKE 'Games Lab'

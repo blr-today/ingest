@@ -10,6 +10,7 @@ from typesafe_sdk import Choice, Noul, TypeSafeClient, TypeSafeError
 
 from src.common.activities import (
     EXCLUDE,
+    QUESTIONS,
     TAGS,
     THRESHOLDS,
     TYPE_CONFIDENCE,
@@ -34,15 +35,13 @@ SOURCES = {
 }
 # Tags we classify but do not want to show
 DEMOTE = {
-    "DEVOTIONAL-MUSIC": "LOW-QUALITY",
+    "LIVE-MUSIC/DEVOTIONAL": "LOW-QUALITY",
     "EXPO": "LOW-QUALITY",
     "ATTRACTION": "LOW-QUALITY",
     "PROMOTION": "LOW-QUALITY",
-    "DJ-NIGHT": "LOW-QUALITY",
-    "KARAOKE": "LOW-QUALITY",
-    "PILATES": "-CURATED",
+    "NIGHTLIFE": "LOW-QUALITY",
+    "FITNESS/PILATES": "-CURATED",
     "TRIP": "NOTINBLR",
-    "BUSINESS/SKILLS": "BUSINESS",
     "TECH": "BUSINESS",
 }
 # Demoted without a trace, since the tag itself is not worth showing
@@ -50,57 +49,59 @@ REPLACED = {"TECH"}
 # These outlets rerun mass-produced craft sessions, but host good gigs too
 CRAFT_SPAM_VENUES = ("koramangala social", "indiranagar social")
 CACHE = Path.home() / ".cache" / "ingest-activities.sqlite"
+CLASS = r"(workshop|class|jam|intensive|lab)"
 SCREENING = r"\b(screening|live on|watch party|screened)\b"
 RULES = [
     (
-        "F1-SCREENING",
+        "SPORTS-SCREENING/F1",
         rf"(\bf1\b|formula ?1|grand prix).*{SCREENING}|{SCREENING}.*(\bf1\b|formula ?1|grand prix)",
     ),
-    ("IPL-SCREENING", rf"\bipl\b.*{SCREENING}|{SCREENING}.*\bipl\b"),
+    ("SPORTS-SCREENING/CRICKET", rf"\bipl\b.*{SCREENING}|{SCREENING}.*\bipl\b"),
     (
-        "CRICKET-SCREENING",
+        "SPORTS-SCREENING/CRICKET",
         rf"(cricket|india vs|\bt20\b|\bodi\b).*{SCREENING}|{SCREENING}.*(cricket|india vs)",
     ),
     (
-        "FOOTBALL-SCREENING",
+        "SPORTS-SCREENING/FOOTBALL",
         rf"(premier league|champions league|la liga|el clasico|football|\bfifa\b).*{SCREENING}|{SCREENING}.*(premier league|champions league|football)",
     ),
-    ("QUIZZING", r"\bquiz|\btrivia\b"),
-    ("CHESS", r"\bchess\b"),
-    ("KINTSUGI", r"\bkintsugi\b"),
-    ("RESIN-ART", r"\bresin\b|\bepoxy\b"),
-    ("POTTERY", r"\bpottery\b|\bceramics?\b|\bwheel throwing\b"),
-    ("CANDLE-MAKING", r"\bcandle making\b|\bmake your own candle"),
-    ("PERFUMERY", r"\bperfum|\bsoap making\b"),
-    ("CALLIGRAPHY", r"\bcalligraphy\b|\blettering\b"),
-    ("PRINTMAKING", r"\blino ?cut|\bblock print|\bcyanotype|\bprintmaking\b"),
+    ("GAMES/QUIZ", r"\bquiz|\btrivia\b"),
+    ("GAMES/CHESS", r"\bchess\b"),
+    ("ART-CRAFT/KINTSUGI", r"\bkintsugi\b"),
+    ("ART-CRAFT/RESIN", r"\bresin\b|\bepoxy\b"),
+    ("ART-CRAFT/POTTERY", r"\bpottery\b|\bceramics?\b|\bwheel throwing\b"),
+    ("ART-CRAFT/CANDLES", r"\bcandle making\b|\bmake your own candle"),
+    ("ART-CRAFT/PERFUMERY", r"\bperfum|\bsoap making\b"),
+    ("ART-CRAFT/CALLIGRAPHY", r"\bcalligraphy\b|\blettering\b"),
+    ("ART-CRAFT/PRINTMAKING", r"\blino ?cut|\bblock print|\bcyanotype|\bprintmaking\b"),
     (
-        "PAINTING-SKETCHING",
+        "ART-CRAFT/PAINTING",
         r"\bsip (and|&|n) paint\b|\bwatercolou?r|\bsketch(ing)?\b(?! comedy)|\bcanvas painting\b",
     ),
-    ("IMPROV", r"(?<!dance )\bimprov\b"),
-    ("THEATER", r"\bacting (workshop|intensive|class)|\bintro to acting\b"),
-    ("STANDUP-COMEDY", r"\bcomedy show\b|\bstand-?up comedy\b"),
-    ("STORYTELLING", r"\bstorytelling\b"),
-    ("OPEN-MIC", r"\bopen mic\b"),
-    ("KARAOKE", r"\bkaraoke\b"),
+    ("ON-STAGE/IMPROV", rf"(?<!dance )\bimprov\w* {CLASS}"),
+    ("SHOW/IMPROV", rf"(?<!dance )\bimprov\b(?!\w* {CLASS})"),
+    ("ON-STAGE/ACTING", r"\bacting (workshop|intensive|class)|\bintro to acting\b"),
+    ("SHOW/STANDUP", r"\bcomedy show\b|\bstand-?up comedy\b"),
+    ("SHOW/STORYTELLING", r"\bstorytelling\b"),
+    ("ON-STAGE/OPEN-MIC", r"\bopen mic\b"),
+    ("NIGHTLIFE/KARAOKE", r"\bkaraoke\b"),
     (
-        "SOCIAL-DEDUCTION",
+        "GAMES/SOCIAL-DEDUCTION",
         r"\bmafia\b|\bwerewolf\b|\bsocial deduction\b|\bclocktower\b|\bbotc\b",
     ),
-    ("TTRPG", r"\bd ?& ?d\b|\bdungeons (and|&) dragons\b|\bttrpg"),
-    ("BOARDGAMES", r"\bboard ?games?\b|\btabletop\b"),
-    ("RUNNING", r"\brun club\b|\bmarathon\b|\b(5|10|21) ?k run\b"),
-    ("YOGA", r"\byoga\b"),
-    ("PILATES", r"\bpilates\b"),
-    ("GARBA", r"\bgarba\b(?!.*\b(necklace|jewell?ery|making)\b)"),
-    ("LATIN-DANCE", r"\bsalsa\b|\bbachata\b|\bkizomba\b"),
-    ("BIRDING", r"\bbird ?(walk|watching)\b|\bbirding\b"),
-    ("HERITAGE-WALK", r"\bheritage walk\b|\bwalking tour\b"),
-    ("BOOK-CLUB", r"\bbook club\b|\bread together\b"),
-    ("AUTHOR-EVENT", r"\bbook (launch|signing)\b"),
+    ("GAMES/TTRPG", r"\bd ?& ?d\b|\bdungeons (and|&) dragons\b|\bttrpg"),
+    ("GAMES/BOARDGAMES", r"\bboard ?games?\b|\btabletop\b"),
+    ("FITNESS/RUNNING", r"\brun club\b|\bmarathon\b|\b(5|10|21) ?k run\b"),
+    ("FITNESS/YOGA", r"\byoga\b"),
+    ("FITNESS/PILATES", r"\bpilates\b"),
+    ("DANCING/GARBA", r"\bgarba\b(?!.*\b(necklace|jewell?ery|making)\b)"),
+    ("DANCING/LATIN", r"\bsalsa\b|\bbachata\b|\bkizomba\b"),
+    ("OUTDOORS/BIRDING", r"\bbird ?(walk|watching)\b|\bbirding\b"),
+    ("OUTDOORS/HERITAGE-WALK", r"\bheritage walk\b|\bwalking tour\b"),
+    ("BOOKS/BOOK-CLUB", r"\bbook club\b|\bread together\b"),
+    ("BOOKS/AUTHOR-TALK", r"\bbook (launch|signing)\b"),
 ]
-SPORTS = {"F1-SCREENING", "IPL-SCREENING", "CRICKET-SCREENING", "FOOTBALL-SCREENING"}
+SPORTS = {"SPORTS-SCREENING/F1", "SPORTS-SCREENING/CRICKET", "SPORTS-SCREENING/FOOTBALL"}
 
 
 def keywords(event):
@@ -157,7 +158,7 @@ def state(event):
 
 
 def ask(client, event):
-    questions = {tag: Noul(instructions=q) for tag, (_, q) in TAGS.items()}
+    questions = {tag: Noul(instructions=q) for tag, q in QUESTIONS.items()}
     questions["@type"] = Choice(
         instructions="Which kind of event is this?",
         criteria=TYPES | {"Event": "None of these fits"},
@@ -201,7 +202,7 @@ def by_jev(events):
 
 
 def jev_tags(answers):
-    return {t for t, p in answers.items() if t in TAGS and p >= THRESHOLDS.get(t, 0.5)}
+    return {t for t, p in answers.items() if t in QUESTIONS and p >= THRESHOLDS.get(t, 0.5)}
 
 
 def jev_type(answers):
@@ -210,10 +211,12 @@ def jev_type(answers):
 
 
 def event_tags(event, answers):
-    tags = with_parents(by_rules(event) | jev_tags(answers))
+    # post-build.sql tags some events too, and they need their parents
+    tags = by_rules(event) | jev_tags(answers) | (set(keywords(event)) & set(TAGS))
     # Game nights pass as plays on BMS, and as stranger meetups by their pitch
-    if "BOARDGAMES" in tags:
-        tags -= {"THEATER", "STRANGERS-MEETUP"}
+    if any(t.startswith("GAMES/") for t in tags):
+        tags -= {"SHOW/THEATER", "SOCIAL/STRANGERS-MEETUP"}
+    tags = with_parents(tags)
     venue = (state(event)["event"]["venue"] or "").lower()
     if "ART-CRAFT" in tags and venue.startswith(CRAFT_SPAM_VENUES):
         tags.add("LOW-QUALITY")

@@ -111,7 +111,7 @@ def hidden(event):
 def activities(event):
     k = event.get("keywords", [])
     tags = set(k.split(",") if isinstance(k, str) else k)
-    return {t for t in tags if t in TAGS and TAGS[t][0] is None}
+    return {t for t in tags if t in TAGS and "/" not in t}
 
 
 def same_session(a, b):

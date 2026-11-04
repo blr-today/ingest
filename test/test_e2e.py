@@ -165,13 +165,13 @@ def test_post_build_sql(pipeline):
 def test_tagger(pipeline):
     assert "tagged 7 and typed 0 of 9 events" in pipeline.runs["tagger"].stderr
     assert (pipeline.work / "home/.cache/ingest-activities.sqlite").exists()
-    assert {"QUIZZING"} <= keywords(pipeline, QUIZ)
-    assert {"BIRDING", "NATURE-WALK"} <= keywords(pipeline, BIRDS)
-    assert {"POTTERY"} <= keywords(pipeline, POTTERY)
+    assert {"GAMES/QUIZ"} <= keywords(pipeline, QUIZ)
+    assert {"OUTDOORS", "OUTDOORS/BIRDING"} <= keywords(pipeline, BIRDS)
+    assert {"ART-CRAFT/POTTERY"} <= keywords(pipeline, POTTERY)
     assert {"KIDS"} <= keywords(pipeline, KIDS)
-    assert {"STANDUP-COMEDY"} <= keywords(pipeline, COMEDY)
-    assert {"CHESS"} <= keywords(pipeline, CHESS)
-    assert "HERITAGE-WALK" not in keywords(pipeline, MYSURU)
+    assert {"SHOW/STANDUP"} <= keywords(pipeline, COMEDY)
+    assert {"GAMES/CHESS"} <= keywords(pipeline, CHESS)
+    assert "OUTDOORS/HERITAGE-WALK" not in keywords(pipeline, MYSURU)
 
 
 def test_dedup(pipeline):

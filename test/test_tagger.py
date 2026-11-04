@@ -7,7 +7,7 @@ import pytest
 from typesafe_sdk import TypeSafeError
 
 from src import tagger
-from src.common.activities import TAGS, THRESHOLDS, VERSION, with_parents
+from src.common.activities import EXCLUDE, QUESTIONS, TAGS, THRESHOLDS, VERSION, with_parents
 from src.tagger import (
     RULES,
     ask,
@@ -24,16 +24,16 @@ ROWS = json.loads((Path(__file__).parent / "fixtures/tagger/events.json").read_t
 # Canned Jev replies by event name; a missing name fails the call
 REPLIES = {
     "Japanese Kintsugi ": (
-        {"KINTSUGI": 0.9, "ART-CRAFT": 0.8, "POTTERY": 0.6},
+        {"ART-CRAFT/KINTSUGI": 0.9, "ART-CRAFT": 0.8, "ART-CRAFT/POTTERY": 0.6},
         "EducationEvent",
         0.8,
     ),
     "Horn OK Quiz | India-Themed Trivia Game Show by Tasty Trivia": (
-        {"QUIZZING": 0.95, "EXPO": 0.7},
+        {"GAMES/QUIZ": 0.95, "EXPO": 0.7},
         "SocialEvent",
         0.4,
     ),
-    "Japanese Kintsugi": ({"KINTSUGI": 0.95}, "VisualArtsEvent", 0.9),
+    "Japanese Kintsugi": ({"ART-CRAFT/KINTSUGI": 0.95}, "VisualArtsEvent", 0.9),
 }
 
 
@@ -42,9 +42,9 @@ def tags(name, type_="Event", keywords=()):
 
 
 def test_sports_screenings():
-    assert "F1-SCREENING" in tags("F1 Singapore Grand Prix | Live Screening | Watson's")
-    assert "CRICKET-SCREENING" in tags("Screening of India vs West Indies | The Studs")
-    assert not tags("BENGALURU RUN by KAR IES") & {"F1-SCREENING", "SPORTS-SCREENING"}
+    assert "SPORTS-SCREENING/F1" in tags("F1 Singapore Grand Prix | Live Screening | Watson's")
+    assert "SPORTS-SCREENING/CRICKET" in tags("Screening of India vs West Indies | The Studs")
+    assert not tags("BENGALURU RUN by KAR IES") & {"SPORTS-SCREENING/F1", "SPORTS-SCREENING"}
 
 
 def test_movie_screening_skips_sports():
@@ -55,46 +55,56 @@ def test_movie_screening_skips_sports():
 
 
 def test_crafts_and_games():
-    assert tags("Japanese Kintsugi in Indiranagar") == {"KINTSUGI"}
-    assert "SOCIAL-DEDUCTION" in tags("Mafia Night by The Fun Boardgames")
-    assert "BOARDGAMES" in tags("Social Boardgames Night")
-    assert "QUIZZING" in tags("Pop Culture Quiz by Calm Your Wits Quizzing")
+    assert tags("Japanese Kintsugi in Indiranagar") == {"ART-CRAFT/KINTSUGI"}
+    assert "GAMES/SOCIAL-DEDUCTION" in tags("Mafia Night by The Fun Boardgames")
+    assert "GAMES/BOARDGAMES" in tags("Social Boardgames Night")
+    assert "GAMES/QUIZ" in tags("Pop Culture Quiz by Calm Your Wits Quizzing")
 
 
 def test_near_misses():
-    assert tags("Behrupiye - A Sketch Comedy Show") == {"STANDUP-COMEDY"}
+    assert tags("Behrupiye - A Sketch Comedy Show") == {"SHOW/STANDUP"}
     assert not tags("Dance Improv: Move With Each Other")
     assert not tags("Garba Necklace Making")
     assert not tags("Battle Grid Paintball | Bengaluru")
 
 
 def test_stage_and_books():
-    assert "THEATER" in tags("13 Day Hybrid Acting Intensive")
-    assert "BOOK-CLUB" in tags("The Quiet Library: Read Together")
+    assert tags("13 Day Hybrid Acting Intensive") == {"ON-STAGE/ACTING"}
+    assert tags("Improv Comedy Night") == {"SHOW/IMPROV"}
+    assert tags("Beginners Improv Workshop") == {"ON-STAGE/IMPROV"}
+    assert "BOOKS/BOOK-CLUB" in tags("The Quiet Library: Read Together")
 
 
 def test_games_are_not_theatre():
     botc = {"@type": "TheaterEvent", "name": "Blood on the Clocktower"}
-    assert event_tags(botc, {"THEATER": 0.9}) == {"BOARDGAMES", "SOCIAL-DEDUCTION"}
-    assert event_tags({"name": "Hamlet"}, {"THEATER": 0.9}) == {"THEATER"}
+    assert event_tags(botc, {"SHOW/THEATER": 0.9}) == {"GAMES", "GAMES/SOCIAL-DEDUCTION"}
+    assert event_tags({"name": "Hamlet"}, {"SHOW/THEATER": 0.9}) == {"SHOW", "SHOW/THEATER"}
     night = {"name": "Board Game Night"}
-    assert event_tags(night, {"STRANGERS-MEETUP": 0.95}) == {"BOARDGAMES"}
+    assert event_tags(night, {"SOCIAL/STRANGERS-MEETUP": 0.95}) == {"GAMES", "GAMES/BOARDGAMES"}
+    # post-build.sql tags venues' game nights, and the tagger adds parents
+    cafe = {"name": "Sunday Session", "keywords": ["GAMES/BOARDGAMES"]}
+    assert event_tags(cafe, {}) == {"GAMES", "GAMES/BOARDGAMES"}
 
 
 def test_club_nights_are_hidden():
     party = {"@type": "MusicEvent", "name": "Finch After Dark"}
-    tags = event_tags(party, {"DJ-NIGHT": 0.9, "BOLLYWOOD-NIGHT": 0.9})
-    assert tags == {"DJ-NIGHT", "BOLLYWOOD-NIGHT", "LOW-QUALITY"}
+    tags = event_tags(party, {"NIGHTLIFE/DJ": 0.9, "NIGHTLIFE/BOLLYWOOD": 0.9})
+    assert tags == {"NIGHTLIFE", "NIGHTLIFE/DJ", "NIGHTLIFE/BOLLYWOOD", "LOW-QUALITY"}
     assert event_tags({"name": "Bollywood Karaoke Night"}, {}) == {
-        "KARAOKE",
+        "NIGHTLIFE",
+        "NIGHTLIFE/KARAOKE",
         "LOW-QUALITY",
     }
     assert event_tags({"name": "AI meetup"}, {"TECH": 0.9}) == {"BUSINESS"}
     social = {"name": "Resin Geode Art Date", "location": {"name": "Koramangala Social"}}
     assert "LOW-QUALITY" in event_tags(social, {"ART-CRAFT": 0.9})
     assert "LOW-QUALITY" not in event_tags(social | {"name": "Gig"}, {})
+    devotional = {"LIVE-MUSIC/DEVOTIONAL": 0.9}
+    assert "LOW-QUALITY" in event_tags({"name": "Kirtan"}, devotional)
+    skills = event_tags({"name": "Marketing 101"}, {"BUSINESS/SKILLS": 0.9})
+    assert skills == {"BUSINESS", "BUSINESS/SKILLS"}
     pilates = event_tags({"name": "Reformer Pilates"}, {})
-    assert pilates == {"PILATES", "FITNESS", "-CURATED"}
+    assert pilates == {"FITNESS/PILATES", "FITNESS", "-CURATED"}
 
 
 def test_audience():
@@ -105,18 +115,20 @@ def test_audience():
 
 
 def test_parents():
-    assert with_parents({"IPL-SCREENING"}) == {
-        "IPL-SCREENING",
-        "CRICKET-SCREENING",
+    assert with_parents({"SPORTS-SCREENING/CRICKET"}) == {
+        "SPORTS-SCREENING/CRICKET",
         "SPORTS-SCREENING",
     }
-    assert with_parents({"KINTSUGI"}) == {"KINTSUGI", "ART-CRAFT"}
+    assert with_parents({"ART-CRAFT/KINTSUGI"}) == {"ART-CRAFT/KINTSUGI", "ART-CRAFT"}
 
 
 def test_taxonomy():
-    assert all(parent in TAGS for parent, _ in TAGS.values() if parent)
+    parents = {t.rpartition("/")[0] for t in TAGS if "/" in t}
+    assert parents <= set(TAGS) | EXCLUDE
     assert all(tag in TAGS for tag, _ in RULES)
-    assert all(tag in TAGS for tag in THRESHOLDS)
+    assert all(tag in QUESTIONS for tag in THRESHOLDS)
+    assert all(mode in (None, "experiential", "participatory") for mode, _ in TAGS.values())
+    assert "QUEER" not in TAGS and "WOMEN-ONLY" not in QUESTIONS
     assert all(tag == tag.upper() for tag in TAGS)
 
 
@@ -133,7 +145,7 @@ class FakeJev:
     def system_one(self, state, questions):
         name = state["event"]["name"]
         self.asked.append(name)
-        assert set(questions) == set(TAGS) | {"@type"}
+        assert set(questions) == set(QUESTIONS) | {"@type"}
         if name not in REPLIES:
             raise TypeSafeError("quota exceeded")
         nouls, kind, confidence = REPLIES[name]
@@ -174,9 +186,9 @@ def test_keywords_and_state():
 def test_ask_parses_answers(jev):
     answers = ask(jev, ROWS[0][1])
     assert answers == {
-        "KINTSUGI": 0.9,
+        "ART-CRAFT/KINTSUGI": 0.9,
         "ART-CRAFT": 0.8,
-        "POTTERY": 0.6,
+        "ART-CRAFT/POTTERY": 0.6,
         "@type": ["EducationEvent", 0.8],
     }
     assert ask(jev, ROWS[5][1]) is None
@@ -184,8 +196,8 @@ def test_ask_parses_answers(jev):
 
 def test_thresholds():
     assert jev_tags(
-        {"POTTERY": 0.69, "KINTSUGI": 0.5, "NOPE": 1, "@type": ["Event", 1]}
-    ) == {"KINTSUGI"}
+        {"ART-CRAFT/POTTERY": 0.69, "ART-CRAFT/KINTSUGI": 0.5, "NOPE": 1, "@type": ["Event", 1]}
+    ) == {"ART-CRAFT/KINTSUGI"}
     assert jev_type({"@type": ["EducationEvent", 0.5]}) == "EducationEvent"
     assert jev_type({"@type": ["EducationEvent", 0.4]}) is None
     assert jev_type({"@type": ["Event", 0.9]}) is None
@@ -231,15 +243,15 @@ def test_main_tags_and_types_events(jev, tmp_path, monkeypatch):
         for (e,) in conn.execute("SELECT event_json FROM events ORDER BY rowid")
     ]
     assert out[0]["@type"] == "EducationEvent"
-    assert out[0]["keywords"][-2:] == ["ART-CRAFT", "KINTSUGI"]
+    assert out[0]["keywords"][-2:] == ["ART-CRAFT", "ART-CRAFT/KINTSUGI"]
     # Both dates of one listing share a single Jev call
     assert (
         jev.asked.count(ROWS[1][1]["name"]) == 1 and ROWS[2][1]["name"] not in jev.asked
     )
     assert out[1]["@type"] == "Event"
-    assert out[1]["keywords"][-3:] == ["EXPO", "LOW-QUALITY", "QUIZZING"]
-    assert out[2]["@type"] == "SocialEvent" and "QUIZZING" in out[2]["keywords"]
+    assert out[1]["keywords"][-4:] == ["EXPO", "GAMES", "GAMES/QUIZ", "LOW-QUALITY"]
+    assert out[2]["@type"] == "SocialEvent" and "GAMES/QUIZ" in out[2]["keywords"]
     assert out[3]["@type"] == "EducationEvent"
-    assert out[3]["keywords"][-2:] == ["ART-CRAFT", "KINTSUGI"]
+    assert out[3]["keywords"][-2:] == ["ART-CRAFT", "ART-CRAFT/KINTSUGI"]
     assert out[4] == ROWS[4][1]
-    assert out[5]["keywords"] == ["BLRBIRDERS", "BNGBIRDS", "BIRDING", "NATURE-WALK"]
+    assert out[5]["keywords"] == ["BLRBIRDERS", "BNGBIRDS", "OUTDOORS", "OUTDOORS/BIRDING"]

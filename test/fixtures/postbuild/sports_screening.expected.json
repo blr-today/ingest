@@ -1,11 +1,11 @@
 {
   "https://fixture.example/premier-league-live-screening": [
-    "FOOTBALL-SCREENING",
-    "SPORTS-SCREENING"
+    "SPORTS-SCREENING",
+    "SPORTS-SCREENING/FOOTBALL"
   ],
   "https://fixture.example/live-cricket-screening": [
-    "CRICKET-SCREENING",
-    "SPORTS-SCREENING"
+    "SPORTS-SCREENING",
+    "SPORTS-SCREENING/CRICKET"
   ],
   "https://fixture.example/live-ipl": [
     "SPORTS-SCREENING"
@@ -14,9 +14,8 @@
     "SPORTS-SCREENING"
   ],
   "https://fixture.example/ipl-name": [
-    "CRICKET-SCREENING",
-    "IPL-SCREENING",
-    "SPORTS-SCREENING"
+    "SPORTS-SCREENING",
+    "SPORTS-SCREENING/CRICKET"
   ],
   "https://fixture.example/ipl-keyword": [
     "IPL Screening",
@@ -35,15 +34,15 @@
     "SPORTS-SCREENING"
   ],
   "https://fixture.example/f1-name": [
-    "F1-SCREENING",
-    "SPORTS-SCREENING"
+    "SPORTS-SCREENING",
+    "SPORTS-SCREENING/F1"
   ],
   "https://fixture.example/formula-1-live": [
     "SPORTS-SCREENING"
   ],
   "https://fixture.example/formula-1-name": [
-    "F1-SCREENING",
-    "SPORTS-SCREENING"
+    "SPORTS-SCREENING",
+    "SPORTS-SCREENING/F1"
   ],
   "https://fixture.example/f1-keyword": [
     "F1 Screening",
@@ -69,7 +68,8 @@
     "LOW-QUALITY"
   ],
   "https://fixture.example/premier-league-quiz": [
-    "QUIZZING"
+    "GAMES",
+    "GAMES/QUIZ"
   ],
   "https://fixture.example/f1-simulator": [
     "Grand Prix",
@@ -83,6 +83,7 @@
     "Live Session & Streaming"
   ],
   "https://fixture.example/ipl-description-only": [
-    "QUIZZING"
+    "GAMES",
+    "GAMES/QUIZ"
   ]
 }

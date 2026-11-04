@@ -205,10 +205,10 @@ def test_hidden_and_geo():
 def test_session_needs_a_shared_activity():
     venue = ("Bloom Creative Zone - Haralur", 12.9034889, 77.6621356)
     paint = listing(
-        "Acrylic Painting Workshop", *venue, ["ART-CRAFT", "PAINTING-SKETCHING"]
+        "Acrylic Painting Workshop", *venue, ["ART-CRAFT", "ART-CRAFT/PAINTING"]
     )
-    clay = listing("Clay Crafting Workshop", *venue, ["ART-CRAFT", "POTTERY"])
-    dance = listing("Semi Classical Dance Workshop", *venue, ["DANCE-CLASS"])
+    clay = listing("Clay Crafting Workshop", *venue, ["ART-CRAFT", "ART-CRAFT/POTTERY"])
+    dance = listing("Semi Classical Dance Workshop", *venue, ["DANCING"])
     assert same_session(paint, clay)
     assert not same_session(paint, dance)
     assert same_session(paint, listing("Mystery Workshop", *venue))

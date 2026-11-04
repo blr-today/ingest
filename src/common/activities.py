@@ -1,251 +1,313 @@
 # Bump VERSION whenever a tag or question changes, so cached answers are asked again
-VERSION = 7
+VERSION = 8
 
-# tag: (parent, question asked of every event)
+# Watching, listening or tasting, versus doing it yourself
+WATCH, DO = "experiential", "participatory"
+
+# tag: (mode, question asked of every event); a slash names the parent, and
+# parents without a question only group their children
 TAGS = {
     "ART-CRAFT": (
-        None,
+        DO,
         "At this event, do attendees make an artwork or craft object themselves?",
     ),
-    "PAINTING-SKETCHING": (
-        "ART-CRAFT",
+    "ART-CRAFT/PAINTING": (
+        DO,
         "Is painting, drawing or sketching the main activity at this event, such as sip-and-paint or a canvas painting workshop?",
     ),
-    "CALLIGRAPHY": (
-        "ART-CRAFT",
+    "ART-CRAFT/CALLIGRAPHY": (
+        DO,
         "Is this event about calligraphy, hand lettering or typography?",
     ),
-    "PRINTMAKING": (
-        "ART-CRAFT",
+    "ART-CRAFT/PRINTMAKING": (
+        DO,
         "Is this event about printmaking, such as linocut, block printing, woodcut or cyanotype?",
     ),
-    "POTTERY": (
-        "ART-CRAFT",
+    "ART-CRAFT/POTTERY": (
+        DO,
         "At this event, do attendees work with clay, such as wheel pottery, hand-building or clay modelling?",
     ),
-    "RESIN-ART": ("ART-CRAFT", "At this event, do attendees make resin or epoxy art?"),
-    "KINTSUGI": (
-        "ART-CRAFT",
+    "ART-CRAFT/RESIN": (DO, "At this event, do attendees make resin or epoxy art?"),
+    "ART-CRAFT/KINTSUGI": (
+        DO,
         "Is this event about kintsugi, the Japanese art of mending pottery with gold?",
     ),
-    "CANDLE-MAKING": ("ART-CRAFT", "At this event, do attendees make candles?"),
-    "JEWELLERY-MAKING": (
-        "ART-CRAFT",
+    "ART-CRAFT/CANDLES": (DO, "At this event, do attendees make candles?"),
+    "ART-CRAFT/JEWELLERY": (
+        DO,
         "At this event, do attendees make wearable jewellery such as earrings, necklaces or bracelets?",
     ),
-    "PERFUMERY": (
-        "ART-CRAFT",
+    "ART-CRAFT/PERFUMERY": (
+        DO,
         "At this event, do attendees make perfume, soap or skincare products?",
     ),
-    "PLANTS": (
-        "ART-CRAFT",
+    "ART-CRAFT/PLANTS": (
+        DO,
         "Is this event about terrariums, gardening, plants or flower arranging?",
     ),
     "EXHIBITION": (
-        None,
+        WATCH,
         "Is this event an art, photography or design exhibition for visitors to view?",
     ),
     "PHOTOGRAPHY": (
-        None,
-        "Is this event about photography, such as a photo walk or photography class?",
+        DO,
+        "At this event, do attendees take photographs, such as on a photo walk or in a photography class?",
     ),
-    "THEATER": (
-        None,
-        "Is this event a theatre play, drama or puppetry performance, or a theatre or acting workshop?",
+    "FILMMAKING": (
+        DO,
+        "At this event, do attendees learn filmmaking, animation or video making?",
     ),
-    "IMPROV": (None, "Is this event improvisational theatre or improv comedy?"),
-    "STANDUP-COMEDY": (None, "Is this event a stand-up comedy show?"),
-    "OPEN-MIC": (
-        None,
-        "Is this event an open mic where attendees can sign up to perform?",
+    "SHOW": (WATCH, None),
+    "SHOW/THEATER": (
+        WATCH,
+        "Is this event a theatre play, drama or puppetry performance for an audience?",
     ),
-    "POETRY": (
-        None,
-        "Is this event about poetry, such as a reading, slam or poetry circle?",
-    ),
-    "STORYTELLING": (
-        None,
-        "Is this event a storytelling session, such as folk tales or personal stories told aloud, rather than stand-up comedy?",
-    ),
-    "MAGIC-SHOW": (None, "Is this event a magic or mentalism show?"),
-    "DANCE-PERFORMANCE": (
-        None,
+    "SHOW/DANCE": (
+        WATCH,
         "Is this event a dance performance for an audience, such as contemporary or classical Indian dance?",
     ),
+    "SHOW/STANDUP": (WATCH, "Is this event a stand-up comedy show?"),
+    "SHOW/IMPROV": (
+        WATCH,
+        "Is this event an improv comedy or improvised theatre show for an audience?",
+    ),
+    "SHOW/MAGIC": (WATCH, "Is this event a magic or mentalism show?"),
+    "SHOW/STORYTELLING": (
+        WATCH,
+        "Is this event a storytelling session, such as folk tales or personal stories told aloud, rather than stand-up comedy?",
+    ),
+    "SHOW/POETRY": (
+        WATCH,
+        "Is this event a poetry reading or recital, where poets perform for an audience?",
+    ),
+    "SHOW/PERFORMANCE-ART": (
+        WATCH,
+        "Is this event an experimental or multidisciplinary performance mixing movement, video, music or spoken word?",
+    ),
+    "ON-STAGE": (DO, None),
+    "ON-STAGE/OPEN-MIC": (
+        DO,
+        "Is this event an open mic where attendees can sign up to perform?",
+    ),
+    "ON-STAGE/ACTING": (
+        DO,
+        "At this event, do attendees act themselves, such as in a theatre or acting workshop?",
+    ),
+    "ON-STAGE/IMPROV": (
+        DO,
+        "At this event, do attendees do improv themselves, such as in an improv class or jam?",
+    ),
     "LIVE-MUSIC": (
-        None,
+        WATCH,
         "Is live music by musicians or a band the main attraction of this event?",
     ),
-    "INDIAN-CLASSICAL": (
-        "LIVE-MUSIC",
+    "LIVE-MUSIC/INDIAN-CLASSICAL": (
+        WATCH,
         "Is this event a Carnatic or Hindustani classical music performance?",
     ),
-    "JAZZ": ("LIVE-MUSIC", "Is this event a jazz performance?"),
-    "ROCK-METAL": ("LIVE-MUSIC", "Is this event a gig by a rock, metal or punk band?"),
-    "SUFI-QAWWALI": (
-        "LIVE-MUSIC",
+    "LIVE-MUSIC/JAZZ": (WATCH, "Is this event a jazz performance?"),
+    "LIVE-MUSIC/ROCK-METAL": (
+        WATCH,
+        "Is this event a gig by a rock, metal or punk band?",
+    ),
+    "LIVE-MUSIC/SUFI-QAWWALI": (
+        WATCH,
         "Is this event a sufi, qawwali or ghazal performance?",
     ),
-    "FOLK-MUSIC": ("LIVE-MUSIC", "Is this event a performance of folk music?"),
-    "DEVOTIONAL-MUSIC": (
-        "LIVE-MUSIC",
-        "Is this event a performance of kirtan, bhajans, chanting or other devotional music?",
+    "LIVE-MUSIC/FOLK": (WATCH, "Is this event a performance of folk music?"),
+    "LIVE-MUSIC/DEVOTIONAL": (
+        WATCH,
+        "Is devotion the main purpose of this event, like a kirtan, bhajan, satsang or chanting "
+        "session, rather than a concert of music with devotional roots, like qawwali?",
     ),
-    "DJ-NIGHT": (None, "Is this event a DJ set, club night or party?"),
-    "BOLLYWOOD-NIGHT": (
-        "DJ-NIGHT",
-        "Is this event a DJ night or party that plays Bollywood or other Indian film music?",
+    "LISTENING-SESSION": (
+        WATCH,
+        "Is this event an album or vinyl listening session?",
     ),
-    "KARAOKE": (None, "Is this event a karaoke night?"),
-    "JAM-SESSION": (
-        None,
+    "MUSIC-MAKING": (DO, None),
+    "MUSIC-MAKING/JAM": (
+        DO,
         "Is this event a music jam, sing-along or choir where attendees make music together?",
     ),
-    "LISTENING-SESSION": (None, "Is this event an album or vinyl listening session?"),
-    "MUSIC-LESSON": (None, "Is this event a class to learn an instrument or singing?"),
-    "MOVIE-SCREENING": (None, "Is a film or documentary screened at this event?"),
-    "SPORTS-SCREENING": (
+    "MUSIC-MAKING/LESSON": (
+        DO,
+        "Is this event a class to learn an instrument or singing?",
+    ),
+    "NIGHTLIFE": (None, None),
+    "NIGHTLIFE/DJ": (None, "Is this event a DJ set, club night or party?"),
+    "NIGHTLIFE/BOLLYWOOD": (
         None,
+        "Is this event a DJ night or party that plays Bollywood or other Indian film music?",
+    ),
+    "NIGHTLIFE/KARAOKE": (None, "Is this event a karaoke night?"),
+    "MOVIE-SCREENING": (WATCH, "Is a film or documentary screened at this event?"),
+    "SPORTS-SCREENING": (
+        WATCH,
         "Is this event a screening of a live sports broadcast for people to watch together?",
     ),
-    "F1-SCREENING": (
-        "SPORTS-SCREENING",
+    "SPORTS-SCREENING/F1": (
+        WATCH,
         "Is this event a screening of a Formula 1 Grand Prix broadcast?",
     ),
-    "FOOTBALL-SCREENING": (
-        "SPORTS-SCREENING",
+    "SPORTS-SCREENING/FOOTBALL": (
+        WATCH,
         "Is this event a screening of a football match broadcast?",
     ),
-    "CRICKET-SCREENING": (
-        "SPORTS-SCREENING",
-        "Is this event a screening of a cricket match broadcast?",
+    "SPORTS-SCREENING/CRICKET": (
+        WATCH,
+        "Is this event a screening of a cricket match broadcast, such as an IPL or international match?",
     ),
-    "IPL-SCREENING": (
-        "CRICKET-SCREENING",
-        "Is this event a screening of an IPL match broadcast?",
+    "LIVE-SPORTS": (
+        WATCH,
+        "At this event, do attendees watch a live sports match or fight in the stadium or arena?",
     ),
-    "BOARDGAMES": (
-        None,
+    "GAMES": (DO, None),
+    "GAMES/BOARDGAMES": (
+        DO,
         "At this event, do attendees play board games, card games or tabletop games?",
     ),
-    "SOCIAL-DEDUCTION": (
-        "BOARDGAMES",
+    "GAMES/SOCIAL-DEDUCTION": (
+        DO,
         "At this event, do attendees play social deduction games such as Mafia, Werewolf or Blood on the Clocktower?",
     ),
-    "TTRPG": (
-        "BOARDGAMES",
+    "GAMES/TTRPG": (
+        DO,
         "At this event, do attendees play tabletop role-playing games such as Dungeons & Dragons?",
     ),
-    "CHESS": (None, "Is this event about chess?"),
-    "QUIZZING": (None, "Is this event a quiz or trivia night?"),
-    "PUZZLES": (
-        None,
+    "GAMES/CHESS": (DO, "Is this event about chess?"),
+    "GAMES/QUIZ": (DO, "Is this event a quiz or trivia night?"),
+    "GAMES/PUZZLES": (
+        DO,
         "At this event, do attendees solve jigsaws, crosswords, Rubik's cubes or other puzzles?",
     ),
     "FITNESS": (
-        None,
+        DO,
         "Is this event a workout, sport or fitness session for attendees?",
     ),
-    "RUNNING": (
-        "FITNESS",
+    "FITNESS/RUNNING": (
+        DO,
         "At this event, do attendees go running, such as a run club, fun run or marathon?",
     ),
-    "CYCLING": ("FITNESS", "At this event, do attendees cycle, such as a group ride?"),
-    "YOGA": ("FITNESS", "Is this event a yoga session?"),
-    "PILATES": ("FITNESS", "Is this event a pilates session?"),
-    "MARTIAL-ARTS": (
-        "FITNESS",
+    "FITNESS/CYCLING": (
+        DO,
+        "At this event, do attendees cycle, such as a group ride?",
+    ),
+    "FITNESS/YOGA": (DO, "Is this event a yoga session?"),
+    "FITNESS/PILATES": (DO, "Is this event a pilates session?"),
+    "FITNESS/MARTIAL-ARTS": (
+        DO,
         "Is this event martial arts, boxing or self-defence training?",
     ),
-    "CLIMBING": (
-        "FITNESS",
+    "FITNESS/CLIMBING": (
+        DO,
         "At this event, do attendees climb, such as bouldering or wall climbing?",
     ),
-    "RACKET-SPORTS": (
-        "FITNESS",
+    "FITNESS/RACKET-SPORTS": (
+        DO,
         "At this event, do attendees play badminton, pickleball, padel, squash or tennis?",
     ),
-    "TEAM-SPORTS": (
-        "FITNESS",
+    "FITNESS/TEAM-SPORTS": (
+        DO,
         "At this event, do attendees play football, basketball, cricket or another team sport?",
     ),
-    "DANCE-CLASS": (
-        None,
-        "At this event, do attendees learn or practise dancing themselves, such as a dance class or social dance night?",
+    "DANCING": (
+        DO,
+        "At this event, do attendees dance themselves, such as a dance class or social dance night?",
     ),
-    "LATIN-DANCE": (
-        "DANCE-CLASS",
-        "At this event, do attendees dance salsa, bachata or another Latin dance?",
+    "DANCING/LATIN": (
+        DO,
+        "At this event, do attendees dance salsa, bachata, kizomba or another Latin dance?",
     ),
-    "GARBA": ("DANCE-CLASS", "At this event, do attendees dance garba or dandiya?"),
-    "ADVENTURE": (
-        None,
+    "DANCING/SWING-BALLROOM": (
+        DO,
+        "At this event, do attendees dance swing, lindy hop, tango, waltz or another ballroom dance?",
+    ),
+    "DANCING/BOLLYWOOD": (
+        DO,
+        "At this event, do attendees learn or dance Bollywood choreography?",
+    ),
+    "DANCING/HIPHOP": (
+        DO,
+        "At this event, do attendees dance hip-hop, street dance or K-pop choreography?",
+    ),
+    "DANCING/CONTEMPORARY": (
+        DO,
+        "At this event, do attendees dance contemporary, jazz dance or ballet?",
+    ),
+    "DANCING/INDIAN-CLASSICAL": (
+        DO,
+        "At this event, do attendees learn Bharatanatyam, Kathak or another Indian classical dance?",
+    ),
+    "DANCING/GARBA": (DO, "At this event, do attendees dance garba or dandiya?"),
+    "OUTDOORS": (DO, None),
+    "OUTDOORS/ADVENTURE": (
+        DO,
         "Is this event an adventure activity such as karting, paintball, kayaking, horse riding or shooting?",
     ),
-    "LIVE-SPORTS": (
-        None,
-        "At this event, do attendees watch a live sports match or fight in the stadium or arena?",
+    "OUTDOORS/HERITAGE-WALK": (
+        DO,
+        "Is this event a heritage, history or city walk or tour?",
     ),
-    "HERITAGE-WALK": (None, "Is this event a heritage, history or city walk or tour?"),
-    "NATURE-WALK": (
-        None,
+    "OUTDOORS/NATURE-WALK": (
+        DO,
         "Is this event a guided walk in nature, such as a tree, butterfly or lake walk?",
     ),
-    "BIRDING": ("NATURE-WALK", "Is this event birdwatching?"),
-    "TREK": (None, "Is this event a trek or hike?"),
-    "STARGAZING": (None, "Is this event about stargazing or astronomy?"),
-    "FOOD-TASTING": (
-        None,
+    "OUTDOORS/BIRDING": (DO, "Is this event birdwatching?"),
+    "OUTDOORS/TREK": (DO, "Is this event a trek or hike?"),
+    "OUTDOORS/STARGAZING": (DO, "Is this event about stargazing or astronomy?"),
+    "TASTING": (WATCH, None),
+    "TASTING/FOOD": (
+        WATCH,
         "Is this event a tasting menu, food pop-up, chef's table, food trail or special meal?",
     ),
-    "COOKING-CLASS": (None, "At this event, do attendees cook or bake in a class?"),
-    "COFFEE-TEA": (
-        None,
-        "Is this event about coffee or tea, such as brewing, tasting or latte art?",
+    "TASTING/DRINKS": (
+        WATCH,
+        "Is this event a wine, beer, whisky or other spirits tasting?",
     ),
-    "DRINKS-TASTING": (
-        None,
-        "Is this event a wine, beer, whisky or cocktail tasting or mixology session?",
+    "TASTING/COFFEE-TEA": (
+        WATCH,
+        "Is this event a coffee or tea tasting or cupping?",
     ),
-    "BOOK-CLUB": (None, "Is this event a book club or group reading session?"),
-    "AUTHOR-EVENT": (
-        None,
+    "COOKING": (DO, None),
+    "COOKING/CLASS": (DO, "At this event, do attendees cook or bake in a class?"),
+    "COOKING/MIXOLOGY": (
+        DO,
+        "At this event, do attendees mix cocktails or other drinks themselves?",
+    ),
+    "COOKING/COFFEE": (
+        DO,
+        "At this event, do attendees brew coffee or tea, or make latte art, themselves?",
+    ),
+    "BOOKS": (None, None),
+    "BOOKS/BOOK-CLUB": (DO, "Is this event a book club or group reading session?"),
+    "BOOKS/AUTHOR-TALK": (
+        WATCH,
         "Is this event a book launch, reading or signing by the book's author, or a conversation with them?",
     ),
-    "WRITING": (None, "Is this event a writing workshop or writing circle?"),
-    "SCIENCE": (None, "Is science the main subject of this event?"),
-    "TECH": (None, "Is technology, coding or AI the main subject of this event?"),
-    "HISTORY": (None, "Is history the main subject of this event?"),
-    "ENVIRONMENT": (
-        None,
-        "Is the environment, sustainability, climate or conservation the main subject of this event?",
-    ),
-    "FILMMAKING": (
-        None,
-        "At this event, do attendees learn filmmaking, animation or video making?",
-    ),
-    "DATING-MIXER": (None, "Is this event a singles mixer or dating event?"),
-    "STRANGERS-MEETUP": (
-        None,
+    "BOOKS/WRITING": (DO, "Is this event a writing workshop or writing circle?"),
+    "SOCIAL": (DO, None),
+    "SOCIAL/DATING-MIXER": (DO, "Is this event a singles mixer or dating event?"),
+    "SOCIAL/STRANGERS-MEETUP": (
+        DO,
         "Is this event a meetup whose stated purpose is for strangers to meet and make new friends?",
     ),
     "PETS": (None, "Is this event about pets or animals, such as a puppy meetup?"),
-    "MARKET": (None, "Is this event a flea market, bazaar, sale or pop-up market?"),
+    "MARKET": (
+        WATCH,
+        "Is this event a flea market, bazaar, sale or pop-up market?",
+    ),
     "KIDS": (
         None,
         "Is this event designed for children, rather than adults who may bring them along?",
     ),
-    "WOMEN-ONLY": (None, "Is this event open only to women?"),
-    "QUEER": (None, "Is this event a queer or LGBTQ+ event?"),
-    "PERFORMANCE-ART": (
-        None,
-        "Is this event an experimental or multidisciplinary performance mixing movement, video, music or spoken word?",
-    ),
+    "COUPLES": (None, "Is this event designed for couples or dates?"),
+    # Set only by rules, since who an event is for is not the model's call
+    "WOMEN-ONLY": (None, None),
+    "TECH": (None, "Is technology, coding or AI the main subject of this event?"),
     "BUSINESS/SKILLS": (
         None,
         "Is this event about running a business, marketing, entrepreneurship, design thinking or personal finance?",
     ),
-    "COUPLES": (None, "Is this event designed for couples or dates?"),
     "EXPO": (
         None,
         "Is this event a trade expo, education fair, property show or jewellery show selling to visitors?",
@@ -267,44 +329,52 @@ TAGS = {
 EXCLUDE = {"BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"}
 
 
+def parent(tag):
+    return tag.rpartition("/")[0] or None
+
+
 def with_parents(tags):
     out = set()
     for tag in tags:
         while tag:
             out.add(tag)
-            tag = TAGS[tag][0]
+            tag = parent(tag)
     return out
+
+
+# Tags the model is asked about
+QUESTIONS = {tag: q for tag, (_, q) in TAGS.items() if q}
 
 
 # Tuned on eight weeks of events against hand labels; every other tag uses 0.5
 THRESHOLDS = {
     "ART-CRAFT": 0.7,
-    "POTTERY": 0.7,
-    "CANDLE-MAKING": 0.85,
-    "JEWELLERY-MAKING": 0.3,
-    "PERFUMERY": 0.3,
-    "PLANTS": 0.75,
-    "THEATER": 0.7,
-    "STORYTELLING": 0.85,
-    "ROCK-METAL": 0.9,
-    "SUFI-QAWWALI": 0.75,
-    "FOLK-MUSIC": 0.8,
-    "DJ-NIGHT": 0.75,
-    "BOLLYWOOD-NIGHT": 0.75,
+    "ART-CRAFT/POTTERY": 0.7,
+    "ART-CRAFT/CANDLES": 0.85,
+    "ART-CRAFT/JEWELLERY": 0.3,
+    "ART-CRAFT/PERFUMERY": 0.3,
+    "ART-CRAFT/PLANTS": 0.75,
+    "SHOW/THEATER": 0.7,
+    "SHOW/STORYTELLING": 0.85,
+    "LIVE-MUSIC/ROCK-METAL": 0.9,
+    "LIVE-MUSIC/SUFI-QAWWALI": 0.75,
+    "LIVE-MUSIC/FOLK": 0.8,
+    "NIGHTLIFE/DJ": 0.75,
+    "NIGHTLIFE/BOLLYWOOD": 0.75,
     "MOVIE-SCREENING": 0.8,
-    "PUZZLES": 0.7,
+    "GAMES/PUZZLES": 0.7,
     "FITNESS": 0.85,
-    "TEAM-SPORTS": 0.8,
-    "ADVENTURE": 0.75,
-    "NATURE-WALK": 0.75,
-    "FOOD-TASTING": 0.3,
-    "COOKING-CLASS": 0.3,
-    "COFFEE-TEA": 0.7,
-    "DRINKS-TASTING": 0.35,
-    "AUTHOR-EVENT": 0.9,
+    "FITNESS/TEAM-SPORTS": 0.8,
+    "OUTDOORS/ADVENTURE": 0.75,
+    "OUTDOORS/NATURE-WALK": 0.75,
+    "TASTING/FOOD": 0.3,
+    "COOKING/CLASS": 0.3,
+    "TASTING/COFFEE-TEA": 0.7,
+    "TASTING/DRINKS": 0.35,
+    "BOOKS/AUTHOR-TALK": 0.9,
     "PETS": 0.7,
-    "STRANGERS-MEETUP": 0.9,
-    "PERFORMANCE-ART": 0.8,
+    "SOCIAL/STRANGERS-MEETUP": 0.9,
+    "SHOW/PERFORMANCE-ART": 0.8,
     "BUSINESS/SKILLS": 0.7,
     "COUPLES": 0.7,
     # Demoting tags hide events, so they need more certainty
