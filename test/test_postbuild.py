@@ -186,3 +186,18 @@ def test_urbanaut_hosts_skip_curation(tmp_path):
     got = postbuild(events, tmp_path / "events.db")
     skipped = [url for url, e in got.items() if "-CURATED" in e["keywords"]]
     assert skipped == [events[i]["url"] for i in (1, 2, 3, 5)]
+
+
+def test_certification_courses_are_business(tmp_path):
+    url = "https://allevents.in/bangalore/leading-safe-60-scaled-agilist-certification-training-in-worcester-ma/100001996177936945"
+    safe = {
+        "url": url,
+        "name": "Leading SAFe 6.0 (Scaled Agilist) Certification Training in Worcester, MA",
+        "keywords": ["ALLEVENTS"],
+        "location": {"name": "Regus Business Center", "address": {"addressLocality": "Bangalore"}},
+        "organizer": [{"@type": "Organization", "name": "Lean Education Inc."}],
+    }
+    pmp = safe | {"url": "https://allevents.in/x/1", "name": "PMP Bootcamp"}
+    got = postbuild([safe, pmp], tmp_path / "events.db")
+    assert "BUSINESS" in got[url]["keywords"]
+    assert "BUSINESS" in got["https://allevents.in/x/1"]["keywords"]

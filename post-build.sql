@@ -686,6 +686,9 @@ WHERE
   OR lower(event_json ->> '$.organizer.name') LIKE '%exhibition%'
   OR event_json ->> '$.name' LIKE '%lifestyle exhibition%'
   OR event_json ->> '$.name' LIKE '%study abroad%'
+  OR event_json ->> '$.name' LIKE '%certification training%'
+  -- Lists one course in 700 cities, with a list of organizers that dodges the names above
+  OR event_json ->> '$.organizer' LIKE '%Lean Education Inc%'
   OR event_json ->> '$.name' LIKE '%education fair%'
   OR (
     -- Hustle Business Venue in HSR
