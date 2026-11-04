@@ -89,6 +89,7 @@ def test_club_nights_are_hidden():
         "KARAOKE",
         "LOW-QUALITY",
     }
+    assert event_tags({"name": "AI meetup"}, {"TECH": 0.9}) == {"BUSINESS"}
     pilates = event_tags({"name": "Reformer Pilates"}, {})
     assert pilates == {"PILATES", "FITNESS", "-CURATED"}
 

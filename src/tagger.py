@@ -43,7 +43,10 @@ DEMOTE = {
     "PILATES": "-CURATED",
     "TRIP": "NOTINBLR",
     "BUSINESS/SKILLS": "BUSINESS",
+    "TECH": "BUSINESS",
 }
+# Demoted without a trace, since the tag itself is not worth showing
+REPLACED = {"TECH"}
 CACHE = Path.home() / ".cache" / "ingest-activities.sqlite"
 SCREENING = r"\b(screening|live on|watch party|screened)\b"
 RULES = [
@@ -209,7 +212,7 @@ def event_tags(event, answers):
     # Game nights pass as plays on BMS, and as stranger meetups by their pitch
     if "BOARDGAMES" in tags:
         tags -= {"THEATER", "STRANGERS-MEETUP"}
-    return tags | {DEMOTE[t] for t in tags if t in DEMOTE}
+    return (tags | {DEMOTE[t] for t in tags if t in DEMOTE}) - REPLACED
 
 
 def main():
