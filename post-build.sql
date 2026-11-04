@@ -240,6 +240,9 @@ WHERE
     -- Breathwork, ice baths and "reset rituals"
     OR event_json ->> '$.organizer.name' LIKE '%soundsutraa%'
     OR event_json ->> '$.name' LIKE '%family constellation%'
+    OR event_json ->> '$.name' LIKE '%nervous system%'
+    OR event_json ->> '$.name' LIKE '%sound alchemy%'
+    OR event_json ->> '$.description' LIKE '%nervous system regulation%'
     -- https://urbanaut.app/about-healclinicin: "9 Devi energies" healing days
     OR event_json ->> '$.organizer.name' LIKE '%healclinic%'
     OR event_json ->> '$.organizer.url' LIKE '%/partner/healclinicin%'
@@ -695,6 +698,8 @@ WHERE
     -- karnataka trade promotion organization 
     -- https://ktpo.karnataka.gov.in/english
     OR event_json ->> '$.keywords' LIKE '%KTPO%'
+    -- Company conferences, like Groww Next
+    OR lower(event_json ->> '$.organizer.name') LIKE 'billionbrains%'
     OR (
       url LIKE '%in.bookmyshow.com%'
       AND (
@@ -966,6 +971,51 @@ WHERE
   OR event_json ->> '$.name' LIKE '%table for 2%'
   OR event_json ->> '$.location.name' LIKE '%doubletree by hilton%'
   OR event_json ->> '$.location.name' LIKE '1882 restaurant%'
+  -- Hotels and pub groups list brunches, set meals and bar nights
+  OR lower(event_json ->> '$.organizer.name') LIKE 'chalet hotels%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'nitesh residency hotels%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'sherlocks pubs%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'byg ventures%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'cheers hospitality%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'kick off kitchens%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'hyphening marketing%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'deluxe caterers%'
+  OR lower(event_json ->> '$.organizer.name') LIKE 'culinaryquest%'
+  OR (
+    event_json ->> '$.name' LIKE '%brunch%'
+    AND (
+      url LIKE '%district.in/%'
+      OR url LIKE 'https://in.bookmyshow.com/%'
+      OR url LIKE '%highape.com/%'
+      OR url LIKE 'https://allevents.in/%'
+    )
+    AND event_json ->> '$.name' NOT LIKE '%yoga%'
+    AND event_json ->> '$.name' NOT LIKE '%workshop%'
+    AND event_json ->> '$.name' NOT LIKE '%stories%'
+    AND event_json ->> '$.name' NOT LIKE '%kid%'
+  )
+  -- Sing-along nights, stranger socials and paid assessment camps
+  OR (
+    event_json ->> '$.name' LIKE '%jamming%'
+    AND event_json ->> '$.name' NOT LIKE '%workshop%'
+    AND event_json ->> '$.name' NOT LIKE '%poetry%'
+  )
+  OR event_json ->> '$.name' LIKE 'blend in:%'
+  OR lower(event_json ->> '$.organizer.name') LIKE '%hearing and speech%'
+  -- Bloom hosts good shows, but also a craft menu
+  OR (
+    event_json ->> '$.location.name' LIKE 'bloom %'
+    AND (
+      event_json ->> '$.name' LIKE '%hobby ghar%'
+      OR event_json ->> '$.name' LIKE '%painting%'
+      OR event_json ->> '$.name' LIKE '%resin%'
+      OR event_json ->> '$.name' LIKE '%crochet%'
+      OR event_json ->> '$.name' LIKE '%candle%'
+      OR event_json ->> '$.name' LIKE '%clay%'
+      OR event_json ->> '$.name' LIKE '%texture%'
+      OR event_json ->> '$.name' LIKE '%soap%'
+    )
+  )
 ;
 
 
@@ -997,11 +1047,12 @@ WHERE
     OR event_json ->> '$.location.name' LIKE 'storyzone%'
     OR event_json ->> '$.location.name' LIKE 'espressoulster%'
     OR event_json ->> '$.location.name' LIKE 'dialogues cafe%'
+    OR event_json ->> '$.location.name' LIKE 'thirdspace%'
     OR event_json ->> '$.location.name' LIKE 'uru %'
     OR event_json ->> '$.location.name' LIKE '% social: bengaluru%'
     -- The same craft set toured across bars
     OR event_json ->> '$.name' LIKE 'trinket tray workshop%'
-    OR event_json ->> '$.name' LIKE 'bedazzle%'
+    OR event_json ->> '$.name' LIKE '%bedazzl%'
     OR event_json ->> '$.name' LIKE 'sip and clay%'
   )
   AND event_json ->> '$.name' NOT LIKE '%botc%'
@@ -1562,6 +1613,16 @@ SET
 WHERE
   event_json ->> '$.name' LIKE '%eleven am club%'
   AND coalesce(event_json ->> '$.@type', 'Event') = 'Event';
+
+-- Every copy is -CURATED, so the merged event keeps it
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', '-CURATED')
+  )
+WHERE event_json ->> '$.name' LIKE '%eleven am club%';
 
 DELETE FROM events WHERE event_json->> '$.location' LIKE '%andhra pradesh%';
 
