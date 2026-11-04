@@ -42,6 +42,15 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%small world%'
   OR event_json ->> '$.description' GLOB '*Small World*'
   OR url = 'https://in.bookmyshow.com/events/couple-dance-workshop/ET00417785'
+  
+  -- If you're paying someone to listen, please find a counseller
+  -- I consider these scam events.
+  OR lower(event_json ->> '$.name') LIKE 'openup with %'
+  OR lower(event_json ->> '$.name') LIKE '%gift of listening%'
+  OR lower(event_json ->> '$.name') LIKE '%art of listening%'
+  OR lower(event_json ->> '$.name') LIKE '%listening table%'
+  OR lower(event_json ->> '$.name') LIKE '%hug therapy%'
+
   -- These look like Small World events at Social venues
   -- But even if they aren't, the reviews are very bad.
   -- And sound exactly like the Small world reviews
