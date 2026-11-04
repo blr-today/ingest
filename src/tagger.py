@@ -47,6 +47,8 @@ DEMOTE = {
 }
 # Demoted without a trace, since the tag itself is not worth showing
 REPLACED = {"TECH"}
+# These outlets rerun mass-produced craft sessions, but host good gigs too
+CRAFT_SPAM_VENUES = ("koramangala social", "indiranagar social")
 CACHE = Path.home() / ".cache" / "ingest-activities.sqlite"
 SCREENING = r"\b(screening|live on|watch party|screened)\b"
 RULES = [
@@ -212,6 +214,9 @@ def event_tags(event, answers):
     # Game nights pass as plays on BMS, and as stranger meetups by their pitch
     if "BOARDGAMES" in tags:
         tags -= {"THEATER", "STRANGERS-MEETUP"}
+    venue = (state(event)["event"]["venue"] or "").lower()
+    if "ART-CRAFT" in tags and venue.startswith(CRAFT_SPAM_VENUES):
+        tags.add("LOW-QUALITY")
     return (tags | {DEMOTE[t] for t in tags if t in DEMOTE}) - REPLACED
 
 

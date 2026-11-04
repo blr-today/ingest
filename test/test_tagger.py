@@ -90,6 +90,9 @@ def test_club_nights_are_hidden():
         "LOW-QUALITY",
     }
     assert event_tags({"name": "AI meetup"}, {"TECH": 0.9}) == {"BUSINESS"}
+    social = {"name": "Resin Geode Art Date", "location": {"name": "Koramangala Social"}}
+    assert "LOW-QUALITY" in event_tags(social, {"ART-CRAFT": 0.9})
+    assert "LOW-QUALITY" not in event_tags(social | {"name": "Gig"}, {})
     pilates = event_tags({"name": "Reformer Pilates"}, {})
     assert pilates == {"PILATES", "FITNESS", "-CURATED"}
 
