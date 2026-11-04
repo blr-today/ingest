@@ -97,6 +97,8 @@ WHERE
 ,   'https://map-india.org/map-events/training-course-in-conservation-of-photographs-in-museums-archives-and-collections/'
     -- Multi-outlet bar promotion, not an event
 ,   'https://puttingscene.com/events/J8GZJF'
+    -- AllEvents-only concert with no organiser or price
+,   'https://allevents.in/bangalore/dhvani-bhanushali-live-in-bengaluru/3900030555036325'
     -- Board Games Eve (ET00510343) lists every session of these
 ,   'https://in.bookmyshow.com/activities/board-game-night/ET00467180'
 ,   'https://in.bookmyshow.com/activities/board-games-night/ET00482309'
