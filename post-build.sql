@@ -138,8 +138,11 @@ WHERE
   -- Low-quality Bangalore events or trips to outside BLR
   -- https://urbanaut.app/about-travel-trip-tourist
   OR event_json ->> '$.organizer.name' LIKE 'Travel Trip Tourist'
-  -- Coworking is not events.
-  OR event_json ->> 'name' LIKE '%Co-Working%'
+  -- Coworking is not events, but Sofar names secret venues by type
+  OR (
+    event_json ->> 'name' LIKE '%Co-Working%'
+    AND url NOT LIKE 'https://www.sofarsounds.com/%'
+  )
   -- Advertisement for Rage Room Indiranagar
   OR url LIKE '%rage-room%'
   -- Social Mixers category on district
@@ -1015,7 +1018,11 @@ WHERE
   AND event_json ->> '$.name' NOT LIKE '%library%'
   AND event_json ->> '$.name' NOT LIKE '%charcha%'
   AND event_json ->> '$.name' NOT LIKE '%talk%'
-  AND event_json ->> '$.name' NOT LIKE '%listening%';
+  AND event_json ->> '$.name' NOT LIKE '%listening%'
+  AND event_json ->> '$.name' NOT LIKE '%science%'
+  AND event_json ->> '$.name' NOT LIKE '%poetry%'
+  AND event_json ->> '$.name' NOT LIKE '%storytelling%'
+  AND event_json ->> '$.name' NOT LIKE '%writing%';
 
 
 -- Secret Story music nights
