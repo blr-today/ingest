@@ -104,6 +104,10 @@ WHERE
 ,   'https://in.bookmyshow.com/activities/board-games-night/ET00482309'
   );
 
+-- An AllEvents test account that lists family get-togethers
+DELETE FROM events
+WHERE event_json ->> '$.organizer.name' = '1234556789';
+
 -- Season tickets and memberships are not events
 -- e.g. https://www.district.in/events/isl-2026-27-bengaluru-fc-membership-pass-buy-tickets
 DELETE FROM events
@@ -712,6 +716,8 @@ WHERE
     -- karnataka trade promotion organization 
     -- https://ktpo.karnataka.gov.in/english
     OR event_json ->> '$.keywords' LIKE '%KTPO%'
+    -- Marathi Connect's monthly professionals conference
+    OR lower(event_json ->> '$.organizer.name') LIKE 'bangalore marathi%'
     -- Company conferences, like Groww Next
     OR lower(event_json ->> '$.organizer.name') LIKE 'billionbrains%'
     OR (
@@ -1008,6 +1014,25 @@ WHERE
     AND event_json ->> '$.name' NOT LIKE '%stories%'
     AND event_json ->> '$.name' NOT LIKE '%kid%'
   )
+  -- Free or unpriced Hard Rock nights are music to drink to; ticketed gigs stay
+  OR (
+    (
+      lower(event_json ->> '$.location.name') LIKE 'hard rock cafe%'
+      OR lower(event_json ->> '$.location.name') LIKE 'hardrock cafe%'
+    )
+    AND (
+      event_json ->> '$.keywords' LIKE '%"FREE"%'
+      OR (
+        event_json ->> '$.keywords' NOT LIKE '%"BUDGET"%'
+        AND event_json ->> '$.keywords' NOT LIKE '%"PRICEY"%'
+      )
+    )
+  )
+  OR lower(event_json ->> '$.location.name') LIKE 'native bar%'
+  -- Shop and service ads posing as events
+  OR lower(event_json ->> '$.organizer.name') LIKE 'bini designer boutique%'
+  OR lower(event_json ->> '$.name') LIKE 'bini designer boutique%'
+  OR lower(event_json ->> '$.organizer.name') = 'north indian pandit in bangalore'
   -- Sing-along nights, stranger socials and paid assessment camps
   OR (
     event_json ->> '$.name' LIKE '%jamming%'
