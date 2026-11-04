@@ -88,6 +88,9 @@ WHERE
 ,   'https://map-india.org/map-events/training-course-in-conservation-of-photographs-in-museums-archives-and-collections/'
     -- Multi-outlet bar promotion, not an event
 ,   'https://puttingscene.com/events/J8GZJF'
+    -- Board Games Eve (ET00510343) lists every session of these
+,   'https://in.bookmyshow.com/activities/board-game-night/ET00467180'
+,   'https://in.bookmyshow.com/activities/board-games-night/ET00482309'
   );
 
 -- Season tickets and memberships are not events
