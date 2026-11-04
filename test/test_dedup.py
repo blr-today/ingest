@@ -151,7 +151,9 @@ def test_instagram_posts_match_across_url_forms():
         "https://instagram.com/reel/DUVqs5OEnwS",
         "https://www.instagram.com/af_bangalore/p/DUVqs5OEnwS/",
     ]:
-        assert is_duplicate({"name": "Other", "url": "https://a.in/1", "sameAs": link}, ours)
+        assert is_duplicate(
+            {"name": "Other", "url": "https://a.in/1", "sameAs": link}, ours
+        )
     assert rank("https://www.instagram.com/p/x/") == len(RANKED)
 
 
@@ -262,7 +264,10 @@ def test_offers_are_kept_once_per_price():
 
 
 def test_merge_keeps_venue_listings_curated():
-    skipped = {"url": "https://urbanaut.app/spot/a", "keywords": ["URBANAUT", "-CURATED"]}
+    skipped = {
+        "url": "https://urbanaut.app/spot/a",
+        "keywords": ["URBANAUT", "-CURATED"],
+    }
     venue = {"url": "https://attagalatta.com/a", "keywords": ["ATTAGALATTA"]}
     merge(venue, dict(skipped), skipped["url"])
     assert venue["keywords"] == ["ATTAGALATTA", "URBANAUT"]
@@ -297,7 +302,9 @@ def test_merge_combines_listings():
 
 def test_merge_keeps_identifier_with_its_source():
     kept = {"url": "https://highape.com/a"}
-    merge(kept, {"url": "https://skillboxes.com/b", "identifier": "com.skillboxes.1"}, "b")
+    merge(
+        kept, {"url": "https://skillboxes.com/b", "identifier": "com.skillboxes.1"}, "b"
+    )
     assert "identifier" not in kept
 
 
@@ -455,3 +462,16 @@ def test_dedup_merges_one_show_listed_minutes_apart(tmp_path):
     events = run(tmp_path, [(e["url"], e) for e in rows])
     assert sorted(u[-1] for u in events) == ["a", "c", "d"]
     assert events[rows[0]["url"]]["sameAs"] == [rows[1]["url"]]
+
+
+def test_dedup_merges_one_show_listed_by_two_organisers(tmp_path):
+    start = {"startDate": "2026-11-21T20:00:00+05:30"}
+    venue = "The Comedy Theatre : Church Street"
+    a = listing("Abijit Ganguly Live", venue, 12.97, 77.6) | start
+    b = a | {"url": "https://www.district.in/events/abijit-ganguly-nov21"}
+    b = b | {"organizer": {"name": "Abijit Ganguly"}}
+    c = listing("Other Show", venue, 12.97, 77.6) | start
+    c["organizer"] = {"name": "Someone Else"}
+    events = run(tmp_path, [(e["url"], e) for e in (a, b, c)])
+    assert sorted(events) == sorted([a["url"], c["url"]])
+    assert events[a["url"]]["sameAs"] == [b["url"]]

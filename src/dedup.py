@@ -179,6 +179,12 @@ def same_lineup(a, b):
     return bool(venue) and venue == text_of(b, "location")
 
 
+def same_title(a, b):
+    # One site can list a show twice, under two organiser accounts
+    name = compact(a.get("name", ""))
+    return bool(name) and name == compact(b.get("name", "")) and same_place(a, b)
+
+
 def name_session(event, names):
     event["name"] = f"{names[0]} and {len(names) - 1} more"
     choices = "Choose from: " + "; ".join(names) + "."
@@ -345,17 +351,14 @@ def dedup(db_path="events.db"):
                         or one_room(k[2])
                         and one_room(row[2])
                         or same_lineup(k[2], row[2])
+                        or same_title(k[2], row[2])
                     )
                     and is_duplicate(k[2], row[2])
                 ),
                 None,
             )
             session = not match and next(
-                (
-                    k
-                    for k in kept
-                    if same_session(k[2], row[2])
-                ),
+                (k for k in kept if same_session(k[2], row[2])),
                 None,
             )
             if session:
