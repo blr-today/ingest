@@ -1,5 +1,44 @@
 [
   {
+    "name": "SIS x Flamingo - Jiu Jitsu Workshop",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-JiuJitsu",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-JiuJitsu",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "800",
+        "priceCurrency": "INR"
+      }
+    ],
+    "image": "https://sistersinsweat.com/api/media/file/SIS_Bangalore_15-Nov-2026_Website-Listing-1.png",
+    "location": {
+      "name": "Flamingo ",
+      "address": "2630, 4th floor, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+      "@type": "Place"
+    },
+    "startDate": "2026-11-15T09:00:00+05:30",
+    "endDate": "2026-11-15T10:30:00+05:30"
+  },
+  {
     "name": "SIS x Si Nonna's - Pizza Making Workshop",
     "@type": "FoodEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Pizzamaking-Workshop",
@@ -1007,45 +1046,6 @@
       "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
       "@type": "Place"
     },
-    "startDate": "2026-11-05T19:30:00+05:30"
-  },
-  {
-    "name": "Women's Beginner Football Coaching- Jakkur",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "500",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Jakkur.webp",
-    "location": {
-      "name": "The Shri Ram Universal School, Jakkur",
-      "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
-      "@type": "Place"
-    },
     "startDate": "2026-11-12T19:30:00+05:30"
   },
   {
@@ -1127,9 +1127,9 @@
     "startDate": "2026-11-26T19:30:00+05:30"
   },
   {
-    "name": "Sisters & Misters Football Game Day",
+    "name": "Women's Beginner Football Coaching- Jakkur",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -1147,140 +1147,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "305",
+        "price": "500",
         "priceCurrency": "INR"
       }
     ],
     "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Jakkur.webp",
     "location": {
-      "name": "SUFC, Ulsoor",
-      "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
+      "name": "The Shri Ram Universal School, Jakkur",
+      "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
       "@type": "Place"
     },
-    "startDate": "2026-11-06T07:00:00+05:30"
-  },
-  {
-    "name": "Sisters & Misters Football Game Day",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "305",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
-    "location": {
-      "name": "SUFC, Ulsoor",
-      "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
-      "@type": "Place"
-    },
-    "startDate": "2026-11-13T07:00:00+05:30"
-  },
-  {
-    "name": "Sisters & Misters Football Game Day",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "305",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
-    "location": {
-      "name": "SUFC, Ulsoor",
-      "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
-      "@type": "Place"
-    },
-    "startDate": "2026-11-20T07:00:00+05:30"
-  },
-  {
-    "name": "Sisters & Misters Football Game Day",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "305",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
-    "location": {
-      "name": "SUFC, Ulsoor",
-      "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
-      "@type": "Place"
-    },
-    "startDate": "2026-11-27T07:00:00+05:30"
+    "startDate": "2026-12-03T19:30:00+05:30"
   },
   {
     "name": "Women's Beginner Basketball Coaching",
