@@ -296,5 +296,99 @@
     ],
     "startDate": "2026-12-05T20:00:00+05:30",
     "url": "https://www.total-environment.com/music-and-events/rouge-hyd"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "description": "Rooted in Indian classical traditions while embracing contemporary influences,\nAmritha approaches music as a space for exploration and reinvention. Her debut\nsingle, Afterword (2020), brought together Bharathiyaar’s poetry and\ncontemporary composition, reflecting her distinctive musical sensibility.\nThrough her performances and collaborations, she continues to explore the\nintersections of tradition and modern expression, creating a sound that is\nboth rooted and forward-looking.",
+    "eventStatus": "EventScheduled",
+    "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/amritha_B7026.jpg",
+    "keywords": [
+      "Singer Songwriter",
+      "WINDMILLS"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "India",
+        "addressLocality": "Whitefield",
+        "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+      },
+      "name": "Windmills Craftworks"
+    },
+    "name": "Windmills Music Night - Amritha Thankachy Live! - BLR",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Standing",
+        "price": 999,
+        "priceCurrency": "INR"
+      },
+      {
+        "@type": "Offer",
+        "name": "Seating",
+        "price": null,
+        "priceCurrency": "INR"
+      }
+    ],
+    "performer": [
+      {
+        "@type": "MusicGroup",
+        "description": "",
+        "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/amritha_6DA3F.jpg",
+        "name": "Amritha Thankachy Live!",
+        "url": "https://www.youtube.com/watch?v=lqWuzG2bCXI "
+      }
+    ],
+    "startDate": "2026-12-04T21:30:00+05:30",
+    "url": "https://www.total-environment.com/music-and-events/amritha-thankachy-live-blr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "description": "Rooted in Indian classical traditions while embracing contemporary influences,\nAmritha approaches music as a space for exploration and reinvention. Her debut\nsingle, Afterword (2020), brought together Bharathiyaar’s poetry and\ncontemporary composition, reflecting her distinctive musical sensibility.\nThrough her performances and collaborations, she continues to explore the\nintersections of tradition and modern expression, creating a sound that is\nboth rooted and forward-looking.",
+    "eventStatus": "EventScheduled",
+    "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/amritha_B7026.jpg",
+    "keywords": [
+      "Singer Songwriter",
+      "WINDMILLS"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "India",
+        "addressLocality": "Whitefield",
+        "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+      },
+      "name": "Windmills Craftworks"
+    },
+    "name": "Windmills Music Night - Amritha Thankachy Live! - BLR",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Standing",
+        "price": 999,
+        "priceCurrency": "INR"
+      },
+      {
+        "@type": "Offer",
+        "name": "Seating",
+        "price": null,
+        "priceCurrency": "INR"
+      }
+    ],
+    "performer": [
+      {
+        "@type": "MusicGroup",
+        "description": "",
+        "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/amritha_6DA3F.jpg",
+        "name": "Amritha Thankachy Live!",
+        "url": "https://www.youtube.com/watch?v=lqWuzG2bCXI "
+      }
+    ],
+    "startDate": "2026-12-05T21:30:00+05:30",
+    "url": "https://www.total-environment.com/music-and-events/amritha-thankachy-live-blr"
   }
 ]

@@ -337,6 +337,7 @@
     "url": "https://quantum.scigalleryblr.org/programmes?p=back-to-school",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "35",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FDSC08404%20Large.jpg-1793859478565?alt=media&token=22c02b87-4dc6-490e-86cb-2dec1dc613e2",
     "performer": [
       {
         "@type": "Person",
@@ -393,5 +394,22 @@
         "name": "Divya Chalapathi"
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Namma Oota",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/38ymnBJ1czdC34MD9"
+    },
+    "startDate": "2026-11-21T10:30:00+05:30",
+    "endDate": "2026-11-21T20:00:00+05:30",
+    "description": "More details coming soon.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=namma-oota-1",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FNamma%20Oota%20Open%20Call_Web%20banner.jpeg-1793861133294?alt=media&token=926806eb-1efa-47e7-9e6c-53fa53c7a8d7"
   }
 ]
