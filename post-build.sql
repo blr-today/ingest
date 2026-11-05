@@ -1823,6 +1823,80 @@ WHERE
   );
 
 
+-- Diwali parties are house parties for strangers, and Offlyn's party and mixer
+-- listings are the same thing; the Offlyn calendar still lists them
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  event_json ->> '$.name' LIKE '%diwali%'
+  AND (
+    event_json ->> '$.name' LIKE '%house party%'
+    OR event_json ->> '$.description' LIKE '%house party%'
+    OR (
+      url LIKE 'https://offlyn.life/%'
+      AND (
+        event_json ->> '$.name' LIKE '%party%'
+        OR event_json -> '$.keywords' LIKE '%"Party"%'
+        OR event_json -> '$.keywords' LIKE '%"Social Mixer"%'
+      )
+    )
+  );
+
+-- Offlyn hosts whose events are only for women
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'WOMEN-ONLY')
+  )
+WHERE
+  event_json ->> '$.organizer.name' IN ('Girly-Verse', 'City Girls Bangalore', 'The Wildflower Circle');
+
+-- Offlyn hosts who run talks, screenings and swaps rather than paid mixers
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'CURATED')
+  )
+WHERE
+  url LIKE 'https://offlyn.life/%'
+  AND (
+    event_json ->> '$.organizer.name' IN ('Pint of View', 'Swapbook!', 'Useful Philosophy')
+    OR event_json ->> '$.organizer.name' LIKE 'the*spark%'
+    OR event_json ->> '$.organizer.name' LIKE 'Blr Reader_s Society'
+  );
+
+-- Singles mixers, and paid design thinking bootcamps sold as workshops
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  url LIKE 'https://offlyn.life/%'
+  AND event_json -> '$.keywords' LIKE '%"Dating / Singles Mixer"%';
+
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'BUSINESS')
+  )
+WHERE
+  event_json ->> '$.organizer.name' LIKE '%primate advisory%';
+
+
 -- Rules above append without checking, so drop repeated tags last
 UPDATE events
 SET

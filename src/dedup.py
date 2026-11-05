@@ -16,6 +16,7 @@ AGGREGATORS = [
     "highape.com",
     "skillboxes.com",
     "in.bookmyshow.com",
+    "offlyn.life",
 ]
 CURATORS = [
     "puttingscene.com",

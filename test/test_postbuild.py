@@ -201,3 +201,35 @@ def test_certification_courses_are_business(tmp_path):
     got = postbuild([safe, pmp], tmp_path / "events.db")
     assert "BUSINESS" in got[url]["keywords"]
     assert "BUSINESS" in got["https://allevents.in/x/1"]["keywords"]
+
+
+def test_offlyn_curation(tmp_path):
+    def listing(slug, host, name, keywords=(), description=""):
+        return {
+            "url": f"https://offlyn.life/e/{slug}",
+            "name": name,
+            "description": description,
+            "organizer": {"@type": "Organization", "name": host},
+            "keywords": ["OFFLYN", *keywords],
+        }
+
+    events = [
+        listing("a", "Couch Potato", "Diwali House Party", ["Party"]),
+        listing("b", "Prakriti", "Ghar Waali Diwali", ["Social Mixer"]),
+        listing("c", "akanksha", "Dhikchik Diwali", ["Networking"], "a little Diwali house party at my place"),
+        listing("d", "The Art Nook", "The Diwali Edit", ["Workshop"]),
+        listing("e", "Girly-Verse", "Potluck", ["Party"]),
+        listing("f", "Pint of View", "Lecture #124", ["Talk / Panel"]),
+        listing("g", "Varun", "Sway", ["Dating / Singles Mixer"]),
+        listing("h", "Vantage Point 78 by Primate Advisory", "Design Thinking Bootcamp"),
+    ]
+    club = {"url": "https://highape.com/x", "name": "Diwali Party", "keywords": ["HIGHAPE"]}
+    got = postbuild(events + [club], tmp_path / "events.db")
+
+    def tagged(tag):
+        return [url[-1] for url, e in got.items() if tag in e["keywords"]]
+
+    assert tagged("LOW-QUALITY") == ["a", "b", "c", "g"]
+    assert tagged("WOMEN-ONLY") == ["e"]
+    assert tagged("CURATED") == ["f"]
+    assert tagged("BUSINESS") == ["h"]
