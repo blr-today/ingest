@@ -377,41 +377,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Rajesh Krishnan in Bengaluru",
-    "image": "https://cdn-az.allevents.in/events8/banners/faaa38e0-cabf-11f1-87af-a5fe78201b78-rimg-w640-h640-dcd8d898-gmir.jpg?v=1792306134",
-    "startDate": "2026-11-06T18:00:00+05:30",
-    "endDate": "2026-11-06T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/rajesh-krishnan-in-bengaluru/3300030850744754",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "KLE Society's Degree College, Nagarabhavi",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "KLE Society's Degree College, Nagarabhavi, Bangalore, KA, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.971598625183",
-        "longitude": "77.594566345215"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🎶 Don't Miss Rajesh Krishnan Live in Bangalore on Friday, November 6, 2026! 🎶\nAre you ready to experience Rajesh Krishnan like never before? With chart-topping hits like Bisilu Kudureyondu, Nooru Janmaku (From \"America America\") and Nuvante Nakistamani and 531.2K+ devoted fans, Rajesh Krishnan is",
-    "performer": [
-      {
-        "@type": "MusicGroup",
-        "name": "Rajesh Krishnan",
-        "url": "https://allevents.in/performer/rajesh-krishnan"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "DIDAC INDIA",
     "image": "https://dyn-image.allevents.in/generate-image?v=4&title=DIDAC+INDIA&date=Tue%2C+24+Nov%2C+2026+at+06%3A30+pm&bg=5",
@@ -721,6 +686,45 @@
         "availabilityEnds": "2026-11-13T13:45:00+05:30",
         "validFrom": "2026-10-29",
         "url": "https://allevents.in/bangalore/popourrie-a-childrens-festival/3900030934339515"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Taylor Swift's: The Eras Night 3.0",
+    "image": "https://cdn-az.allevents.in/events9/banners/3419dc20-d97f-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc281818-gmir.jpg?v=1793927584",
+    "startDate": "2026-12-06T16:00:00+05:30",
+    "endDate": "2026-12-06T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/taylor-swifts-the-eras-night-30/3900030942334746",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Yeda Republic: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100, 4th B Cross Road, Nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.934352",
+        "longitude": "77.615547"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Swifties, we`re doing it again.The Eras Night is back for its third edition, bringing together every era, every fan favourite, the deep cuts, the bridges we scream a little too loudly, and all the songs that have somehow become part of our lives.We`ve been hosting Taylor nights across India for the",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-31",
+        "availabilityEnds": "2026-12-06T19:00:00+05:30",
+        "validFrom": "2026-10-31",
+        "url": "https://allevents.in/bangalore/taylor-swifts-the-eras-night-30/3900030942334746"
       }
     ]
   },
@@ -1039,45 +1043,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tufting Workshop",
-    "image": "https://cdn-az.allevents.in/events6/banners/7792c9e0-d7e4-11f1-b03f-97a3091e4506-rimg-w1200-h600-dcf89848-gmir.jpg?v=1793751168",
-    "startDate": "2026-11-07T11:30:00+05:30",
-    "endDate": "2026-11-07T14:30:00+05:30",
-    "url": "https://allevents.in/bangalore/tufting-workshop/3900030965031148",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fabrizo - Creative Activity Hub: BTM Layout",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sixth Main, Basement, 447, 7th Cross Road, Opposite Namdari Store, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560004, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9136",
-        "longitude": "77.6055"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Tufting Workshop - Create Your Own Handmade Rug or Wall HangingCome and enjoy your time at Fabrizo where you can slow down explore your creativity and fall in love with the joy of art and craft.Pause your busy life for a few hours and experience the joy of tufting. Choose your favourite colours expe",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-07T14:30:00+05:30",
-        "validFrom": "2026-11-04",
-        "url": "https://allevents.in/bangalore/tufting-workshop/3900030965031148"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Classic Rock Night ft. Wooden Shield (From Kerala)",
     "image": "https://cdn-az.allevents.in/events7/banners/18d6a9c0-d7e5-11f1-b03f-97a3091e4506-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793751438",
     "startDate": "2026-11-14T21:00:00+05:30",
@@ -1189,45 +1154,6 @@
         "availabilityEnds": "2026-11-07T16:43:00+05:30",
         "validFrom": "2026-11-04",
         "url": "https://allevents.in/bangalore/kettle-painting/3900030968954741"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "DR PRAKHAR LIVE",
-    "image": "https://cdn-az.allevents.in/events9/banners/677c5770-d888-11f1-9706-53ab4bcc3765-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1793821578",
-    "startDate": "2026-11-06T19:00:00+05:30",
-    "endDate": "2026-11-07T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/dr-prakhar-live/3900030970910319",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Sunburn Union Bangalore",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Passport Office, Mantri Avenue, Next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9453",
-        "longitude": "77.6201"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "BOX OFFICE FRIDAY IS CALLINGDR PRAKHAR on the decks with ALL THE BOLLYWOOD HITS you know by heart and every beat you came to lose yourself toBig tunes Bad decisions Main character energy all night6 NOVEMBER FRIDAY 7 PM ONWARDSSUNBURN UNION BENGALURU",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-07T00:00:00+05:30",
-        "validFrom": "2026-11-04",
-        "url": "https://allevents.in/bangalore/dr-prakhar-live/3900030970910319"
       }
     ]
   },
@@ -1545,6 +1471,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "GEETH BARSAATH",
+    "image": "https://cdn-az.allevents.in/events5/banners/37164b50-d913-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793881197",
+    "startDate": "2026-12-06T17:00:00+05:30",
+    "endDate": "2026-12-06T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/geeth-barsaath/3900030976693458",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Prestige Centre for Performing Arts: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Silver Oak Plantation, 25, Mudalappa St, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8876",
+        "longitude": "77.5641"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The Legacy of MELODY CREATORS continues after the Success of our Music show SHANKARABARANAM A Multilingual Musical show held on 21 June 2026 at PCPA, Bengaluru. Now we are ready to entertain the Music Lovers once again. GEETH BARSAATH Retro se Disco Tak Hindi Gaane...will be a Fabulous Musical Show",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-12-06T20:30:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/geeth-barsaath/3900030976693458"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Moon lamp",
     "image": "https://cdn-az.allevents.in/events4/banners/51e4a120-d913-11f1-903c-1fb53f357c14-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793881253",
@@ -1657,6 +1622,45 @@
         "availabilityEnds": "2026-11-22T20:30:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/veda-naada/3900030976753551"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Pyar Ishq Muhabbat",
+    "image": "https://cdn-az.allevents.in/events3/banners/8778fd70-d915-11f1-903c-1fb53f357c14-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793882191",
+    "startDate": "2026-12-06T18:00:00+05:30",
+    "endDate": "2026-12-06T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/pyar-ishq-muhabbat/3900030976803932",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Chowdiah Memorial Hall: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "16th Cross, G.D. Park Extension, 2nd Main Road, Malleswaram, Bengaluru, Karnataka 560003, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0066",
+        "longitude": "77.5755"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "ESP brings a memorable musical dedicated to the three singing divas of the 90s: Alka Yagnik, Kavita Krishnamurthy, and Anuradha Paudwal. They ruled the screen and gave us some immensely beautiful songs that made us fall hopelessly in love.The main highlight of the show is a 10-piece all-woman band,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-12-06T21:30:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/pyar-ishq-muhabbat/3900030976803932"
       }
     ]
   },
@@ -1820,25 +1824,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "18 Adavr Barri - Solo Special by Vadiraj",
-    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883081",
-    "startDate": "2026-12-05T16:00:00+05:30",
-    "endDate": "2026-12-05T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921",
+    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883075",
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
+      "name": "The Laugh Junction: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.915",
-        "longitude": "77.5951"
+        "latitude": "12.9122",
+        "longitude": "77.6357"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1849,9 +1853,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-12-05T17:30:00+05:30",
+        "availabilityEnds": "2026-11-28T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921"
+        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915"
       }
     ]
   },
@@ -2008,6 +2012,45 @@
         "availabilityEnds": "2026-11-07T18:00:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/hearts-unfiltered/3900030977025810"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BOTC",
+    "image": "https://cdn-az.allevents.in/events10/banners/b5b52240-d91a-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc080808-gmir.jpg?v=1793884428",
+    "startDate": "2026-11-08T20:00:00+05:30",
+    "endDate": "2026-11-08T23:00:00+05:30",
+    "url": "https://allevents.in/bangalore/botc/3900030977050348",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons, HSR Layout: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17th Cross Road, Vanganahalli, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9121",
+        "longitude": "77.6471"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Step into the world of Blood on the Clocktower, a thrilling social deduction game where every conversation matters, every decision has consequences, and no one is ever truly out of the game.Whether you are bluffing as evil or uncovering the truth as good, every session is packed with strategy, suspe",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-11-08T23:00:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/botc/3900030977050348"
       }
     ]
   },
@@ -2638,45 +2681,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Paint Like Van Gogh",
-    "image": "https://cdn-az.allevents.in/events3/banners/de203ba0-d9ad-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dcc8c8c8-gmir.jpg?v=1793947626",
-    "startDate": "2026-11-07T15:05:00+05:30",
-    "endDate": "2026-11-07T16:05:00+05:30",
-    "url": "https://allevents.in/bangalore/paint-like-van-gogh/3900030982025906",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Bellandur: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk, Bellandur, Bengaluru, Karnataka 560103, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9204",
-        "longitude": "77.6868"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "What if you could paint the way emotions moveIn this guided painting experience, you will explore the bold strokes, swirling textures, and expressive colors inspired by Van Goghs style without needing any painting background.This is not about copying a masterpiece perfectly.It is about letting go, l",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-06",
-        "availabilityEnds": "2026-11-07T16:05:00+05:30",
-        "validFrom": "2026-11-06",
-        "url": "https://allevents.in/bangalore/paint-like-van-gogh/3900030982025906"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Couple Clay Keychain Workshop",
     "image": "https://cdn-az.allevents.in/events7/banners/e01f26a0-d9b2-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dca8b868-gmir.jpg?v=1793949771",
     "startDate": "2026-11-07T14:00:00+05:30",
@@ -2755,78 +2759,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clay Labubu Doll",
-    "image": "https://cdn-az.allevents.in/events6/banners/a3ace100-d9b5-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc885838-gmir.jpg?v=1793950958",
-    "startDate": "2026-11-06T19:02:00+05:30",
-    "endDate": "2026-11-06T20:02:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030982520138",
+    "name": "Gumma Banda Gumma",
+    "image": "https://cdn-az.allevents.in/events7/banners/067cad40-d9b8-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc68b8b8-gmir.jpg?v=1793951983",
+    "startDate": "2026-12-06T15:30:00+05:30",
+    "endDate": "2026-12-06T16:40:00+05:30",
+    "url": "https://allevents.in/bangalore/gumma-banda-gumma/3900030982653543",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Tealogy Cafe (Neo): Bengaluru.",
+      "name": "Ranga Shankara: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "644, 1st Floor, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9337",
-        "longitude": "77.6302"
+        "latitude": "12.9116",
+        "longitude": "77.5871"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the world of viral cuteness! In this hands-on workshop, you will learn to sculpt your very own Labubu doll using polymer clay. No prior experience needed just bring your creativity, and we will help you bring this mischievous character to life.All materials providedTake home your handmade",
+    "description": "LATE ENTRY IS STRICTLY PROHIBITED. ﻿Gumma Banda Gumma Written & Directed by S. SurendanathGumma Banda Gumma is an adaptation of the original German play, Max Und Milli. It is a five character play performed in the tradition of GRIPS Theatre. The play focuses on the ability of a child to communicate",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-06",
-        "availabilityEnds": "2026-11-06T20:02:00+05:30",
+        "availabilityEnds": "2026-12-06T16:40:00+05:30",
         "validFrom": "2026-11-06",
-        "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030982520138"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Resin Koi Pond",
-    "image": "https://cdn-az.allevents.in/events1/banners/adfa9bb0-d9bb-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc080808-gmir.jpg?v=1793953552",
-    "startDate": "2026-11-07T14:05:00+05:30",
-    "endDate": "2026-11-07T15:35:00+05:30",
-    "url": "https://allevents.in/bangalore/resin-koi-pond/3900030982936053",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "URU Whitefield: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9613",
-        "longitude": "77.7325"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Discover the joy of creating something unique in this beginner friendly workshop. Learn the basics from an experienced instructor and take home your own handmade creation.What to expect:- Step by step guided session- All materials provided- No prior experience required- Learn useful techniques and t",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-06",
-        "availabilityEnds": "2026-11-07T15:35:00+05:30",
-        "validFrom": "2026-11-06",
-        "url": "https://allevents.in/bangalore/resin-koi-pond/3900030982936053"
+        "url": "https://allevents.in/bangalore/gumma-banda-gumma/3900030982653543"
       }
     ]
   },
@@ -2944,6 +2909,84 @@
         "availabilityEnds": "2026-11-20T22:03:00+05:30",
         "validFrom": "2026-11-06",
         "url": "https://allevents.in/bangalore/scc-candlelight-cinema-jab-we-met/3900030984171331"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Business Networking Meet @ Casa Karaoke",
+    "image": "https://cdn-az.allevents.in/events4/banners/c0f88ee0-d9e1-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793969905",
+    "startDate": "2026-11-15T11:00:00+05:30",
+    "endDate": "2026-11-15T13:00:00+05:30",
+    "url": "https://allevents.in/bangalore/business-networking-meet-casa-karaoke/3900030984843725",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Casa Karaoke: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AI 1, above Pizza Hut, JP Nagar 4th Phase, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9061",
+        "longitude": "77.5953"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Calling all entrepreneurs, professionals, founders, and innovators. Step away from traditional boardrooms and join us at Casa Karaoke, JP Nagar, for a dynamic Business Networking Meet designed to spark meaningful connections and high-value collaborations.Networking is the key, keeping this in mind,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-11-15T13:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "url": "https://allevents.in/bangalore/business-networking-meet-casa-karaoke/3900030984843725"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Guess Basanti Guess - A Bollywood Antakshari Quiz",
+    "image": "https://cdn-az.allevents.in/events1/banners/787d1ff0-d9ff-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc380808-gmir.jpg?v=1793982668",
+    "startDate": "2026-11-28T17:00:00+05:30",
+    "endDate": "2026-11-28T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/guess-basanti-guess-a-bollywood-antakshari-quiz/3900030986763709",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bloom Creative Zone, HSR: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd and 3rd floor, AJ Towers, 1174, Bloom Creative Zone - HSR, 24th Main Road, Above Axis Bank, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9068",
+        "longitude": "77.6489"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "All Bollywood fans, this one`s for you!Can you guess a Bollywood song in 0.1 seconds? Recognise a hook step from a single move? Recall lyrics, iconic scenes, or the most random Bollywood trivia out of nowhere?If Bollywood is your superpower (and your friends think it`s useless), it`s finally time to",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-11-28T19:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "url": "https://allevents.in/bangalore/guess-basanti-guess-a-bollywood-antakshari-quiz/3900030986763709"
       }
     ]
   },
@@ -3481,6 +3524,165 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Sonu Nigam - The Revolution India Tour",
+    "image": "https://cdn-az.allevents.in/events7/banners/dab88ed0-d869-11f1-a198-17b8412ad614-rimg-w1200-h656-dcf8f8f8-gmir.png?v=1793808457",
+    "startDate": "2026-12-06T19:00:00+05:30",
+    "endDate": "2026-12-06T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "KARNATAKA TRADE PROMOTION ORGANISATION",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Export Promotion Industrial Park Plot NO.121, Road no Ⅴ, EPIP 2nd phase, Industrial Area, Whitefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9798352",
+        "longitude": "77.7188878"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Celebrate 30 glorious years of music with Sonu Nigam's The Revolution Tour—a spectacular live experience that brings generations together through the power of timeless music. From soulful melodies and romantic classics to chart-topping hits, Sonu Nigam's voice has been the soundtrack to countless me",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "2026-12-06T22:00:00+05:30",
+        "validFrom": "2026-11-04",
+        "lowPrice": "1499.00",
+        "highPrice": "5999.00",
+        "price": "1499.00",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "1499.00",
+        "name": "Early Bird | Silver"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "1699.00",
+        "name": "Phase 1 | Silver"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "1899.00",
+        "name": "Phase 2 | Silver"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "2499.00",
+        "name": "Early Bird | Gold"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "2699.00",
+        "name": "Phase 1 | Gold"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "2899.00",
+        "name": "Phase 2 | Gold"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "3599.00",
+        "name": "Early Bird | Platinum"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "3999.00",
+        "name": "Phase 1 | Platinum"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/SoldOut",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "4499.00",
+        "name": "Phase 2 | Platinum"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-04",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-04",
+        "url": "https://allevents.in/bangalore/sonu-nigam-the-revolution-india-tour/4100030969788538",
+        "price": "5999.00",
+        "name": "Phase 3 | Platinum"
+      }
+    ],
+    "performer": [
+      {
+        "@type": "MusicGroup",
+        "name": "Sonu Nigam",
+        "url": "https://allevents.in/performer/sonu-nigam"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Quantum Computing",
     "image": "https://cdn-az.allevents.in/events2/banners/75ef76e0-d8a4-11f1-a6bd-e7986ff0c5b5-rimg-w1200-h675-dc080808-gmir.jpg?v=1793833629",
@@ -3593,6 +3795,70 @@
         "url": "https://allevents.in/bangalore/tamil-jamming-night-budbee-104/4100030975549943",
         "price": "199.00",
         "name": "Early Bird Female"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pawga's Yoga with Puppies at TreeHouse",
+    "image": "https://cdn-az.allevents.in/events7/banners/c8b50ed0-d9d0-11f1-8ed8-ab03d89c84bc-rimg-w1200-h675-dcf8f8e8-gmir.jpg?v=1793962616",
+    "startDate": "2026-11-29T11:00:00+05:30",
+    "endDate": "2026-11-29T12:00:00+05:30",
+    "url": "https://allevents.in/bangalore/pawgas-yoga-with-puppies-at-treehouse/4100030983998257",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "TreeHouse",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "477, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9788825",
+        "longitude": "77.6417088"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Thank you for choosing to spend your time with us and help us raise funds for animalsWelcome to India’s first pet yoga experience!We are so happy you chose to stand for the shelter pets with us.So what is Pawga all about?Pawga was started in 2020 to help shelter pets socialise, find a forever home,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-11-29T12:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "lowPrice": "1200.00",
+        "highPrice": "2200.00",
+        "price": "1200.00",
+        "url": "https://allevents.in/bangalore/pawgas-yoga-with-puppies-at-treehouse/4100030983998257"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-06",
+        "url": "https://allevents.in/bangalore/pawgas-yoga-with-puppies-at-treehouse/4100030983998257",
+        "price": "1200.00",
+        "name": "Single Ticket"
+      },
+      {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-06",
+        "url": "https://allevents.in/bangalore/pawgas-yoga-with-puppies-at-treehouse/4100030983998257",
+        "price": "2200.00",
+        "name": "Duo Ticket"
       }
     ]
   },
