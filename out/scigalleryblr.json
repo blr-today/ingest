@@ -301,29 +301,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Through the Looking Glass: From Molecules to Life",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/bEJtoDneBpxNX3bw7"
-    },
-    "startDate": "2026-11-06T18:00:00+05:30",
-    "endDate": "2026-11-06T19:30:00+05:30",
-    "description": "The 2026 Nobel Prize in Chemistry went to researchers Henri B. Kagan and Kenso Soai for their work in asymmetric organic synthesis.\n\nLife is built from molecules, yet living systems exhibit a remarkable preference for one molecular handedness over its mirror image. How did this asymmetry emerge, and how did it become embedded in the chemistry of life? \n\nJoin Sankaranarayanan Rajan for a lecture exploring the fascinating interface between chemistry and biology, tracing the connections between molecular chirality, the origins of life, and the evolution of biological systems. Drawing on insights from Nobel Prize-winning discoveries in chemistry and contemporary research, he will examine how nature achieves molecular selectivity and fidelity through mechanisms that distinguish between seemingly similar molecular alternatives. The lecture will offer a glimpse into the fundamental principles that underpin life's molecular organisation.\n\nThis lecture is organised in collaboration with Infosys Science Foundation.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=through-the-looking-glass",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "80",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FDiscoveries_from_Asteroid_Bennu-_Media_Briefing_Graphics_(SVS14772_-_NASA_Chiral_Molecules_V2).jpg-1793254689301?alt=media&token=59b8bcd6-68b1-4f2f-9d38-849f296520dc",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Sankaranarayanan Rajan"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Back to School: We Make the Rules",
     "location": {
       "@type": "Place",
@@ -421,8 +398,8 @@
       "address": "Science Gallery, Bangalore",
       "url": "https://maps.app.goo.gl/38ymnBJ1czdC34MD9"
     },
-    "startDate": "2026-11-22T22:30:00+05:30",
-    "endDate": "2026-11-23T08:00:00+05:30",
+    "startDate": "2026-11-22T10:30:00+05:30",
+    "endDate": "2026-11-22T20:00:00+05:30",
     "description": "The Namma Oota festival, hosted by Science Gallery Bengaluru, fuses art, science, and gastronomy.\n\nFrom what grows in our fields to what lands on our plates, food connects us to questions of ecology, health, culture, and innovation. In the fourth edition of Namma Oota, we hope to explore these curiosities in relation to our diets, communities, and the Anthropocene.\n\nJoin us to enjoy the food stalls as we create a flea market-esque ambience with workshops, performances, interactive demonstrations and an open mic to explore. The portico will come alive with the sizzle of tawas, buzzing conversation, and a bit of organised chaos. The festival is curated as a platform to spark conversations and connections on Bengaluru, Oota (food), and sustainability.",
     "url": "https://quantum.scigalleryblr.org/programmes?p=namma-oota-2",
     "isAccessibleForFree": true,
@@ -438,8 +415,8 @@
       "address": "Science Gallery, Bangalore",
       "url": "https://maps.app.goo.gl/hTw8c1RdzKiW6Xpv5"
     },
-    "startDate": "2026-11-29T23:00:00+05:30",
-    "endDate": "2026-11-30T01:00:00+05:30",
+    "startDate": "2026-11-29T11:00:00+05:30",
+    "endDate": "2026-11-29T13:00:00+05:30",
     "description": "The transport properties of materials is a question of fundamental interest to scientists as well as engineers. Some basic questions are: how good is a material for transporting energy and electricity from one region to another? and; can we predict the transport properties of a given material if we are given all the microscopic details of the constituent atoms? Join Abhishek Dhar as he answers these question and describes the role of quantum mechanics in transport theory along with the surprises it throws.",
     "url": "https://quantum.scigalleryblr.org/programmes?p=heat-electron-transport",
     "isAccessibleForFree": true,
@@ -449,6 +426,56 @@
       {
         "@type": "Person",
         "name": "Abhishek Dhar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Atoms at Work: Building India's First Neutral-Atom Quantum Computer",
+    "location": {
+      "@type": "Place",
+      "name": "Raman Research Institute",
+      "address": "Bangalore",
+      "url": "."
+    },
+    "startDate": "2026-11-28T11:00:00+05:30",
+    "endDate": "2026-11-28T13:00:00+05:30",
+    "description": "Join Sagar Sutradhar and Nilanjan Kundu for an exclusive visit to QuMiX Lab, the neutral-atom quantum mixture laboratory, headed by Saptarishi Chaudhuri at Raman Research Institute, where India's first neutral-atom quantum computer is being built. Discover how India's first neutral-atom quantum computer is taking shape, explore active quantum mixture experiments, and attend researcher-led mini-talks offering a rare, close-up look at the technology and physics driving the National Quantum Mission.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=atoms-at-work",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "40",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2Fold2%20Large.jpg-1793970423135?alt=media&token=acae118e-5eb2-4f40-9cb0-2c27d9d9b495",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Nilanjan Kundu"
+      },
+      {
+        "@type": "Person",
+        "name": "Sagar Sutradhar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Spill the Beans: A Namma Ooru Food Quiz",
+    "location": {
+      "@type": "Place",
+      "name": "Portico, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
+    },
+    "startDate": "2026-11-21T16:00:00+05:30",
+    "endDate": "2026-11-21T17:30:00+05:30",
+    "description": "Why is Bengaluru named after beans? What chillies are famously used in the perfectly _kara_ Mysuru Masala Dose? What does Rava Idli have to do with World War II?\n\nBengaluru has plenty of food stories simmering beneath the surface, join Quizmaster Arul Mani for a quiz about the food lore of Namma Ooru.\n\nThe quiz will be played in teams of 2–3. Come along with friends or show up solo, and we'll help you find a team. ",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=Spill-the-Beans",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FDSC01974.jpg-1793968823456?alt=media&token=cca71d84-a7ac-4ae0-a76e-86e9c0b6759c",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Arul Mani"
       }
     ]
   }

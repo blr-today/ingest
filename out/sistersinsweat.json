@@ -39,6 +39,45 @@
     "endDate": "2026-11-15T10:30:00+05:30"
   },
   {
+    "name": "SIS x WeWork  - SWEAT FEST | Yoga + HIIT + Dance",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Sweatfest",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Sweatfest",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "799",
+        "priceCurrency": "INR"
+      }
+    ],
+    "image": "https://sistersinsweat.com/api/media/file/5.jpg.jpeg",
+    "location": {
+      "name": "WeWork Galaxy",
+      "address": "43, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "@type": "Place"
+    },
+    "startDate": "2026-11-29T08:00:00+05:30",
+    "endDate": "2026-11-29T11:00:00+05:30"
+  },
+  {
     "name": "SIS x Si Nonna's - Pizza Making Workshop",
     "@type": "FoodEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Pizzamaking-Workshop",
@@ -68,7 +107,7 @@
         "priceCurrency": "INR"
       }
     ],
-    "image": "https://sistersinsweat.com/api/media/file/SIS_14-Nov-2026_Website-Listing.png",
+    "image": "https://sistersinsweat.com/api/media/file/SIS_Website-Listing.png",
     "location": {
       "name": "Si Nonna's",
       "address": "Plot No.61, Shop No.05, Marksquare, Ground floor, St.Marks road, Bangalore, Shanthinagara, B.B, M.P East, Bengaluru, Karnataka 560001",
