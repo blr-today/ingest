@@ -428,5 +428,28 @@
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "1000",
     "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FNamma%20Oota%20Open%20Call_Web%20banner%20(1).jpg-1793877491820?alt=media&token=2253716b-cfcf-438e-a129-1036da1b2661"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Heat and Electron Transport: Quantum Signatures",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/hTw8c1RdzKiW6Xpv5"
+    },
+    "startDate": "2026-11-29T23:00:00+05:30",
+    "endDate": "2026-11-30T01:00:00+05:30",
+    "description": "The transport properties of materials is a question of fundamental interest to scientists as well as engineers. Some basic questions are: how good is a material for transporting energy and electricity from one region to another? and; can we predict the transport properties of a given material if we are given all the microscopic details of the constituent atoms? Join Abhishek Dhar as he answers these question and describes the role of quantum mechanics in transport theory along with the surprises it throws.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=heat-electron-transport",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FPhononAnimation%20Large.jpeg-1793948339222?alt=media&token=e26ee9f0-8737-4d45-b94e-7e52f6c14446",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Abhishek Dhar"
+      }
+    ]
   }
 ]
