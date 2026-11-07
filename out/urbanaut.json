@@ -267,7 +267,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -655,7 +655,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 382,
+    "remainingAttendeeCapacity": 372,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -751,7 +751,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -770,60 +770,6 @@
     "keywords": [
       "Leisure",
       "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Nagarathpete heritage walk.",
-    "description": "This is what I post about the walk for marketing...On the fourth of our walks through Kempe Gowda’s historic *Pettah*, we venture into one of the oldest and most fascinating quarters of Bengaluru, where centuries of history continue to unfold through its narrow, meandering lanes.Our walk begins with a darshan at one of the city’s most beloved temples, intimately associated with Bengaluru’s celebrated Karaga festival. From here, we wander deeper into the Pettah, uncovering forgotten monuments, old neighbourhoods and stories concealed behind the façades of modern Bengaluru.Along the way, we discover the remarkable story of Mysore’s rockets—military technology perfected under Tipu Sultan and manufactured in this very part of the city. We explore how these rockets travelled from the battlefields of Mysore to Britain, and ultimately influenced the technology that inspired the words of the American national anthem.The walk then takes us to a site connected with India’s struggle for independence, before offering a glimpse into one of the Pettah’s enduring traditions: its silk-weaving community.And, time permitting, we make a quiet visit to the tombs of Sufi warriors who were martyred during the Third Anglo-Mysore War of 1791, adding another, lesser-known chapter to the layered history of the neighbourhood.This is a walk through a Bengaluru that is easy to miss—a city of temples and tombs, warriors and weavers, rockets and revolutionaries, where history survives in lanes, workshops and places of worship.Come walk with us and discover the Pettah beyond the postcard. Spaces are limited, so book your place and join us for this journey into the hidden history of old Bengaluru.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5F4AACDB4FDF47CB824CC5B6673BDD2E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D342C4F99FE14DC196DB60532BC8A030_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D1644A12B16B43EF8D08F6290D05A674_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6AA24D5C87C44002828AF7307F8C608B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BD440FF81ECF49D1815BFA5D236DCAB7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BA01331E98D44FE886B532C4FD5B3834_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/3C265FDEF88A4F8BBA6C19ED1A09DD4D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E5D775372E1746B88C551BBD7837374F_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T08:00:00+05:30",
-    "endDate": "2026-11-07T11:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Nagarathpet Main Rd, Ganigarpet, Nagarathpete, Bengaluru, Karnataka 560002, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ElFOYWdhcmF0aHBldCBNYWluIFJkLCBHYW5pZ2FycGV0LCBOYWdhcmF0aHBldGUsIEJlbmdhbHVydSwgS2FybmF0YWthIDU2MDAwMiwgSW5kaWEiLiosChQKEgnZgsIn4BWuOxEjXgP9kg-WFRIUChIJHdsQYQoWrjsRzqWALz-qkEs",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9665406,
-        "longitude": 77.5813024
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 750.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru by foot",
-      "description": "Heritage, food & architectural walks in Bangalore.",
-      "url": "https://urbanaut.app/partner/benbyfoot",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/nagarathpete-darshan-heritage-walk",
-    "keywords": [
-      "Local",
-      "Walking Tour",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1188,7 +1134,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2073,7 +2019,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2128,7 +2074,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2218,7 +2164,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2362,7 +2308,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2448,7 +2394,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2838,7 +2784,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 131,
+    "remainingAttendeeCapacity": 126,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3026,7 +2972,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 149,
+    "remainingAttendeeCapacity": 148,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3075,7 +3021,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 146,
+    "remainingAttendeeCapacity": 143,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3169,7 +3115,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 95,
+    "remainingAttendeeCapacity": 94,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3397,7 +3343,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 135,
+    "remainingAttendeeCapacity": 134,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3463,54 +3409,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/53A72F5B81204E829A1460C8FC8C90FB_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/theworldinthebodyobserveabsorbcreate",
-    "keywords": [
-      "Workshop",
-      "Festival",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Red Nose Clowning",
-    "description": "Red Nose ClowningA Three-Day Workshop by Ashwath BhattMonday to Wednesday, 23rd to 25th November, 10.00 a.m. - 3.00 p.m.Points to Note1.⁠ ⁠Your place in the workshop will be confirmed only after payment and final selection. If you are not selected, the fee will be refunded.2.⁠ ⁠⁠If you are selected and attend the entire workshop, the fee will be refunded.3.⁠ ⁠⁠If you are selected and there is a no-show, or if you attend only part of the workshop, there will be no refund.About the WorkshopThe clown often lands in a place where urgency prevails and dilemma takes over, pressure turns into perseverance and a never-say-die attitude emerges. The clown lives in the moment, in a theatre of the 'Here and Now'.Through the clown, participants will explore the world from a more positive viewpoint, free from moral and logical constraints. We all have a clown hiding within us. During the workshop, an inner clown character will be born through an organic process based on both eastern and western techniques. Starting with an outer neutral persona, we will work our way towards the ridiculous and then the grotesque.At the end of the workshop, participants will gain clarity about the rules and tools of clowning, so that they can embark on clown exploration with courage. The workshop will go beyond gags and look for the clown who connects to the heart of the spectators.About the FacilitatorAshwath BhattAshwath Bhatt is a Mumbai-based screen and stage artist, who has worked with acclaimed filmmakers and reputed theatre companies both in India and abroad. He has acted under the direction of various Indian and international theatre luminaries, and conducted workshops on various aspects of acting worldwide. He serves on the selection panel of LAMDA in India as well as for the Inlaks Theatre Awards, of which he is the co-creator. He teaches at various prestigious institutions in India and overseas. He is widely known for his work on the ‘Red Nose Clowning’ in India. In 2007, he established a nonprofit trust called the Theatre Garage Project. His work is guided by the idea of finding something in nothing. He recently directed the play Paladin based on the best-selling book When Breath Becomes Air by Dr. Paul Kalanithi.Applicants to NoteApplicants are required to fill in the form linked below to give us an understanding of their experience, interests and more.Workshop Application Form: Red Nose ClowningEligibilityAge: 21 and aboveExperience: Basic experience of theatrePhysical readiness: Basic fitnessAdvisory Clothing: Comfortable clothing. Any other detail will be shared with selected candidatesFood advisory in case there is movement: Will be shared with selected candidatesParticipants should carry a bottle of water.About the FestivalPLAYINTERPLAY is a theatre festival with a difference. It celebrates 50 years of the Inlaks Shivdasani Foundation, bringing together its theatre awardees and scholars to show their work, share their experiences, skills and learnings, and converse on matters of common interest.PLAYINTERPLAY presents plays that are new to Bengaluru. What is different, however, is that it looks back as well as forward, featuring a work of theatre that has been specially revived for the festival and readings of plays that are still to become the finished article.PLAYINTERPLAY does more: it forges connections between its constituent parts — performances, workshops, conversations and experience sharing — emphasising the interplay between thought, learning and practice.See the plays! Apply for the workshops! Join the conversations! Soak in the magic of theatre.About the Artistic DirectorAnmol Vellani is the founder and former executive director of India Foundation for the Arts, the first independent philanthropic organisation in India devoted exclusively to supporting the arts. He is also the co-founder of Toto Funds the Arts, which nurtures, encourages and rewards new voices and emerging talent in the arts.Anmol did not, however, aspire to become a professional in the field of philanthropy. His early fascination was with the arts, especially theatre and music, and also philosophy, which he studied at the Universities of Poona, Oxford and Cambridge. He taught ethics, logic and the history of philosophy at Elphinstone College, Mumbai, in the 1970s.His writing and talks — on arts entrepreneurship, the creative economy, cultural policy, the role of grant-making foundations, culture and development, arts collaboration and the performing arts, for example — have reflected on the insights he has gleaned from his long engagement with the arts and philanthropy.Anmol has been associated with nearly 50 plays as a director, designer or actor. He has directed theatre productions in different languages and cities. His last two plays — Innocence (2024) and Apne Ghar Jaisa (2022) — have been lauded for their sharp and critical look at contemporary social and political realities in India.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6A9774ED2F8749FAA6185B6A57CD219B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/96165952CF704B67A4A840FAD0818912_converted_webp.webp"
-    ],
-    "startDate": "2026-11-23T10:00:00+05:30",
-    "endDate": "2026-11-23T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.983484,
-        "longitude": 77.61101699999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1000.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "PLAYINTERPLAY",
-      "description": "10 Performances I 5 Workshops I 4 Conversations I 2 Experience Sharing Sessions. Discover new plays and a revived classic. Witness theatre artists share ideas, skills and experiences. Explore the interplay of performance, learning and practice, and experience the magic of theatre!",
-      "url": "https://urbanaut.app/partner/playinterplay",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/53A72F5B81204E829A1460C8FC8C90FB_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/rednoseclowining",
     "keywords": [
       "Workshop",
       "Festival",
@@ -3679,7 +3577,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 101,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3912,7 +3810,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 438,
+    "remainingAttendeeCapacity": 425,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3962,7 +3860,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 287,
+    "remainingAttendeeCapacity": 261,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3992,50 +3890,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
     ],
-    "startDate": "2026-11-07T11:00:00+05:30",
-    "endDate": "2026-11-07T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "28, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9317392,
-        "longitude": 77.6325968
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 65,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Readers Community",
-      "description": "A community for readers in Koramangala. We meet to sit and read our own books in comfortable silence, then talk about what we're reading — entirely optional. No assigned books, no pressure. Just readers, together.",
-      "url": "https://urbanaut.app/partner/brc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/brc-rs#2026-11-07T1100",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bangalore Readers Community - Saturday Reading Session",
-    "description": "Welcome to the Reading Session by Bangalore Readers Community!This is a space for people who love to read — not a book club with assigned reading, not a discussion group you're obligated to speak in. Just a quiet, comfortable space to read your own book, surrounded by other readers.What to expect:The first 1.5 hours are for silent reading. Bring any book you're currently reading — fiction, non-fiction, poetry, whatever you're into. Find a comfortable spot, order your breakfast & coffee, and read at your own pace alongside other members.The last 30 minutes are for conversation — entirely optional. If you'd like to talk about what you're reading, you're welcome to do so. Or you can just listen to what others share. No pressure.Come alone or with a friend. Many of our members are meeting fellow readers for the first time — it's a relaxed, low-stakes way to be around people who enjoy books as much as you do.What to bring:Just your book (or e-reader/Kindle). No assigned reading, no reading schedule to catch up on.A few things to know:Entry by RSVP only, no walk-ins allowed.Spots are limited, so an RSVP here reserves your place.The event is free but we encourage you to place a food or drink order at the cafe.Come spend a quiet Saturday morning doing something you probably don't make enough time for — reading, uninterrupted, in good company.And follow us on Instagram here: https://www.instagram.com/bangalorereaderscommunity/See you at the event! 📖",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
-    ],
     "startDate": "2026-11-14T11:00:00+05:30",
     "endDate": "2026-11-14T13:00:00+05:30",
     "location": {
@@ -4051,7 +3905,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 69,
+    "remainingAttendeeCapacity": 68,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4095,7 +3949,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 69,
+    "remainingAttendeeCapacity": 68,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4363,7 +4217,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 275,
-    "remainingAttendeeCapacity": 164,
+    "remainingAttendeeCapacity": 158,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -4383,51 +4237,6 @@
       "Leisure",
       "Live GIG",
       "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sketchy Mornings at Beku!",
-    "description": "In a world increasingly dependent on AI for most things, and a world of AI art that steals and operates on the principle of \"making your life easier\", we're less and less encouraged to create for the sake of making something, and are forced to think along the lines of practicality, functionality, and perfectionism.In an effort to go completely against that notion, we happily welcome you to Sketchy Mornings at Beku, where no matter who you are, and where you're at in your journey of creation, we'd like you to bring yourself, and bring a desire to sketch something out of your own hands. Bring a friend or maybe two while you're at it!Any medium. Any materials. Zero pressure.Let's make something we're proud of.Note: You can bring your own sketchbook and materials, or we can give you our art supplies. No pressure here either!⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/909DC63FBA4E484BA7E1157C57A424D7_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T11:30:00+05:30",
-    "endDate": "2026-11-07T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Beku",
-      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9106601,
-        "longitude": 77.5967054
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Beku",
-      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
-      "url": "https://urbanaut.app/partner/beku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/sketchymorningsatbeku",
-    "keywords": [
-      "Leisure",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -4454,7 +4263,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 46,
+    "remainingAttendeeCapacity": 40,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4907,7 +4716,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 782,
+    "remainingAttendeeCapacity": 749,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4955,7 +4764,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 909,
+    "remainingAttendeeCapacity": 892,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5227,7 +5036,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5246,54 +5055,6 @@
     "keywords": [
       "Workshop",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Spread the Diwali Joy",
-    "description": "Hello everyone!Join Team Fly Higher in celebrating the festival of lights with lots of fun and smiles with 80 underserved children. Let’s make this Diwali special for these children with dance, music, rangoli, sweets and more.Dress code: Traditional attire",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6B08A79C84D44E2EA25A8433FDE4E22F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5960A4A01E3C4AE6939F1A8EB7E3C6CF_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/999D5D889D674EEB87C50AB87F219CD5_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/47B434AB3BC7479399599832E9F2619C_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T11:00:00+05:30",
-    "endDate": "2026-11-07T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4/3, Hossahatty Layout, Sahakarnagar Post, Yelahanka Hobli, Kodigehalli, Bengaluru, Karnataka 560092, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0580649,
-        "longitude": 77.5781216
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 200.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Primate Advisory",
-      "description": "At Primate Advisory, we run fast-paced, hands-on Design Thinking Training sessions that help you move from abstract theory to practical problem solving. Participants learn to frame the right problems, prototype quickly and test ideas with real users.",
-      "url": "https://urbanaut.app/partner/primateadvisory",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5AB16B8D6CA4457C86E07CEC29D276D3_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/spread-the-diwali-joy",
-    "keywords": [
-      "Festival",
-      "Eco Friendly",
       "URBANAUT"
     ]
   },
@@ -5604,7 +5365,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5623,51 +5384,6 @@
     "keywords": [
       "Leisure",
       "Local",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Beku Trivia Night - Supernatural Edition",
-    "description": "A world where myths come alive, legends linger, and the unexplained takes the stage. from eerie folklore to haunted histories, the paranormal show of supernatural covers it all. this trivia night will test your knowledge (and will) for all things spooky. Gather your fellow demon hunters and join us for an evening of curious questions, unexpected twists, and a little friendly competition. think you know the supernatural? It's time to prove it.Come for the trivia, stay for the mystery. just remember — not everything has an explanation.Who can attend? Participants aged 15 and above are welcome! Parents or guardians who wish to participate alongside their children are also welcome and will need to purchase a separate ticket.⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C9E17072C9E740E3A903E9102679279D_converted_webp.webp"
-    ],
-    "startDate": "2026-11-29T19:00:00+05:30",
-    "endDate": "2026-11-29T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Beku",
-      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9106601,
-        "longitude": 77.5967054
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 27,
-    "remainingAttendeeCapacity": 27,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Beku",
-      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
-      "url": "https://urbanaut.app/partner/beku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/beku-trivia-night-supernatural-edition",
-    "keywords": [
-      "Leisure",
       "Art & culture",
       "URBANAUT"
     ]
@@ -6009,7 +5725,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 132,
+    "remainingAttendeeCapacity": 130,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -6056,7 +5772,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 149,
+    "remainingAttendeeCapacity": 140,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -6103,7 +5819,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 168,
+    "remainingAttendeeCapacity": 164,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -6170,6 +5886,100 @@
       "Live GIG",
       "Local",
       "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BYO-Personality: Sober Stroll and Conversations",
+    "description": "Bring Your Own Personality: Sober Stroll and ConversationsHow do we discover people anew in life?People who have A tendency to notice things. A capacity to experience life. An ability to assimilate lived experiences. People who delight in discovering themselves and others.How do we make such discoveries?Make some effort.Bring Your Own PersonalityBe Respectful. Be Curious.That should work.What do we exactly do:A group of 8 (max) people. 90 minutes of walk together through a neighbourhood's foothpaths. + Engaging conversations.For starters, Share a glimpse of your personality by filling up this questionnaire.Participants will be curated based on their responses to the questionnaire. The questionnaire could also make you curious about other potential participants. Do check it out.https://opnform.com/forms/byop-qgspepTimeline:Submissions close @ 4 PM (2 hour before the event begins)Meeting point to be sent to confirmed participants via email, from Friday 6 PM. Latest till Saturday 4 PM.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/107ADFA0F6E54E22AE2E34E5A0682A5F_converted_webp.webp"
+    ],
+    "startDate": "2026-11-07T18:00:00+05:30",
+    "endDate": "2026-11-07T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9783692,
+        "longitude": 77.6408356
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 500,
+    "remainingAttendeeCapacity": 498,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BYOPersonality",
+      "description": "A human stirring up murmurations. Not a brand or event agency.",
+      "url": "https://urbanaut.app/partner/byopersonality",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/8774EC0A07B44F5AB32C8140ABFA0A37_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/byop-wk2",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The ROAR and The Squeak!",
+    "description": "The ROAR and The Squeak! Puppet Show, Art Session and some Fun-Time!For 5-8 Year-OldsVenue: The Gallery, Bangalore Creative CircusDate: 12th December, 2026 (Saturday)Time: 11:00 AM – noon (12:00 PM)About the SessionInspired by the Panchatantra Story, watch the mighty lion and the tiny mouse in a charming puppet show, filled with sing-along songs and storytelling through handmade puppets. Children will then be guided through an art activity to create an animated lion – the imaginative storytelling version of the character on paper!A perfect blend of art, imagination, and storytelling: come and create your own jungle tale!Please Note: This event is exclusively for Kids, and a part of the Bengaluru Jatre festival. Accompanying parent(s) (if needed) can have an additional ticket in the booking.About The Puppeteer/Artist/HostFor Aditi, creativity is a loop of endless possibility: art sparks a character, and story breathes life through imagination. After beginning her career as a UX/UI Design professional in Bengaluru and practicing it for more than a decade; she has been pursuing the joy of imaginative expressions through her venture, band of beads. Narratives are woven through beading, fabrics, and puppetry - crafting tiny worlds with big hearts.Art. Story. Repeat!About the VenueBangalore Creative Circus is an urban living lab for regenerative systems, communities, and cultures. Our physical space is a 20,000 sqft industrial warehouse converted using repurposed materials into an experience centre for sustainability solutions, a learning centre, a creative arts hub, a farm-to-table restaurant, edible gardens, and a community centre for events, workshops, and performances.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A2D106BAF8C5480EA9422B56903A3A3E_converted_webp.webp"
+    ],
+    "startDate": "2026-12-12T11:00:00+05:30",
+    "endDate": "2026-12-12T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "12/2, Yeshwanthpur Industrial Suburb, Estate, Bengaluru, Karnataka 560086, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0138897,
+        "longitude": 77.5481114
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 590.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "band of beads",
+      "description": "Theme Products. Art Sessions. Puppet Shows.",
+      "url": "https://urbanaut.app/partner/bandofbeads",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/64D69E0C655A45E69D73856CFF48D3A8_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-roar-and-the-squeak",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Workshop",
+      "Active",
       "Art & culture",
       "URBANAUT"
     ]
