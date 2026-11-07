@@ -853,6 +853,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Beer O'Clock – Beer at ₹99",
+    "description": "HighlightsEnjoy beer at just ₹99Available daily from 12 PM to 8 PMPerfect for relaxed afternoon catch-upsGreat food and drinks at Brick &amp; BrewLocated in Kal",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/7c72371d0fb4afdbe5ef496aed3bfac2.jpg"
+    ],
+    "startDate": "2026-11-08T12:00:00+05:30",
+    "endDate": "2026-11-08T20:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Brick & Brew Kalyan Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th and 5th Floor, Plot No. 408, 5th Main Rd, above Pizza Bakery, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.02297,
+        "longitude": 77.639524
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Brick & Brew",
+      "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "99",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/beer-o-clock-beer-at-99-3f5oy81zbk",
+      "validFrom": "2026-11-07T12:38:52.866Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Brick & Brew",
+        "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/beer-o-clock-beer-at-99-3f5oy81zbk"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Fuse is LIT  | HOD Club - Koramangala",
     "description": "Highlights Bengaluru Techno NightHigh-energy techno musicDancefloor vibes all nightPremium sound and immersive atmospherePerfect destination for techno loversGe",
     "image": [
@@ -997,6 +1046,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/big-bollywood-punjabi-night-at-badmaash-kormangala-kwwf4374da"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Biggest.Tollywood Pure Telugu Nights in Bengaluru ",
+    "description": "HighlightsEvery Wednesday dedicated to Telugu music and Tollywood hitsLive DJ performance by DJ Vijju and moreNostalgic Telugu classics and latest chartbustersH",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/8d675615b75bdc0e0c232f095269d369.jpg"
+    ],
+    "startDate": "2026-11-11T20:00:00+05:30",
+    "endDate": "2026-11-12T01:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "DND The Venue",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bangalore, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.915152,
+        "longitude": 77.666055
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sky High Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/hassan"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "99",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/biggest-tollywood-pure-telugu-nights-in-bengaluru-vtbhqxjzxy",
+      "validFrom": "2026-11-07T12:40:08.005Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Vijju",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/37200077/hnfuohgihskctmlogz5t.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-vijju-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/biggest-tollywood-pure-telugu-nights-in-bengaluru-vtbhqxjzxy"
   },
   {
     "@context": "https://schema.org",
@@ -1518,6 +1617,57 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Candy Ladies Night Ft DJ Ceez | Nolimmits Lounge",
+    "description": "HighlightsDJ Night ft. DJ&nbsp;CeezBollywood MusicGreat AmbianceMouthwatering AppetizersCocktails and MocktailsStep into a playful, candy-themed party where swe",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/29/b29ae86c8b3a9bf32b70f47fab64985f.png"
+    ],
+    "startDate": "2026-11-11T20:00:00+05:30",
+    "endDate": "2026-11-12T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/candy-ladies-night-ft-dj-ceez-nolimmits-lounge-j5sf1j58hl",
+      "validFrom": "2026-11-07T13:11:12.086Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Ceez",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/b6d70e4c/r9ivssn9mj5rech0km2c.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-ceez-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/candy-ladies-night-ft-dj-ceez-nolimmits-lounge-j5sf1j58hl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Jashn – Bollywood Punjabi Night",
     "description": "HighlightsSpecial appearance by Bollywood sensation Riyaa SennDJ OPPOZIT spinning the best of Bollywood and Punjabi hitsSupporting artist DJ NikzHosted by Jayas",
     "image": [
@@ -1665,6 +1815,69 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/chopta-tungnath-christmas-new-year-trip-package-7k84afeiax"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cocktail Night ft DJ Harsh Bhutani | Nolimmits Lounge",
+    "description": "HighlightsDJ Night ft DJ Harsh BhutaniNon-stop MusicBollywood MusicCommercial MusicGreat AmbienceMouthwatering AppetizersCocktails and MocktailsCocktail Night f",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/82e86c7356a7fb64ac8f888060e51628.png"
+    ],
+    "startDate": "2026-11-13T20:00:00+05:30",
+    "endDate": "2026-11-14T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/cocktail-night-ft-dj-harsh-bhutani-nolimmits-lounge-e1c9pdlfj7",
+      "validFrom": "2026-11-07T13:11:12.832Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Harsh Bhutani",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/368710e5/txs6dvgifkzuymvrlxwm.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-harsh-bhutani-2"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Harsh",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/9d81d51194f49b0228c1be579d44bdd0.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-harsh-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ VeeJay",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/6a59523b669ca38cd0b541eeb4952376.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-veejay"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/cocktail-night-ft-dj-harsh-bhutani-nolimmits-lounge-e1c9pdlfj7"
   },
   {
     "@context": "https://schema.org",
@@ -2707,6 +2920,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Elite Tuesday | Nolimmits Brigade",
+    "description": "HighlightsDJ Night ft&nbsp;DJ JithzBollywood NightDance FloorMouthwatering AppetizersCocktails and MocktailsElevate your Tuesday night with a premium blend of m",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/08/01/55acc0728f833be48d77b0e51d12ab36.png"
+    ],
+    "startDate": "2026-11-10T20:00:00+05:30",
+    "endDate": "2026-11-11T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-rkx761fmvk",
+      "validFrom": "2026-11-07T12:21:57.848Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Nolimmits Lounge & Club",
+        "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-rkx761fmvk"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "F1 LIVE: Brazilian GP Screening",
     "description": "HighlightsLive screening of the Brazilian Grand PrixMassive LED screen with powerful audioOpen-air rooftop experience at SkyDeckStunning skyline views and festi",
     "image": [
@@ -3302,6 +3565,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "It's a Match: Beer & Biryani Combo at Brick & Brew",
+    "description": "Highlights1 Beer + 1 Biryani at just ₹299Perfect pairing of refreshing beer and flavourful biryaniSpecial afternoon food and beverage offerAvailable from 12 PM ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/3223d8b093225e8130a341f41e0cf835.jpg"
+    ],
+    "startDate": "2026-11-08T12:00:00+05:30",
+    "endDate": "2026-11-08T17:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Brick & Brew Kalyan Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th and 5th Floor, Plot No. 408, 5th Main Rd, above Pizza Bakery, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.02297,
+        "longitude": 77.639524
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Brick & Brew",
+      "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "299",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/it-s-a-match-beer-biryani-combo-at-brick-brew-wzmf9hj664",
+      "validFrom": "2026-11-07T12:38:57.403Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Brick & Brew",
+        "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/it-s-a-match-beer-biryani-combo-at-brick-brew-wzmf9hj664"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Japanese art of Kintsugi | Milaap ",
     "description": "HighlightsIntroduction to the 400-year-old Japanese art of KintsugiLearn the philosophy of resilience, mindfulness, and embracing imperfectionsHands-on ceramic ",
     "image": [
@@ -3347,6 +3659,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/japanese-art-of-kintsugi-milaap-6lcdh2ke4h"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Japanese Kintsugi in JP Nagar",
+    "description": "HighlightsDiscover the Japanese art of Kintsugi, celebrating beauty in imperfections.Learn to transform broken pieces into beautiful works of art using gold.All",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/fe113e4119502241cc77fe7e7aab2d33.jpg"
+    ],
+    "startDate": "2026-11-08T16:00:00+05:30",
+    "endDate": "2026-11-08T19:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "URU - JP Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.905783,
+        "longitude": 77.601162
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lets Getaway",
+      "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "599",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/japanese-kintsugi-in-jp-nagar-d2wqwru6c9",
+      "validFrom": "2026-11-07T12:39:02.791Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Lets Getaway",
+        "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/japanese-kintsugi-in-jp-nagar-d2wqwru6c9"
   },
   {
     "@context": "https://schema.org",
@@ -3698,6 +4059,104 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Kintsugi Workshop in HSR Layout",
+    "description": "HighlightsDiscover the Japanese art of Kintsugi, celebrating beauty in imperfections.Learn to transform broken pieces into beautiful works of art using gold.All",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/fe113e4119502241cc77fe7e7aab2d33.jpg"
+    ],
+    "startDate": "2026-11-08T16:00:00+05:30",
+    "endDate": "2026-11-08T18:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons - HSR Layout",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17th Cross Rd, Vanganahalli, Sector 6, HSR Layout, Bengaluru, Karnataka 560101, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.912066,
+        "longitude": 77.647094
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lets Getaway",
+      "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "699",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/kintsugi-workshop-in-hsr-layout-oqbshipwt9",
+      "validFrom": "2026-11-07T12:39:04.221Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Lets Getaway",
+        "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/kintsugi-workshop-in-hsr-layout-oqbshipwt9"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kintsugi Workshop in Whitefield",
+    "description": "HighlightsDiscover the Japanese art of Kintsugi, celebrating beauty in imperfections.Learn to transform broken pieces into beautiful works of art using gold.All",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/fe113e4119502241cc77fe7e7aab2d33.jpg"
+    ],
+    "startDate": "2026-11-08T16:00:00+05:30",
+    "endDate": "2026-11-08T19:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "URU (Kaavu) - Whitefield",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Village Main Rd, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.96133,
+        "longitude": 77.732488
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lets Getaway",
+      "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "599",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/kintsugi-workshop-in-whitefield-rfsl601abr",
+      "validFrom": "2026-11-07T12:38:52.192Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Lets Getaway",
+        "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/kintsugi-workshop-in-whitefield-rfsl601abr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kollywood Kuthu – Exclusive Tamil Night Ft DJ Sha",
     "description": "HighlightsBengaluru’s ultimate Kollywood Kuthu NightExclusive Tamil music night featuring DJ ShaSpecial DJ set by DJ KramNon-stop Kollywood hits and high-energy",
     "image": [
@@ -3952,6 +4411,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/lucky-wali-diwali-dj-night-ft-dj-agasya-0uu1q5fgjn"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mafia Night Games in Story Coffee House | Indiranagar",
+    "description": "HighlightsHosted interactive Mafia game sessionsIce-breaker activities to kickstart the eveningMeet new people and make connectionsHidden roles, strategic allia",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/37b7624e042eb38290563d248b2032c7.jpg"
+    ],
+    "startDate": "2026-11-14T19:00:00+05:30",
+    "endDate": "2026-11-14T22:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Story Coffee House & Bistro",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "East West Building, 13th Street, near Indira Nagar, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.971849,
+        "longitude": 77.635112
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lets Getaway",
+      "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "349",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/mafia-night-games-in-story-coffee-house-indiranagar-ianm67g0sv",
+      "validFrom": "2026-11-07T13:00:47.163Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Lets Getaway",
+        "url": "https://www.highape.com/bangalore/organisers/lets-getaway-bfjq6"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/mafia-night-games-in-story-coffee-house-indiranagar-ianm67g0sv"
   },
   {
     "@context": "https://schema.org",
@@ -4353,6 +4861,57 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Monday Madness |  Nolimmits Brigade",
+    "description": "HighlightsMonday Madness featuring DJ&nbsp;HarshHigh-energy mashups of chartbusters and crowd favouritesElectrifying club atmosphere with nonstop musicComplimen",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/07/04/a8cc618eefc45e15324b4b72e8835877.png"
+    ],
+    "startDate": "2026-11-09T20:00:00+05:30",
+    "endDate": "2026-11-10T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge-club-9ubdh"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/monday-madness-nolimmits-brigade-ghxe2e5cci",
+      "validFrom": "2026-11-07T13:11:16.708Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Harsh",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/22/9d81d51194f49b0228c1be579d44bdd0.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-harsh-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/monday-madness-nolimmits-brigade-ghxe2e5cci"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Monday Mischief | Sugar Factory Reloaded",
     "description": "Highlights spinning the hottest BollyTech & commercial tracksHigh-energy Monday night party experienceFree entry for couplesComplimentary drinks for ladiesPremi",
     "image": [
@@ -4693,6 +5252,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/nolimits-diwali-royale-ft-dj-harsh-bhutani-nolimmits-c6w0k57hnl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nolimmits Thursday Ft Electro Smashers | Nolimmits ",
+    "description": "HighlightsRetro-meets-modern Bollywood nightCurated by Electro SmashersNon-stop Bollywood beats and dancingTropical cinema-inspired setting30% off on total food",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/c11719fe666206de291657ad0c9a3c89.png"
+    ],
+    "startDate": "2026-11-12T20:00:00+05:30",
+    "endDate": "2026-11-13T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nolimmits Lounge & Club",
+      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge-club-9ubdh"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "1999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/nolimmits-thursday-ft-electro-smashers-nolimmits-o1dv52n8u4",
+      "validFrom": "2026-11-07T13:11:17.445Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "ElectroSmashers",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/0863bd98/vd3npx5rz8f1jepahyiv.jpg",
+        "url": "https://www.highape.com/bangalore/artists/electrosmashers"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/nolimmits-thursday-ft-electro-smashers-nolimmits-o1dv52n8u4"
   },
   {
     "@context": "https://schema.org",
@@ -7805,6 +8415,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/turn-up-tuesday-wyj6esfvnh"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Unlimited Beer & Biryani Feast",
+    "description": "HighlightsUnlimited beer and unlimited biryaniDelicious, flavour-packed biryani served freshPerfect combination of food and drinksAfternoon dining experience at",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/07/86db20463baadeda1bbdcfbd650c2c08.jpg"
+    ],
+    "startDate": "2026-11-08T12:00:00+05:30",
+    "endDate": "2026-11-08T17:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Brick & Brew Kalyan Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th and 5th Floor, Plot No. 408, 5th Main Rd, above Pizza Bakery, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.02297,
+        "longitude": 77.639524
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Brick & Brew",
+      "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "699",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/unlimited-beer-biryani-feast-wvfg613aj1",
+      "validFrom": "2026-11-07T13:02:16.035Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Brick & Brew",
+        "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/unlimited-beer-biryani-feast-wvfg613aj1"
   },
   {
     "@context": "https://schema.org",

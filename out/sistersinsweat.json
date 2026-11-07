@@ -152,44 +152,6 @@
       "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
       "@type": "Place"
     },
-    "startDate": "2026-11-08T08:30:00+05:30"
-  },
-  {
-    "name": "Sisters and Misters Yoga Mornings",
-    "@type": "SocialEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Yoga-Sisters-Misters",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Yoga-Sisters-Misters",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "350",
-        "priceCurrency": "INR"
-      }
-    ],
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20SISTERS%20%26%20MISTERS%20YOGA%208_30-9_45%20AM%20_%20CUBBON%20PARK.webp",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
-      "@type": "Place"
-    },
     "startDate": "2026-11-15T08:30:00+05:30"
   },
   {
@@ -269,13 +231,13 @@
     "startDate": "2026-11-29T08:30:00+05:30"
   },
   {
-    "name": "Run with the Sisters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
+    "name": "Sisters and Misters Yoga Mornings",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Yoga-Sisters-Misters",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
+      "SISTERSINSWEAT/SESSION"
     ],
     "audience": {
       "@type": "Audience",
@@ -289,23 +251,22 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Yoga-Sisters-Misters",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "200",
+        "price": "350",
         "priceCurrency": "INR"
       }
     ],
-    "sport": "Run",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20RUN%20WITH%20THE%20SISTERS%206_45-8_15%20AM%20_%20CUBBON%20PARK%20(2).webp",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20SISTERS%20%26%20MISTERS%20YOGA%208_30-9_45%20AM%20_%20CUBBON%20PARK.webp",
     "location": {
       "name": "Cubbon Park",
       "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
       "@type": "Place"
     },
-    "startDate": "2026-11-08T06:45:00+05:30"
+    "startDate": "2026-12-06T08:30:00+05:30"
   },
   {
     "name": "Run with the Sisters",
@@ -423,6 +384,45 @@
       "@type": "Place"
     },
     "startDate": "2026-11-29T06:45:00+05:30"
+  },
+  {
+    "name": "Run with the Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "200",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Run",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20RUN%20WITH%20THE%20SISTERS%206_45-8_15%20AM%20_%20CUBBON%20PARK%20(2).webp",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-06T06:45:00+05:30"
   },
   {
     "name": "Badminton Coaching-Beginner & Intermediate",
