@@ -776,6 +776,60 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nagarathpete heritage walk.",
+    "description": "This is what I post about the walk for marketing...On the fourth of our walks through Kempe Gowda’s historic *Pettah*, we venture into one of the oldest and most fascinating quarters of Bengaluru, where centuries of history continue to unfold through its narrow, meandering lanes.Our walk begins with a darshan at one of the city’s most beloved temples, intimately associated with Bengaluru’s celebrated Karaga festival. From here, we wander deeper into the Pettah, uncovering forgotten monuments, old neighbourhoods and stories concealed behind the façades of modern Bengaluru.Along the way, we discover the remarkable story of Mysore’s rockets—military technology perfected under Tipu Sultan and manufactured in this very part of the city. We explore how these rockets travelled from the battlefields of Mysore to Britain, and ultimately influenced the technology that inspired the words of the American national anthem.The walk then takes us to a site connected with India’s struggle for independence, before offering a glimpse into one of the Pettah’s enduring traditions: its silk-weaving community.And, time permitting, we make a quiet visit to the tombs of Sufi warriors who were martyred during the Third Anglo-Mysore War of 1791, adding another, lesser-known chapter to the layered history of the neighbourhood.This is a walk through a Bengaluru that is easy to miss—a city of temples and tombs, warriors and weavers, rockets and revolutionaries, where history survives in lanes, workshops and places of worship.Come walk with us and discover the Pettah beyond the postcard. Spaces are limited, so book your place and join us for this journey into the hidden history of old Bengaluru.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5F4AACDB4FDF47CB824CC5B6673BDD2E_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D342C4F99FE14DC196DB60532BC8A030_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D1644A12B16B43EF8D08F6290D05A674_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6AA24D5C87C44002828AF7307F8C608B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BD440FF81ECF49D1815BFA5D236DCAB7_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BA01331E98D44FE886B532C4FD5B3834_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3C265FDEF88A4F8BBA6C19ED1A09DD4D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E5D775372E1746B88C551BBD7837374F_converted_webp.webp"
+    ],
+    "startDate": "2026-12-05T08:30:00+05:30",
+    "endDate": "2026-12-05T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Nagarathpet Main Rd, Ganigarpet, Nagarathpete, Bengaluru, Karnataka 560002, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ElFOYWdhcmF0aHBldCBNYWluIFJkLCBHYW5pZ2FycGV0LCBOYWdhcmF0aHBldGUsIEJlbmdhbHVydSwgS2FybmF0YWthIDU2MDAwMiwgSW5kaWEiLiosChQKEgnZgsIn4BWuOxEjXgP9kg-WFRIUChIJHdsQYQoWrjsRzqWALz-qkEs",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9665406,
+        "longitude": 77.5813024
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/nagarathpete-darshan-heritage-walk",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Movie, Conversation & Coffee",
     "description": "“movie, conversation & coffee” is a slow, no-pressure evening at Third Place where we:🎬 watch a thoughtfully chosen short films that stirs something real🗣️ sit in a guided group conversation about what it brought up☕ sip on coffee (or chai) while the chat drifts into life, love, work, and everything in betweenNo film bros, no hot takes required. You don’t need to be a cinephile or an extrovert - just come as you are, watch with the room, and share as much or as little as you feel like.If you’ve been craving softer nights, meaningful conversations and new people who feel… human, this one’s for you.",
     "image": [
@@ -5642,7 +5696,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 600.0,
+      "price": 300.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -5894,52 +5948,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "BYO-Personality: Sober Stroll and Conversations",
-    "description": "Bring Your Own Personality: Sober Stroll and ConversationsHow do we discover people anew in life?People who have A tendency to notice things. A capacity to experience life. An ability to assimilate lived experiences. People who delight in discovering themselves and others.How do we make such discoveries?Make some effort.Bring Your Own PersonalityBe Respectful. Be Curious.That should work.What do we exactly do:A group of 8 (max) people. 90 minutes of walk together through a neighbourhood's foothpaths. + Engaging conversations.For starters, Share a glimpse of your personality by filling up this questionnaire.Participants will be curated based on their responses to the questionnaire. The questionnaire could also make you curious about other potential participants. Do check it out.https://opnform.com/forms/byop-qgspepTimeline:Submissions close @ 4 PM (2 hour before the event begins)Meeting point to be sent to confirmed participants via email, from Friday 6 PM. Latest till Saturday 4 PM.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/107ADFA0F6E54E22AE2E34E5A0682A5F_converted_webp.webp"
-    ],
-    "startDate": "2026-11-07T18:00:00+05:30",
-    "endDate": "2026-11-07T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9783692,
-        "longitude": 77.6408356
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 498,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "BYOPersonality",
-      "description": "A human stirring up murmurations. Not a brand or event agency.",
-      "url": "https://urbanaut.app/partner/byopersonality",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/8774EC0A07B44F5AB32C8140ABFA0A37_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/byop-wk2",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Walking Tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The ROAR and The Squeak!",
     "description": "The ROAR and The Squeak! Puppet Show, Art Session and some Fun-Time!For 5-8 Year-OldsVenue: The Gallery, Bangalore Creative CircusDate: 12th December, 2026 (Saturday)Time: 11:00 AM – noon (12:00 PM)About the SessionInspired by the Panchatantra Story, watch the mighty lion and the tiny mouse in a charming puppet show, filled with sing-along songs and storytelling through handmade puppets. Children will then be guided through an art activity to create an animated lion – the imaginative storytelling version of the character on paper!A perfect blend of art, imagination, and storytelling: come and create your own jungle tale!Please Note: This event is exclusively for Kids, and a part of the Bengaluru Jatre festival. Accompanying parent(s) (if needed) can have an additional ticket in the booking.About The Puppeteer/Artist/HostFor Aditi, creativity is a loop of endless possibility: art sparks a character, and story breathes life through imagination. After beginning her career as a UX/UI Design professional in Bengaluru and practicing it for more than a decade; she has been pursuing the joy of imaginative expressions through her venture, band of beads. Narratives are woven through beading, fabrics, and puppetry - crafting tiny worlds with big hearts.Art. Story. Repeat!About the VenueBangalore Creative Circus is an urban living lab for regenerative systems, communities, and cultures. Our physical space is a 20,000 sqft industrial warehouse converted using repurposed materials into an experience centre for sustainability solutions, a learning centre, a creative arts hub, a farm-to-table restaurant, edible gardens, and a community centre for events, workshops, and performances.",
@@ -6033,47 +6041,48 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Monochrome to Modernity: Day 1 - The Golden Age",
-    "description": "Welcome to the first set of screenings of 'From Monochrome to Modernity'!This is a collaboration of The Parallel Cinema Club, Daijoubu eSports and Japan Habba to bring to everyone the rich cinematic culture of Japan. Through curated films from the likes of Kurosawa and Teshigahara, we span through 120 years of Japanese cinema's vibrant richness.The first set of films will look at the Golden Age of Japanese Cinema.About the period: The Golden Age of Japanese cinema, usually dated to the 1950s, early 1960s, grew from a prewar studio system reshaped by postwar Occupation reforms. Rashomon’s 1951 Venice win opened Western markets and brought Kurosawa, Ozu, Mizoguchi, and Naruse global acclaim, while the late-1950s peak of major studios, huge attendance, and widescreen/color gave way in the 1960s to television, studio crises, and changing audiences. Formally, it was a studio-genre synthesis, jidaigeki, gendai-geki, shomingeki, and melodrama using classical continuity with strong mise-en-scène, long takes, and expressive sound, with key styles including Ozu’s low static “tatami” camera and pillow shots, Mizoguchi’s long moving takes, Kurosawa’s dynamic montage and telephoto action, and Naruse’s restrained, elliptical melodrama.Films to be screened:Floating Weeds by Yasujirō Ozu Ikiru by Akira KurosawaWife! Be Like a Rose! by Mikio NaruseThis is a free screening, with breaks after each film. For more details about the curation itself, you can go here: Curation for Japan HabbaPlease note that there are a total of 4 entry passes to this event, and you can either RSVP for select films or all the films. Please be sure to show up early because the seats are not going to be reserved for anyone. The RSVP form is just for our headcount reference. ",
+    "@type": "FoodEvent",
+    "name": "Word of Mouth: A Food Walk with Berty Ashley",
+    "description": "Have you ever stopped mid-bite and wondered why the thing you’re eating is called what it’s called? Why a galouti kebab is a galouti kebab, or which beloved drink took its name from a famously busty actress?Join quiz master Berty Ashley for an afternoon of eating through the city with a historian’s curiosity and a trivia-lover’s glee. As you wander, Berty unpacks the etymology and backstory behind iconic dishes: the accidents, empires, puns and personalities buried in names we say without thinking.The walk pans out on Church Street, hopping through some yummy spots including Indian Coffee House, Empire & Big Fat Roll.Berty AshleyBerty Ashley is a molecular biologist by day and one of Bengaluru’s best-loved quiz masters. He sets The Hindu’s weekly “Easy Like Sunday Morning” quiz, has co-authored a science quiz book, and is a serial collector of music, trivia and clearly food facts. Few people can make you this hungry and this much smarter in a single afternoon.Urbanaut ProductionsWe find the best a city has to offer and then we build a way in. Urbanaut Productions curates urban experiences at the intersection of food, art, music, and culture. For the curious, the restless, and anyone who suspects their city still has a few secrets left.",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4095584C43BB4D3ABBC5BC94F245B91D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2B2D338E56DE4B57A966393614A95E83_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1D008FF251A743DDAB7D0F136EFF48B4_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4EAFB1D382054308ADFA2480330BEAC0_converted_webp.webp"
     ],
-    "startDate": "2026-11-07T14:30:00+05:30",
-    "endDate": "2026-11-07T22:00:00+05:30",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.983484,
-        "longitude": 77.61101699999999
+        "latitude": 12.974422,
+        "longitude": 77.60733970000001
       }
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 11,
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 0.0,
+      "price": 1785.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": "Join Bangalore's Parallel Cinema Club for weekly arthouse screenings and lively discussions. No fees, just a love for film—come discover cinema together!",
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp"
+      "name": "Urbanaut Productions",
+      "description": "At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one - or three - or hit us up with ideas and collaborations!",
+      "url": "https://urbanaut.app/partner/urbanaut-productions",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/B355D735DB6A4CEBAFB98E811AA4D5B6_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/monochrome-to-modernity-day-1-the-golden-age",
+    "url": "https://urbanaut.app/spot/word-of-mouth-a-food-walk-with-berty-ashley",
     "keywords": [
-      "Art & culture",
+      "Local",
+      "Walking Tour",
+      "Food & drink",
+      "Guided tour",
       "URBANAUT"
     ]
   }
