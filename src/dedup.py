@@ -72,6 +72,12 @@ def core_title(name):
     return normalize(re.split(r"\s*[-|:–]\s+|\s+by\s+", name, maxsplit=1)[0])
 
 
+def segments(name):
+    # Sites prefix one talk's title differently, as in Series: Topic
+    parts = (normalize(p) for p in re.split(r"\s*[-|:–]\s+", name))
+    return {p for p in parts if len(p.split()) >= 3}
+
+
 def text_of(event, key):
     value = event.get(key)
     if isinstance(value, dict):
@@ -212,6 +218,8 @@ def is_duplicate(a, b):
     if compact(a.get("name", "")) == compact(b.get("name", "")):
         return True
     if x.replace(" ", "") == y.replace(" ", ""):
+        return True
+    if segments(a.get("name", "")) & segments(b.get("name", "")) and same_place(a, b):
         return True
     return len(x.split()) >= 3 and f" {x} " in f" {y} "
 

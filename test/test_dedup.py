@@ -171,6 +171,7 @@ def test_titles_must_overlap_enough():
     assert not dup("Amour", "Screening of Amour")
     assert not dup("", "Amour")
     assert not dup("- Rage Room", "- Rage Room Bengaluru")
+    assert not dup("Asha - Live in Concert", "Ravi - Live in Concert")
     assert dup("Dark and Late Comedy show", "Dark & Late Comedy Show")
     assert dup(
         "Office chugli stand-up comedy crowd work show",
@@ -475,3 +476,14 @@ def test_dedup_merges_one_show_listed_by_two_organisers(tmp_path):
     events = run(tmp_path, [(e["url"], e) for e in (a, b, c)])
     assert sorted(events) == sorted([a["url"], c["url"]])
     assert events[a["url"]]["sameAs"] == [b["url"]]
+
+
+def test_shared_title_segment_at_one_place():
+    place = {
+        "name": "Maize & Malt",
+        "geo": {"latitude": 12.99554, "longitude": 77.7011},
+    }
+    a = {"name": "Pint of View (Lecture #124): How to Talk About Sex in Public"}
+    b = {"name": "Pint of View Lecture Over Drinks: How to Talk About Sex in Public"}
+    assert is_duplicate(a | {"location": place}, b | {"location": place})
+    assert not is_duplicate(a | {"location": place}, b | {"location": {"name": "X"}})
