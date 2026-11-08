@@ -6076,5 +6076,49 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Rocket!- A Comics Magazine for All Ages",
+    "description": "Blastoff!Come celebrate Rocket! , a brand new comics magazine for readers of all ages co-published by Indian Summer Press and Studio Niyet. There will be a storytelling session, an opportunity to colour a variety of comics panels, as well as a chance to write your own dialogue for different scenes!All alongside open chit chat with the publishers and editors.Just like the magazine, fun for all ages!Age group: Five to ninety-five!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/2CAB950397EE44229E536E11A2FB0769_converted_webp.webp"
+    ],
+    "startDate": "2026-11-14T17:30:00+05:30",
+    "endDate": "2026-11-14T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta",
+      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 87,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/rocket-a-comics-magazine-for-all-ages",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]

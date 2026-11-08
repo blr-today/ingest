@@ -199,6 +199,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "APR Amplified 2026 — Adarsh Palm Retreat Festival",
+    "image": "https://cdn-az.allevents.in/events2/banners/667ce785083aade8b2a435ef5a0fe5c914161921da25778991458942ac266dbb-rimg-w1200-h457-dc782868-gmir?v=1794155622",
+    "startDate": "2026-11-22T10:00:00+05:30",
+    "endDate": "2026-11-22T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/apr-amplified-2026-adarsh-palm-retreat-festival/200031002063244",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Adarsh Palm Retreat Phase 3, Devarabisanahalli, Bellandur, Outer Ring Road, Bangalore, India 560103, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sobha Iris Apartments, 4004, Devarabisanahalli, Bengaluru 560103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.93107",
+        "longitude": "77.68577"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "APR Amplified is the first annual festival of Adarsh Palm Retreat Condominiums Phase 3 (APRCP3) in Bellandur, Bangalore — built by residents, for residents of Adarsh Palm Retreat apartments and villas and their families.\n\nSunday 22 November 2026, 10 AM to 10 PM, inside the APR Phase 3 grounds:\n• 10",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "APR Amplified",
+        "url": "https://allevents.in/org/apr-amplified/28376775"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Yuvan Shankar Raja in Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/ad163e10-7d14-11f1-a0f0-b3fc05930e16-rimg-w1200-h675-dceffffe-gmir.webp?v=1783766318",
@@ -541,6 +576,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Art of Manipulation Meetup: Corporate Edition",
+    "image": "https://cdn-az.allevents.in/events9/banners/7f9e9050-db0a-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc281848-gmir.jpg?v=1794097356",
+    "startDate": "2026-11-14T15:30:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Kettle and Krust Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mig.103, 17th H Main Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9352",
+        "longitude": "77.617"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "A live, hands-on workshop on the games people play at work.Your boss, your peers, the appraisal form, and the \"quick call\" at 7 PM. Some of them are playing you, and some don't even know it.The Art of Manipulation is a live meetup series on the psychology of influence. This Corporate Edition is all",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-12",
+        "availabilityEnds": "2026-11-14T18:00:00+05:30",
+        "validFrom": "2026-10-12",
+        "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Po'pourrie: A Children's Festival",
     "image": "https://cdn-az.allevents.in/events7/banners/77b07630-d743-11f1-9f1b-13af6280af23-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1793682019",
     "startDate": "2026-11-13T11:00:00+05:30",
@@ -574,6 +648,45 @@
         "availabilityEnds": "2026-11-13T13:45:00+05:30",
         "validFrom": "2026-10-29",
         "url": "https://allevents.in/bangalore/popourrie-a-childrens-festival/3900030934339515"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hand Crafted pottery",
+    "image": "https://cdn-az.allevents.in/events6/banners/5732e5d0-dae7-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1794082261",
+    "startDate": "2026-11-14T13:15:00+05:30",
+    "endDate": "2026-11-14T14:15:00+05:30",
+    "url": "https://allevents.in/bangalore/hand-crafted-pottery/3900030941118537",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe Coffee Day: Koramangala, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No, 426, 8th Main Road, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9344",
+        "longitude": "77.6256"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Discover the joy of working with clay and create something truly unique with your own hands.Join us for a relaxing handcrafted pottery workshop where you will learn the basics of pottery in a fun and beginner friendly environment. From shaping and molding clay to adding your own creative touch, you",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-31",
+        "availabilityEnds": "2026-11-14T14:15:00+05:30",
+        "validFrom": "2026-10-31",
+        "url": "https://allevents.in/bangalore/hand-crafted-pottery/3900030941118537"
       }
     ]
   },
@@ -613,6 +726,84 @@
         "availabilityEnds": "2026-12-06T19:00:00+05:30",
         "validFrom": "2026-10-31",
         "url": "https://allevents.in/bangalore/taylor-swifts-the-eras-night-30/3900030942334746"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kintsugi Art Workshop",
+    "image": "https://cdn-az.allevents.in/events1/banners/5fdeda90-daf1-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794086565",
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T12:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kintsugi-art-workshop/3900030950973454",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe Coffee Day, J.P Nagar: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ward No. 57, Ground Floor, PID No. 57, 27/N/1/1, 24th Main Road, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9123",
+        "longitude": "77.5855"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "This Pass includes food/beverage voucher which you can redeem at venue .Turn imperfection into beauty  Join us for a cozy Kintsugi Art Workshop at Tim Hortons, HSR A slow creative evening with guided sessions, all materials provided & your own handmade creation to take home .",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-11-14T12:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "url": "https://allevents.in/bangalore/kintsugi-art-workshop/3900030950973454"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay Jellyfish Wind Chime - Banglore",
+    "image": "https://cdn-az.allevents.in/events1/banners/a7596ff0-db02-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1794093986",
+    "startDate": "2026-11-14T14:01:00+05:30",
+    "endDate": "2026-11-14T15:31:00+05:30",
+    "url": "https://allevents.in/bangalore/clay-jellyfish-wind-chime-banglore/3900030995997927",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Koramangala Social: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Seventh Block, Plot 118, 80 Feet Road, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9355",
+        "longitude": "77.6141"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Bring a little bit of the ocean into your home by creating your very own adorable clay jellyfish wind chime. Learn how to shape and decorate clay to create a playful jellyfish inspired design that moves beautifully with the breeze. Experiment with colours, textures, and decorative details as you per",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-14T15:31:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/clay-jellyfish-wind-chime-banglore/3900030995997927"
       }
     ]
   },
@@ -769,45 +960,6 @@
         "availabilityEnds": "2026-11-14T23:00:00+05:30",
         "validFrom": "2026-11-04",
         "url": "https://allevents.in/bangalore/classic-rock-night-ft-wooden-shield-from-kerala/3900030965044019"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Kadhalum Kavithaigalum Tamil Jamming",
-    "image": "https://cdn-az.allevents.in/events6/banners/6f29db20-d7e6-11f1-b03f-97a3091e4506-rimg-w1200-h600-dc180808-gmir.jpg?v=1793752013",
-    "startDate": "2026-11-08T18:00:00+05:30",
-    "endDate": "2026-11-08T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/kadhalum-kavithaigalum-tamil-jamming/3900030965081753",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bloom Creative Zone, HSR: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2nd and 3rd floor, AJ Towers, 1174, Bloom Creative Zone - HSR, 24th Main Road, Above Axis Bank, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9068",
-        "longitude": "77.6489"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Kadhalum Kavithaigalum - Where Tamil Music Meets Emotions!Some songs are not just heard, they are felt!Get ready for a magical Tamil Sing Along experience filled with evergreen melodies, heart touching love songs, nostalgic classics, and your all time favourites!Sing your heart out, vibe with live m",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-08T20:00:00+05:30",
-        "validFrom": "2026-11-04",
-        "url": "https://allevents.in/bangalore/kadhalum-kavithaigalum-tamil-jamming/3900030965081753"
       }
     ]
   },
@@ -1126,45 +1278,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "SUNDAY NIGHT LIVE ft. KOE &amp; MANUNA",
-    "image": "https://cdn-az.allevents.in/events8/banners/a41bcfb0-d916-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc381808-gmir.jpg?v=1793882669",
-    "startDate": "2026-11-08T20:00:00+05:30",
-    "endDate": "2026-11-08T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/sunday-night-live-ft-koe-and-manuna/3900030976852729",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "ICB Indian Craft Brewery: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sy no 90/3, K, 572/90, Outer Ring Road, Manayata Tech Park, Nagawara, Beside Manpo Convention Center, DadaMastan Layout,Bengaluru, Karnataka 560077, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0419",
-        "longitude": "77.6161"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "THIS SUNDAY NIGHT ft. KOE & MANUNASUNDAY PLANS? WE'VE GOT THE SOUNDTRACK.Some Sundays deserve more than just another night in. This one comes with live music, familiar favourites, and all the right reasons to stay out a little longer.Catch KOE & MANUNA live at ICB as they bring an English Pop experi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-08T23:00:00+05:30",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/sunday-night-live-ft-koe-and-manuna/3900030976852729"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Art therapy with Mindfulness",
     "image": "https://cdn-az.allevents.in/events10/banners/d2367c10-d916-11f1-903c-1fb53f357c14-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1793882746",
     "startDate": "2026-11-15T10:30:00+05:30",
@@ -1360,6 +1473,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Mattaya 22:39 - GSR Sanchaya Uthsava 2026",
+    "image": "https://cdn-az.allevents.in/events9/banners/6b784fe0-d91a-11f1-903c-1fb53f357c14-rimg-w1200-h600-dca84838-gmir.jpg?v=1793884292",
+    "startDate": "2026-11-13T19:00:00+05:30",
+    "endDate": "2026-11-13T20:40:00+05:30",
+    "url": "https://allevents.in/bangalore/mattaya-22-39-gsr-sanchaya-uthsava-2026/3900030977041232",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Kalagrama Bengaluru University: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mallatahalli Road, NGEF Layout, Kengunte, Jnana Bharathi, Bengaluru, Karnataka 560072, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.957",
+        "longitude": "77.505"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The play \"Mattaya 22:39\" delves deeply into themes of love, hatred, selfishness, and betrayal. Through powerful visuals and raw emotions, it portrays how adversity transforms the human mind.The plot is set in a time when all living things on earth are perishing due to a terrible drought. Surprisingl",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-11-13T20:40:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/mattaya-22-39-gsr-sanchaya-uthsava-2026/3900030977041232"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dhumrapaan",
     "image": "https://cdn-az.allevents.in/events5/banners/017d9db0-d91b-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc482878-gmir.jpg?v=1793884543",
     "startDate": "2026-11-21T15:30:00+05:30",
@@ -1438,45 +1590,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Neram Tamil Gathering",
-    "image": "https://cdn-az.allevents.in/events1/banners/57b9e120-d91b-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc080808-gmir.jpg?v=1793884688",
-    "startDate": "2026-11-08T21:30:00+05:30",
-    "endDate": "2026-11-08T22:30:00+05:30",
-    "url": "https://allevents.in/bangalore/neram-tamil-gathering/3900030977074809",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9787",
-        "longitude": "77.6455"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Join Neram Tamil Gathering, a relaxed community meetup bringing Tamil speakers and Tamil culture enthusiasts together for an evening of conversations, shared experiences, and community spirit.Whether you are new to the city, looking to meet fellow Tamil speakers, or simply interested in spending tim",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-08T22:30:00+05:30",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/neram-tamil-gathering/3900030977074809"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Pukkate Salahe (Comedy Drama)",
     "image": "https://cdn-az.allevents.in/events1/banners/f5e99140-d91d-11f1-903c-1fb53f357c14-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1793885812",
     "startDate": "2026-11-28T19:00:00+05:30",
@@ -1517,25 +1630,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Board Games",
-    "image": "https://cdn-az.allevents.in/events6/banners/a6681a90-d91f-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc080808-gmir.jpg?v=1793886544",
-    "startDate": "2026-11-08T16:00:00+05:30",
-    "endDate": "2026-11-08T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/board-games/3900030977231704",
+    "image": "https://cdn-az.allevents.in/events6/banners/a6681a90-d91f-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc080808-gmir.jpg?v=1793886561",
+    "startDate": "2026-11-14T19:00:00+05:30",
+    "endDate": "2026-11-14T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/board-games/3900030977232521",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Chin Lung Brewery, Marathalli: Bengaluru",
+      "name": "Toffee And Talk: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "4th Floor, No 35, Marathahalli - Sarjapur Outer Ring Road, Opposite to Oracle and JP Morgan, Kadubeesanahalli, Bengaluru, Karnataka 560103, India",
+        "streetAddress": "36th Cross, 20th Main Rd, Jayanagar, Bengaluru, Karnataka 560041, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9414",
-        "longitude": "77.6967"
+        "latitude": "12.9232",
+        "longitude": "77.5907"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1546,9 +1659,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-08T19:00:00+05:30",
+        "availabilityEnds": "2026-11-14T22:00:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/board-games/3900030977231704"
+        "url": "https://allevents.in/bangalore/board-games/3900030977232521"
       }
     ]
   },
@@ -1588,45 +1701,6 @@
         "availabilityEnds": "2026-11-21T23:00:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/silsila-ft-rvx-musix-jollygunj-yelahanka/3900030977237207"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Fun Boardgames Meetup",
-    "image": "https://cdn-az.allevents.in/events6/banners/a3464bb0-d920-11f1-903c-1fb53f357c14-rimg-w1200-h600-dcf8f8b8-gmir.jpg?v=1793886968",
-    "startDate": "2026-11-08T17:00:00+05:30",
-    "endDate": "2026-11-08T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900030977240309",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Chelvies Coffee Roastery: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Chelvies Roastery, Main Road, NAL Colony, Jeevan Bima Nagar, Bengaluru, Karnataka 560075, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9678",
-        "longitude": "77.6528"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "* Say no to boring weekends and get started with this joyful hobby. Dont think twice, just come over to our events where fun is guaranteed. We offer a wide range of carefully chosen board games (50+ board and card games) to rekindle the child in you and bring back those joyful days you experienced a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-08T19:00:00+05:30",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900030977240309"
       }
     ]
   },
@@ -1711,45 +1785,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "r/Bangalore Gone Wild",
-    "image": "https://cdn-az.allevents.in/events2/banners/01613d00-d9d4-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc280818-gmir.jpg?v=1793964006",
-    "startDate": "2026-11-08T21:00:00+05:30",
-    "endDate": "2026-11-08T22:15:00+05:30",
-    "url": "https://allevents.in/bangalore/r-bangalore-gone-wild/3900030984149406",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bloom Creative Zone, Indiranagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "KFC Signal, 483, 2nd Floor Right Wing, BEA Center 100 Ft Road, Chinmaya Mission Hospital Road, Indiranagar, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9785",
-        "longitude": "77.6411"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "r/Bangalore Gone Wild an unfiltered comedy show about all things taboo. Inspired by the sub-reddit dedicated to the degenerates of this city this is a no holds barred show thats guaranteed to make you laugh the night away. Grab a drink and watch the funniest people in the city share stories of their",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-06",
-        "availabilityEnds": "2026-11-08T22:15:00+05:30",
-        "validFrom": "2026-11-06",
-        "url": "https://allevents.in/bangalore/r-bangalore-gone-wild/3900030984149406"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "SCC Candlelight Cinema - Jab We Met",
     "image": "https://cdn-az.allevents.in/events5/banners/7ed071c0-d9d4-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc080808-gmir.jpg?v=1793964210",
     "startDate": "2026-11-20T19:45:00+05:30",
@@ -1783,6 +1818,45 @@
         "availabilityEnds": "2026-11-20T22:03:00+05:30",
         "validFrom": "2026-11-06",
         "url": "https://allevents.in/bangalore/scc-candlelight-cinema-jab-we-met/3900030984171331"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Retro Night",
+    "image": "https://cdn-az.allevents.in/events3/banners/94b6fb30-d9d4-11f1-8ed8-ab03d89c84bc-rimg-w1200-h600-dc180808-gmir.jpg?v=1793964247",
+    "startDate": "2026-11-15T19:00:00+05:30",
+    "endDate": "2026-11-15T21:00:00+05:30",
+    "url": "https://allevents.in/bangalore/retro-night/3900030984173608",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bloom Creative Zone - Sarjapura: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, 5, 100 Feet Road, Road, Sarjapura, Mullur, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9028",
+        "longitude": "77.709"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Dust off those dancing shoes and rewind the tapes because we are taking it all the way back!Join us at for an unforgettable RETRO NIGHT at BLOOM SARJAPUR.A night filled with iconic beats, neon vibes, and vintage energy.Dress in your best retro chic, grab your crew and let's hit the dance floor!Let's",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-11-15T21:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "url": "https://allevents.in/bangalore/retro-night/3900030984173608"
       }
     ]
   },
@@ -1906,6 +1980,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Social Deduction",
+    "image": "https://cdn-az.allevents.in/events7/banners/c2b7a460-da2b-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794001697",
+    "startDate": "2026-11-13T20:00:00+05:30",
+    "endDate": "2026-11-13T23:00:00+05:30",
+    "url": "https://allevents.in/bangalore/social-deduction/3900030989418117",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Wild Rabbit Cafe And Bakehouse: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5th Floor, Sno 270, Kno 256, Beml Layout, Kundalahalli, Bengaluru, Karnataka 560037, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9591",
+        "longitude": "77.719"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Social Deduction NightEnter a world of lies hidden identities and psychological mind games where every decision matters and trust can change in an instantThis experience is all about reading people building alliances and figuring out who is secretly working against the groupWhat to ExpectHosted soci",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-11-13T23:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "url": "https://allevents.in/bangalore/social-deduction/3900030989418117"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Halloween clay",
     "image": "https://cdn-az.allevents.in/events6/banners/904c0e40-da48-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc482818-gmir.jpg?v=1794014067",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -1939,6 +2052,84 @@
         "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
         "url": "https://allevents.in/bangalore/halloween-clay/3900030990846927"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Beach texture art",
+    "image": "https://cdn-az.allevents.in/events4/banners/3a86fa00-da71-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcc8b8a8-gmir.jpg?v=1794031527",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/beach-texture-art/3900030992354827",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9399",
+        "longitude": "77.6196"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Beach Texture art workshopBring the serenity of the seaside to life in this beginner friendly workshop. Create a beautiful beach inspired textured artwork using layers natural tones and artistic techniques to capture the feeling of sand waves and the ocean. Take home a unique handmade piece for your",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-14T16:30:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/beach-texture-art/3900030992354827"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clay Tic Tac Toe Workshop",
+    "image": "https://cdn-az.allevents.in/events2/banners/df659760-da72-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc989888-gmir.jpg?v=1794032271",
+    "startDate": "2026-11-09T13:00:00+05:30",
+    "endDate": "2026-11-09T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/clay-tic-tac-toe-workshop/3900030992403351",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU Whitefield: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9613",
+        "longitude": "77.7325"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Clay Tic Tac Toe Where Play Meets Clay! Join us for a hands on workshop that blends creativity with classic fun. You will craft your very own Tic Tac Toe board and pieces entirely out of clay personalize it with your choice of colors, shapes, and textures. It is not just art, it is a playable keepsa",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-09T14:00:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/clay-tic-tac-toe-workshop/3900030992403351"
       }
     ]
   },
@@ -2179,6 +2370,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Mini Masterpiece",
+    "image": "https://cdn-az.allevents.in/events5/banners/1fa3f3a0-da85-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc181818-gmir.jpg?v=1794040094",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9399",
+        "longitude": "77.6196"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Mini Masterpiece Workshop: Model Your ImaginationDiscover the joy of shaping clay into stunning creations! Our Mini Masterpiece workshop is perfect for both beginners and experienced artists. Learn various techniques to mold, shape, and decorate your own unique pieces.Note: All materials provided.No",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-14T16:30:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Spin Fluid",
     "image": "https://cdn-az.allevents.in/events9/banners/e2954f80-da9e-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dca89888-gmir.jpg?v=1794051136",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -2251,84 +2481,6 @@
         "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
         "url": "https://allevents.in/bangalore/little-trinkets/3900030993777103"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Clay Home Decor",
-    "image": "https://cdn-az.allevents.in/events1/banners/ff40b700-dad0-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc483818-gmir.jpg?v=1794072676",
-    "startDate": "2026-11-08T15:01:00+05:30",
-    "endDate": "2026-11-08T16:16:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-home-decor/3900030994614217",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9873",
-        "longitude": "77.5945"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Clay Home Decor Unleash your creativity and explore the beautiful world of clay with our Clay Home Decor Workshop. Learn how to shape and mould clay into a unique decorative piece while enjoying a relaxing and creative experience. Whether you are a complete beginner or someone who enjoys working wit",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-08T16:16:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/clay-home-decor/3900030994614217"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pottery Date",
-    "image": "https://cdn-az.allevents.in/events3/banners/e6c71080-dad9-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dce8a868-gmir.jpg?v=1794076484",
-    "startDate": "2026-11-08T15:15:00+05:30",
-    "endDate": "2026-11-08T16:15:00+05:30",
-    "url": "https://allevents.in/bangalore/pottery-date/3900030994853044",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe De Verde: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9408",
-        "longitude": "77.6233"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Clay and Connect, Hand Building Pottery Date.Trade the usual date night for something hands on, heartfelt, and unforgettable. In this intimate pottery experience, you and your partner will shape raw clay into meaningful creations, together.Using traditional hand building techniques, no wheel needed,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-08T16:15:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/pottery-date/3900030994853044"
       }
     ]
   },
@@ -2414,25 +2566,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Resin Art",
-    "image": "https://cdn-az.allevents.in/events10/banners/fc263d50-dae0-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794079526",
-    "startDate": "2026-11-08T14:00:00+05:30",
-    "endDate": "2026-11-08T15:30:00+05:30",
-    "url": "https://allevents.in/bangalore/resin-art/3900030995023726",
+    "image": "https://cdn-az.allevents.in/events10/banners/fc263d50-dae0-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794079542",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/resin-art/3900030995025242",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "URU Whitefield: Bengaluru",
+      "name": "Cafe Coffee Day: Koramangala, Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "streetAddress": "Shop No, 426, 8th Main Road, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9613",
-        "longitude": "77.7325"
+        "latitude": "12.9344",
+        "longitude": "77.6256"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -2443,9 +2595,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-08T15:30:00+05:30",
+        "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/resin-art/3900030995023726"
+        "url": "https://allevents.in/bangalore/resin-art/3900030995025242"
       }
     ]
   },
@@ -2491,45 +2643,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clay Workshop",
-    "image": "https://cdn-az.allevents.in/events2/banners/ca61cd60-dae1-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc783848-gmir.jpg?v=1794079872",
-    "startDate": "2026-11-08T16:00:00+05:30",
-    "endDate": "2026-11-08T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-workshop/3900030995046112",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tim Hortons, HSR Layout: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "17th Cross Road, Vanganahalli, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9121",
-        "longitude": "77.6471"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Clay WorkshopCreate  Paint  Take HomeGet hands on with clay and create something meaningful from scratch. Perfect for beginners, couples, and anyone looking to unwind creatively.What You Can MakeChoose what you would like to create during the workshop.Clay Key Chain  Minimal, fun, and perfect for e",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-08T19:00:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/clay-workshop/3900030995046112"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Kids Molten Chocolava Workshop",
     "image": "https://cdn-az.allevents.in/events5/banners/dcbe48e0-dae5-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dce8e8e8-gmir.jpg?v=1794081621",
     "startDate": "2026-11-15T10:00:00+05:30",
@@ -2569,6 +2682,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Pottery Painting Workshop",
+    "image": "https://cdn-az.allevents.in/events8/banners/0018ec90-dae7-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcd8d8e8-gmir.jpg?v=1794082130",
+    "startDate": "2026-11-09T13:01:00+05:30",
+    "endDate": "2026-11-09T14:31:00+05:30",
+    "url": "https://allevents.in/bangalore/pottery-painting-workshop/3900030995159150",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "URU Whitefield: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pattandur Agrahara Road, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9613",
+        "longitude": "77.7325"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Perfect for beginners and enthusiasts alike it is more than just a creative outlet it is a chance to connect with fellow members and share the experience in a relaxed social atmospherePottery Painting Workshop Unleash Your Inner ArtistDiscover the joy of creating beautiful pottery piecesJoin us for",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-09T14:31:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/pottery-painting-workshop/3900030995159150"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Neram Presents Japanese Kintsugi Workshop",
     "image": "https://cdn-az.allevents.in/events4/banners/a7406020-daf6-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcd8c8c8-gmir.jpg?v=1794088832",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -2602,84 +2754,6 @@
         "availabilityEnds": "2026-11-14T16:00:00+05:30",
         "validFrom": "2026-11-07",
         "url": "https://allevents.in/bangalore/neram-presents-japanese-kintsugi-workshop/3900030995582933"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cookie Decoration",
-    "image": "https://cdn-az.allevents.in/events4/banners/2e18ff80-dafc-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcd80808-gmir.jpg?v=1794091206",
-    "startDate": "2026-11-08T17:34:00+05:30",
-    "endDate": "2026-11-08T18:34:00+05:30",
-    "url": "https://allevents.in/bangalore/cookie-decoration/3900030995765007",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brik Oven, Sarjapur Road: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "401, Sarjapur Main Road, Doddakannelli, Bengaluru, Karnataka 560035, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9081",
-        "longitude": "77.6933"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the festive spirit with our Christmas Cookie Decoration Workshop! This hands-on, beginner-friendly session is designed to help you explore the joy of decorating delicious Christmas cookies with creative techniques, colours, sprinkles, and festive designs.Whether you are joining with friend",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-08T18:34:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/cookie-decoration/3900030995765007"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "NEON PAINTING",
-    "image": "https://cdn-az.allevents.in/events1/banners/4b640330-dafe-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794092114",
-    "startDate": "2026-11-08T15:17:00+05:30",
-    "endDate": "2026-11-08T16:32:00+05:30",
-    "url": "https://allevents.in/bangalore/neon-painting/3900030995848115",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9873",
-        "longitude": "77.5945"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Neon Painting Workshop Step into a glowing world of colors and creativity!  Experience the magic of neon painting and create artwork that literally shines in the dark  What You ll DoPaint with vibrant neon colors Explore free-flow, glowing designs Create your own luminous masterpiece What You Get A",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-08T16:32:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/neon-painting/3900030995848115"
       }
     ]
   },
@@ -2758,45 +2832,6 @@
         "availabilityEnds": "2026-11-14T18:00:00+05:30",
         "validFrom": "2026-11-08",
         "url": "https://allevents.in/bangalore/phirsay-no-strangers-here/3900030996216658"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Resin Beach Magic",
-    "image": "https://cdn-az.allevents.in/events6/banners/ad6f8980-db0a-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcc8d8f8-gmir.jpg?v=1794097433",
-    "startDate": "2026-11-08T15:19:00+05:30",
-    "endDate": "2026-11-08T16:49:00+05:30",
-    "url": "https://allevents.in/bangalore/resin-beach-magic/3900030996248953",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe De Verde: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9408",
-        "longitude": "77.6233"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Resin Beach Art Workshop.Bring the ocean to life on canvas. Dive into creativity and design your own stunning beach inspired resin artwork, complete with dreamy waves, sandy textures, and seaside vibes.In this hands on workshop, you will learn how to work with resin to create realistic ocean effects",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-08T16:49:00+05:30",
-        "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bangalore/resin-beach-magic/3900030996248953"
       }
     ]
   },
@@ -2882,45 +2917,6 @@
         "availabilityEnds": "2026-11-14T16:10:00+05:30",
         "validFrom": "2026-11-08",
         "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030996324922"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "MINI CANVAS PAINTING",
-    "image": "https://cdn-az.allevents.in/events4/banners/c2afc400-db0e-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1794099197",
-    "startDate": "2026-11-08T15:24:00+05:30",
-    "endDate": "2026-11-08T16:24:00+05:30",
-    "url": "https://allevents.in/bangalore/mini-canvas-painting/3900030996327818",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe Coffee Day, Vasanth Nagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No. 35/4, Ground Flr, Cunningham Road, nr. Grand Sigma Mall, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9873",
-        "longitude": "77.5945"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Mini Canvas Painting WorkshopUnleash your creativity on a tiny canvas with big imagination. Join us for a fun and relaxing session where you will create your own mini masterpiece.What you will do.Learn basic painting techniques.Create cute and aesthetic mini artworks.Design your own canvas painting",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-08T16:24:00+05:30",
-        "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bangalore/mini-canvas-painting/3900030996327818"
       }
     ]
   },
@@ -3038,45 +3034,6 @@
         "availabilityEnds": "2026-12-05T20:00:00+05:30",
         "validFrom": "2026-11-08",
         "url": "https://allevents.in/bangalore/tamasha-a-dance-theatre-musical-by-flux/3900030996507258"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "MONDAY BLUES Bollywood DJ Night ft DJ Dhruv",
-    "image": "https://cdn-az.allevents.in/events5/banners/cd0a7700-db14-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794101781",
-    "startDate": "2026-11-09T19:30:00+05:30",
-    "endDate": "2026-11-10T02:10:00+05:30",
-    "url": "https://allevents.in/bangalore/monday-blues-bollywood-dj-night-ft-dj-dhruv/3900030996514521",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Toca: Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "122/A, 105, 1st A Cross Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.935",
-        "longitude": "77.616"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Monday blues at TOCA Koramangala!Get ready for a power-packed Bollywood Night as DJ DHRUV spinning the hottest hits and high-energy beats that will keep you on the dance floor all night long!Valet service availableIncredible sound, lights & energyThe best crowd in townAnd vibes that only TOCA can de",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-10T02:10:00+05:30",
-        "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bangalore/monday-blues-bollywood-dj-night-ft-dj-dhruv/3900030996514521"
       }
     ]
   },
@@ -3826,70 +3783,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Tamil Jamming Night - Budbee 104",
-    "image": "https://cdn-az.allevents.in/events10/banners/da142420-d8fb-11f1-903c-1fb53f357c14-rimg-w1200-h675-dc080808-gmir.jpg?v=1793871163",
-    "startDate": "2026-11-08T19:30:00+05:30",
-    "endDate": "2026-11-08T21:30:00+05:30",
-    "url": "https://allevents.in/bangalore/tamil-jamming-night-budbee-104/4100030975549943",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "BudBee 104 Resto Bar | Koramangala 7th Block, Bangalore",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Koramangala 7th Block, Bangalore",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9332",
-        "longitude": "77.6147"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bengaluru, get ready to sing your heart out! ❤️‍🔥🎤From your all-time favourite Tamil melodies to mass kuthu beats, this Sunday is all about great music, good vibes, and singing together! 🎸🎶🎤 Sing your favourite Tamil songs🎶 Relive the magic of Tamil music❤️ From soulful melodies to energetic kuthu b",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-08T21:30:00+05:30",
-        "validFrom": "2026-11-05",
-        "lowPrice": "199.00",
-        "highPrice": "199.00",
-        "price": "199.00",
-        "url": "https://allevents.in/bangalore/tamil-jamming-night-budbee-104/4100030975549943"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/tamil-jamming-night-budbee-104/4100030975549943",
-        "price": "199.00",
-        "name": "Male"
-      },
-      {
-        "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/tamil-jamming-night-budbee-104/4100030975549943",
-        "price": "199.00",
-        "name": "Early Bird Female"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Pawga's Yoga with Puppies at TreeHouse",
     "image": "https://cdn-az.allevents.in/events7/banners/c8b50ed0-d9d0-11f1-8ed8-ab03d89c84bc-rimg-w1200-h675-dcf8f8e8-gmir.jpg?v=1793962616",
@@ -4300,6 +4193,191 @@
         "name": "Ameeshi Goenka",
         "url": "https://allevents.in/org/ameeshi-goenka/27929903",
         "description": "Ameeshi Goenka is the founder of Around Big Cities (ABC), a community-driven platform that curates treks, road trips, heritage walks, outdoor adventures, and experiential events across India.An entrepreneur and interior designer by profession, she also leads DPG Interiors, where she specializes in creating thoughtful and functional spaces. Her passion for travel, nature, culture, and human connection inspired the creation of ABC—a platform that brings together like-minded people through meaningful outdoor experiences.Through ABC, Ameeshi aims to make adventure accessible, safe, inclusive, and memorable for participants of all ages and experience levels."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "House of Sobers",
+    "image": "https://cdn-az.allevents.in/events2/banners/a4a1bd48c12beebc43d1c8ee8fe75a52a50b62872dd5899926d15c6c3631b39e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1786085337",
+    "startDate": "2026-08-14T19:30:00+05:30",
+    "endDate": "2026-11-13T20:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Buddiezz Cafe - Board Games Cafe",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "614 80 Feet Road",
+        "postalCode": "560095",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9380577",
+        "longitude": "77.6262773"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Join in the action.Bond over Boardgames.\nThere are dedicated game masters to help everyone find a suitable game, form groups and teach rules",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-07",
+        "availabilityEnds": "2026-11-13T20:00:00+05:30",
+        "validFrom": "2026-08-07",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-07",
+        "availabilityEnds": "",
+        "validFrom": "2026-08-07",
+        "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784",
+        "price": 0,
+        "name": "On-the-spot Payment"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "HSR meetups",
+        "url": "https://allevents.in/org/hsr-meetups/25535050"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Startup Stories by Bengaluru Founders",
+    "image": "https://cdn-az.allevents.in/events7/banners/75cf21b40df057374573786682ff5518969c778ff20e936d0a34dfc33ab6133a-rimg-w1200-h900-dc080808-gmir.jpg?v=1792041595",
+    "startDate": "2026-11-26T18:00:00+05:30",
+    "endDate": "2026-11-26T20:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "IKP EDEN",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "16 Tavarekere Main Road",
+        "postalCode": "560029",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.934167",
+        "longitude": "77.6098037"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Get ready for an exciting evening with Startup Stories by Bengaluru Founders. An event where ideas, inspiration and meaningful connects",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "2026-11-26T20:00:00+05:30",
+        "validFrom": "2026-10-15",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-15",
+        "availabilityEnds": "",
+        "validFrom": "2026-10-15",
+        "url": "https://allevents.in/bengaluru/startup-stories-by-bengaluru-founders/100002003345082069",
+        "price": 0,
+        "name": "Startup Stories by Bengaluru Founders"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Builders and Backers : Panel Conversation and Startup Showcase",
+    "image": "https://cdn-az.allevents.in/events7/banners/51c5dfc541db07313937a890b35c2ae6d2f813632893d69e8faef8f5fdeeae37-rimg-w1024-h512-dc080808-gmir.jpg?v=1794133864",
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-14T13:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/builders-and-backers-panel-conversation-and-startup-showcase/100002004538521679",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Center for Product Design and Manufacturing",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gulmohar Marg",
+        "postalCode": "560012",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0150876",
+        "longitude": "77.56810469999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "A panel with founders and investors, and demos from early stage startups, co-hosted by eChai Ventures and D-CoE IISc.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-08",
+        "availabilityEnds": "2026-11-14T13:00:00+05:30",
+        "validFrom": "2026-11-08",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/builders-and-backers-panel-conversation-and-startup-showcase/100002004538521679"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-08",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-08",
+        "url": "https://allevents.in/bengaluru/builders-and-backers-panel-conversation-and-startup-showcase/100002004538521679",
+        "price": 0,
+        "name": "eChai Meetup Pass"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "eChai Bangalore Startup Network",
+        "url": "https://allevents.in/org/echai-bangalore-startup-network/17608363",
+        "description": "eChai Bangalore is the Bangalore Chapter of http://eChai.Network\r\neChai is a global startup network facilitating focused local meetups and cross-border collaborations. \r\nGet Your Annual eChai pass for Rs. 1000 per year from eChai.in to attend such super-useful programs (50+ Events & Webinars) throughout the year at http://eChai.in"
       }
     ]
   }
