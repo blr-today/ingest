@@ -284,6 +284,23 @@
     ]
   },
   {
+    "@type": "Event",
+    "name": "Open Mic @ Namma Oota",
+    "location": {
+      "@type": "Place",
+      "name": "Portico, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
+    },
+    "startDate": "2026-11-22T16:00:00+05:30",
+    "endDate": "2026-11-22T17:30:00+05:30",
+    "description": "Join us for an open mic where storytellers, musicians, comedians, poets and singers come together to celebrate the magic of flavours and melodies. We have a vibrant lineup for the evening, spanning everything from a stand-up act starring a man who stands trial for loving Indo-Chinese food to a spoken word performance by a life sciences scholar. \n\nIf this sounds like your jam, we have open mic spots up for grabs on the day. Whether it’s a nostalgia-soaked recipe, a comical culinary mishap, or a poem about unlikely flavour combinations, this is your opportunity to take the stage and share your love of food with a passionate audience. \n\nThe mic is yours!",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=OpenMic",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "400",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FSGB06340.jpg-1794223380194?alt=media&token=5a7cd165-ae0f-49b6-8362-e24c88433a0d"
+  },
+  {
     "@type": "EducationEvent",
     "name": "Spill the Beans: A Namma Ooru Food Quiz",
     "location": {
@@ -326,6 +343,33 @@
       {
         "@type": "Person",
         "name": "Jagadeesh S. Moodera"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Taste, Camera, Action!",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
+    },
+    "startDate": "2026-11-21T11:00:00+05:30",
+    "endDate": "2026-11-21T12:30:00+05:30",
+    "description": "We are accustomed to photographing food, carefully composing images of what we eat. But what happens when food becomes the photographer, and we become its subjects?\n\nTaste, Camera, Action! is a playful, participatory workshop that explores how food influences our expressions, gestures and behaviour. Taking inspiration from theatre and improvisation, the workshop invites participants to become actors whose characters are shaped by food. Through tasting, photographing, character creation and performance, participants explore the relationship between sensory experiences and bodily expression.\n\nThis workshop is designed by Whatifduo, a new media design practice founded by Mantej and Priyanka.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=Taste-Camera-Action",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "25",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FSGB06109.jpg-1794222103079?alt=media&token=7016f1d3-42b5-4119-b5f4-2fc3c0ae2a53",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Mantej Kaur"
+      },
+      {
+        "@type": "Person",
+        "name": "Priyanka Kolluru "
       }
     ]
   }
