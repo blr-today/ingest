@@ -199,6 +199,40 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Candlelight: Best of Bollywood at DoubleTree Whitefield | Bengaluru",
+    "image": "https://cdn-az.allevents.in/events2/banners/de96f10d7bf32efa61aac383eaabf1a98661038a26701df986199c2c667281cf-rimg-w768-h768-dcf8c808-gmir?v=1794315483",
+    "startDate": "2026-12-06T01:30:00+05:30",
+    "url": "https://allevents.in/bangalore/candlelight-best-of-bollywood-at-doubletree-whitefield-bengaluru/200031018142504",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "DoubleTree by Hilton Bengaluru Whitefield, ITPL Main Rd, EPIP Zone, Brookefield, Bengaluru// 560037",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Doubletree By Hilton-Bengaluru Whitefield, Kundalahalli, Doddanekundi, Bengaluru 560037, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.96848",
+        "longitude": "77.71682"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "👉 Tickets https://tinyurl.com/3wc4vhfk\n\n⭐ New to India, Candlelight Concerts offer a musical experience beyond the ordinary. Join us in Bengaluru at DoubleTree by Hilton Bengaluru Whitefield for a captivating Candlelight: Best of Bollywood set entirely under candlelight. This remarkable evening tran",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Fun See Do",
+        "url": "https://allevents.in/org/fun-see-do/24495652"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Yuvan Shankar Raja in Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/ad163e10-7d14-11f1-a0f0-b3fc05930e16-rimg-w1200-h675-dceffffe-gmir.webp?v=1783766318",
@@ -2264,45 +2298,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Art and Conversation",
-    "image": "https://cdn-az.allevents.in/events1/banners/a543ce00-db10-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1794100001",
-    "startDate": "2026-11-14T13:05:00+05:30",
-    "endDate": "2026-11-14T14:35:00+05:30",
-    "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe Coffee Day: Koramangala, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Shop No, 426, 8th Main Road, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9344",
-        "longitude": "77.6256"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Create, connect, and express yourself through art and meaningful conversations.Join us for a relaxed creative evening where painting meets conversation. Explore your creativity, share thoughts, exchange stories, and connect with new people in a welcoming, judgement-free space.Whether you're an exper",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-14T14:35:00+05:30",
-        "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "THE HOUSE OF PUNJAB AT DND ARENA SARJAPUR",
     "image": "https://cdn-az.allevents.in/events2/banners/4c886450-db11-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc780808-gmir.jpg?v=1794100277",
     "startDate": "2026-11-13T20:30:00+05:30",
@@ -2531,45 +2526,6 @@
         "availabilityEnds": "2026-11-16T00:00:00+05:30",
         "validFrom": "2026-11-09",
         "url": "https://allevents.in/bangalore/hip-hop-commercial-dj-night-sundaze-and-sounds/3900031012936707"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tipsy Tuesdays - DJ Night",
-    "image": "https://cdn-az.allevents.in/events2/banners/cc75d6a0-dc5d-11f1-bb64-7f7aaa7788f2-rimg-w1200-h600-dc081848-gmir.jpg?v=1794243084",
-    "startDate": "2026-11-10T20:00:00+05:30",
-    "endDate": "2026-11-11T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tipsy-tuesdays-dj-night/3900031012945225",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "SkyDeck by Sherlock`s: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "52, MG Road, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.975",
-        "longitude": "77.6075"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Turn your midweek routine upside down! Elevate your Tuesday nights at Skydeck by Sherlocks with high-octane vibes, infectious beats, and rooftop energy under the Bengaluru sky.Dance the stress away as resident and guest DJs take over the deck, dropping the hottest Bollywood and commercial chartbuste",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-09",
-        "availabilityEnds": "2026-11-11T00:00:00+05:30",
-        "validFrom": "2026-11-09",
-        "url": "https://allevents.in/bangalore/tipsy-tuesdays-dj-night/3900031012945225"
       }
     ]
   },
@@ -3760,139 +3716,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Startup Pitches by CEDAT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ae8a91854bc7.jpg",
-    "startDate": "2026-12-02T18:00:00+05:30",
-    "endDate": "2026-12-02T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001596059398",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Zieers Systems Pvt Ltd",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "KLP Arcade, 5BC-938, 2nd Cross Rd, Babusabpalya, Hennur Gardens, Bengaluru, Karnataka 560113, India",
-        "postalCode": "560113",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0226367",
-        "longitude": "77.64897030000002"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Building a startup? Or already scaling one?Join us for Startup Pitches — a relaxed yet impactful event where founders take the stage to share their ideas, products and journeys.This event is all about real pitches, real feedback and real connections.Founders will present their startups in a supporti",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-02",
-        "availabilityEnds": "2026-12-02T19:00:00+05:30",
-        "validFrom": "2026-11-02",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001596059398"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-02",
-        "availabilityEnds": "2026-12-02T19:00:00+05:30",
-        "validFrom": "2026-11-02",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001596059398",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT ",
-        "url": "https://allevents.in/org/cedat/25336161"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tuesday Takeover at Yeda Republic Bangalore",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6aeb9d909e078.jpg",
-    "startDate": "2026-11-10T20:00:00+05:30",
-    "endDate": "2026-11-11T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tuesday-takeover-at-yeda-republic-bangalore-tickets/80002031832129",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Yeda Republic Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "100, 4th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9343419",
-        "longitude": "77.61554509999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "✨ Get ready to light up your Tuesday night at the Tuesday Takeover at Yeda Republic Bangalore! Join us for an electrifying evening of music and energy, as we gather to dance and celebrate together with friends old and new. 🗓 Mark your calendars for November 10, 2026, at 🕗 8:00 PM, right here at 📍 Ye",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-11T01:00:00+05:30",
-        "validFrom": "2026-11-04",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tuesday-takeover-at-yeda-republic-bangalore-tickets/80002031832129"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-11T01:00:00+05:30",
-        "validFrom": "2026-11-04",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tuesday-takeover-at-yeda-republic-bangalore-tickets/80002031832129",
-        "availability": "https://schema.org/InStock",
-        "name": "Ladies"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-04",
-        "availabilityEnds": "2026-11-11T01:00:00+05:30",
-        "validFrom": "2026-11-04",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/tuesday-takeover-at-yeda-republic-bangalore-tickets/80002031832129",
-        "availability": "https://schema.org/InStock",
-        "name": "Couples"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Saurabh Patil",
-        "url": "https://allevents.in/org/saurabh-patil/22845230"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Zoho Marketing Launchpad - 2026 - Bengaluru",
     "image": "https://cdn2.allevents.in/thumbs/thumb68919d9530658.jpg",
     "startDate": "2026-11-21T09:00:00+05:30",
@@ -3923,100 +3746,6 @@
         "@type": "Organization",
         "name": "Zoho Community",
         "url": "https://allevents.in/org/zoho-community/24093414"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "LIT-MIC: Bengaluru Open Mic | Poetry, Stories, Comedy, Music | Edition 106",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af2c594ec3ae.jpg",
-    "startDate": "2026-11-15T14:00:00+05:30",
-    "endDate": "2026-11-15T17:00:00+05:30",
-    "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Living Roots",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "301, 14th main, 2nd floor, 15th Cross Rd, 5th Phase, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "postalCode": "560078",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9061517",
-        "longitude": "77.5920561"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🎤 LITMIC Open Mic by do.with.lit – Bengaluru 🎤Step into LITMIC, do.with.lit’s signature open mic experience — a warm, expressive space where words, music, laughter, and stories find their moment under the spotlight.From poetry and storytelling to music, comedy, and heartfelt performances, LITMIC bri",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-15T17:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "lowPrice": "199.00",
-        "highPrice": "499.00",
-        "price": "199.00",
-        "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-15T17:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "349.00",
-        "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830",
-        "availability": "https://schema.org/InStock",
-        "name": "Performer Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-15T17:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830",
-        "availability": "https://schema.org/InStock",
-        "name": "Performer (+1 Audience) Pass"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-15T17:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "199.00",
-        "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830",
-        "availability": "https://schema.org/InStock",
-        "name": "Audience Pass for 1"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-15T17:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "269.00",
-        "url": "https://allevents.in/bangalore/lit-mic-bengaluru-open-mic-poetry-stories-comedy-music-edition-106-tickets/80002319154830",
-        "availability": "https://schema.org/InStock",
-        "name": "Audience Pass for 2"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Do WithLIT Creative",
-        "url": "https://allevents.in/org/do-withlit-creative/18493693"
       }
     ]
   },
@@ -4057,62 +3786,62 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "KTCA Vanabhojanalu 2026",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af1c15e7f830.jpg",
-    "startDate": "2026-12-05T10:30:00+05:30",
-    "endDate": "2026-12-05T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/ktca-vanabhojanalu-2026-tickets/80003543876686",
+    "@type": "MusicEvent",
+    "name": "Sangeetha Nrithya Vaibhava",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af3170de0d56.jpg",
+    "startDate": "2026-11-14T17:30:00+05:30",
+    "endDate": "2026-11-14T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/sangeetha-nrithya-vaibhava-tickets/80005404148134",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Children's Play Area",
+      "name": "Indiranagara Sangeetha Sabha., 8th Main Road, 8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka, India",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sathya Sai Grama - Muddenahalli Rd, Sathya Sai Grama, Chikkamuddenahalli, Karnataka 562103, India",
-        "postalCode": "562103",
+        "name": "Indiranagara Sangeetha Sabha., 8th Main Road, 8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka, India, Bangalore, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "13.404711",
-        "longitude": "77.6942088"
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "KTCA is planning Karthika Masa Vanabhojanalu. Registration is mandatory for participation. Call 9448240179 for participation ✨ Join Us for Vanabhojanalu 2026! ✨Get ready to immerse yourself in a beautiful day of nature and culture! Vanabhojanalu, hosted by the Karnataka Telangana Cultural Associatio",
+    "description": "angeetha Nrithya Vaibhava – Monthly Students ConcertJoin us for an inspiring evening of classical arts at the Sangeetha Nrithya Vaibhava monthly student concert series, hosted at Indiranagara Sangeetha Sabha.This month’s edition features a captivating Bharatanatyam recital showcasing budding talent.",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-09",
-        "availabilityEnds": "2026-12-05T16:30:00+05:30",
-        "validFrom": "2026-11-09",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-14T19:00:00+05:30",
+        "validFrom": "2026-11-10",
         "lowPrice": "0.00",
         "highPrice": "0.00",
         "price": "0.00",
-        "url": "https://allevents.in/bangalore/ktca-vanabhojanalu-2026-tickets/80003543876686"
+        "url": "https://allevents.in/bangalore/sangeetha-nrithya-vaibhava-tickets/80005404148134"
       },
       {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-09",
-        "availabilityEnds": "2026-12-05T16:30:00+05:30",
-        "validFrom": "2026-11-09",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-14T19:00:00+05:30",
+        "validFrom": "2026-11-10",
         "price": "0.00",
-        "url": "https://allevents.in/bangalore/ktca-vanabhojanalu-2026-tickets/80003543876686",
+        "url": "https://allevents.in/bangalore/sangeetha-nrithya-vaibhava-tickets/80005404148134",
         "availability": "https://schema.org/InStock",
-        "name": "Registration fee"
+        "name": "Early Bird"
       }
     ],
     "organizer": [
       {
         "@type": "Organization",
-        "name": "Karnataka Telangana Cultural Association (KTCA)",
-        "url": "https://allevents.in/org/karnataka-telangana-cultural-association-ktca/22093801"
+        "name": "Purandara Bhavana",
+        "url": "https://allevents.in/org/purandara-bhavana/14813486",
+        "description": "Nestled in the heart of Bangalore, India, Indiranagar Sangeetha Sabha is a heritage cultural organization dedicated to preserving and promoting the timeless art forms of Carnatic music and Bharatanatyam.\n\nStep into a vibrant space where learning and performance intertwine."
       }
     ]
   },
@@ -4175,6 +3904,79 @@
         "name": "Bangalore Scene Distortion Kult (BDK)",
         "url": "https://allevents.in/org/bangalore-scene-distortion-kult-b$dk/27738579",
         "description": "A Kult of unhinged distortion lovers who live for all things loud and underground! 🤘💀"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Safarnama: Life in a metro",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af32ac0182b2.jpg",
+    "startDate": "2026-11-21T18:15:00+05:30",
+    "endDate": "2026-11-21T19:15:00+05:30",
+    "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Medai - The Stage Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Museum Rd, opp. Patricks church, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025, India",
+        "postalCode": "560025",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9703765",
+        "longitude": "77.6043811"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Safarnama: Life in a Metro is an intimate live musical experience celebrating the emotions hidden in our everyday lives. Through soulful melodies, timeless ghazals, nostalgic Bollywood classics, heartfelt storytelling, and poetic conversations, this evening brings together moments that connect us al",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-21T19:15:00+05:30",
+        "validFrom": "2026-11-10",
+        "lowPrice": "799.00",
+        "highPrice": "1499.00",
+        "price": "799.00",
+        "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-21T19:15:00+05:30",
+        "validFrom": "2026-11-10",
+        "price": "799.00",
+        "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173",
+        "availability": "https://schema.org/InStock",
+        "name": "Audience one"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-21T19:15:00+05:30",
+        "validFrom": "2026-11-10",
+        "price": "1499.00",
+        "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173",
+        "availability": "https://schema.org/InStock",
+        "name": "Audience couple"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Kavymanch",
+        "url": "https://allevents.in/org/kavymanch/24312995",
+        "description": "An open mic platform for all "
       }
     ]
   },
@@ -4272,6 +4074,67 @@
         "name": "Bangalore Scene Distortion Kult (BDK)",
         "url": "https://allevents.in/org/bangalore-scene-distortion-kult-b$dk/27738579",
         "description": "A Kult of unhinged distortion lovers who live for all things loud and underground! 🤘💀"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Founder Pitches by CEDAT",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6aed7fb70a85b.jpg",
+    "startDate": "2026-12-07T18:00:00+05:30",
+    "endDate": "2026-12-07T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80008925175871",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Samagata Foundation",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "postalCode": "560001",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9756186",
+        "longitude": "77.60275589999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Building a startup? Or already scaling one?Join us for Founder Pitches — a relaxed yet impactful event where founders take the stage to share their ideas, products and journeys.This event is all about real pitches, real feedback and real connections.Founders will present their startups in a supporti",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-12-07T19:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80008925175871"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-06",
+        "availabilityEnds": "2026-12-07T19:00:00+05:30",
+        "validFrom": "2026-11-06",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80008925175871",
+        "availability": "https://schema.org/InStock",
+        "name": "Standard Ticket"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT ",
+        "url": "https://allevents.in/org/cedat/25336161"
       }
     ]
   },
