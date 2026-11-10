@@ -12,8 +12,11 @@ fetcher = Fetch(browser="chrome")
 def fetch_event_location(url):
     response = fetcher.get(url=url)
     soup = BeautifulSoup(response.text, "html.parser")
-    location = soup.select_one(".evo_location_name").text.strip()
-    loc = soup.select_one(".evcal_location").get("data-latlng")
+    # EventON renamed evo_location_name to event_location_name in Nov 2026
+    name = soup.select_one(".event_location_name, .evo_location_name")
+    location = name.text.strip() if name else None
+    place = soup.select_one(".evcal_location")
+    loc = place.get("data-latlng") if place else None
 
     if loc:
         lat, lng = loc.split(",")
@@ -51,8 +54,10 @@ def parse_bng_bird_events(soup):
         )
         event["@id"] = "com.blrbirders:" + event["@id"]
         location, lat, lng = fetch_event_location(event["url"])
+        listed = event.get("location") or {}
+        listed = (listed or [{}])[0] if isinstance(listed, list) else listed
         event["location"] = {
-            "name": location,
+            "name": location or listed.get("name"),
             "@type": "Place",
             
         }

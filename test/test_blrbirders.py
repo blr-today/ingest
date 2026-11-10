@@ -77,3 +77,14 @@ def test_unparseable_jsonld_is_skipped(monkeypatch, capsys):
     events = blrbirders.parse_bng_bird_events(soup)
     assert [e["@id"] for e in events] == ["com.blrbirders:event_666_16", "com.blrbirders:event_739_1", "com.blrbirders:event_664_17"]
     assert '"@id": "event_broken"' in capsys.readouterr().out
+
+
+def test_location_from_renamed_class(monkeypatch):
+    html = '<em class="event_location_name">Saul Kere</em><em class="evcal_location" data-latlng="12.9,77.6"></em>'
+    monkeypatch.setattr(blrbirders, "fetcher", SimpleNamespace(get=lambda url: SimpleNamespace(text=html)))
+    assert blrbirders.fetch_event_location("x") == ("Saul Kere", "12.9", "77.6")
+
+
+def test_location_missing_from_page(monkeypatch):
+    monkeypatch.setattr(blrbirders, "fetcher", SimpleNamespace(get=lambda url: SimpleNamespace(text="<p></p>")))
+    assert blrbirders.fetch_event_location("x") == (None, None, None)
