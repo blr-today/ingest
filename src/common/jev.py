@@ -1,6 +1,7 @@
 import calendar
 import os
 from datetime import date, time
+from types import SimpleNamespace
 
 from typesafe_sdk import Choice, Noul, TypeSafeClient
 
@@ -9,6 +10,7 @@ from .tz import IST
 NONE = "none"
 KEY = "OPENROUTER_API_KEY"
 MIN_CONFIDENCE = 0.5
+MAX_QUESTIONS = 64
 HOURS = {
     str(h): f"{(h - 1) % 12 + 1} {'AM' if h < 12 else 'PM'} ({h:02d}:00)"
     for h in range(24)
@@ -77,9 +79,25 @@ def event_date(picks, published):
     return when
 
 
+def answer(client, state, questions, **options):
+    # Clef takes at most 64 questions per request
+    items, nouls, choices = list(questions.items()), {}, {}
+    for i in range(0, len(items), MAX_QUESTIONS):
+        batch = dict(items[i : i + MAX_QUESTIONS])
+        response = client.system_one(state=state, questions=batch, **options)
+        nouls |= response.nouls
+        choices |= response.choices
+    return SimpleNamespace(nouls=nouls, choices=choices)
+
+
+def with_image(state, image):
+    # OpenRouter takes images as parts of a state array
+    return [state, {"type": "image_url", "image_url": {"url": image}}]
+
+
 def ask(client, state, questions, **options):
     questions = {k: q for k, q in questions.items() if q is not None}
-    response = client.system_one(state=state, questions=questions, **options)
+    response = answer(client, state, questions, **options)
     nouls = {k: a.noul for k, a in response.nouls.items()}
     picks = {k: (a.choice, a.confidence) for k, a in response.choices.items()}
     return nouls, picks

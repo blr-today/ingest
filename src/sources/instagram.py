@@ -32,6 +32,7 @@ from src.common.jev import (
     pick,
     time_questions,
     value,
+    with_image,
 )
 from src.common.tz import IST
 
@@ -545,9 +546,7 @@ def judge(client, session, post):
         if not (image := image_asset(session, url)):
             continue
         try:
-            nouls, picks = ask_jev(
-                client, state(post), asks, extra_body={"images": [image]}
-            )
+            nouls, picks = ask_jev(client, with_image(state(post), image), asks)
             used += 1
         except TypeSafeError as e:
             log(f"jev image failed for {post['shortcode']}: {e}")

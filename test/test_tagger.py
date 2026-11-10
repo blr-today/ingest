@@ -144,14 +144,18 @@ class FakeJev:
 
     def system_one(self, state, questions):
         name = state["event"]["name"]
-        self.asked.append(name)
-        assert set(questions) == set(QUESTIONS) | {"@type"}
+        # Clef takes 64 questions at a time, so count each event's first batch
+        assert len(questions) <= 64 and set(questions) <= set(QUESTIONS) | {"@type"}
+        if next(iter(questions)) == next(iter(QUESTIONS)):
+            self.asked.append(name)
         if name not in REPLIES:
             raise TypeSafeError("quota exceeded")
         nouls, kind, confidence = REPLIES[name]
         return SimpleNamespace(
-            nouls={t: SimpleNamespace(noul=p) for t, p in nouls.items()},
-            choices={"@type": SimpleNamespace(choice=kind, confidence=confidence)},
+            nouls={t: SimpleNamespace(noul=p) for t, p in nouls.items() if t in questions},
+            choices={"@type": SimpleNamespace(choice=kind, confidence=confidence)}
+            if "@type" in questions
+            else {},
         )
 
 

@@ -17,7 +17,7 @@ from src.common.activities import (
     VERSION,
     with_parents,
 )
-from src.common.jev import clef, enabled
+from src.common.jev import answer, clef, enabled
 
 logging.basicConfig(level=logging.INFO, format="[TAGGER] %(message)s")
 log = logging.getLogger(__name__)
@@ -165,7 +165,7 @@ def ask(client, event):
         criteria=TYPES | {"Event": "None of these fits"},
     )
     try:
-        response = client.system_one(state=state(event), questions=questions)
+        response = answer(client, state(event), questions)
     except TypeSafeError as e:
         log.warning("jev failed for %s: %s", event.get("url"), e)
         return None

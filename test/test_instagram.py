@@ -64,7 +64,7 @@ class FakeJev:
 
     def system_one(self, state, questions, **options):
         self.calls.append((state, options))
-        nouls, choices = self.image if "extra_body" in options else self.text
+        nouls, choices = self.image if isinstance(state, list) else self.text
         return SimpleNamespace(
             nouls={k: SimpleNamespace(noul=v) for k, v in nouls.items()},
             choices={k: SimpleNamespace(choice=c, confidence=0.9) for k, c in choices.items()},
@@ -166,9 +166,9 @@ def test_images_are_read_one_by_one_until_dated():
     jev, images = FakeJev(UNDATED, DATED), FakeImages()
     result = instagram.judge(jev, images, post())
     assert result["images"] == 1 and images.urls == ["https://cdn.example/ABC/1.jpg"]
-    state, options = jev.calls[1]
-    assert state == jev.calls[0][0]
-    assert options["extra_body"]["images"][0].startswith("data:image/jpeg;base64,")
+    state, _ = jev.calls[1]
+    assert state[0] == jev.calls[0][0]
+    assert state[1]["image_url"]["url"].startswith("data:image/jpeg;base64,")
 
 
 def test_images_stop_at_the_limit():
@@ -389,3 +389,12 @@ def test_clef_goes_through_openrouter(monkeypatch):
     assert config.base_url == "https://openrouter.ai/api"
     assert config.default_model == "cloudflare/clef"
     assert jev.enabled()
+
+
+def test_clef_questions_go_in_batches_of_64():
+    from src.common import jev
+
+    jev_client = FakeJev(({f"q{i}": 0.9 for i in range(95)}, {}))
+    questions = {f"q{i}": object() for i in range(95)}
+    response = jev.answer(jev_client, {"x": 1}, questions)
+    assert len(jev_client.calls) == 2 and len(response.nouls) == 95
