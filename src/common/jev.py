@@ -1,11 +1,13 @@
 import calendar
+import os
 from datetime import date, time
 
-from typesafe_sdk import Choice, Noul
+from typesafe_sdk import Choice, Noul, TypeSafeClient
 
 from .tz import IST
 
 NONE = "none"
+KEY = "OPENROUTER_API_KEY"
 MIN_CONFIDENCE = 0.5
 HOURS = {
     str(h): f"{(h - 1) % 12 + 1} {'AM' if h < 12 else 'PM'} ({h:02d}:00)"
@@ -14,6 +16,19 @@ HOURS = {
 MINUTES = [str(m) for m in range(60)]
 MONTHS = {str(m): calendar.month_name[m] for m in range(1, 13)}
 DAYS = [str(d) for d in range(1, 32)]
+
+
+def enabled():
+    return bool(os.environ.get(KEY))
+
+
+def clef():
+    # Cloudflare's Clef answers System One questions through OpenRouter
+    return TypeSafeClient(
+        api_key=os.environ.get(KEY),
+        base_url="https://openrouter.ai/api",
+        model="cloudflare/clef",
+    )
 
 
 def pick(question, options):

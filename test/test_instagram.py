@@ -64,7 +64,7 @@ class FakeJev:
 
     def system_one(self, state, questions, **options):
         self.calls.append((state, options))
-        nouls, choices = self.image if "poster" in state else self.text
+        nouls, choices = self.image if "extra_body" in options else self.text
         return SimpleNamespace(
             nouls={k: SimpleNamespace(noul=v) for k, v in nouls.items()},
             choices={k: SimpleNamespace(choice=c, confidence=0.9) for k, c in choices.items()},
@@ -167,9 +167,8 @@ def test_images_are_read_one_by_one_until_dated():
     result = instagram.judge(jev, images, post())
     assert result["images"] == 1 and images.urls == ["https://cdn.example/ABC/1.jpg"]
     state, options = jev.calls[1]
-    ref = state["poster"]
-    assert options["extra_headers"] == instagram.IMAGES
-    assert options["extra_body"]["assets"][ref]["format"] == "jpg"
+    assert state == jev.calls[0][0]
+    assert options["extra_body"]["images"][0].startswith("data:image/jpeg;base64,")
 
 
 def test_images_stop_at_the_limit():
@@ -243,7 +242,7 @@ def test_events_merge_reminders_and_skip_linked_posts(db, monkeypatch, tmp_path)
     monkeypatch.setattr(instagram, "linked_elsewhere", lambda: {"LINKED"})
     monkeypatch.setattr(instagram, "listings", lambda: {})
     monkeypatch.delenv("BRIGHT_DATA_API_KEY", raising=False)
-    monkeypatch.delenv("TYPESAFE_API_KEY", raising=False)
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
     events = instagram.events()
     assert [e["url"] for e in events] == ["https://www.instagram.com/p/NEW/"]
     assert events[0]["sameAs"] == ["https://www.instagram.com/p/OLD/"]
@@ -268,8 +267,8 @@ def test_listings_read_other_sources_by_day(tmp_path):
 
 def test_matches_ask_jev_once_and_cache(db, monkeypatch):
     jev = FakeJev(({}, {"same": "0"}))
-    monkeypatch.setattr(instagram, "TypeSafeClient", lambda: nullcontext(jev))
-    monkeypatch.setenv("TYPESAFE_API_KEY", "key")
+    monkeypatch.setattr(instagram, "clef", lambda: nullcontext(jev))
+    monkeypatch.setenv("OPENROUTER_API_KEY", "key")
     event = {"name": "Jazz Night", "startDate": "2026-10-18T19:00:00+05:30"}
     pairs = [(post(), event)]
     assert instagram.matches(db, pairs, LISTINGS) == {"ABC": LISTINGS["2026-10-18"][1]}
@@ -364,8 +363,8 @@ def test_to_event_skips_lineups_remote_events_and_clashing_weekdays():
 
 def test_repeats_fold_into_the_earliest_post_of_the_account(db, monkeypatch):
     jev = FakeJev(({}, {"same": "0"}))
-    monkeypatch.setattr(instagram, "TypeSafeClient", lambda: nullcontext(jev))
-    monkeypatch.setenv("TYPESAFE_API_KEY", "key")
+    monkeypatch.setattr(instagram, "clef", lambda: nullcontext(jev))
+    monkeypatch.setenv("OPENROUTER_API_KEY", "key")
     def pair(code, start, account="bengaluruanimeclub"):
         p = instagram.to_post(record(code, account=account), account)
         return p, {"name": code, "url": f"u/{code}", "startDate": start}
@@ -380,3 +379,13 @@ def test_repeats_fold_into_the_earliest_post_of_the_account(db, monkeypatch):
     assert sorted(k for k in kept) == [("a", "1"), ("a", "4"), ("b", "1")]
     assert kept["a", "1"][1]["sameAs"] == ["u/GUEST", "u/TICKETS"]
     assert len(jev.calls) == 2
+
+
+def test_clef_goes_through_openrouter(monkeypatch):
+    from src.common import jev
+
+    monkeypatch.setenv("OPENROUTER_API_KEY", "key")
+    config = jev.clef()._config
+    assert config.base_url == "https://openrouter.ai/api"
+    assert config.default_model == "cloudflare/clef"
+    assert jev.enabled()

@@ -8,7 +8,6 @@ import sqlite3
 import sys
 import time
 import unicodedata
-import uuid
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta
@@ -19,13 +18,15 @@ from urllib.parse import parse_qs, urlparse
 
 import requests
 import yaml
-from typesafe_sdk import Noul, TypeSafeClient, TypeSafeError
+from typesafe_sdk import Noul, TypeSafeError
 
 from src.common.jev import (
     MIN_CONFIDENCE,
     ask as ask_jev,
+    clef,
     clock,
     date_questions,
+    enabled,
     end_clock,
     event_date,
     pick,
@@ -50,7 +51,6 @@ MAX_LISTINGS = 40
 WAIT = 600
 POLL = 15
 STALE = timedelta(days=1)
-IMAGES = {"TypeSafe-Danger-Zone-Images": "true"}
 SUBJECT = "the announced event"
 WEEKDAYS = list(calendar.day_name)
 LISTING = (
@@ -433,8 +433,8 @@ def matches(db, pairs, by_day, choose=candidates, question=LISTING):
         else:
             todo.append((post, event, listed, key))
     log(f"{len(found)} matches cached, {len(todo)} to ask")
-    if todo and os.environ.get("TYPESAFE_API_KEY"):
-        with TypeSafeClient() as client, ThreadPoolExecutor(4) as pool:
+    if todo and enabled():
+        with clef() as client, ThreadPoolExecutor(4) as pool:
             urls = pool.map(lambda t: same_listing(client, *t[:3], question), todo)
             for (post, _, listed, key), url in zip(todo, urls):
                 if url is not False:
@@ -522,16 +522,12 @@ def image_asset(session, url):
         return None
     data = res.content
     if data[:3] == b"\xff\xd8\xff":
-        fmt = "jpg"
+        fmt = "jpeg"
     elif data[:8] == b"\x89PNG\r\n\x1a\n":
         fmt = "png"
     else:
         return None
-    return {
-        "type": "image",
-        "format": fmt,
-        "data_base64": base64.b64encode(data).decode("ascii"),
-    }
+    return f"data:image/{fmt};base64," + base64.b64encode(data).decode("ascii")
 
 
 def judge(client, session, post):
@@ -548,14 +544,9 @@ def judge(client, session, post):
             break
         if not (image := image_asset(session, url)):
             continue
-        ref = f"poster-{uuid.uuid4()}"
         try:
             nouls, picks = ask_jev(
-                client,
-                state(post) | {"poster": ref},
-                asks,
-                extra_body={"assets": {ref: image}},
-                extra_headers=IMAGES,
+                client, state(post), asks, extra_body={"images": [image]}
             )
             used += 1
         except TypeSafeError as e:
@@ -601,9 +592,9 @@ def answers(db, posts):
     cached = answered(db)
     todo = [p for p in posts if p["shortcode"] not in cached]
     log(f"{len(posts) - len(todo)} posts answered, {len(todo)} to ask")
-    if todo and os.environ.get("TYPESAFE_API_KEY"):
+    if todo and enabled():
         with (
-            TypeSafeClient() as client,
+            clef() as client,
             requests.Session() as session,
             ThreadPoolExecutor(4) as pool,
         ):

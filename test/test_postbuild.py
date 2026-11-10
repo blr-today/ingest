@@ -36,7 +36,7 @@ def postbuild(events, db):
 
 def tag(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
-    monkeypatch.delenv("TYPESAFE_API_KEY", raising=False)
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
     monkeypatch.setattr(tagger, "CACHE", tmp_path / "activities.sqlite")
     tagger.main()
     return rows(tmp_path / "events.db")

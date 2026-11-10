@@ -8,8 +8,8 @@ on:
         required: true
         type: string
     secrets:
-      TYPESAFE_JEV_API_KEY:
-        description: TypeSafe key for sources that use Jev
+      OPENROUTER_API_KEY:
+        description: OpenRouter key for Clef questions
         required: false
       BRIGHT_DATA_API_KEY:
         description: Bright Data key for the Instagram source
@@ -129,7 +129,7 @@ jobs:
         uv sync --frozen
     - name: Fetch updates
       env:
-        TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
       run: |
         # Keep the newest pages from this disk and the restored copy; each branch reads only its own

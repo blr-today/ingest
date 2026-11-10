@@ -158,9 +158,9 @@ class FakeJev:
 @pytest.fixture
 def jev(tmp_path, monkeypatch):
     client = FakeJev()
-    monkeypatch.setattr(tagger, "TypeSafeClient", lambda: client)
+    monkeypatch.setattr(tagger, "clef", lambda: client)
     monkeypatch.setattr(tagger, "CACHE", tmp_path / "activities.sqlite")
-    monkeypatch.setenv("TYPESAFE_API_KEY", "test")
+    monkeypatch.setenv("OPENROUTER_API_KEY", "test")
     return client
 
 
@@ -224,7 +224,7 @@ def test_failed_calls_are_retried(jev):
 
 
 def test_no_key_uses_cache_only(jev, monkeypatch):
-    monkeypatch.delenv("TYPESAFE_API_KEY")
+    monkeypatch.delenv("OPENROUTER_API_KEY")
     assert by_jev({u: e for u, e in ROWS}) == {}
     assert jev.asked == []
 

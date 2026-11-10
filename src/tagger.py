@@ -1,12 +1,11 @@
 import json
 import logging
-import os
 import re
 import sqlite3
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-from typesafe_sdk import Choice, Noul, TypeSafeClient, TypeSafeError
+from typesafe_sdk import Choice, Noul, TypeSafeError
 
 from src.common.activities import (
     EXCLUDE,
@@ -18,6 +17,7 @@ from src.common.activities import (
     VERSION,
     with_parents,
 )
+from src.common.jev import clef, enabled
 
 logging.basicConfig(level=logging.INFO, format="[TAGGER] %(message)s")
 log = logging.getLogger(__name__)
@@ -187,8 +187,8 @@ def by_jev(events):
     }
     todo = {url: event for url, event in events.items() if url not in cached}
     log.info("%d events cached, %d to ask", len(events) - len(todo), len(todo))
-    if todo and os.environ.get("TYPESAFE_API_KEY"):
-        with TypeSafeClient() as client, ThreadPoolExecutor(8) as pool:
+    if todo and enabled():
+        with clef() as client, ThreadPoolExecutor(8) as pool:
             for url, nouls in zip(
                 todo, pool.map(lambda e: ask(client, e), todo.values())
             ):

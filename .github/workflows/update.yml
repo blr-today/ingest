@@ -26,7 +26,7 @@ jobs:
     with:
       runs-on: ${{ needs.runner.outputs.labels }}
     secrets:
-      TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
 
   fallback:
@@ -38,7 +38,7 @@ jobs:
     with:
       runs-on: '"ubuntu-26.04"'
     secrets:
-      TYPESAFE_JEV_API_KEY: ${{ secrets.TYPESAFE_JEV_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
 
   comment:

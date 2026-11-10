@@ -12,6 +12,7 @@ from src.common.session import get_cached_session
 from src.common.jev import (
     MIN_CONFIDENCE,
     ask as ask_jev,
+    clef,
     clock,
     date_questions,
     end_clock,
@@ -21,7 +22,7 @@ from src.common.jev import (
     value,
 )
 from src.common.tz import IST
-from typesafe_sdk import Noul, TypeSafeClient
+from typesafe_sdk import Noul
 
 FEED = "https://brokebibliophilesbangalore.substack.com/feed"
 POSTS = 2
@@ -222,7 +223,7 @@ def read_posts(session):
 def events():
     session = get_cached_session()
     events = {}
-    with TypeSafeClient() as client:
+    with clef() as client:
         for post in read_posts(session):
             nouls, picks = ask(client, post)
             log(post["title"], {k: f"{p:.2f}" for k, p in nouls.items()})

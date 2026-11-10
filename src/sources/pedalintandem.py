@@ -1,7 +1,6 @@
 from datetime import date, datetime, timedelta
 from curl_cffi import requests
-from src.common.jev import ask, clock, end_clock, time_questions
-from typesafe_sdk import TypeSafeClient
+from src.common.jev import ask, clef, clock, end_clock, time_questions
 from bs4 import BeautifulSoup
 import re
 
@@ -260,7 +259,7 @@ def events():
     events_data = fetch_events(event_links, session)
 
     events = []
-    with TypeSafeClient() as client:
+    with clef() as client:
         for event_data in events_data:
             try:
                 events.extend(make_event(event_data, client))
