@@ -372,5 +372,54 @@
         "name": "Priyanka Kolluru "
       }
     ]
+  },
+  {
+    "@type": "VisualArtsEvent",
+    "name": "Strange Loop x Tarang Joseph",
+    "location": {
+      "@type": "Place",
+      "name": "Portico, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
+    },
+    "startDate": "2026-11-22T18:00:00+05:30",
+    "endDate": "2026-11-22T19:30:00+05:30",
+    "description": "In this set, guitarist Adesh Vinod and singer-songwriter Tarang Joseph build music from scratch, layering guitar riffs, basslines, beats, keys and vocals using electronic music equipment. Drawing on soul and R&B, with influences from artists like Stevie Wonder, Daniel Caesar, Frank Ocean, and Kaytranada, the duo blends live instrumentation with electronic sounds to create something entirely their own. Because it's all looped live, no two sets come out quite the same!",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=Strange-Loop-Tarang-Joseph",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "200",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2F1793970920897%20-%20Adesh%20Vinod.jpg-1794225326261?alt=media&token=aa66abcd-bc5c-42b4-bdec-d4e4dba77464",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Adesh Vinod"
+      },
+      {
+        "@type": "Person",
+        "name": "Tarang Joseph"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Design an Intergalactic Menu",
+    "location": {
+      "@type": "Place",
+      "name": "Portico, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
+    },
+    "startDate": "2026-11-21T16:00:00+05:30",
+    "endDate": "2026-11-21T17:30:00+05:30",
+    "description": "The universe is ending, but dinner must go on! \n\nIn this playful, collaborative workshop by Book-A-Table, step into the role of intergalactic restaurateurs. Inspired by Douglas Adams’ The Hitchhiker’s Guide to the Galaxy, you are challenged to design a menu for the legendary Restaurant at the End of the Universe.\n\nEquipped with ingredient cards, teams will create a five-course, zero-waste tasting menu with a signature cocktail. Expect improbable combinations, extravagant menu descriptions and a surprise challenge from Mission Control! \n\nPitch your culinary creations to the room: How creative is your menu? Have you found use for every ingredient? And, most importantly, does it sound delicious?\n\nThere’s no fancy cooking, just imagination, ingenuity and a healthy appetite for the absurd!",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=Design-an-Intergalactic-Menu",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "40",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Book-A-Table"
+      }
+    ]
   }
 ]

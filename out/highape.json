@@ -291,6 +291,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Ahmedabad’s Biggest After Party – After Concert After Party",
+    "description": "HighlightsAhmedabad’s biggest after-party experience.The ultimate after-party following Diljit Dosanjh’s concert.Premium nightlife experience at CAVO, Ahmedabad",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/aa8dad120db5bbdfde23d823b36aba32.jpg"
+    ],
+    "startDate": "2026-11-21T22:00:00+05:30",
+    "endDate": "2026-11-22T04:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Cavo Restro cafe",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Karnavati Club Rd, Mumatpura, Ahmedabad, Gujarat 380058, India",
+        "addressLocality": "Ahmedabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.010694,
+        "longitude": 72.485345
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cavo",
+      "url": "https://www.highape.com/bangalore/organisers/cavo-restro-cafe-q64zj"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "699",
+      "highPrice": "9000",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ahmedabad-s-biggest-after-party-after-concert-after-party-1aevi4jseg",
+      "validFrom": "2026-11-10T17:53:32.759Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Cavo",
+        "url": "https://www.highape.com/bangalore/organisers/cavo-restro-cafe-q64zj"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ahmedabad-s-biggest-after-party-after-concert-after-party-1aevi4jseg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Akashavani Featuring Shreyas Rayas",
     "description": "HighlightsLive performance by Shreyas RayasHigh-energy hip-hop and rap vibesPowerful vocals and engaging stage presenceA vibrant night celebrating contemporary ",
     "image": [
@@ -1101,6 +1151,62 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bollywood Bajaao",
+    "description": "HighlightsExperience a high-energy Bollywood night at G Super ClubLive DJ performances by RAJ &amp; AGASTYANon-stop Bollywood hits and chartbustersDance to your",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/5050b2a754b79026ed11c5ae07437dca.jpg"
+    ],
+    "startDate": "2026-11-13T20:00:00+05:30",
+    "endDate": "2026-11-14T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Gsuper Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "93/ a, Industrial Layout, Koramangala, Bengaluru, Bengaluru South, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933287,
+        "longitude": 77.613843
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gsuper Club",
+      "url": "https://www.highape.com/bangalore/organisers/gsuper-club-fe45e3227f"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/bollywood-bajaao-u9c851wxk4",
+      "validFrom": "2026-11-10T17:53:34.096Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Raj",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/08/08/341c75a032432143eec089d220fc7f23.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-raj-kppw"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Agastya",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-agastya-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/bollywood-bajaao-u9c851wxk4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bollywood Ladies Night ft DJ Mark",
     "description": "HighlightsBollywood Ladies Night with high-energy desi vibesDJ Mark spinning Bollywood hits and party anthemsGlam crowd with TOCA’s signature party ambiencePrem",
     "image": [
@@ -1672,6 +1778,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Desi Sunday Ft DJ Electro Smashers | Nolimmits Lounge",
+    "description": "HighlightsDJ Night ft DJ Electro SmashersNon-stop MusicBollywood MusicEDMGreat AmbienceMouthwatering AppetizersCocktails and MocktailsEnd your weekend on a high",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/a9fe20db152ff4524c337bd130a86d48.jpg"
+    ],
+    "startDate": "2026-11-15T20:00:00+05:30",
+    "endDate": "2026-11-16T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-dj-electro-smashers-nolimmits-lounge-m5zzteby0v",
+      "validFrom": "2026-11-10T16:41:39.884Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "ElectroSmashers",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/0863bd98/vd3npx5rz8f1jepahyiv.jpg",
+        "url": "https://www.highape.com/bangalore/artists/electrosmashers"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-dj-electro-smashers-nolimmits-lounge-m5zzteby0v"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Desi Thursday",
     "description": "HighlightsDJ Night ft DJ SenleoNon-Stop MusicBollywood MusicDance FloorLadies Night - Free Drinks For LadiesMouth-Watering AppetizersCocktails&nbsp;and&nbsp;Moc",
     "image": [
@@ -1718,6 +1874,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/desi-thursday-jtsecn8vfl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "DJ Ganesh Live at Skydance Arena",
+    "description": "HighlightsExperience a high-energy Bollywood music night featuring DJ Ganesh.Dance to popular Bollywood hits, remixes and contemporary chartbusters.Enjoy creati",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/0f388cdab2300bd19d8e40fac0694b45.jpg"
+    ],
+    "startDate": "2026-11-14T19:00:00+05:30",
+    "endDate": "2026-11-15T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.945166,
+        "longitude": 77.620135
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fireball Entertainments",
+      "url": "https://www.highape.com/bangalore/organisers/fireball"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dj-ganesh-live-at-skydance-arena-r51zdxt85q",
+      "validFrom": "2026-11-10T15:55:55.945Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Fireball Entertainments",
+        "url": "https://www.highape.com/bangalore/organisers/fireball"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dj-ganesh-live-at-skydance-arena-r51zdxt85q"
   },
   {
     "@context": "https://schema.org",
@@ -1819,6 +2024,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/elite-tuesday-nolimmits-brigade-rkx761fmvk"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Freaky Friday Bollywood DJ Night ft DJ Mark",
+    "description": "HighlightsHigh-energy Friday night party at TOCA, KoramangalaLive DJ performances by MARK and Resident DJ DhruvElectrifying music and non-stop dance-floor enter",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/466b4558de8573a83fea088d672c374e.jpg"
+    ],
+    "startDate": "2026-11-13T19:30:00+05:30",
+    "endDate": "2026-11-14T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "122/A, 105, 1st A Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934957,
+        "longitude": 77.61598
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca",
+      "url": "https://www.highape.com/bangalore/organisers/toca"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/freaky-friday-bollywood-dj-night-ft-dj-mark-nfpct8mplx",
+      "validFrom": "2026-11-10T17:53:37.085Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Mark",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-mark-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/freaky-friday-bollywood-dj-night-ft-dj-mark-nfpct8mplx"
   },
   {
     "@context": "https://schema.org",
@@ -1972,6 +2227,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Friday Nakhra Big Bollywood Night",
+    "description": "HighlightsEnjoy the best of Bollywood and Punjabi chartbusters all nightLive DJ performance by DJ GurooveDance to commercial hits and popular party anthemsHigh-",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/09/95a1df899997d8be81e086495fe6c65c.jpg"
+    ],
+    "startDate": "2026-11-13T20:00:00+05:30",
+    "endDate": "2026-11-14T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Sarjapur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.909379,
+        "longitude": 77.687347
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "DJ Guroove",
+      "url": "https://www.highape.com/bangalore/organisers/dj-guroove-zd8bn"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/friday-nakhra-big-bollywood-night-qjh327yahr",
+      "validFrom": "2026-11-10T17:44:21.088Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Guroove",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/4d5fa97c/lqses0fupltbunhfs0kx.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-guroove-2"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/friday-nakhra-big-bollywood-night-qjh327yahr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Friday Nakhra Night",
     "description": "HighlightsDJ NightNon-Stop MusicBollywood MusicDance FloorGreat AmbienceMouth-Watering AppetizersCocktails&nbsp;and&nbsp;MocktailsTransform your Friday night in",
     "image": [
@@ -2074,6 +2379,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/ftcu-tuesday-dj-night-ft-jonas-monteiro-n37y3dbw6q"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Fuego Friday - Bollywood DJ Night Ft DJ Firex",
+    "description": "HighlightsDJ Night ft DJ FirexNosntop MusicBollywood MusicCommercial MusicMouthwatering AppetizersCocktails and MocktailsTurn up your Friday night at Fuego Frid",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/08/a88fcf8d16d19810724edfbc76c23c62.jpg"
+    ],
+    "startDate": "2026-11-13T19:30:00+05:30",
+    "endDate": "2026-11-14T00:40:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Brigade",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974096,
+        "longitude": 77.607694
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca",
+      "url": "https://www.highape.com/bangalore/organisers/toca"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/fuego-friday-bollywood-dj-night-ft-dj-firex-q9nihhhl0e",
+      "validFrom": "2026-11-10T17:43:59.973Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Firex",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/fuego-friday-bollywood-dj-night-ft-dj-firex-q9nihhhl0e"
   },
   {
     "@context": "https://schema.org",
@@ -2230,10 +2585,10 @@
     "name": "High End Thursday : Bollywood Night ft DJ Kamra",
     "description": "HighlightsHigh End Thursday party night at TOCA KoramangalaDJ Kamra playing Bollywood, commercial and party anthemsPremium midweek party vibes with a stylish cr",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/bc5dceb7df6110758fbb3fd300fe1663.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/08/6ce0226eb68daa03c88183dc99d8ed0a.jpg"
     ],
-    "startDate": "2026-11-12T20:00:00+05:30",
-    "endDate": "2026-11-13T01:00:00+05:30",
+    "startDate": "2026-11-12T19:30:00+05:30",
+    "endDate": "2026-11-13T00:30:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
@@ -2261,18 +2616,18 @@
       "price": "0",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/high-end-thursday-bollywood-night-ft-dj-kamra-4pp4u01ytz",
-      "validFrom": "2026-11-09T21:06:14.286Z"
+      "url": "https://www.highape.com/bangalore/events/high-ends-thursday-bollywood-night-ft-dj-kamra-v2lx4lu2ds",
+      "validFrom": "2026-11-10T16:41:40.988Z"
     },
     "performer": [
       {
         "@type": "Person",
         "name": "DJ Kamra",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/10/23/b8bb5d5b173cac049a7713dd03dc186d.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-kamra-1"
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/5fdead52/zjlcpv5op4xwb9kj23of.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-kamra"
       }
     ],
-    "url": "https://www.highape.com/bangalore/events/high-end-thursday-bollywood-night-ft-dj-kamra-4pp4u01ytz"
+    "url": "https://www.highape.com/bangalore/events/high-ends-thursday-bollywood-night-ft-dj-kamra-v2lx4lu2ds"
   },
   {
     "@context": "https://schema.org",
@@ -3073,6 +3428,106 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bollywood Ladies Night ft DJ Dhruv",
+    "description": "HighlightsSpecial Ladies Night every WednesdayFree entry for couples and ladiesComplimentary drinks for all ladiesLive DJ performance by DJ DhruvNeon-themed amb",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/08/e4bc7257f68d1fad5c390b0e1d3e4865.jpg"
+    ],
+    "startDate": "2026-11-11T19:30:00+05:30",
+    "endDate": "2026-11-12T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "122/A, 105, 1st A Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934957,
+        "longitude": 77.61598
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca",
+      "url": "https://www.highape.com/bangalore/organisers/toca"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-dj-ft-dj-dhruv-lkq90ms0db",
+      "validFrom": "2026-11-10T16:41:41.138Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ DHRUV",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-dhruv-a92m"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-dj-ft-dj-dhruv-lkq90ms0db"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bollywood Ladies Night ft DJ Mark",
+    "description": "HighlightsBollywood Ladies Night with high-energy desi vibesDJ Mark spinning Bollywood hits and party anthemsGlam crowd with TOCA’s signature party ambiencePrem",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/08/5e5beffac4175f333498a3f1ff10e185.jpg"
+    ],
+    "startDate": "2026-11-12T19:30:00+05:30",
+    "endDate": "2026-11-13T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Toca Brigade",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.974096,
+        "longitude": 77.607694
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toca",
+      "url": "https://www.highape.com/bangalore/organisers/toca"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-dj-ft-dj-mark-vjnf10hqco",
+      "validFrom": "2026-11-10T17:45:01.045Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Mark",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-mark-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-dj-ft-dj-mark-vjnf10hqco"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Las Vegas 2027",
     "description": "Highlights 15th edition of the iconic Las Vegas New Year’s Eve celebrationTwo high-energy party halls with different music genresCandlelight concert beneath the",
     "image": [
@@ -3170,6 +3625,63 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/little-beats-festival-bangalore-s-biggest-party-for-little-c1sx7es4z5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Madras Madness",
+    "description": "HighlightsAn exclusive Tamil music night featuring DJ Jabby WarneSupported by DJ Kram, bringing an energetic musical experienceA power-packed mix of Tamil hits,",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/d270b4e24b95f767c3957be1fa60315f.jpg"
+    ],
+    "startDate": "2026-11-14T20:00:00+05:30",
+    "endDate": "2026-11-15T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PANACEA BLR",
+      "url": "https://www.highape.com/bangalore/organisers/vysakh-b-ra-at5m1"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/madras-madness-wjpavslgcv",
+      "validFrom": "2026-11-10T15:56:04.110Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Jabby Warne & DJ Harsh",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/01/28/7f2782c4075ce30a5a139e8c02975d62.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-jabby-warne-dj-harsh-wgbj"
+      },
+      {
+        "@type": "Person",
+        "name": "dj kram",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-kram-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/madras-madness-wjpavslgcv"
   },
   {
     "@context": "https://schema.org",
@@ -3860,6 +4372,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/no-limits-music-festival-ft-rihya-nolimmits-mskq6ks4eu"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "No Parking Fridays",
+    "description": "HighlightsHip-hop and DHH music night at i-Bar, The Park, BangaloreFeaturing live DJ sets by HyponeX, Arah and BoofyExperience the best of Indian hip-hop, rap a",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/10/fefebcf053ce49e64dbce3c7603a3dff.png"
+    ],
+    "startDate": "2026-11-13T20:00:00+05:30",
+    "endDate": "2026-11-14T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "The Park Bangalore",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "14/7, Mahatma Gandhi Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.973971,
+        "longitude": 77.617437
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shane Events",
+      "url": "https://www.highape.com/bangalore/organisers/shane-events-5iebg"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/no-parking-fridays-3u5j4vwey0",
+      "validFrom": "2026-11-10T16:41:41.550Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Hyponex",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/hyponex-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "Boofy",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/boofy-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/no-parking-fridays-3u5j4vwey0"
   },
   {
     "@context": "https://schema.org",
@@ -5134,56 +5702,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Sufi Night with Bikash Sunarr",
-    "description": "HighlightsAn enchanting Sufi musical evening featuring Bikash Sunarr live.Experience soulful melodies and captivating live vocals.Immerse yourself in a magical ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/15e7191d57a246b77a0d461e80a42d69.jpg"
-    ],
-    "startDate": "2026-11-14T19:00:00+05:30",
-    "endDate": "2026-11-15T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "SkyDeck by Sherlock's",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "52, MG Road, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97503,
-        "longitude": 77.607534
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sid Productions",
-      "url": "https://www.highape.com/bangalore/organisers/sidproductions-ma5it"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "499",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/sufi-night-with-bikash-sunarr-2ecic18yjl",
-      "validFrom": "2026-11-09T22:27:16.244Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Bikash Sunar",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/11/04/2c26397bc7a4cb46fe4f5aca94685b5c.jpg",
-        "url": "https://www.highape.com/bangalore/artists/bikash-sunar"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/sufi-night-with-bikash-sunarr-2ecic18yjl"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Sugar Rush Saturdays ",
     "description": "HighlightsSugar Rush Saturday party experienceMusic by ShreyaHigh-energy beats and vibrant club vibesComplimentary drinks for ladiesVIP and VVIP table options a",
     "image": [
@@ -5280,6 +5798,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/sugar-wednesday-ladies-night-tcrla743wy"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sunday Kadhem Live at Kitty Ko, The Lalit Ashok",
+    "description": "HighlightsLive musical performance by KadhemAn exclusive Sunday live-music experienceEnjoy an evening of music and entertainmentPremium ambience at Kitty KoExpe",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/08/140ce8711b15d767ba1c6132076520ff.jpg"
+    ],
+    "startDate": "2026-11-15T19:00:00+05:30",
+    "endDate": "2026-11-16T01:15:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Kitty Ko",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kumara Park East, Sheshadripuram, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.992306,
+        "longitude": 77.58201
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Essence of techno",
+      "url": "https://www.highape.com/bangalore/organisers/essence-of-techno-xk5a2"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sunday-kadhem-live-at-kittyko-the-lalit-ashok-h0wslz6203",
+      "validFrom": "2026-11-10T17:45:16.521Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Essence of techno",
+        "url": "https://www.highape.com/bangalore/organisers/essence-of-techno-xk5a2"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sunday-kadhem-live-at-kittyko-the-lalit-ashok-h0wslz6203"
   },
   {
     "@context": "https://schema.org",
@@ -5795,57 +6362,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/the-candy-affair-6ui9hnc9f2"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Fab Four – Beatlemania At Sunburn Union",
-    "description": "HighlightsLive performance by The Fab Four – BeatlemaniaEurope's most wanted Beatles tribute bandIconic Beatles hits and timeless rock 'n' roll classicsA nostal",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/05/ff99ca92ffcf8ef1dc340f3a0c3f6200.jpg"
-    ],
-    "startDate": "2026-11-12T19:00:00+05:30",
-    "endDate": "2026-11-13T12:30:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Sunburn Union",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.945166,
-        "longitude": 77.620135
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "siaentertainments",
-      "url": "https://www.highape.com/bangalore/organisers/sia"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "474",
-      "highPrice": "759",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/the-fab-four-beatlemania-at-sunburn-union-ctsfbl1q9v",
-      "validFrom": "2026-11-10T05:47:12.968Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Beatlemania",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/11/05/8a5fe6cba827af0d09da4f0d39f92ac1.jpg",
-        "url": "https://www.highape.com/bangalore/artists/beatlemania-evual2"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/the-fab-four-beatlemania-at-sunburn-union-ctsfbl1q9v"
   },
   {
     "@context": "https://schema.org",
@@ -6756,6 +7272,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/vision-board-workshop-u8dm7zip64"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wednesday Pool Party Ladies Night | Rism Club",
+    "description": "HighlightsExclusive Ladies Night at RISM The Luxury ClubUnlimited whiskey, rum, vodka, gin and cocktails for ladiesExciting pool party experienceSpacious dance ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/08/f7c4e697e7f45d9fd2ea686528e8b428.jpg"
+    ],
+    "startDate": "2026-11-11T20:00:00+05:30",
+    "endDate": "2026-11-12T00:30:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "RISM THE LUXURY CLUB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93363,
+        "longitude": 77.614577
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Saamir Highspinn",
+      "url": "https://www.highape.com/bangalore/organisers/saamir-highspinn-1700002963"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/wednesday-pool-party-ladies-night-rism-club-e1ssg05zu0",
+      "validFrom": "2026-11-10T15:56:07.477Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Dj Gargi",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/11/03/05abc273ced7ed1e6c22909ec482e5d8.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-gargi-n0c4"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/wednesday-pool-party-ladies-night-rism-club-e1ssg05zu0"
   },
   {
     "@context": "https://schema.org",
