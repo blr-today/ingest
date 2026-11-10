@@ -1,6 +1,27 @@
 [
   {
     "@type": "Event",
+    "name": "Metavalent Bonds: Crystals in Love with Instabilities",
+    "url": "https://puttingscene.com/events/EOBJWV",
+    "description": "Metavalent Bonds: Crystals in Love with Instabilities",
+    "image": "https://cdn.puttingscene.com/base/image/kz6zrUg4RuG7RiewAi7lbQ.jpg",
+    "location": {
+      "name": "Raman Research Institute, Sadashivanagar",
+      "address": "Raman Research Institute, CV Raman Rd, near Mekhri circle, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080, India",
+      "url": "https://maps.app.goo.gl/wLrARUvvBkhoqV1f6",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0144237,
+        "longitude": 77.58132549999999
+      }
+    },
+    "sameAs": "https://www.rri.res.in/events/metavalent-bonds-crystals-love-instabilities",
+    "startDate": "2026-11-10T11:00:00+05:30",
+    "endDate": "2026-11-10T12:00:00+05:30",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "Verse and Worse Karaoke with Aashish Paul",
     "url": "https://puttingscene.com/events/X6IJ6R",
     "description": "**About the Event:**\n\nVerse and Worse Karaoke with Aashish Paul - Dramatic duets, forgotten lyrics, guilty pleasure anthems - all welcome here. Hosted by Aashish Paul at The Humming Tree. No judgment, just good music and louder singalongs 😎\n\nJoin us this Tuesday!\n\n**The Humming Tree:**\n\nThe Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosystem.\n\nNow, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it’s a hub for creativity, culture and collaboration.",
@@ -54,7 +75,7 @@
         "price": "400.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 12
+        "remainingAttendeeCapacity": 9
       }
     ]
   },
@@ -155,8 +176,7 @@
         "name": "Slice of Jazz at Serious Slice",
         "price": "315.00",
         "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 16
+        "availability": "https://schema.org/SoldOut"
       }
     ]
   },
@@ -300,7 +320,7 @@
     "@type": "Event",
     "name": "India Wine Day: The People's Choice Wine Awards",
     "url": "https://puttingscene.com/events/WLGRBC",
-    "description": "What happens when you taste Indian wines without knowing what's in your glass?\n\nCelebrate India Wine Day at Trippy Goat Café with a curated blind-tasting experience featuring wines from Karnataka. Taste across three categories, discover new favourites and vote for the wines you love at the inaugural India Wine Day People's Choice Awards.\n\nNo labels. No brand bias. Just wine, your palate and your vote.",
+    "description": "Celebrate India Wine Day at Trippy Goat Café with a curated blind-tasting experience featuring Indian wines.\n\nDate: 14 Nov, Saturday\n\nTime: 4PM - 7PM\n\nLocation: Trippy Goat Cafe, MG Road\n\nTaste across three categories, discover new favourites and vote for the wines you love at the inaugural India Wine Day People's Choice Awards.\n\nNo labels. No brand bias. Just wine, your palate and your vote.",
     "image": "https://cdn.puttingscene.com/base/image/WN8yZTlyRleggX7nE5CU5Q.jpg",
     "location": {
       "name": "Trippy Goat Cafe",
@@ -366,6 +386,81 @@
   },
   {
     "@type": "Event",
+    "name": "7Paintings - The Art of Dining",
+    "url": "https://puttingscene.com/events/M5XV92",
+    "description": "• 7 Paintings is a globally acclaimed German dining concept, making its debut in India for the first time in Bengaluru.\n\n• An immersive dining experience that brings together art, technology, storytelling and fine dining in a unique, interactive format.\n\n• Guests embark on a 2.5-hour journey featuring a seven-course dinner, with each course inspired by iconic masterpieces brought to life through mesmerising projections on the dining table.\n\n• Located at Gladia Brewery & Kitchen on Sarjapur Main Road, the experience is strictly by advance reservation only, with no walk-ins permitted.",
+    "image": "https://cdn.puttingscene.com/base/image/S7zjNl5wTgGM_yLKJIZOgw.jpg",
+    "location": {
+      "name": "Gladia Brewery & Kitchen",
+      "address": "Gladia Brewery & Kitchen, SY No. 82/4B, Sarjapur Main Rd, beside Wipro Limited, B.B, M.P East, Doddakannelli, Mahadevapura, Bengaluru, Karnataka 560035, India",
+      "url": "https://maps.google.com/?cid=5949390751741053051",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9108764,
+        "longitude": 77.6850798
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pitch Perfect Organization"
+    },
+    "startDate": "2026-11-14T18:30:00+05:30",
+    "endDate": "2026-11-14T21:00:00+05:30",
+    "maximumAttendeeCapacity": 12,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Classic - Non Vegetarian",
+        "price": "6300.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      },
+      {
+        "@type": "Offer",
+        "name": "Vegetarian",
+        "price": "5775.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      },
+      {
+        "@type": "Offer",
+        "name": "Kids",
+        "price": "4725.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Seiko Vintage Watch Meetup",
+    "url": "https://puttingscene.com/events/UJJSTO",
+    "description": "Calling all Seiko enthusiasts and watch collectors!\n\nFrom vintage chronographs and iconic divers to modern classics, we're bringing together Bengaluru's watch community for a morning dedicated to all things Seiko.\n\nBring your favourite timepieces, swap stories, discover rare references and connect with fellow collectors.\n\n15 November (Sunday) | 11 AM onwards\n\nVenue: The Revolver Club, 2982, 2nd Floor, 12th Main Road, HAL 2nd Stage, Indiranagar, Bengaluru.",
+    "image": "https://cdn.puttingscene.com/base/image/XwKu1IxhQQiSXHHVhInbQw.jpg",
+    "location": {
+      "name": "The Revolver Club (Bengaluru)",
+      "address": "2nd Floor, The Revolver Club (Bengaluru), 2982, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://maps.google.com/?cid=6936095224455462251",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9703311,
+        "longitude": 77.6442421
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Revolver Club Magazine"
+    },
+    "startDate": "2026-11-15T11:00:00+05:30",
+    "endDate": "2026-11-15T22:00:00+05:30",
+    "maximumAttendeeCapacity": 200,
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "Live Urban Sketching Bootcamp - Workshop Series",
     "url": "https://puttingscene.com/events/UYRE39",
     "description": "*Learn how to draw on location and maintain a sketchbook with this 4 part live drawing bootcamp! Each session will begin with an instructional segment, learning an aspect of life drawing and building skills, followed by a live location demo and a practice session for participants. Instructional session will be conducted at Atta Galatta, Indiranagar, followed by the demo and drawing session at a different location in the area each week.*\n\n*Each week we tackle something different -*\n\n*Session 1 : Drawing Nature and Organic shapes.*\n\n*Session 2 : Understanding Perspective and architecture.*\n\n*Session 3: Drawing people.*\n\n*Session 4: Capturing Light and Colour.*\n\n*Dates : Saturdays, 9AM-12PM (3hrs) on 14th Nov, 21st Nov, 28th Nov & 5th December.*\n\nJoin us for the entire bootcamp or for a single session!",
@@ -395,6 +490,56 @@
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
         "remainingAttendeeCapacity": 10
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "7Paintings - The Art of Dining",
+    "url": "https://puttingscene.com/events/M5XV92",
+    "description": "• 7 Paintings is a globally acclaimed German dining concept, making its debut in India for the first time in Bengaluru.\n\n• An immersive dining experience that brings together art, technology, storytelling and fine dining in a unique, interactive format.\n\n• Guests embark on a 2.5-hour journey featuring a seven-course dinner, with each course inspired by iconic masterpieces brought to life through mesmerising projections on the dining table.\n\n• Located at Gladia Brewery & Kitchen on Sarjapur Main Road, the experience is strictly by advance reservation only, with no walk-ins permitted.",
+    "image": "https://cdn.puttingscene.com/base/image/S7zjNl5wTgGM_yLKJIZOgw.jpg",
+    "location": {
+      "name": "Gladia Brewery & Kitchen",
+      "address": "Gladia Brewery & Kitchen, SY No. 82/4B, Sarjapur Main Rd, beside Wipro Limited, B.B, M.P East, Doddakannelli, Mahadevapura, Bengaluru, Karnataka 560035, India",
+      "url": "https://maps.google.com/?cid=5949390751741053051",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9108764,
+        "longitude": 77.6850798
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pitch Perfect Organization"
+    },
+    "startDate": "2026-11-21T18:30:00+05:30",
+    "endDate": "2026-11-21T21:00:00+05:30",
+    "maximumAttendeeCapacity": 12,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Classic - Non Vegetarian",
+        "price": "6300.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      },
+      {
+        "@type": "Offer",
+        "name": "Vegetarian",
+        "price": "5775.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      },
+      {
+        "@type": "Offer",
+        "name": "Kids",
+        "price": "4725.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
@@ -462,7 +607,7 @@
         "price": "1800.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 10
+        "remainingAttendeeCapacity": 9
       }
     ]
   },
@@ -556,6 +701,56 @@
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
         "remainingAttendeeCapacity": 20
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "7Paintings - The Art of Dining",
+    "url": "https://puttingscene.com/events/M5XV92",
+    "description": "• 7 Paintings is a globally acclaimed German dining concept, making its debut in India for the first time in Bengaluru.\n\n• An immersive dining experience that brings together art, technology, storytelling and fine dining in a unique, interactive format.\n\n• Guests embark on a 2.5-hour journey featuring a seven-course dinner, with each course inspired by iconic masterpieces brought to life through mesmerising projections on the dining table.\n\n• Located at Gladia Brewery & Kitchen on Sarjapur Main Road, the experience is strictly by advance reservation only, with no walk-ins permitted.",
+    "image": "https://cdn.puttingscene.com/base/image/S7zjNl5wTgGM_yLKJIZOgw.jpg",
+    "location": {
+      "name": "Gladia Brewery & Kitchen",
+      "address": "Gladia Brewery & Kitchen, SY No. 82/4B, Sarjapur Main Rd, beside Wipro Limited, B.B, M.P East, Doddakannelli, Mahadevapura, Bengaluru, Karnataka 560035, India",
+      "url": "https://maps.google.com/?cid=5949390751741053051",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9108764,
+        "longitude": 77.6850798
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pitch Perfect Organization"
+    },
+    "startDate": "2026-11-28T18:30:00+05:30",
+    "endDate": "2026-11-28T21:00:00+05:30",
+    "maximumAttendeeCapacity": 12,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Classic - Non Vegetarian",
+        "price": "6300.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      },
+      {
+        "@type": "Offer",
+        "name": "Vegetarian",
+        "price": "5775.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      },
+      {
+        "@type": "Offer",
+        "name": "Kids",
+        "price": "4725.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 2
       }
     ]
   },
