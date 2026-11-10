@@ -1,27 +1,6 @@
 [
   {
     "@type": "Event",
-    "name": "Metavalent Bonds: Crystals in Love with Instabilities",
-    "url": "https://puttingscene.com/events/EOBJWV",
-    "description": "Metavalent Bonds: Crystals in Love with Instabilities",
-    "image": "https://cdn.puttingscene.com/base/image/kz6zrUg4RuG7RiewAi7lbQ.jpg",
-    "location": {
-      "name": "Raman Research Institute, Sadashivanagar",
-      "address": "Raman Research Institute, CV Raman Rd, near Mekhri circle, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080, India",
-      "url": "https://maps.app.goo.gl/wLrARUvvBkhoqV1f6",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0144237,
-        "longitude": 77.58132549999999
-      }
-    },
-    "sameAs": "https://www.rri.res.in/events/metavalent-bonds-crystals-love-instabilities",
-    "startDate": "2026-11-10T11:00:00+05:30",
-    "endDate": "2026-11-10T12:00:00+05:30",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
     "name": "Verse and Worse Karaoke with Aashish Paul",
     "url": "https://puttingscene.com/events/X6IJ6R",
     "description": "**About the Event:**\n\nVerse and Worse Karaoke with Aashish Paul - Dramatic duets, forgotten lyrics, guilty pleasure anthems - all welcome here. Hosted by Aashish Paul at The Humming Tree. No judgment, just good music and louder singalongs 😎\n\nJoin us this Tuesday!\n\n**The Humming Tree:**\n\nThe Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosystem.\n\nNow, in 2026, The Humming Tree is back in a brand-new, purpose-designed space in Indiranagar. Built across 12,000 sq. ft., the venue features a 600+ capacity performance space, world-class sound and lighting systems, and a diverse F&B proposition. More than just a venue, it’s a hub for creativity, culture and collaboration.",
@@ -143,7 +122,7 @@
         "price": "300.00",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "remainingAttendeeCapacity": 14
+        "remainingAttendeeCapacity": 10
       }
     ]
   },
@@ -458,6 +437,74 @@
     "endDate": "2026-11-15T22:00:00+05:30",
     "maximumAttendeeCapacity": 200,
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Crochet 101",
+    "url": "https://puttingscene.com/events/KYGCOM",
+    "description": "Never picked up a crochet hook before? No problem :)\n\nThis hands-on workshop breaks crochet down into the basics. Here’s what you’ll learn:\n\n- How to choose the right yarn and hook\n- Essential crochet stitches\n- Crochet terminology\n- How to read a crochet pattern\n\nYou’ll also try your hand at simple projects like a star and a flower. If you’ve got some crochet experience already, you can use the session to brush up on your skills or take on a granny square.\n\nCome learn the building blocks of crochet so you can pick up a hook and keep making things at home!\n\nAll materials will be provided. Feel free to bring your own hooks or yarn!",
+    "image": "https://cdn.puttingscene.com/base/image/jIph9jt7RQG8OWccP38VRA.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, 835 6th cross, 10th, main Water tank road, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.975982,
+        "longitude": 77.6384154
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Paper Crane Lab Organization"
+    },
+    "startDate": "2026-11-15T15:00:00+05:30",
+    "endDate": "2026-11-15T17:00:00+05:30",
+    "maximumAttendeeCapacity": 6,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "600.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 3
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Make your own Sashiko Bookmarks",
+    "url": "https://puttingscene.com/events/WZFXFO",
+    "description": "Japanese crafts are designed to be mindful, calming and skill-building, matching perfectly with our ethos at Knot Therapy.\n\nSashiko is an embroidery technique developed to preserve both garments and resources. Its unique style of using the minimum material by creating geometric patterns while reinforcing the fabric in such a way that it not only survives heavy use but the mending is decorative - the flaw becomes part of its beauty.\n\nJoin us to explore a brand new thread craft, some interesting history, make your very own bookmarks, all while learning a new technique to regulate yourself and make some calm with your own hands.\n\n**What you get:**\n\n4 sets of bookmarks to experiment with\n\nSafe supplies to create the punch base\n\nAll tools & threads to create the embroidery\n\nA guided and quiet experience, curated by your own pace & aesthetic.\n\n**Open to Ages 16+**\n\nFriday, 20th November\n\n7:30pm-9:00pm",
+    "image": "https://cdn.puttingscene.com/base/image/rXUHNGjFSaWCTVxvAF7i5g.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, 835 6th cross, 10th, main Water tank road, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.975982,
+        "longitude": 77.6384154
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Paper Crane Lab Organization"
+    },
+    "startDate": "2026-11-20T19:00:00+05:30",
+    "endDate": "2026-11-20T21:00:00+05:30",
+    "maximumAttendeeCapacity": 8,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "750.00",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "remainingAttendeeCapacity": 8
+      }
+    ]
   },
   {
     "@type": "Event",
