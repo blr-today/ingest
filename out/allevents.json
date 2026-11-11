@@ -199,6 +199,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "APR Amplified 2026 — Adarsh Palm Retreat Festival",
+    "image": "https://cdn-az.allevents.in/events2/banners/667ce785083aade8b2a435ef5a0fe5c914161921da25778991458942ac266dbb-rimg-w1200-h457-dc782868-gmir?v=1794155622",
+    "startDate": "2026-11-22T10:00:00+05:30",
+    "endDate": "2026-11-22T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/apr-amplified-2026-adarsh-palm-retreat-festival/200031002063244",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Adarsh Palm Retreat Phase 3, Devarabisanahalli, Bellandur, Outer Ring Road, Bangalore, India 560103, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sobha Iris Apartments, 4004, Devarabisanahalli, Bengaluru 560103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.93107",
+        "longitude": "77.68577"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "APR Amplified is the first annual festival of Adarsh Palm Retreat Condominiums Phase 3 (APRCP3) in Bellandur, Bangalore — built by residents, for residents of Adarsh Palm Retreat apartments and villas and their families.\n\nSunday 22 November 2026, 10 AM to 10 PM, inside the APR Phase 3 grounds:\n• 10",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "APR Amplified",
+        "url": "https://allevents.in/org/apr-amplified/28376775"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Candlelight: Best of Bollywood at DoubleTree Whitefield | Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/de96f10d7bf32efa61aac383eaabf1a98661038a26701df986199c2c667281cf-rimg-w768-h768-dcf8c808-gmir?v=1794315483",
@@ -569,6 +604,45 @@
         "availabilityEnds": "2026-11-22T17:30:00+05:30",
         "validFrom": "2026-09-17",
         "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Art of Manipulation Meetup: Corporate Edition",
+    "image": "https://cdn-az.allevents.in/events9/banners/7f9e9050-db0a-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc281848-gmir.jpg?v=1794097356",
+    "startDate": "2026-11-14T15:30:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Kettle and Krust Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mig.103, 17th H Main Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9352",
+        "longitude": "77.617"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "A live, hands-on workshop on the games people play at work.Your boss, your peers, the appraisal form, and the \"quick call\" at 7 PM. Some of them are playing you, and some don't even know it.The Art of Manipulation is a live meetup series on the psychology of influence. This Corporate Edition is all",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-12",
+        "availabilityEnds": "2026-11-14T18:00:00+05:30",
+        "validFrom": "2026-10-12",
+        "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906"
       }
     ]
   },
@@ -1161,25 +1235,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "18 Adavr Barri - Solo Special by Vadiraj",
-    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883075",
-    "startDate": "2026-11-28T16:00:00+05:30",
-    "endDate": "2026-11-28T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915",
+    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883081",
+    "startDate": "2026-12-05T16:00:00+05:30",
+    "endDate": "2026-12-05T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "The Laugh Junction: Bengaluru",
+      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9122",
-        "longitude": "77.6357"
+        "latitude": "12.915",
+        "longitude": "77.5951"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1190,9 +1264,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-28T17:30:00+05:30",
+        "availabilityEnds": "2026-12-05T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915"
+        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921"
       }
     ]
   },
@@ -1823,11 +1897,11 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Spin Fluid",
-    "image": "https://cdn-az.allevents.in/events9/banners/e2954f80-da9e-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dca89888-gmir.jpg?v=1794051136",
+    "name": "Mini Masterpiece",
+    "image": "https://cdn-az.allevents.in/events5/banners/1fa3f3a0-da85-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc181818-gmir.jpg?v=1794040094",
     "startDate": "2026-11-14T15:00:00+05:30",
     "endDate": "2026-11-14T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/spin-fluid/3900030993656117",
+    "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
@@ -1846,7 +1920,7 @@
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "SPIN Fluid Art WorkshopExperience the magic of fluid art in this fun and beginner friendly workshop. Learn how to create stunning abstract designs using acrylic pouring and spinning techniques that produce beautiful patterns and vibrant color combinations.With step by step guidance from an expert in",
+    "description": "Mini Masterpiece Workshop: Model Your ImaginationDiscover the joy of shaping clay into stunning creations! Our Mini Masterpiece workshop is perfect for both beginners and experienced artists. Learn various techniques to mold, shape, and decorate your own unique pieces.Note: All materials provided.No",
     "offers": [
       {
         "@type": "AggregateOffer",
@@ -1855,7 +1929,7 @@
         "availabilityStarts": "2026-11-07",
         "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/spin-fluid/3900030993656117"
+        "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914"
       }
     ]
   },
@@ -1901,39 +1975,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Unwind &amp; Reconnect A Holistic Wellness Experienc",
-    "image": "https://cdn-az.allevents.in/events9/banners/d68385c0-dadc-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1794077745",
-    "startDate": "2026-11-15T08:00:00+05:30",
-    "endDate": "2026-11-15T10:00:00+05:30",
-    "url": "https://allevents.in/bangalore/unwind-and-reconnect-a-holistic-wellness-experienc/3900030994924945",
+    "name": "Diya painting Workshop",
+    "image": "https://cdn-az.allevents.in/events1/banners/70ae5bd0-daa5-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc987868-gmir.jpg?v=1794053968",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/diya-painting-workshop/3900030993799429",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "La Butsu: Bengaluru",
+      "name": "Tim Hortons, Koramangala: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "230, 4th floor, 3rd main, 6th Cross Road, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9762",
-        "longitude": "77.6462"
+        "latitude": "12.9399",
+        "longitude": "77.6196"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Unwind & Reconnect: Yoga, Breath, Sound Healing, Aqua RelaxTwo Hours to Relax, Recharge & Reconnect with Yourself In the middle of our busy lives, we often forget to pause, breathe, and take care of ourselves. The constant demands of work, responsibilities, and everyday stress can leave us feeling m",
+    "description": "Diya Painting WorkshopCelebrate creativity and tradition with our Diya Painting Workshop. Add your personal touch to traditional diyas by experimenting with vibrant colours, beautiful patterns, and creative designs. Whether you prefer elegant festive motifs or quirky contemporary styles, create your",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-15T10:00:00+05:30",
+        "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/unwind-and-reconnect-a-holistic-wellness-experienc/3900030994924945"
+        "url": "https://allevents.in/bangalore/diya-painting-workshop/3900030993799429"
       }
     ]
   },
@@ -2012,45 +2086,6 @@
         "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
         "url": "https://allevents.in/bangalore/resin-art/3900030995025242"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Weekend Yoga Workshop",
-    "image": "https://cdn-az.allevents.in/events3/banners/48bc41f0-dae1-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc285858-gmir.jpg?v=1794079654",
-    "startDate": "2026-11-15T09:00:00+05:30",
-    "endDate": "2026-11-15T10:30:00+05:30",
-    "url": "https://allevents.in/bangalore/weekend-yoga-workshop/3900030995031735",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "BASE - Best Personal Training GYM: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "4th Floor, 113, 27th Main Road, Opposite VLCC, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9106",
-        "longitude": "77.652"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Weekend Yoga at BASEStart your weekend the right way with a session designed to help you move better, breathe deeper, and recover stronger.BASE`s Weekend Yoga brings together mobility, breathwork, and mindful movement in a guided session suited for all levels, whether you`re a regular yoga practitio",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-15T10:30:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/weekend-yoga-workshop/3900030995031735"
       }
     ]
   },
@@ -2259,11 +2294,11 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clay Labubu Doll",
-    "image": "https://cdn-az.allevents.in/events5/banners/812a1580-db0e-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1794099082",
-    "startDate": "2026-11-14T15:10:00+05:30",
-    "endDate": "2026-11-14T16:10:00+05:30",
-    "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030996324922",
+    "name": "Art and Conversation",
+    "image": "https://cdn-az.allevents.in/events1/banners/a543ce00-db10-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1794100001",
+    "startDate": "2026-11-14T13:05:00+05:30",
+    "endDate": "2026-11-14T14:35:00+05:30",
+    "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
@@ -2282,16 +2317,16 @@
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bring your favourite quirky character to life with clay!Join us for a fun and creative Clay Labubu Doll Making Workshop where you'll shape, sculpt, and personalise your very own adorable Labubu-inspired character. Experiment with colours, expressions, and little details to create a doll that reflect",
+    "description": "Create, connect, and express yourself through art and meaningful conversations.Join us for a relaxed creative evening where painting meets conversation. Explore your creativity, share thoughts, exchange stories, and connect with new people in a welcoming, judgement-free space.Whether you're an exper",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-14T16:10:00+05:30",
+        "availabilityEnds": "2026-11-14T14:35:00+05:30",
         "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030996324922"
+        "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242"
       }
     ]
   },
@@ -2604,6 +2639,84 @@
         "availabilityEnds": "2026-11-15T00:50:00+05:30",
         "validFrom": "2026-11-10",
         "url": "https://allevents.in/bangalore/pressure-redroom-bollywood-edition/3900031018572331"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Lotus Pond Resin Art",
+    "image": "https://cdn-az.allevents.in/events6/banners/cfd936f0-dd4f-11f1-b0a4-c1144da10af1-rimg-w1200-h600-dc182818-gmir.jpg?v=1794347028",
+    "startDate": "2026-11-28T13:00:00+05:30",
+    "endDate": "2026-11-28T15:30:00+05:30",
+    "url": "https://allevents.in/bangalore/lotus-pond-resin-art/3900031020239049",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe De Verde: Bengaluru.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9408",
+        "longitude": "77.6233"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Lotus Pond Resin Art WorkshopStep into the world of resin art with our 2 hour Lotus Pond Resin Art Workshop. Design and create a beautiful lotus pond artwork using high quality resin and pigments.Perfect for beginners and art enthusiasts, this workshop includes all the materials and step by step gui",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-28T15:30:00+05:30",
+        "validFrom": "2026-11-10",
+        "url": "https://allevents.in/bangalore/lotus-pond-resin-art/3900031020239049"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Fantasy Friday Ladies Night",
+    "image": "https://cdn-az.allevents.in/events1/banners/f71e29a0-dd4f-11f1-b0a4-c1144da10af1-rimg-w1200-h600-dc080808-gmir.jpg?v=1794347094",
+    "startDate": "2026-11-13T20:00:00+05:30",
+    "endDate": "2026-11-14T01:00:00+05:30",
+    "url": "https://allevents.in/bangalore/fantasy-friday-ladies-night/3900031020241754",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Fixx: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "757, 80 Feet Road, Koramangala 4th Block, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9322",
+        "longitude": "77.6317"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Fantasy Friday Ladies Night The best place to party on a Friday right here at this beautiful venue The Fixx KoramangalaLadies get unlimited free drinksThis Friday we have surprise guest DJ along with DJ SID playing all your fav Bollywood and Punjabi dance numbers to rock you on the dancefloorCome be",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-11-14T01:00:00+05:30",
+        "validFrom": "2026-11-10",
+        "url": "https://allevents.in/bangalore/fantasy-friday-ladies-night/3900031020241754"
       }
     ]
   },
@@ -4074,67 +4187,6 @@
         "name": "Bangalore Scene Distortion Kult (BDK)",
         "url": "https://allevents.in/org/bangalore-scene-distortion-kult-b$dk/27738579",
         "description": "A Kult of unhinged distortion lovers who live for all things loud and underground! 🤘💀"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Founder Pitches by CEDAT",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6aed7fb70a85b.jpg",
-    "startDate": "2026-12-07T18:00:00+05:30",
-    "endDate": "2026-12-07T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80008925175871",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Samagata Foundation",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "postalCode": "560001",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9756186",
-        "longitude": "77.60275589999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Building a startup? Or already scaling one?Join us for Founder Pitches — a relaxed yet impactful event where founders take the stage to share their ideas, products and journeys.This event is all about real pitches, real feedback and real connections.Founders will present their startups in a supporti",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-06",
-        "availabilityEnds": "2026-12-07T19:00:00+05:30",
-        "validFrom": "2026-11-06",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80008925175871"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-06",
-        "availabilityEnds": "2026-12-07T19:00:00+05:30",
-        "validFrom": "2026-11-06",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/founder-pitches-by-cedat-tickets/80008925175871",
-        "availability": "https://schema.org/InStock",
-        "name": "Standard Ticket"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT ",
-        "url": "https://allevents.in/org/cedat/25336161"
       }
     ]
   },
