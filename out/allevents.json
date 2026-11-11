@@ -199,41 +199,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "APR Amplified 2026 — Adarsh Palm Retreat Festival",
-    "image": "https://cdn-az.allevents.in/events2/banners/667ce785083aade8b2a435ef5a0fe5c914161921da25778991458942ac266dbb-rimg-w1200-h457-dc782868-gmir?v=1794155622",
-    "startDate": "2026-11-22T10:00:00+05:30",
-    "endDate": "2026-11-22T22:00:00+05:30",
-    "url": "https://allevents.in/bangalore/apr-amplified-2026-adarsh-palm-retreat-festival/200031002063244",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Adarsh Palm Retreat Phase 3, Devarabisanahalli, Bellandur, Outer Ring Road, Bangalore, India 560103, Karnataka",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sobha Iris Apartments, 4004, Devarabisanahalli, Bengaluru 560103, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.93107",
-        "longitude": "77.68577"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "APR Amplified is the first annual festival of Adarsh Palm Retreat Condominiums Phase 3 (APRCP3) in Bellandur, Bangalore — built by residents, for residents of Adarsh Palm Retreat apartments and villas and their families.\n\nSunday 22 November 2026, 10 AM to 10 PM, inside the APR Phase 3 grounds:\n• 10",
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "APR Amplified",
-        "url": "https://allevents.in/org/apr-amplified/28376775"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Candlelight: Best of Bollywood at DoubleTree Whitefield | Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/de96f10d7bf32efa61aac383eaabf1a98661038a26701df986199c2c667281cf-rimg-w768-h768-dcf8c808-gmir?v=1794315483",
@@ -453,6 +418,58 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Clubbers Friday",
+    "image": "https://cdn-az.allevents.in/events7/banners/af871900-5d41-11f1-9155-03804adf040b-rimg-w1200-h600-dc171214-gmir.jpg?v=1780267212",
+    "startDate": "2026-06-12T19:30:00+05:30",
+    "endDate": "2026-11-13T19:30:00+05:30",
+    "url": "https://allevents.in/bangalore/clubbers-friday/3900030140273548",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Big Pitcher: Sarjapur",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "16/9, Sarjapur Main road Doddakannelli, Village, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Experience the ultimate Clubbers Friday event at Big Pitcher featuring DJ Singh spinning electrifying beats all night long.With a magnetic blend of beats ranging from Bollywood to EDM, he sets the night on fire with his pulsating energy and seamless transitions. Known for captivating audiences with",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "2026-11-13T19:30:00+05:30",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/clubbers-friday/3900030140273548",
+        "lowPrice": "1000.00",
+        "price": "1000.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bangalore/clubbers-friday/3900030140273548",
+        "price": "1000.00",
+        "name": "COUPLE FULLY REDEEMABLE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "SHAAM-E-RAFI-2",
     "image": "https://cdn-az.allevents.in/events3/banners/0fbd2a10-dae4-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794080847",
@@ -604,45 +621,6 @@
         "availabilityEnds": "2026-11-22T17:30:00+05:30",
         "validFrom": "2026-09-17",
         "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Art of Manipulation Meetup: Corporate Edition",
-    "image": "https://cdn-az.allevents.in/events9/banners/7f9e9050-db0a-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc281848-gmir.jpg?v=1794097356",
-    "startDate": "2026-11-14T15:30:00+05:30",
-    "endDate": "2026-11-14T18:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Kettle and Krust Cafe: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Mig.103, 17th H Main Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9352",
-        "longitude": "77.617"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "A live, hands-on workshop on the games people play at work.Your boss, your peers, the appraisal form, and the \"quick call\" at 7 PM. Some of them are playing you, and some don't even know it.The Art of Manipulation is a live meetup series on the psychology of influence. This Corporate Edition is all",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-10-12",
-        "availabilityEnds": "2026-11-14T18:00:00+05:30",
-        "validFrom": "2026-10-12",
-        "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906"
       }
     ]
   },
@@ -1235,25 +1213,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "18 Adavr Barri - Solo Special by Vadiraj",
-    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883081",
-    "startDate": "2026-12-05T16:00:00+05:30",
-    "endDate": "2026-12-05T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921",
+    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883075",
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
+      "name": "The Laugh Junction: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.915",
-        "longitude": "77.5951"
+        "latitude": "12.9122",
+        "longitude": "77.6357"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1264,9 +1242,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-12-05T17:30:00+05:30",
+        "availabilityEnds": "2026-11-28T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921"
+        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915"
       }
     ]
   },
@@ -1702,6 +1680,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Starry Spooky Night",
+    "image": "https://cdn-az.allevents.in/events6/banners/6ef4efd0-da54-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794019180",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/starry-spooky-night/3900030991280941",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9399",
+        "longitude": "77.6196"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Spooky Night Painting WorkshopGet into the spooky spirit with a fun and creative painting experience. Explore your artistic side as you paint eerie moonlit skies, haunted houses, creepy silhouettes, and mysterious Halloween inspired scenes on canvas. Whether you love spooky aesthetics or simply want",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-14T16:30:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/starry-spooky-night/3900030991280941"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Cloud Lamp",
     "image": "https://cdn-az.allevents.in/events1/banners/bb1b7f10-da7b-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794036063",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -1891,45 +1908,6 @@
         "availabilityEnds": "2026-11-14T16:30:00+05:30",
         "validFrom": "2026-11-07",
         "url": "https://allevents.in/bangalore/young-artist-corner/3900030992926649"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mini Masterpiece",
-    "image": "https://cdn-az.allevents.in/events5/banners/1fa3f3a0-da85-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc181818-gmir.jpg?v=1794040094",
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tim Hortons, Koramangala: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9399",
-        "longitude": "77.6196"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Mini Masterpiece Workshop: Model Your ImaginationDiscover the joy of shaping clay into stunning creations! Our Mini Masterpiece workshop is perfect for both beginners and experienced artists. Learn various techniques to mold, shape, and decorate your own unique pieces.Note: All materials provided.No",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-14T16:30:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914"
       }
     ]
   },
@@ -2131,45 +2109,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Neram Presents Japanese Kintsugi Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/a7406020-daf6-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcd8c8c8-gmir.jpg?v=1794088832",
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T16:00:00+05:30",
-    "url": "https://allevents.in/bangalore/neram-presents-japanese-kintsugi-workshop/3900030995582933",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9787",
-        "longitude": "77.6455"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Discover the beauty of imperfection through the traditional Japanese art of Kintsugi with Neram. Kintsugi is the art of repairing broken ceramic pieces using a gold-coloured finish, transforming them into unique decorative artworks while celebrating restoration, resilience, and creativity.In this be",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-14T16:00:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/neram-presents-japanese-kintsugi-workshop/3900030995582933"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Tote Bag Painting",
     "image": "https://cdn-az.allevents.in/events7/banners/eaf2d8b0-db01-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8e8c8-gmir.jpg?v=1794093670",
     "startDate": "2026-11-14T13:50:00+05:30",
@@ -2294,11 +2233,11 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Art and Conversation",
-    "image": "https://cdn-az.allevents.in/events1/banners/a543ce00-db10-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1794100001",
-    "startDate": "2026-11-14T13:05:00+05:30",
-    "endDate": "2026-11-14T14:35:00+05:30",
-    "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242",
+    "name": "Clay Labubu Doll",
+    "image": "https://cdn-az.allevents.in/events5/banners/812a1580-db0e-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1794099082",
+    "startDate": "2026-11-14T15:10:00+05:30",
+    "endDate": "2026-11-14T16:10:00+05:30",
+    "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030996324922",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
@@ -2317,16 +2256,16 @@
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Create, connect, and express yourself through art and meaningful conversations.Join us for a relaxed creative evening where painting meets conversation. Explore your creativity, share thoughts, exchange stories, and connect with new people in a welcoming, judgement-free space.Whether you're an exper",
+    "description": "Bring your favourite quirky character to life with clay!Join us for a fun and creative Clay Labubu Doll Making Workshop where you'll shape, sculpt, and personalise your very own adorable Labubu-inspired character. Experiment with colours, expressions, and little details to create a doll that reflect",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-14T14:35:00+05:30",
+        "availabilityEnds": "2026-11-14T16:10:00+05:30",
         "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242"
+        "url": "https://allevents.in/bangalore/clay-labubu-doll/3900030996324922"
       }
     ]
   },
@@ -2717,6 +2656,45 @@
         "availabilityEnds": "2026-11-14T01:00:00+05:30",
         "validFrom": "2026-11-10",
         "url": "https://allevents.in/bangalore/fantasy-friday-ladies-night/3900031020241754"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Tribute to Taylor Swift at filter kormangala",
+    "image": "https://cdn-az.allevents.in/events5/banners/98c5a680-ddc2-11f1-933d-29c1be07ba53-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1794396328",
+    "startDate": "2026-11-14T20:00:00+05:30",
+    "endDate": "2026-11-15T00:00:00+05:30",
+    "url": "https://allevents.in/bangalore/tribute-to-taylor-swift-at-filter-kormangala/3900031023397228",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Don`t Tell Mama: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "14, 9th Main Road, 13th Cross Road, Sector 6, HSR Layout, Below The Elite Royale, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9158",
+        "longitude": "77.6345"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Taylor Swift Tribute NightAll Eras  All Feels One NightCalling all Swifties in Bangalore Get ready for a magical night celebrating the music moments and memories of Taylor Swift From chart topping anthems to emotional sing-alongs, this tribute night brings together every era fearless to midnightsDan",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-11",
+        "availabilityEnds": "2026-11-15T00:00:00+05:30",
+        "validFrom": "2026-11-11",
+        "url": "https://allevents.in/bangalore/tribute-to-taylor-swift-at-filter-kormangala/3900031023397228"
       }
     ]
   },
@@ -4130,11 +4108,11 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
+    "@type": "Event",
     "name": "Tribal Sacrament IV",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6ae03bf72affc.jpg",
-    "startDate": "2026-12-05T18:30:00+05:30",
-    "endDate": "2026-12-05T23:00:00+05:30",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af4500800b00.jpg",
+    "startDate": "2026-12-06T18:30:00+05:30",
+    "endDate": "2026-12-06T23:00:00+05:30",
     "url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -4162,7 +4140,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
         "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-12-05T23:00:00+05:30",
+        "availabilityEnds": "2026-12-06T23:00:00+05:30",
         "validFrom": "2026-10-26",
         "lowPrice": "499.00",
         "highPrice": "499.00",
@@ -4173,7 +4151,7 @@
         "@type": "Offer",
         "priceCurrency": "INR",
         "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-12-05T23:00:00+05:30",
+        "availabilityEnds": "2026-12-06T23:00:00+05:30",
         "validFrom": "2026-10-26",
         "price": "499.00",
         "url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759",
