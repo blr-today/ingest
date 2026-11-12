@@ -28,7 +28,6 @@ wherever necessary.
 - Creative Mornings BLR
 - Gully Tours
 - HighApe.com
-- Townscript - Known Hosts only
 - Musuem of Art & Photography
 - Max Mueller Bhavan
 - Zomato Insider

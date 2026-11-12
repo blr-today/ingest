@@ -20,7 +20,6 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Ace of Pubs                    | ✔️      | ✔️     | ✔️           | Uses calendar, no description available
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
-| [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Specific accounts only
 | [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Trove Experiences][trove]     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
@@ -63,7 +62,6 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://dialogues.space/events/
 - [ ] bookmyshow plays
 - [ ] http://1shanthiroad.com/category/events/ - Can't find a good source
-- [ ] find more Townscript accounts to follow
 - [ ] https://www.downtomeet.com/
 - [ ] https://beruru.myinstamojo.com/
 - [ ] Go through PS archives to see other venue hosts.
@@ -110,7 +108,6 @@ We have some data available or change notifications configured, but there needs 
 [vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
 [sofar]: https://www.sofarsounds.com/cities/bangalore
 [sumukha]: https://sumukha.com
-[ts]: https://www.townscript.com/
 [bt]: https://bluetokaicoffee.com/pages/events-new
 [gt]: https://www.gully.tours/tours
 [tonight]: https://tonight.is
