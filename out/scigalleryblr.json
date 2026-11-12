@@ -105,6 +105,58 @@
   },
   {
     "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-21T12:00:00+05:30",
+    "endDate": "2026-11-21T13:30:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Experimentors, Anusha and Rohit, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en25",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Anusha YG"
+      },
+      {
+        "@type": "Person",
+        "name": "Rohit Taeja Kumar"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "QUANTUM Trails",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
+    },
+    "startDate": "2026-11-21T16:30:00+05:30",
+    "endDate": "2026-11-21T18:00:00+05:30",
+    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediator and Experimentor, Nidhi and Nikhil, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en26",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Nidhi Hegde"
+      },
+      {
+        "@type": "Person",
+        "name": "Katam Nikhil Teja"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
     "name": "The Playful Writer: What Anne Carson Taught Me",
     "location": {
       "@type": "Place",
@@ -258,7 +310,7 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Atoms at Work: Building India's First Neutral-Atom Quantum Computer",
+    "name": "Atoms at Work",
     "location": {
       "@type": "Place",
       "name": "Raman Research Institute",
@@ -447,7 +499,7 @@
     },
     "startDate": "2026-11-21T16:00:00+05:30",
     "endDate": "2026-11-21T17:30:00+05:30",
-    "description": "The universe is ending, but dinner must go on! \n\nIn this playful, collaborative workshop by Book-A-Table, step into the role of intergalactic restaurateurs. Inspired by Douglas Adams’ The Hitchhiker’s Guide to the Galaxy, you are challenged to design a menu for the legendary Restaurant at the End of the Universe.\n\nEquipped with ingredient cards, teams will create a five-course, zero-waste tasting menu with a signature cocktail. Expect improbable combinations, extravagant menu descriptions and a surprise challenge from Mission Control! \n\nPitch your culinary creations to the room: How creative is your menu? Have you found use for every ingredient? And, most importantly, does it sound delicious?\n\nThere’s no fancy cooking, just imagination, ingenuity and a healthy appetite for the absurd!",
+    "description": "The universe is ending, but dinner must go on! \n\nIn this playful, collaborative workshop by Book-A-Table, step into the role of intergalactic restaurateurs. Inspired by Douglas Adams’ *The Hitchhiker’s Guide to the Galaxy*, you are challenged to design a menu for the legendary *Restaurant at the End of the Universe*.\n\nEquipped with ingredient cards, teams will create a five-course, zero-waste tasting menu with a signature cocktail. Expect improbable combinations, extravagant menu descriptions and a surprise challenge from Mission Control! \n\nPitch your culinary creations to the room: How creative is your menu? Have you found use for every ingredient? And, most importantly, does it sound delicious?\n\nThere’s no fancy cooking, just imagination, ingenuity and a healthy appetite for the absurd!",
     "url": "https://quantum.scigalleryblr.org/programmes?p=Design-an-Intergalactic-Menu",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "40",
