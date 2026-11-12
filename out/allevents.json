@@ -1992,6 +1992,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Mini Masterpiece",
+    "image": "https://cdn-az.allevents.in/events5/banners/1fa3f3a0-da85-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc181818-gmir.jpg?v=1794040094",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Tim Hortons, Koramangala: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9399",
+        "longitude": "77.6196"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Mini Masterpiece Workshop: Model Your ImaginationDiscover the joy of shaping clay into stunning creations! Our Mini Masterpiece workshop is perfect for both beginners and experienced artists. Learn various techniques to mold, shape, and decorate your own unique pieces.Note: All materials provided.No",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-14T16:30:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/mini-masterpiece/3900030992947914"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Little trinkets",
     "image": "https://cdn-az.allevents.in/events5/banners/94a5edb0-daa4-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc483838-gmir.jpg?v=1794053582",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -3917,67 +3956,6 @@
   {
     "@context": "https://schema.org",
     "@type": "MusicEvent",
-    "name": "Sursagar - 44th Varshikotsav concert",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af55724210c1.jpg",
-    "startDate": "2026-11-27T17:30:00+05:30",
-    "endDate": "2026-11-27T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Chowdiah Memorial Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
-        "postalCode": "560003",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0065834",
-        "longitude": "77.5755092"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Sursagar presents the 44th Varshikotsav on 27th November ‘2026 (Friday) @ 5:30 pm onwards at Chowdaiah Memorial Hall. A vocal recital by Shri Siddhartha Belmannu accompanied by Pandit Ravindra Yavagal on the tabla and by Shri Prasad Kamath on the harmonium. Following this, will be a recital by Pandi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-27T20:30:00+05:30",
-        "validFrom": "2026-11-12",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-27T20:30:00+05:30",
-        "validFrom": "2026-11-12",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
-        "availability": "https://schema.org/InStock",
-        "name": "Entry Free"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Sursagar Bangalore",
-        "url": "https://allevents.in/org/sursagar-bangalore/28400636"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
     "name": "Sangeetha Nrithya Vaibhava",
     "image": "https://cdn2.allevents.in/thumbs/thumb6af3170de0d56.jpg",
     "startDate": "2026-11-14T17:30:00+05:30",
@@ -4234,7 +4212,7 @@
     "name": "Java Training with Placement in Electronic City Bangalore",
     "image": "https://cdn-az.allevents.in/events6/banners/11e9c94e11a57957fbe22e47d8011d64c55b3df9cd140c76a20cdc9577803935-rimg-w1200-h668-dc134a8e-gmir.jpg?v=1779879385",
     "startDate": "2026-08-14T10:00:00+05:30",
-    "endDate": "2026-11-12T10:00:00+05:30",
+    "endDate": "2026-11-13T10:00:00+05:30",
     "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -4262,7 +4240,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "2026-11-12T10:00:00+05:30",
+        "availabilityEnds": "2026-11-13T10:00:00+05:30",
         "validFrom": "2026-05-27",
         "lowPrice": "0.00",
         "highPrice": "0.00",
