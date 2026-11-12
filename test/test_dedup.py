@@ -487,3 +487,20 @@ def test_shared_title_segment_at_one_place():
     b = {"name": "Pint of View Lecture Over Drinks: How to Talk About Sex in Public"}
     assert is_duplicate(a | {"location": place}, b | {"location": place})
     assert not is_duplicate(a | {"location": place}, b | {"location": {"name": "X"}})
+
+
+def test_venue_post_merges_its_own_slot():
+    page = {
+        "name": "Kalighat Paintings - Where Tradition Meets Modernity",
+        "url": "https://attagalatta.com/event_page.php?eventid=EVT2191",
+        "location": {"name": "Atta Galatta"},
+    }
+    post = {
+        "name": "Join me for a fun-filled Kalighat Art Workshop",
+        "url": "https://www.instagram.com/p/DfJvW1rSLw_/",
+        "location": {"name": "Atta Galatta"},
+    }
+    other = post | {"url": "https://allevents.in/bangalore/kalighat/1"}
+    assert is_duplicate(page, post)
+    assert not is_duplicate(page, other)
+    assert not is_duplicate(page, post | {"location": {"name": "Lahe Lahe"}})

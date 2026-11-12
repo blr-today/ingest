@@ -210,6 +210,10 @@ def is_duplicate(a, b):
         return True
     if one_room(a) and one_room(b) and styles(a) & styles(b):
         return True
+    # A venue's Instagram post names its own slot differently
+    posted = any(domain(e.get("url", "")) in POSTS for e in (a, b))
+    if posted and same_place(a, b) and styles(a) & styles(b):
+        return True
     x, y = sorted(
         [core_title(a.get("name", "")), core_title(b.get("name", ""))], key=len
     )
