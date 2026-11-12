@@ -199,6 +199,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "APR Amplified 2026 — Adarsh Palm Retreat Festival",
+    "image": "https://cdn-az.allevents.in/events2/banners/667ce785083aade8b2a435ef5a0fe5c914161921da25778991458942ac266dbb-rimg-w1200-h457-dc782868-gmir?v=1794155622",
+    "startDate": "2026-11-22T10:00:00+05:30",
+    "endDate": "2026-11-22T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/apr-amplified-2026-adarsh-palm-retreat-festival/200031002063244",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Adarsh Palm Retreat Phase 3, Devarabisanahalli, Bellandur, Outer Ring Road, Bangalore, India 560103, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sobha Iris Apartments, 4004, Devarabisanahalli, Bengaluru 560103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.93107",
+        "longitude": "77.68577"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "APR Amplified is the first annual festival of Adarsh Palm Retreat Condominiums Phase 3 (APRCP3) in Bellandur, Bangalore — built by residents, for residents of Adarsh Palm Retreat apartments and villas and their families.\n\nSunday 22 November 2026, 10 AM to 10 PM, inside the APR Phase 3 grounds:\n• 10",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "APR Amplified",
+        "url": "https://allevents.in/org/apr-amplified/28376775"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Candlelight: Best of Bollywood at DoubleTree Whitefield | Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/de96f10d7bf32efa61aac383eaabf1a98661038a26701df986199c2c667281cf-rimg-w768-h768-dcf8c808-gmir?v=1794315483",
@@ -621,6 +656,45 @@
         "availabilityEnds": "2026-11-22T17:30:00+05:30",
         "validFrom": "2026-09-17",
         "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Art of Manipulation Meetup: Corporate Edition",
+    "image": "https://cdn-az.allevents.in/events9/banners/7f9e9050-db0a-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc281848-gmir.jpg?v=1794097356",
+    "startDate": "2026-11-14T15:30:00+05:30",
+    "endDate": "2026-11-14T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Kettle and Krust Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mig.103, 17th H Main Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9352",
+        "longitude": "77.617"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "A live, hands-on workshop on the games people play at work.Your boss, your peers, the appraisal form, and the \"quick call\" at 7 PM. Some of them are playing you, and some don't even know it.The Art of Manipulation is a live meetup series on the psychology of influence. This Corporate Edition is all",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-10-12",
+        "availabilityEnds": "2026-11-14T18:00:00+05:30",
+        "validFrom": "2026-10-12",
+        "url": "https://allevents.in/bangalore/the-art-of-manipulation-meetup-corporate-edition/3900030824163906"
       }
     ]
   },
@@ -1719,45 +1793,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Cloud Lamp",
-    "image": "https://cdn-az.allevents.in/events1/banners/bb1b7f10-da7b-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794036063",
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/cloud-lamp/3900030992656703",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tim Hortons, Koramangala: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9399",
-        "longitude": "77.6196"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DIY Cloud Lamp WorkshopCreate your own dreamy cloud lamp in this fun and beginner friendly workshop. Learn how to design and assemble a beautiful illuminated cloud lamp using soft materials and LED lighting to create a cozy decorative piece for your room.With step by step guidance from an expert ins",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-14T16:30:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/cloud-lamp/3900030992656703"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Diwali Decor Workshop",
     "image": "https://cdn-az.allevents.in/events10/banners/96935b10-da7e-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc282828-gmir.jpg?v=1794037281",
     "startDate": "2026-11-14T15:00:00+05:30",
@@ -1953,45 +1988,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Diya painting Workshop",
-    "image": "https://cdn-az.allevents.in/events1/banners/70ae5bd0-daa5-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc987868-gmir.jpg?v=1794053968",
-    "startDate": "2026-11-14T15:00:00+05:30",
-    "endDate": "2026-11-14T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/diya-painting-workshop/3900030993799429",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Tim Hortons, Koramangala: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "8 Block, Main Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9399",
-        "longitude": "77.6196"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Diya Painting WorkshopCelebrate creativity and tradition with our Diya Painting Workshop. Add your personal touch to traditional diyas by experimenting with vibrant colours, beautiful patterns, and creative designs. Whether you prefer elegant festive motifs or quirky contemporary styles, create your",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-07",
-        "availabilityEnds": "2026-11-14T16:30:00+05:30",
-        "validFrom": "2026-11-07",
-        "url": "https://allevents.in/bangalore/diya-painting-workshop/3900030993799429"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Crochet Workshop",
     "image": "https://cdn-az.allevents.in/events2/banners/1e66a950-dae0-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794079154",
     "startDate": "2026-11-21T14:00:00+05:30",
@@ -2103,6 +2099,45 @@
         "availabilityEnds": "2026-11-15T13:00:00+05:30",
         "validFrom": "2026-11-07",
         "url": "https://allevents.in/bangalore/kids-molten-chocolava-workshop/3900030995131821"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Neram Presents Japanese Kintsugi Workshop",
+    "image": "https://cdn-az.allevents.in/events4/banners/a7406020-daf6-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcd8c8c8-gmir.jpg?v=1794088832",
+    "startDate": "2026-11-14T15:00:00+05:30",
+    "endDate": "2026-11-14T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/neram-presents-japanese-kintsugi-workshop/3900030995582933",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Boba Tree - Bubble Tea Cafe: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grace Platina, 727, Chinmaya Mission Hospital Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9787",
+        "longitude": "77.6455"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Discover the beauty of imperfection through the traditional Japanese art of Kintsugi with Neram. Kintsugi is the art of repairing broken ceramic pieces using a gold-coloured finish, transforming them into unique decorative artworks while celebrating restoration, resilience, and creativity.In this be",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-07",
+        "availabilityEnds": "2026-11-14T16:00:00+05:30",
+        "validFrom": "2026-11-07",
+        "url": "https://allevents.in/bangalore/neram-presents-japanese-kintsugi-workshop/3900030995582933"
       }
     ]
   },
@@ -2272,6 +2307,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Art and Conversation",
+    "image": "https://cdn-az.allevents.in/events1/banners/a543ce00-db10-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1794100001",
+    "startDate": "2026-11-14T13:05:00+05:30",
+    "endDate": "2026-11-14T14:35:00+05:30",
+    "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe Coffee Day: Koramangala, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No, 426, 8th Main Road, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9344",
+        "longitude": "77.6256"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Create, connect, and express yourself through art and meaningful conversations.Join us for a relaxed creative evening where painting meets conversation. Explore your creativity, share thoughts, exchange stories, and connect with new people in a welcoming, judgement-free space.Whether you're an exper",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-08",
+        "availabilityEnds": "2026-11-14T14:35:00+05:30",
+        "validFrom": "2026-11-08",
+        "url": "https://allevents.in/bangalore/art-and-conversation/3900030996381242"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "THE HOUSE OF PUNJAB AT DND ARENA SARJAPUR",
     "image": "https://cdn-az.allevents.in/events2/banners/4c886450-db11-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc780808-gmir.jpg?v=1794100277",
     "startDate": "2026-11-13T20:30:00+05:30",
@@ -2383,45 +2457,6 @@
         "availabilityEnds": "2026-11-14T23:00:00+05:30",
         "validFrom": "2026-11-08",
         "url": "https://allevents.in/bangalore/toylandclubbing/3900031003159343"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Punjabi Boiler Room Red Room",
-    "image": "https://cdn-az.allevents.in/events7/banners/62cca930-dc45-11f1-bb64-7f7aaa7788f2-rimg-w1200-h600-dc080808-gmir.jpg?v=1794232599",
-    "startDate": "2026-11-14T21:30:00+05:30",
-    "endDate": "2026-11-15T02:30:00+05:30",
-    "url": "https://allevents.in/bangalore/punjabi-boiler-room-red-room/3900031012011339",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "BudBee Restobar 104: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9332",
-        "longitude": "77.6147"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for a highenergy Punjabi night where desi beats meet the underground Boiler Room vibe.Punjabi Boiler Room: Red Room brings together explosive Punjabi music, heavy bass, unforgettable drops, and a striking all-red atmosphere designed for one immersive night of music and madness. What to Exp",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-09",
-        "availabilityEnds": "2026-11-15T02:30:00+05:30",
-        "validFrom": "2026-11-09",
-        "url": "https://allevents.in/bangalore/punjabi-boiler-room-red-room/3900031012011339"
       }
     ]
   },
@@ -2578,123 +2613,6 @@
         "availabilityEnds": "2026-11-15T00:50:00+05:30",
         "validFrom": "2026-11-10",
         "url": "https://allevents.in/bangalore/pressure-redroom-bollywood-edition/3900031018572331"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Lotus Pond Resin Art",
-    "image": "https://cdn-az.allevents.in/events6/banners/cfd936f0-dd4f-11f1-b0a4-c1144da10af1-rimg-w1200-h600-dc182818-gmir.jpg?v=1794347028",
-    "startDate": "2026-11-28T13:00:00+05:30",
-    "endDate": "2026-11-28T15:30:00+05:30",
-    "url": "https://allevents.in/bangalore/lotus-pond-resin-art/3900031020239049",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe De Verde: Bengaluru.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "395, 18th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9408",
-        "longitude": "77.6233"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Lotus Pond Resin Art WorkshopStep into the world of resin art with our 2 hour Lotus Pond Resin Art Workshop. Design and create a beautiful lotus pond artwork using high quality resin and pigments.Perfect for beginners and art enthusiasts, this workshop includes all the materials and step by step gui",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-28T15:30:00+05:30",
-        "validFrom": "2026-11-10",
-        "url": "https://allevents.in/bangalore/lotus-pond-resin-art/3900031020239049"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Fantasy Friday Ladies Night",
-    "image": "https://cdn-az.allevents.in/events1/banners/f71e29a0-dd4f-11f1-b0a4-c1144da10af1-rimg-w1200-h600-dc080808-gmir.jpg?v=1794347094",
-    "startDate": "2026-11-13T20:00:00+05:30",
-    "endDate": "2026-11-14T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/fantasy-friday-ladies-night/3900031020241754",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Fixx: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "757, 80 Feet Road, Koramangala 4th Block, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9322",
-        "longitude": "77.6317"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Fantasy Friday Ladies Night The best place to party on a Friday right here at this beautiful venue The Fixx KoramangalaLadies get unlimited free drinksThis Friday we have surprise guest DJ along with DJ SID playing all your fav Bollywood and Punjabi dance numbers to rock you on the dancefloorCome be",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-14T01:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "url": "https://allevents.in/bangalore/fantasy-friday-ladies-night/3900031020241754"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Tribute to Taylor Swift at filter kormangala",
-    "image": "https://cdn-az.allevents.in/events5/banners/98c5a680-ddc2-11f1-933d-29c1be07ba53-rimg-w1200-h600-dcf8e8d8-gmir.jpg?v=1794396328",
-    "startDate": "2026-11-14T20:00:00+05:30",
-    "endDate": "2026-11-15T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tribute-to-taylor-swift-at-filter-kormangala/3900031023397228",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Don`t Tell Mama: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "14, 9th Main Road, 13th Cross Road, Sector 6, HSR Layout, Below The Elite Royale, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9158",
-        "longitude": "77.6345"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Taylor Swift Tribute NightAll Eras  All Feels One NightCalling all Swifties in Bangalore Get ready for a magical night celebrating the music moments and memories of Taylor Swift From chart topping anthems to emotional sing-alongs, this tribute night brings together every era fearless to midnightsDan",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-11-15T00:00:00+05:30",
-        "validFrom": "2026-11-11",
-        "url": "https://allevents.in/bangalore/tribute-to-taylor-swift-at-filter-kormangala/3900031023397228"
       }
     ]
   },
@@ -3877,70 +3795,9 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Sangeetha Nrithya Vaibhava",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af3170de0d56.jpg",
-    "startDate": "2026-11-14T17:30:00+05:30",
-    "endDate": "2026-11-14T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/sangeetha-nrithya-vaibhava-tickets/80005404148134",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Indiranagara Sangeetha Sabha., 8th Main Road, 8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka, India",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Indiranagara Sangeetha Sabha., 8th Main Road, 8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka, India, Bangalore, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9715987000",
-        "longitude": "77.5945627000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "angeetha Nrithya Vaibhava – Monthly Students ConcertJoin us for an inspiring evening of classical arts at the Sangeetha Nrithya Vaibhava monthly student concert series, hosted at Indiranagara Sangeetha Sabha.This month’s edition features a captivating Bharatanatyam recital showcasing budding talent.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-14T19:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sangeetha-nrithya-vaibhava-tickets/80005404148134"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-14T19:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sangeetha-nrithya-vaibhava-tickets/80005404148134",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Purandara Bhavana",
-        "url": "https://allevents.in/org/purandara-bhavana/14813486",
-        "description": "Nestled in the heart of Bangalore, India, Indiranagar Sangeetha Sabha is a heritage cultural organization dedicated to preserving and promoting the timeless art forms of Carnatic music and Bharatanatyam.\n\nStep into a vibrant space where learning and performance intertwine."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Festival",
     "name": "The Wrong Festival",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6aef6fb45a3af.jpg",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6acf115faf759.jpg",
     "startDate": "2026-11-14T18:00:00+05:30",
     "endDate": "2026-11-14T22:00:00+05:30",
     "url": "https://allevents.in/bangalore/the-wrong-festival-tickets/80005635990297",
@@ -4000,79 +3857,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Safarnama: Life in a metro",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af32ac0182b2.jpg",
-    "startDate": "2026-11-21T18:15:00+05:30",
-    "endDate": "2026-11-21T19:15:00+05:30",
-    "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Medai - The Stage Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Museum Rd, opp. Patricks church, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025, India",
-        "postalCode": "560025",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9703765",
-        "longitude": "77.6043811"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Safarnama: Life in a Metro is an intimate live musical experience celebrating the emotions hidden in our everyday lives. Through soulful melodies, timeless ghazals, nostalgic Bollywood classics, heartfelt storytelling, and poetic conversations, this evening brings together moments that connect us al",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-21T19:15:00+05:30",
-        "validFrom": "2026-11-10",
-        "lowPrice": "799.00",
-        "highPrice": "1499.00",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-21T19:15:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "799.00",
-        "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173",
-        "availability": "https://schema.org/InStock",
-        "name": "Audience one"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-11-21T19:15:00+05:30",
-        "validFrom": "2026-11-10",
-        "price": "1499.00",
-        "url": "https://allevents.in/bangalore/safarnama-life-in-a-metro-tickets/80007229763173",
-        "availability": "https://schema.org/InStock",
-        "name": "Audience couple"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Kavymanch",
-        "url": "https://allevents.in/org/kavymanch/24312995",
-        "description": "An open mic platform for all "
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "PROTATVA-26(4th National Level Intercollegiate Project Exhibition)",
     "image": "https://cdn2.allevents.in/thumbs/thumb6aed676eedebf.jpg",
@@ -4103,68 +3887,6 @@
         "@type": "Organization",
         "name": "Pyari S",
         "url": "https://allevents.in/org/pyari-s/25328225"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tribal Sacrament IV",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af4500800b00.jpg",
-    "startDate": "2026-12-06T18:30:00+05:30",
-    "endDate": "2026-12-06T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Beer Café",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Shop No. 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "postalCode": "560034",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9313404",
-        "longitude": "77.63307619999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "TRIBAL SACRAMENT IV: ALBUM LAUNCH SHOWThe underground doesn't ask for permission. It answers with noise.Four editions in, Tribal Sacrament remains committed to one thing: the raw, uncompromising spirit of metal and its extreme subgenres.Built on honesty, integrity, and respect for the scene, Tribal",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-12-06T23:00:00+05:30",
-        "validFrom": "2026-10-26",
-        "lowPrice": "499.00",
-        "highPrice": "499.00",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-10-26",
-        "availabilityEnds": "2026-12-06T23:00:00+05:30",
-        "validFrom": "2026-10-26",
-        "price": "499.00",
-        "url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759",
-        "availability": "https://schema.org/InStock",
-        "name": "Phase 1"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Bangalore Scene Distortion Kult (BDK)",
-        "url": "https://allevents.in/org/bangalore-scene-distortion-kult-b$dk/27738579",
-        "description": "A Kult of unhinged distortion lovers who live for all things loud and underground! 🤘💀"
       }
     ]
   },
@@ -4260,67 +3982,6 @@
         "name": "HackerX",
         "url": "https://allevents.in/org/hackerx/22534264",
         "description": "HackerX started in 2012 with invite-only, face-to-face recruiting events that connect tech talent with some of the world's most innovative companies. Today we run over 300+ recruiting focused events in 125+ cities every year working with over 3,000+ tech companies worldwide"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Java Training with Placement in Electronic City Bangalore",
-    "image": "https://cdn-az.allevents.in/events6/banners/11e9c94e11a57957fbe22e47d8011d64c55b3df9cd140c76a20cdc9577803935-rimg-w1200-h668-dc134a8e-gmir.jpg?v=1779879385",
-    "startDate": "2026-08-14T10:00:00+05:30",
-    "endDate": "2026-11-12T10:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "eMexo Technologies",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd Cross Road",
-        "postalCode": "560100",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8401051",
-        "longitude": "77.6501601"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Free Java training with placement event in Electronic City. Must call to verify before visit. Limited seats.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "2026-11-12T10:00:00+05:30",
-        "validFrom": "2026-05-27",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "",
-        "validFrom": "2026-05-27",
-        "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
-        "price": 0,
-        "name": "Free Java Placement Seminar – Verified Entry"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "eMexo Technologie",
-        "url": "https://allevents.in/org/emexo-technologie/27594755"
       }
     ]
   },
@@ -4445,68 +4106,6 @@
         "name": "CEDAT",
         "url": "https://allevents.in/org/cedat/25486355",
         "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Builders and Backers : Panel Conversation and Startup Showcase",
-    "image": "https://cdn-az.allevents.in/events7/banners/51c5dfc541db07313937a890b35c2ae6d2f813632893d69e8faef8f5fdeeae37-rimg-w1024-h512-dc080808-gmir.jpg?v=1794133864",
-    "startDate": "2026-11-14T11:00:00+05:30",
-    "endDate": "2026-11-14T13:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/builders-and-backers-panel-conversation-and-startup-showcase/100002004538521679",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Center for Product Design and Manufacturing",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Gulmohar Marg",
-        "postalCode": "560012",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0150876",
-        "longitude": "77.56810469999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "A panel with founders and investors, and demos from early stage startups, co-hosted by eChai Ventures and D-CoE IISc.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-11-14T13:00:00+05:30",
-        "validFrom": "2026-11-08",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/builders-and-backers-panel-conversation-and-startup-showcase/100002004538521679"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "",
-        "validFrom": "2026-11-08",
-        "url": "https://allevents.in/bengaluru/builders-and-backers-panel-conversation-and-startup-showcase/100002004538521679",
-        "price": 0,
-        "name": "eChai Meetup Pass"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "eChai Bangalore Startup Network",
-        "url": "https://allevents.in/org/echai-bangalore-startup-network/17608363",
-        "description": "eChai Bangalore is the Bangalore Chapter of http://eChai.Network\r\neChai is a global startup network facilitating focused local meetups and cross-border collaborations. \r\nGet Your Annual eChai pass for Rs. 1000 per year from eChai.in to attend such super-useful programs (50+ Events & Webinars) throughout the year at http://eChai.in"
       }
     ]
   }
