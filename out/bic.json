@@ -42,25 +42,75 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "@id": "97147-1794679200-1794686400@bangaloreinternationalcentre.org",
-    "name": "Health, Heritage and Architecture",
-    "startDate": "2026-11-14T18:00:00+05:30",
-    "endDate": "2026-11-14T20:00:00+05:30",
-    "description": "This hands-on workshop uses real drawings of Rajasthan’s forts and palaces to show how centuries-old builders kept rooms cool, airy, bright, and quiet without electricity or any energy-dependent mechanisms. Participants read walls, courtyards, and openings as the working parts of a healthy building, and learn how the spaces we live in shape our health and learning. Along the way, participants discover the role architects play in designing healthier spaces, and what it takes to bring that old intelligence into new rooms. What might those builders teach the architects of today? \nThis event is a part of the “Drawing Knowledge” exhibition, exploring the intelligent architecture of imperial India. Find the full schedule here. \nIn collaboration with: \n \nVenue: Board Room\n\n\nWhat Do India’s Forts Teach Us about Healthy Spaces?\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScQgyLg41wog7qDFO2uF2FZpfzzMLH2Mc8BgFO5U-Bl-3e3iQ/viewform?usp=dialog)\n*Facilitators*: Suchi Priyadarshani, Roshan R. Rao\n*Event Categories*: Architecture, Health & Wellness, Heritage, Workshops",
-    "url": "https://bangaloreinternationalcentre.org/event/health-heritage-and-architecture/",
+    "@type": "ScreeningEvent",
+    "@id": "97288-1795026600-1795034700@bangaloreinternationalcentre.org",
+    "name": "State of Statelessness",
+    "startDate": "2026-11-18T18:30:00+05:30",
+    "endDate": "2026-11-18T20:45:00+05:30",
+    "description": "\n106 min | Tibetan with English subtitles | 2024 | India, United States, Vietnam \nThis film is the first Tibetan-language anthology to explore the lives of Tibetans in exile around the world. Through four stories, the feature film explores heartache and nostalgia amid the realities of dislocation, sans judgement or romanticisation. What does home mean to a people scattered across borders, national constructs, and generations? \nIn 1959, 100,000 Tibetans followed His Holiness the Dalai Lama’s escape from Chinese occupation into Dharamshala, India. The Tibetan diaspora now spans the world, from the United States to the Mekong Delta, having integrated into new countries in unique ways. The film captures the pain of a scattered people, and finds in it resilience and the unexpected bonds that form in strange lands. \n\n\nThe organiser will be present for an audience Q&A. \nVenue: Seminar Halls\n\n\n\nA Tibetan-Language Anthology on Exile and Belonging\nFor Ages 12+\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSc5-p0F2-9Zvvo1DedtEpA0KKVO_undkyyU6PshNkEhd9p1hg/viewform?usp=publish-editor)\n*Speaker*: Norpell Wilberforce\n*Event Categories*: Culture, Film, Language, Society",
+    "url": "https://bangaloreinternationalcentre.org/event/state-of-statelessness/",
     "keywords": [
-      "Architecture",
-      "Health & Wellness",
-      "Heritage",
-      "Workshops"
+      "Culture",
+      "Film",
+      "Language",
+      "Society"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-ws-2.jpg"
+    "workPresented": {
+      "@type": "Movie",
+      "name": "State of Statelessness"
+    },
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_SOS.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97609-1794942000-1794947400@bangaloreinternationalcentre.org",
+    "name": "The Kutcheri in the Cinema Hall: The Raga Went to the Movies",
+    "startDate": "2026-11-17T19:00:00+05:30",
+    "endDate": "2026-11-17T20:30:00+05:30",
+    "description": "Language: English, with songs in Regional Languages \nThis listening session follows the largest collective music education programme in Indian history: South Indian film music. The tracks span sixty years, from Papanasam Sivan’s writings, through Sankarabharanam and Sindhu Bhairavi, to Ilaiyaraaja and A.R. Rahman. The context will be explained, but how much is already familiar? \nAn uncle at a wedding, a colleague in a car, a mother listening to the radio: people who have never attended a kutcheri, learned notation, nor sat in front of a teacher, accurately identify the raga of a song. Nobody taught them, but it was learnt at the cinema from a long line of composers who carried the ragas into the most popular form of their time. The session argues that without ever calling it teaching, they gave the whole region a musical ear. \nBIC’s Listening Room Sessions are an opportunity to come together, listen to and discover new music, refine old tastes and share influences, stories and memories. \nIn collaboration with: \n \nDeep Notes is a platform cultivating listening literacy through curated listening experiences, contextual music discussion and cultural dialogue. It works from the position that listening is a practice that can be taught, and that attention is a skill worth building deliberately. \nVenue: Library\n\n\nA Listening Room Session\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScB_ASB7yfA5J4_c91J_O3ZdDxrGlEmYhXNzRiWMbaHHmHqhw/viewform?usp=publish-editor)\n*Facilitator*: Goutham Iyengar\n*Event Categories*: Culture, Experience, Music",
+    "url": "https://bangaloreinternationalcentre.org/event/the-kutcheri-in-the-cinema-hall-the-raga-went-to-the-movies/",
+    "keywords": [
+      "Culture",
+      "Experience",
+      "Music"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-23.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "96625-1794655800-1794661200@bangaloreinternationalcentre.org",
+    "name": "The Sitar’s Journey in Melody",
+    "startDate": "2026-11-14T11:30:00+05:30",
+    "endDate": "2026-11-14T13:00:00+05:30",
+    "description": "\nAn immersive morning of sitar and tabla awaits. \nThis Hindustani classical concert offers a unique exploration of the instrument that stands as the backbone of the tradition: the sitar. It begins with a lecture-demonstration tracing historical roots, structural design, tonal acoustics, and stylistic transformations over centuries. Following this is a full morning raga recital, highlighting the rich aesthetic traditions and intricate rhythmic dialogues between sitar and tabla. \nFor both the seasoned connoisseurs and new listeners, this session offers a deeper appreciation of the heritage, craft, and soul of Indian classical music. The sitar is not just a musical instrument, but a living, evolving canvas of Indian culture that bridges centuries of tradition with timeless acoustic mastery. \n\n\nSupported by: \n \nVenue: Auditorium\n\n\n\nHistory, Heritage and Harmony\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeazkpAIuS2F6w3HDnX0NXmJbJ1U734x4PKzu1SDedGa8ZSUw/viewform)\n*Performers*: Ramprapanna Bhattacharya, Rahul Pophali\n*Event Categories*: Music, Performing Arts",
+    "url": "https://bangaloreinternationalcentre.org/event/the-sitars-journey-in-melody/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "The Sitar’s Journey in Melody"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_TSJIM.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -82,6 +132,222 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/10/Collage-Frame_SOS.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97128-1794596400-1794601800@bangaloreinternationalcentre.org",
+    "name": "Beyond the Lines",
+    "startDate": "2026-11-13T19:00:00+05:30",
+    "endDate": "2026-11-13T20:30:00+05:30",
+    "description": " \nThis panel discussion reads the drawings of Rajasthan’s forts and palaces as an archive, asking what role they might play in future scholarship. Placed together, the detailed works in the exhibition reveal spatial intricacies, the persistence of architectural elements across centuries, and the material intelligence of the craftspeople who built them. The panel sifts through their possible interpretations to draw out the tacit knowledge, socio-cultural practices, political structures, and physical environments embedded in the drawings. \nThis event is a part of the “Drawing Knowledge” exhibition, exploring the intelligent architecture of imperial India. Find the full schedule here. \nIn collaboration with: \n \nVenue: Seminar Halls\n\n\nThe Stories and Knowledge within Architectural Drawings\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeNGOTOJ5lFZhozBBXCsGKIth0cEDHdGitnnW9vPAQm1nPWRg/viewform?usp=publish-editor)\n*Speakers*: Soumitro Ghosh, Annapurna Garimella, Meghal Arya, S. Madhuri Rao\n*Event Categories*: Architecture, Culture, Heritage, History, Society",
+    "url": "https://bangaloreinternationalcentre.org/event/beyond-the-lines/",
+    "keywords": [
+      "Architecture",
+      "Culture",
+      "Heritage",
+      "History",
+      "Society"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_BTL.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "96704-1795114800-1795120200@bangaloreinternationalcentre.org",
+    "name": "Bhāvikā | Transcending Language",
+    "startDate": "2026-11-19T19:00:00+05:30",
+    "endDate": "2026-11-19T20:30:00+05:30",
+    "description": "\nThree profound stories. Three powerful languages.\n\n\nThis Odissi performance weaves together multilingual narratives through storytelling, dance, and music, celebrating the universality of the human experience. Transcending origins, the evening is a testament to artistic expression being a language unto itself. When words cease, expression expands. \nCredits:\nPerformance: Shashwati Garai Ghosh\n\nLight Design: Amlan Chaudhari \n\nThis is the eleventh edition of the ‘All For Dance’ series presented by Kalavaahini in association with BIC, curated by Malavika Sarukkai. The ‘All For Dance’ series is presented every quarter at BIC to spotlight some of the best classical dance from across India. The series is managed by Shreya Nagarajan Singh Arts Development Consultancy. \n\nIn collaboration with: \n \n\n\nAn Odissi Recital\nRSVPs will open on Nov 13 at 6pm.\n*Performer*: Shashwati Garai Ghosh\n*Event Categories*: Culture, Dance, Performing Arts",
+    "url": "https://bangaloreinternationalcentre.org/event/bhavika-transcending-language/",
+    "keywords": [
+      "Culture",
+      "Dance",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-22.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97229-1794673800-1794681000@bangaloreinternationalcentre.org",
+    "name": "Making of an Identity",
+    "startDate": "2026-11-14T16:30:00+05:30",
+    "endDate": "2026-11-14T18:30:00+05:30",
+    "description": "What is hidden in the meal, woven into the cloth? \nThis talk explores the stories behind what we eat and what we wear, tracing how everyday cultural practices carry the marks of migration, trade, technology, politics, identity, and the exchange of ideas across the Indian subcontinent. Through historical anecdotes and conversation, it treats food and clothing not as markers of tradition alone, but as living records of a history that continues to be written today. Drawing from the book The Music of Stones, the session invites the audience to look at the most familiar parts of daily life with fresh curiosity. \nThis talk is part of “Karwaan Baithak,” Karwaan Heritage’s public lecture and dialogue series. \nIn collaboration with: \n     \nVenue: Library\n\n\nA Conversation on Food, Language and Clothing\nRSVPs closed. Thank you for your interest.\n*Speakers*: Sohail Hashmi\n*Event Categories*: Culture, Heritage, History, Society",
+    "url": "https://bangaloreinternationalcentre.org/event/making-of-an-identity/",
+    "keywords": [
+      "Culture",
+      "Heritage",
+      "History",
+      "Society"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-19.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "96967-1794767400-1794772800@bangaloreinternationalcentre.org",
+    "name": "Giving Shape to the Inner World",
+    "startDate": "2026-11-15T18:30:00+05:30",
+    "endDate": "2026-11-15T20:00:00+05:30",
+    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis evening explores how giving a feeling a shape, as a character, an image, or a letter, can help us understand our inner worlds. Based on the book Monsters of My Mind, the session moves between conversation and hands-on making, asking how creativity can help us say what words alone cannot. What would your monster look like? \nMembers of the panel read scenes from the book, opening a conversation on how comics, humour, and absurdity make difficult experiences easier to look at. Inspired by Leonora Carrington’s Surrealist Survival Kit, postcards are shared, with five prompts: courage, joy, adventure, love, and possibility. The evening closes with a short letter to a monster of your own, with no need to name or explain it. That which feels deeply personal, need not be isolating. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn collaboration with: \n    \nVenue: Library\n\n\nMeet the Creators Who Gave Feelings a Form\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdRzd9T_87RZHW-bg5FnIEIXIYYEbrlbzOekOSl6Gg0RA1n5g/viewform?usp=publish-editor)\n*Speakers*: Tanya Sudheer, Vivekananda Roy Ghatak, Riya Nagendra, Abhik Bhattacherji\n*Event Categories*: Design, Visual Arts",
+    "url": "https://bangaloreinternationalcentre.org/event/giving-shape-to-the-inner-world/",
+    "keywords": [
+      "Design",
+      "Visual Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/10/Thumbnail_GSTTIW.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97250-1795546800-1795551300@bangaloreinternationalcentre.org",
+    "name": "Jahnavi",
+    "startDate": "2026-11-24T19:00:00+05:30",
+    "endDate": "2026-11-24T20:15:00+05:30",
+    "description": "Gentle, graceful, and full of force, the Ganga calls you to her banks. \nThis Bharatanatyam performance follows the river Ganga from Gangotri to Varanasi, bringing her changing moods to life through choreography, music, and visual design. What does it mean to travel a river as a pilgrim does, one verse at a time? \nThe performance evolved from the choreographer’s work on the official anthem for Namami Gange, the Government of India’s mission to rejuvenate the Ganga. Set predominantly to Sanskrit verses, the work treats the river as a thread connecting places, people, and generations. \nSupported by:\n \nVenue: Auditorium\n\n\nThe Sacred River\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSf0Q9h-cxh4NJsRNKxf2TXH5zlQMJ46qBNSgC2x2cVGtFMDAA/viewform?usp=pp_url)\n*Performer*: Lavanya Sankar\n*Event Categories*: Dance, Performing Arts",
+    "url": "https://bangaloreinternationalcentre.org/event/jahnavi/",
+    "keywords": [
+      "Dance",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_JV2.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97697-1795113000-1795116600@bangaloreinternationalcentre.org",
+    "name": "The Sufi Imagination",
+    "startDate": "2026-11-19T18:30:00+05:30",
+    "endDate": "2026-11-19T19:30:00+05:30",
+    "description": "Language: English, Punjabi \nThis session explores the enduring appeal of Sufi thought and its expression through Punjabi literature. Based on Khwabgah – The House of Dreams, the author offers a reading of select poems in Punjabi followed by their English translations. As he reflects on each in turn, he invites a detached generation to reclaim their spiritual roots. \nThe collection is an evocative ode to the undivided soul of Punjab. Drawing on the region’s rich Sufi literary heritage, the author will consider how themes of love, longing, humanism, spirituality and the search for truth continue to find voice in contemporary writing. \nVenue: Library\n\n\nPoetry, Longing and the Punjabi Soul\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSe-EBDbJ0wLXEUBs7rIL7cauNBqG2LpVGXAYjQ_GDKx-yjueA/viewform?usp=pp_url)\n*Speaker*: Sarbpreet Singh\n*Event Categories*: Books, Language, Philosophy, Poetry",
+    "url": "https://bangaloreinternationalcentre.org/event/the-sufi-imagination/",
+    "keywords": [
+      "Books",
+      "Language",
+      "Philosophy",
+      "Poetry"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "pa",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_TSI.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97175-1794654000-1794774600@bangaloreinternationalcentre.org",
+    "name": "SamaBhav International Travelling Film Festival",
+    "startDate": "2026-11-14T11:00:00+05:30",
+    "endDate": "2026-11-15T20:30:00+05:30",
+    "description": " \nSamaBhav, meaning equanimity, is a two-day film festival on gender, identity, sexuality, and social change. Screenings of curated short, documentary, and feature films are interspersed with conversations with filmmakers, protagonists, activists, and experts. How often do we get a room where these questions can be asked openly? \nNow in its eighth edition, the festival travels to cities and districts across India and beyond, reaching young people and their educators. Curated by Men Against Violence and Abuse (MAVA), the films address gender-based discrimination and violence, patriarchy, misogyny, homophobia, transphobia, and the meaning of masculinity. The discussions that follow invite audiences to examine their own biases and prejudices, in a safe space for young men, young women, and non-binary youth to speak about subjects rarely raised in classrooms or at home. \nSchedule \nDay 1 | Sat, Nov 14 | 11am – 8:30pm \nTheme: Gender, Voice and Resistance \n11am – 11:30am : Inauguration with Ammu Joseph (Senior Journalist), Anshulika Dubey (Film Producer), Deepak Nair (Festival Facilitator) and Harish Sadani (Festival Director). \n11:30am – 12:05pm : A Poem for Bilkis Dadi | 33 mins | Hindi, English, Tamil, Manipuri | India \n12:05pm – 12:50pm :  Screenings Set 1 – Companionship, Voice and Expression \nYou Want Company | 19 min | English | India \nAuratein (Music Video) | 7 min | Hindi | India \nBaithi Hai (Music Video) | 5 min | Hindi | India \n12:50pm – 1:20pm : Panel 1 – Whose Voices Are Heard? Gender, Agency and Representation\nUnpacking testimony, women’s voices, visibility and the politics of representation with Harish Sadani and Meher Suri (Co-Discussant). \n1:20pm – 2:35pm : Screenings Set 1 – Continued \nThe First Film | 24 min | Hindi | India \nNaam Kya Hei Tumara | 18 min | Hindi, Marathi | India \n2:35pm – 3:20pm : Break \n3:20pm – 4:30pm : Screening Set 2  – The Body, Desire and Gendered Lives \nRuBaRu | 30 min | Hindi, Marwari | India \nBody Count | 6 min | Hindi | India \nFursat | 7 min | Bengali, English | India \nAuto Queens | 30 min | Tamil | India \n4:30pm – 5pm : Panel 2 – The Body as Evidence: Desire, Intimacy and Social Control\nExploring the ways bodies, relationships and desires are represented, regulated and made visible or invisible with Meher Suri, Harish Sadani and Sraiyanti (Filmmaker). \n5pm – 5:30pm : Tea \n5:30pm – 7:15pm : Screening Set 2 – Continued \nGreeshmant | 21 min | English, Hindi | India \nIss Taraf | 10 min | Hindi | India \nQueering India | 63 min | English | Australia, India \n7:15pm – 7:45pm : Panel 3: Queer Lives and the Right to Belong\nReflecting on identity, freedom, acceptance and belonging with Vinay Chandran (Swabhava Trust) and Shrey Shah (Filmmaker).  \n7:45pm – 8:30pm : Closing Remarks \nDay 2 | Sun, Nov 15 | 11am – 8:30pm \nTheme: Masculinity, Intimacy, Power and Collective Resistance \n11:00am – 12:00pm : Majma | 54 min | Hindi | India \n12:00pm – 12:30pm : Panel 1 – Masculinity in Public: Power, Vulnerability and Belonging\nExamining masculinity, public space, social power and everyday encounters with Sudeep Pagedar (Writer). \n12:30pm – 1:15pm : Screenings Set 3 – Memory, Childhood and Everyday Life \nFinding Nabi | 22 min | English | India \nPehli Tarikh | 23 min | Hindi, English | India \n1:15pm – 2:00pm : Break \n2:00pm – 3:45pm : Screenings Set 3 – Continued \nLonely Shadow | 27 min | Tamil | India \nThe Day Iceland Stood Still | 20 min | English, Icelandic | Iceland \n3:45pm – 4:15pm : Panel 2 – From Personal Experience to Collective Change\nTracing how individual experiences of gender connect with solidarity, resistance and social transformation with Sudeep Pagedar and Hareeshh Ram G (Filmmaker). \n4:15pm – 5:15pm : Tea \n5:15pm – 8pm : Homebound | 117 min \n8pm – 8:15pm : Closing Remarks by Harish Sadani \nIn collaboration with:\n \nVenue: Seminar Halls\n\n\nGender. Voice. Resistance.\nFor Ages 18+\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSe3uvby5H6K7nJGa2Xemsgk7HaRScEBpFAj0IXT7Kjhu39VSQ/viewform?usp=pp_url)\n*Speakers*: Ammu Joseph, Anshulika Dubey, Deepak Nair, Harish Sadani, Meher Suri, Sraiyanti, Vinay Chandran, Shrey Shah, Sudeep Pagedar, Hareeshh Ram G\n*Event Categories*: Film",
+    "url": "https://bangaloreinternationalcentre.org/event/samabhav-international-travelling-film-festival/",
+    "keywords": [
+      "Film"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "hi",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_SBITFF.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97320-1794508200-1794513600@bangaloreinternationalcentre.org",
+    "name": "Rare Ritual Performances of Keralam",
+    "startDate": "2026-11-12T18:30:00+05:30",
+    "endDate": "2026-11-12T20:00:00+05:30",
+    "description": "This illustrated lecture explores the ritual performances of northern Keralam. Beyond Theyyam, more than a hundred such performances are still practised, largely unknown outside their regions. Art, martial practices and shared worship have long held communities together and this talk presents a visual record of the rare traditions that preserve Keralam’s cultural identity. \nBalan Nambiar returns to BIC, where he last spoke on the Bhutas of Tulunadu, with his lens focused on a different region. He presents photographs of traditions that developed alongside, and often independently of, Brahmanical Hinduism. He looks at Ati, a ritual of bare-handed combat at Mavilayi influenced by Kalaripayattu, and at shrines where Muslim Theyyams enjoy patronage and privileges. He captures offerings of toddy, fish, and meat as expressions of local belief, and introduces lesser-known forms such as Uccerikuttu, Malayankettu, and Kalampattu, now seldom performed. He makes the case that preservation of these practices is essential to safeguarding the region’s cultural heritage. \nThis talk is part of a series marking twenty years of BIC. \nVenue: Auditorium\n\n\nTwenty Years On: Revisiting Voices from BIC’s Founding Years\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeyAanKIq54AZKlJ4uFE6wc1wp32ZyNp4oofVLYwM98k-H7BA/viewform?usp=pp_url)\n*Speaker*: Balan Nambiar\n*Event Categories*: Culture, Faith, Heritage, Mythology, Performing Arts, Society, Visual Arts",
+    "url": "https://bangaloreinternationalcentre.org/event/rare-ritual-performances-of-keralam/",
+    "keywords": [
+      "Culture",
+      "Faith",
+      "Heritage",
+      "Mythology",
+      "Performing Arts",
+      "Society",
+      "Visual Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnailnov12.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "97057-1794528000-1794787199@bangaloreinternationalcentre.org",
+    "name": "Drawing Knowledge",
+    "startDate": "2026-11-13T05:30:00+05:30",
+    "endDate": "2026-11-16T05:30:00+05:30",
+    "description": "What can we learn about place and people from a detailed drawing? \nThis exhibition presents one of the largest private collections of architectural drawings of Rajasthan’s forts and palaces, from Jaisalmer and Amber to Mehrangarh and Hawa Mahal. Each drawing is the product of years of research and meticulous documentation, recording the walls, courtyards, and water systems that shaped life inside these buildings. \nComprehensive documentation of such places is increasingly scarce. Made possible by the mentorship of Kulbhushan Jain and Minakshi Jain, the collection brings this accumulated knowledge into the public domain. It gives researchers, students, and curious visitors access to study the details closely, now and for generations to come. \nExhibition Opening: 6:30pm, Fri, Nov 13\nExhibition Timings: 11am – 8pm | Fri, Nov 13 – Sun, Nov 15\nExhibition on show until: 8pm | Sun, Nov 15 \nWalkthroughs:\n6:30pm | Fri, Nov 13\n11am & 5:30pm | Sat, Nov 14\n11am & 5:30pm | Sun, Nov 15 \nBeyond the Lines | 7pm – 8:30pm | Fri, Nov 13\nA panel discussion exploring how architectural drawings of Rajasthan’s forts and palaces serve as archives of architectural, social and cultural knowledge, and their potential for future scholarship.\n \nBuilt Before the Blueprint | 11:30am – 1:30pm | Sat, Nov 14\nA collaborative workshop inviting participants to read architectural drawings from the exhibition to discover how Rajasthan’s forts and palaces responded to their climate, resources, water needs and military strategies.\n \nHealth, Heritage and Architecture | 6pm – 8pm | Nov 14\nA workshop exploring how traditional architecture created cool, airy, bright and healthy spaces without electricity, using drawings from the exhibition. \nIn collaboration with: \n \nVenue: Gallery\n\n\nAct of Drawing: Learning from Rajasthan’s Forts\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfMmVZo_95Da9reBG1imWk_CRgxyR5awyQsdreZwiGTULhHOQ/viewform?usp=publish-editor)\n*Curatorial Team*: Meghal Arya, Vijay Arya, Kulbhushan Jain, Minakshi Jain\n*Event Categories*: Architecture, Cities, Culture, History",
+    "url": "https://bangaloreinternationalcentre.org/event/drawing-knowledge/",
+    "keywords": [
+      "Architecture",
+      "Cities",
+      "Culture",
+      "History"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-5.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "97147-1794679200-1794686400@bangaloreinternationalcentre.org",
+    "name": "Health, Heritage and Architecture",
+    "startDate": "2026-11-14T18:00:00+05:30",
+    "endDate": "2026-11-14T20:00:00+05:30",
+    "description": "This hands-on workshop uses real drawings of Rajasthan’s forts and palaces to show how centuries-old builders kept rooms cool, airy, bright, and quiet without electricity or any energy-dependent mechanisms. Participants read walls, courtyards, and openings as the working parts of a healthy building, and learn how the spaces we live in shape our health and learning. Along the way, participants discover the role architects play in designing healthier spaces, and what it takes to bring that old intelligence into new rooms. What might those builders teach the architects of today? \nThis event is a part of the “Drawing Knowledge” exhibition, exploring the intelligent architecture of imperial India. Find the full schedule here. \nIn collaboration with: \n \nVenue: Board Room\n\n\nWhat Do India’s Forts Teach Us about Healthy Spaces?\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLScQgyLg41wog7qDFO2uF2FZpfzzMLH2Mc8BgFO5U-Bl-3e3iQ/viewform?usp=dialog)\n*Facilitators*: Suchi Priyadarshani, Roshan R. Rao\n*Event Categories*: Architecture, Health & Wellness, Heritage, Workshops",
+    "url": "https://bangaloreinternationalcentre.org/event/health-heritage-and-architecture/",
+    "keywords": [
+      "Architecture",
+      "Health & Wellness",
+      "Heritage",
+      "Workshops"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-ws-2.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -135,25 +401,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "97175-1794654000-1794774600@bangaloreinternationalcentre.org",
-    "name": "SamaBhav International Travelling Film Festival",
-    "startDate": "2026-11-14T11:00:00+05:30",
-    "endDate": "2026-11-15T20:30:00+05:30",
-    "description": " \nSamaBhav, meaning equanimity, is a two-day film festival on gender, identity, sexuality, and social change. Screenings of curated short, documentary, and feature films are interspersed with conversations with filmmakers, protagonists, activists, and experts. How often do we get a room where these questions can be asked openly? \nNow in its eighth edition, the festival travels to cities and districts across India and beyond, reaching young people and their educators. Curated by Men Against Violence and Abuse (MAVA), the films address gender-based discrimination and violence, patriarchy, misogyny, homophobia, transphobia, and the meaning of masculinity. The discussions that follow invite audiences to examine their own biases and prejudices, in a safe space for young men, young women, and non-binary youth to speak about subjects rarely raised in classrooms or at home. \nSchedule \nDay 1 | Sat, Nov 14 | 11am – 8:30pm \nTheme: Gender, Voice and Resistance \n11am – 11:30am : Inauguration with Ammu Joseph (Senior Journalist), Anshulika Dubey (Film Producer), Deepak Nair (Festival Facilitator) and Harish Sadani (Festival Director). \n11:30am – 12:05pm : A Poem for Bilkis Dadi | 33 mins | Hindi, English, Tamil, Manipuri | India \n12:05pm – 12:50pm :  Screenings Set 1 – Companionship, Voice and Expression \nYou Want Company | 19 min | English | India \nAuratein (Music Video) | 7 min | Hindi | India \nBaithi Hai (Music Video) | 5 min | Hindi | India \n12:50pm – 1:20pm : Panel 1 – Whose Voices Are Heard? Gender, Agency and Representation\nUnpacking testimony, women’s voices, visibility and the politics of representation with Harish Sadani and Meher Suri (Co-Discussant). \n1:20pm – 2:35pm : Screenings Set 1 – Continued \nThe First Film | 24 min | Hindi | India \nNaam Kya Hei Tumara | 18 min | Hindi, Marathi | India \n2:35pm – 3:20pm : Break \n3:20pm – 4:30pm : Screening Set 2  – The Body, Desire and Gendered Lives \nRuBaRu | 30 min | Hindi, Marwari | India \nBody Count | 6 min | Hindi | India \nFursat | 7 min | Bengali, English | India \nAuto Queens | 30 min | Tamil | India \n4:30pm – 5pm : Panel 2 – The Body as Evidence: Desire, Intimacy and Social Control\nExploring the ways bodies, relationships and desires are represented, regulated and made visible or invisible with Meher Suri, Harish Sadani and Sraiyanti (Filmmaker). \n5pm – 5:30pm : Tea \n5:30pm – 7:15pm : Screening Set 2 – Continued \nGreeshmant | 21 min | English, Hindi | India \nIss Taraf | 10 min | Hindi | India \nQueering India | 63 min | English | Australia, India \n7:15pm – 7:45pm : Panel 3: Queer Lives and the Right to Belong\nReflecting on identity, freedom, acceptance and belonging with Vinay Chandran (Swabhava Trust) and Shrey Shah (Filmmaker).  \n7:45pm – 8:30pm : Closing Remarks \nDay 2 | Sun, Nov 15 | 11am – 8:30pm \nTheme: Masculinity, Intimacy, Power and Collective Resistance \n11:00am – 12:00pm : Majma | 54 min | Hindi | India \n12:00pm – 12:30pm : Panel 1 – Masculinity in Public: Power, Vulnerability and Belonging\nExamining masculinity, public space, social power and everyday encounters with Sudeep Pagedar (Writer). \n12:30pm – 1:15pm : Screenings Set 3 – Memory, Childhood and Everyday Life \nFinding Nabi | 22 min | English | India \nPehli Tarikh | 23 min | Hindi, English | India \n1:15pm – 2:00pm : Break \n2:00pm – 3:45pm : Screenings Set 3 – Continued \nLonely Shadow | 27 min | Tamil | India \nThe Day Iceland Stood Still | 20 min | English, Icelandic | Iceland \n3:45pm – 4:15pm : Panel 2 – From Personal Experience to Collective Change\nTracing how individual experiences of gender connect with solidarity, resistance and social transformation with Sudeep Pagedar and Hareeshh Ram G (Filmmaker). \n4:15pm – 5:15pm : Tea \n5:15pm – 8pm : Homebound | 117 min \n8pm – 8:15pm : Closing Remarks by Harish Sadani \nIn collaboration with:\n \nVenue: Seminar Halls\n\n\nGender. Voice. Resistance.\nFor Ages 18+\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSe3uvby5H6K7nJGa2Xemsgk7HaRScEBpFAj0IXT7Kjhu39VSQ/viewform?usp=pp_url)\n*Speakers*: Ammu Joseph, Anshulika Dubey, Deepak Nair, Harish Sadani, Meher Suri, Sraiyanti, Vinay Chandran, Shrey Shah, Sudeep Pagedar, Hareeshh Ram G\n*Event Categories*: Film",
-    "url": "https://bangaloreinternationalcentre.org/event/samabhav-international-travelling-film-festival/",
-    "keywords": [
-      "Film"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "hi",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_SBITFF.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "@id": "97138-1794655800-1794663000@bangaloreinternationalcentre.org",
     "name": "Before the Blueprint",
@@ -171,54 +418,6 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/10/Thumbnail_CRARI2.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "97128-1794596400-1794601800@bangaloreinternationalcentre.org",
-    "name": "Beyond the Lines",
-    "startDate": "2026-11-13T19:00:00+05:30",
-    "endDate": "2026-11-13T20:30:00+05:30",
-    "description": " \nThis panel discussion reads the drawings of Rajasthan’s forts and palaces as an archive, asking what role they might play in future scholarship. Placed together, the detailed works in the exhibition reveal spatial intricacies, the persistence of architectural elements across centuries, and the material intelligence of the craftspeople who built them. The panel sifts through their possible interpretations to draw out the tacit knowledge, socio-cultural practices, political structures, and physical environments embedded in the drawings. \nThis event is a part of the “Drawing Knowledge” exhibition, exploring the intelligent architecture of imperial India. Find the full schedule here. \nIn collaboration with: \n \nVenue: Seminar Halls\n\n\nThe Stories and Knowledge within Architectural Drawings\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeNGOTOJ5lFZhozBBXCsGKIth0cEDHdGitnnW9vPAQm1nPWRg/viewform?usp=publish-editor)\n*Speakers*: Soumitro Ghosh, Annapurna Garimella, Meghal Arya, S. Madhuri Rao\n*Event Categories*: Architecture, Culture, Heritage, History, Society",
-    "url": "https://bangaloreinternationalcentre.org/event/beyond-the-lines/",
-    "keywords": [
-      "Architecture",
-      "Culture",
-      "Heritage",
-      "History",
-      "Society"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_BTL.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "97320-1794508200-1794513600@bangaloreinternationalcentre.org",
-    "name": "Rare Ritual Performances of Keralam",
-    "startDate": "2026-11-12T18:30:00+05:30",
-    "endDate": "2026-11-12T20:00:00+05:30",
-    "description": "This illustrated lecture explores the ritual performances of northern Keralam. Beyond Theyyam, more than a hundred such performances are still practised, largely unknown outside their regions. Art, martial practices and shared worship have long held communities together and this talk presents a visual record of the rare traditions that preserve Keralam’s cultural identity. \nBalan Nambiar returns to BIC, where he last spoke on the Bhutas of Tulunadu, with his lens focused on a different region. He presents photographs of traditions that developed alongside, and often independently of, Brahmanical Hinduism. He looks at Ati, a ritual of bare-handed combat at Mavilayi influenced by Kalaripayattu, and at shrines where Muslim Theyyams enjoy patronage and privileges. He captures offerings of toddy, fish, and meat as expressions of local belief, and introduces lesser-known forms such as Uccerikuttu, Malayankettu, and Kalampattu, now seldom performed. He makes the case that preservation of these practices is essential to safeguarding the region’s cultural heritage. \nThis talk is part of a series marking twenty years of BIC. \nVenue: Auditorium\n\n\nTwenty Years On: Revisiting Voices from BIC’s Founding Years\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeyAanKIq54AZKlJ4uFE6wc1wp32ZyNp4oofVLYwM98k-H7BA/viewform?usp=pp_url)\n*Speaker*: Balan Nambiar\n*Event Categories*: Culture, Faith, Heritage, Mythology, Performing Arts, Society, Visual Arts",
-    "url": "https://bangaloreinternationalcentre.org/event/rare-ritual-performances-of-keralam/",
-    "keywords": [
-      "Culture",
-      "Faith",
-      "Heritage",
-      "Mythology",
-      "Performing Arts",
-      "Society",
-      "Visual Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnailnov12.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -246,161 +445,5 @@
     },
     "subtitleLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/10/Thumbnail-3.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "96704-1795114800-1795120200@bangaloreinternationalcentre.org",
-    "name": "Bhāvikā | Transcending Language",
-    "startDate": "2026-11-19T19:00:00+05:30",
-    "endDate": "2026-11-19T20:30:00+05:30",
-    "description": "\nThree profound stories. Three powerful languages.\n\n\nThis Odissi performance weaves together multilingual narratives through storytelling, dance, and music, celebrating the universality of the human experience. Transcending origins, the evening is a testament to artistic expression being a language unto itself. When words cease, expression expands. \nCredits:\nPerformance: Shashwati Garai Ghosh\n\nLight Design: Amlan Chaudhari \n\nThis is the eleventh edition of the ‘All For Dance’ series presented by Kalavaahini in association with BIC, curated by Malavika Sarukkai. The ‘All For Dance’ series is presented every quarter at BIC to spotlight some of the best classical dance from across India. The series is managed by Shreya Nagarajan Singh Arts Development Consultancy. \n\nIn collaboration with: \n \n\n\nAn Odissi Recital\nRSVPs will open on Nov 13 at 6pm.\n*Performer*: Shashwati Garai Ghosh\n*Event Categories*: Culture, Dance, Performing Arts",
-    "url": "https://bangaloreinternationalcentre.org/event/bhavika-transcending-language/",
-    "keywords": [
-      "Culture",
-      "Dance",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-22.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "97229-1794673800-1794681000@bangaloreinternationalcentre.org",
-    "name": "Making of an Identity",
-    "startDate": "2026-11-14T16:30:00+05:30",
-    "endDate": "2026-11-14T18:30:00+05:30",
-    "description": "What is hidden in the meal, woven into the cloth? \nThis talk explores the stories behind what we eat and what we wear, tracing how everyday cultural practices carry the marks of migration, trade, technology, politics, identity, and the exchange of ideas across the Indian subcontinent. Through historical anecdotes and conversation, it treats food and clothing not as markers of tradition alone, but as living records of a history that continues to be written today. Drawing from the book The Music of Stones, the session invites the audience to look at the most familiar parts of daily life with fresh curiosity. \nThis talk is part of “Karwaan Baithak,” Karwaan Heritage’s public lecture and dialogue series. \nIn collaboration with: \n     \nVenue: Library\n\n\nA Conversation on Food, Language and Clothing\nRSVPs closed. Thank you for your interest.\n*Speakers*: Sohail Hashmi\n*Event Categories*: Culture, Heritage, History, Society",
-    "url": "https://bangaloreinternationalcentre.org/event/making-of-an-identity/",
-    "keywords": [
-      "Culture",
-      "Heritage",
-      "History",
-      "Society"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-19.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "97057-1794528000-1794787199@bangaloreinternationalcentre.org",
-    "name": "Drawing Knowledge",
-    "startDate": "2026-11-13T05:30:00+05:30",
-    "endDate": "2026-11-16T05:30:00+05:30",
-    "description": "What can we learn about place and people from a detailed drawing? \nThis exhibition presents one of the largest private collections of architectural drawings of Rajasthan’s forts and palaces, from Jaisalmer and Amber to Mehrangarh and Hawa Mahal. Each drawing is the product of years of research and meticulous documentation, recording the walls, courtyards, and water systems that shaped life inside these buildings. \nComprehensive documentation of such places is increasingly scarce. Made possible by the mentorship of Kulbhushan Jain and Minakshi Jain, the collection brings this accumulated knowledge into the public domain. It gives researchers, students, and curious visitors access to study the details closely, now and for generations to come. \nExhibition Opening: 6:30pm, Fri, Nov 13\nExhibition Timings: 11am – 8pm | Fri, Nov 13 – Sun, Nov 15\nExhibition on show until: 8pm | Sun, Nov 15 \nWalkthroughs:\n6:30pm | Fri, Nov 13\n11am & 5:30pm | Sat, Nov 14\n11am & 5:30pm | Sun, Nov 15 \nBeyond the Lines | 7pm – 8:30pm | Fri, Nov 13\nA panel discussion exploring how architectural drawings of Rajasthan’s forts and palaces serve as archives of architectural, social and cultural knowledge, and their potential for future scholarship.\n \nBuilt Before the Blueprint | 11:30am – 1:30pm | Sat, Nov 14\nA collaborative workshop inviting participants to read architectural drawings from the exhibition to discover how Rajasthan’s forts and palaces responded to their climate, resources, water needs and military strategies.\n \nHealth, Heritage and Architecture | 6pm – 8pm | Nov 14\nA workshop exploring how traditional architecture created cool, airy, bright and healthy spaces without electricity, using drawings from the exhibition. \nIn collaboration with: \n \nVenue: Gallery\n\n\nAct of Drawing: Learning from Rajasthan’s Forts\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfMmVZo_95Da9reBG1imWk_CRgxyR5awyQsdreZwiGTULhHOQ/viewform?usp=publish-editor)\n*Curatorial Team*: Meghal Arya, Vijay Arya, Kulbhushan Jain, Minakshi Jain\n*Event Categories*: Architecture, Cities, Culture, History",
-    "url": "https://bangaloreinternationalcentre.org/event/drawing-knowledge/",
-    "keywords": [
-      "Architecture",
-      "Cities",
-      "Culture",
-      "History"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail-5.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "@id": "97288-1795026600-1795034700@bangaloreinternationalcentre.org",
-    "name": "State of Statelessness",
-    "startDate": "2026-11-18T18:30:00+05:30",
-    "endDate": "2026-11-18T20:45:00+05:30",
-    "description": "\n106 min | Tibetan with English subtitles | 2024 | India, United States, Vietnam \nThis film is the first Tibetan-language anthology to explore the lives of Tibetans in exile around the world. Through four stories, the feature film explores heartache and nostalgia amid the realities of dislocation, sans judgement or romanticisation. What does home mean to a people scattered across borders, national constructs, and generations? \nIn 1959, 100,000 Tibetans followed His Holiness the Dalai Lama’s escape from Chinese occupation into Dharamshala, India. The Tibetan diaspora now spans the world, from the United States to the Mekong Delta, having integrated into new countries in unique ways. The film captures the pain of a scattered people, and finds in it resilience and the unexpected bonds that form in strange lands. \n\n\nThe organiser will be present for an audience Q&A. \nVenue: Seminar Halls\n\n\n\nA Tibetan-Language Anthology on Exile and Belonging\nFor Ages 12+\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSc5-p0F2-9Zvvo1DedtEpA0KKVO_undkyyU6PshNkEhd9p1hg/viewform?usp=publish-editor)\n*Speaker*: Norpell Wilberforce\n*Event Categories*: Culture, Film, Language, Society",
-    "url": "https://bangaloreinternationalcentre.org/event/state-of-statelessness/",
-    "keywords": [
-      "Culture",
-      "Film",
-      "Language",
-      "Society"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPresented": {
-      "@type": "Movie",
-      "name": "State of Statelessness"
-    },
-    "subtitleLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_SOS.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "96625-1794655800-1794661200@bangaloreinternationalcentre.org",
-    "name": "The Sitar’s Journey in Melody",
-    "startDate": "2026-11-14T11:30:00+05:30",
-    "endDate": "2026-11-14T13:00:00+05:30",
-    "description": "\nAn immersive morning of sitar and tabla awaits. \nThis Hindustani classical concert offers a unique exploration of the instrument that stands as the backbone of the tradition: the sitar. It begins with a lecture-demonstration tracing historical roots, structural design, tonal acoustics, and stylistic transformations over centuries. Following this is a full morning raga recital, highlighting the rich aesthetic traditions and intricate rhythmic dialogues between sitar and tabla. \nFor both the seasoned connoisseurs and new listeners, this session offers a deeper appreciation of the heritage, craft, and soul of Indian classical music. The sitar is not just a musical instrument, but a living, evolving canvas of Indian culture that bridges centuries of tradition with timeless acoustic mastery. \n\n\nSupported by: \n \nVenue: Auditorium\n\n\n\nHistory, Heritage and Harmony\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSeazkpAIuS2F6w3HDnX0NXmJbJ1U734x4PKzu1SDedGa8ZSUw/viewform)\n*Performers*: Ramprapanna Bhattacharya, Rahul Pophali\n*Event Categories*: Music, Performing Arts",
-    "url": "https://bangaloreinternationalcentre.org/event/the-sitars-journey-in-melody/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "The Sitar’s Journey in Melody"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_TSJIM.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "96967-1794767400-1794772800@bangaloreinternationalcentre.org",
-    "name": "Giving Shape to the Inner World",
-    "startDate": "2026-11-15T18:30:00+05:30",
-    "endDate": "2026-11-15T20:00:00+05:30",
-    "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis evening explores how giving a feeling a shape, as a character, an image, or a letter, can help us understand our inner worlds. Based on the book Monsters of My Mind, the session moves between conversation and hands-on making, asking how creativity can help us say what words alone cannot. What would your monster look like? \nMembers of the panel read scenes from the book, opening a conversation on how comics, humour, and absurdity make difficult experiences easier to look at. Inspired by Leonora Carrington’s Surrealist Survival Kit, postcards are shared, with five prompts: courage, joy, adventure, love, and possibility. The evening closes with a short letter to a monster of your own, with no need to name or explain it. That which feels deeply personal, need not be isolating. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn collaboration with: \n    \nVenue: Library\n\n\nMeet the Creators Who Gave Feelings a Form\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSdRzd9T_87RZHW-bg5FnIEIXIYYEbrlbzOekOSl6Gg0RA1n5g/viewform?usp=publish-editor)\n*Speakers*: Tanya Sudheer, Vivekananda Roy Ghatak, Riya Nagendra, Abhik Bhattacherji\n*Event Categories*: Design, Visual Arts",
-    "url": "https://bangaloreinternationalcentre.org/event/giving-shape-to-the-inner-world/",
-    "keywords": [
-      "Design",
-      "Visual Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/10/Thumbnail_GSTTIW.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "97250-1795546800-1795551300@bangaloreinternationalcentre.org",
-    "name": "Jahnavi",
-    "startDate": "2026-11-24T19:00:00+05:30",
-    "endDate": "2026-11-24T20:15:00+05:30",
-    "description": "Gentle, graceful, and full of force, the Ganga calls you to her banks. \nThis Bharatanatyam performance follows the river Ganga from Gangotri to Varanasi, bringing her changing moods to life through choreography, music, and visual design. What does it mean to travel a river as a pilgrim does, one verse at a time? \nThe performance evolved from the choreographer’s work on the official anthem for Namami Gange, the Government of India’s mission to rejuvenate the Ganga. Set predominantly to Sanskrit verses, the work treats the river as a thread connecting places, people, and generations. \nSupported by:\n \nVenue: Auditorium\n\n\nThe Sacred River\nRSVP here (https://docs.google.com/forms/d/e/1FAIpQLSf0Q9h-cxh4NJsRNKxf2TXH5zlQMJ46qBNSgC2x2cVGtFMDAA/viewform?usp=pp_url)\n*Performer*: Lavanya Sankar\n*Event Categories*: Dance, Performing Arts",
-    "url": "https://bangaloreinternationalcentre.org/event/jahnavi/",
-    "keywords": [
-      "Dance",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/2026/11/Thumbnail_JV2.jpg"
   }
 ]
