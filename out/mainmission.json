@@ -72,5 +72,43 @@
       "Fun",
       "Community"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Main Mission \\ Athlete's Couch \\ 5k Run \\ Open Mic",
+    "startDate": "2026-11-21T07:00:00+05:30",
+    "endDate": "2026-11-21T09:00:00+05:30",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "url": "https://mainmission.in/#/events/OlPTh9pAAahqcZ6arZgS",
+    "location": {
+      "@type": "Place",
+      "name": "Brik Oven, Sarjapur",
+      "address": "Brik Oven, Sarjapur, Bengaluru, Karnataka, India"
+    },
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "300",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mainmission.in/#/events/OlPTh9pAAahqcZ6arZgS"
+      }
+    ],
+    "organizer": {
+      "@type": "Organization",
+      "name": "Main Mission",
+      "url": "https://mainmission.in"
+    },
+    "description": "<h2><strong>Athlete's Couch</strong></h2><p><strong>A morning to connect and geek out over running stories and training with other folks.</strong></p><p><strong>About the event</strong></p><p><strong>Calling every runner and athlete in Bangalore, whether you're chasing a personal best, training for your first race, or just love the long sunday runs.</strong></p><p><strong>And this isn't only for athletes. If you're thinking about starting your running journey, this is a good place to begin. Meet people who've been there, hear how they got started, and figure out what might work for you. Everyone is welcome.</strong></p><p><strong>We're bringing the community together for a relaxed morning of conversation, stories and good food at Brik Oven, Sarjapur. The morning starts with a community 5K run, followed by coffee and an open mic with Bangalore's running community, where people share their journeys, wins, setbacks and everything they've learned along the way. Then we head into breakfast over light music, with plenty of time to meet people.</strong></p><p><strong>Come to connect and geek out on everything running: shoes and gear, nutrition, recovery, training plans, race prep and more.</strong></p><p><strong>Schedule</strong></p><p><strong>• 7:00 AM: Community 5K run</strong></p><p><strong>• 8:00 AM: Coffee at Brik Oven, Sarjapur</strong></p><p><strong>• After the run: Open mic with the Bangalore running community</strong></p><p><strong>• 9:30 AM:Breakfast by Brik Oven</strong></p><p><strong>Your ticket includes</strong></p><p><strong>• Community 5K run</strong></p><p><strong>• Coffee</strong></p><p><strong>• Entry to the open mic</strong></p><p><strong>• Breakfast at Brik Oven</strong></p><p><strong>• A morning with Bangalore's fitness community!</strong></p><p><strong>Details</strong></p><p><strong>• Date: Saturday, 21 November 2026</strong></p><p><strong>• Time: 8:00 AM onwards at Brik Oven (community 5K run at 7:00 AM)</strong></p><p><strong>• Venue: Brik Oven, Sarjapur, Bangalore</strong></p><p><strong>• Ticket: ₹300 per person</strong></p><p><strong>• Hosted by: Brik Oven x Main Mission </strong></p><p><strong>Who should come</strong></p><p><strong>Everyone. Seasoned runners, weekend joggers, other athletes, and anyone who's curious about running but hasn't started yet. You don't need any running experience to join.</strong></p>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fmc-43566484-d5f6d.firebasestorage.app/o/events%2FOlPTh9pAAahqcZ6arZgS%2FWhatsApp%20Image%202026-11-12%20at%205.35.36%20PM_high.jpeg?alt=media&token=2979256b-71ec-49eb-922c-6cb2d9b11242",
+    "keywords": [
+      "5k",
+      "Athlete'sbrunch",
+      "openmic",
+      "networking"
+    ]
   }
 ]
