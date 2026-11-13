@@ -633,6 +633,7 @@
     "url": "https://quantum.scigalleryblr.org/programmes?p=Ondu-Karaoke-Club-Namma-Oota",
     "isAccessibleForFree": true,
     "maximumAttendeeCapacity": "100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FWhatsApp%20Image%202026-11-13%20at%206.45.07%20PM.jpg-1794591142582?alt=media&token=dfe72846-bb59-4fea-80f7-be6e1df3fc04",
     "performer": [
       {
         "@type": "Person",
@@ -669,6 +670,36 @@
   },
   {
     "@type": "EducationEvent",
+    "name": "Is the Future of Computing Quantum?",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/eVX2nGLv4NG9HKzS8"
+    },
+    "startDate": "2026-11-28T23:31:00+05:30",
+    "endDate": "2026-11-29T01:31:00+05:30",
+    "description": "Quantum computing has captured the imagination of scientists, technology enthusiasts and the wider public. Promising to tackle computational challenges beyond the reach of today’s classical computers, it has opened up exciting possibilities while raising important questions about the future of technology. But how close are we to realising this potential, and what can quantum computers actually do today?\n\nThis panel brings together Shankar Kumar Selvaraja from the Indian Institute of Science, Quanfluence co-founder Biman Chattopadhyay, and Science writer Debdutta Paul to explore the current state of quantum computing and its possibilities. The conversation goes beyond the hype to explore where quantum computing stands today, what lies on the horizon, and how this emerging technology might change the way we solve some of the world's most complex problems.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=is-the-future-of-computing-quantum",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "100",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Biman Chattopadhyay"
+      },
+      {
+        "@type": "Person",
+        "name": "Debdutta Paul"
+      },
+      {
+        "@type": "Person",
+        "name": "Shankar Kumar Selvaraja"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
     "name": "A Cup of Coffee in a Changing World",
     "location": {
       "@type": "Place",
@@ -687,6 +718,51 @@
       {
         "@type": "Person",
         "name": "Arshiya Bose"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Young Birder's City Council",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/eVX2nGLv4NG9HKzS8"
+    },
+    "startDate": "2026-11-29T17:00:00+05:30",
+    "endDate": "2026-11-29T19:00:00+05:30",
+    "description": "What would you do if you were responsible for making Bengaluru a safer city for birds?\n\nAt the Young Birders' City Council, you get to step into the shoes of conservation problem-solvers. Through real-life challenges faced by birds in our city, you will work in small teams to understand problems and develop solutions.\n\nFrom designing awareness campaigns and school initiatives to proposing new ideas, policies or practical interventions, each team will get to approach its challenge in its own way. You will get to present your recommendations to the council and will be exposed to different kinds of creative thinking. Join Subiksha Venkatesh for an opportunity to think critically, to collaborate and to imagine a Bengaluru where people and birds can coexist.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=young-birders-city-council",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "30",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Subiksha Venkatesh"
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Metabolic Living",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/eVX2nGLv4NG9HKzS8"
+    },
+    "startDate": "2026-11-22T14:00:00+05:30",
+    "endDate": "2026-11-22T15:00:00+05:30",
+    "description": "In this co-read, we will discuss excerpts from Harris Solomon’s *Metabolic Living* to examine how biomedical values around food come to terms with familial demands, and how gendered duties, such as that of the housewife, are implicated in this. Who is held responsible for the complex, often paradoxical traversing between personal preferences, traditions, and modern health in a rapidly urbanising food culture? \n\nExamining this through an anthropological lens, this co-read invites us all to share and re-examine our relationship with women and the ‘healthy’ Indian family.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=processing-the-housewife",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FDSC09888%20Large.jpg-1794570724488?alt=media&token=73a1c815-fd6b-4b68-a903-06346d6ae8dd",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ashaz Hussain Mohammed "
       }
     ]
   }

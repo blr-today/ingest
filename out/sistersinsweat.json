@@ -117,45 +117,6 @@
     "endDate": "2026-11-29T11:00:00+05:30"
   },
   {
-    "name": "SIS x Si Nonna's - Pizza Making Workshop",
-    "@type": "FoodEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Pizzamaking-Workshop",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Pizzamaking-Workshop",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "1299",
-        "priceCurrency": "INR"
-      }
-    ],
-    "image": "https://sistersinsweat.com/api/media/file/SIS_Website-Listing.png",
-    "location": {
-      "name": "Si Nonna's",
-      "address": "Plot No.61, Shop No.05, Marksquare, Ground floor, St.Marks road, Bangalore, Shanthinagara, B.B, M.P East, Bengaluru, Karnataka 560001",
-      "@type": "Place"
-    },
-    "startDate": "2026-11-14T16:00:00+05:30",
-    "endDate": "2026-11-14T18:00:00+05:30"
-  },
-  {
     "name": "Sisters and Misters Yoga Mornings",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Yoga-Sisters-Misters",
@@ -656,45 +617,6 @@
       "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
       "@type": "Place"
     },
-    "startDate": "2026-11-14T07:00:00+05:30"
-  },
-  {
-    "name": "Women's Football Coaching - Beginner",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "550",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Bullring%2C%20Indira%20Nagar.webp",
-    "location": {
-      "name": "Bullring, Indiranagar",
-      "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
-      "@type": "Place"
-    },
     "startDate": "2026-11-21T07:00:00+05:30"
   },
   {
@@ -774,6 +696,45 @@
       "@type": "Place"
     },
     "startDate": "2026-12-05T07:00:00+05:30"
+  },
+  {
+    "name": "Women's Football Coaching - Beginner",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "550",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Bullring%2C%20Indira%20Nagar.webp",
+    "location": {
+      "name": "Bullring, Indiranagar",
+      "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-12T07:00:00+05:30"
   },
   {
     "name": "Basketball with the Sisters - Intermediate",

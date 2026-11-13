@@ -30,7 +30,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 500.0,
+      "price": 750.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -81,7 +81,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": 500.0,
+      "price": 750.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -686,6 +686,60 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Cottonpete heritage walk.",
+    "description": "Our fourth journey through the historic quarters of Kempe Gowda’s Pettah unfolds under a theme as timeless as it is universal—the search for Faith. Few places in Bengaluru bear witness to such layered expressions of belief, practice, and community as this old quarter, where stones, shrines, and stories alike speak of lives entwined with devotion.We begin in the western precincts of Pettah, which has one of the city’s most significant Sufi dargahs. For well over two centuries this shrine has stood not merely as a site of veneration but as a living symbol of spiritual devotion and communal harmony. Here, the life of the saint and the mystical traditions of Sufism unfold before us, reminding visitors of how such spaces once bridged communities across faiths, drawing pilgrims, merchants, and seekers into a shared spiritual geography.From the domain of sacred devotion we turn toward the realm of healing. In the narrow lanes nearby still operate age-old Ayurvedic massage centers, famed above all for their bone-setting traditions. Local memory recalls how the Maharajas of Mysore themselves entrusted these practitioners, as did the pahalwans of the akhadas—wrestling arenas that once gave Pettah its distinctive physical culture. In these practices of cure and discipline, body and faith intertwined, shaping a distinctly urban form of resilience and well-being.Our steps then carry us to venerable temples associated with saints whose teachings left a lasting imprint on the identity of this quarter. Within their carved stones and sanctums endures a layered continuity—of memory, worship, and the rhythm of everyday devotion. Time permitting, the trail may extend toward a garadi mane (wrestling house) or an old heritage lodge, each bearing traces of the social fabric of an earlier Bengaluru, when physical culture and communal gathering defined neighborhood life.The walk also includes a South Indian breakfast in heritage restaurant, where history, faith, and community meet in lived experience.This walk is guided by an architect whose professional eye discerns the city’s built heritage, and whose personal practice of Sufism and passion for food lend the journey both intimacy and delight. His explorations carry him to parts of Bengaluru often absent from tourist maps, offering participants not simply a tour, but an immersion into the city’s layered heart.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8D55F2F9DCA448A7B073E839E7EE2FA1_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F8B2633A5A584A28A3C3099CED0BCCAA_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4073CE9CB4D94FD98D1D768CEF69289A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/339D32171B1549ACA9FD80D3246B86C1_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/84D735C41BFA48E7AEF7D5889A43223B_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/868DBD9F1CF44133997E6796811E528D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D38EE066E7B343BB822B4039C09ACC32_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E4D8DFF6C7C54B1681DB08581CAAE727_converted_webp.webp"
+    ],
+    "startDate": "2026-12-06T08:00:00+05:30",
+    "endDate": "2026-12-06T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XHFF+G4V, Tulasi Thota Rd, Upparpete, Chickpet, Bengaluru, Karnataka 560053, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnab774sXrjsRrf_WjR-DXXs",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9738658,
+        "longitude": 77.5727872
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 750.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/copy-of-cottonpet-heritage-walk",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Listening Room",
     "description": "20 people. 1 quiet room. No phones. A circle where people share the songs and the stories that stayed with them. 🫶We’re bringing you an intimate, deeply human, musical experience with real people, real stories, and real memories.💌bring that one song that arrived like a whisper, a serendipity. the kind that lingered long after the last note. that's the magic we're after.come as you are. bring a song, or just your presence. the rest will find you.",
     "image": [
@@ -768,7 +822,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 500.0,
+      "price": 750.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1075,57 +1129,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Lalbagh Heritage Trail",
-    "description": "\"This experience brings out the layered history of Lalbagh, from its origins under Mysore rulers to its transformation during the British period. You will explore how this space evolved from a royal garden into a scientific botanical centre, while also uncovering hidden structures, early markers of the city, and details that most visitors overlook.Through this walk, Lalbagh is seen not just as a garden, but as a timeline of Bangalore, where geology, history, culture, and urban change come together to tell a larger story of the city.\"https://bengaluruprayana.com/terms-conditions-walks/",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D3BBF3EAFC0A48D7814EE66FA2A3894E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1FF5E0B047F0486EB05F8E1EAE7F734F_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/065AB452CC6041A1BADF994F30C60A9B_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/17C83C6C42AA410380FC9185EB7C978E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/60049A8CD369433896FE57B8EEE17427_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/1B906B7A8E64437FA3676F2749301647_converted_webp.webp"
-    ],
-    "startDate": "2026-11-13T16:00:00+05:30",
-    "endDate": "2026-11-13T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Mavalli, Bengaluru, Karnataka 560004, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9494158,
-        "longitude": 77.58468049999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 900.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru Prayana",
-      "description": "Bengaluru Prayana was created to position Bengaluru as a cultural and heritage destination. Our mission is to highlight the city’s rich history, layered identity, and everyday diversity beyond its modern image.",
-      "url": "https://urbanaut.app/partner/bengaluru-prayana",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/37AE79BCF8024FBC96A8B8C985D59420_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/lalbagh-heritage-trail",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Gavipuram Heritage Trail",
     "description": "\"The Gavipuram Heritage Walk is a guided walking experience that helps people understand one of Bangalore’s oldest and least-known neighbourhoods.On this walk, participants explore how early Bengaluru evolved through temples, hillocks, city boundaries, and sacred spaces. The walk focuses on Gavipuram’s role in shaping old Bangalore, long before the modern city developed.It covers places such as the Gavi Gangadhareshwara cave temple, hill temples, Kempegowda’s western tower, memorial sites, and sacred hills.This is a slow, story-driven walk, meant for people who want to look beyond popular landmarks and understand Bangalore in a deeper, more meaningful way.https://bengaluruprayana.com/terms-conditions-walks/\"",
     "image": [
@@ -1226,6 +1229,55 @@
       "Walking Tour",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Basavanagudi Thindi food walk.",
+    "description": "Embark on a flavour-packed, purely vegetarian food walk through the timeless culinary lanes of Basavanagudi — a true veggie paradise nestled in the heart of South Bengaluru. They say on a food walk, the food speaks for itself, and here, every crispy bite and aromatic sip has its own story to tell.Get ready to dig into a medley of local favourites — melt-in-your-mouth khali dosa, the soft and lacey neer dosa, the ever-popular set dosa, comforting chow chow bath, indulgent damrot, classic idli-poori sagu, crunchy vada, rava idli, rava vada, and some addictive nippattu to pair with your steaming cup of tea or perfectly brewed filter coffee.And if your taste buds are still craving more, don’t worry — Basavanagudi always has room for another round of Davangere benne dosa, a crispy sagu masala dosa, or that tangy, temple-style puliyogare.Now, about where we’re eating… our lips are sealed! That’s half the fun, isn’t it?Join us for this walk, and you’ll uncover some of Basavanagudi’s most iconic and heritage food spots, tucked away in corners where time slows down and taste takes over. So lace up your shoes, bring your appetite, and let’s walk, eat, chat, and rediscover namma Basavanagudi — one bite at a time.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C43412EC0DE2411CB682C11BF1563E4F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/65D13DCBFB4D4650AC6DD04F790CF959_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/04EA95F6FCE04B15B0B45740526EEDF4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/497B337CFE82441191BAC3A48BFB6C51_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/047E40A709B6493BB28CB75F1533EDF9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/2948FD5E0D9244968D07EB6E11EC0DE6_converted_webp.webp"
+    ],
+    "startDate": "2026-12-11T04:30:00+05:30",
+    "endDate": "2026-12-11T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9455888,
+        "longitude": 77.5712556
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 800.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/basavanagudi-thindi-food-walk",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1915,6 +1967,58 @@
       "Festival",
       "Eco Friendly",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Avenue Road (Pete) heritage walk.",
+    "description": "Step into Bengaluru’s oldest quarter and travel almost 500 years into the past to the original Pete—a world of fortified walls, bustling bazaars, temples, mosques, merchants, and craftsmen.This is where the city’s story begins, from one end of Avenue Road to the other. Meet Kempe Gowda I, the visionary chieftain who founded Bengaluru, and discover why he chose this unlikely corner of the Deccan. What drew him here, and what strange signs, according to legend, foretold the birth of the city?Next comes one of Bengaluru’s most haunting tales: the legend of the Southern Gate of the Pete, involving a pregnant woman, a sacrifice, and the building of the city’s earliest fortifications.Kempe Gowda’s settlement, however, was never destined to remain a small fortified town. Within a century, Bengaluru’s strategic location and growing wealth made it a coveted prize for the Bijapur Sultanate, the Marathas, and eventually the Mughals, before the city passed into the hands of the Mysore kingdom and, after the Fourth Anglo-Mysore War, the British.What made Bengaluru so valuable? What did the original Bangalore Fort look like? And how did this fortified town of bazaars and bastions evolve into the sprawling metropolis we know today?Beyond the monuments, we discover the people who made the Pete thrive—merchants, craftsmen, saints, philanthropists, and religious communities whose stories still linger in its streets. Along the way, you will discover historic temples, the KR Market, Sufi shrines, forgotten landmarks, and some of Bengaluru’s oldest neighbourhoods.No journey through the Pete is complete without food, so we will finish with delicious local snacks at an iconic old eatery tucked just off the road.Come discover the Bengaluru that came before the metropolis. Walk its oldest streets, uncover its forgotten stories, and see the city through an entirely new lens.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/949D36E1E73C4273BA59F095CA0F0597_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/B196058F18CE44F3940117C0C8B2307C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8FA7AD0469F14BFC9607C2B7182FC875_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5E892B8F6FD14A29A770F64A59AF3860_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/742796A7ED144ACCB5E427FF1358947A_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/4B64F7A8E63D474D9FD3FE7AF187C9EE_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/927462BD6F0D4B26863BC1CDE492BC6C_converted_webp.webp"
+    ],
+    "startDate": "2026-12-13T08:00:00+05:30",
+    "endDate": "2026-12-13T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Avenue Rd, Old Tharagupet, Mamulpet, Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9654719,
+        "longitude": 77.5774697
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": 750.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/27C2FC7D16BA498E8A60DB4BA010AC49_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/avenue-road",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -4740,51 +4844,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Yoga with Puppies at The Yutori Spaces",
-    "description": "Join us for a beginner-friendly yoga session surrounded by the sweetest shelter puppies. It’s a light, relaxing flow where the pups freely wander around your mat, making the experience calm, happy, and a little chaotic in the best way.All the puppies are from local shelters and up for adoption, and a part of your ticket goes toward their care. You don’t need any yoga experience - the session is guided and open to all.The class is 60 minutes long. Please arrive 15 minutes early, and feel free to stay back a bit after to spend more time with the dogs.Seats fill up fast - book your spot soon!",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/5E853A328FF142878EA86716A1C08972_converted_webp.webp"
-    ],
-    "startDate": "2026-11-14T11:00:00+05:30",
-    "endDate": "2026-11-14T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "84/85, Infantry Rd, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQ64yhmAXrjsRdt6v3W8iu-Y",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.979886,
-        "longitude": 77.60699869999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1416.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pawga Pets Yoga",
-      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
-      "url": "https://urbanaut.app/partner/pawga",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/56384ED1915F45B195D3A130290A4940_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/yogawithpuppieatheyuotrispaces",
-    "keywords": [
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Yoga with Puppies at The Treehouse",
     "description": "Join us for a beginner-friendly yoga session surrounded by the sweetest shelter puppies. It’s a light, relaxing flow where the pups freely wander around your mat, making the experience calm, happy, and a little chaotic in the best way.All the puppies are from local shelters and up for adoption, and a part of your ticket goes toward their care. You don’t need any yoga experience - the session is guided and open to all.The class is 60 minutes long. Please arrive 15 minutes early, and feel free to stay back a bit after to spend more time with the dogs.Seats fill up fast - book your spot soon!",
     "image": [
@@ -5204,51 +5263,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Lasya Ft. Shriya S Rao and Vidyashree H.S",
-    "description": "Lasya brings together two artists for a shared evening of performance. Different journeys, different questions, different approaches to making work.The curation focuses on discovering what happens when these works are experienced side by side. This edition features Shriya S Rao and Vidyashree H.S. Join us and watch them create magic on stage.Open to all ages, tickets applicable for attendees above 5 years of ageNote: Valid institutional to be mandatorily produced for entry of 'Student Pass' holders.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/449DC32F621F43E39A4E83F1013C5360_converted_webp.webp"
-    ],
-    "startDate": "2026-11-13T19:30:00+05:30",
-    "endDate": "2026-11-13T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9596437,
-        "longitude": 77.5873823
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 54,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 350.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shoonya - Centre for Art and Somatic Practices",
-      "description": null,
-      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/lasya-ft-shriya-s-rao-and-vidyashree-hs",
-    "keywords": [
-      "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Amba",
     "description": "Amba by Sowmya Vishal s a solo Bharatanatyam production that retells the story of Amba's transformation into Shikhandi from the Mahabharata. Through the traditional Margam format it explores love, rejection, vengeance, femininity and gender identity, portraying the journey of a woman who reclaims her destiny through resilience and courage.Open to all ages, tickets applicable for attendees above 5 years of ageNote: Valid institutional to be mandatorily produced for entry of 'Student Pass' holders.",
     "image": [
@@ -5297,7 +5311,7 @@
     "name": "Cosmic Karaoke",
     "description": "Some evenings call for a different kind of soundtrack.Join us at away for an evening of live music, soulful melodies and good company with Tusker & The Croc.Rooted in devotional music and shaped by contemporary sounds, Tusker & The Croc bring together years of satsang, musical exploration and live performance. Their music moves between the traditional and the modern, creating an experience that is as much about feeling as it is about listening. The band's name draws inspiration from the Bhagavatam's story of Gajendra, the mighty elephant, and the crocodile. A story of struggle, surrender and grace, it reflects the spirit behind their music.Meet the musiciansShreesh Otta – Lead VocalsA Product Manager at PwC by day, Shreesh is also a devotional singer who has spent years leading satsangs. His music brings people together through songs that turn a gathering into a shared experience.Chavinay Sharma – Lead GuitarA 3D modelling designer by profession, Chavinay brings his musical sensibility to the band through soulful guitar work. Over the years, he has introduced contemporary musical elements into satsangs, creating a distinctive blend of traditional and modern sounds.Date: Saturday, 14 November 2026Time: 6:30 PM onwards",
     "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/036A84D2E4904A04893AC7D9C350C2ED_converted_webp.webp"
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C1E86CEC258748B5A79D52BEF7F9AE25_converted_webp.webp"
     ],
     "startDate": "2026-11-14T18:30:00+05:30",
     "endDate": "2026-11-14T20:15:00+05:30",
@@ -5318,7 +5332,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": 300.0,
+      "price": 0.0,
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },

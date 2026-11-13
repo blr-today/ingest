@@ -2,6 +2,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "description": "A SPACE FOR SOUNDS BEYOND WORDS. A SPACE FOR EVERYTHING POST.JOIN THE MOVEMENT.Some music tells a story. Some music makes you feel one.From sprawling soundscapes and soaring cres",
+    "endDate": "2026-12-12T23:59:00",
+    "identifier": "com.skillboxes.43308",
+    "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RlY2d0pLbmQyQU9ublFDUzNYZ0RJUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1794565828Gb2cy6qlt0BoZ4Vb.jpg.webp",
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Music Concerts"
+    ],
+    "location": {
+      "@type": "Place",
+      "address": "Shop No. 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9313404",
+        "longitude": "77.6330762"
+      },
+      "name": "THE BEER CAFE, KORAMANGALA"
+    },
+    "name": "BEYOND POST - BANGALORE",
+    "offers": [
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "description": "Additional Cover Charge of INR 500 at the Gate\nRedeemable on Food and Drinks",
+        "inventoryLevel": 7,
+        "name": "Early Birds!",
+        "url": "https://www.skillboxes.com/events/ticket/beyond-post-bangalore-sbfbdgyu"
+      },
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "description": "Additional Cover Charge of INR 500 payable at the Gate\nRedeemable on Food and Drinks",
+        "inventoryLevel": 50,
+        "name": "General Pass - Phase 1",
+        "url": "https://www.skillboxes.com/events/ticket/beyond-post-bangalore-sbfbdgyu"
+      }
+    ],
+    "startDate": "2026-12-12T19:00:00",
+    "url": "https://www.skillboxes.com/events/beyond-post-bangalore-sbfbdgyu"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "description": "Anjana Issar's Collective Presents: Qawwali NightExperience a Soulful Evening of Sufi Melodies & Timeless HarmoniesStep into an enchanting night of devotion, rhythm, and passion with Rangmanch! Join us for an extraordinary live p",
     "endDate": "2026-11-27T22:00:00",
     "identifier": "com.skillboxes.43277",
@@ -456,7 +499,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "General Admission | Valid for one individual | All Prices Inclusive of 18% GST\n",
-        "inventoryLevel": 245,
+        "inventoryLevel": 243,
         "name": "Early Bird GA Pass",
         "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
       },
@@ -472,7 +515,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Fan Pit Admission | Valid for one individual | All Prices Inclusive of 18% GST\n",
-        "inventoryLevel": 227,
+        "inventoryLevel": 222,
         "name": "Early Bird Fanpit Pass",
         "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
       }
