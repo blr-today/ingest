@@ -8,32 +8,6 @@
       "address": "Science Gallery, Bangalore",
       "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
     },
-    "startDate": "2026-11-14T12:00:00+05:30",
-    "endDate": "2026-11-14T13:30:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Ajay and Apoorva, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en22",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Ajay R H"
-      },
-      {
-        "@type": "Person",
-        "name": "Apoorva Masade"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
     "startDate": "2026-11-14T16:30:00+05:30",
     "endDate": "2026-11-14T18:00:00+05:30",
     "description": "Step beyond the visible and into the world of QUANTUM. Join our Experimentors, Anandita and Aizaz, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
@@ -308,29 +282,6 @@
       {
         "@type": "Person",
         "name": "Vindhya Kumar"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "The Playful Writer: What Anne Carson Taught Me",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/qpjQRnJJ1yQosfKV8"
-    },
-    "startDate": "2026-11-14T11:00:00+05:30",
-    "endDate": "2026-11-14T12:30:00+05:30",
-    "description": "The 2026 Nobel Prize in Literature went to Anne Carson. \n\nJoin Srilata Krishnan for a talk about Carson’s work and what writers and artists can learn from it. Carson’s training was in the classics, which spurred in her a wide-ranging interest in comparative literature, anthropology, history and the arts. Hers is a quintessentially interdisciplinary mind, and her work feels like jewels studded with the gemstones of ancient Greek and Latin literature (Sappho, Catullus, Stesichorus, for instance) and of writers such as Virginia Woolf, Keats and Gertrude Stein.\n\nFormally, her work may be best described as cross-genre. It is the spirit of playfulness and enquiry that drives all of Carson’s work, making each of her books different from the others. Her playfulness precludes neither depth nor rigour, as borne out by every single work of hers. \n\nAs a writer, Srilata has learnt a lot about craft from Carson and will be sharing the subtle ways in which reading Carson helped shape her own writing.\n\nThis lecture is organised in collaboration with Infosys Science Foundation.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=the-playful-writer",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "80",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FChristine_de_pisan.jpg-1793172795592?alt=media&token=4d50bd2d-cb77-44ce-a69f-e36f4b776340",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Srilata Krishnan"
       }
     ]
   },
@@ -763,6 +714,29 @@
       {
         "@type": "Person",
         "name": "Ashaz Hussain Mohammed "
+      }
+    ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Peering Down the Ice to Look at the Sky",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/eVX2nGLv4NG9HKzS8"
+    },
+    "startDate": "2026-11-20T16:30:00+05:30",
+    "endDate": "2026-11-20T18:00:00+05:30",
+    "description": "The 2026 Nobel Prize in Physics is awarded to Prof. Francis Halzen for his role in\nconstructing IceCube Neutrino Observatory, a gargantuan telescope made from the natural ice block at the South Pole. This telescope specialises in detecting elusive but omnipresent particles called neutrinos. IceCube has discovered high-energy neutrinos from astrophysical sources outside our solar system, opening up a new window for observing the Universe. \n\nJoin Amol Dighe for talk in which he will describe what IceCube Neutrino Observatory is, why and how it was built, what discoveries it has already made, and what its future potential is.\n\nThis lecture is organised in collaboration with Infosys Science Foundation.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=peering-down-the-ice-to-look-at-the-sky",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FThe_ICL_at_Dawn.jpg-1794636542770?alt=media&token=cf58ddb8-a6f9-434d-90de-6cf6ebfba4fe",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Amol Dighe"
       }
     ]
   }

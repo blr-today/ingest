@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Seen Unseen",
+    "description": "SEEN UNSEEN: The Art of Siraj Saxena Dates: November 14th – November 30th, 2026 Gallery Time and Space presents Seen Unseen, a captivating solo exhibition featuring the recent works of...\\n",
+    "image": "https://timeandspace.gallery/wp-content/uploads/2026/11/seen-unseen-1.jpg",
+    "url": "https://timeandspace.gallery/event/seen-unseen/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-11-14T08:00:00+05:30",
+    "endDate": "2026-11-30T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Gallery Time and Space",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
+        "addressLocality": "Bangalore",
+        "addressRegion": "karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "+917760394808",
+      "sameAs": "https://timeandspace.gallery"
+    }
+  }
+]
