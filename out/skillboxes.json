@@ -25,17 +25,17 @@
       {
         "@type": "Offer",
         "availability": "InStock",
-        "description": "Additional Cover Charge of INR 500 at the Gate\nRedeemable on Food and Drinks",
-        "inventoryLevel": 7,
-        "name": "Early Birds!",
+        "description": "Additional Cover Charge of INR 500 payable at the Gate\nRedeemable on Food and Drinks",
+        "inventoryLevel": 50,
+        "name": "General Pass - Phase 1",
         "url": "https://www.skillboxes.com/events/ticket/beyond-post-bangalore-sbfbdgyu"
       },
       {
         "@type": "Offer",
-        "availability": "InStock",
-        "description": "Additional Cover Charge of INR 500 payable at the Gate\nRedeemable on Food and Drinks",
-        "inventoryLevel": 50,
-        "name": "General Pass - Phase 1",
+        "availability": "SoldOut",
+        "description": "Additional Cover Charge of INR 500 at the Gate\nRedeemable on Food and Drinks",
+        "inventoryLevel": 0,
+        "name": "Early Birds!",
         "url": "https://www.skillboxes.com/events/ticket/beyond-post-bangalore-sbfbdgyu"
       }
     ],
@@ -515,7 +515,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "Fan Pit Admission | Valid for one individual | All Prices Inclusive of 18% GST\n",
-        "inventoryLevel": 222,
+        "inventoryLevel": 213,
         "name": "Early Bird Fanpit Pass",
         "url": "https://www.skillboxes.com/events/ticket/madhur-sharma-live-sbzosewg"
       }
@@ -567,10 +567,10 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "description": "Step into The Time Machine — an evening where iconic music, live performance and audience energy come together. Get ready for ",
-    "endDate": "2026-12-05T20:30:00",
+    "description": "Step into The Time Machine — A concert in Aid of Bethany Special School, an evening where iconic music, live performance and audience energy come together. Get ready for a high-energy night of live music",
+    "endDate": "2026-12-05T21:00:00",
     "identifier": "com.skillboxes.42410",
-    "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Ym1tNFRrenJtOHFuOTFtZHIyZHludz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1792068271pgGylQsjbus5Dnw3.jpg.webp",
+    "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Ym1tNFRrenJtOHFuOTFtZHIyZHludz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1794627541PQoVxCeE1NwviuDr.jpg.webp",
     "isAccessibleForFree": false,
     "keywords": [
       "Music Concerts"
@@ -585,26 +585,18 @@
       },
       "name": "The Bay, Eco World, Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103, India"
     },
-    "name": "The Time Machine - A Musical Evening",
+    "name": "The Time Machine - A Concert in Aid of Bethany Special School",
     "offers": [
       {
         "@type": "Offer",
         "availability": "InStock",
-        "description": "Donor Pass\n",
-        "inventoryLevel": 145,
+        "description": "Early Bird - Donor Pass - 899\n",
+        "inventoryLevel": 74,
         "name": "Single Ticket",
-        "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
-      },
-      {
-        "@type": "Offer",
-        "availability": "InStock",
-        "description": "Early Bird - Group Donor Pass\n",
-        "inventoryLevel": 93,
-        "name": "Group Ticket (admits 4 people)",
         "url": "https://www.skillboxes.com/events/ticket/the-time-machine-a-musical-evening-sbhmaspq"
       }
     ],
-    "startDate": "2026-12-05T18:30:00",
+    "startDate": "2026-12-05T19:00:00",
     "url": "https://www.skillboxes.com/events/the-time-machine-a-musical-evening-sbhmaspq"
   },
   {
@@ -634,7 +626,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "n additional, fully redeemable cover charge of INR 500 per individual is applicable at the gates.\n",
-        "inventoryLevel": 980,
+        "inventoryLevel": 978,
         "name": "Phase 1 Pass",
         "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
       },
@@ -642,7 +634,7 @@
         "@type": "Offer",
         "availability": "InStock",
         "description": "n additional, fully redeemable cover charge of INR 500 per individual is applicable at the gates.\n",
-        "inventoryLevel": 28,
+        "inventoryLevel": 24,
         "name": "Phase 1 Group of 2 Pass",
         "url": "https://www.skillboxes.com/events/ticket/kurukshetra-by-aditya-prerna-sbvwbbzk"
       }
@@ -653,7 +645,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "description": "The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and",
+    "description": "The Humming Tree:The Humming Tree - A grassroots performance venue in Bangalore, running from 2013 to 2019 and in the process becoming a cornerstone of Bangalore’s independent music, art, and cultural ecosyst",
     "endDate": "2026-12-03T23:59:00",
     "identifier": "com.skillboxes.42194",
     "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17945463939D5mNP6Hd1aKHg49.png.webp",
@@ -672,7 +664,16 @@
       "name": null
     },
     "name": "Grassroots : The Pulse Theory (Album Launch) + Blakc + Flaw & Order",
-    "offers": [],
+    "offers": [
+      {
+        "@type": "Offer",
+        "availability": "InStock",
+        "description": "An additional cover of INR 500 applicable at the door, fully redeemable against Food and Beverage.\n",
+        "inventoryLevel": 445,
+        "name": "GA",
+        "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesday-the-pulse-theory-album-launch-blakc-flaw-order-sbphjfak"
+      }
+    ],
     "startDate": "2026-12-03T21:00:00",
     "url": "https://www.skillboxes.com/events/grassroots-wednesday-the-pulse-theory-album-launch-blakc-flaw-order-sbphjfak"
   },
