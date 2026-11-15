@@ -1,32 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "DanceEvent",
-    "@id": "3533-1794650400-1794747600@iiwc.in",
-    "name": "Natya Mayuri – Temple of Arts Bharatanatyam Dance Recital",
-    "startDate": "2026-11-14T10:00:00+05:30",
-    "endDate": "2026-11-15T13:00:00+05:30",
-    "description": "",
-    "url": "https://iiwc.in/event/natya-mayuri-temple-of-arts-bharatanatyam-dance-recital/",
-    "keywords": [
-      "Bharata Natyam"
-    ],
-    "inLanguage": "en",
-    "location": {
-      "@type": "Place",
-      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560004",
-        "addressCountry": "IN"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "3508-1795111200-1795118400@iiwc.in",
     "name": "Carnatic Vocal Concert",
@@ -50,29 +24,6 @@
       }
     },
     "inLanguage": "en"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "3512-1795341600-1795348800@iiwc.in",
-    "name": "Children’s Cultural Festival - 2026 :  COMPETITION IN PAINTING",
-    "startDate": "2026-11-22T10:00:00+05:30",
-    "endDate": "2026-11-22T12:00:00+05:30",
-    "description": "",
-    "url": "https://iiwc.in/event/childrens-cultural-festival-2026-competition-in-painting/",
-    "inLanguage": "en",
-    "location": {
-      "@type": "Place",
-      "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560004",
-        "addressCountry": "IN"
-      }
-    }
   },
   {
     "@context": "https://schema.org",
@@ -102,44 +53,14 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "LiteraryEvent",
-    "@id": "3537-1794736800-1794747600@iiwc.in",
-    "name": "Sawanna Publications - Book Release Program",
-    "startDate": "2026-11-15T10:00:00+05:30",
-    "endDate": "2026-11-15T13:00:00+05:30",
+    "@type": "Event",
+    "@id": "3512-1795341600-1795348800@iiwc.in",
+    "name": "Children’s Cultural Festival - 2026 :  COMPETITION IN PAINTING",
+    "startDate": "2026-11-22T10:00:00+05:30",
+    "endDate": "2026-11-22T12:00:00+05:30",
     "description": "",
-    "url": "https://iiwc.in/event/sawanna-publications-book-release-program/",
-    "keywords": [
-      "Book Release"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Wadia Hall, Indian Institute of World Culture, Basavanagudi, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "#6, Shri B P Wadia Road, Basavanagudi",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560004",
-        "addressCountry": "IN"
-      }
-    },
-    "inLanguage": "en"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ExhibitionEvent",
-    "@id": "3614-1794754800-1794762000@iiwc.in",
-    "name": "2026 - IIWC Painting Competition",
-    "startDate": "2026-11-15T15:00:00+05:30",
-    "endDate": "2026-11-15T17:00:00+05:30",
-    "description": "",
-    "url": "https://iiwc.in/event/2026-iiwc-painting-competition/",
-    "keywords": [
-      "Art Gallery"
-    ],
+    "url": "https://iiwc.in/event/childrens-cultural-festival-2026-competition-in-painting/",
     "inLanguage": "en",
-    "image": "https://iiwc.in/wp-content/uploads/2026/11/15Nov-PaintingCompetition-Misc.jpeg",
     "location": {
       "@type": "Place",
       "name": "Indian Institute of World Culture, Basavanagudi, Bengaluru",
