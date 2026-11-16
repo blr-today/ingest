@@ -1,6 +1,8 @@
 import re
 from datetime import datetime
 
+from bs4 import BeautifulSoup
+
 from ..common import USER_AGENT_HEADERS, icalendar
 from ..common.jsonld import JsonLdExtractor
 from ..common.session import get_cached_session
@@ -10,6 +12,8 @@ BASE = "https://indianmusicexperience.org/"
 LISTING = BASE + "events/"
 # The listing's JSON-LD has dates only; each event's iCal export has the times
 ICAL_LINK = re.compile(r"\?method=ical&(?:amp;|#038;)?id=(\d+)")
+# The page shows "5:00 pm - 7:00 pm", or just "5:00 pm" when no end is set
+START_ONLY = re.compile(r"\d{1,2}:\d{2} ?[ap]m", re.I)
 # Divi page-builder shortcodes leak into the iCal description
 SHORTCODE = re.compile(r"\[/?et_pb_[^\]]*\]")
 MUSEUM = {
@@ -43,7 +47,8 @@ def place(listed):
 
 
 def make_event(session, url, listed):
-    match = ICAL_LINK.search(get(session, url))
+    page = get(session, url)
+    match = ICAL_LINK.search(page)
     if not match:
         print(f"[IME] No calendar link: {url}")
         return None
@@ -57,6 +62,10 @@ def make_event(session, url, listed):
     event.pop("keywords", None)
     # Bios mention languages, so leave the guess to the languages processor
     event.pop("inLanguage", None)
+    # Without an end on the page, the iCal end is a filler 7 PM; SchemaFixer sets one
+    shown = BeautifulSoup(page, "html.parser").select_one(".mec-single-event-time .mec-events-abbr")
+    if shown and START_ONLY.fullmatch(shown.get_text(strip=True)):
+        event.pop("endDate", None)
     event["url"] = url
     event["description"] = SHORTCODE.sub("", event["description"]).strip()
     event["location"] = place(listed.get("location"))
