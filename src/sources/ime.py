@@ -10,8 +10,6 @@ from ..common.tz import IST
 
 BASE = "https://indianmusicexperience.org/"
 LISTING = BASE + "events/"
-# The listing's JSON-LD has dates only; each event's iCal export has the times
-ICAL_LINK = re.compile(r"\?method=ical&(?:amp;|#038;)?id=(\d+)")
 # The page shows "5:00 pm - 7:00 pm", or just "5:00 pm" when no end is set
 START_ONLY = re.compile(r"\d{1,2}:\d{2} ?[ap]m", re.I)
 # Divi page-builder shortcodes leak into the iCal description
@@ -24,58 +22,67 @@ MUSEUM = {
 
 
 def get(session, url):
-    return session.get(url, headers=USER_AGENT_HEADERS, timeout=30).text
+    response = session.get(url, headers=USER_AGENT_HEADERS, timeout=30)
+    response.raise_for_status()
+    return response.text
 
 
 def upcoming(page):
+    listed = [i for i in JsonLdExtractor().extract(page) if i.get("@type") == "Event"]
+    # Past events stay listed, so an empty listing means the page changed
+    if not listed:
+        raise ValueError(f"No events in {LISTING}")
     today = datetime.now(IST).date().isoformat()
-    for item in JsonLdExtractor().extract(page):
-        if item.get("@type") != "Event":
-            continue
-        url = (item.get("offers") or {}).get("url")
-        if not url:
-            print(f"[IME] No url for {item.get('name')}")
-        elif (item.get("endDate") or item.get("startDate") or "") >= today:
-            yield url, item
+    # Skip past events before fetching their pages
+    return [(i["url"], i) for i in listed if i["endDate"] >= today]
 
 
 def place(listed):
-    # Museum events leave the place blank or name it "IME Museum"
-    if not isinstance(listed, dict) or listed.get("name", "").strip() in ("", "IME Museum"):
+    # Museum events sometimes leave the place blank
+    name = (listed.get("name") or "").strip()
+    if not name:
         return MUSEUM
-    return {"@type": "Place", "name": listed["name"].strip(), "address": listed.get("address", "")}
+    return {"@type": "Place", "name": name, "address": listed.get("address") or ""}
 
 
 def make_event(session, url, listed):
-    page = get(session, url)
-    match = ICAL_LINK.search(page)
-    if not match:
+    page = BeautifulSoup(get(session, url), "html.parser")
+    link = page.select_one("a[href*='method=ical']")
+    if not link:
         print(f"[IME] No calendar link: {url}")
         return None
-    found = icalendar.convert_ics_text_to_events(get(session, f"{BASE}?method=ical&id={match[1]}"))
+    # The listing's JSON-LD has dates only; the iCal export has the times
+    found = icalendar.convert_ics_text_to_events(get(session, link["href"]))
     if not found:
+        print(f"[IME] No upcoming event in calendar: {url}")
         return None
     event = found[0]
     # The iCal UID is a hash, so let the id come from the url slug
     event.pop("@id", None)
     # CATEGORIES hold internal labels like BIRDSONG and External
     event.pop("keywords", None)
-    # Bios mention languages, so leave the guess to the languages processor
+    # The iCal helper takes "Kannada and Hindi poetry" in a bio as the language
     event.pop("inLanguage", None)
     # Without an end on the page, the iCal end is a filler 7 PM; SchemaFixer sets one
-    shown = BeautifulSoup(page, "html.parser").select_one(".mec-single-event-time .mec-events-abbr")
-    if shown and START_ONLY.fullmatch(shown.get_text(strip=True)):
-        event.pop("endDate", None)
+    shown = page.select_one(".mec-single-event-time .mec-events-abbr")
+    same_day = event["startDate"][:10] == event["endDate"][:10]
+    if shown and same_day and START_ONLY.fullmatch(shown.get_text(strip=True)):
+        event.pop("endDate")
     event["url"] = url
     event["description"] = SHORTCODE.sub("", event["description"]).strip()
-    event["location"] = place(listed.get("location"))
+    event["location"] = place(listed.get("location") or {})
     return event
 
 
 def events():
     session = get_cached_session()
-    return [
-        event
-        for url, listed in upcoming(get(session, LISTING))
-        if (event := make_event(session, url, listed))
-    ]
+    result = []
+    for url, listed in upcoming(get(session, LISTING)):
+        try:
+            event = make_event(session, url, listed)
+        except Exception as e:
+            print(f"[IME] Skipping {url}: {type(e).__name__}: {e}")
+            continue
+        if event:
+            result.append(event)
+    return result
