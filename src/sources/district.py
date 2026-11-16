@@ -43,7 +43,10 @@ def post(session, body):
     r = session.post(URL, headers=HEADERS, json=body, timeout=30)
     describe("requests", r)
     try:
-        return r.json()
+        data = r.json()
+        if "EDSResponse" in data:
+            return data
+        log("no EDSResponse:", r.text[:500])
     except ValueError:
         log("non-JSON body:", r.text[:500])
     r = curl_cffi.post(
@@ -51,10 +54,14 @@ def post(session, body):
     )
     describe("curl_cffi", r)
     try:
-        return r.json()
+        data = r.json()
     except ValueError:
         log("non-JSON body:", r.text[:500])
         raise
+    if "EDSResponse" not in data:
+        log("no EDSResponse:", r.text[:500])
+        raise RuntimeError(f"District returned {r.status_code} without EDSResponse")
+    return data
 
 
 def pages(session, limit=300):

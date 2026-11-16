@@ -85,6 +85,20 @@ def test_post_raises_when_both_clients_are_blocked(monkeypatch):
         district.post(FakeSession([blocked]), {})
 
 
+def test_post_falls_back_when_eds_response_missing(monkeypatch, capsys):
+    denied = FakeResponse('{"error": "unauthorized"}', 401)
+    monkeypatch.setattr(district.curl_cffi, "post", lambda *a, **kw: discovery(2))
+    assert district.post(FakeSession([denied]), {})["EDSResponse"]["has_more"] is False
+    assert "no EDSResponse:" in capsys.readouterr().err
+
+
+def test_post_raises_when_eds_response_missing(monkeypatch):
+    denied = FakeResponse('{"error": "unauthorized"}', 401)
+    monkeypatch.setattr(district.curl_cffi, "post", lambda *a, **kw: denied)
+    with pytest.raises(RuntimeError):
+        district.post(FakeSession([denied]), {})
+
+
 def test_page_event_reads_json_ld():
     session = FakeSession(pages={WORKSHOP: (FIXTURES / "modular-type-workshop.html").read_text()})
     event = district.page_event(session, WORKSHOP)
