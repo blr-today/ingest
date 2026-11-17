@@ -28,6 +28,7 @@ wherever necessary.
 - Creative Mornings BLR
 - Gully Tours
 - HighApe.com
+- Indian Music Experience
 - Musuem of Art & Photography
 - Max Mueller Bhavan
 - Zomato Insider
