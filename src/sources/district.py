@@ -4,6 +4,7 @@ import os
 import sys
 import tempfile
 import time
+import uuid
 
 import curl_cffi
 import requests
@@ -16,6 +17,8 @@ CITIES = ("Bengaluru", "Bangalore")
 HEADERS = {
     "content-type": "application/json",
     "x-guest-token": "1212",
+    # The API answers 401 "Device id not found" without one
+    "x-device-id": str(uuid.uuid4()),
     "x-app-type": "ed_web",
     "x-available-tabs": "events",
     "x-user-lat": str(LAT),

@@ -66,6 +66,10 @@ def test_pages_load_more_until_done(capsys):
     assert "[DISTRICT] page 1 has_more False" in capsys.readouterr().err
 
 
+def test_device_id_is_sent():
+    assert len(district.HEADERS["x-device-id"]) == 36
+
+
 def test_pages_stop_at_limit():
     session = FakeSession([discovery(1), discovery(1)])
     assert len(list(district.pages(session, limit=2))) == 2
