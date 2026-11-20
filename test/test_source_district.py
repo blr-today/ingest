@@ -66,6 +66,22 @@ def test_pages_load_more_until_done(capsys):
     assert "[DISTRICT] page 1 has_more False" in capsys.readouterr().err
 
 
+def test_pages_retry_a_timed_out_page(monkeypatch, capsys):
+    session = FakeSession([discovery(1), discovery(2)])
+    replies = [ConnectionError("timeout"), None, None]
+
+    def flaky(session, body):
+        reply = replies.pop(0)
+        if reply:
+            raise reply
+        return {"EDSResponse": session.post(None, json=body).json()["EDSResponse"]}
+
+    monkeypatch.setattr(district, "post", flaky)
+    monkeypatch.setattr(district.time, "sleep", lambda s: None)
+    assert len(list(district.pages(session))) == 2
+    assert "retrying after ConnectionError" in capsys.readouterr().err
+
+
 def test_device_id_is_sent():
     assert len(district.HEADERS["x-device-id"]) == 36
 

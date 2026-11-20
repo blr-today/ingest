@@ -67,10 +67,21 @@ def post(session, body):
     return data
 
 
+def retry(session, body, tries=3):
+    for attempt in range(1, tries + 1):
+        try:
+            return post(session, body)
+        except Exception as e:
+            if attempt == tries:
+                raise
+            log("retrying after", repr(e)[:200])
+            time.sleep(10 * attempt)
+
+
 def pages(session, limit=300):
     body = {"location": LOCATION, "layout_type": "events_home_v2"}
     for page in range(limit):
-        response = post(session, body)["EDSResponse"]
+        response = retry(session, body)["EDSResponse"]
         log("page", page, "has_more", response.get("has_more"))
         yield response
         if not response.get("has_more"):
