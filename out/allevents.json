@@ -164,6 +164,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "APR Amplified 2026 — Adarsh Palm Retreat Festival",
+    "image": "https://cdn-az.allevents.in/events2/banners/667ce785083aade8b2a435ef5a0fe5c914161921da25778991458942ac266dbb-rimg-w1200-h457-dc782868-gmir?v=1794155622",
+    "startDate": "2026-11-22T10:00:00+05:30",
+    "endDate": "2026-11-22T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/apr-amplified-2026-adarsh-palm-retreat-festival/200031002063244",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Adarsh Palm Retreat Phase 3, Devarabisanahalli, Bellandur, Outer Ring Road, Bangalore, India 560103, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sobha Iris Apartments, 4004, Devarabisanahalli, Bengaluru 560103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.93107",
+        "longitude": "77.68577"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "APR Amplified is the first annual festival of Adarsh Palm Retreat Condominiums Phase 3 (APRCP3) in Bellandur, Bangalore — built by residents, for residents of Adarsh Palm Retreat apartments and villas and their families.\n\nSunday 22 November 2026, 10 AM to 10 PM, inside the APR Phase 3 grounds:\n• 10",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "APR Amplified",
+        "url": "https://allevents.in/org/apr-amplified/28376775",
+        "description": "The first annual festival of Adarsh Palm Retreat (APR) Phase 3, Bellandur, Bangalore. Sun 22 Nov 2026, 10 AM–10 PM."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Candlelight: Best of Bollywood at DoubleTree Whitefield | Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/de96f10d7bf32efa61aac383eaabf1a98661038a26701df986199c2c667281cf-rimg-w768-h768-dcf8c808-gmir?v=1794315483",
@@ -228,6 +264,42 @@
         "@type": "Organization",
         "name": "EV Green Ads & Leads",
         "url": "https://allevents.in/org/ev-green-ads-and-leads/28381131"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Friday Night Unplugged @ Urban Solace feature MIXTAPE - Vidya, Pearl &amp; Eric",
+    "image": "https://cdn-az.allevents.in/events10/banners/ede431fb03db131c710231ebc0346c381f1a07c24909a09f65979a89df904839-rimg-w1200-h664-dcf8f8f8-gmir?v=1795071881",
+    "startDate": "2026-12-04T20:00:00+05:30",
+    "endDate": "2026-12-04T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/friday-night-unplugged-urban-solace-feature-mixtape-vidya-pearl-and-eric/200031077280941",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "32, Annaswamy Mudaliar Road, Bengaluru, India 560042, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12 Annaswamy Mudaliar Road, Sivan Chetty Garden, Halasuru, Bengaluru 560042, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.98154",
+        "longitude": "77.6156"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "FRIDAY NIGHT UNPLUGGED @ URBAN SOLACE\nFeatures: MIXTAPE - Vidya, Pearl & Eric\nA Bangalore based live trio | Jazz • Pop • Rock • R&B • Bossa Nova\nFriday, 4th December 2026, 8 pm  \nENTRY FREE\n\nMeet Mixtape:\nThree friends, one shared love for music, and a repertoire that refuses to stay in just one gen",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Urban Solace - Cafe for the Soul",
+        "url": "https://allevents.in/org/urban-solace-cafe-for-the-soul/338401",
+        "description": "Location: No 32, Annaswamy Mudaliar Road, (between Tamil Sangam and FotoFlash, opposite Ulsoor Lake)  Phone: 255.536.56  Mon - Sun: 11:00 am - 11:00 pm"
       }
     ]
   },
@@ -298,41 +370,6 @@
         "@type": "MusicGroup",
         "name": "Yuvan Shankar Raja",
         "url": "https://allevents.in/performer/yuvan-shankar-raja"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Madhubanti Bagchi in Bengaluru",
-    "image": "https://cdn-az.allevents.in/events2/banners/20a88400-8562-11f1-9be5-4bebf44b4980-rimg-w1200-h675-dc300815-gmir.webp?v=1784679192",
-    "startDate": "2026-11-21T19:00:00+05:30",
-    "endDate": "2026-11-21T21:00:00+05:30",
-    "url": "https://allevents.in/bangalore/madhubanti-bagchi-in-bengaluru/3300030436751613",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Phoenix Marketcity",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Phoenix Marketcity, Bangalore, KA, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.971598625183",
-        "longitude": "77.594566345215"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🎤 Experience Madhubanti Bagchi Live at Phoenix Marketcity on Saturday, November 21, 2026! 🎤\nThe countdown has begun! Madhubanti Bagchi is taking over Phoenix Marketcity on Saturday, November 21, 2026, and with hits like Aaj Ki Raat (From \"Stree 2\"), Barbaadiyan and Shayad (Film Version) - From \"L",
-    "performer": [
-      {
-        "@type": "MusicGroup",
-        "name": "Madhubanti Bagchi",
-        "url": "https://allevents.in/performer/madhubanti-bagchi"
       }
     ]
   },
@@ -1755,6 +1792,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Pages &amp; Personalities: A Journaling Workshop",
+    "image": "https://cdn-az.allevents.in/events5/banners/5bb2be60-e0d6-11f1-a758-01572583b4d0-rimg-w1200-h600-dcf8f8e8-gmir.jpg?v=1794734669",
+    "startDate": "2026-12-05T11:00:00+05:30",
+    "endDate": "2026-12-05T12:30:00+05:30",
+    "url": "https://allevents.in/bangalore/pages-and-personalities-a-journaling-workshop/3900031051471929",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Namma Ashram: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9602",
+        "longitude": "77.7327"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Find your journaling personality. A calm, creative 90-minute workshop to close 2026 and start 2027 on paper, with psychology-backed techniques made for how your mind works.Not everyone journals the same way. Some of us plan every line, some of us doodle, and some of us freeze at a blank page. All of",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-15",
+        "availabilityEnds": "2026-12-05T12:30:00+05:30",
+        "validFrom": "2026-11-15",
+        "url": "https://allevents.in/bangalore/pages-and-personalities-a-journaling-workshop/3900031051471929"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "DOOMSDAY: The Marvel Memory Test",
     "image": "https://cdn-az.allevents.in/events4/banners/1fcc9080-e0f7-11f1-90c9-776e6d117298-rimg-w1200-h600-dc080808-gmir.jpg?v=1794748742",
     "startDate": "2026-12-05T13:00:00+05:30",
@@ -1905,6 +1981,45 @@
         "availabilityEnds": "2026-11-28T12:30:00+05:30",
         "validFrom": "2026-11-16",
         "url": "https://allevents.in/bangalore/chesscafe/3900031057375348"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Aadat Si Ho Gayi Thi",
+    "image": "https://cdn-az.allevents.in/events3/banners/7bb9fa30-e1fc-11f1-ab69-a76145f05a1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794860994",
+    "startDate": "2026-12-18T15:30:00+05:30",
+    "endDate": "2026-12-18T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/aadat-si-ho-gayi-thi/3900031059016755",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Alliance Francaise: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "108, Thimmaiah Road, Vasanth Nagar, Opp.U.N.I. Building, Bengaluru, Karnataka 560052, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9914",
+        "longitude": "77.5969"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Aadat Si Ho Gayi Thi, is a psychlogical thriller in two acts. Every office has someone you've stopped seeing. Aman sits by the window column, arrives before everyone and leaves after everyone, and has spent four years becoming part of the furniture. He quotes Ghalib and Jaun Elia under his breath. N",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-16",
+        "availabilityEnds": "2026-12-18T17:30:00+05:30",
+        "validFrom": "2026-11-16",
+        "url": "https://allevents.in/bangalore/aadat-si-ho-gayi-thi/3900031059016755"
       }
     ]
   },
@@ -2379,6 +2494,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rishikesh Wellness Retreat",
+    "image": "https://cdn-az.allevents.in/events3/banners/a59f2e30-e344-11f1-8fb8-85ebc5aef943-rimg-w1200-h600-dc384848-gmir.jpg?v=1795001940",
+    "startDate": "2026-12-18T11:00:00+05:30",
+    "endDate": "2026-12-21T11:00:00+05:30",
+    "url": "https://allevents.in/bangalore/rishikesh-wellness-retreat/3900031073123900",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Hebbal Junction: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infront of Nandhini Milk World, Shop No. 1, Police Station Road, 3rd Main Road, Bayanna Layout, Hebbal, Bengaluru, Karnataka 560024, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0388",
+        "longitude": "77.5897"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "All inclusive from Delhi to Rishikesh (To and Fro) 3 Days of Letting Go A gentle journey from presence to release, healing & renewal Day 1: Arriving into PresenceSlow down  Become present Connect within yourself1:00 PM: Wholesome Sattvic Lunch 4:30 PM: Yoga & Mindful Movement5:00 PM: Tea break6:00 P",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-18",
+        "availabilityEnds": "2026-12-21T11:00:00+05:30",
+        "validFrom": "2026-11-18",
+        "url": "https://allevents.in/bangalore/rishikesh-wellness-retreat/3900031073123900"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "SHUFFLING SUNDAY Bollywood Punjabi Night ft DJMARK",
     "image": "https://cdn-az.allevents.in/events3/banners/f7d63d10-e344-11f1-8fb8-85ebc5aef943-rimg-w1200-h600-dc080808-gmir.jpg?v=1795002078",
     "startDate": "2026-11-22T19:30:00+05:30",
@@ -2534,6 +2688,45 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Winter culinary camp",
+    "image": "https://cdn-az.allevents.in/events2/banners/8bc21950-e40c-11f1-9ce7-a56cede3c946-rimg-w1200-h600-dcf8e8e8-gmir.jpg?v=1795087796",
+    "startDate": "2026-12-21T10:00:00+05:30",
+    "endDate": "2026-12-21T14:00:00+05:30",
+    "url": "https://allevents.in/bangalore/winter-culinary-camp/3900031078959956",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Doughpamine Lab: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "97, 3rd Class, AECS Layout - A Block, Brookefield, Bengaluru, Karnataka 560043, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9648",
+        "longitude": "77.7117"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Three days of baking, cooking and discovering the magic of the kitchen.This winter, give your child the chance to step into the kitchen, get hands on and discover what they can create.From Smores cookies and Hot Chocolate Bombs to a festive Christmas cake, fresh handmade pasta and lasagne, every day",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-19",
+        "availabilityEnds": "2026-12-21T14:00:00+05:30",
+        "validFrom": "2026-11-19",
+        "url": "https://allevents.in/bangalore/winter-culinary-camp/3900031078959956"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "In No Particular Order",
     "image": "https://cdn-az.allevents.in/events5/banners/98843e20-e40c-11f1-9ce7-a56cede3c946-rimg-w1200-h600-dc180818-gmir.jpg?v=1795087817",
@@ -2575,25 +2768,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Fun Boardgames Meetup",
-    "image": "https://cdn-az.allevents.in/events2/banners/7289fcd0-e46d-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dcf8f8b8-gmir.jpg?v=1795129414",
-    "startDate": "2026-11-21T17:00:00+05:30",
-    "endDate": "2026-11-21T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900031082941735",
+    "image": "https://cdn-az.allevents.in/events2/banners/7289fcd0-e46d-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dcf8f8b8-gmir.jpg?v=1795129420",
+    "startDate": "2026-11-22T17:00:00+05:30",
+    "endDate": "2026-11-22T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900031082941841",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Buddiezz Cafe: Bengaluru",
+      "name": "Chelvies Coffee Roastery: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "4th Floor, 614, 80 Feet Road, Next to Glen Bake House, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "streetAddress": "Chelvies Roastery, Main Road, NAL Colony, Jeevan Bima Nagar, Bengaluru, Karnataka 560075, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.938",
-        "longitude": "77.6261"
+        "latitude": "12.9678",
+        "longitude": "77.6528"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -2604,9 +2797,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-19",
-        "availabilityEnds": "2026-11-21T19:00:00+05:30",
+        "availabilityEnds": "2026-11-22T19:00:00+05:30",
         "validFrom": "2026-11-19",
-        "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900031082941735"
+        "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900031082941841"
       }
     ]
   },
@@ -2646,6 +2839,45 @@
         "availabilityEnds": "2026-12-05T22:30:00+05:30",
         "validFrom": "2026-11-20",
         "url": "https://allevents.in/bangalore/closer-a-stand-up-comedy-show-by-vivek-kapruwan/3900031088497347"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dance Workshop - GALI GALI",
+    "image": "https://cdn-az.allevents.in/events1/banners/e4b7ee10-e536-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795215935",
+    "startDate": "2026-11-28T13:00:00+05:30",
+    "endDate": "2026-11-28T15:00:00+05:30",
+    "url": "https://allevents.in/bangalore/dance-workshop-gali-gali/3900031090055935",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Puhor Studio: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17th, CMH Road, Halasuru, laksmipuram, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9783",
+        "longitude": "77.6331"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "GALI GALI ft POOJAPooja is bringing her signature energy, killer moves and a banger choreo to GALI GALI A viral hit, reimagined with moves for ALL dance levels. Trust us, this one's gonna hit different!Get ready for GALI GALI another powerful choreography, another chance to learn, connect and create",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-20",
+        "availabilityEnds": "2026-11-28T15:00:00+05:30",
+        "validFrom": "2026-11-20",
+        "url": "https://allevents.in/bangalore/dance-workshop-gali-gali/3900031090055935"
       }
     ]
   },
@@ -3175,118 +3407,63 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Human Library Bengaluru",
-    "image": "https://cdn2.allevents.in/thumbs/thumb686c9e4ebd3e5.jpg",
-    "startDate": "2026-11-21T18:00:00+05:30",
-    "endDate": "2026-11-21T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/human-library-bengaluru-tickets/80001291956113",
+    "name": "Startup Pitches by CEDAT",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af6e8eee34b6.jpg",
+    "startDate": "2026-12-02T18:00:00+05:30",
+    "endDate": "2026-12-02T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001596059398",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Jeevanam Yoga and Well-being Space",
+      "name": "Zieers Systems Pvt Ltd",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No.476, 2nd Floor, Shashwatha, 10th Main, Jeevan Bima Nagar Main Rd, near BSNL Office, Hal, HAL 3rd Stage, Indiranagar, Bengaluru, Karnataka 560075, India",
-        "postalCode": "560075",
+        "streetAddress": "KLP Arcade, 5BC-938, 2nd Cross Rd, Babusabpalya, Hennur Gardens, Bengaluru, Karnataka 560113, India",
+        "postalCode": "560113",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9689588",
-        "longitude": "77.64831850000002"
+        "latitude": "13.0226367",
+        "longitude": "77.64897030000002"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Welcome to the Human Library: Where Every Story MattersThe Human Library is a safe guided space designed for meaningful non-judgmental conversations. Through thoughtful prompts we invite you to explore diverse perspectives life stories and personal memories in an open and respectful setting.Note: Th",
+    "description": "Building a startup? Or already scaling one?Join us for Startup Pitches — a relaxed yet impactful event where founders take the stage to share their ideas, products and journeys.This event is all about real pitches, real feedback and real connections.Founders will present their startups in a supporti",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-11-21T20:00:00+05:30",
-        "validFrom": "2026-11-16",
-        "lowPrice": "400.00",
-        "highPrice": "400.00",
-        "price": "400.00",
-        "url": "https://allevents.in/bangalore/human-library-bengaluru-tickets/80001291956113"
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-12-02T19:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001596059398"
       },
       {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-11-21T20:00:00+05:30",
-        "validFrom": "2026-11-16",
-        "price": "400.00",
-        "url": "https://allevents.in/bangalore/human-library-bengaluru-tickets/80001291956113",
+        "availabilityStarts": "2026-11-02",
+        "availabilityEnds": "2026-12-02T19:00:00+05:30",
+        "validFrom": "2026-11-02",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001596059398",
         "availability": "https://schema.org/InStock",
-        "name": "Early Bird Female"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-11-21T20:00:00+05:30",
-        "validFrom": "2026-11-16",
-        "price": "400.00",
-        "url": "https://allevents.in/bangalore/human-library-bengaluru-tickets/80001291956113",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Male"
+        "name": "Standard Ticket"
       }
     ],
     "organizer": [
       {
         "@type": "Organization",
-        "name": "Human Library Bengaluru",
-        "url": "https://allevents.in/org/human-library-bengaluru/25067310"
+        "name": "CEDAT ",
+        "url": "https://allevents.in/org/cedat/25336161"
       }
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Founders X Investors Pitch | 21st November | Banglore | Fortis Origin",
-    "url": "https://all.events/go/80001656609063",
-    "description": "The Founders X Investors Pitch | Banglore | 21st November Founders X Investors – Flagship Pitch Series We're back with our flagship Founders X Investors Pitch Event — a high-impact platform built to",
-    "image": [
-      "https://cdn2.allevents.in/thumbs/thumb6ae5d1783bfdc.jpg"
-    ],
-    "startDate": "2026-11-21T15:00:00.000Z",
-    "endDate": "2026-11-21T18:00:00.000Z",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "IDFC FIRST Bank - Koramangala Branch, 80 Feet Road, 6th Block, Koramangala, Bengaluru, Karnataka, India",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Startup Lounge IDFC bank Fortius Origin, No. 7, 80 Feet Road, 3rd Block, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.938433,
-        "longitude": 77.6258217
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Founders",
-      "url": "https://allevents.in/org/the-founders/25499127"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "lowPrice": 699,
-      "highPrice": 14999,
-      "priceCurrency": "INR",
-      "url": "https://all.events/go/80001656609063",
-      "availability": "https://schema.org/InStock",
-      "validFrom": "2026-11-21T15:00:00.000Z"
-    }
   },
   {
     "@context": "https://schema.org",
@@ -3355,66 +3532,6 @@
         "@type": "Organization",
         "name": "STRANGERSTHINGS_BLR Stranger",
         "url": "https://allevents.in/org/strangersthings_blr-stranger/28380604"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bengaluru Potters Market 2026 - Free Entry",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6afff86ccbd66.jpg",
-    "startDate": "2026-12-04T10:30:00+05:30",
-    "endDate": "2026-12-06T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Karnataka Chitrakala Parishath",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Art Complex, 1, Kumarakrupa Rd, near The Lalit Hotel, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.971598625183105",
-        "longitude": "77.59456634521484"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Join us at the 5th edition of the Bengaluru Potters Market and discover the artistry of 30+ talented studio potters from across India!Immerse yourself in a captivating array of handmade ceramics, from exquisite tableware and home décor to expressive sculptures and unique, one-of-a-kind pieces.Whethe",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-20",
-        "availabilityEnds": "2026-12-06T19:00:00+05:30",
-        "validFrom": "2026-11-20",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-20",
-        "availabilityEnds": "2026-12-06T19:00:00+05:30",
-        "validFrom": "2026-11-20",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026",
-        "availability": "https://schema.org/InStock",
-        "name": "Bengaluru Potters Market - 4th to 6th Dec, 2026 "
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Bengaluru Studio Potters Market",
-        "url": "https://allevents.in/org/bengaluru-studio-potters-market/25143717"
       }
     ]
   },
@@ -3953,6 +4070,67 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "House of Sobers",
+    "image": "https://cdn-az.allevents.in/events2/banners/a4a1bd48c12beebc43d1c8ee8fe75a52a50b62872dd5899926d15c6c3631b39e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1786085337",
+    "startDate": "2026-08-14T19:30:00+05:30",
+    "endDate": "2026-11-27T19:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Buddiezz Cafe - Board Games Cafe",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "614 80 Feet Road",
+        "postalCode": "560095",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9380577",
+        "longitude": "77.6262773"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Join in the action.Bond over Boardgames.\nThere are dedicated game masters to help everyone find a suitable game, form groups and teach rules",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-07",
+        "availabilityEnds": "2026-11-27T19:00:00+05:30",
+        "validFrom": "2026-08-07",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-08-07",
+        "availabilityEnds": "",
+        "validFrom": "2026-08-07",
+        "url": "https://allevents.in/bengaluru/house-of-sobers/100001996773330784",
+        "price": 0,
+        "name": "On-the-spot Payment"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "HSR meetups",
+        "url": "https://allevents.in/org/hsr-meetups/25535050"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Startup Stories by Bengaluru Founders",
     "image": "https://cdn-az.allevents.in/events7/banners/75cf21b40df057374573786682ff5518969c778ff20e936d0a34dfc33ab6133a-rimg-w1200-h900-dc080808-gmir.jpg?v=1792041595",
     "startDate": "2026-11-26T18:00:00+05:30",
@@ -4133,6 +4311,68 @@
         "name": "Farmers for Forests",
         "url": "https://allevents.in/org/farmers-for-forests/28369153",
         "description": "F﻿armers for Forests (F4F) is a non-profit that works with smallholder farmers to grow and protect India's tree cover. We support farmers in planting trees alongside their crops, work with communities to protect forests, and run Biodiversity Hubs in Pune, Bengaluru and Chennai."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Namma Bengaluru Startups Meetup by CEDAT",
+    "image": "https://cdn-az.allevents.in/events2/banners/f7da21aa7680e168af0408faaa7570a2675a2ee874048e3ddcbb7bf36b114e26-rimg-w1200-h900-dcf8f8f8-gmir.jpg?v=1794271635",
+    "startDate": "2026-12-16T16:00:00+05:30",
+    "endDate": "2026-12-16T18:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Karnataka Digital Economy Mission (KDEM)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "27th Main Road",
+        "postalCode": "560102",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9201546",
+        "longitude": "77.65109369999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Namma Bengaluru Startups Circle is a gathering for people who are creating, building, and growing businesses.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-12-16T18:00:00+05:30",
+        "validFrom": "2026-11-10",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-10",
+        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
+        "price": 0,
+        "name": "Namma Bengaluru Startups Meetup by CEDAT"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
       }
     ]
   },
