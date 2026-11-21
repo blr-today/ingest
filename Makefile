@@ -110,7 +110,6 @@ fetch: out/allevents.json \
  out/pumarun.json \
  out/hsrmeetups.json \
  out/bbb.json \
- out/tpcc.json \
  out/skillboxes.json \
  out/thewhitebox.json \
  out/timeandspace.json \
