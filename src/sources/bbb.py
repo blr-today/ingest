@@ -6,6 +6,7 @@ from email.utils import parsedate_to_datetime
 from urllib.parse import parse_qs, urljoin, urlparse
 
 import cleanurl
+import requests
 from bs4 import BeautifulSoup
 from src.common import maps
 from src.common.session import get_cached_session
@@ -75,7 +76,11 @@ def amounts(text):
 
 def resolve(session, url):
     for _ in range(5):
-        res = session.get(url, allow_redirects=False, timeout=30)
+        try:
+            res = session.get(url, allow_redirects=False, timeout=30)
+        except requests.RequestException as e:
+            log(f"Could not resolve {url}: {type(e).__name__}")
+            break
         if res.status_code not in (301, 302, 303, 307, 308):
             break
         url = urljoin(url, res.headers["location"])

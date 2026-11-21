@@ -94,6 +94,14 @@ def test_resolve_follows_redirects_and_consent():
     assert bbb.resolve(session, "https://maps.app.goo.gl/c") == "https://www.google.com/maps/place/X"
 
 
+def test_resolve_keeps_unreachable_links():
+    def get(url, **kwargs):
+        raise bbb.requests.ConnectionError("no dns")
+
+    session = SimpleNamespace(get=get)
+    assert bbb.resolve(session, "https://example.com/") == "https://example.com/"
+
+
 def test_event_date_rolls_year_forward():
     assert bbb.event_date(picks(month="10", day="11"), date(2026, 10, 4)) == date(2026, 10, 11)
     assert bbb.event_date(picks(month="1", day="18"), date(2026, 10, 4)) == date(2027, 1, 18)
