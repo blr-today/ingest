@@ -8,8 +8,9 @@ START_TS := $(shell date +"%Y-%m-%d")
 
 .DEFAULT_GOAL := all
 
+# Falls back to an empty output when $1 was never committed, so one source can't stop the build
 define restore-file
-	(echo "FAIL $1" && git checkout -- $1 && echo "RESTORED $1")
+	(echo "FAIL $1"; if git checkout -- $1 2>/dev/null; then echo "RESTORED $1"; else echo "EMPTY $1"; $(if $(filter %.json,$1),echo '[]',true) > $1; fi)
 endef
 
 out/%.json:
@@ -41,7 +42,7 @@ out/underline.json: out/underline.jsonnet
 out/tpcc.json: out/tpcc.jsonnet
 
 out/allevents.txt:
-	$(CURL_CHROME) --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
+	-$(CURL_CHROME) --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
 	$(CURL_CHROME) --silent --cookie /tmp/allevents.cookies --request POST \
 	  --url https://allevents.in/api/index.php/categorization/web/v1/list \
 	  --header 'Referer: https://allevents.in/bangalore/all' \
@@ -67,8 +68,8 @@ out/cksl.ics:
 	wget -q https://calendar.google.com/calendar/ical/c_0tfecbctgj9m3ei54jihee4u0c%40group.calendar.google.com/public/basic.ics -O $@ || $(call restore-file,$@)
 
 out/te.jsonnet:
-	token=$$($(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token') && \
-	$(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H "Authorization: Bearer $$token" --data-raw '{"flag":"upcoming"}' --output $@
+	(token=$$($(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token') && \
+	$(CURL_CHROME) --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H "Authorization: Bearer $$token" --data-raw '{"flag":"upcoming"}' --output $@) || $(call restore-file,$@)
 
 out/underline.jsonnet:
 	wget -q "https://underline.center/discourse-post-event/events.json?include_details=true&order=desc&after=$(START_TS)" -O $@ || $(call restore-file,$@)
