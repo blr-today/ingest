@@ -97,7 +97,6 @@ fetch: out/allevents.json \
  out/sofar.json \
  out/bluetokai.json \
  out/gullytours.json \
- out/tonight.json \
  out/creativemornings.json \
  out/adidas.json \
  out/ticketnew/cinemas.csv \
