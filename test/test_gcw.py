@@ -74,3 +74,10 @@ def test_walk_without_a_card_is_skipped(monkeypatch, capsys):
     serve(monkeypatch, ("<h3>Green by Design</h3>", "<h3>Green by Design II</h3>"))
     assert len(gcw.events()) == 2
     assert "[GCW] No booking card for Green by Design" in capsys.readouterr().out
+
+
+def test_walk_with_booking_not_open_is_skipped(monkeypatch, capsys):
+    pending = '<span class="btn btn-forest walk-book is-pending">Coming soon</span>'
+    serve(monkeypatch, ('<a class="btn btn-forest walk-book" href="https://forms.gle/aYNdytpyNiDNFHgeA" target="_blank" rel="noopener">Book now</a>', pending))
+    assert [w["name"] for w in gcw.events()] == ["Trees on Parade", "Botany in the Bazaar"]
+    assert "[GCW] Booking not open for Green by Design" in capsys.readouterr().out

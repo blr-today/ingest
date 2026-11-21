@@ -23,9 +23,13 @@ def form_url(session, short):
 def walk_cards(page):
     cards = {}
     for card in page.select("article.walk"):
+        book = card.select_one("a.walk-book[href]")
+        if not book:
+            print(f"[GCW] Booking not open for {text(card.find('h3'))}")
+            continue
         details = dict(zip(map(text, card.select("dt")), card.select("dd")))
         cards[text(card.find("h3"))] = {
-            "book": card.select_one("a.walk-book")["href"],
+            "book": book["href"],
             "price": text(details["Price"].select_one("span")),
             "inclusions": text(details.get("Inclusions")),
         }
