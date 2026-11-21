@@ -164,11 +164,16 @@ def is_other_city(product):
     return any(OTHER_CITY_RE.search(t) for t in texts)
 
 
-# Ignore "TO BE ANNOUNCED" and non-Bangalore events
+# Undated products (pottery, group bookings) have a single "Default Title" variant
+def is_dated(variant):
+    title = variant.title.lower()
+    return "to be announced" not in title and title != "default title"
+
+
+# Ignore undated and non-Bangalore events
 def filter_products(products):
     return filter(
-        lambda p: any("to be announced" not in v.title.lower() for v in p.variants)
-        and not is_other_city(p),
+        lambda p: any(is_dated(v) for v in p.variants) and not is_other_city(p),
         products,
     )
 

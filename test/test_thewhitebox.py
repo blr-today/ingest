@@ -45,9 +45,9 @@ def products():
     return {p.handle: p for p in shop.products()}
 
 
-def test_announced_products_are_kept():
+def test_dated_products_are_kept():
     kept = [p.handle for p in thewhitebox.filter_products(products().values())]
-    assert kept == ["cupids-soiree-singles-mixer-new", "pottery-workshop"]
+    assert kept == ["cupids-soiree-singles-mixer-new"]
 
 
 def test_variant_falls_back_to_first_title():
