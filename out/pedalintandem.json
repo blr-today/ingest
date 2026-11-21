@@ -89,6 +89,33 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
+    "name": "Trees About Town",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka",
+      "name": "Pedal in Tandem"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "treewalk",
+        "price": "1100"
+      }
+    ],
+    "startDate": "2026-12-12T08:00:00+05:30",
+    "endDate": "2026-12-12T10:00:00+05:30",
+    "description": "We often associate nature with travel, with forests and hill-stations and far-off places. But what if you could connect to nature here in the city? \nJoin us for a relaxed walk through the shaded streets of Indiranagar.\n We'll look up at tree canopies, peer closely at barks and roots, listen to interesting anecdotes \n and maybe rekindle our own memories of nature.\n{}",
+    "url": "https://www.pedalintandem.com/experiences/thePITStop/tree-walk",
+    "keywords": [
+      "thePITStop",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
     "name": "Workshop - Roadside fixes & Home maintenance",
     "sports": "Cycling",
     "location": {

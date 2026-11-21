@@ -1,44 +1,5 @@
 [
   {
-    "name": "GET TAGDA WITH TANVIE - Sisters & Misters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Tagda",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Tagda",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "799",
-        "priceCurrency": "INR"
-      }
-    ],
-    "image": "https://sistersinsweat.com/api/media/file/WhatsApp%20Image%202026-11-11%20at%209.07.20%20AM.jpeg",
-    "location": {
-      "name": "Tagda Raho , Usloor",
-      "address": "Gangadhar Chetty Rd, Rukmani Colony, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
-      "@type": "Place"
-    },
-    "startDate": "2026-11-21T08:00:00+05:30",
-    "endDate": "2026-11-21T10:00:00+05:30"
-  },
-  {
     "name": "SIS x WeWork  - SWEAT FEST | Yoga + HIIT + Dance",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Sweatfest",
@@ -153,7 +114,7 @@
       "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
       "@type": "Place"
     },
-    "startDate": "2026-11-29T07:30:00+05:30"
+    "startDate": "2026-11-29T07:00:00+05:30"
   },
   {
     "name": "Sisters & Misters Football Game Day",
@@ -422,45 +383,6 @@
       "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
       "@type": "Place"
     },
-    "startDate": "2026-11-22T06:45:00+05:30"
-  },
-  {
-    "name": "Run with the Sisters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "200",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Run",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20RUN%20WITH%20THE%20SISTERS%206_45-8_15%20AM%20_%20CUBBON%20PARK%20(2).webp",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
-      "@type": "Place"
-    },
     "startDate": "2026-11-29T06:45:00+05:30"
   },
   {
@@ -542,9 +464,9 @@
     "startDate": "2026-12-13T06:45:00+05:30"
   },
   {
-    "name": "Badminton Coaching-Beginner & Intermediate",
+    "name": "Run with the Sisters",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -562,23 +484,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Run-Session",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "425",
+        "price": "200",
         "priceCurrency": "INR"
       }
     ],
-    "sport": "Badminton",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
+    "sport": "Run",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20RUN%20WITH%20THE%20SISTERS%206_45-8_15%20AM%20_%20CUBBON%20PARK%20(2).webp",
     "location": {
-      "name": "Game Theory, Double Road, Indiranagar",
-      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+      "name": "Cubbon Park",
+      "address": "Sri Chamarajendra Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
       "@type": "Place"
     },
-    "startDate": "2026-11-21T11:00:00+05:30"
+    "startDate": "2026-12-20T06:45:00+05:30"
   },
   {
     "name": "Badminton Coaching-Beginner & Intermediate",
@@ -698,9 +620,9 @@
     "startDate": "2026-12-12T11:00:00+05:30"
   },
   {
-    "name": "Women's Football Coaching - Beginner",
+    "name": "Badminton Coaching-Beginner & Intermediate",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -718,23 +640,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Badminton-Combined",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "550",
+        "price": "425",
         "priceCurrency": "INR"
       }
     ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Bullring%2C%20Indira%20Nagar.webp",
+    "sport": "Badminton",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BADMINTON%20MATCH%20DAY%2011-1%20PM%20Game%20Theory%2C%20Double%20Road%20_%20EFF_14.webp",
     "location": {
-      "name": "Bullring, Indiranagar",
-      "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+      "name": "Game Theory, Double Road, Indiranagar",
+      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
       "@type": "Place"
     },
-    "startDate": "2026-11-21T07:00:00+05:30"
+    "startDate": "2026-12-19T11:00:00+05:30"
   },
   {
     "name": "Women's Football Coaching - Beginner",
@@ -852,6 +774,45 @@
       "@type": "Place"
     },
     "startDate": "2026-12-12T07:00:00+05:30"
+  },
+  {
+    "name": "Women's Football Coaching - Beginner",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Beginner-Football",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "550",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Bullring%2C%20Indira%20Nagar.webp",
+    "location": {
+      "name": "Bullring, Indiranagar",
+      "address": "The Bull Ring Arena, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-19T07:00:00+05:30"
   },
   {
     "name": "Basketball with the Sisters - Intermediate",
@@ -1046,45 +1007,6 @@
       "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
       "@type": "Place"
     },
-    "startDate": "2026-11-19T19:30:00+05:30"
-  },
-  {
-    "name": "Women's Beginner Football Coaching- Jakkur",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
-    "isAccessibleForFree": false,
-    "offers": [
-      {
-        "@type": "Offer",
-        "price": "500",
-        "priceCurrency": "INR"
-      }
-    ],
-    "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Jakkur.webp",
-    "location": {
-      "name": "The Shri Ram Universal School, Jakkur",
-      "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
-      "@type": "Place"
-    },
     "startDate": "2026-11-26T19:30:00+05:30"
   },
   {
@@ -1166,9 +1088,9 @@
     "startDate": "2026-12-10T19:30:00+05:30"
   },
   {
-    "name": "Sisters & Misters Football Game Day",
+    "name": "Women's Beginner Football Coaching- Jakkur",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -1186,23 +1108,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Football-Beginner-Gamelink",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "305",
+        "price": "500",
         "priceCurrency": "INR"
       }
     ],
     "sport": "Football",
-    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20Beginner%20-%20Jakkur.webp",
     "location": {
-      "name": "SUFC, Ulsoor",
-      "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
+      "name": "The Shri Ram Universal School, Jakkur",
+      "address": "The Shri Ram Universal School, Jakkur, Bengaluru, Karnataka",
       "@type": "Place"
     },
-    "startDate": "2026-11-20T07:00:00+05:30"
+    "startDate": "2026-12-17T19:30:00+05:30"
   },
   {
     "name": "Sisters & Misters Football Game Day",
@@ -1322,9 +1244,9 @@
     "startDate": "2026-12-11T07:00:00+05:30"
   },
   {
-    "name": "Women's Beginner Basketball Coaching",
+    "name": "Sisters & Misters Football Game Day",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Beginner",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -1342,23 +1264,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Beginner",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Day",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "550",
+        "price": "305",
         "priceCurrency": "INR"
       }
     ],
-    "sport": "Basketball",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BASKETBALL%20BEGINNER%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Football%20sisters%20%26%20misters%20game%20day%20SUFC%20ulsoor.webp",
     "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
+      "name": "SUFC, Ulsoor",
+      "address": "SUFC Gate No. 3, South United Football Club, RBANM's Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042",
       "@type": "Place"
     },
-    "startDate": "2026-11-18T20:00:00+05:30"
+    "startDate": "2026-12-18T07:00:00+05:30"
   },
   {
     "name": "Women's Beginner Basketball Coaching",
@@ -1478,9 +1400,9 @@
     "startDate": "2026-12-09T20:00:00+05:30"
   },
   {
-    "name": "Sisters & Misters Basketball Game Night - Bangalore",
+    "name": "Women's Beginner Basketball Coaching",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Basketball-Game-Night",
+    "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Beginner",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -1498,23 +1420,23 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Basketball-Game-Night",
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Basketball-Beginner",
     "isAccessibleForFree": false,
     "offers": [
       {
         "@type": "Offer",
-        "price": "495",
+        "price": "550",
         "priceCurrency": "INR"
       }
     ],
     "sport": "Basketball",
-    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BASKETBALL%20S%26M%20GAME%20NIGHT_%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BASKETBALL%20BEGINNER%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
     "location": {
       "name": "St. Joseph's Arts And Science College",
       "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
       "@type": "Place"
     },
-    "startDate": "2026-11-17T20:00:00+05:30"
+    "startDate": "2026-12-16T20:00:00+05:30"
   },
   {
     "name": "Sisters & Misters Basketball Game Night - Bangalore",
@@ -1632,5 +1554,200 @@
       "@type": "Place"
     },
     "startDate": "2026-12-08T20:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Basketball Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Basketball-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Basketball-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "495",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Basketball",
+    "image": "https://sistersinsweat.com/api/media/file/SPORT%20BASKETBALL%20S%26M%20GAME%20NIGHT_%208-9_30%20PM%20_%20ST.%20JOSEPHS%20UNIVERSITY%2C%20LANGFORD.webp",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College, #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens, Bengaluru, Karnataka 560027",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-15T20:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Sisters%20%26%20Misters%20footy%20game-night.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "@type": "Place"
+    },
+    "startDate": "2026-11-24T20:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Sisters%20%26%20Misters%20footy%20game-night.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-01T20:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Sisters%20%26%20Misters%20footy%20game-night.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-08T20:00:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Night - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-Misters-Bangalore-Football-Game-Night",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "305",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Sisters%20%26%20Misters%20footy%20game-night.webp",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-15T20:00:00+05:30"
   }
 ]
