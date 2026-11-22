@@ -233,6 +233,41 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Karthika Deepotsavam கார்த்திகை தீபத் திருவிழா కార్తీక దీపోత్సవం कार्तिक दीपोत्सव",
+    "image": "https://cdn-az.allevents.in/events7/banners/44bd011217821918a8855eda12234b4c9626745750d306c67db26e9b566dc595-rimg-w768-h960-dc080808-gmir?v=1795361731",
+    "startDate": "2026-11-24T00:00:00+05:30",
+    "url": "https://allevents.in/bangalore/karthika-deepotsavam-கார்த்திகை-தீபத்-திருவிழா-కార్తీక-దీపోత్సవం-कार्तिक-दीपोत्सव/200031098469531",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "22, Vidyapeeta Layout, Thyagaraja Nagar, Basavanagudi, , Bengaluru, India 560070, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "22, Thyagaraja NGR, Basavanagudi, Bengaluru 560028, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.93461",
+        "longitude": "77.57038"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "ಶ್ರೀ ಸಿದ್ಧಿ ಸುಬ್ರಹ್ಮಣ್ಯೇಶ್ವರ ದೇವಸ್ಥಾನ\nShri Siddhi Subrahmanyeshwara Devasthanam\n\nKarthika Deepotsavam \nಕಾರ್ತಿಕ ದೀಪೋತ್ಸವ\nகார்த்திகை தீபத் திருவிழா \nకార్తీక దీపోత్సవం \nकार्तिक दीपोत्सव\n\nTuesday 24-11-2026 ಮಂಗಳವಾರ\nಸಂಜೆ 5:50PM\n\nKarthika Deepotsavam will be celebrated on Tuesday, 24-11-2026. All devotees",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Shri Siddhi Subrahmanyeshwara Devasthanam",
+        "url": "https://allevents.in/org/shri-siddhi-subrahmanyeshwara-devasthanam/28300542",
+        "description": "Welcome to Om Shri Siddhi Subrahmanyeshwara Devasthanam, in Vidyapeeta Layout, Bengaluru."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Fred again.. in Bengaluru",
     "image": "https://cdn-az.allevents.in/events8/banners/f296a400-7578-11f1-a87c-552e322304e6-rimg-w1200-h675-dc02142f-gmir.webp?v=1782929775",
@@ -485,84 +520,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "SHAAM-E-RAFI-2",
-    "image": "https://cdn-az.allevents.in/events3/banners/0fbd2a10-dae4-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794080847",
-    "startDate": "2026-11-22T17:30:00+05:30",
-    "endDate": "2026-11-22T21:00:00+05:30",
-    "url": "https://allevents.in/bangalore/shaam-e-rafi-2/3900030635769030",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bharatiya Vidya Bhavan: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "43, Bharatiya Vidya Bhavan, Racecourse Road, Near Chalukya Hotel, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9844",
-        "longitude": "77.5826"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Come, let's celebrate Rafi Sahab on 22nd November at Bharatiya Vidya Bhavan, starting at 5:30 PM.The overwhelming love, encouragement, and support we received for Shaam-E-Rafi made it a truly memorable and successful musical evening. The response from all of you was so heartwarming that, on popular",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-08-31",
-        "availabilityEnds": "2026-11-22T21:00:00+05:30",
-        "validFrom": "2026-08-31",
-        "url": "https://allevents.in/bangalore/shaam-e-rafi-2/3900030635769030"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Ilakathamafiliya. A Telugu Stand-up Comedy Show",
-    "image": "https://cdn-az.allevents.in/events2/banners/9bc3e210-daf3-11f1-b0ad-5f038eaa9f1c-rimg-w1200-h600-dc4818b8-gmir.jpg?v=1794087525",
-    "startDate": "2026-11-22T16:00:00+05:30",
-    "endDate": "2026-11-22T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Underground Comedy Club: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Building No.480, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9338",
-        "longitude": "77.6193"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Dubai Shaik Meeku Dandam Pedthundhayya!Calling out all the telugus out there, this show is especially designed for you. Let us put together a scene and create a beautiful evening filled with laughter.Come let us laugh together.\"Navvadam Oka Bhogam\"",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-09-17",
-        "availabilityEnds": "2026-11-22T17:30:00+05:30",
-        "validFrom": "2026-09-17",
-        "url": "https://allevents.in/bangalore/ilakathamafiliya-a-telugu-stand-up-comedy-show/3900030710244812"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Silly Papa By Angad Singh Ranyal",
     "image": "https://cdn-az.allevents.in/events2/banners/dbe1dce0-d3e5-11f1-8288-c1a43ad99f69-rimg-w1200-h600-dc181858-gmir.jpg?v=1793311986",
@@ -643,25 +600,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "THE CHESS NEXUS",
-    "image": "https://cdn-az.allevents.in/events10/banners/363e0f10-e41c-11f1-9ce7-a56cede3c946-rimg-w1200-h600-dc989898-gmir.jpg?v=1795094530",
-    "startDate": "2026-11-22T15:00:00+05:30",
-    "endDate": "2026-11-22T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/the-chess-nexus/3900030974309107",
+    "image": "https://cdn-az.allevents.in/events10/banners/363e0f10-e41c-11f1-9ce7-a56cede3c946-rimg-w1200-h600-dc989898-gmir.jpg?v=1795094542",
+    "startDate": "2026-11-29T15:00:00+05:30",
+    "endDate": "2026-11-29T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/the-chess-nexus/3900030974310319",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Church Street Social: Bengaluru.",
+      "name": "Koramangala Social: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "46/1, Cobalt Building, Church Street, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "streetAddress": "Seventh Block, Plot 118, 80 Feet Road, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9751",
-        "longitude": "77.6044"
+        "latitude": "12.9355",
+        "longitude": "77.6141"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -672,9 +629,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-22T17:30:00+05:30",
+        "availabilityEnds": "2026-11-29T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/the-chess-nexus/3900030974309107"
+        "url": "https://allevents.in/bangalore/the-chess-nexus/3900030974310319"
       }
     ]
   },
@@ -753,45 +710,6 @@
         "availabilityEnds": "2026-12-06T20:30:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/geeth-barsaath/3900030976693458"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Veda Naada",
-    "image": "https://cdn-az.allevents.in/events3/banners/094844f0-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dc180808-gmir.jpg?v=1795130097",
-    "startDate": "2026-11-22T18:00:00+05:30",
-    "endDate": "2026-11-22T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/veda-naada/3900030976753551",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "NMKRV Mangala Mantapa: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayanagar 3rd Block, Byrasandra, Bengaluru, Karnataka 560011, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9319",
-        "longitude": "77.5813"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Veda Naada stands as the world's singular Vedic concert experience, dedicated to distilling the profound essence of the Vedas for a global audience. It intends to bridge the gap between ancient insight and contemporary life, ensuring these timeless truths are accessible to all, irrespective of human",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-22T20:30:00+05:30",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/veda-naada/3900030976753551"
       }
     ]
   },
@@ -909,6 +827,84 @@
         "availabilityEnds": "2026-12-13T21:00:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/kucch-bhi-ho-sakta-hai/3900030977006602"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "All that Matters",
+    "image": "https://cdn-az.allevents.in/events7/banners/92606650-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dce8e8d8-gmir.jpg?v=1795130327",
+    "startDate": "2026-11-28T15:30:00+05:30",
+    "endDate": "2026-11-28T17:10:00+05:30",
+    "url": "https://allevents.in/bangalore/all-that-matters/3900030977015006",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Jagriti Theatre: Whitefield, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ramagondanahalli, Varthur Road, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9576",
+        "longitude": "77.7408"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "All that Matters is a satire based on several true instances that have been brought together in a fictional village. A cow died a long time ago, but is creating havoc in the village today. Court orders are being missed and a force has risen from the dead. How will the inspector in charge resolve the",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-11-28T17:10:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/all-that-matters/3900030977015006"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Thing with Feathers-Bengaluru Theatre Festival",
+    "image": "https://cdn-az.allevents.in/events8/banners/35966eb0-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795130171",
+    "startDate": "2026-12-18T20:00:00+05:30",
+    "endDate": "2026-12-20T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-thing-with-feathers-bengaluru-theatre-festival/3900030977061806",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Jnana Jyoti Auditorium: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "11, Palace Rd, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9757",
+        "longitude": "77.5837"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "When the world changes, hope takes flight.The beginning of the twentieth century. A century that began with hope. It seemed that humanity would triumph over all its problems.A new world awaited.It was only a matter of time.Little did they know…Time had written a different story.The Thing With Feathe",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-12-20T22:00:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/the-thing-with-feathers-bengaluru-theatre-festival/3900030977061806"
       }
     ]
   },
@@ -1281,9 +1277,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "TAMASHA: A Dance Theatre Musical by FLUX",
-    "image": "https://cdn-az.allevents.in/events9/banners/c35024a0-e09e-11f1-bc42-a17b039e9b07-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1794710791",
+    "image": "https://cdn-az.allevents.in/events10/banners/154296e0-e625-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dce8d8c8-gmir.jpg?v=1795318237",
     "startDate": "2026-12-05T19:00:00+05:30",
-    "endDate": "2026-12-05T20:00:00+05:30",
+    "endDate": "2026-12-05T20:20:00+05:30",
     "url": "https://allevents.in/bangalore/tamasha-a-dance-theatre-musical-by-flux/3900030996507258",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -1310,7 +1306,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-08",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
+        "availabilityEnds": "2026-12-05T20:20:00+05:30",
         "validFrom": "2026-11-08",
         "url": "https://allevents.in/bangalore/tamasha-a-dance-theatre-musical-by-flux/3900030996507258"
       }
@@ -1319,78 +1315,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "SCC Gourmet Cinema - Ratatouille",
-    "image": "https://cdn-az.allevents.in/events10/banners/5b1705c0-ddc4-11f1-933d-29c1be07ba53-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1794397083",
-    "startDate": "2026-11-22T12:00:00+05:30",
-    "endDate": "2026-11-22T13:51:00+05:30",
-    "url": "https://allevents.in/bangalore/scc-gourmet-cinema-ratatouille/3900031023460504",
+    "name": "Crabbby",
+    "image": "https://cdn-az.allevents.in/events2/banners/e6d0e620-e38d-11f1-afaa-49835c778578-rimg-w1200-h600-dc080808-gmir.jpg?v=1795033402",
+    "startDate": "2026-12-13T11:00:00+05:30",
+    "endDate": "2026-12-13T11:40:00+05:30",
+    "url": "https://allevents.in/bangalore/crabbby/3900031023477111",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Hamilton Cocktail Bar & Jazz Club: Bengaluru",
+      "name": "Ranga Shankara: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "2, Behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9821",
-        "longitude": "77.7086"
+        "latitude": "12.9116",
+        "longitude": "77.5871"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Sunset Cinema Club, in collaboration with Hamilton Cocktail Bar Bengaluru, presents a magical new chapter of SCC Gourmet Cinema, where food and film come together in the most delicious way imaginable. This time, we're bringing to your plate the beloved masterpiece: Ratatouille.This is not just a scr",
+    "description": "This story is all about how Crabbby and Storky, enemies turned friends, come together to rescue their pond. Remember, Crabbby is intelligent. Very very intelligent. Because he always thinks differently. And that is how he comes up with a brilliant idea to save the pond from the townspeople who would",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-11-22T13:51:00+05:30",
+        "availabilityEnds": "2026-12-13T11:40:00+05:30",
         "validFrom": "2026-11-11",
-        "url": "https://allevents.in/bangalore/scc-gourmet-cinema-ratatouille/3900031023460504"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bollywood Dance Workshop By Bhabna",
-    "image": "https://cdn-az.allevents.in/events2/banners/20461300-de96-11f1-a7be-298b5c0ef5b1-rimg-w1200-h600-dc780828-gmir.jpg?v=1794487179",
-    "startDate": "2026-11-22T16:00:00+05:30",
-    "endDate": "2026-11-22T18:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bollywood-dance-workshop-by-bhabna/3900031031507239",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bloom Creative Zone - Hosa Road: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "First Floor, KCR Complex, 100/1, Hosa Road, Opp. Mahaveer Ranches, Above HDFC Bank, Choodasandra, Bengaluru, Karnataka 560100, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8802",
-        "longitude": "77.6723"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready to groove to the beats of Desi Girl! Join Bhabna for an exciting Bollywood dance experience filled with energetic moves, fun choreography and festive vibes. Learn signature Bollywood steps, express yourself through dance and celebrate the joy of music and movement. Perfect for dance lovers",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-22T18:00:00+05:30",
-        "validFrom": "2026-11-12",
-        "url": "https://allevents.in/bangalore/bollywood-dance-workshop-by-bhabna/3900031031507239"
+        "url": "https://allevents.in/bangalore/crabbby/3900031023477111"
       }
     ]
   },
@@ -1436,47 +1393,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "A Road, a River &amp; a Big Adventure!",
-    "image": "https://cdn-az.allevents.in/events9/banners/864c82e0-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dce8e8a8-gmir.jpg?v=1795130307",
-    "startDate": "2026-11-22T16:00:00+05:30",
-    "endDate": "2026-11-22T16:45:00+05:30",
-    "url": "https://allevents.in/bangalore/a-road-a-river-and-a-big-adventure/3900031034990705",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Ranga Shankara: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9116",
-        "longitude": "77.5871"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "What happens when a simple dream turns into a big adventure? Join Seema for a lively storytelling experience filled with imagination, surprises and the power of working together.Inspired by Chuskit Goes to School by Sujatha Padmanabhan, this heartwarming story invites children to become part of the",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-22T16:45:00+05:30",
-        "validFrom": "2026-11-12",
-        "url": "https://allevents.in/bangalore/a-road-a-river-and-a-big-adventure/3900031034990705"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "DOOMSDAY: The Marvel Memory Test",
-    "image": "https://cdn-az.allevents.in/events4/banners/1fcc9080-e0f7-11f1-90c9-776e6d117298-rimg-w1200-h600-dc080808-gmir.jpg?v=1794748742",
+    "image": "https://cdn-az.allevents.in/events8/banners/73b8df80-e694-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc080808-gmir.jpg?v=1795366069",
     "startDate": "2026-12-05T13:00:00+05:30",
     "endDate": "2026-12-05T16:00:00+05:30",
     "url": "https://allevents.in/bangalore/doomsday-the-marvel-memory-test/3900031052188802",
@@ -1508,45 +1426,6 @@
         "availabilityEnds": "2026-12-05T16:00:00+05:30",
         "validFrom": "2026-11-15",
         "url": "https://allevents.in/bangalore/doomsday-the-marvel-memory-test/3900031052188802"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Paint &amp; Date",
-    "image": "https://cdn-az.allevents.in/events4/banners/23a1e7c0-e181-11f1-ab69-a76145f05a1c-rimg-w1200-h600-dc080808-gmir.jpg?v=1794808056",
-    "startDate": "2026-11-22T15:00:00+05:30",
-    "endDate": "2026-11-22T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/paint-and-date/3900031055240037",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Starbucks, J.P. Nagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No 15/16, Suraksha La Classic, 100 Feet Ring Road, Next To Wildcraft, JP Nagar 4th Phase, HBCS Layout, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9061",
-        "longitude": "77.5938"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Date Paint Your Love StoryCreate lasting memories with your partner in this fun and relaxing painting workshop. Spend quality time together as you paint a beautiful artwork side by side with step by step guidance from an instructor.Whether you are celebrating a special occasion or simply looking for",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-11-22T16:30:00+05:30",
-        "validFrom": "2026-11-16",
-        "url": "https://allevents.in/bangalore/paint-and-date/3900031055240037"
       }
     ]
   },
@@ -1592,45 +1471,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "SOUTH BLOCKBUSTER SUNDAY DJ NIGHT",
-    "image": "https://cdn-az.allevents.in/events8/banners/62972050-e292-11f1-b143-7fdcf006a184-rimg-w1200-h600-dc080808-gmir.jpg?v=1794925377",
-    "startDate": "2026-11-22T21:30:00+05:30",
-    "endDate": "2026-11-22T22:00:00+05:30",
-    "url": "https://allevents.in/bangalore/south-blockbuster-sunday-dj-night/3900031065169057",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Xylon Bar and Kitchen: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "6th Floor, 152/5, Neeladri Road, Neeladri Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Bengaluru, Karnataka 560100, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8415",
-        "longitude": "77.6451"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "SOUTH BLOCKBUSTER SUNDAYOne Night. Four Languages. Endless South Indian Hits.Get ready for an unforgettable Sunday celebration featuring the biggest chartbusters from Tamil, Telugu, Kannada, and Malayalam cinema, all mixed live into one high energy DJ experience.From iconic fan anthems to viral danc",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-17",
-        "availabilityEnds": "2026-11-22T22:00:00+05:30",
-        "validFrom": "2026-11-17",
-        "url": "https://allevents.in/bangalore/south-blockbuster-sunday-dj-night/3900031065169057"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Live with Shubham Pawar",
     "image": "https://cdn-az.allevents.in/events1/banners/e1e7e650-e292-11f1-b143-7fdcf006a184-rimg-w1200-h600-dc082848-gmir.jpg?v=1794925590",
     "startDate": "2026-11-27T21:00:00+05:30",
@@ -1670,39 +1510,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Sunday Heavyweight Bhangra Punjabi Night",
-    "image": "https://cdn-az.allevents.in/events7/banners/b76a2a70-e2cc-11f1-8329-5bf444c7bcd8-rimg-w1200-h600-dc480808-gmir.jpg?v=1794950430",
-    "startDate": "2026-11-22T21:30:00+05:30",
-    "endDate": "2026-11-23T00:50:00+05:30",
-    "url": "https://allevents.in/bangalore/sunday-heavyweight-bhangra-punjabi-night/3900031067340130",
+    "name": "Kana Kona - A MalayalamPanel Charcha Show",
+    "image": "https://cdn-az.allevents.in/events1/banners/ed98e940-e292-11f1-b143-7fdcf006a184-rimg-w1200-h600-dc582898-gmir.jpg?v=1794925616",
+    "startDate": "2026-12-11T20:00:00+05:30",
+    "endDate": "2026-12-11T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/kana-kona-a-malayalampanel-charcha-show/3900031065170457",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "BudBee Restobar 104: Bengaluru",
+      "name": "The Laugh Junction: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9332",
-        "longitude": "77.6147"
+        "latitude": "12.9122",
+        "longitude": "77.6357"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for an electrifying Sunday night filled with high energy Punjabi beats powerful Bhangra moves and nonstop dance vibesExperience the ultimate Punjabi party with foot tapping music iconic Bhangra tracks and your favourite Punjabi hits that will keep you dancing all night longBring your frien",
+    "description": "Ever watched a heated chayakkada debate and thought, \"I have way better points than these guys\"? Well, pull up a chair-because at Kana Kona, the audience isn`t just watching the panel. You ARE also a part of the show.WIT presents Kana Kona - a high-energy comedy panel-debate hybrid where structure g",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-17",
-        "availabilityEnds": "2026-11-23T00:50:00+05:30",
+        "availabilityEnds": "2026-12-11T21:30:00+05:30",
         "validFrom": "2026-11-17",
-        "url": "https://allevents.in/bangalore/sunday-heavyweight-bhangra-punjabi-night/3900031067340130"
+        "url": "https://allevents.in/bangalore/kana-kona-a-malayalampanel-charcha-show/3900031065170457"
       }
     ]
   },
@@ -1748,195 +1588,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "SUNDAY NIGHT LIVE ft. RINDIKA &amp; LESLEY",
-    "image": "https://cdn-az.allevents.in/events3/banners/598579c0-e329-11f1-9f31-9f1a44f57bca-rimg-w1200-h600-dc380808-gmir.jpg?v=1794990216",
-    "startDate": "2026-11-22T20:30:00+05:30",
-    "endDate": "2026-11-22T23:30:00+05:30",
-    "url": "https://allevents.in/bangalore/sunday-night-live-ft-rindika-and-lesley/3900031070467836",
+    "name": "Strangers Meet Up: Mandala Art Therapy Workshop",
+    "image": "https://cdn-az.allevents.in/events10/banners/42ade550-e344-11f1-8fb8-85ebc5aef943-rimg-w1200-h600-dc080808-gmir.jpg?v=1795001774",
+    "startDate": "2026-12-12T15:00:00+05:30",
+    "endDate": "2026-12-12T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/strangers-meet-up-mandala-art-therapy-workshop/3900031073101014",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "ICB Indian Craft Brewery: Bengaluru",
+      "name": "The Common Good: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sy no 90/3, K, 572/90, Outer Ring Road, Manayata Tech Park, Nagawara, Beside Manpo Convention Center, DadaMastan Layout,Bengaluru, Karnataka 560077, India",
+        "streetAddress": "1212, 19th Cross Road, MCECHS Layout, Dr.Shivaram Karanth Nagar, RK Hegde Nagar, Bengaluru, Karnataka 560064, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "13.0419",
-        "longitude": "77.6161"
+        "latitude": "13.0719",
+        "longitude": "77.6224"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "THIS SUNDAY NIGHT ft. RINDIKA & LESLEYONE MORE SONG BEFORE MONDAY.Who said Sundays have to end quietly?This Sunday, RINDIKA & LESLEY are bringing the soundtrack to your weekend at ICB with a feel-good English Pop experience. Get ready for familiar melodies, memorable hooks and live performances that",
+    "description": "Come as a stranger, leave with a mandala and a few new friends.Strangers Meet Up is a slow, screen-free afternoon for people who want to make something with their hands and meet others doing the same. In this guided Mandala Art Therapeutic Workshop, artist and educator Monica Prakash (founder, PraSh",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-18",
-        "availabilityEnds": "2026-11-22T23:30:00+05:30",
+        "availabilityEnds": "2026-12-12T17:00:00+05:30",
         "validFrom": "2026-11-18",
-        "url": "https://allevents.in/bangalore/sunday-night-live-ft-rindika-and-lesley/3900031070467836"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "No Hangover: A Wellness Party",
-    "image": "https://cdn-az.allevents.in/events5/banners/70a5e2c0-e329-11f1-9f31-9f1a44f57bca-rimg-w1200-h600-dc98c8e8-gmir.jpg?v=1794990254",
-    "startDate": "2026-11-22T09:00:00+05:30",
-    "endDate": "2026-11-22T12:00:00+05:30",
-    "url": "https://allevents.in/bangalore/no-hangover-a-wellness-party/3900031070472415",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "RMZ EcoWorld, The Market Place: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "RMZ ECOWORLD, Marathahalli - Sarjapur Outer Ring Road, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9206",
-        "longitude": "77.6874"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "What`s happening:- Live DJ, house music all morning- Breathwork and movement session- Social games- Polaroid corner- DIY art corner- Functional drinks by AuraaNo standing in the corner with a drink, no awkward stares, and more importantly, no hangover.Most parties start at 10pm, run on alcohol, and",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-18",
-        "availabilityEnds": "2026-11-22T12:00:00+05:30",
-        "validFrom": "2026-11-18",
-        "url": "https://allevents.in/bangalore/no-hangover-a-wellness-party/3900031070472415"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "NRI - IRL ft. Aishwarya Taukari (Koramangala)",
-    "image": "https://cdn-az.allevents.in/events3/banners/8e7d80f0-e329-11f1-9f31-9f1a44f57bca-rimg-w1200-h600-dcf8d858-gmir.jpg?v=1794990304",
-    "startDate": "2026-11-22T19:00:00+05:30",
-    "endDate": "2026-11-22T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/nri-irl-ft-aishwarya-taukari-koramangala/3900031070475805",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Ministry Of Comedy: Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1018, Opp. Wooden Street, 80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9304",
-        "longitude": "77.6331"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Want to move overseas? Your loved one stays away? Tired of watching people flex foreign life on Instagram?Straight from New Zealand, an Indian-Kiwi comedian makes a rare offline appearance. She is here to burst all the bubbles. *Overseas education and overseas humans are subject to market risks. Wat",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-18",
-        "availabilityEnds": "2026-11-22T20:30:00+05:30",
-        "validFrom": "2026-11-18",
-        "url": "https://allevents.in/bangalore/nri-irl-ft-aishwarya-taukari-koramangala/3900031070475805"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SHUFFLING SUNDAY Bollywood Punjabi Night ft DJMARK",
-    "image": "https://cdn-az.allevents.in/events3/banners/f7d63d10-e344-11f1-8fb8-85ebc5aef943-rimg-w1200-h600-dc080808-gmir.jpg?v=1795002078",
-    "startDate": "2026-11-22T19:30:00+05:30",
-    "endDate": "2026-11-23T03:50:00+05:30",
-    "url": "https://allevents.in/bangalore/shuffling-sunday-bollywood-punjabi-night-ft-djmark/3900031073146718",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Toca: Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "122/A, 105, 1st A Cross Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.935",
-        "longitude": "77.616"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "SHUFFLING SUNDAY: The Ultimate Bollywood TakeoverWrap up your weekend with the best DJ night in town. We are bringing you the hottest Bollywood hits and commercial anthems, featuring the one and only DJ MARK is spinning live.Turn up the heat at TOCA Koramangala and let the rhythm take over. Whether",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-18",
-        "availabilityEnds": "2026-11-23T03:50:00+05:30",
-        "validFrom": "2026-11-18",
-        "url": "https://allevents.in/bangalore/shuffling-sunday-bollywood-punjabi-night-ft-djmark/3900031073146718"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "SUNDAZE SUNDAY Bollywood Night ft DJ Ashwin Bhatia",
-    "image": "https://cdn-az.allevents.in/events9/banners/1feadbd0-e345-11f1-8fb8-85ebc5aef943-rimg-w1200-h600-dc386898-gmir.jpg?v=1795002145",
-    "startDate": "2026-11-22T19:30:00+05:30",
-    "endDate": "2026-11-23T02:10:00+05:30",
-    "url": "https://allevents.in/bangalore/sundaze-sunday-bollywood-night-ft-dj-ashwin-bhatia/3900031073153225",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "TOCA Brigade and Terrace: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd and 4th floor, 25, Brigade Road, above Levis showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9738",
-        "longitude": "77.6077"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "End your weekend on the highest note with Sundaze Sunday at TOCA Brigade Join us from 8 PM onwards for an unforgettable Bollywood DJ Night featuring Ashwin Bhatia and Resident DJ Firex Experience nonstop music incredible energy and the perfect party atmosphere as you dance to your favorite Bollywood",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-18",
-        "availabilityEnds": "2026-11-23T02:10:00+05:30",
-        "validFrom": "2026-11-18",
-        "url": "https://allevents.in/bangalore/sundaze-sunday-bollywood-night-ft-dj-ashwin-bhatia/3900031073153225"
+        "url": "https://allevents.in/bangalore/strangers-meet-up-mandala-art-therapy-workshop/3900031073101014"
       }
     ]
   },
@@ -2020,84 +1704,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "In No Particular Order",
-    "image": "https://cdn-az.allevents.in/events5/banners/98843e20-e40c-11f1-9ce7-a56cede3c946-rimg-w1200-h600-dc180818-gmir.jpg?v=1795087817",
-    "startDate": "2026-11-22T18:30:00+05:30",
-    "endDate": "2026-11-22T19:30:00+05:30",
-    "url": "https://allevents.in/bangalore/in-no-particular-order/3900031078962617",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bloom Creative Zone, Indiranagar: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "KFC Signal, 483, 2nd Floor Right Wing, BEA Center 100 Ft Road, Chinmaya Mission Hospital Road, Indiranagar, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9785",
-        "longitude": "77.6411"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "In No Particular Order-  An Evening of Alt Rock & Indie Pop ft. Ananya and ShayneSome evenings are best spent with good music, great company, and a little bit of singing along. And this one's all about that!In No Particular Order brings you an evening of live music celebrating the sounds of Alt Rock",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-19",
-        "availabilityEnds": "2026-11-22T19:30:00+05:30",
-        "validFrom": "2026-11-19",
-        "url": "https://allevents.in/bangalore/in-no-particular-order/3900031078962617"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Fun Boardgames Meetup",
-    "image": "https://cdn-az.allevents.in/events2/banners/7289fcd0-e46d-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dcf8f8b8-gmir.jpg?v=1795129420",
-    "startDate": "2026-11-22T17:00:00+05:30",
-    "endDate": "2026-11-22T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900031082941841",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Chelvies Coffee Roastery: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Chelvies Roastery, Main Road, NAL Colony, Jeevan Bima Nagar, Bengaluru, Karnataka 560075, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9678",
-        "longitude": "77.6528"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "* Say no to boring weekends and get started with this joyful hobby. Dont think twice, just come over to our events where fun is guaranteed. We offer a wide range of carefully chosen board games (50+ board and card games) to rekindle the child in you and bring back those joyful days you experienced a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-19",
-        "availabilityEnds": "2026-11-22T19:00:00+05:30",
-        "validFrom": "2026-11-19",
-        "url": "https://allevents.in/bangalore/the-fun-boardgames-meetup/3900031082941841"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Closer: A Stand-up Comedy Show by Vivek Kapruwan",
     "image": "https://cdn-az.allevents.in/events1/banners/f6258310-e4f5-11f1-a5fd-470b6141b80e-rimg-w1200-h600-dc080808-gmir.jpg?v=1795188047",
@@ -2171,6 +1777,45 @@
         "availabilityEnds": "2026-11-25T01:00:00+05:30",
         "validFrom": "2026-11-21",
         "url": "https://allevents.in/bangalore/tempo-tuesday-at-hod-club-koramangala/3900031092021727"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Hat-Dance Disaster - An Anansi Story",
+    "image": "https://cdn-az.allevents.in/events7/banners/eadf3450-e5af-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795267914",
+    "startDate": "2026-12-13T16:00:00+05:30",
+    "endDate": "2026-12-13T16:45:00+05:30",
+    "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Ranga Shankara: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9116",
+        "longitude": "77.5871"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Anansi the trickster spider loves three things above all - his hair, his hats and food. When food becomes scarce, Anansi turns to Mama for help but his greed gets him into a soup and changes him forever. This lively tale from West Africa will have children laughing, singing, chanting and even dancin",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-13T16:45:00+05:30",
+        "validFrom": "2026-11-21",
+        "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055"
       }
     ]
   },
@@ -2288,6 +1933,45 @@
         "availabilityEnds": "2026-12-06T20:00:00+05:30",
         "validFrom": "2026-11-22",
         "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "HUMANITAS",
+    "image": "https://cdn-az.allevents.in/events9/banners/80707d00-e694-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795366090",
+    "startDate": "2026-12-20T16:00:00+05:30",
+    "endDate": "2026-12-20T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/humanitas/3900031098850711",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "St Joseph`s University Auditorium: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, Lal Bagh Main Road, Langford Gardens, Bengaluru, Karnataka 560027, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9627",
+        "longitude": "77.5961"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "As one of Bengaluru's student-led choirs in Bengaluru, The Josephite Choir has carried the University's legacy since its inception, representing the motto Ad Maiorem Dei Gloriam (For the Greater Glory of God) through choral harmonies and performances across the city at various prestigious concerts a",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-22",
+        "availabilityEnds": "2026-12-20T20:00:00+05:30",
+        "validFrom": "2026-11-22",
+        "url": "https://allevents.in/bangalore/humanitas/3900031098850711"
       }
     ]
   },
@@ -2811,6 +2495,67 @@
         "url": "https://allevents.in/bangalore/a-table-set-for-thanksgiving-at-the-aviary/4100031091306721",
         "price": "5500.00",
         "name": "Regular Ticket | Alcoholic"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pickleball Socials - All levels are welcome",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6aface5d7e702.jpg",
+    "startDate": "2026-12-05T11:00:00+05:30",
+    "endDate": "2026-12-05T13:00:00+05:30",
+    "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "CoPlay Machaxi Pickleball | Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "901/1, 80 Feet Rd, Venkappa Garden, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "postalCode": "560095",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9395564",
+        "longitude": "77.6259695"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Looking for a fun new way to meet people in Bengaluru?Whether you’re trying the sport for the first time or already love the game, this is a relaxed social experience designed to help you meet like-minded people.At the Plus One Tribe we are inviting curious people. Ones who wantedAll levels are welc",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-16",
+        "availabilityEnds": "2026-12-05T13:00:00+05:30",
+        "validFrom": "2026-11-16",
+        "lowPrice": "650.00",
+        "highPrice": "650.00",
+        "price": "650.00",
+        "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-16",
+        "availabilityEnds": "2026-12-05T13:00:00+05:30",
+        "validFrom": "2026-11-16",
+        "price": "650.00",
+        "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336",
+        "availability": "https://schema.org/InStock",
+        "name": "Pickleball Socials"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "The Plus One Tribe",
+        "url": "https://allevents.in/org/the-plus-one-tribe/28422590"
       }
     ]
   },
@@ -3630,30 +3375,64 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "AI Tools that Earn: a hackathon by Apify",
-    "image": "https://cdn-az.allevents.in/events4/banners/35b9fdd0-e4d3-11f1-a5fd-470b6141b80e-rimg-w1080-h1080-dc080808-gmir.png?v=1795173121",
-    "startDate": "2026-11-22T08:00:00+00:00",
-    "endDate": "2026-11-22T18:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/ai-tools-that-earn-a-hackathon-by-apify/4700031086731601",
+    "name": "Namma Bengaluru Startups Meetup by CEDAT",
+    "image": "https://cdn-az.allevents.in/events2/banners/f7da21aa7680e168af0408faaa7570a2675a2ee874048e3ddcbb7bf36b114e26-rimg-w1200-h900-dcf8f8f8-gmir.jpg?v=1794271635",
+    "startDate": "2026-12-16T16:00:00+05:30",
+    "endDate": "2026-12-16T18:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Zostel Plus Bangalore (Whitefield)",
+      "name": "Karnataka Digital Economy Mission (KDEM)",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Zostel Plus Bangalore (Whitefield)",
+        "streetAddress": "27th Main Road",
+        "postalCode": "560102",
         "addressLocality": "Bengaluru",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9724332",
-        "longitude": "77.7469155"
+        "latitude": "12.9201546",
+        "longitude": "77.65109369999999"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "About this hackathon 💡\n\nMost hackathon projects die on Sunday night. This one is designed so yours doesn't.\n\nThe AI Tools that Earn Hackathon is a one-day event hosted by Apify at a Zostel Plus hacker house in Whitefield, Bangalore. The challenge: build solutions someone would pay for, not just a de"
+    "description": "Namma Bengaluru Startups Circle is a gathering for people who are creating, building, and growing businesses.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-12-16T18:00:00+05:30",
+        "validFrom": "2026-11-10",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-10",
+        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
+        "price": 0,
+        "name": "Namma Bengaluru Startups Meetup by CEDAT"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
+      }
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -3686,11 +3465,11 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Product (Un)Conference '26 | Builder’s Day",
-    "image": "https://cdn-az.allevents.in/events6/banners/f1606390-e5ea-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc182828-gmir.jpg?v=1795293266",
-    "startDate": "2026-11-22T09:30:00+00:00",
-    "endDate": "2026-11-22T19:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/the-product-unconference-26-builders-day/4700031093954226",
+    "name": "Bangalore Product Mixer #4 | Product Reactor",
+    "image": "https://cdn-az.allevents.in/events6/banners/45a4d9e0-e4d3-11f1-a5fd-470b6141b80e-rimg-w1200-h1200-dc2808f8-gmir.png?v=1795173148",
+    "startDate": "2026-12-05T18:00:00+00:00",
+    "endDate": "2026-12-05T20:00:00+00:00",
+    "url": "https://allevents.in/bengaluru/bangalore-product-mixer-4-product-reactor/4700031086732928",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
@@ -3704,12 +3483,12 @@
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.969701653889",
-        "longitude": "77.614689249315"
+        "latitude": "12.912228031101",
+        "longitude": "77.652798648086"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Builders’ Day | Product (Un)Conference ‘26\n\nHosted by The Product Folks\n\n📅 Sunday, November 22, 2026\n\n⏰ 9:30 AM – 7:00 PM\n\n📍 Bengaluru\n\nDay 1 of (Un)Conference is all about the conversations. Day 2 is where the laptops come out 💻\n\n🎯 Who’s this for?\n\nFounders, PMs, engineers, designers and anyone bui"
+    "description": "Product Managers Connect is a relaxed, high value networking meetup created exclusively for product managers.\n\nThe goal is simple: connect, exchange experiences, and build professional relationships with peers in the product community.\n\nWhat to expect\n\nA casual, conversation driven environment.\n\nDed"
   },
   {
     "@context": "https://schema.org",
@@ -3850,34 +3629,6 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "Hello, hello to all the queens reading this- we're excited to invite you to the first ever exclusive in-person experience designed for the women, by the women in the history of UiPath Community, Bengaluru😁\n\n\n\nWe’re thrilled to invite you to the first-ever women-centric, in-person meetup of UiPath Co"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Odissi Dance Recital",
-    "image": "https://cdn-az.allevents.in/events3/banners/437d0ca0-e5eb-11f1-b8a0-65efcc089f98-rimg-w1024-h1024-dcf8b878-gmir.png?v=1795293403",
-    "startDate": "2026-11-22T08:00:00+00:00",
-    "endDate": "2026-11-22T09:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/odissi-dance-recital/4700031093970644",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cubbon Bandstand",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Cubbon Bandstand",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9767034",
-        "longitude": "77.5939414"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Odissi Dance Recital ✨\n\nJoin us this Sunday morning at the Bandstand as Heritage Beku presents Preeti Banerjee in a captivating Odissi performance.\n\nKnown for its lyrical grace, sculptural poses, and fluid torso movements, Odissi brings timeless devotion and storytelling to life amidst the morning b"
   },
   {
     "@context": "https://schema.org",
