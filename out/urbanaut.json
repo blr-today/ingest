@@ -336,7 +336,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1290,7 +1290,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1731,8 +1731,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 33,
+    "maximumAttendeeCapacity": 140,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1779,7 +1779,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 127,
+    "remainingAttendeeCapacity": 121,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1824,7 +1824,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 93,
+    "remainingAttendeeCapacity": 90,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1872,7 +1872,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 126,
+    "remainingAttendeeCapacity": 125,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1920,7 +1920,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 124,
+    "remainingAttendeeCapacity": 121,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1969,7 +1969,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 114,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2017,7 +2017,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 78,
+    "remainingAttendeeCapacity": 69,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2063,7 +2063,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 46,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2109,7 +2109,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2155,7 +2155,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2200,7 +2200,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2245,7 +2245,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2291,7 +2291,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 109,
+    "remainingAttendeeCapacity": 100,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2311,50 +2311,6 @@
       "Festival",
       "History & heritage",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Mycelium & Muse: A Science Storytelling Workshop",
-    "description": "About the Workshop:We often equate creativity with making art. Picasso was creative. Beethoven was creative. Van Gogh was creative.But what about the person who first picked up a piece of charcoal and scribbled on the wall of a cave, hoping the people in the next cave would get the message? Or the bowerbird who spends an entire season collecting blue bottle caps and flowers to decorate a little stage for a mate?And what about a fungus? This one is literally brainless, yet it sends out electrical signals that, when connected to a synthesiser, play out like music.So if creativity shows up in organisms without brains, it is far older than us, isn't it?That's the question we'll sit with: Where does creativity really begin on the tree of life, and what does that mean for all of us who have spent years saying \"I'm just not the creative type\". Along the way, you'll hear a mushroom playing music, make an idea card that is deliberately, wonderfully bad, write a letter to your future self, and discover a new answer to the question “Am I creative?”You don't need any science background to join in. Just come in, and let's get some creativity brewing.Because, tell you what, we are not sure if a creative life is a happier one. But what we can absolutely guarantee is that it's a far more meaningful one.About the facilitator:Bitasta Datta is a microbiologist by training, an educator by profession and a science storyteller by passion.For over 10 years, she has been turning science into stories for school learners and curious adults. She started at the National Digital Library of India, went on to co-found The Synapse, led curriculum and learning experience design at BYJU'S and Tutopiya, and now leads the efforts at Khan Academy India to narrate science in a way that sticks.She believes science and art are two lenses on the same world, and that if you look through both long enough, you arrive at the same philosophy. So that's what she does. She dissects science to find the art in it, dissects art to find the science in it, and narrates her findings as stories.Outside work, she paints, bakes, and travels, and writes about the places where science, art and philosophy run into each other. Mycelium & Muse began as one of those pieces.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/DB52CB84993241689EFFC58304880A89_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T16:00:00+05:30",
-    "endDate": "2026-11-22T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.980109,
-        "longitude": 77.6393497
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 899.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bitasta Datta",
-      "description": "Dissecting science to find art, dissecting art to find science.",
-      "url": "https://urbanaut.app/partner/bitasta-datta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/51B1A222300344459C375620E27380C4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/mycelium-muse",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -2549,8 +2505,8 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
     ],
-    "startDate": "2026-11-28T11:00:00+05:30",
-    "endDate": "2026-11-28T13:00:00+05:30",
+    "startDate": "2026-11-29T11:00:00+05:30",
+    "endDate": "2026-11-29T13:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2579,7 +2535,7 @@
       "url": "https://urbanaut.app/partner/brc",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/brc-rs#2026-11-28T1100",
+    "url": "https://urbanaut.app/spot/brc-rs#2026-11-29T1100",
     "keywords": [
       "Art & culture",
       "URBANAUT"
@@ -2593,8 +2549,8 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
     ],
-    "startDate": "2026-12-05T11:00:00+05:30",
-    "endDate": "2026-12-05T13:00:00+05:30",
+    "startDate": "2026-12-13T11:00:00+05:30",
+    "endDate": "2026-12-13T13:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2623,7 +2579,7 @@
       "url": "https://urbanaut.app/partner/brc",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/brc-rs#2026-12-05T1100",
+    "url": "https://urbanaut.app/spot/brc-rs#2026-12-13T1100",
     "keywords": [
       "Art & culture",
       "URBANAUT"
@@ -2637,8 +2593,8 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
     ],
-    "startDate": "2026-12-12T11:00:00+05:30",
-    "endDate": "2026-12-12T13:00:00+05:30",
+    "startDate": "2026-12-27T11:00:00+05:30",
+    "endDate": "2026-12-27T13:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2667,95 +2623,7 @@
       "url": "https://urbanaut.app/partner/brc",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/brc-rs#2026-12-12T1100",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sunday Reading Session",
-    "description": "Welcome to the Reading Session by Bangalore Readers Community!This is a space for people who love to read — not a book club with assigned reading, not a discussion group you're obligated to speak in. Just a quiet, comfortable space to read your own book, surrounded by other readers.What to expect:The first 1.5 hours are for silent reading. Bring any book you're currently reading — fiction, non-fiction, poetry, whatever you're into. Find a comfortable spot, order your breakfast & coffee, and read at your own pace alongside other members.The last 30 minutes are for conversation — entirely optional. If you'd like to talk about what you're reading, you're welcome to do so. Or you can just listen to what others share. No pressure.Come alone or with a friend. Many of our members are meeting fellow readers for the first time — it's a relaxed, low-stakes way to be around people who enjoy books as much as you do.What to bring:Just your book (or e-reader/Kindle). No assigned reading, no reading schedule to catch up on.A few things to know:Entry by RSVP only, no walk-ins allowed.Spots are limited, so an RSVP here reserves your place.The event is free but we encourage you to place a food or drink order at the cafe.Come spend a quiet Sunday morning doing something you probably don't make enough time for — reading, uninterrupted, in good company.And follow us on Instagram here: https://www.instagram.com/bangalorereaderscommunity/See you at the event! 📖",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
-    ],
-    "startDate": "2026-12-19T11:00:00+05:30",
-    "endDate": "2026-12-19T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "28, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9317392,
-        "longitude": 77.6325968
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 70,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Readers Community",
-      "description": "A community for readers in Koramangala. We meet to sit and read our own books in comfortable silence, then talk about what we're reading — entirely optional. No assigned books, no pressure. Just readers, together.",
-      "url": "https://urbanaut.app/partner/brc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/brc-rs#2026-12-19T1100",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sunday Reading Session",
-    "description": "Welcome to the Reading Session by Bangalore Readers Community!This is a space for people who love to read — not a book club with assigned reading, not a discussion group you're obligated to speak in. Just a quiet, comfortable space to read your own book, surrounded by other readers.What to expect:The first 1.5 hours are for silent reading. Bring any book you're currently reading — fiction, non-fiction, poetry, whatever you're into. Find a comfortable spot, order your breakfast & coffee, and read at your own pace alongside other members.The last 30 minutes are for conversation — entirely optional. If you'd like to talk about what you're reading, you're welcome to do so. Or you can just listen to what others share. No pressure.Come alone or with a friend. Many of our members are meeting fellow readers for the first time — it's a relaxed, low-stakes way to be around people who enjoy books as much as you do.What to bring:Just your book (or e-reader/Kindle). No assigned reading, no reading schedule to catch up on.A few things to know:Entry by RSVP only, no walk-ins allowed.Spots are limited, so an RSVP here reserves your place.The event is free but we encourage you to place a food or drink order at the cafe.Come spend a quiet Sunday morning doing something you probably don't make enough time for — reading, uninterrupted, in good company.And follow us on Instagram here: https://www.instagram.com/bangalorereaderscommunity/See you at the event! 📖",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9EA390FE756443948FC366132C864CE3_converted_webp.webp"
-    ],
-    "startDate": "2026-12-26T11:00:00+05:30",
-    "endDate": "2026-12-26T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "28, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9317392,
-        "longitude": 77.6325968
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 70,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Readers Community",
-      "description": "A community for readers in Koramangala. We meet to sit and read our own books in comfortable silence, then talk about what we're reading — entirely optional. No assigned books, no pressure. Just readers, together.",
-      "url": "https://urbanaut.app/partner/brc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/5FE41A1646F94275A7C9BCEFC8441FF6_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/brc-rs#2026-12-26T1100",
+    "url": "https://urbanaut.app/spot/brc-rs#2026-12-27T1100",
     "keywords": [
       "Art & culture",
       "URBANAUT"
@@ -3031,7 +2899,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3051,51 +2919,6 @@
       "Leisure",
       "Local",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "GFT: November Edition in Bangalore",
-    "description": "Grounds for Thought: Bangalore, November 2026A Blue Tokai × unLecture Series, Three evenings. Three very different conversations. Grounds for Thought brings researchers, scientists, and thinkers out of their institutions and into rooms full of curious people, where the conversation goes somewhere a classroom rarely does. This November in Bangalore runs from constitutional literacy to the history of economic ideas, closing with a reframing of how India's princely states shaped its founding.15th November: Anjor BhaskarDemocracy is declining around the world, Why don't young people care?Democracy doesn't die when constitutions fail — it dies when citizens stop practising democratic values. Anjor Bhaskar, faculty at Azim Premji University and founder of Dialogues on Democracy and Development, has worked with over 30,000 participants across India on what he calls constitutional literacy: translating values like liberty, equality, and fraternity into everyday practice. This session asks why so many young people know more about celebrities than the Constitution, why misinformation outruns truth so easily, and why constitutional morality may be the most important skill nobody is teaching.21st November: Alex M. ThomasFantastic Economic Theories and Where to Find Them Are wages and interest rates \"fantastic\" in the sense of excellent — or in the sense of hard to believe? Alex M. Thomas, Associate Professor of Economics at Azim Premji University and author of the widely used textbook Macroeconomics: An Introduction, takes this question through the history of economic ideas: does raising the minimum wage really raise unemployment? Does the rate of interest actually capture how people value the present over the future? An interactive session that moves from classical political economy to a sharper way of thinking about economic policy — and who it's really for.28th November: Shruti ViswanathanPrincely States and Constitutionalism: Uncovering the Many Imaginations of People, Power and Politics India's founding is usually told as a story with two actors — British India, and from 1946, the Constituent Assembly. Shruti Viswanathan, founder of The Equals Project and a graduate of NLSIU Bangalore and the Fletcher School at Tufts, argues that leaves out a third: the roughly 565 princely states governing a third of the subcontinent's population, usually mentioned only at the moment of their accession, as a problem to be solved rather than as sites of constitutional thought in their own right. This session reframes their integration as a provocation — revealing that the \"Idea of India\" was never a single, inevitable outcome, but a fiercely contested space with constitutional activity of its own, often well before 1947.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7D7F38D7CCA04340BB330FCB0B9A193D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9C0CC1EDCA4146BFA260CC4B2B09A8DC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FFE79E6D16BE42A0AAC528AF35E96A02_converted_webp.webp"
-    ],
-    "startDate": "2026-11-21T17:00:00+05:30",
-    "endDate": "2026-11-21T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "136, 1st Floor, 5th Block, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9337,
-        "longitude": 77.6215
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 45,
-    "remainingAttendeeCapacity": 31,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": 300.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "unLecture",
-      "description": "unLecture is Delhi’s first-of-its-kind event series that brings big ideas out of classrooms and into cafés, and bars. Each edition features lectures by leading thinkers, followed by an open Q&A session and a lot more uniquely curated for each event.",
-      "url": "https://urbanaut.app/partner/unlecture",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3327826D9DA24CF7A9708FA2736F9D34_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/gft-november-edition-in-bangalore#2026-11-21T1700",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -3139,7 +2962,7 @@
       "url": "https://urbanaut.app/partner/unlecture",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3327826D9DA24CF7A9708FA2736F9D34_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/gft-november-edition-in-bangalore#2026-11-28T1700",
+    "url": "https://urbanaut.app/spot/gft-november-edition-in-bangalore",
     "keywords": [
       "URBANAUT"
     ]
@@ -3245,51 +3068,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Blend - A celebration of Kathak",
-    "description": "A celebration of Kathak across generations, perspectives and artistic expressions.Bringing together the experience and artistic legacy of an established exponent with the vision and evolving practice of a new generation of promising Kathak artists, BLEND offers an opportunity to witness the form in its traditional essence as well as its contemporary expression.It is a coming together of the artistic journeys of Smt Durga Arya Ji - a stalwart in her field, where tradition is not merely preserved but continually interpreted, experienced and carried forward.Along with Yatra Dance Productions - a promising, upcoming Kathak Academy rooted in the Lucknow Gharana yet bringing contemporary perspective and artistic vision to younger audiences.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B0713EEFD90C4E1896A4686DD341FE24_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T11:00:00+05:30",
-    "endDate": "2026-11-22T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, B Block, Brahmananda Court, 37, Lal Bagh Main Rd, K.S. Garden, Raja Ram Mohanroy Extension, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9596437,
-        "longitude": 77.5873823
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 53,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 375.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shoonya - Centre for Art and Somatic Practices",
-      "description": "An independent arts space in Bengaluru bringing together artists, communities and curious minds through performance, movement, music, conversations and experimentation. Whether it's a performance, a workshop or simply an encounter with something new, there's always something to discover at Shoonya.",
-      "url": "https://urbanaut.app/partner/shoonya-centre-for-art-and-somatic-practices",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DF4BAB3BA37F42D2855042AA499FFABF_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/blend-a-celebration-of-kathak",
-    "keywords": [
-      "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "One By Two: A Bengaluru Musical",
     "description": "Get ready for a delightful dose of music, drama, dance and Bengaluru magic!One by Two, an original theatrical and musical production by Poco a Poco, brings to the stage a story of tangled relationships, love, family, friendship and all the delightful chaos that makes life in Bengaluru what it is.Directed by Ravi d'Abreo and featuring songs directed by Shubira D'Sa, this lively theatrical experience brings together music, movement, humour and emotion in a celebration of the people, relationships and little moments that make this city feel like home.Come for the music, stay for the drama, and leave with a little more love for Bengaluru. Don't miss One by Two! Early Bird Tickets Available now!",
     "image": [
@@ -3310,7 +3088,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 118,
+    "remainingAttendeeCapacity": 117,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3404,7 +3182,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 180,
-    "remainingAttendeeCapacity": 131,
+    "remainingAttendeeCapacity": 129,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3707,49 +3485,6 @@
     "image": [
       "https://d10y46cwh6y6x1.cloudfront.net/images/E9BC86486B93466AA68AF69A4B67E67F_converted_webp.webp"
     ],
-    "startDate": "2026-11-21T23:00:00+05:30",
-    "endDate": "2026-11-21T23:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 399.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-quiet-library-read-together#2026-11-21T2300",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Quiet Library: Read Together",
-    "description": "For those who come alive when the world goes quiet.A late-night library for slow reading, wandering through books, quiet conversations and the strange pleasure of being awake when everyone else has gone home.Bring a book, borrow one, or simply find a corner and stay awhile.Open late. Come quietly. Leave whenever you’re ready.Passes -  INR 399/- for 4 Saturday 11 PM to Sunday 6 AM",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E9BC86486B93466AA68AF69A4B67E67F_converted_webp.webp"
-    ],
     "startDate": "2026-11-28T23:00:00+05:30",
     "endDate": "2026-11-28T23:55:00+05:30",
     "location": {
@@ -3780,53 +3515,8 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/the-quiet-library-read-together#2026-11-28T2300",
+    "url": "https://urbanaut.app/spot/the-quiet-library-read-together",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Open Practice: Amateur Calisthenics Lab",
-    "description": "Space to train, experiment and play with your body.Bring your calisthenics practices of strength, mobility, balance, handstands, flows or skills that you’re working towards and use the space to practise at your own pace, alongside other movement enthusiasts.No class. No curriculum. Just practice, play and community.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7030BFF7DAD745D583AF2A03956D9E50_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T08:00:00+05:30",
-    "endDate": "2026-11-22T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 149.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/open-practice#2026-11-22T0800",
-    "keywords": [
-      "Wellness",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -3868,53 +3558,10 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/open-practice#2026-11-29T0800",
+    "url": "https://urbanaut.app/spot/open-practice",
     "keywords": [
       "Wellness",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "All Grown Up: Take on Admin Tasks together",
-    "description": "All those admin tasks that are piling up silently only needs threat of an audience to get done.Bring your data transfers, insurance bills, email clearances, closing accounts, and other radical administrative tasks to the meetup and take a crack at them together.Open to all ages.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/CCDA1274DBEA46DF883790AF0BDD8514_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T11:00:00+05:30",
-    "endDate": "2026-11-22T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/all-grown-up#2026-11-22T1100",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -3956,54 +3603,8 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/all-grown-up#2026-11-29T1100",
+    "url": "https://urbanaut.app/spot/all-grown-up",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Theatrix - Theatre Jam for Kids",
-    "description": "Welcome to the world of Theatrix!!A theatre jam for the young ones to Play, Imagine & Express!Are you ready for your child to step into a world of imagination, creativity, and confidence?Theatrix is a fun, interactive theatre workshop where children can explore their creativity, experiment with characters, and express themselves through games, movement, and improvisation.This is a space where children can let their imaginations run wild, discover the power of their voices, and learn to express themselves freely in a supportive and encouraging environment.Whether your child is stepping onto the imaginary stage for the first time or already loves performing, this Theatre Jam is a welcoming space to play, explore, and discover the joy of theatre.This edition of the workshop is hosted by Khyati Raja. A Drama School Mumbai alumni and someone who has been leading theatre programs at schools across ages.Register your seat now. Limited to 10 seats per session only.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/982AC800BDE84D74B9938B67BBABCD39_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T11:00:00+05:30",
-    "endDate": "2026-11-22T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": 299.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/theatrix#2026-11-22T1100",
-    "keywords": [
-      "Workshop",
-      "Active",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -4045,7 +3646,7 @@
       "url": "https://urbanaut.app/partner/angala",
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
     },
-    "url": "https://urbanaut.app/spot/theatrix#2026-12-06T1100",
+    "url": "https://urbanaut.app/spot/theatrix",
     "keywords": [
       "Workshop",
       "Active",
@@ -4178,8 +3779,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "maximumAttendeeCapacity": 105,
+    "remainingAttendeeCapacity": 104,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4235,8 +3836,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 96,
+    "maximumAttendeeCapacity": 105,
+    "remainingAttendeeCapacity": 101,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4292,8 +3893,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 85,
+    "maximumAttendeeCapacity": 105,
+    "remainingAttendeeCapacity": 90,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4341,7 +3942,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4831,7 +4432,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 53,
+    "remainingAttendeeCapacity": 51,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5175,49 +4776,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Queer Joy, Out Loud - Amaha @ Beku",
-    "description": "Amaha Mental Health presents: An open mic space to share stories, express ourselves, and celebrate the many ways we experience queerness.We invite you to bring a piece of art that holds meaning for you — a poem, personal essay, fiction, something you've created, a piece that has moved you, or even a page from an old diary. Your work can explore queer joy, identity, resilience, love, belonging, or anything that feels meaningful to you.This is a space to be heard and witnessed, without the pressure of performance or perfection. We come together to share, listen, and hold space for each other's stories.There is no competition, critique, or unsolicited feedback — just a community built on respect, care, and attentive listening. You are always welcome to pause, stop sharing, or step out if you need to.Come as you are, share if you wish, and listen with care.This session will be facilitated by Thryaksha, Consultant Psychologist.⚠️ Disclaimer: This event is only accessible by stairs. This event is open only to adult members of the LGBTQIA+ community over the age of 21. ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/C24D3C6995F64B7895AAF4AB339CE034_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T11:30:00+05:30",
-    "endDate": "2026-11-22T12:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Beku",
-      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9106601,
-        "longitude": 77.5967054
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 199.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Beku",
-      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
-      "url": "https://urbanaut.app/partner/beku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/queer-joy-out-loud-amaha-beku",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Indigenous Knowledge Made Visual",
     "description": "Join us at Shoonya for a conversation with Loksutr, a Madhya Pradesh-based publishing and research-design initiative founded by Achyut Siddu and Apoorva Mishra. Working closely with indigenous communities and traditional artists, Loksutr transforms oral histories, collective memory and traditional knowledge systems into richly illustrated visual narratives, books and other creative formats.The talk will offer a glimpse into their collaborative process of listening, documenting, researching and translating intangible cultural heritage into visual form. From community storytelling and oral traditions to illustration, design and publishing, the duo will explore how visual narratives can make indigenous knowledge more accessible to contemporary audiences while retaining its cultural depth and integrity.At its heart, this is a conversation about memory, representation and the possibilities of storytelling - and about finding new ways to see, share and carry forward the knowledge that communities have held across generations.Loksutr works at the intersection of indigenous knowledge, visual storytelling, design and publishing. Through collaborations with knowledge keepers, community storytellers and traditional artists, they document oral traditions, myths, rituals, ecological knowledge and cultural practices, translating them into illustrated manuscripts, books, installations and contemporary visual formats.Their practice is rooted in the belief that traditional knowledge is not merely a record of the past, but a living resource that continues to shape how communities understand and engage with the world.",
     "image": [
@@ -5238,7 +4796,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 89,
+    "remainingAttendeeCapacity": 85,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5288,7 +4846,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 963,
+    "remainingAttendeeCapacity": 952,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5306,50 +4864,6 @@
     "url": "https://urbanaut.app/spot/pratham-books-day",
     "keywords": [
       "Festival",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "AI & Childhood",
-    "description": "AI & Childhood 🤖 | An UnconferenceChildren are growing up with AI before many of the adults around them fully understand it. From ChatGPT and Alexa to AI-powered learning tools, the technology is already shaping how children learn, play, and explore the world.Join the*spark and Pi-Jam Foundation for AI & Childhood, an unconference that brings together parents, teachers, and people working with children to explore AI through hands-on activities, shared experiences, and open conversations.No expert talks or formal panels. Just a space to learn from each other, ask questions, and explore what growing up with AI might look like.You should attend if you…Are a parent, teacher, or someone who works with children.Are curious about how AI is shaping childhood and learning.Have questions or concerns about how children interact with AI.Want to explore AI without needing any prior technical knowledge.What you'll take awayA hands-on introduction to AI through interactive activities and games.Fresh perspectives on how AI can support or affect children's learning.Space to share experiences, concerns, and ideas with other participants.Practical ideas to try at home, in the classroom, or in your work with children.What makes this different?This is an unconference, which means everyone is both a learner and a teacher. Participants bring their own questions, lead conversations, and shape the agenda together. Whether you're exploring AI for the first time or already navigating it with children, there's something to learn from everyone's experience.Event details📅 Date: Saturday, 21 November 2026🕐Time: 10:00 AM–1:00 PM📍Venue: the*spark | Pullur Centre, Whitefield, BengaluruCome curious, bring your questions, and leave with one small thing to try.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/ADE8BDDB1B6E4506943A572687FD4CA9_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T10:00:00+05:30",
-    "endDate": "2026-11-22T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "177, ITPL Main Rd, Basavanna Nagar, Hoodi, Bengaluru, Karnataka 560048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9914321,
-        "longitude": 77.7206674
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 250,
-    "remainingAttendeeCapacity": 250,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "the*spark | Pullur Centre",
-      "description": null,
-      "url": "https://urbanaut.app/partner/thespark-pullur-centre",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F2D313A281C649E19395AA9EA0B96EE4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ai-childhood",
-    "keywords": [
-      "Workshop",
       "URBANAUT"
     ]
   },
@@ -5523,7 +5037,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5791,98 +5305,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Odissi Dance Recital | Heritage beku",
-    "description": "Odissi Dance Recital ✨Join us this Sunday morning at the Bandstand as Heritage Beku presents Preeti Banerjee in a captivating Odissi performance.Known for its lyrical grace, sculptural poses, and fluid torso movements, Odissi brings timeless devotion and storytelling to life amidst the morning breeze and canopy of Cubbon Park.Come slow down, immerse yourself in classical rhythm, and experience the serene beauty of movement and music.Sunday, 22 November 2026 | 8–9 AMCubbon Park Bandstand, BengaluruStart your Sunday surrounded by art, nature, and community.All are welcome 🙏🏽",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/00C9931B51314C0E98B51CF5ACD60310_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T08:00:00+05:30",
-    "endDate": "2026-11-22T09:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Band stand, Cubbon Park Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9767034,
-        "longitude": 77.59394139999999
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 94,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cubbon Park Bandstand | Heritage Beku",
-      "description": "https://www.heritagebeku.com/",
-      "url": "https://urbanaut.app/partner/cubbon-park-bandstand-heritage-beku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/0FA8AED134194217AFCBBF46464FD68B_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/odissi-dance-recital",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Padel x Pilates",
-    "description": "Pilates meets Padel! 🎾🤍Your two favourite ways to move, coming together for one exciting experience!A little strength with Pilates, a little sport with Padel, some matcha, and a whole lot of good energy. Whether you're new to Mat Pilates, Padel, or both, this one's for you!Come for the movement, stay for the community. 🤍",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E2F8CEFC39EE44CF815D93A385C694E0_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7DBD5BD4AA46458785E8568E9F9A9487_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/6BB6C182162D4FFABCBFCE7481FB705E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/861040469B0C4CCCBA3C8759B3C3487F_converted_webp.webp"
-    ],
-    "startDate": "2026-11-22T08:30:00+05:30",
-    "endDate": "2026-11-22T10:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Whitefield Road, 2B, 4th Cross Rd, Vigneshwar Nagar, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9985089,
-        "longitude": 77.7016301
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 1499.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Studio Oura",
-      "description": "Studio Oura is a integrated fitness & wellness space in Bangalore offering mindful movement like Yoga & Pilates, soulful rituals, nutrition, recovery and community.",
-      "url": "https://urbanaut.app/partner/studiooura",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/3CAB6A0007C74CDFBB19C4BF8FDADAD6_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/padel-x-pilates",
-    "keywords": [
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Full Moon Rituals: Restorative Yin + Sound Healing",
     "description": "FULL MOON RITUALS: YIN YOGA + SOUND HEALINGA restorative evening to release, relax & align with the energy of the full moon. Through Restorative Yin Yoga, we’ll explore slow, supported postures that invite the body to soften and release, while Sound Healing uses soothing vibrations to deepen relaxation and create a sense of inner stillness.No pushing.No performing. No need to achieve anything.Just time to pause, breathe, listen, and reconnect with yourself.Come as you are. Leave a little lighter.About Soundarya, Yin Yoga Instructor My classes focus on nervous system regulation, mindful movement, and creating a sustainable relationship with the body. I blend traditional yoga practices with modern mobility techniques to support strength, stillness, and overall well-being. A large part of my work is centered around women’s wellness and hormonal health through yoga asanas and pranayama. My intention is to create a space where people can slow down, embrace stillness in this day and age, and reconnect with their body and breath.About Sneha, Sound Healing Practitioner My journey into healing and mindfulness started with a deep curiosity about people, emotions, and why each person, even in the same situation, experiences life so differently. I was also deeply curious about why changing certain patterns feels so difficult, even when we know they no longer serve us. Even while spending over a decade in the corporate world as a Chartered Accountant, I found myself constantly drawn toward understanding the inner world — the mind, emotions, awareness, and the connection we have with ourselves. Over time, by following my intuition and inner guidance, one experience naturally led to another, eventually bringing me to mindfulness, psychology, sound healing, and the work I do today. Today, I create spaces that help people slow down, reconnect with themselves, and find greater balance and inner well-being amidst the pace of modern life. I believe healing begins when we return to who we truly are beneath the patterns and noise. ",
     "image": [
@@ -5971,6 +5393,150 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Green By Design: Jayanagar Walk",
+    "description": "What can the trees tell us about the design of Jayanagar? In Bangalore's first planned neighbourhood, is tucked away a fascinating story of the city’s natural and cultural history.Walk with us through Jayanagar and discover it through fresh eyes.Walk Jayanagar’s wide roads and tree-lined avenuesListen to stories of the trees and parks woven into its layoutDiscover Bangalore’s first planned neighbourhoodSee trees like you’ve never seen them before!Your guides on the walkRadha Rangarajan & Suchi Govindarajan. We are writers, photographers and naturalists with a shared love of books and Bangalore.Let trees (and us) be your guides!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/05A5229714124926946B5D535CE30AF1_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/12E6A16F52B94B129F021AF99429ADF4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F330B1D281E6458982DCFB673C4E0052_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/63FECFB5DA3742F78A4D5DA69E7080D9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/04E4B456090747658A8DF07F12A30F7E_converted_webp.webp"
+    ],
+    "startDate": "2026-11-29T07:30:00+05:30",
+    "endDate": "2026-11-29T09:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "356/4, 12th Cross Rd, 2nd Block, Jaya Nagar East, Jayanagar, Bengaluru, Karnataka 560011, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9380857,
+        "longitude": 77.5823365
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 1038.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Garden City Walks",
+      "description": "Slow, unhurried nature walks in Bangalore's prettiest neighbourhoods, led by writers and naturalists",
+      "url": "https://urbanaut.app/partner/gardencitywalks",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/9CD5AC0638EB40A29C915C8583F685EB_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/greenbydesignwalk",
+    "keywords": [
+      "Eco Friendly",
+      "Walking Tour",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Supper Society ft. Chef Vivian Jude!",
+    "description": "An evening of Thanksgiving Dining reimagined by Chef Vivian Jude. Firewood cooking, slow-smoked meats and vegetables, and bold, flavour-forward plates, curated for everyone's palate!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CF2D65469F964CAC92FD031DDCC6CB2D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/028D57EBC33C481DA7A8DFA39DC9939C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3043137E154A46DB8B284468360E4FE2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C8D87D871A734C04AAFC34C45CD265C6_converted_webp.webp"
+    ],
+    "startDate": "2026-11-27T20:30:00+05:30",
+    "endDate": "2026-11-27T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9668525,
+        "longitude": 77.608074
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 13,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 3675.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Olive Beach",
+      "description": null,
+      "url": "https://urbanaut.app/partner/manifestovermatcha",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/587F00D10E824886AF551C8F855B6097_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-supper-society-ft-chef-vivian-jude#2026-11-27T2030",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Supper Society ft. Chef Vivian Jude!",
+    "description": "An evening of Thanksgiving Dining reimagined by Chef Vivian Jude. Firewood cooking, slow-smoked meats and vegetables, and bold, flavour-forward plates, curated for everyone's palate!",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/CF2D65469F964CAC92FD031DDCC6CB2D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/028D57EBC33C481DA7A8DFA39DC9939C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/3043137E154A46DB8B284468360E4FE2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/C8D87D871A734C04AAFC34C45CD265C6_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T13:00:00+05:30",
+    "endDate": "2026-11-28T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9668525,
+        "longitude": 77.608074
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 3675.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Olive Beach",
+      "description": null,
+      "url": "https://urbanaut.app/partner/manifestovermatcha",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/587F00D10E824886AF551C8F855B6097_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/the-supper-society-ft-chef-vivian-jude#2026-11-28T1300",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   }

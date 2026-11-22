@@ -1,32 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "QUANTUM Trails",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/yAV4Vt4XrcVU4fCT9"
-    },
-    "startDate": "2026-11-22T12:00:00+05:30",
-    "endDate": "2026-11-22T13:30:00+05:30",
-    "description": "Step beyond the visible and into the world of QUANTUM. Join our Mediators, Rachana and Yuktha, as they trace the connections between science, art and imagination. Discover the stories and ideas behind the works and experience the many strange, playful and thought-provoking ways quantum phenomena come to life.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=general-walkthrough-en27",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "50",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Rachana M "
-      },
-      {
-        "@type": "Person",
-        "name": "Yuktha J G"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
     "name": "QUANTUM Kathegalu: Kannada Walkthrough",
     "location": {
       "@type": "Place",
@@ -177,23 +151,6 @@
         "name": "Chetan Ghate"
       }
     ]
-  },
-  {
-    "@type": "Event",
-    "name": "Namma Oota: Day 2",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/38ymnBJ1czdC34MD9"
-    },
-    "startDate": "2026-11-22T11:00:00+05:30",
-    "endDate": "2026-11-22T20:00:00+05:30",
-    "description": "The Namma Oota festival, hosted by Science Gallery Bengaluru, fuses art, science, and gastronomy.\n\nFrom what grows in our fields to what lands on our plates, food connects us to questions of ecology, health, culture, and innovation. In the fourth edition of Namma Oota, we hope to explore these curiosities in relation to our diets, communities, and the Anthropocene.\n\nJoin us to enjoy the food stalls as we create a flea market-esque ambience with workshops, performances, interactive demonstrations and an open mic to explore. The portico will come alive with the sizzle of tawas, buzzing conversation, and a bit of organised chaos. The festival is curated as a platform to spark conversations and connections on Bengaluru, Oota (food), and sustainability.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=namma-oota-2",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "1000",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FNamma%20Oota%20Open%20Call_Web%20banner%20(1).jpg-1793877491820?alt=media&token=2253716b-cfcf-438e-a129-1036da1b2661"
   },
   {
     "@type": "EducationEvent",
@@ -350,29 +307,6 @@
       {
         "@type": "Person",
         "name": "Shankar Kumar Selvaraja"
-      }
-    ]
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "A Cup of Coffee in a Changing World",
-    "location": {
-      "@type": "Place",
-      "name": "Lecture Hall, Science Gallery Bengaluru",
-      "address": "Science Gallery, Bangalore",
-      "url": "https://maps.app.goo.gl/9fmR5U8zi4PSS2CC8"
-    },
-    "startDate": "2026-11-22T11:00:00+05:30",
-    "endDate": "2026-11-22T13:00:00+05:30",
-    "description": "Coffee connects us to some of the world's most biodiverse landscapes and to millions of smallholder farmers whose livelihoods depend on them. Yet these landscapes and communities are increasingly vulnerable to a changing climate and the pressures of global markets.\n\nDrawing on a decade of experience building Black Baza Coffee Co. and working with smallholder coffee producers across India, Arshiya Bose explores the complex relationships between agriculture, forests, livelihoods and conservation. From questioning conventional ideas of sustainability to experimenting with ways of making conservation economically viable, this public lecture invites us to think differently about where our coffee comes from, the people who grow it, and our relationship with the natural world.",
-    "url": "https://quantum.scigalleryblr.org/programmes?p=A-Cup-of-Coffee",
-    "isAccessibleForFree": true,
-    "maximumAttendeeCapacity": "80",
-    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FBB-HarshaVadlamani-300.jpg-1794550605915?alt=media&token=519798d2-e346-4082-ab36-10baf60a1260",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Arshiya Bose"
       }
     ]
   },
