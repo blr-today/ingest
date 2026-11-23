@@ -465,5 +465,28 @@
         "name": "Anu Rao"
       }
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Tree Next Door: A Storytelling Nature Walk",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery, Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-12-06T15:00:00+05:30",
+    "endDate": "2026-12-06T16:30:00+05:30",
+    "description": "What if the trees we pass every day could tell us stories of the city, its people and the many forms of life they sustain?\n\nTake a closer look at the trees around Science Gallery Bengaluru on this collaborative walk. Through local legends, folk tales and fascinating ecological insights, discover how Bengaluru's trees have changed over time, from native species to those introduced during the colonial era and later greening drives. Along the way, pause to observe their textures, scents and the diverse life forms they support, from birds and insects to lichens and fungi.\n\nJoin Mamlakatoi for a walk that brings together storytelling, sensory exploration and urban ecology, and discover the stories growing right around us.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=the-tree-next-door",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2F20261115_101114%20-%20Mamlakatoi%20Large.jpg-1795443098001?alt=media&token=ed9eaf36-778e-436e-ab75-e218269f3c6e",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Mamlakatoi"
+      }
+    ]
   }
 ]

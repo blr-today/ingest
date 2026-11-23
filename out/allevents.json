@@ -269,36 +269,71 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Karthika Deepotsavam கார்த்திகை தீபத் திருவிழா కార్తీక దీపోత్సవం कार्तिक दीपोत्सव",
-    "image": "https://cdn-az.allevents.in/events7/banners/44bd011217821918a8855eda12234b4c9626745750d306c67db26e9b566dc595-rimg-w768-h960-dc080808-gmir?v=1795361731",
-    "startDate": "2026-11-24T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/karthika-deepotsavam-கார்த்திகை-தீபத்-திருவிழா-కార్తీక-దీపోత్సవం-कार्तिक-दीपोत्सव/200031098469531",
+    "@type": "Event",
+    "name": "Kannadigara Vyaapaara Vedike Vaarshikotsava 2026",
+    "image": "https://cdn-az.allevents.in/events10/banners/b00da84953ec438a226e90fcdcf7f45447aca4326dca75ec373f24474d462883-rimg-w960-h576-dcf8f8f8-gmir?v=1795428856",
+    "startDate": "2026-11-28T07:00:00+05:30",
+    "endDate": "2026-11-28T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kannadigara-vyaapaara-vedike-vaarshikotsava-2026/200031105343317",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "22, Vidyapeeta Layout, Thyagaraja Nagar, Basavanagudi, , Bengaluru, India 560070, Karnataka",
+      "name": "Nandi Link Grounds",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "22, Thyagaraja NGR, Basavanagudi, Bengaluru 560028, India",
+        "streetAddress": "Nandi Link Grounds Gate 3, Outer Ring Road, Pantarapalya, Nayandahalli, Bengaluru 560039, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.93461",
-        "longitude": "77.57038"
+        "latitude": "12.94268",
+        "longitude": "77.53066"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "ಶ್ರೀ ಸಿದ್ಧಿ ಸುಬ್ರಹ್ಮಣ್ಯೇಶ್ವರ ದೇವಸ್ಥಾನ\nShri Siddhi Subrahmanyeshwara Devasthanam\n\nKarthika Deepotsavam \nಕಾರ್ತಿಕ ದೀಪೋತ್ಸವ\nகார்த்திகை தீபத் திருவிழா \nకార్తీక దీపోత్సవం \nकार्तिक दीपोत्सव\n\nTuesday 24-11-2026 ಮಂಗಳವಾರ\nಸಂಜೆ 5:50PM\n\nKarthika Deepotsavam will be celebrated on Tuesday, 24-11-2026. All devotees",
+    "description": "2nd anniversary celebration of Kannadigara Vyaapaara Vedike, a business networking organisation for all Kannada speaking business owners. This event is an opportunity to network with 1000+ business owners under one roof.",
     "organizer": [
       {
         "@type": "Organization",
-        "name": "Shri Siddhi Subrahmanyeshwara Devasthanam",
-        "url": "https://allevents.in/org/shri-siddhi-subrahmanyeshwara-devasthanam/28300542",
-        "description": "Welcome to Om Shri Siddhi Subrahmanyeshwara Devasthanam, in Vidyapeeta Layout, Bengaluru."
+        "name": "   - Kannadigara Vyaapaara Vedike",
+        "url": "https://allevents.in/org/ಕನ್ನಡಿಗರ-ವ್ಯಾಪಾರ-ವೇದಿಕೆ-kannadigara-vyaapaara-vedike/28470190"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "MAGIC SHOW – LIVE PERFORMANCE",
+    "image": "https://cdn-az.allevents.in/events8/banners/2549466e170a276d4665201213d634aa4255997a2e3b24923dfbaf9283bd0cef-rimg-w1200-h800-dc080808-gmir?v=1795428864",
+    "startDate": "2026-11-29T17:00:00+05:30",
+    "endDate": "2026-11-29T18:30:00+05:30",
+    "url": "https://allevents.in/bangalore/magic-show-live-performance/200031105346424",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Karnataka Chitrakala Parishath, Kumara Krupa Road, Near Shivananda Circle, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "College Of Fine Arts Karnataka Chitrakala Parishath, Kumar Krupa Road, Kumara Park East, Seshadripuram, Bengaluru 560001, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.989085569371",
+        "longitude": "77.580834226233"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "✨🎩 GET READY TO BE AMAZED! THE MAGIC IS IN THE AIR! 🎩✨\n\n🌟 MAGIC SHOW – LIVE PERFORMANCE 🌟\n\nStep into a world of wonder, mystery and unbelievable illusions! Experience an exciting evening filled with spectacular magic tricks, mind-blowing surprises and magical moments for the entire family with Shopp",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Grand Flea Market",
+        "url": "https://allevents.in/org/grand-flea-market/21837377"
       }
     ]
   },
@@ -792,25 +827,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "18 Adavr Barri - Solo Special by Vadiraj",
-    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883081",
-    "startDate": "2026-12-05T16:00:00+05:30",
-    "endDate": "2026-12-05T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921",
+    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883075",
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
+      "name": "The Laugh Junction: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.915",
-        "longitude": "77.5951"
+        "latitude": "12.9122",
+        "longitude": "77.6357"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -821,9 +856,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-12-05T17:30:00+05:30",
+        "availabilityEnds": "2026-11-28T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921"
+        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915"
       }
     ]
   },
@@ -1390,6 +1425,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Crabbby",
+    "image": "https://cdn-az.allevents.in/events2/banners/e6d0e620-e38d-11f1-afaa-49835c778578-rimg-w1200-h600-dc080808-gmir.jpg?v=1795033402",
+    "startDate": "2026-12-13T11:00:00+05:30",
+    "endDate": "2026-12-13T11:40:00+05:30",
+    "url": "https://allevents.in/bangalore/crabbby/3900031023477111",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Ranga Shankara: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9116",
+        "longitude": "77.5871"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "This story is all about how Crabbby and Storky, enemies turned friends, come together to rescue their pond. Remember, Crabbby is intelligent. Very very intelligent. Because he always thinks differently. And that is how he comes up with a brilliant idea to save the pond from the townspeople who would",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-11",
+        "availabilityEnds": "2026-12-13T11:40:00+05:30",
+        "validFrom": "2026-11-11",
+        "url": "https://allevents.in/bangalore/crabbby/3900031023477111"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "One Piece Trivia and Scavenger Hunt by Partyvorous",
     "image": "https://cdn-az.allevents.in/events8/banners/c5323a60-de96-11f1-a7be-298b5c0ef5b1-rimg-w1200-h600-dc182838-gmir.jpg?v=1794487456",
     "startDate": "2026-12-06T13:00:00+05:30",
@@ -1469,7 +1543,7 @@
     "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Kanya",
-    "image": "https://cdn-az.allevents.in/events7/banners/0c5c32f0-e1c2-11f1-ab69-a76145f05a1c-rimg-w1200-h600-dc981818-gmir.jpg?v=1794835897",
+    "image": "https://cdn-az.allevents.in/events1/banners/6b339110-e744-11f1-b308-e755fe884311-rimg-w1200-h600-dc981818-gmir.jpg?v=1795441646",
     "startDate": "2026-11-28T21:15:00+05:30",
     "endDate": "2026-11-28T23:15:00+05:30",
     "url": "https://allevents.in/bangalore/kanya/3900031057274737",
@@ -1819,45 +1893,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Hat-Dance Disaster - An Anansi Story",
-    "image": "https://cdn-az.allevents.in/events7/banners/eadf3450-e5af-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795267914",
-    "startDate": "2026-12-13T16:00:00+05:30",
-    "endDate": "2026-12-13T16:45:00+05:30",
-    "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Ranga Shankara: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9116",
-        "longitude": "77.5871"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Anansi the trickster spider loves three things above all - his hair, his hats and food. When food becomes scarce, Anansi turns to Mama for help but his greed gets him into a soup and changes him forever. This lively tale from West Africa will have children laughing, singing, chanting and even dancin",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-13T16:45:00+05:30",
-        "validFrom": "2026-11-21",
-        "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Faraway Christmas Land",
     "image": "https://cdn-az.allevents.in/events5/banners/1aa60a10-e5b0-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc081838-gmir.jpg?v=1795267994",
     "startDate": "2026-12-13T12:00:00+05:30",
@@ -2008,6 +2043,45 @@
         "availabilityEnds": "2026-11-24T16:00:00+05:30",
         "validFrom": "2026-11-23",
         "url": "https://allevents.in/bangalore/miniature-food/3900031103577936"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Kannada Play Aadaddella Olithe 100th &amp; 101st shows",
+    "image": "https://cdn-az.allevents.in/events1/banners/04f2b290-e745-11f1-b308-e755fe884311-rimg-w1200-h600-dc080808-gmir.jpg?v=1795441904",
+    "startDate": "2026-12-19T15:30:00+05:30",
+    "endDate": "2026-12-19T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/kannada-play-aadaddella-olithe-100th-and-101st-shows/3900031106498045",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Ranga Shankara: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9116",
+        "longitude": "77.5871"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Kriyative Theatre is presenting the 100th and 101st shows of one of its most popular plays, Adaddella Olithe. The play, which has been running into houseful shows, is a hilarious comedy based on a story by Kannada humourist, T.Sunandamma. It revolves around the antics of the elderly couple, Bhagu an",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-23",
+        "availabilityEnds": "2026-12-19T17:00:00+05:30",
+        "validFrom": "2026-11-23",
+        "url": "https://allevents.in/bangalore/kannada-play-aadaddella-olithe-100th-and-101st-shows/3900031106498045"
       }
     ]
   },
@@ -2537,67 +2611,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Pickleball Socials - All levels are welcome",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6afb08251e62f.jpg",
-    "startDate": "2026-11-29T11:00:00+05:30",
-    "endDate": "2026-11-29T13:00:00+05:30",
-    "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "CoPlay Machaxi Pickleball | Koramangala",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "901/1, 80 Feet Rd, Venkappa Garden, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9395564",
-        "longitude": "77.6259695"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Looking for a fun new way to meet people in Bengaluru?Whether you’re trying the sport for the first time or already love the game, this is a relaxed social experience designed to help you meet like-minded people.At the Plus One Tribe we are inviting curious people who always wanted to try their hand",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-11-29T13:00:00+05:30",
-        "validFrom": "2026-11-16",
-        "lowPrice": "650.00",
-        "highPrice": "650.00",
-        "price": "650.00",
-        "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-11-29T13:00:00+05:30",
-        "validFrom": "2026-11-16",
-        "price": "650.00",
-        "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336",
-        "availability": "https://schema.org/InStock",
-        "name": "Pickleball Socials"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "The Plus One Tribe",
-        "url": "https://allevents.in/org/the-plus-one-tribe/28422590"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Manotsava | National Mental Health Festival",
     "image": "https://cdn2.allevents.in/thumbs/thumb6afc174f26568.jpg",
     "startDate": "2026-12-05T09:00:00+05:30",
@@ -2633,143 +2646,61 @@
   {
     "@context": "https://schema.org",
     "@type": "MusicEvent",
-    "name": "Super Star South -",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af6e6767fe97.jpg",
-    "startDate": "2026-12-12T21:00:00+05:30",
-    "endDate": "2026-12-13T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
+    "name": "Sursagar - 44th Varshikotsav concert",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af55724210c1.jpg",
+    "startDate": "2026-11-27T17:30:00+05:30",
+    "endDate": "2026-11-27T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Boche Club - Brigade Road",
+      "name": "Chowdiah Memorial Hall",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 4, EVA Mall, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
-        "postalCode": "560025",
+        "streetAddress": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
+        "postalCode": "560003",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9709371",
-        "longitude": "77.6072212"
+        "latitude": "13.0065834",
+        "longitude": "77.5755092"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "✨ Get ready for an unforgettable night of music and celebration at Super Star South! This is a special DJ night concert dedicated to all the Rajini fans out there, celebrating a phenomenal 75 years of being Rajinified, as well as honoring the amazing VDJ Andy's 50th milestone. It’s a night to dance,",
+    "description": "Sursagar presents the 44th Varshikotsav on 27th November ‘2026 (Friday) @ 5:30 pm onwards at Chowdaiah Memorial Hall. A vocal recital by Shri Siddhartha Belmannu accompanied by Pandit Ravindra Yavagal on the tabla and by Shri Prasad Kamath on the harmonium. Following this, will be a recital by Pandi",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-12-13T00:00:00+05:30",
-        "validFrom": "2026-11-11",
-        "lowPrice": "299.00",
-        "highPrice": "549.00",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-12-13T00:00:00+05:30",
-        "validFrom": "2026-11-11",
-        "price": "299.00",
-        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird Ladies "
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-12-13T00:00:00+05:30",
-        "validFrom": "2026-11-11",
-        "price": "399.00",
-        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Bird stags "
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-12-13T00:00:00+05:30",
-        "validFrom": "2026-11-11",
-        "price": "549.00",
-        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
-        "availability": "https://schema.org/InStock",
-        "name": "Early Couple entry "
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Trisha Anand",
-        "url": "https://allevents.in/org/trisha-anand/25326442"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bengaluru Potters Market 2026 - Free Entry",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6afff86ccbd66.jpg",
-    "startDate": "2026-12-04T10:30:00+05:30",
-    "endDate": "2026-12-06T19:00:00+05:30",
-    "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Karnataka Chitrakala Parishath",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Art Complex, 1, Kumarakrupa Rd, near The Lalit Hotel, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.971598625183105",
-        "longitude": "77.59456634521484"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Join us at the 5th edition of the Bengaluru Potters Market and discover the artistry of 30+ talented studio potters from across India!Immerse yourself in a captivating array of handmade ceramics, from exquisite tableware and home décor to expressive sculptures and unique, one-of-a-kind pieces.Whethe",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-20",
-        "availabilityEnds": "2026-12-06T19:00:00+05:30",
-        "validFrom": "2026-11-20",
+        "availabilityStarts": "2026-11-12",
+        "availabilityEnds": "2026-11-27T20:30:00+05:30",
+        "validFrom": "2026-11-12",
         "lowPrice": "0.00",
         "highPrice": "0.00",
         "price": "0.00",
-        "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026"
+        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400"
       },
       {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-20",
-        "availabilityEnds": "2026-12-06T19:00:00+05:30",
-        "validFrom": "2026-11-20",
+        "availabilityStarts": "2026-11-12",
+        "availabilityEnds": "2026-11-27T20:30:00+05:30",
+        "validFrom": "2026-11-12",
         "price": "0.00",
-        "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026",
+        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
         "availability": "https://schema.org/InStock",
-        "name": "Bengaluru Potters Market - 4th to 6th Dec, 2026 "
+        "name": "Entry Free"
       }
     ],
     "organizer": [
       {
         "@type": "Organization",
-        "name": "Bengaluru Studio Potters Market",
-        "url": "https://allevents.in/org/bengaluru-studio-potters-market/25143717"
+        "name": "Sursagar Bangalore",
+        "url": "https://allevents.in/org/sursagar-bangalore/28400636"
       }
     ]
   },
@@ -3954,6 +3885,34 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rap Writing for Self-Expression &amp; Community Identity: Govandi Arts Festival x Kali | Workshop",
+    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293622",
+    "startDate": "2026-12-05T13:15:00+00:00",
+    "endDate": "2026-12-05T14:45:00+00:00",
+    "url": "https://allevents.in/bengaluru/rap-writing-for-self-expression-and-community-identity-govandi-arts-festival-x-kali-workshop/4700031093997122",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue: Big Tent",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jayamahal Palace Hotel",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9972",
+        "longitude": "77.5979361"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nWhat happens when young people get the mic to tell their own stories? Rappers from Karnakata and from the Govandi Arts Festival, Mumbai introduce the basics of rap writing through rhythm, w"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Blow Your Own Trumpet: Find Your Genius. Build Your Authority. Monetize Your Visibility.",
     "image": "https://cdn-az.allevents.in/events6/banners/c85dc5e0-e5eb-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dcf8f8e8-gmir.png?v=1795293626",
     "startDate": "2026-12-05T14:00:00+00:00",
@@ -3978,5 +3937,33 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "A transformational personal branding workshop for founders and senior leaders ready to build a profitable personal brand in 2027.\n\nSaturday, 5 December 2026DATE\n\n2:00–5:00 PM ISTTIME\n\nBengaluruVENUE\n\nFree | 30 seatsREGISTRATION APPROVAL REQUIRED\n\nYou’ve built a business, led teams or spent years mas"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Orbit by PeakXV and In-Space",
+    "image": "https://cdn-az.allevents.in/events1/banners/fad861d0-e66b-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dcf8f8f8-gmir.jpg?v=1795348686",
+    "startDate": "2026-12-09T18:00:00+00:00",
+    "endDate": "2026-12-09T20:30:00+00:00",
+    "url": "https://allevents.in/bengaluru/orbit-by-peakxv-and-in-space/4700031097389607",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Bengaluru, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.97570896141",
+        "longitude": "77.639553664536"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Orbit brings together founders building India’s space economy for an evening hosted by Peak XV and IN-SPACe.\n\nSpace companies in India are built over long timelines, with hardware risk, government and global customers, and capital that has to understand all three. Orbit is a room for the people doin"
   }
 ]

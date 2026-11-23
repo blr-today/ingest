@@ -1,6 +1,42 @@
 [
   {
     "@type": "SportsEvent",
+    "name": "WESNESS RUN2MINGLE BLR",
+    "url": "https://indiarunning.com/events/wesnessrun2mingleblr-24866",
+    "startDate": "2026-11-28T06:00:00+05:30",
+    "endDate": "2026-11-28T08:00:00+05:30",
+    "description": "BANGALORE BADDIES, SLAY THE DAY!\nYOUR SATURDAY MORNING JUST GOT A WHOLE LOT MORE FUN! Kick off with a 3K run, then get ready for 45 minutes of interactive games, fun challenges, and bonding.\n \nWHAT'S INCLUDED?\n- Guided warm-up and cool-down\n- Guided 3K city run\n- Fun icebreakers & interactive group games\n- 45-minute hosted bonding session\n- Hot chocolate\n- Exclusive Wesness water bottle\n \nDRESS CODE: BLACK!\n \nEVENT DETAILS\nDate- 28 NOVEMBER 2026 | SATURDAY\nTime- 6:00 AM REPORTING\nLocation- WESTSIDE EDIT – HSR LAYOUT, BENGALURU\n \nCome solo or bring your crew. Start your Saturday with new connections, lots of laughs and memories worth waking up for!\n \nLESS SCROLLING. MORE MINGLING.\nWake up. Show up. Slay the day!",
+    "image": "https://race-registration-cdn.indiarunning.com/events/2026/11/15/wesness-run2zumba-hyderabad-2026-2026/banner1790178908286",
+    "location": {
+      "@type": "Place",
+      "name": "Sector 4",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "V Plaza, 14th Main Rd, opp. BDA Complex, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560102",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9140575,
+        "longitude": 77.63785419999999
+      }
+    },
+    "sport": "Running",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "3K",
+        "price": "499",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@type": "SportsEvent",
     "name": "Run and Kickboxing at Indiranagar",
     "url": "https://indiarunning.com/events/run_and_kickboxing_at_indiranagar_32579",
     "startDate": "2026-11-28T07:00:00+05:30",
@@ -504,56 +540,6 @@
         "@type": "Offer",
         "name": "10k",
         "price": "299",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@type": "SportsEvent",
-    "name": "Bagmane Run 2.0",
-    "url": "https://indiarunning.com/events/bagmane_run_20_22923",
-    "startDate": "2027-02-14T06:30:00+05:30",
-    "endDate": "2027-02-14T05:30:00+05:30",
-    "description": "Bagmane Run 2.0 – Move for Wellness, Unity & Impact!\nPresented by Manipal Hospitals | Powered by Trana Sports & Fitness\nA morning run for Bengaluru's running enthusiasts, working professionals and fitness communities, right inside Bagmane Tech Park.\nDate: Sunday, 14 February 2027\nRace start: 6:30 AM onwards\nVenue: WTC, Bagmane Tech Park, Bengaluru\nCategories & entry fee (excl. GST) – Early Bird price (20% off) / Regular price:\n10K Run – Rs 1,119.20 (regular Rs 1,399) | Age 12 to 70\n5K Run – Rs 879.20 (regular Rs 1,099) | Age 12 to 70\n3K Run – Rs 719.20 (regular Rs 899) | Age 5 to 60\nEarly Bird Offer: 20% off on registration, valid till 31 December 2026. Regular prices apply from 1 January 2027.\nRace-day inclusions: Official event jersey, Participant BIB, Finisher medal, Breakfast.\nFor queries: events@trana.co.in | 8217345157",
-    "image": "https://race-registration-cdn.indiarunning.com/events/2027/02/14/10648/banner1794896602711",
-    "location": {
-      "@type": "Place",
-      "name": "Doddanakhundi Village",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Survey No 34, 2, Marathalli, 1 to 37, Outer Ring Rd, Doddanakhundi Village, Mahadevapura, Bengaluru, Karnataka 560048, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "Karnataka",
-        "postalCode": "560048",
-        "addressCountry": "India"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9836347,
-        "longitude": 77.6933169
-      }
-    },
-    "sport": "Running",
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "3K",
-        "price": "719.20",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "5k",
-        "price": "719.20",
-        "priceCurrency": "INR",
-        "availability": "http://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "name": "10k",
-        "price": "719.20",
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock"
       }

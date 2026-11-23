@@ -132,32 +132,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Teatime Cakes",
-    "description": "Learn the recipes and techniques to take classic tea-time cakes to the next level, and discover ways to make these cakes travel well and last longer.\n• Classic Lemon Tea Cake\n• Devil’s Chocolate Cake\n• Marble Cake\n• Carrot Cake\n• Banana Bread",
-    "url": "https://lavonne.in/courses/weekend-classes#class-w3bj75g7gordcdygyg4cbsrf",
-    "image": "https://lavonne-media.sgp1.cdn.digitaloceanspaces.com/Tea_Time_Cakes_c1b6d1f906.webp",
-    "startDate": "2027-01-30T09:00:00+05:30",
-    "endDate": "2027-01-30T17:00:00+05:30",
-    "offers": {
-      "@type": "Offer",
-      "price": "5000",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Lavonne Academy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      }
-    }
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Cupcakes, Cookies & Muffins",
     "description": "A perfectly frosted cupcake fixes all our problems! This class takes you through the recipes and techniques to make decadent cupcakes, creamy frostings, fudgy cookies and more, all with the perfect texture.\n• Chocolate Cupcake\n• Red Velvet Cupcake\n• Vanilla Caramel Cupcake\n• Apple Oats Muffin\n• Double Chocolate Chip Cookie\n• Oatmeal Cranberry Cookie\n• Lemon Crinkle Cookie",
     "url": "https://lavonne.in/courses/weekend-classes#class-it0u4rks4mu5o1ry68ux8gqz",
@@ -245,6 +219,32 @@
     "offers": {
       "@type": "Offer",
       "price": "5500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Lavonne Academy",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Teatime Cakes",
+    "description": "Learn the recipes and techniques to take classic tea-time cakes to the next level, and discover ways to make these cakes travel well and last longer.\n• Classic Lemon Tea Cake\n• Devil’s Chocolate Cake\n• Marble Cake\n• Carrot Cake\n• Banana Bread",
+    "url": "https://lavonne.in/courses/weekend-classes#class-w3bj75g7gordcdygyg4cbsrf",
+    "image": "https://lavonne-media.sgp1.cdn.digitaloceanspaces.com/Tea_Time_Cakes_c1b6d1f906.webp",
+    "startDate": "2027-02-27T09:00:00+05:30",
+    "endDate": "2027-02-27T17:00:00+05:30",
+    "offers": {
+      "@type": "Offer",
+      "price": "5000",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock"
     },
