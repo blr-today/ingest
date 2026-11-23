@@ -233,6 +233,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Friday Night Unplugged @ Urban Solace feature MIXTAPE - Vidya, Pearl &amp; Eric",
+    "image": "https://cdn-az.allevents.in/events10/banners/ede431fb03db131c710231ebc0346c381f1a07c24909a09f65979a89df904839-rimg-w1200-h664-dcf8f8f8-gmir?v=1795071881",
+    "startDate": "2026-12-04T20:00:00+05:30",
+    "endDate": "2026-12-04T21:30:00+05:30",
+    "url": "https://allevents.in/bangalore/friday-night-unplugged-urban-solace-feature-mixtape-vidya-pearl-and-eric/200031077280941",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "32, Annaswamy Mudaliar Road, Bengaluru, India 560042, Karnataka",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12 Annaswamy Mudaliar Road, Sivan Chetty Garden, Halasuru, Bengaluru 560042, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.98154",
+        "longitude": "77.6156"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "FRIDAY NIGHT UNPLUGGED @ URBAN SOLACE\nFeatures: MIXTAPE - Vidya, Pearl & Eric\nA Bangalore based live trio | Jazz • Pop • Rock • R&B • Bossa Nova\nFriday, 4th December 2026, 8 pm  \nENTRY FREE\n\nMeet Mixtape:\nThree friends, one shared love for music, and a repertoire that refuses to stay in just one gen",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Urban Solace - Cafe for the Soul",
+        "url": "https://allevents.in/org/urban-solace-cafe-for-the-soul/338401",
+        "description": "Location: No 32, Annaswamy Mudaliar Road, (between Tamil Sangam and FotoFlash, opposite Ulsoor Lake)  Phone: 255.536.56  Mon - Sun: 11:00 am - 11:00 pm"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Festival",
     "name": "Karthika Deepotsavam கார்த்திகை தீபத் திருவிழா కార్తీక దీపోత్సవం कार्तिक दीपोत्सव",
     "image": "https://cdn-az.allevents.in/events7/banners/44bd011217821918a8855eda12234b4c9626745750d306c67db26e9b566dc595-rimg-w768-h960-dc080808-gmir?v=1795361731",
@@ -756,25 +792,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "18 Adavr Barri - Solo Special by Vadiraj",
-    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883075",
-    "startDate": "2026-11-28T16:00:00+05:30",
-    "endDate": "2026-11-28T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915",
+    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883081",
+    "startDate": "2026-12-05T16:00:00+05:30",
+    "endDate": "2026-12-05T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "The Laugh Junction: Bengaluru",
+      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9122",
-        "longitude": "77.6357"
+        "latitude": "12.915",
+        "longitude": "77.5951"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -785,9 +821,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-28T17:30:00+05:30",
+        "availabilityEnds": "2026-12-05T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915"
+        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921"
       }
     ]
   },
@@ -1315,39 +1351,39 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Crabbby",
-    "image": "https://cdn-az.allevents.in/events2/banners/e6d0e620-e38d-11f1-afaa-49835c778578-rimg-w1200-h600-dc080808-gmir.jpg?v=1795033402",
-    "startDate": "2026-12-13T11:00:00+05:30",
-    "endDate": "2026-12-13T11:40:00+05:30",
-    "url": "https://allevents.in/bangalore/crabbby/3900031023477111",
+    "name": "Musical Jamming with Shayari",
+    "image": "https://cdn-az.allevents.in/events6/banners/da10a250-dd88-11f1-b5f0-afb87e29c9d2-rimg-w1200-h600-dc181818-gmir.jpg?v=1794371526",
+    "startDate": "2026-12-12T16:00:00+05:30",
+    "endDate": "2026-12-12T18:00:00+05:30",
+    "url": "https://allevents.in/bangalore/musical-jamming-with-shayari/3900031021693307",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Ranga Shankara: Bengaluru",
+      "name": "Kalamanch Studio: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "2nd floor, Sai Archade 24th Main road, 11th Cross Road, near Bank of Baroda, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9116",
-        "longitude": "77.5871"
+        "latitude": "12.9172",
+        "longitude": "77.6496"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "This story is all about how Crabbby and Storky, enemies turned friends, come together to rescue their pond. Remember, Crabbby is intelligent. Very very intelligent. Because he always thinks differently. And that is how he comes up with a brilliant idea to save the pond from the townspeople who would",
+    "description": "Musical Jamming with ShayariPresented by The Metro DiariesStep into an evening where melodies dance with words.Bollywood tunes meet the depth of Shayari, creating a vibe that is raw, soulful, and unforgettable.Why you should be thereFeel the Fusion, Music for your ears, Shayari for your soul.Take th",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-11",
-        "availabilityEnds": "2026-12-13T11:40:00+05:30",
+        "availabilityEnds": "2026-12-12T18:00:00+05:30",
         "validFrom": "2026-11-11",
-        "url": "https://allevents.in/bangalore/crabbby/3900031023477111"
+        "url": "https://allevents.in/bangalore/musical-jamming-with-shayari/3900031021693307"
       }
     ]
   },
@@ -1899,45 +1935,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Malayalam Kalyanam Fake Wedding Edition",
-    "image": "https://cdn-az.allevents.in/events1/banners/dcafb5b0-e624-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc080808-gmir.jpg?v=1795318142",
-    "startDate": "2026-12-06T17:00:00+05:30",
-    "endDate": "2026-12-06T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "BudBee Restobar 104: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9332",
-        "longitude": "77.6147"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for an unforgettable night filled with Malayalam vibes music dance and wedding celebrationsMalayalam Tashan Night Kalyanam Fake Wedding Edition brings you the excitement of a grand traditional wedding with a fun twistExperience energetic music entertaining performances dance celebrations f",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-22",
-        "availabilityEnds": "2026-12-06T20:00:00+05:30",
-        "validFrom": "2026-11-22",
-        "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "HUMANITAS",
     "image": "https://cdn-az.allevents.in/events9/banners/80707d00-e694-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795366090",
@@ -1972,6 +1969,45 @@
         "availabilityEnds": "2026-12-20T20:00:00+05:30",
         "validFrom": "2026-11-22",
         "url": "https://allevents.in/bangalore/humanitas/3900031098850711"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Miniature Food",
+    "image": "https://cdn-az.allevents.in/events10/banners/9347b940-e705-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8e8e8-gmir.jpg?v=1795414655",
+    "startDate": "2026-11-24T15:00:00+05:30",
+    "endDate": "2026-11-24T16:00:00+05:30",
+    "url": "https://allevents.in/bangalore/miniature-food/3900031103577936",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Zone 6 by Biopeak: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Third Floor, Biopeak, 56, 100 Feet Road, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9751",
+        "longitude": "77.6413"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Step into the adorable world of miniature food art where you  craft impossibly cute palm sized versions of your favorite meals From South Indian thalis to chaat platters and desserts every tiny detail is handmade with love and lots of clay  What in store  Learn sculpting  detailing techniques for re",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-23",
+        "availabilityEnds": "2026-11-24T16:00:00+05:30",
+        "validFrom": "2026-11-23",
+        "url": "https://allevents.in/bangalore/miniature-food/3900031103577936"
       }
     ]
   },
@@ -2502,9 +2538,9 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Pickleball Socials - All levels are welcome",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6aface5d7e702.jpg",
-    "startDate": "2026-12-05T11:00:00+05:30",
-    "endDate": "2026-12-05T13:00:00+05:30",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6afb08251e62f.jpg",
+    "startDate": "2026-11-29T11:00:00+05:30",
+    "endDate": "2026-11-29T13:00:00+05:30",
     "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -2525,14 +2561,14 @@
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Looking for a fun new way to meet people in Bengaluru?Whether you’re trying the sport for the first time or already love the game, this is a relaxed social experience designed to help you meet like-minded people.At the Plus One Tribe we are inviting curious people. Ones who wantedAll levels are welc",
+    "description": "Looking for a fun new way to meet people in Bengaluru?Whether you’re trying the sport for the first time or already love the game, this is a relaxed social experience designed to help you meet like-minded people.At the Plus One Tribe we are inviting curious people who always wanted to try their hand",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
         "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-12-05T13:00:00+05:30",
+        "availabilityEnds": "2026-11-29T13:00:00+05:30",
         "validFrom": "2026-11-16",
         "lowPrice": "650.00",
         "highPrice": "650.00",
@@ -2543,7 +2579,7 @@
         "@type": "Offer",
         "priceCurrency": "INR",
         "availabilityStarts": "2026-11-16",
-        "availabilityEnds": "2026-12-05T13:00:00+05:30",
+        "availabilityEnds": "2026-11-29T13:00:00+05:30",
         "validFrom": "2026-11-16",
         "price": "650.00",
         "url": "https://allevents.in/bangalore/pickleball-socials-all-levels-are-welcome-tickets/80001254868336",
@@ -2556,67 +2592,6 @@
         "@type": "Organization",
         "name": "The Plus One Tribe",
         "url": "https://allevents.in/org/the-plus-one-tribe/28422590"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Glamour &amp; Grooves",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6b021a2d11c34.jpg",
-    "startDate": "2026-11-28T20:00:00+05:30",
-    "endDate": "2026-11-28T21:00:00+05:30",
-    "url": "https://allevents.in/bangalore/glamour-and-grooves-tickets/80001489860712",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cubora - A luxury nightclub experience",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Ground &amp; 1st floor, Kartan fabrics No.44, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9340421",
-        "longitude": "77.61563480000001"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready to ignite your senses at Glamour & Grooves! Join us for an unforgettable evening of Bollywood beats and commercial hits, set in the heart of Bengaluru’s vibrant nightlife. With the sensational DJ Dynameets spinning tracks that will keep you dancing all night, this is the party everyone wil",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-11-28T21:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/glamour-and-grooves-tickets/80001489860712"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-11-28T21:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/glamour-and-grooves-tickets/80001489860712",
-        "availability": "https://schema.org/InStock",
-        "name": "Party peoples guest list "
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Party Peoples ",
-        "url": "https://allevents.in/org/party-peoples/28071943"
       }
     ]
   },
@@ -2657,62 +2632,144 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Red Flag Thursday at Koramangala",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6b02189113929.jpg",
-    "startDate": "2026-11-26T20:00:00+05:30",
-    "endDate": "2026-11-26T21:00:00+05:30",
-    "url": "https://allevents.in/bangalore/red-flag-thursday-at-koramangala-tickets/80001852044920",
+    "@type": "MusicEvent",
+    "name": "Super Star South -",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af6e6767fe97.jpg",
+    "startDate": "2026-12-12T21:00:00+05:30",
+    "endDate": "2026-12-13T00:00:00+05:30",
+    "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Cubora - A luxury nightclub experience",
+      "name": "Boche Club - Brigade Road",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Ground &amp; 1st floor, Kartan fabrics No.44, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
+        "streetAddress": "Level 4, EVA Mall, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "postalCode": "560025",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9340421",
-        "longitude": "77.61563480000001"
+        "latitude": "12.9709371",
+        "longitude": "77.6072212"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for an unforgettable night at Red Flag Thursday! 🌟 Whether you’re newly single or just looking to have some fun, this crazy red flag party at Cubora promises to turn all your frowns upside down. Dance the night away with DJ NY, who’s bringing the beats that'll keep you moving till the earl",
+    "description": "✨ Get ready for an unforgettable night of music and celebration at Super Star South! This is a special DJ night concert dedicated to all the Rajini fans out there, celebrating a phenomenal 75 years of being Rajinified, as well as honoring the amazing VDJ Andy's 50th milestone. It’s a night to dance,",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-11-26T21:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/red-flag-thursday-at-koramangala-tickets/80001852044920"
+        "availabilityStarts": "2026-11-11",
+        "availabilityEnds": "2026-12-13T00:00:00+05:30",
+        "validFrom": "2026-11-11",
+        "lowPrice": "299.00",
+        "highPrice": "549.00",
+        "price": "299.00",
+        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613"
       },
       {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-11-26T21:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/red-flag-thursday-at-koramangala-tickets/80001852044920",
+        "availabilityStarts": "2026-11-11",
+        "availabilityEnds": "2026-12-13T00:00:00+05:30",
+        "validFrom": "2026-11-11",
+        "price": "299.00",
+        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
         "availability": "https://schema.org/InStock",
-        "name": "Party peoples guest list "
+        "name": "Early Bird Ladies "
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-11",
+        "availabilityEnds": "2026-12-13T00:00:00+05:30",
+        "validFrom": "2026-11-11",
+        "price": "399.00",
+        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
+        "availability": "https://schema.org/InStock",
+        "name": "Early Bird stags "
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-11",
+        "availabilityEnds": "2026-12-13T00:00:00+05:30",
+        "validFrom": "2026-11-11",
+        "price": "549.00",
+        "url": "https://allevents.in/bangalore/super-star-south-tickets/80002782924613",
+        "availability": "https://schema.org/InStock",
+        "name": "Early Couple entry "
       }
     ],
     "organizer": [
       {
         "@type": "Organization",
-        "name": "Party Peoples ",
-        "url": "https://allevents.in/org/party-peoples/28071943"
+        "name": "Trisha Anand",
+        "url": "https://allevents.in/org/trisha-anand/25326442"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bengaluru Potters Market 2026 - Free Entry",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6afff86ccbd66.jpg",
+    "startDate": "2026-12-04T10:30:00+05:30",
+    "endDate": "2026-12-06T19:00:00+05:30",
+    "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Karnataka Chitrakala Parishath",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Art Complex, 1, Kumarakrupa Rd, near The Lalit Hotel, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.971598625183105",
+        "longitude": "77.59456634521484"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Join us at the 5th edition of the Bengaluru Potters Market and discover the artistry of 30+ talented studio potters from across India!Immerse yourself in a captivating array of handmade ceramics, from exquisite tableware and home décor to expressive sculptures and unique, one-of-a-kind pieces.Whethe",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-20",
+        "availabilityEnds": "2026-12-06T19:00:00+05:30",
+        "validFrom": "2026-11-20",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-20",
+        "availabilityEnds": "2026-12-06T19:00:00+05:30",
+        "validFrom": "2026-11-20",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/bengaluru-potters-market-2026-free-entry-tickets/80002913952026",
+        "availability": "https://schema.org/InStock",
+        "name": "Bengaluru Potters Market - 4th to 6th Dec, 2026 "
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Bengaluru Studio Potters Market",
+        "url": "https://allevents.in/org/bengaluru-studio-potters-market/25143717"
       }
     ]
   },
@@ -2836,101 +2893,6 @@
         "name": "Atomy Enterprise India Pvt Ltd",
         "url": "https://allevents.in/org/atomy-enterprise-india-pvt-ltd/18881660",
         "description": "The Basic Theory of Economy is Straightforward\r\nDistribution is Key!\r\nEffective Strategy where Quality meets Value\r\n\r\nAtomy's MASSTIGE strategy is to provide\r\nAbsolute Quality products at an Absolute Price."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Founders X Investors Pitch | 5th Dec | Bangalore",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6b01894ccbe17.jpg",
-    "startDate": "2026-12-05T16:00:00+05:30",
-    "endDate": "2026-12-05T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fortius Origin",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7, 80 Feet Rd, Koramangala 1A Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "postalCode": "560034",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9280807",
-        "longitude": "77.6328344"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "The Founders X Investors Pitch | 5th December 2026 | BangaloreFounders X Investors – Flagship Pitch SeriesBangalore, we're bringing the next room of founders and investors to you.We're back with another edition of our flagship Founders X Investors Pitch Series — bringing together ambitious startups,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "lowPrice": "699.00",
-        "highPrice": "14999.00",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Startup Attendee "
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "1299.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Investor Panel"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "2999.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Startup Pitch Slot"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "14999.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Accelerate Slot"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "The Founders",
-        "url": "https://allevents.in/org/the-founders/25499127",
-        "description": "The Founders is a community built for and by entrepreneurs, innovators, and investors who believe in collaboration over competition. Whether you're launching your first startup, scaling your business, or investing in groundbreaking ideas, this is the place where you’ll find the right people, real opportunities, and powerful conversations that fuel growth.\n"
       }
     ]
   },
@@ -3184,67 +3146,6 @@
         "name": "HackerX",
         "url": "https://allevents.in/org/hackerx/22534264",
         "description": "HackerX started in 2012 with invite-only, face-to-face recruiting events that connect tech talent with some of the world's most innovative companies. Today we run over 300+ recruiting focused events in 125+ cities every year working with over 3,000+ tech companies worldwide"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Java Training with Placement in Electronic City Bangalore",
-    "image": "https://cdn-az.allevents.in/events6/banners/11e9c94e11a57957fbe22e47d8011d64c55b3df9cd140c76a20cdc9577803935-rimg-w1200-h668-dc134a8e-gmir.jpg?v=1779879385",
-    "startDate": "2026-08-14T10:00:00+05:30",
-    "endDate": "2026-11-22T10:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "eMexo Technologies",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd Cross Road",
-        "postalCode": "560100",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.8401051",
-        "longitude": "77.6501601"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Free Java training with placement event in Electronic City. Must call to verify before visit. Limited seats.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "2026-11-22T10:00:00+05:30",
-        "validFrom": "2026-05-27",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "",
-        "validFrom": "2026-05-27",
-        "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
-        "price": 0,
-        "name": "Free Java Placement Seminar – Verified Entry"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "eMexo Technologie",
-        "url": "https://allevents.in/org/emexo-technologie/27594755"
       }
     ]
   },
@@ -3857,6 +3758,34 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Unshameable: You Were Never Broken | Workshop",
+    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293602",
+    "startDate": "2026-12-05T15:15:00+00:00",
+    "endDate": "2026-12-05T16:45:00+00:00",
+    "url": "https://allevents.in/bengaluru/unshameable-you-were-never-broken-workshop/4700031093993502",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue: Big Tent",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jayamahal Palace Hotel",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9972",
+        "longitude": "77.5979361"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nShame is a strategy the body learns early: shrink, hide, earn your place. This experiential workshop uses theatre, play and movement to loosen its grip, not by talking it out but through pr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Vision Board Workshop for Women",
     "image": "https://cdn-az.allevents.in/events6/banners/bb560c90-e5eb-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc682898-gmir.jpg?v=1795293604",
     "startDate": "2026-12-05T16:00:00+00:00",
@@ -3965,6 +3894,62 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nDon’t just hear about the power of therapy dogs, feel it. This hands-on session blends mindfulness, gentle movement and sensory play with internationally certified therapy dogs, including a"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Move, Reflect, Release: A Guided Movement Workshop for Mental Well-Being | Workshop",
+    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293611",
+    "startDate": "2026-12-05T11:15:00+00:00",
+    "endDate": "2026-12-05T12:45:00+00:00",
+    "url": "https://allevents.in/bengaluru/move-reflect-release-a-guided-movement-workshop-for-mental-well-being-workshop/4700031093995411",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue: Big Tent",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jayamahal Palace Hotel",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9972",
+        "longitude": "77.5979361"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nMovement isn’t a luxury; it’s one of the ways our bodies process feelings. Rooted in community dance and dance movement therapy, this guided session helps you land in the present, listen to"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hunt for a Perfect Partner: Do You Have a Checklist? | Workshop",
+    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293618",
+    "startDate": "2026-12-06T12:00:00+00:00",
+    "endDate": "2026-12-06T13:30:00+00:00",
+    "url": "https://allevents.in/bengaluru/hunt-for-a-perfect-partner-do-you-have-a-checklist-workshop/4700031093996418",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue: Hands-On Zone",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jayamahal Palace Hotel",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9972",
+        "longitude": "77.5979361"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nMany of us persevere to find our \"perfect partner\", but is that real or a unicorn at the end of a rainbow? This workshop unpacks this idea and explores emotional, sexual, and value-based co"
   },
   {
     "@context": "https://schema.org",

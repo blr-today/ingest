@@ -5986,6 +5986,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "One Night, One Tribute – A. R. Rahman Jamming Night",
+    "description": "HighlightsA special musical evening celebrating the legendary A. R. Rahman.Experience iconic compositions, timeless melodies and unforgettable soundtracks.A nig",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/a9157e72d6edc9f7a187e7ac3425d1a2.png"
+    ],
+    "startDate": "2026-11-28T20:00:00+05:30",
+    "endDate": "2026-11-29T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "BudBee Restobar 104",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933225,
+        "longitude": 77.614688
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban NS Events",
+      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/one-night-one-tribute-a-r-rahman-jamming-night-3ceffkfdhu",
+      "validFrom": "2026-11-23T07:42:09.659Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Urban NS Events",
+        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/one-night-one-tribute-a-r-rahman-jamming-night-3ceffkfdhu"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Open Air Live Music Performance at Publik",
     "description": "HighlightsExperience electrifying live music performances every Wednesday and Friday.Enjoy a beautiful open-air ambience at PUBLIK, Bellandur.Savour exotic cock",
     "image": [
@@ -6494,6 +6543,56 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-o1rpnge6wi"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sassy Saturday ft. TINA",
+    "description": "HighlightsA glamorous Saturday night celebration at PAPI – The Cocktail Club.Featuring TINA.Experience stylish nightlife, premium cocktails and electrifying par",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/360deafd32924a2bab158a806ebaf834.png"
+    ],
+    "startDate": "2026-11-28T19:00:00+05:30",
+    "endDate": "2026-11-29T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "PAPI The Cocktail Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SY NO 153/1, HIMAGIRI PLAZA, Doddathoguru, Electronic City Phase I, Electronic City, Bengaluru, Doddathoguru, Karnataka 560100, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.843271,
+        "longitude": 77.644568
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Papi The CockTail Club",
+      "url": "https://www.highape.com/bangalore/organisers/papi-the-cocktail-club-2dqww"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sassy-saturday-ft-tina-qwq1wc4t9p",
+      "validFrom": "2026-11-23T07:47:55.109Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Tina",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/11/23/839dd8cb6191c04dd4f1a56b2133cd88.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-tina"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sassy-saturday-ft-tina-qwq1wc4t9p"
   },
   {
     "@context": "https://schema.org",
@@ -7091,55 +7190,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/soy-wax-candle-making-masterclass-create-4-beautiful-candl-1ip2tvx01h"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Soy Wax Candle Making Workshop",
-    "description": "HighlightsLearn the art of candle making from scratchWork with premium soy wax and essential oilsExplore decorative wax embellishments and creative techniquesMa",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/09/12/bc72e5722c6e90ac78be0f67905d695c.jpg"
-    ],
-    "startDate": "2026-11-23T08:44:00+05:30",
-    "endDate": "2026-11-23T11:44:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Posh Creative Studio",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "House of Hiranandani Devanahalli, near Bangalore International Airport, Bengaluru, Devanahalli, Karnataka 562110, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.228506,
-        "longitude": 77.701
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Posh Creative Studio",
-      "url": "https://www.highape.com/bangalore/organisers/posh-creative-studii-9tepz"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "3250",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/soy-wax-candle-making-workshop-p2av0lcnn9",
-      "validFrom": "2026-11-22T19:42:33.340Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Posh Creative Studio",
-        "url": "https://www.highape.com/bangalore/organisers/posh-creative-studii-9tepz"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/soy-wax-candle-making-workshop-p2av0lcnn9"
   },
   {
     "@context": "https://schema.org",
@@ -8206,6 +8256,63 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tipsy-tuesday-wvpfqz9bxr"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tollywood Tamasha – Exclusive Telugu Night ",
+    "description": "HighlightsAn exclusive Telugu music night celebrating the biggest Tollywood hits.Featuring DJ Raj.Supported by DJ Kram.Experience blockbuster Telugu chartbuster",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/5c55ea4abf3d6220469157f3c173f108.png"
+    ],
+    "startDate": "2026-11-29T20:00:00+05:30",
+    "endDate": "2026-11-30T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PANACEA BLR",
+      "url": "https://www.highape.com/bangalore/organisers/vysakh-b-ra-at5m1"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/tollywood-tamasha-exclusive-telugu-night-o00bmu4b99",
+      "validFrom": "2026-11-23T06:10:43.924Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Raj",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2026/08/08/341c75a032432143eec089d220fc7f23.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-raj-kppw"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Kram",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-kram-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/tollywood-tamasha-exclusive-telugu-night-o00bmu4b99"
   },
   {
     "@context": "https://schema.org",
