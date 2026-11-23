@@ -183,8 +183,8 @@ def test_crawl_fetches_new_then_stale_pages_within_budget(monkeypatch, cache):
 def test_crawl_keeps_a_fuller_saved_copy(monkeypatch, cache):
     district.save({s: page(s, "2026-10-20", district.time.time()) for s in "abcd"})
     monkeypatch.setattr(district, "slugs", lambda: {"a"})
-    with pytest.raises(RuntimeError):
-        district.crawl()
+    found = district.crawl()
+    assert sorted(found) == ["a", "b", "c", "d"]
     assert len(district.load()["pages"]) == 4
 
 

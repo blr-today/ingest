@@ -181,8 +181,9 @@ def crawl():
             found[slug] = {"fetched": time.time(), "event": event}
     log(len(fetch), "pages fetched,", len(set(new) - set(fetch)), "new and", len(set(stale) - set(fetch)), "stale left")
     # A partial discovery should not replace a fuller copy
-    if len(found) < len(old) / 2:
-        raise RuntimeError(f"Only {len(found)} pages, the saved copy has {len(old)}")
+    if old and len(found) < len(old) / 2:
+        log(f"Only {len(found)} pages, keeping saved copy with {len(old)} pages")
+        return old
     save(found)
     return found
 
