@@ -8,8 +8,8 @@ on:
     - src/sources/bookmyshow.py
     - .github/workflows/bookmyshow.yml
   schedule:
-    # Between the Update Data runs, since both use the same self-hosted runner
-    - cron: '0 3 * * *'
+    # One batch an hour from midnight to 7am, the pages are paced to about 14s each
+    - cron: '0 0-7 * * *'
       timezone: "Europe/Berlin"
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -26,7 +26,7 @@ jobs:
     # The listing and one file per page stay on the runner's disk for Update Data
     if: contains(needs.runner.outputs.labels, 'self-hosted')
     runs-on: ${{ fromJSON(needs.runner.outputs.labels) }}
-    timeout-minutes: 180
+    timeout-minutes: 55
     permissions:
       contents: read
     steps:
@@ -46,7 +46,7 @@ jobs:
     - name: Crawl
       env:
         BMS_CRAWL: "1"
-        BMS_MAX_FETCHES: "300"
+        BMS_MAX_FETCHES: "150"
         LOG_LEVEL: INFO
       run: |
         command -v zstd > /dev/null || echo "::warning::No zstd on $RUNNER_NAME, so other runners miss its cache"
