@@ -95,6 +95,8 @@ WHERE
     'https://attagalatta.com/event_page.php?eventid=EVT1078'
 -- The last date to apply is gone (25 May)
 ,   'https://map-india.org/map-events/training-course-in-conservation-of-photographs-in-museums-archives-and-collections/'
+    -- Two-month course, not an event
+,   'https://map-india.org/map-events/training-programme-in-principles-of-conservation-of-photographic-materials-building-practical-skills-to-preserve-photographic-heritage/'
     -- Multi-outlet bar promotion, not an event
 ,   'https://puttingscene.com/events/J8GZJF'
     -- AllEvents-only concert with no organiser or price
