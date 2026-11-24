@@ -479,34 +479,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "DIDAC INDIA",
-    "image": "https://dyn-image.allevents.in/generate-image?v=4&title=DIDAC+INDIA&date=Tue%2C+24+Nov%2C+2026+at+06%3A30+pm&bg=5",
-    "startDate": "2026-11-24T18:30:00+00:00",
-    "endDate": "2026-11-26T18:30:00+00:00",
-    "url": "https://allevents.in/bangalore/didac-india/3700030978940044",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Exhibition Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "10th Mile Tumkur Road Madavara Post Dasanapura Hobli NH48 Bengaluru Karnataka 562123",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.972000",
-        "longitude": "77.595000"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "DIDAC India is the sole Asian event for educational resources and technology-based products and solutions across all education levels and sectors. It provides a distinct platform for showcasing the latest trends in the education industry and is the largest conference and exhibition in Asia and India"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Auto EV Bharat",
     "image": "https://cdn-az.allevents.in/events4/banners/2399fe50-e5fc-11f1-b8a0-65efcc089f98-rimg-w1200-h900-dca89898-gmir.jpg?v=1795300651",
     "startDate": "2026-12-08T18:30:00+00:00",
@@ -938,6 +910,84 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "All that Matters",
+    "image": "https://cdn-az.allevents.in/events7/banners/92606650-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dce8e8d8-gmir.jpg?v=1795130327",
+    "startDate": "2026-11-28T15:30:00+05:30",
+    "endDate": "2026-11-28T17:10:00+05:30",
+    "url": "https://allevents.in/bangalore/all-that-matters/3900030977015006",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Jagriti Theatre: Whitefield, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ramagondanahalli, Varthur Road, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9576",
+        "longitude": "77.7408"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "All that Matters is a satire based on several true instances that have been brought together in a fictional village. A cow died a long time ago, but is creating havoc in the village today. Court orders are being missed and a force has risen from the dead. How will the inspector in charge resolve the",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-11-28T17:10:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/all-that-matters/3900030977015006"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Thing with Feathers-Bengaluru Theatre Festival",
+    "image": "https://cdn-az.allevents.in/events8/banners/35966eb0-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795130171",
+    "startDate": "2026-12-18T20:00:00+05:30",
+    "endDate": "2026-12-20T22:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-thing-with-feathers-bengaluru-theatre-festival/3900030977061806",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Jnana Jyoti Auditorium: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "11, Palace Rd, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9757",
+        "longitude": "77.5837"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "When the world changes, hope takes flight.The beginning of the twentieth century. A century that began with hope. It seemed that humanity would triumph over all its problems.A new world awaited.It was only a matter of time.Little did they know…Time had written a different story.The Thing With Feathe",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-05",
+        "availabilityEnds": "2026-12-20T22:00:00+05:30",
+        "validFrom": "2026-11-05",
+        "url": "https://allevents.in/bangalore/the-thing-with-feathers-bengaluru-theatre-festival/3900030977061806"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dirty Biryani",
     "image": "https://cdn-az.allevents.in/events6/banners/203efc90-dee2-11f1-9229-e1e3625cadbe-rimg-w1200-h600-dcf8f868-gmir.jpg?v=1794519821",
     "startDate": "2026-12-12T15:30:00+05:30",
@@ -1010,45 +1060,6 @@
         "availabilityEnds": "2026-11-28T20:30:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/pukkate-salahe-comedy-drama/3900030977172453"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Lions International Vision Run 2026",
-    "image": "https://cdn-az.allevents.in/events5/banners/8d2992c0-e473-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795132036",
-    "startDate": "2026-12-12T05:30:00+05:30",
-    "endDate": "2026-12-12T05:55:00+05:30",
-    "url": "https://allevents.in/bangalore/lions-international-vision-run-2026/3900030977239920",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Atal Bihari Vajpayee Stadium: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Parangi Palaya, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.911",
-        "longitude": "77.6447"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "LIONS INTERNATIONAL VISION RUN 2026RUN FOR SIGHTAwareness Run on Eye Care Better Vision Brighter FutureSight First & Vision  Multiple 317Run for a Cause. Run for a Better FutureCome be part of Bengalurus running celebration at HSR LayoutEvery step you take supports community eye health, early detect",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-12-12T05:55:00+05:30",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/lions-international-vision-run-2026/3900030977239920"
       }
     ]
   },
@@ -1615,6 +1626,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Strangers Meet Up: Mandala Art Therapy Workshop",
+    "image": "https://cdn-az.allevents.in/events10/banners/42ade550-e344-11f1-8fb8-85ebc5aef943-rimg-w1200-h600-dc080808-gmir.jpg?v=1795001774",
+    "startDate": "2026-12-12T15:00:00+05:30",
+    "endDate": "2026-12-12T17:00:00+05:30",
+    "url": "https://allevents.in/bangalore/strangers-meet-up-mandala-art-therapy-workshop/3900031073101014",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "The Common Good: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1212, 19th Cross Road, MCECHS Layout, Dr.Shivaram Karanth Nagar, RK Hegde Nagar, Bengaluru, Karnataka 560064, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0719",
+        "longitude": "77.6224"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Come as a stranger, leave with a mandala and a few new friends.Strangers Meet Up is a slow, screen-free afternoon for people who want to make something with their hands and meet others doing the same. In this guided Mandala Art Therapeutic Workshop, artist and educator Monica Prakash (founder, PraSh",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-18",
+        "availabilityEnds": "2026-12-12T17:00:00+05:30",
+        "validFrom": "2026-11-18",
+        "url": "https://allevents.in/bangalore/strangers-meet-up-mandala-art-therapy-workshop/3900031073101014"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Camacho Live in Bengaluru",
     "image": "https://cdn-az.allevents.in/events2/banners/11746d20-e38e-11f1-afaa-49835c778578-rimg-w1200-h600-dc0878e8-gmir.jpg?v=1795033474",
     "startDate": "2026-11-29T19:00:00+05:30",
@@ -1810,45 +1860,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Tempo Tuesday at HOD Club, Koramangala",
-    "image": "https://cdn-az.allevents.in/events7/banners/6eee6230-e5af-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc080818-gmir.jpg?v=1795267706",
-    "startDate": "2026-11-24T20:00:00+05:30",
-    "endDate": "2026-11-25T01:00:00+05:30",
-    "url": "https://allevents.in/bangalore/tempo-tuesday-at-hod-club-koramangala/3900031092021727",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "House Of Dopamine: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9336",
-        "longitude": "77.6149"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Find your rhythm this Tuesday. Tempo Tuesday brings a high-energy, sound-driven night to HOD Club, set against deep blue lighting and a crowd ready to move. Whether you are here to dance all night or settle in with a drink and the vibe, Tuesday has never felt this alive. Gather your people and turn",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-11-25T01:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "url": "https://allevents.in/bangalore/tempo-tuesday-at-hod-club-koramangala/3900031092021727"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Faraway Christmas Land",
     "image": "https://cdn-az.allevents.in/events5/banners/1aa60a10-e5b0-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc081838-gmir.jpg?v=1795267994",
     "startDate": "2026-12-13T12:00:00+05:30",
@@ -2004,40 +2015,79 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "AERREO LIVE AT SKYDANCE ARENA",
-    "image": "https://cdn-az.allevents.in/events8/banners/1758ad40-e7f4-11f1-8094-e77f3f8c6b64-rimg-w1200-h600-dc182828-gmir.jpg?v=1795517097",
-    "startDate": "2026-11-27T19:00:00+05:30",
-    "endDate": "2026-11-28T00:00:00+05:30",
-    "url": "https://allevents.in/bangalore/aerreo-live-at-skydance-arena/3900031116266757",
+    "@type": "MusicEvent",
+    "name": "Classic Rock Revival ft. Madras Rock Collective",
+    "image": "https://cdn-az.allevents.in/events8/banners/0a93a240-e7f4-11f1-8094-e77f3f8c6b64-rimg-w1200-h600-dc080808-gmir.jpg?v=1795517076",
+    "startDate": "2026-12-05T21:00:00+05:30",
+    "endDate": "2026-12-05T23:00:00+05:30",
+    "url": "https://allevents.in/bangalore/classic-rock-revival-ft-madras-rock-collective/3900031116263236",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Skydance Arena: Bengaluru",
+      "name": "Hard Rock Cafe: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Passport Office, Mantri Avenue, Next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+        "streetAddress": "40 St Marks Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9453",
-        "longitude": "77.6201"
+        "latitude": "12.9759",
+        "longitude": "77.6016"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "BOLLYWOOD CALLED AERREO ANSWEREDThis Friday we're turning up the heat with a night soaked in Bollywood madness Big anthems Guilty pleasures Crazy dance moves and unapologetic main character energy all night longDress expensive Bring your hottest energy Leave your inhibitions at the door We're making",
+    "description": "Get ready for a nostalgic rock experience as Madras Rock Collective, straight from Chennai, takes the stage for an electrifying night of classic rock! Relive the timeless music of legendary rock icons with powerful vocals, iconic guitar riffs and unforgettable anthems that have stood the test of tim",
     "offers": [
       {
         "@type": "AggregateOffer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-24",
-        "availabilityEnds": "2026-11-28T00:00:00+05:30",
+        "availabilityEnds": "2026-12-05T23:00:00+05:30",
         "validFrom": "2026-11-24",
-        "url": "https://allevents.in/bangalore/aerreo-live-at-skydance-arena/3900031116266757"
+        "url": "https://allevents.in/bangalore/classic-rock-revival-ft-madras-rock-collective/3900031116263236"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pottery workshop",
+    "image": "https://cdn-az.allevents.in/events2/banners/61b19320-e7f4-11f1-8094-e77f3f8c6b64-rimg-w1200-h600-dcd8b898-gmir.jpg?v=1795517222",
+    "startDate": "2026-11-28T15:00:00+05:30",
+    "endDate": "2026-11-28T16:30:00+05:30",
+    "url": "https://allevents.in/bangalore/pottery-workshop/3900031116288402",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Costa Coffee, AECS Layout: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ITPL Main Road, B Block, Phase 2, Brookefield, Bengaluru, Karnataka 560037, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9647",
+        "longitude": "77.7159"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "SERENOVA - HAND-BUILDING POTTERY WORKSHOPGet creative and experience the joy of hand-building pottery at Serenova! Join us for a fun and relaxing pottery workshop where you can create your very own ceramic piece from scratch.Whether you wish to make a personalised jewellery tray, a ceramic plate, a",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-24",
+        "availabilityEnds": "2026-11-28T16:30:00+05:30",
+        "validFrom": "2026-11-24",
+        "url": "https://allevents.in/bangalore/pottery-workshop/3900031116288402"
       }
     ]
   },
@@ -2596,67 +2646,6 @@
         "@type": "Organization",
         "name": "National Mental Health Festival",
         "url": "https://allevents.in/org/national-mental-health-festival/28429316"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Sursagar - 44th Varshikotsav concert",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af55724210c1.jpg",
-    "startDate": "2026-11-27T17:30:00+05:30",
-    "endDate": "2026-11-27T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Chowdiah Memorial Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
-        "postalCode": "560003",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0065834",
-        "longitude": "77.5755092"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Sursagar presents the 44th Varshikotsav on 27th November ‘2026 (Friday) @ 5:30 pm onwards at Chowdaiah Memorial Hall. A vocal recital by Shri Siddhartha Belmannu accompanied by Pandit Ravindra Yavagal on the tabla and by Shri Prasad Kamath on the harmonium. Following this, will be a recital by Pandi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-27T20:30:00+05:30",
-        "validFrom": "2026-11-12",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-27T20:30:00+05:30",
-        "validFrom": "2026-11-12",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
-        "availability": "https://schema.org/InStock",
-        "name": "Entry Free"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Sursagar Bangalore",
-        "url": "https://allevents.in/org/sursagar-bangalore/28400636"
       }
     ]
   },
@@ -3313,6 +3302,34 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bangalore Product Mixer #4 | Product Reactor",
+    "image": "https://cdn-az.allevents.in/events6/banners/45a4d9e0-e4d3-11f1-a5fd-470b6141b80e-rimg-w1200-h1200-dc2808f8-gmir.png?v=1795173148",
+    "startDate": "2026-12-05T18:00:00+00:00",
+    "endDate": "2026-12-05T20:00:00+00:00",
+    "url": "https://allevents.in/bengaluru/bangalore-product-mixer-4-product-reactor/4700031086732928",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Bengaluru, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.912228031101",
+        "longitude": "77.652798648086"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Product Managers Connect is a relaxed, high value networking meetup created exclusively for product managers.\n\nThe goal is simple: connect, exchange experiences, and build professional relationships with peers in the product community.\n\nWhat to expect\n\nA casual, conversation driven environment.\n\nDed"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Engineering at the Frontier: Leadership Dinner",
     "image": "https://cdn-az.allevents.in/events6/banners/f8d40af0-e5ea-11f1-b8a0-65efcc089f98-rimg-w824-h812-dc782828-gmir.png?v=1795293278",
     "startDate": "2026-11-27T18:00:00+00:00",
@@ -3673,6 +3690,34 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "Part of Hack Summit 2026. See the full summit: https://magicball.dev/hack-summit-2026\n\nCode review is the bottleneck, and the scanners we all run are noisy. We show how we pair scanners with an LLM in CI. Then you ship an agent that reviews every pull request for bugs and security issues, and we sco"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Unshameable: You Were Never Broken | Workshop",
+    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293602",
+    "startDate": "2026-12-05T15:15:00+00:00",
+    "endDate": "2026-12-05T16:45:00+00:00",
+    "url": "https://allevents.in/bengaluru/unshameable-you-were-never-broken-workshop/4700031093993502",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Venue: Big Tent",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jayamahal Palace Hotel",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9972",
+        "longitude": "77.5979361"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nShame is a strategy the body learns early: shrink, hide, earn your place. This experiential workshop uses theatre, play and movement to loosen its grip, not by talking it out but through pr"
   },
   {
     "@context": "https://schema.org",

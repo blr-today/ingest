@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Come and See (1985)",
+    "url": "https://fillum.in/screening/6664",
+    "startDate": "2026-11-28T17:00:00+05:30",
+    "image": "https://fillum.in/images/filmbg/3753-tn.jpg",
+    "description": "The invasion of a village in Belarus by German forces sends young Flyora into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Flyora finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.\n\nThe Screening Will be followed by a conversation.",
+    "location": {
+      "@type": "Place",
+      "name": "Untitled Arts Foundation",
+      "address": "Untitled Arts Foundation, Bangalore"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "url": "https://fillum.in/user/52"
+    },
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Come and See",
+      "director": {
+        "@type": "Person",
+        "name": "Elem Klimov"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 200,
+      "priceCurrency": "INR",
+      "url": "https://fillum.in/p/499",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+]
