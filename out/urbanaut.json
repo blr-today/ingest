@@ -1220,6 +1220,51 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Science Café",
+    "description": "🗞️Extra! Extra! Read all about it! 🗓️ Last AG Science Café of the year is coming up this December 6th. Mark your calendars! At this month’s AG Science Cafe, unpack the science behind consciousness, control, and the hidden mechanisms driving every move we make. Did I really buy the latest Iphone because I wanted to or because I was subconsciously influenced. Join us as we dive into freewill and whether we really have it. 🚨Warning: expect to have riveting and free flowing conversations",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/ACEC3F87A5944B49B8FDCBCA8A090F08_converted_webp.webp"
+    ],
+    "startDate": "2026-12-06T17:30:00+05:30",
+    "endDate": "2026-12-06T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta",
+      "address": "178, 5th Main Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 100.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/science-cafe-16221",
+    "keywords": [
+      "Adventure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "Kalighat Painting Workshop",
     "description": "KALIGHAT PAINTINGS – WHERE TRADITION MEETS MODERNITYBengal is renowned for its rich cultural heritage and diverse artistic traditions, including music, literature, dance, and visual arts. In this workshop, we will explore one of Bengal's most fascinating and thought-provoking art forms—Kalighat Paintings.Bold, expressive & vibrant, Kalighat paintings beautifully bring together a variety of themes, ranging from Hindu mythology and spirituality to secular life and social commentary.Originating in 19th-century Kolkata during the colonial period, this distinctive art form developed around the Kalighat Temple, dedicated to Goddess Kali. The paintings were traditionally created on patas (cloth or paper scrolls) by artists known as Patuas. Located near the banks of the Hooghly River and the popular Kalighat Temple, the area attracted pilgrims, locals, and foreign visitors, creating a thriving audience for these unique artworks.However, with the growing popularity of printed reproductions in the early 20th century, traditional handmade Kalighat paintings gradually declined.The legacy of this expressive art form was later reinterpreted and celebrated by renowned Indian artist Jamini Roy, who drew inspiration from Bengal's folk traditions and brought a distinctive modern interpretation to traditional Indian art.What will you learn?Learn about the history and evolution of Kalighat PaintingsExplore the life and artistic journey of Jamini RoyUnderstand the distinctive themes, styles, and visual language of this art formDiscover how traditional Indian folk art influenced modern artistic expressionCreate your very own Kalighat-inspired paintingThis will be a wonderful opportunity to experience Indian art and culture through storytelling, learning, and hands-on creativity!Note:All art materials required for the workshop will be provided by the host.What will you take home?A Detailed Hands-On Workshop WorkbookKnowledge & History of Kalighat art & cultureYour very own completed artwork created during the workshopWhat do you need to bring?A water bottle to keep yourself hydrated.All workshop materials will be provided. However, if preferred, you may bring an examination pad or paper board for additional support while working.Please NoteKindly be on time, Participants arriving late may miss the storytelling and introduction to the history of this beautiful art form.No refunds will be provided for cancellations.Come, explore the vibrant world of Kalighat Paintings, where storytelling, tradition, culture, and creativity come together & take home a beautiful piece of art created by you!",
     "image": [
@@ -1293,7 +1338,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 2000,
-    "remainingAttendeeCapacity": 1979,
+    "remainingAttendeeCapacity": 1976,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1339,7 +1384,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 2000,
-    "remainingAttendeeCapacity": 1972,
+    "remainingAttendeeCapacity": 1969,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1446,7 +1491,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1501,7 +1546,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1591,7 +1636,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1720,7 +1765,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 52,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1768,7 +1813,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 109,
+    "remainingAttendeeCapacity": 105,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1816,7 +1861,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 108,
+    "remainingAttendeeCapacity": 102,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1865,7 +1910,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 78,
+    "remainingAttendeeCapacity": 72,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1913,7 +1958,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 58,
+    "remainingAttendeeCapacity": 40,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1959,7 +2004,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2005,7 +2050,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2382,6 +2427,52 @@
     "url": "https://urbanaut.app/spot/brc-rs#2026-12-27T1100",
     "keywords": [
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ghost Story Night",
+    "description": "Ghost Story Night is an unscripted storytelling session in which event-goers sign up as either storytellers or listeners. Storytellers are given up to 10 minutes to narrate a ghost story (they can share their own story or the story of someone else) for the audience. The storytelling session will be followed by a social hangout. If you’ve ever enjoyed telling scary stories around the campfire, this is the event for you!Slots are limited (especially storyteller slots), so sign up as soon as you can. We look forward to hearing your very best fright night stories!About the Collective:The Ghost Story Collective is a community-driven storytelling organization with a focus on raw, unscripted ghost story events. Instead of telling well-known ghost stories, we invite interested audience members to sign up as storytellers and to tell the story that’s been haunting them (à la “Are You Afraid of the Dark,” for any 90s TV fans). We believe that stories of the ghostly and supernatural speak to the inherent drama of our lives, and to the challenges of the societies in which we live. To that end, we hope to bring together a variety of people to tell their own ghost stories or stories of people they know, and thus, to reveal something frightening, truthful, and even beautiful about the world we inhabit.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/348A6ED4797C49EB8E180B9568AF1195_converted_webp.webp"
+    ],
+    "startDate": "2026-12-12T18:00:00+05:30",
+    "endDate": "2026-12-12T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1078, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt3oWxoUXrjsRJBlO8sy2Jeo",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9701439,
+        "longitude": 77.63810099999999
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": 299.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Ghost Story Collective",
+      "description": null,
+      "url": "https://urbanaut.app/partner/the-ghost-story-collective",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/74F08394576A4024BBE7A2D4699BF207_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/ghost-story-night-blr",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
       "URBANAUT"
     ]
   },
@@ -3163,7 +3254,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3471,63 +3562,6 @@
       "https://d10y46cwh6y6x1.cloudfront.net/images/E250A06B2930439CAFAE459CF5CFE1F4_converted_webp.webp",
       "https://d10y46cwh6y6x1.cloudfront.net/images/D0013ED5150140FAAA0B59837EF01B1F_converted_webp.webp"
     ],
-    "startDate": "2026-11-28T12:00:00+05:30",
-    "endDate": "2026-11-28T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "238, Dr CV Raman Road, RMV extension, Sadashiva Nagar, Malleshwaram, Bengaluru, Karnataka 560080, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZQ8x8k0XrjsR1Tr9gd5_XrE",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0144672,
-        "longitude": 77.5743244
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 1,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Project Grape Juice",
-      "description": "Project Grape Juice is a cultural extension of the new wine movement — where community, music, and modern wine culture collide. It’s about making wine social, unpretentious, and deeply felt. Come curious. Leave converted.",
-      "url": "https://urbanaut.app/partner/project-grape-juice",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/6FAF1C0B51F949298C6F26F016B70934_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/funk-wine-ep2#2026-11-28T1200",
-    "keywords": [
-      "Music",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Funk Wine Ep.2 - Taste Of Austria",
-    "description": "5+3 Austrian Natural Wines. Small Plates by TBT. Jazz Funk on Klipsch. 1 Funkylicious Saturday.Funk Wine Ep. 2 by Project Grape Juice is here, and this time we’re heading to Austria. We’re taking over The Brown Table in Sadashiv Nagar for a one-day pop-up built around Austrian natural wines you won’t find anywhere else in India! (A fact by the way ;)New to the term? “Funk” or “natural” wine means low intervention: no chemicals, no fake flavors, just great grapes doing exactly what they want.No high-brow wine-talk, no stiff tasting rooms. Expect disco balls hanging from trees, a grape-shaped disco piece, a vintage TV and radio set (we love to get those gram ready clicks just as much as the other peeps), and jazz funk from Cinebels spinning through Klipsch speakers. Sip, wander, settle in with small plates from The Brown Table, and take the day as it comes.This time, there’s no clock on the fun. When your slot ends, you don’t have to leave. If you’re feeling the vibe, stay on.Pick your slot, bring your people, and come get funky with us.Key HighlightsThe Taste of Austria: 5 Austrian natural wines in your tasting flight. These are bottles that retail between ₹3,300 and ₹5,500.Claus Preisinger - Ancestral Pet NatFranz Hofstätter - Wabi Sabi Riverside white wineChanti - House of Natural Wine Orange wineClaus Preisinger - Dope Rosé wineClaus Preisinger - Puszta Libre Red wineThe Grower Session by Chanti (optional add-on): Taste 3 more Austrian winesChristoph Hoch - Rosé RuraleMartin Obenaus - Unchained Stein&Holz WhiteThomas Straka - Stratos RotIn a guided session led by the founder of The House of Natural Wine and winemaker Chanti.At The Brown Table - Saturday, 28th November - Session 1: 1:00 PM – 1:30 PM - Session 2: 4:00 PM – 4:30 PM - Session 3: 7:00 PM – 7:30 PMLimited seats per slot, added separately.Jazz Funk, Loud and Clear: Live-feel grooves from Cinebels on Klipsch speakers. Klipsch The Nines II are flagship Dolby Atmos powered stereo bookshelf speakers featuring 8-inch woofers, HDMI 2.1, Dirac Live room correction, and built-in Onkyo-powered streaming.A Set You’ll Want to Photograph: Disco balls on trees, a grape disco model, vintage TV and radio. Bring your camera.Small Plates, Your Way: A la carte small plates curated by The Brown Table, available over the counter.Take the Wine Home or enjoy there: Loved a pour? Buy any wine by the glass or bottle at the counter on the day.Stay As Long As the Vibe Lasts: No hard exit when your slot ends.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/7D27BECC74274F2ABF097A14D638A559_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/9B2A608F58734A08AA2A75AA3F6AFA3E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/031140C7B1DF484E8BC4665362E609C2_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/4C47A058152F4AD3B270FA102A368AB7_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B92C0D55DBFA43B89693582E3ACFFD12_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/F0EB4A59390544F59D6109C473448F61_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/68910308E2E245978B5A3FD2A4AD19BC_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/0276D73220334B43A8ABF2278B73AB64_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/488E4A6720C34AAE8F0C68C515ABB573_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E250A06B2930439CAFAE459CF5CFE1F4_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D0013ED5150140FAAA0B59837EF01B1F_converted_webp.webp"
-    ],
     "startDate": "2026-11-28T15:00:00+05:30",
     "endDate": "2026-11-28T18:00:00+05:30",
     "location": {
@@ -3544,7 +3578,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 55,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 46,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3601,7 +3635,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 55,
-    "remainingAttendeeCapacity": 39,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4043,7 +4077,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 170,
-    "remainingAttendeeCapacity": 163,
+    "remainingAttendeeCapacity": 162,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4089,7 +4123,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -4139,7 +4173,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 43,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4230,8 +4264,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4461,7 +4495,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 917,
+    "remainingAttendeeCapacity": 908,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4690,7 +4724,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 46,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4944,102 +4978,6 @@
     "keywords": [
       "Music",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Deeper Ground - A two-day movement and story space for divorce and separation",
-    "description": "Some of it lives in the body. Some of it lives in the people around you. Come and meet both.Divorce rarely stays where the paperwork leaves it. It lives in the body, in what you carry and can’t quite say. It lives in the people around you, too: the parents who didn’t know what to say, the siblings, the friends who stayed close or quietly disappeared.Over two half-days, we move first and then go deeper. Co-facilitated by two facilitators, who will guide you through both days: Sahiba Singh, movement practitioner & founder of Flux school of arts, and Seema Naik, a Certified Psychodrama Practitioner.Day 1 begins with guided movement to help you land in your body and notice what you’re feeling. From there, we explore what this separation has meant for you.Day 2 begins with movement that opens curiosity about how others experienced it. We then look at the people in your life and how their reactions have shaped what you carry. You won’t be asked to forgive, explain, or defend anyone, and you won’t be asked to bring anyone. They are present only through you.This is for anyone going through, or who has been through, a divorce, or a separation that feels like one, whether emotional, financial, or both, and whether or not there are legal papers. You may be mid-decision, past it, or still arriving.Day 1 is the foundation for Day 2, so if you’re new to us, we ask you to join both days. If you’ve been part of our earlier gatherings, you’re welcome on both, and we especially invite you to Day 2.Worried your ex might be in the room? Tell us when you register, sharing only what you’re comfortable with, and we’ll arrange separate slots. What you share is seen only by the MDG admin team, used only to arrange this, and kept confidential.What’s shared here stays here. You choose what to share, and you’re never asked to name or describe your ex or anyone else.This is part of an ongoing monthly gathering.Note: You don’t need to dance, or to have any experience of movement. Wear something comfortable.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BC590D74AD8242A2986B2A34B6FBD87A_converted_webp.webp"
-    ],
-    "startDate": "2026-11-28T16:00:00+05:30",
-    "endDate": "2026-11-28T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Top Floor, 607, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBa6CIvoXrjsRV_L8NUrrfsE",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9704847,
-        "longitude": 77.6447032
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/72AE7A18817841009829F445DF92C587_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/deeper-ground#2026-11-28T1600",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Deeper Ground - A two-day movement and story space for divorce and separation",
-    "description": "Some of it lives in the body. Some of it lives in the people around you. Come and meet both.Divorce rarely stays where the paperwork leaves it. It lives in the body, in what you carry and can’t quite say. It lives in the people around you, too: the parents who didn’t know what to say, the siblings, the friends who stayed close or quietly disappeared.Over two half-days, we move first and then go deeper. Co-facilitated by two facilitators, who will guide you through both days: Sahiba Singh, movement practitioner & founder of Flux school of arts, and Seema Naik, a Certified Psychodrama Practitioner.Day 1 begins with guided movement to help you land in your body and notice what you’re feeling. From there, we explore what this separation has meant for you.Day 2 begins with movement that opens curiosity about how others experienced it. We then look at the people in your life and how their reactions have shaped what you carry. You won’t be asked to forgive, explain, or defend anyone, and you won’t be asked to bring anyone. They are present only through you.This is for anyone going through, or who has been through, a divorce, or a separation that feels like one, whether emotional, financial, or both, and whether or not there are legal papers. You may be mid-decision, past it, or still arriving.Day 1 is the foundation for Day 2, so if you’re new to us, we ask you to join both days. If you’ve been part of our earlier gatherings, you’re welcome on both, and we especially invite you to Day 2.Worried your ex might be in the room? Tell us when you register, sharing only what you’re comfortable with, and we’ll arrange separate slots. What you share is seen only by the MDG admin team, used only to arrange this, and kept confidential.What’s shared here stays here. You choose what to share, and you’re never asked to name or describe your ex or anyone else.This is part of an ongoing monthly gathering.Note: You don’t need to dance, or to have any experience of movement. Wear something comfortable.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BC590D74AD8242A2986B2A34B6FBD87A_converted_webp.webp"
-    ],
-    "startDate": "2026-11-29T16:00:00+05:30",
-    "endDate": "2026-11-29T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Top Floor, 607, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBa6CIvoXrjsRV_L8NUrrfsE",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9704847,
-        "longitude": 77.6447032
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/72AE7A18817841009829F445DF92C587_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/deeper-ground#2026-11-29T1600",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -5586,7 +5524,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5699,55 +5637,6 @@
     "keywords": [
       "Leisure",
       "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "The Live Reset Room: Learn a 10-Minute Daily Reset",
-    "description": "The day is done. Your mind isn't.11:40 pm. Laptop shut. Twelve tabs still open in your head.If you are good at your job and quietly worn out, this is for you. Not in crisis, not looking for therapy. You have probably tried a meditation app and dropped it within a week. You just want your evenings back without stepping off the career track.The Live Reset Room is a 90-minute, phones-off session where you learn a 10-minute daily reset for an overloaded mind, one you can start the same night:- 5 minutes of slow breathing, out longer than in, no counting- 5 short written lines using the 5R method: Recognize, Release, Reframe, Resolve, ReflectWHAT HAPPENS IN THE ROOM- Phones go into a basket at the door- Guided slow breathing, and a few minutes of shared silence- The 5R writing method, on paper, together- A short, honest look at what this practice can and cannot do- You leave knowing exactly how to repeat it at home in ten minutesWHAT YOU TAKE HOME- A Karungali pendant: something to hold that cues you to slow down. The wood itself does nothing; the breath does.- The 10-minute reset card, so you remember the steps tonight- Tea is on usWHO IT IS FORFounders, engineers, managers, consultants and creators. Anyone whose day ends but whose mind keeps working. No experience, no beliefs and no special clothes needed. A chair and a pen is enough.WHY IT IS DIFFERENTNo chanting. No manifesting. No guru. Each part of the practice draws on studied techniques, and we tell you plainly where the evidence is strong and where it is thin. Honest, not hyped.FROM THE FIRST EDITION (CHENNAI, AUG 2026)\"Closing the tabs, closing the loop. The 5R method was the most useful part.\" - Rahul, Founder, High on Shifthttps://www.instagram.com/p/DfsI15fl1Pu/?utm_source=ig_web_copy_link&avpt=MzRlODBiNWFlZA==ABOUT THE PRACTICE AND THE JOURNALThe practice comes from Ambitious & Grounded, GoDivinely's 90-day journal. It is a research-backed method: slow breathing with a longer out-breath, naming a feeling in a word, and writing one specific next step are each studied techniques, and every study is listed in the journal's Evidence Notes, along with its limits. The method has been reviewed by a practising psychologist. It was tested in the first Live Reset Room before it went into the book. You do not need the journal to attend: the session teaches the whole practice. Signed first-edition copies can be pre-ordered at the venue.ABOUT YOUR HOSTHarikrishnan (Hari) is the founder of GoDivinely. He has practised yoga for over 10 years, including at Aliyar, and has kept a journal for the past 5 years. The practice started with his own bad year: doing well on paper, quietly running on empty, and a mind that had forgotten how to slow down. What helped was not a retreat or an app, but ten unglamorous minutes a day. He built it into something repeatable, tested it in the first Live Reset Room, and checked every part against the research.THINGS TO KNOW- Doors open at 3:50 PM. We start at 4:00 PM sharp.- Session 4:00 to 5:30 PM, followed by tea.- Phones go into a basket during the session. Any sharing is optional.- Photos are taken from the back of the room, never during the breathing or silence. Tell us at check-in if you would rather not appear.- Tickets are non-refundable but transferable.- Early bird Rs 299 until 20 Nov, then Rs 499.- Age 18+. Language: English.A NOTE ON CAREThis is a wellness practice, not therapy or medical treatment. If you are struggling, please speak to a doctor or a mental health professional.Stay Ambitious. Stay Grounded.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B5F4EFA9457C4F478BD548B691120056_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/E2AA2E45A8EE4262B414CCBA3470AF53_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/B20279B81FB14F198E03956849156C2E_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/FCF83EA63EEB44E0BF2BA17991C8E6D9_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/A74D40D2E4C64615B729B8B087836A07_converted_webp.webp"
-    ],
-    "startDate": "2026-11-28T16:00:00+05:30",
-    "endDate": "2026-11-28T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "477, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9788825,
-        "longitude": 77.6417088
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 299.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Go Divinely",
-      "description": null,
-      "url": "https://urbanaut.app/partner/go-divinely",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/D3B0F32A25064168B4D28824642A6A4A_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/the-live-reset-room-learn-a-10-minute-daily-reset",
-    "keywords": [
-      "Wellness",
-      "Workshop",
       "URBANAUT"
     ]
   }

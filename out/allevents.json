@@ -1017,25 +1017,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Dirty Biryani",
-    "image": "https://cdn-az.allevents.in/events6/banners/203efc90-dee2-11f1-9229-e1e3625cadbe-rimg-w1200-h600-dcf8f868-gmir.jpg?v=1794519821",
-    "startDate": "2026-12-12T15:30:00+05:30",
-    "endDate": "2026-12-12T17:10:00+05:30",
-    "url": "https://allevents.in/bangalore/dirty-biryani/3900030977161332",
+    "image": "https://cdn-az.allevents.in/events6/banners/203efc90-dee2-11f1-9229-e1e3625cadbe-rimg-w1200-h600-dcf8f868-gmir.jpg?v=1794519833",
+    "startDate": "2026-12-20T15:00:00+05:30",
+    "endDate": "2026-12-20T16:40:00+05:30",
+    "url": "https://allevents.in/bangalore/dirty-biryani/3900030977162643",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
+      "name": "Sabha Blr: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
+        "streetAddress": "262, Kamaraj Road, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.915",
-        "longitude": "77.5951"
+        "latitude": "12.9835",
+        "longitude": "77.611"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -1046,9 +1046,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-12-12T17:10:00+05:30",
+        "availabilityEnds": "2026-12-20T16:40:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/dirty-biryani/3900030977161332"
+        "url": "https://allevents.in/bangalore/dirty-biryani/3900030977162643"
       }
     ]
   },
@@ -1653,45 +1653,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kana Kona - A MalayalamPanel Charcha Show",
-    "image": "https://cdn-az.allevents.in/events1/banners/ed98e940-e292-11f1-b143-7fdcf006a184-rimg-w1200-h600-dc582898-gmir.jpg?v=1794925616",
-    "startDate": "2026-12-11T20:00:00+05:30",
-    "endDate": "2026-12-11T21:30:00+05:30",
-    "url": "https://allevents.in/bangalore/kana-kona-a-malayalampanel-charcha-show/3900031065170457",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "The Laugh Junction: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9122",
-        "longitude": "77.6357"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Ever watched a heated chayakkada debate and thought, \"I have way better points than these guys\"? Well, pull up a chair-because at Kana Kona, the audience isn`t just watching the panel. You ARE also a part of the show.WIT presents Kana Kona - a high-energy comedy panel-debate hybrid where structure g",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-17",
-        "availabilityEnds": "2026-12-11T21:30:00+05:30",
-        "validFrom": "2026-11-17",
-        "url": "https://allevents.in/bangalore/kana-kona-a-malayalampanel-charcha-show/3900031065170457"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Midnight Qawali",
     "image": "https://cdn-az.allevents.in/events9/banners/c782cd40-e2cc-11f1-8329-5bf444c7bcd8-rimg-w1200-h600-dc381808-gmir.jpg?v=1794950457",
@@ -2116,45 +2077,6 @@
         "availabilityEnds": "2026-12-20T20:00:00+05:30",
         "validFrom": "2026-11-22",
         "url": "https://allevents.in/bangalore/humanitas/3900031098850711"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Miniature Food",
-    "image": "https://cdn-az.allevents.in/events10/banners/9347b940-e705-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8e8e8-gmir.jpg?v=1795414655",
-    "startDate": "2026-11-24T15:00:00+05:30",
-    "endDate": "2026-11-24T16:00:00+05:30",
-    "url": "https://allevents.in/bangalore/miniature-food/3900031103577936",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Zone 6 by Biopeak: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Third Floor, Biopeak, 56, 100 Feet Road, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9751",
-        "longitude": "77.6413"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Step into the adorable world of miniature food art where you  craft impossibly cute palm sized versions of your favorite meals From South Indian thalis to chaat platters and desserts every tiny detail is handmade with love and lots of clay  What in store  Learn sculpting  detailing techniques for re",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-23",
-        "availabilityEnds": "2026-11-24T16:00:00+05:30",
-        "validFrom": "2026-11-23",
-        "url": "https://allevents.in/bangalore/miniature-food/3900031103577936"
       }
     ]
   },
@@ -2881,6 +2803,67 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "D&amp;D 101: The Beginner's Guide to Dungeons &amp; Dragons",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6b0550069f675.jpg",
+    "startDate": "2026-11-29T18:15:00+05:30",
+    "endDate": "2026-11-29T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cafe De Verde",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "postalCode": "560095",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9407594",
+        "longitude": "77.623431"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "✨ Dive into the magical world of Dungeons & Dragons! If you’ve ever dreamed of embarking on epic quests with daring heroes and fantastical creatures, this is the perfect chance to unleash your imagination and creativity.Join us for \"D&D 101: The Beginner's Guide to Dungeons & Dragons,\" where you’ll",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-24",
+        "availabilityEnds": "2026-11-29T20:30:00+05:30",
+        "validFrom": "2026-11-24",
+        "lowPrice": "250.00",
+        "highPrice": "250.00",
+        "price": "250.00",
+        "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-24",
+        "availabilityEnds": "2026-11-29T20:30:00+05:30",
+        "validFrom": "2026-11-24",
+        "price": "250.00",
+        "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566",
+        "availability": "https://schema.org/InStock",
+        "name": "Donation"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Beyond The Table",
+        "url": "https://allevents.in/org/beyond-the-table/28476217"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "PROTATVA-26(4th National Level Intercollegiate Project Exhibition)",
     "image": "https://cdn2.allevents.in/thumbs/thumb6aed676eedebf.jpg",
     "startDate": "2026-11-26T09:00:00+05:30",
@@ -3128,6 +3111,67 @@
         "name": "HackerX",
         "url": "https://allevents.in/org/hackerx/22534264",
         "description": "HackerX started in 2012 with invite-only, face-to-face recruiting events that connect tech talent with some of the world's most innovative companies. Today we run over 300+ recruiting focused events in 125+ cities every year working with over 3,000+ tech companies worldwide"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Java Training with Placement in Electronic City Bangalore",
+    "image": "https://cdn-az.allevents.in/events6/banners/11e9c94e11a57957fbe22e47d8011d64c55b3df9cd140c76a20cdc9577803935-rimg-w1200-h668-dc134a8e-gmir.jpg?v=1779879385",
+    "startDate": "2026-08-14T10:00:00+05:30",
+    "endDate": "2026-11-26T10:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "eMexo Technologies",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Cross Road",
+        "postalCode": "560100",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.8401051",
+        "longitude": "77.6501601"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Free Java training with placement event in Electronic City. Must call to verify before visit. Limited seats.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "2026-11-26T10:00:00+05:30",
+        "validFrom": "2026-05-27",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-05-27",
+        "availabilityEnds": "",
+        "validFrom": "2026-05-27",
+        "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
+        "price": 0,
+        "name": "Free Java Placement Seminar – Verified Entry"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "eMexo Technologie",
+        "url": "https://allevents.in/org/emexo-technologie/27594755"
       }
     ]
   },
@@ -3926,117 +3970,5 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "A transformational personal branding workshop for founders and senior leaders ready to build a profitable personal brand in 2027.\n\nSaturday, 5 December 2026DATE\n\n2:00–5:00 PM ISTTIME\n\nBengaluruVENUE\n\nFree | 30 seatsREGISTRATION APPROVAL REQUIRED\n\nYou’ve built a business, led teams or spent years mas"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Orbit by PeakXV and In-Space",
-    "image": "https://cdn-az.allevents.in/events1/banners/fad861d0-e66b-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dcf8f8f8-gmir.jpg?v=1795348686",
-    "startDate": "2026-12-09T18:00:00+00:00",
-    "endDate": "2026-12-09T20:30:00+00:00",
-    "url": "https://allevents.in/bengaluru/orbit-by-peakxv-and-in-space/4700031097389607",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.97570896141",
-        "longitude": "77.639553664536"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Orbit brings together founders building India’s space economy for an evening hosted by Peak XV and IN-SPACe.\n\nSpace companies in India are built over long timelines, with hardware risk, government and global customers, and capital that has to understand all three. Orbit is a room for the people doin"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "It's all about Longevity - Coffeetable.vc x Ultrahuman",
-    "image": "https://cdn-az.allevents.in/events6/banners/c71e6900-e6a4-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc080808-gmir.png?v=1795373081",
-    "startDate": "2026-12-03T17:30:00+00:00",
-    "endDate": "2026-12-03T19:30:00+00:00",
-    "url": "https://allevents.in/bengaluru/its-all-about-longevity-coffeetablevc-x-ultrahuman/4700031100044941",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.964603291504",
-        "longitude": "77.642874766081"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "IT'S ALL ABOUT LONGEVITY\n\nAn evening of science, healthtech & good conversations.\n\nWhat does it take to live longer, healthier and better? And who's building the technology to make it possible?\n\nCoffeetable.vc × Ultrahuman bring together a curated room of healthtech founders and VCs for an evening o"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tokens &amp; Teens",
-    "image": "https://cdn-az.allevents.in/events10/banners/cc6a0040-e6a4-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc080808-gmir.png?v=1795373090",
-    "startDate": "2026-11-28T14:00:00+00:00",
-    "endDate": "2026-11-28T17:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/tokens-and-teens/4700031100049750",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.97996911377",
-        "longitude": "77.64129583123"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Got an idea? Build it.\n\nThen show it off.\n\nLossfunk is teaming up with JarvisLabs to host a build day just for teenagers.\n\nThere are no themes.\n\nMake an app, a game, an AI agent, a bot, a weird experiment or something nobody has thought of yet.\n\n1 billion DeepSeek tokens up for grabs 🚀 Every builder"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Product-led Growth for Startups",
-    "image": "https://cdn-az.allevents.in/events4/banners/e0ce2f70-e6a4-11f1-b8a0-65efcc089f98-rimg-w1050-h1050-dcf8f8f8-gmir.png?v=1795373124",
-    "startDate": "2026-12-05T16:00:00+00:00",
-    "endDate": "2026-12-05T17:30:00+00:00",
-    "url": "https://allevents.in/bengaluru/product-led-growth-for-startups/4700031100079125",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.936114558337",
-        "longitude": "77.612301552112"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "🚀 Calling All Product Folks & Founders!\n\nAre you building or scaling a product? Curious about how product-led growth (PLG) can supercharge your go-to-market strategy?\n\nJoin us for an insightful session on Product-Led Growth for SaaS Startups — designed specifically for product managers and SaaS foun"
   }
 ]
