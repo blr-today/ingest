@@ -8,7 +8,7 @@ on:
     - src/sources/bookmyshow.py
     - .github/workflows/bookmyshow.yml
   schedule:
-    # One batch an hour from midnight to 7am, the pages are paced to about 14s each
+    # One batch an hour from midnight to 7am, the pages are paced to about 12s each
     - cron: '0 0-7 * * *'
       timezone: "Europe/Berlin"
 concurrency:

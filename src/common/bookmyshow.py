@@ -105,8 +105,8 @@ def parse(html):
 
 
 def pause():
-    # Keep the /bot page in sync: 5 to 10 seconds between page loads per host
-    time.sleep(random.uniform(5, 10))
+    # Keep the /bot page in sync: 4 to 8 seconds between page loads per host
+    time.sleep(random.uniform(4, 8))
 
 
 def empty(url, html):
