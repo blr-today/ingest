@@ -5590,55 +5590,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "New Year Party in Bangalore 2027",
-    "description": "HighlightsCelebrate New Year 2027 with an exclusive lakeside camping experience at Kanva Reservoir.Enjoy a 2-day, 1-night getaway surrounded by scenic natural l",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/21/2b83e7245ef5d56d5f67d9e6148c66bb.jpg"
-    ],
-    "startDate": "2026-12-31T16:00:00+05:30",
-    "endDate": "2027-01-01T11:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Triquetra (Aqua escape)",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Kanva Reservoir, Kannamangala, Karnataka 562161, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.724838,
-        "longitude": 77.2017
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "escape2explore",
-      "url": "https://www.highape.com/bangalore/organisers/escape--explore---cd63a3eec3"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "3599",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/new-year-party-in-bangalore-2027-zw6gddwxzu",
-      "validFrom": "2026-11-24T00:00:49.838Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "escape2explore",
-        "url": "https://www.highape.com/bangalore/organisers/escape--explore---cd63a3eec3"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/new-year-party-in-bangalore-2027-zw6gddwxzu"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Velvete 2027",
     "description": "HighlightsGrand New Year’s Eve celebration at Taj MG Road, BengaluruAn elegant setting with beautifully designed spacesHigh-energy music and immersive entertain",
     "image": [
@@ -5935,57 +5886,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/nye-2027-ft-dj-saif-new-year-s-eve-celebration-jnfuerypjg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Garten Gala 2027 – New Year's Eve Celebration",
-    "description": "HighlightsCelebrate New Year's Eve at Highgarten Pub, Church Street.Enjoy an electrifying DJ performance and festive music.Explore a specially curated food and ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/16/6b2f0fde8de354c809be716d305f4654.jpg"
-    ],
-    "startDate": "2026-12-31T20:00:00+05:30",
-    "endDate": "2027-01-01T00:45:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Highgarten Pub",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd floor, 53, Church St, above Starbucks, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.974516,
-        "longitude": 77.607422
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "VNH Events",
-      "url": "https://www.highape.com/bangalore/organisers/vnh"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "499",
-      "highPrice": "1999",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/nye-garten-gala-2027-at-church-street-q205lxvp21",
-      "validFrom": "2026-11-23T23:28:04.542Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Allen",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-allen-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/nye-garten-gala-2027-at-church-street-q205lxvp21"
   },
   {
     "@context": "https://schema.org",
@@ -6696,6 +6596,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/sakkath-hot-fridays-ladies-night-o1rpnge6wi"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sandalwood Talkies – Exclusive Kannada Night",
+    "description": "HighlightsExclusive Kannada music night celebrating Sandalwood hits.Featuring Jordaan.Supported by DJ Kram.Experience iconic Kannada chartbusters and mass dance",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/e71cf5b40050e5c16e7ecd71c8a4e6ce.png"
+    ],
+    "startDate": "2026-11-27T20:00:00+05:30",
+    "endDate": "2026-11-28T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PANACEA BLR",
+      "url": "https://www.highape.com/bangalore/organisers/vysakh-b-ra-at5m1"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/sandalwood-talkies-exclusive-kannada-night-kqugd4zd4k",
+      "validFrom": "2026-11-24T10:00:15.557Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Kram",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-kram-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/sandalwood-talkies-exclusive-kannada-night-kqugd4zd4k"
   },
   {
     "@context": "https://schema.org",
@@ -8356,6 +8307,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/ticket-to-boiler-room-a-movement-d25m0qpxkt"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ticket to Kollywood – Exclusive Tamil Night",
+    "description": "HighlightsExclusive Tamil music night celebrating Kollywood hits.Featuring DJ Sundar.Supported by DJ Kram.Experience iconic Tamil chartbusters and mass dance an",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/f9c0ff65815b25ad8b4becdc2bf09868.png"
+    ],
+    "startDate": "2026-11-28T20:00:00+05:30",
+    "endDate": "2026-11-29T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Panacea Blr",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd floor, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.941408,
+        "longitude": 77.696728
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PANACEA BLR",
+      "url": "https://www.highape.com/bangalore/organisers/vysakh-b-ra-at5m1"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "0",
+      "highPrice": "199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/ticket-to-kollywood-exclusive-tamil-night-ieysnwpkkt",
+      "validFrom": "2026-11-24T10:00:17.375Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Kram",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-kram-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/ticket-to-kollywood-exclusive-tamil-night-ieysnwpkkt"
   },
   {
     "@context": "https://schema.org",
