@@ -7,7 +7,7 @@ import random
 import re
 import tempfile
 import time
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
@@ -30,6 +30,7 @@ VERSION = 1
 DAY = 24 * 3600
 PRUNE = 7 * DAY
 UNDATED = "9999-12-31"
+BASE = "https://in.bookmyshow.com"
 _fetcher = None
 
 
@@ -90,6 +91,40 @@ def synopsis(html):
 def record(url, html):
     events = list(jsonld_events(BeautifulSoup(html, "html.parser")))
     return {"version": VERSION, "url": url, "fetched": time.time(), "events": events, "synopsis": synopsis(html)}
+
+
+def sessions_link(html):
+    # Attractions have no Event, but their book button leads to dated sessions
+    if not re.search(r'"category":"[^"]*Tourist Attractions', html):
+        return None
+    found = re.search(r'href="(/activities/[^"/]+/\w+/date-time/\w+)"', html)
+    return urljoin(BASE, found.group(1)) if found else None
+
+
+def sessions(html):
+    start = html.find(STATE_MARKER)
+    if start < 0:
+        return []
+    try:
+        state, _ = json.JSONDecoder().raw_decode(html, start + len(STATE_MARKER))
+    except json.JSONDecodeError:
+        return []
+    found = []
+    for query in (state.get("eventsBookingFlowApi") or {}).get("queries", {}).values():
+        info = (((query.get("data") or {}).get("sessionInfo") or {}).get("eventInfo") or {})
+        for venue in (info.get("venues") or {}).values():
+            place = {k: venue.get(k) for k in ("name", "lat", "long", "address")}
+            for day in (venue.get("sessions") or {}).values():
+                for show in (day.get("showTimes") or {}).values():
+                    if show.get("isSoldOut") or not re.fullmatch(r"\d{4}-\d\d-\d\d \d\d:\d\d", show.get("showDateTime", "")):
+                        continue
+                    prices = [
+                        {"name": c.get("name"), "price": c.get("price")}
+                        for g in show.get("categoryGroups") or []
+                        for c in g.get("categories") or []
+                    ]
+                    found.append({"start": show["showDateTime"].replace(" ", "T"), "prices": prices, "venue": place})
+    return sorted(found, key=lambda x: x["start"])
 
 
 def summarize(data):
@@ -172,6 +207,7 @@ def due(url):
 
 def soonest(data):
     days = [str(e.get("startDate", ""))[:10] for e in data["events"] if in_bengaluru(e)]
+    days += [x["start"][:10] for x in data.get("sessions") or []]
     days = [d for d in days if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d) and d >= today()]
     return min(days, default=UNDATED)
 
@@ -232,6 +268,9 @@ def load(url, refresh=False):
         # Keep the older copy when a refresh fails
         return data
     data = record(url, html)
+    link = None if data["events"] else sessions_link(html)
+    if link and (booking := page(link)):
+        data["sessions"] = sessions(booking)
     save(url, data)
     return data
 

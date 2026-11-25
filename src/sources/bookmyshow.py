@@ -32,6 +32,8 @@ LISTINGS = (
 # A separate job lists BMS and fills the page cache, the build reads both
 STALE = 2 * 24 * 3600
 MAX_AGE = 7 * 24 * 3600
+# post-build.sql keeps the attractions it wants and drops the rest
+ATTRACTION = "BMS-ATTRACTION"
 SUMMARY = {"@type", "name", "url", "startDate", "endDate", "image", "location", "eventStatus"}
 
 
@@ -126,11 +128,40 @@ def listing():
     return found
 
 
+def session_events(summary, data):
+    # Attractions run daily sessions rather than shows, so each session is an event
+    found = []
+    for session in data.get("sessions") or []:
+        if session["start"][:10] < bookmyshow.today():
+            continue
+        venue = session["venue"]
+        event = {k: v for k, v in summary.items() if k not in ("@context", "endDate")}
+        event["startDate"] = session["start"] + ":00+05:30"
+        event["keywords"] = [ATTRACTION]
+        if venue.get("lat") and venue.get("long"):
+            event["location"] = {
+                "@type": "Place",
+                "name": venue["name"],
+                "address": {"@type": "PostalAddress", "streetAddress": venue.get("address")},
+                "geo": {"@type": "GeoCoordinates", "latitude": float(venue["lat"]), "longitude": float(venue["long"])},
+            }
+        event["offers"] = [
+            {"@type": "Offer", "name": p["name"], "price": p["price"], "priceCurrency": "INR"}
+            for p in session["prices"]
+        ]
+        if data.get("synopsis"):
+            event["description"] = data["synopsis"]
+        found.append(event)
+    return found
+
+
 def page_events(summary, refresh=False):
     data = bookmyshow.load(summary["url"], refresh)
     if not data:
         return []
     about = data.get("synopsis")
+    if not data["events"]:
+        return session_events(summary, data)
     found = []
     for event in data["events"]:
         if not bookmyshow.in_bengaluru(event):

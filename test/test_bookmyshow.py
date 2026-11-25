@@ -288,3 +288,48 @@ def test_parse_prefers_the_bengaluru_show():
     ]
     html = HTML.replace(f"[{json.dumps(EVENT)}]", json.dumps(shows))
     assert bookmyshow.parse(html)["typicalAgeRange"] == "8+"
+
+
+def booking(*shows, sold_out=False):
+    times = {
+        t.replace(" ", "")[-5:].replace(":", ""): {
+            "showDateTime": t, "isSoldOut": sold_out,
+            "categoryGroups": [{"categories": [{"name": "ADULT", "price": "100.00"}]}],
+        }
+        for t in shows
+    }
+    day = {"showTimes": times}
+    venue = {"name": "Snow City: Bengaluru", "lat": "12.9", "long": "77.6", "address": "Lalbagh Road", "sessions": {"d": day}}
+    info = {"sessionInfo": {"eventInfo": {"venues": {"SWCM": venue}}}}
+    state = {"eventsBookingFlowApi": {"queries": {"getSessionInfo-ET1": {"data": info}}}}
+    return f"<script>window.__INITIAL_STATE__ = {json.dumps(state)};</script>"
+
+
+def test_attractions_link_to_their_sessions():
+    link = '<a href="/activities/snow-city/ET1/date-time/SWCM">Book</a>'
+    attraction = '{"category":"Amusement Parks,Tourist Attractions","tags":""}' + link
+    assert bookmyshow.sessions_link(attraction) == "https://in.bookmyshow.com/activities/snow-city/ET1/date-time/SWCM"
+    assert bookmyshow.sessions_link(link) is None
+    assert bookmyshow.sessions_link('{"category":"Tourist Attractions"}') is None
+
+
+def test_sessions_skip_sold_out_shows():
+    found = bookmyshow.sessions(booking("2026-11-26 12:30", "2026-11-26 16:30"))
+    assert [s["start"] for s in found] == ["2026-11-26T12:30", "2026-11-26T16:30"]
+    assert found[0]["prices"] == [{"name": "ADULT", "price": "100.00"}]
+    assert found[0]["venue"]["name"] == "Snow City: Bengaluru"
+    assert bookmyshow.sessions(booking("2026-11-26 12:30", sold_out=True)) == []
+    assert bookmyshow.sessions("<p>no state</p>") == []
+
+
+def test_each_attraction_session_becomes_an_event(monkeypatch):
+    monkeypatch.setattr(bookmyshow, "today", lambda: "2026-11-27")
+    data = {"events": [], "synopsis": "Open daily.", "sessions": bookmyshow.sessions(booking("2026-11-26 12:30", "2026-11-27 16:30"))}
+    monkeypatch.setattr(bookmyshow, "load", lambda url, refresh: data)
+    summary = {"@context": "x", "url": LINK, "name": "Snow City", "startDate": "2026-11-26", "endDate": "2026-12-31"}
+    [event] = source.page_events(summary)
+    assert event["startDate"] == "2026-11-27T16:30:00+05:30"
+    assert event["keywords"] == ["BMS-ATTRACTION"] and event["description"] == "Open daily."
+    assert event["offers"] == [{"@type": "Offer", "name": "ADULT", "price": "100.00", "priceCurrency": "INR"}]
+    assert event["location"]["geo"] == {"@type": "GeoCoordinates", "latitude": 12.9, "longitude": 77.6}
+    assert "endDate" not in event

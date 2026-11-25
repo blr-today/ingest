@@ -1,3 +1,4 @@
+import datetime
 import json
 import sqlite3
 from pathlib import Path
@@ -233,3 +234,38 @@ def test_offlyn_curation(tmp_path):
     assert tagged("WOMEN-ONLY") == ["e"]
     assert tagged("CURATED") == ["f"]
     assert tagged("BUSINESS") == ["h"]
+
+
+def test_bms_attractions_keep_the_planetarium_and_museum(tmp_path):
+    base = "https://in.bookmyshow.com/activities"
+    today = datetime.date.today()
+
+    def session(slug, venue, days):
+        return [
+            {
+                "url": f"{base}/{slug}", "name": slug, "location": {"name": venue},
+                "startDate": f"{today + datetime.timedelta(d)}T12:30:00+05:30", "keywords": ["BMS-ATTRACTION"],
+            }
+            for d in range(days)
+        ]
+
+    pn = "Jawaharlal Nehru Planetarium: Bengaluru"
+    postbuild(
+        session("jawaharlal-nehru-planetarium-bengaluru-english/ET00360323", pn, 14)
+        + session("jawaharlal-nehru-planetarium-bengaluru-kannada/ET00360322", pn, 14)
+        + session("indian-music-experience/ET00088164", "Indian Music Experience: Bengaluru", 3)
+        + session("snow-city/ET1", "Snow City: Bengaluru", 3),
+        tmp_path / "events.db",
+    )
+    with sqlite3.connect(tmp_path / "events.db") as conn:
+        events = [json.loads(r[0]) for r in conn.execute("SELECT event_json FROM events")]
+    assert len(events) == 31 and not any("snow-city" in e["url"] for e in events)
+    museum = [e for e in events if "indian-music" in e["url"]]
+    assert [e["keywords"] for e in museum] == [["IME"]] * 3
+    planetarium = [e for e in events if "planetarium" in e["url"]]
+    assert all(e["keywords"] in (["PLANETARIUM"], ["PLANETARIUM", "CURATED"]) for e in planetarium)
+    curated = [e for e in planetarium if "CURATED" in e["keywords"]]
+    assert curated and all("-english/" in e["url"] for e in curated)
+    weeks = [datetime.date.fromisoformat(e["startDate"][:10]).isocalendar()[:2] for e in curated]
+    assert len(weeks) == len(set(weeks))
+    assert all(datetime.date.fromisoformat(e["startDate"][:10]).weekday() < 5 for e in curated)

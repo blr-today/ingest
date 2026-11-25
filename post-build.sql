@@ -1876,6 +1876,53 @@ WHERE
     OR event_json ->> '$.organizer.name' LIKE 'Blr Reader_s Society'
   );
 
+-- BMS attractions run daily sessions, and we only list the planetarium and the music museum
+-- The legacy planetarium listing has no sessions, so only the English and Kannada shows come through
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      CASE WHEN lower(event_json ->> '$.location.name') LIKE '%nehru planetarium%' THEN 'PLANETARIUM' ELSE 'IME' END
+    )
+  )
+WHERE
+  event_json -> '$.keywords' LIKE '%"BMS-ATTRACTION"%'
+  AND (
+    lower(event_json ->> '$.location.name') LIKE '%nehru planetarium%'
+    OR lower(event_json ->> '$.location.name') LIKE '%indian music experience%'
+  );
+
+DELETE FROM events WHERE event_json -> '$.keywords' LIKE '%"BMS-ATTRACTION"%'
+  AND event_json -> '$.keywords' NOT LIKE '%"PLANETARIUM"%'
+  AND event_json -> '$.keywords' NOT LIKE '%"IME"%';
+
+UPDATE events
+SET event_json = json_replace(
+  event_json,
+  '$.keywords',
+  json((SELECT json_group_array(value) FROM json_each(event_json -> '$.keywords') WHERE value != 'BMS-ATTRACTION'))
+)
+WHERE event_json -> '$.keywords' LIKE '%"BMS-ATTRACTION"%';
+
+-- Curate one English show a week, on a weekday picked by the calendar week so it stays put
+-- Week 0 is Monday, week 1 is Tuesday, and so on, wrapping after Friday
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'CURATED')
+  )
+WHERE
+  url LIKE 'https://in.bookmyshow.com/%-english/%'
+  AND event_json -> '$.keywords' LIKE '%"PLANETARIUM"%'
+  AND CAST(strftime('%w', substr(event_json ->> '$.startDate', 1, 10)) AS INTEGER)
+    = CAST(strftime('%W', substr(event_json ->> '$.startDate', 1, 10)) AS INTEGER) % 5 + 1;
+
 -- Singles mixers, and paid design thinking bootcamps sold as workshops
 UPDATE events
 SET

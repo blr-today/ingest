@@ -217,6 +217,9 @@ def event_tags(event, answers):
     # Game nights pass as plays on BMS, and as stranger meetups by their pitch
     if any(t.startswith("GAMES/") for t in tags):
         tags -= {"SHOW/THEATER", "SOCIAL/STRANGERS-MEETUP"}
+    # The planetarium and museum sessions are the show, not a tourist attraction to demote
+    if {"PLANETARIUM", "IME"} & set(keywords(event)):
+        tags.discard("ATTRACTION")
     tags = with_parents(tags)
     venue = (state(event)["event"]["venue"] or "").lower()
     if "ART-CRAFT" in tags and venue.startswith(CRAFT_SPAM_VENUES):
