@@ -40,12 +40,12 @@ jobs:
             echo "CI_CURL_ARCH=x86_64" >> "$GITHUB_ENV"
             echo "CI_CURL_SHA=bc9bd2522fe1850dd54c0fff189c8dd606df3f222ab2a905f2dd255123c3f495" >> "$GITHUB_ENV"
             echo "CI_LP_ARCH=x86_64" >> "$GITHUB_ENV"
-            echo "CI_LP_SHA=1d40801e72c0bc61b2cbd3f3562bcfc46de7b79e0568f33f686b64f2e587610a" >> "$GITHUB_ENV" ;;
+            echo "CI_LP_SHA=0ec21fa4867ab9e82b35285ff4ab0e7336c6c1d89f26fe991f27d73c8a678bd7" >> "$GITHUB_ENV" ;;
           aarch64|arm64)
             echo "CI_CURL_ARCH=aarch64" >> "$GITHUB_ENV"
             echo "CI_CURL_SHA=35a351db883f5ce82945bd8280c727b08e27aa48594d4eb9e091d8c80e936d52" >> "$GITHUB_ENV"
             echo "CI_LP_ARCH=aarch64" >> "$GITHUB_ENV"
-            echo "CI_LP_SHA=664775c7f5ab69cc3189954c7f9345e25c167cb4dace016173e629f9a5e82c42" >> "$GITHUB_ENV" ;;
+            echo "CI_LP_SHA=7527391c479f323eb9111b834b012d91a89057528c28ef027741b21739b12299" >> "$GITHUB_ENV" ;;
           *) echo "::error::Unsupported CPU $(uname -m)"; exit 1 ;;
         esac
     - name: Install Dependencies
@@ -65,7 +65,7 @@ jobs:
         echo "${CI_CURL_SHA}  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
 
-        wget "https://github.com/lightpanda-io/browser/releases/download/0.4.1/lightpanda-${CI_LP_ARCH}-linux" -O /tmp/lightpanda
+        wget "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-${CI_LP_ARCH}-linux" -O /tmp/lightpanda
         echo "${CI_LP_SHA}  /tmp/lightpanda" | sha256sum --check --status
         sudo install -m 755 /tmp/lightpanda /usr/bin/lightpanda
     - name: Install Dependencies (self-hosted)
@@ -83,7 +83,7 @@ jobs:
           echo "::error::Missing on $RUNNER_NAME:$missing"
           exit 1
         fi
-        bin="$RUNNER_TOOL_CACHE/ingest-bin"
+        bin="$RUNNER_TOOL_CACHE/ingest-bin-2"
         mkdir -p "$bin"
         if [ ! -x "$bin/curl_chrome152" ]; then
           wget -q "https://github.com/lexiforest/curl-impersonate/releases/download/v2.3.2/curl-impersonate-v2.3.2.${CI_CURL_ARCH}-linux-gnu.tar.gz" -O "$RUNNER_TEMP/curl-impersonate.tar.gz"
@@ -91,7 +91,7 @@ jobs:
           tar -xzf "$RUNNER_TEMP/curl-impersonate.tar.gz" -C "$bin"
         fi
         if [ ! -x "$bin/lightpanda" ]; then
-          wget -q "https://github.com/lightpanda-io/browser/releases/download/0.4.1/lightpanda-${CI_LP_ARCH}-linux" -O "$RUNNER_TEMP/lightpanda"
+          wget -q "https://github.com/lightpanda-io/browser/releases/download/1.0.5/lightpanda-${CI_LP_ARCH}-linux" -O "$RUNNER_TEMP/lightpanda"
           echo "${CI_LP_SHA}  $RUNNER_TEMP/lightpanda" | sha256sum --check --status
           install -m 755 "$RUNNER_TEMP/lightpanda" "$bin/lightpanda"
         fi
