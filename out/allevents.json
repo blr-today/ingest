@@ -373,6 +373,40 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "APR Run Bangalore 2026",
+    "image": "https://cdn-az.allevents.in/events4/banners/343f4e4ccd52d5f84d0a205c8caccb6bab098bd7b5431cd0dcd06314f3a68aed-rimg-w1055-h1491-dc081838-gmir?v=1795542858",
+    "startDate": "2026-12-06T06:00:00+05:30",
+    "url": "https://allevents.in/bangalore/apr-run-bangalore-2026/200031118829319",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Adarsh Palm Retreat",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Outer Ring Road,Bengaluru, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.919479516667",
+        "longitude": "77.688557126667"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "APR Run 2026 is a community running event organised in support of APR Charitable Trust’s work in education and women’s empowerment.\n\nScheduled for Sunday, 6 December 2026, at Adarsh Palm Retreat, Bengaluru, the event welcomes participants of all ages and running abilities. Choose between the timed 5",
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "RunnersDuniya.com",
+        "url": "https://allevents.in/org/runnersduniyacom/27456988"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "Fred again.. in Bengaluru",
     "image": "https://cdn-az.allevents.in/events8/banners/f296a400-7578-11f1-a87c-552e322304e6-rimg-w1200-h675-dc02142f-gmir.webp?v=1782929775",
@@ -1860,6 +1894,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Hat-Dance Disaster - An Anansi Story",
+    "image": "https://cdn-az.allevents.in/events7/banners/eadf3450-e5af-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795267914",
+    "startDate": "2026-12-13T16:00:00+05:30",
+    "endDate": "2026-12-13T16:45:00+05:30",
+    "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Ranga Shankara: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9116",
+        "longitude": "77.5871"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Anansi the trickster spider loves three things above all - his hair, his hats and food. When food becomes scarce, Anansi turns to Mama for help but his greed gets him into a soup and changes him forever. This lively tale from West Africa will have children laughing, singing, chanting and even dancin",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-13T16:45:00+05:30",
+        "validFrom": "2026-11-21",
+        "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Faraway Christmas Land",
     "image": "https://cdn-az.allevents.in/events5/banners/1aa60a10-e5b0-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc081838-gmir.jpg?v=1795267994",
     "startDate": "2026-12-13T12:00:00+05:30",
@@ -1932,6 +2005,45 @@
         "availabilityEnds": "2026-11-28T23:30:00+05:30",
         "validFrom": "2026-11-21",
         "url": "https://allevents.in/bangalore/saturday-night-live-ft-kalaangi/3900031093943731"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Malayalam Kalyanam Fake Wedding Edition",
+    "image": "https://cdn-az.allevents.in/events1/banners/dcafb5b0-e624-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc080808-gmir.jpg?v=1795318142",
+    "startDate": "2026-12-06T17:00:00+05:30",
+    "endDate": "2026-12-06T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "BudBee Restobar 104: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9332",
+        "longitude": "77.6147"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Get ready for an unforgettable night filled with Malayalam vibes music dance and wedding celebrationsMalayalam Tashan Night Kalyanam Fake Wedding Edition brings you the excitement of a grand traditional wedding with a fun twistExperience energetic music entertaining performances dance celebrations f",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-22",
+        "availabilityEnds": "2026-12-06T20:00:00+05:30",
+        "validFrom": "2026-11-22",
+        "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502"
       }
     ]
   },
@@ -2775,6 +2887,101 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Founders X Investors Pitch | 5th Dec | Bangalore",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6b01894ccbe17.jpg",
+    "startDate": "2026-12-05T16:00:00+05:30",
+    "endDate": "2026-12-05T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Fortius Origin",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "7, 80 Feet Rd, Koramangala 1A Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "postalCode": "560034",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9280807",
+        "longitude": "77.6328344"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "The Founders X Investors Pitch | 5th December 2026 | BangaloreFounders X Investors – Flagship Pitch SeriesBangalore, we're bringing the next room of founders and investors to you.We're back with another edition of our flagship Founders X Investors Pitch Series — bringing together ambitious startups,",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-05T20:00:00+05:30",
+        "validFrom": "2026-11-21",
+        "lowPrice": "699.00",
+        "highPrice": "14999.00",
+        "price": "699.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-05T20:00:00+05:30",
+        "validFrom": "2026-11-21",
+        "price": "699.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
+        "availability": "https://schema.org/InStock",
+        "name": "Startup Attendee "
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-05T20:00:00+05:30",
+        "validFrom": "2026-11-21",
+        "price": "1299.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
+        "availability": "https://schema.org/InStock",
+        "name": "Investor Panel"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-05T20:00:00+05:30",
+        "validFrom": "2026-11-21",
+        "price": "2999.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
+        "availability": "https://schema.org/InStock",
+        "name": "Startup Pitch Slot"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-21",
+        "availabilityEnds": "2026-12-05T20:00:00+05:30",
+        "validFrom": "2026-11-21",
+        "price": "14999.00",
+        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
+        "availability": "https://schema.org/InStock",
+        "name": "Accelerate Slot"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "The Founders",
+        "url": "https://allevents.in/org/the-founders/25499127",
+        "description": "The Founders is a community built for and by entrepreneurs, innovators, and investors who believe in collaboration over competition. Whether you're launching your first startup, scaling your business, or investing in groundbreaking ideas, this is the place where you’ll find the right people, real opportunities, and powerful conversations that fuel growth.\n"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "D&amp;D 101: The Beginner's Guide to Dungeons &amp; Dragons",
     "image": "https://cdn2.allevents.in/thumbs/thumb6b0550069f675.jpg",
     "startDate": "2026-11-29T18:15:00+05:30",
@@ -3274,6 +3481,68 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Namma Bengaluru Startups Meetup by CEDAT",
+    "image": "https://cdn-az.allevents.in/events2/banners/f7da21aa7680e168af0408faaa7570a2675a2ee874048e3ddcbb7bf36b114e26-rimg-w1200-h900-dcf8f8f8-gmir.jpg?v=1794271635",
+    "startDate": "2026-12-16T16:00:00+05:30",
+    "endDate": "2026-12-16T18:00:00+05:30",
+    "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Karnataka Digital Economy Mission (KDEM)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "27th Main Road",
+        "postalCode": "560102",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9201546",
+        "longitude": "77.65109369999999"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Namma Bengaluru Startups Circle is a gathering for people who are creating, building, and growing businesses.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "2026-12-16T18:00:00+05:30",
+        "validFrom": "2026-11-10",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274"
+      },
+      {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-10",
+        "availabilityEnds": "",
+        "validFrom": "2026-11-10",
+        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
+        "price": 0,
+        "name": "Namma Bengaluru Startups Meetup by CEDAT"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "CEDAT",
+        "url": "https://allevents.in/org/cedat/25486355",
+        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dhuni · Chapter 1 · Crane x Mk1 Foundry",
     "image": "https://cdn-az.allevents.in/events7/banners/3de164d0-e4d3-11f1-a5fd-470b6141b80e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1795173135",
     "startDate": "2026-11-28T18:00:00+00:00",
@@ -3526,34 +3795,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Clerwell Ignite 2026",
-    "image": "https://cdn-az.allevents.in/events2/banners/6eda46b0-e5eb-11f1-b8a0-65efcc089f98-rimg-w1024-h1024-dc080818-gmir.png?v=1795293476",
-    "startDate": "2026-11-25T10:00:00+00:00",
-    "endDate": "2026-11-25T17:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/clerwell-ignite-2026/4700031093979356",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.822161413856",
-        "longitude": "77.684438334033"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Clerwell Ignite 2026 is a founder showcase and competition for people building with AI. 25 shortlisted solo founders and teams pitch, demo and take reviewer questions in Bengaluru, competing for ₹1,00,000 in cash prizes. Four winners go on to showcase at Clerwell's Agent & Developer Conference on 3"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Future of Data - Bangalore",
     "image": "https://cdn-az.allevents.in/events1/banners/7997c1e0-e5eb-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc180848-gmir.png?v=1795293494",
     "startDate": "2026-11-28T09:30:00+00:00",
@@ -3694,62 +3935,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Unshameable: You Were Never Broken | Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293602",
-    "startDate": "2026-12-05T15:15:00+00:00",
-    "endDate": "2026-12-05T16:45:00+00:00",
-    "url": "https://allevents.in/bengaluru/unshameable-you-were-never-broken-workshop/4700031093993502",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Big Tent",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayamahal Palace Hotel",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9972",
-        "longitude": "77.5979361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nShame is a strategy the body learns early: shrink, hide, earn your place. This experiential workshop uses theatre, play and movement to loosen its grip, not by talking it out but through pr"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Vision Board Workshop for Women",
-    "image": "https://cdn-az.allevents.in/events6/banners/bb560c90-e5eb-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc682898-gmir.jpg?v=1795293604",
-    "startDate": "2026-12-05T16:00:00+00:00",
-    "endDate": "2026-12-05T18:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/vision-board-workshop-for-women/4700031093993905",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Brunch Project",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Brunch Project",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9334415",
-        "longitude": "77.6269846"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "2027 is almost here, and we're planning for it the fun way: with scissors, glue and a really good coffee (or matcha).\n\nJoin WIPM and The Brunch Project for a slow, cosy Saturday afternoon of cutting, pasting and putting your dreams for the new year on paper. You'll leave with a vision board that's e"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Drawing Minds: Comics, Care, and Conversations | Workshop",
     "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293606",
     "startDate": "2026-12-06T12:00:00+00:00",
@@ -3834,90 +4019,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Move, Reflect, Release: A Guided Movement Workshop for Mental Well-Being | Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293611",
-    "startDate": "2026-12-05T11:15:00+00:00",
-    "endDate": "2026-12-05T12:45:00+00:00",
-    "url": "https://allevents.in/bengaluru/move-reflect-release-a-guided-movement-workshop-for-mental-well-being-workshop/4700031093995411",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Big Tent",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayamahal Palace Hotel",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9972",
-        "longitude": "77.5979361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nMovement isn’t a luxury; it’s one of the ways our bodies process feelings. Rooted in community dance and dance movement therapy, this guided session helps you land in the present, listen to"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hunt for a Perfect Partner: Do You Have a Checklist? | Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293618",
-    "startDate": "2026-12-06T12:00:00+00:00",
-    "endDate": "2026-12-06T13:30:00+00:00",
-    "url": "https://allevents.in/bengaluru/hunt-for-a-perfect-partner-do-you-have-a-checklist-workshop/4700031093996418",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Hands-On Zone",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayamahal Palace Hotel",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9972",
-        "longitude": "77.5979361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nMany of us persevere to find our \"perfect partner\", but is that real or a unicorn at the end of a rainbow? This workshop unpacks this idea and explores emotional, sexual, and value-based co"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Rap Writing for Self-Expression &amp; Community Identity: Govandi Arts Festival x Kali | Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293622",
-    "startDate": "2026-12-05T13:15:00+00:00",
-    "endDate": "2026-12-05T14:45:00+00:00",
-    "url": "https://allevents.in/bengaluru/rap-writing-for-self-expression-and-community-identity-govandi-arts-festival-x-kali-workshop/4700031093997122",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Big Tent",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayamahal Palace Hotel",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9972",
-        "longitude": "77.5979361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nWhat happens when young people get the mic to tell their own stories? Rappers from Karnakata and from the Govandi Arts Festival, Mumbai introduce the basics of rap writing through rhythm, w"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Blow Your Own Trumpet: Find Your Genius. Build Your Authority. Monetize Your Visibility.",
     "image": "https://cdn-az.allevents.in/events6/banners/c85dc5e0-e5eb-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dcf8f8e8-gmir.png?v=1795293626",
     "startDate": "2026-12-05T14:00:00+00:00",
@@ -3942,6 +4043,34 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "A transformational personal branding workshop for founders and senior leaders ready to build a profitable personal brand in 2027.\n\nSaturday, 5 December 2026DATE\n\n2:00–5:00 PM ISTTIME\n\nBengaluruVENUE\n\nFree | 30 seatsREGISTRATION APPROVAL REQUIRED\n\nYou’ve built a business, led teams or spent years mas"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Orbit by PeakXV and In-Space",
+    "image": "https://cdn-az.allevents.in/events1/banners/fad861d0-e66b-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dcf8f8f8-gmir.jpg?v=1795348686",
+    "startDate": "2026-12-09T18:00:00+00:00",
+    "endDate": "2026-12-09T20:30:00+00:00",
+    "url": "https://allevents.in/bengaluru/orbit-by-peakxv-and-in-space/4700031097389607",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Bengaluru, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.97570896141",
+        "longitude": "77.639553664536"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Orbit brings together founders building India’s space economy for an evening hosted by Peak XV and IN-SPACe.\n\nSpace companies in India are built over long timelines, with hardware risk, government and global customers, and capital that has to understand all three. Orbit is a room for the people doin"
   },
   {
     "@context": "https://schema.org",
@@ -3998,6 +4127,62 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "Got an idea? Build it.\n\nThen show it off.\n\nLossfunk is teaming up with JarvisLabs to host a build day just for teenagers.\n\nThere are no themes.\n\nMake an app, a game, an AI agent, a bot, a weird experiment or something nobody has thought of yet.\n\n1 billion DeepSeek tokens up for grabs 🚀 Every builder"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Product-led Growth for Startups",
+    "image": "https://cdn-az.allevents.in/events4/banners/e0ce2f70-e6a4-11f1-b8a0-65efcc089f98-rimg-w1050-h1050-dcf8f8f8-gmir.png?v=1795373124",
+    "startDate": "2026-12-05T16:00:00+00:00",
+    "endDate": "2026-12-05T17:30:00+00:00",
+    "url": "https://allevents.in/bengaluru/product-led-growth-for-startups/4700031100079125",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Bengaluru, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.936114558337",
+        "longitude": "77.612301552112"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "🚀 Calling All Product Folks & Founders!\n\nAre you building or scaling a product? Curious about how product-led growth (PLG) can supercharge your go-to-market strategy?\n\nJoin us for an insightful session on Product-Led Growth for SaaS Startups — designed specifically for product managers and SaaS foun"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mohiniyattam Dance Recital",
+    "image": "https://cdn-az.allevents.in/events3/banners/1332a710-e7f0-11f1-8094-e77f3f8c6b64-rimg-w1024-h1024-dcf8b878-gmir.png?v=1795515372",
+    "startDate": "2026-11-29T08:00:00+00:00",
+    "endDate": "2026-11-29T09:00:00+00:00",
+    "url": "https://allevents.in/bengaluru/mohiniyattam-dance-recital/4700031116051012",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Cubbon Bandstand",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cubbon Bandstand",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9767034",
+        "longitude": "77.5939414"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Mohiniyattam Dance Recital ✨\n\nJoin us this coming Sunday morning at the Bandstand as Heritage Beku presents Archana Gopalakrishnan in a captivating Mohiniyattam performance.\n\nKnown for its graceful swaying movements, subtle expressions, and the signature white-and-gold kasavu attire, Mohiniyattam br"
   },
   {
     "@context": "https://schema.org",

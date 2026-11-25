@@ -488,5 +488,28 @@
         "name": "Mamlakatoi"
       }
     ]
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Sensing the Quantum Bizarreness",
+    "location": {
+      "@type": "Place",
+      "name": "Lecture Hall, Science Gallery Bengaluru",
+      "address": "Bangalore",
+      "url": "https://maps.app.goo.gl/jwjGeJVgghfGSW4k9"
+    },
+    "startDate": "2026-12-03T18:00:00+05:30",
+    "endDate": "2026-12-03T19:30:00+05:30",
+    "description": "What does it mean for a particle to exist in multiple states at once, and how can we detect something so counterintuitive?\n\nJoin Bashab Dey for an introduction to one of the most fascinating and counterintuitive features of quantum physics: the possibility of a particle existing in multiple states or positions simultaneously, a phenomenon known as quantum superposition. Through celebrated thought experiments such as Schrödinger's cat, he will explore the intriguing concepts of superposition and measurement. \n\nMoving beyond individual particles, discover how quantum phenomena emerge in collective excitations in solids, such as phonons and magnons, as well as in photons within electromagnetic fields. From fundamental concepts to modern experiments, he will explore how quantum circuits can create and sense superposition states through interactions between coupled quantum systems, and briefly examine their role in quantum computing.",
+    "url": "https://quantum.scigalleryblr.org/programmes?p=sensing-the-quantum-bizarreness",
+    "isAccessibleForFree": true,
+    "maximumAttendeeCapacity": "80",
+    "image": "https://firebasestorage.googleapis.com/v0/b/quantum-7bdd1.firebasestorage.app/o/images%2FFerrofluid_poles%20Medium.jpeg-1795580419472?alt=media&token=f592475a-c9ab-40d7-87a0-e260654e8c26",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Bashab Dey"
+      }
+    ]
   }
 ]
