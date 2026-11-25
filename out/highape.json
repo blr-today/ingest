@@ -51,6 +51,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "2027 New Year Eve",
+    "description": "Highlights:Over 60 varieties of gourmet dishesSpectacular lineup: 2 DJs, Live Band, Punjabi Dhol, fire dancersNeo-glow face painting and unlimited premium food ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/23/db97e23b62545a2515b8fbc258402ec3.png"
+    ],
+    "startDate": "2026-12-31T19:00:00+05:30",
+    "endDate": "2027-01-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "153 Biere Street",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "153/1, Hagadur Main Road, Next to Prestige Ozone, Whitefield, Brooke Bond First Cross, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.96274,
+        "longitude": 77.750752
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rajata Hospitality LLP",
+      "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "799",
+      "highPrice": "3499",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/2027-new-year-eve-79my33ijnb",
+      "validFrom": "2026-11-25T21:47:15.075Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Rajata Hospitality LLP",
+        "url": "https://www.highape.com/bangalore/organisers/rajata-hospitalityllp-4e55139e01"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/2027-new-year-eve-79my33ijnb"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "NEW YEAR PARTY 2027 Celebration: Non-Stop DJ Night",
     "description": "HighlightsCelebrate the arrival of 2027 with a grand New Year’s Eve party at TOCA, Koramangala.Special Bollywood Night featuring DJ lakky.Enjoy electrifying mus",
     "image": [
@@ -301,6 +351,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "After The Again",
+    "description": "HighlightsA Fred Again-inspired electronic music experience this New Year's Eve.Melodic and progressive house with immersive electronic sounds.Open-air rooftop ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/f4902bb5f50b3ac1ca35000773e1df09.png"
+    ],
+    "startDate": "2026-12-13T20:00:00+05:30",
+    "endDate": "2026-12-14T00:59:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "The Green Pearl",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gunjur - Mugalur Road, Thippasandra, Varthur, Bengaluru, Karnataka 560087, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.919291,
+        "longitude": 77.746449
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Synthan-I Music Protocol",
+      "url": "https://www.highape.com/bangalore/organisers/ashique-ahmed-a-r-h71de"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/after-the-again-y46htpnw24",
+      "validFrom": "2026-11-25T20:19:26.145Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Synthan-I Music Protocol",
+        "url": "https://www.highape.com/bangalore/organisers/ashique-ahmed-a-r-h71de"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/after-the-again-y46htpnw24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Airware Rooftop – Biggest NYE 2027 Party",
     "description": "HighlightsCelebrate New Year 2027 at an open-air rooftop venue.Celebrity DJ performances and non-stop music.Bollywood, Tamil, Telugu, Malayalam and Kannada hits",
     "image": [
@@ -347,55 +446,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/airwave-rooftop-biggest-nye-2027-party-dz05owphxh"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Akashavani Ft Narendra",
-    "description": "HighlightsA vibrant evening of live music with&nbsp;Narendra&nbsp;Akashavani an evening dedicated to soulful musical performancesLive performance featuring Nare",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/21/76bf058a4ef1742191fcef24f7bfe92b.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "GULP - Pub | Bar | Restaurant",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "16, Outer Ring Rd, beside dominos pizza, 3rd Phase, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.925014,
-        "longitude": 77.551093
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "GULP - Pub | Bar | Restaurant",
-      "url": "https://www.highape.com/bangalore/organisers/gulp-pub-bar-restaurant-wjc5i"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/akashavani-ft-narendra-nhth7tj0gj",
-      "validFrom": "2026-11-24T22:31:59.978Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "GULP - Pub | Bar | Restaurant",
-        "url": "https://www.highape.com/bangalore/organisers/gulp-pub-bar-restaurant-wjc5i"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/akashavani-ft-narendra-nhth7tj0gj"
   },
   {
     "@context": "https://schema.org",
@@ -751,55 +801,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/aura-2027-new-year-eve-at-courtyard-by-marriott-bellandur-iqx21u1bm0"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bass And Blush Wednesdays At Old Mill ",
-    "description": "HighlightsComplimentary welcome drink for women till 9 PM1+1 offers on wine and sangria50% off small plates for all-women tablesDJ night from 10 PM onwardsExcit",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/11/986529b1fd52d255ddf8a97aec909fdf.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Old Mill Brewing Co",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Gunjur Rd, Varthur, Bengaluru, Karnataka 560087, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.924583,
-        "longitude": 77.736885
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Old Mill Brewing Co.",
-      "url": "https://www.highape.com/bangalore/organisers/old-mill-brewing-co-zv1sa"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/bass-and-blush-wednesdays-at-old-mill-otwxafpial",
-      "validFrom": "2026-11-24T22:32:05.364Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Old Mill Brewing Co.",
-        "url": "https://www.highape.com/bangalore/organisers/old-mill-brewing-co-zv1sa"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/bass-and-blush-wednesdays-at-old-mill-otwxafpial"
   },
   {
     "@context": "https://schema.org",
@@ -1360,56 +1361,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Bollytech Wednesday DJ Night ft DJ Firex",
-    "description": "&nbsp;HighlightsWednesday midweek party vibesDJ Firex live on decksBollywood, commercial and club anthemsNeon-lit high-energy atmosphereFree drinks for ladiesBr",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/17/04919c318cdaccd344277cc6ceb19b81.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Toca Brigade",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3rd floor, 25, Brigade Rd, above Levi’s showroom, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.974096,
-        "longitude": 77.607694
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toca",
-      "url": "https://www.highape.com/bangalore/organisers/toca"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/bollytech-wednesday-dj-night-ft-dj-firex-9t2p43t5nj",
-      "validFrom": "2026-11-24T22:32:15.306Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Firex",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-firex-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/bollytech-wednesday-dj-night-ft-dj-firex-9t2p43t5nj"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Bollyverse",
     "description": "HighlightsExperience a unique fusion of Bollywood sounds and futuristic beats at Bollyverse Edition 1.Featuring Lonewolves, bringing an electrifying musical exp",
     "image": [
@@ -1870,107 +1821,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Candy Ladies Night Ft DJ Ceez | Nolimmits Lounge",
-    "description": "HighlightsDJ Night ft. DJ&nbsp;CeezBollywood MusicGreat AmbianceMouthwatering AppetizersCocktails and MocktailsStep into a playful, candy-themed party where swe",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/02/a461d6f87627193e60e3baddef35a718.png"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "NoLimmits Lounge and Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.970303,
-        "longitude": 77.610947
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Nolimmits Lounge & Club",
-      "url": "https://www.highape.com/bangalore/organisers/nolimmits-lounge--club-a684eceee7"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "INR",
-      "lowPrice": "0",
-      "highPrice": "1999",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/candy-ladies-night-ft-dj-ceez-nolimmits-lounge-yr7d7xz4ql",
-      "validFrom": "2026-11-24T20:42:46.584Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Ceez",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/b6d70e4c/r9ivssn9mj5rech0km2c.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-ceez-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/candy-ladies-night-ft-dj-ceez-nolimmits-lounge-yr7d7xz4ql"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Caught in the Web | DJ Melvin lives at HOD CLUB",
-    "description": "HighlightsExperience an immersive Wednesday night at HOD Club.Featuring DJ Melvin performing live.Hypnotic rhythms and captivating electronic sounds.An elevated",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/11/a099fff3e4601564cafda4aac79201ce.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "HOD - House Of Dopamine Brewery LLP",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933648,
-        "longitude": 77.614883
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HOD - House Of Dopamine",
-      "url": "https://www.highape.com/bangalore/organisers/khushi-s-g-6b5ce5a5aa"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/caught-in-the-web-dj-melvin-lives-at-hod-club-g6ebp9aakj",
-      "validFrom": "2026-11-24T20:48:17.902Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Dj melvin",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-melvin-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/caught-in-the-web-dj-melvin-lives-at-hod-club-g6ebp9aakj"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Chennai Le Oru Naal – Madrasu Vibe, Bangalore Night",
     "description": "HighlightsA vibrant Chennai-themed nightlife experience in the heart of Bangalore.Featuring DJ Tessa live.Experience the ultimate Madrasu vibe with Tamil hits, ",
     "image": [
@@ -2172,6 +2022,56 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Desi Sunday Ft VDJ Sandy | Nolimmits Lounge",
+    "description": "HighlightsDJ Night ft VDJ SandyNon-stop MusicBollywood MusicEDMGreat AmbienceMouthwatering AppetizersCocktails and MocktailsGet ready to turn up the heat with D",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/29990315b0862e232834d6e624b47851.png"
+    ],
+    "startDate": "2026-11-29T20:00:00+05:30",
+    "endDate": "2026-11-30T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "NoLimmits Lounge and Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Ashok Nagar, Bangalore Urban, Karnataka, India, 560025,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.970303,
+        "longitude": 77.610947
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-vdj-sandy-nolimmits-lounge-lmjeqlpkwn",
+      "validFrom": "2026-11-25T20:19:25.805Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "VDJ Sandy",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/vdj-sandy-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/desi-sunday-ft-vdj-sandy-nolimmits-lounge-lmjeqlpkwn"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Desi Thursday",
     "description": "HighlightsDJ Night ft DJ SenleoNon-Stop MusicBollywood MusicDance FloorLadies Night - Free Drinks For LadiesMouth-Watering AppetizersCocktails&nbsp;and&nbsp;Moc",
     "image": [
@@ -2218,6 +2118,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/desi-thursday-jtsecn8vfl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dimension",
+    "description": "HighlightsHypnotic techno and deep underground groovesAn immersive electronic music experiencePowerful beats and captivating rhythmsA high-energy underground te",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/06bcc823ba34a83e7da71ce46ee6a73c.jpg"
+    ],
+    "startDate": "2026-12-20T18:44:00+05:30",
+    "endDate": "2026-12-20T23:55:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Gokulam Grand Kozhikode",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mavoor Rd, Arayidathupalam, Kozhikode, Keralam 673004, India",
+        "addressLocality": "Kozhikode",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.257566,
+        "longitude": 75.793158
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SPACEROOM",
+      "url": "https://www.highape.com/bangalore/organisers/muhammed-shareef-v-f076073b20"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "999",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/dimension-wsav1v27jp",
+      "validFrom": "2026-11-25T21:20:50.575Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "SPACEROOM",
+        "url": "https://www.highape.com/bangalore/organisers/muhammed-shareef-v-f076073b20"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/dimension-wsav1v27jp"
   },
   {
     "@context": "https://schema.org",
@@ -2678,6 +2627,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Finding Yourself at Midlife by Preethi Jain",
+    "description": "HighlightsInteractive 45-minute workshopLed by Preethi Jain, Counsellor &amp; TrainerExplore the changes and challenges of midlifeReflect on shifting priorities",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/d1e39588fd1c3022e2abe56bd6de92a8.jpg"
+    ],
+    "startDate": "2026-12-11T18:00:00+05:30",
+    "endDate": "2026-12-11T19:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Online Workshop/Class",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Online Workshop",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unfoldLIFE",
+      "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "2000",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/finding-yourself-at-midlife-by-preethi-jain-ieseip9l3d",
+      "validFrom": "2026-11-25T21:20:47.955Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "unfoldLIFE",
+        "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/finding-yourself-at-midlife-by-preethi-jain-ieseip9l3d"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Freaky Friday: Bollywood DJ Night ft. DJ Mark",
     "description": "HighlightsExperience a high-energy Bollywood DJ night with MARK and Resident DJ Dhruv.Dance to your favourite Bollywood hits and crowd-favourite tracks.Enjoy fr",
     "image": [
@@ -2724,6 +2717,68 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/freaky-friday-bollywood-dj-night-ft-dj-mark-a7feo9zlif"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Friday Bollywood Night Party ",
+    "description": "HighlightsFriday Night Bollywood party with high-energy music and entertainmentFeaturing DJ Ditto and DJ NikxOpening act by DJ NimaHosted by emcee Citiboi SamiB",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/0f8bc075fd43e777d2ffaec4676f71f9.png"
+    ],
+    "startDate": "2026-11-27T20:00:00+05:30",
+    "endDate": "2026-11-28T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "JB Arena (Just BLR)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.973215,
+        "longitude": 77.607305
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Meghraj Entertainment",
+      "url": "https://www.highape.com/bangalore/organisers/vijayata-tamang-ccb421d5f3"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/friday-bollywood-night-party-tolgvr13zy",
+      "validFrom": "2026-11-25T21:20:48.956Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ DITTO",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-ditto-v7vr"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Nikx",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-nikx-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Nima",
+        "image": "https://www.highape.com/highape_logo_header.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-nima-lavwqgkolg"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/friday-bollywood-night-party-tolgvr13zy"
   },
   {
     "@context": "https://schema.org",
@@ -2877,6 +2932,62 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Friday Nakhra Night",
+    "description": "HighlightsDJ NightNon-Stop MusicBollywood MusicDance FloorGreat AmbienceMouth-Watering AppetizersCocktails and MocktailsTransform your Friday night into an elec",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/47726763bee7e2a4044f20e14b706eae.png"
+    ],
+    "startDate": "2026-11-27T20:00:00+05:30",
+    "endDate": "2026-11-28T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Lounge",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934792,
+        "longitude": 77.613928
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "EVENTUROUZ NETWORKS",
+      "url": "https://www.highape.com/bangalore/organisers/eventurouz-networks-d9d4f495e8"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/friday-nakhra-night-pworyvsfz7",
+      "validFrom": "2026-11-25T20:19:25.637Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Sisko",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artist/2025/12/26/bfd741b47fb4e1fce0641f43ae41f6db.png",
+        "url": "https://www.highape.com/bangalore/artists/dj-sisko-lavwqgkolg"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Nikz",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/99749ac4/gx4dy8zw4v1n60bnypzx.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nikz-2"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/friday-nakhra-night-pworyvsfz7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Friday Rooftop Affair – Glow Edition | SKY, UB City",
     "description": "HighlightsExclusive Friday rooftop music carnival.Featuring Rohit, Manisha D’Souza &amp; VDJ JD.Hosted by Saamir Highspinn.Hip-Hop, Afro &amp; Commercial music.",
     "image": [
@@ -2912,7 +3023,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/friday-rooftop-affair-carnival-sky-ub-city-c8hg8vr5fn",
-      "validFrom": "2026-11-24T13:29:55.620Z"
+      "validFrom": "2026-11-25T21:47:22.154Z"
     },
     "performer": [
       {
@@ -3062,7 +3173,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/glow-night-rc448zqcjj",
-      "validFrom": "2026-11-24T12:49:47.530Z"
+      "validFrom": "2026-11-25T21:47:22.989Z"
     },
     "performer": [
       {
@@ -3271,56 +3382,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/haunted-house-ynpur8rej2"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Her Lucky Night – Ladies Night ft. DJ Agasya",
-    "description": "HighlightsExclusive ladies night every Wednesday at Lucky Bastard.Live DJ performance by DJ Agasya.Enjoy a night of music, dancing and entertainment.A lively ni",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/17/c019a04caee6c270e07f22759e4760d0.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Lucky Bastard Brewhouse and Kitchen",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1100/4, Varthur - Sarjapur Rd, Sarjapura, Bangalore, Sarjapura, Karnataka 562125, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.861546,
-        "longitude": 77.777535
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Lucky Bastard",
-      "url": "https://www.highape.com/bangalore/organisers/lucky-bastard-mhuc7"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/her-lucky-night-ladies-night-ft-dj-agasya-i3eomxccj2",
-      "validFrom": "2026-11-24T22:32:44.853Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Agasya",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/1dbf53a4/rguto3bnkmgfaw6kugbq.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-agasya"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/her-lucky-night-ladies-night-ft-dj-agasya-i3eomxccj2"
   },
   {
     "@context": "https://schema.org",
@@ -4530,52 +4591,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Ladies Night Bollywood DJ ft DJ Dhruv",
-    "description": "HighlightsEnjoy complimentary drinks for all ladies.Free entry for couples and ladies.Dance to electrifying beats by DJ Dhruv.Experience vibrant neon vibes and ",
+    "name": "Kuthu Karuppu – The Ultimate Tamil Kuthu Night ",
+    "description": "HighlightsHigh-energy Tamil Kuthu and Gaana music night.Experience the madness of iconic Anirudh bangers.Non-stop Tamil mass hits and dance anthems.A power-pack",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/21/9695cb0cec7756b1b55f14be4f81f962.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/9ac8094e9cf1bfd1f70eb0c2a8009865.jpg"
     ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T00:30:00+05:30",
+    "startDate": "2026-11-28T19:00:00+05:30",
+    "endDate": "2026-11-29T00:30:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
       "@type": "Place",
-      "name": "Toca Koramangala",
+      "name": "GToxe (The Premium Rooftop Vibe)",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "122/A, 105, 1st A Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "93/ a, 4th Floor, Industrial Layout, Koramangala, South, Koramangala, Bengaluru, Karnataka 560095, India",
         "addressLocality": "Bangalore",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.934957,
-        "longitude": 77.61598
+        "latitude": 12.933258,
+        "longitude": 77.613791
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Toca",
-      "url": "https://www.highape.com/bangalore/organisers/toca"
+      "name": "Namma Vibes",
+      "url": "https://www.highape.com/bangalore/organisers/charles-s-0397758f89"
     },
     "offers": {
       "@type": "Offer",
       "price": "0",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-dj-ft-dj-dhruv-axtf2ni92f",
-      "validFrom": "2026-11-24T21:05:30.712Z"
+      "url": "https://www.highape.com/bangalore/events/kuthu-karuppu-tamil-night-941w18gu6s",
+      "validFrom": "2026-11-25T21:47:23.872Z"
     },
     "performer": [
       {
-        "@type": "Person",
-        "name": "DJ DHRUV",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-dhruv-a92m"
+        "@type": "Organization",
+        "name": "Namma Vibes",
+        "url": "https://www.highape.com/bangalore/organisers/charles-s-0397758f89"
       }
     ],
-    "url": "https://www.highape.com/bangalore/events/ladies-night-bollywood-dj-ft-dj-dhruv-axtf2ni92f"
+    "url": "https://www.highape.com/bangalore/events/kuthu-karuppu-tamil-night-941w18gu6s"
   },
   {
     "@context": "https://schema.org",
@@ -4676,6 +4736,57 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/ladies-night-e6c8g5hndc"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Las Vegas 2027",
+    "description": "Highlights 15th edition of the iconic Las Vegas New Year’s Eve celebrationTwo high-energy party halls with different music genresCandlelight concert beneath the",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/02/1b9e79f0f7112a8aee0d5db73f2ba70b.jpg",
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/02/96b714f60bb012e25c578e3a69e46fb6.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T01:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Taj Yeshwantpur, Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2275, Tumkur Road, Yeshwanthpur Industrial Area, Phase 1, Yeshwanthpur, Bengaluru, Karnataka 560022, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.029138,
+        "longitude": 77.540708
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Las Vegas",
+      "url": "https://www.highape.com/bangalore/organisers/las-vegas-385822e359"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "1999",
+      "highPrice": "21999",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/las-vegas-2027-ehsfz56eqj",
+      "validFrom": "2026-11-25T21:47:24.798Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Las Vegas",
+        "url": "https://www.highape.com/bangalore/organisers/las-vegas-385822e359"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/las-vegas-2027-ehsfz56eqj"
   },
   {
     "@context": "https://schema.org",
@@ -5014,6 +5125,50 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/meghalaya-with-kaziranga-road-trip-christmas-and-new-year-0ha28i46zf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Merry Christmas  2026",
+    "description": "HighlightsCelebrate the magic of Christmas 2026 with a joyful festive gathering.Enjoy sparkling decorations and a beautifully festive atmosphere.Groove to cheer",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/d98d3028cd61d4ea2410c564c2a5f3ae.jpg"
+    ],
+    "startDate": "2026-12-21T12:30:00+05:30",
+    "endDate": "2026-12-26T15:15:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Comfort INN Insys",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "46,1st Main Road, Gokula 1st Stage Mathikere, Gokula 1st Stage, Yeswanthpur, Bengaluru, Karnataka 560054, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "lavender premier",
+      "url": "https://www.highape.com/bangalore/organisers/new-year-2027-5bl15"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "997",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/merry-christmas-2026-oi70cws7ti",
+      "validFrom": "2026-11-25T21:06:00.642Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "lavender premier",
+        "url": "https://www.highape.com/bangalore/organisers/new-year-2027-5bl15"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/merry-christmas-2026-oi70cws7ti"
   },
   {
     "@context": "https://schema.org",
@@ -5431,6 +5586,496 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "New Year Celebartion at House of Commons, Indiranagar",
+    "description": "HighlightsRing in 2027 with an exciting New Year's Eve celebration at House of Commons, Indiranagar.Dance the night away to your favourite music and festive bea",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/25/2b28f0cabb639373bd397831685a2b06.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "House of Commons",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1st Floor, 1131, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.969882,
+        "longitude": 77.641586
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebartion-at-house-of-commons-indiranagar-b705ewg56e",
+      "validFrom": "2026-11-25T21:47:26.483Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebartion-at-house-of-commons-indiranagar-b705ewg56e"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration at 1131 Bar + Kitchen",
+    "description": "HighlightsRooftop New Year’s Eve celebrationElectrifying DJ beats and dance musicCraft brews and refreshing drinksDelicious food and party favouritesOpen-air ro",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/06acf2d4f6ad8269f3a404cd4ba3b2ee.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "1131 Bar + Kitchen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1131, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.969883,
+        "longitude": 77.641535
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-1131-bar-kitchen-9l3g8nkkz7",
+      "validFrom": "2026-11-25T20:32:57.130Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-1131-bar-kitchen-9l3g8nkkz7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "One Last Round 2026 – Rooftop New Year’s Eve Bash",
+    "description": "HighlightsCelebrate the final night of 2026 with an unforgettable rooftop party.Dance to electrifying DJ beats and welcome 2027 in style.Enjoy refreshing craft ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/f308dbd06c415aa6a93e542bba721757.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "1131 Bar + Kitchen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1131, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.969883,
+        "longitude": 77.641535
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-1131-bar-kitchen-v71ieindwo",
+      "validFrom": "2026-11-25T21:47:28.028Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-1131-bar-kitchen-v71ieindwo"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration at House of Commons, HSR Layout ",
+    "description": "HighlightsCelebrate New Year's Eve at House of Commons, HSR LayoutWelcome 2027 with an exciting DJ nightDance to your favourite tunes and enjoy festive musicExp",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/60d496801ea30924b046dadd10e038a1.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "House of Commons",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1085, Ground Floor, 14th Main, 18th Cross, Sector 3, HSR Layout, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.911892,
+        "longitude": 77.638856
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-hsr-layout-2jgtvfhy5o",
+      "validFrom": "2026-11-25T21:20:48.200Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-hsr-layout-2jgtvfhy5o"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration at House of Commons, JP Nagar ",
+    "description": "HighlightsNew Year’s Eve celebration at House of Commons, JP NagarWelcome 2027 with music, dancing and festive energyDJ night with your favourite tunesCraft bee",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/5a2bf468dc6345846328bf611ec6bd3f.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "House of Commons JP Nagar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "147, 2nd Floor, 24th Main Rd, R.K Colony, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.914251,
+        "longitude": 77.585874
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-jp-nagar-sm9a0iyc6w",
+      "validFrom": "2026-11-25T21:20:48.305Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-jp-nagar-sm9a0iyc6w"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration at House of Commons, Koramangala",
+    "description": "HighlightsRing in 2027 with an exciting New Year's Eve celebration at House of Commons, Koramangala.Dance the night away with an energetic DJ and your favourite",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/500d822425f3ac428386ac0c094e5add.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "House Of Commons",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "122A, 2nd Cross Road, 5th Block, Koramangala, Bengaluru, Bangalore Urban, Karnataka, India, 560047,",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934852,
+        "longitude": 77.616117
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-koramangala-8arf938ymd",
+      "validFrom": "2026-11-25T21:20:46.996Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-koramangala-8arf938ymd"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration at House of Commons, Yelahanka ",
+    "description": "HighlightsNew Year's Eve celebration at House of Commons, YelahankaWelcome 2027 with an exciting night of music and celebrationDJ night featuring energetic beat",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/789b4ca17889146da3e2f27637bc4f06.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "House Of Commons",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Floor, Prestige Plaza, New Town Main Rd, Yelahanka, Bengaluru, Karnataka 560065, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.098325,
+        "longitude": 77.573473
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-yelahanka-4sw5bsorw3",
+      "validFrom": "2026-11-25T21:20:49.895Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-house-of-commons-yelahanka-4sw5bsorw3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration at Terrace Bar & Kitchen",
+    "description": "HighlightsNew Year’s Eve rooftop celebrationElectrifying DJ night with great musicDelicious food and crafted cocktailsVibrant rooftop ambience and party vibesDa",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/7261d249173849e33237800b0fadebdd.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Terrace Bar & Kitchen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd, R.K Colony, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560041, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.914251,
+        "longitude": 77.585957
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-terrace-bar-kitchen-1va3m3xb3a",
+      "validFrom": "2026-11-25T20:32:57.178Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-at-terrace-bar-kitchen-1va3m3xb3a"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration - Orah Brew Garden-Yelahanka ",
+    "description": "HighlightsCelebrate New Year's Eve with an unforgettable party at ORAH Brew Garden.Dance into 2027 with electrifying DJ beats and non-stop music.Enjoy delicious",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/96e82e9cbd0a51e335932148cfc2305f.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Orah Brew Garden",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, Prestige Plaza, New Town Main Rd, Yelahanka, Bengaluru, Karnataka 560065, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.098387,
+        "longitude": 77.573471
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-orah-brew-garden-yelahanka-k3qdy5l951",
+      "validFrom": "2026-11-25T21:20:52.459Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-orah-brew-garden-yelahanka-k3qdy5l951"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Celebration - Orah Brew Garden - Yelahanka",
+    "description": "HighlightsNew Year's Eve celebration to welcome 2027Live DJ and energetic musicNon-stop dancing and party atmosphereDelicious food and refreshing drinksOpen-air",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/08c12ad18ea467d47f1f0882a8cc041d.jpg"
+    ],
+    "startDate": "2026-12-31T20:00:00+05:30",
+    "endDate": "2027-01-01T00:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Orah Brew Garden",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4th Floor, Prestige Plaza, New Town Main Rd, Yelahanka, Bengaluru, Karnataka 560065, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.098387,
+        "longitude": 77.573471
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jupiter Hospitality",
+      "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-celebration-orah-brew-garden-yelahanka-mv6q4zbl68",
+      "validFrom": "2026-11-25T20:32:57.158Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Jupiter Hospitality",
+        "url": "https://www.highape.com/bangalore/organisers/indulge-cba0a4ee5c"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-celebration-orah-brew-garden-yelahanka-mv6q4zbl68"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "New Year's Eve 2027 at TOCA Terrace",
     "description": "HighlightsWelcome 2027 with an unforgettable rooftop New Year's Eve celebration at TOCA Terrace.Dance into the new year with electrifying DJ sets by DJ Firex an",
     "image": [
@@ -5478,6 +6123,55 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/new-year-eve-2027-at-toca-terrace-y1p9in7cdl"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Party in Bangalore 2027",
+    "description": "HighlightsCelebrate New Year 2027 with an exclusive lakeside camping experience at Kanva Reservoir.Enjoy a 2-day, 1-night getaway surrounded by scenic natural l",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/21/2b83e7245ef5d56d5f67d9e6148c66bb.jpg"
+    ],
+    "startDate": "2026-12-31T16:00:00+05:30",
+    "endDate": "2027-01-01T11:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Triquetra (Aqua escape)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kanva Reservoir, Kannamangala, Karnataka 562161, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.724838,
+        "longitude": 77.2017
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "escape2explore",
+      "url": "https://www.highape.com/bangalore/organisers/escape--explore---cd63a3eec3"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "3599",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/new-year-party-in-bangalore-2027-zw6gddwxzu",
+      "validFrom": "2026-11-25T21:47:34.623Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "escape2explore",
+        "url": "https://www.highape.com/bangalore/organisers/escape--explore---cd63a3eec3"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/new-year-party-in-bangalore-2027-zw6gddwxzu"
   },
   {
     "@context": "https://schema.org",
@@ -5682,52 +6376,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "North East Night Ft DJ Evol",
-    "description": "HighlightsExperience the vibrant culture, food and music of Northeast India.Featuring DJ Evol spinning energetic tracks.Celebrating the traditions of Mizoram, S",
+    "name": "NRI Homecoming Meetup",
+    "description": "HighlightsAn exclusive homecoming meetup for NRIs and returning IndiansConnect with 40 like-minded global IndiansMeet founders, C-suite leaders and professional",
     "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/10/31/89e99b6ef83e579b6482ddacabfe8ea3.jpg"
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/62af3cb4a039861d4ab8241aadde61c2.jpg"
     ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
+    "startDate": "2026-12-05T12:10:00+05:30",
+    "endDate": "2026-12-05T14:10:00+05:30",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
       "@type": "Place",
-      "name": "Brick & Brew Kalyan Nagar",
+      "name": "The Oberoi",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "4th and 5th Floor, Plot No. 408, 5th Main Rd, above Pizza Bakery, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+        "streetAddress": "37-39, Mahatma Gandhi Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 13.02297,
-        "longitude": 77.639524
+        "latitude": 12.973304,
+        "longitude": 77.618041
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Brick & Brew",
-      "url": "https://www.highape.com/bangalore/organisers/brick-brew-jydg5"
+      "name": "Nupur Dave",
+      "url": "https://www.highape.com/bangalore/organisers/nupur-dave-g7f4s"
     },
     "offers": {
       "@type": "Offer",
-      "price": "0",
+      "price": "1800",
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/north-east-night-ft-dj-evol-yt8fk9uheu",
-      "validFrom": "2026-11-24T22:33:20.927Z"
+      "url": "https://www.highape.com/bangalore/events/nri-homecoming-meetup-2mqc2gqwvl",
+      "validFrom": "2026-11-25T21:05:54.679Z"
     },
     "performer": [
       {
-        "@type": "Person",
-        "name": "dj evol",
-        "image": "https://www.highape.com/highape_logo_header.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-evol-cbsi"
+        "@type": "Organization",
+        "name": "Nupur Dave",
+        "url": "https://www.highape.com/bangalore/organisers/nupur-dave-g7f4s"
       }
     ],
-    "url": "https://www.highape.com/bangalore/events/north-east-night-ft-dj-evol-yt8fk9uheu"
+    "url": "https://www.highape.com/bangalore/events/nri-homecoming-meetup-2mqc2gqwvl"
   },
   {
     "@context": "https://schema.org",
@@ -5866,7 +6559,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/one-night-one-tribute-a-r-rahman-jamming-night-3ceffkfdhu",
-      "validFrom": "2026-11-24T12:22:21.957Z"
+      "validFrom": "2026-11-25T21:47:36.243Z"
     },
     "performer": [
       {
@@ -6125,55 +6818,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/perfume-making-qb1gcqdx2n"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pink Paradise Divas Midnight Glam",
-    "description": "HighlightsGlamorous Pink Paradise Divas NightCelebrate every Wednesday at Xylon Bar and KitchenEnjoy music, drinks, and energetic dance vibesSpecial 1+1 offers ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/03/47fbbf094e1edff03ccde612ac3188e7.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "XYLON Bar & Kitchen",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "6th Floor, 152/5, Neeladri Rd, Neeladri Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.841519,
-        "longitude": 77.645084
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban NS Events",
-      "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/pink-paradise-divas-midnight-glam-fmnp1izpc0",
-      "validFrom": "2026-11-24T22:33:26.088Z"
-    },
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Urban NS Events",
-        "url": "https://www.highape.com/bangalore/organisers/sunil-7283518d47"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/pink-paradise-divas-midnight-glam-fmnp1izpc0"
   },
   {
     "@context": "https://schema.org",
@@ -6478,7 +7122,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/rumi-murasing-live-in-bangalore-s1m5pspqfr",
-      "validFrom": "2026-11-24T13:13:09.467Z"
+      "validFrom": "2026-11-25T21:47:37.554Z"
     },
     "performer": [
       {
@@ -6578,7 +7222,7 @@
       "highPrice": "199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sandalwood-talkies-exclusive-kannada-night-kqugd4zd4k",
-      "validFrom": "2026-11-24T11:56:55.735Z"
+      "validFrom": "2026-11-25T21:47:38.679Z"
     },
     "performer": [
       {
@@ -6628,7 +7272,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/sassy-saturday-ft-tina-qwq1wc4t9p",
-      "validFrom": "2026-11-24T12:34:05.384Z"
+      "validFrom": "2026-11-25T20:39:03.846Z"
     },
     "performer": [
       {
@@ -6928,7 +7572,7 @@
       "priceCurrency": "INR",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/shaam-e-sufi-a-soulful-sufi-evening-z3erkj01kd",
-      "validFrom": "2026-11-24T13:27:52.844Z"
+      "validFrom": "2026-11-25T21:47:40.517Z"
     },
     "performer": [
       {
@@ -7542,56 +8186,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Sugar Wednesday Ladies Night",
-    "description": "HighlightsDJ Night ft DJ SumayaNonstop MusicBollywood MusicGreat AmbianceMouthwatering AppetizersCocktails and MocktailsStep into an unforgettable Wednesday at ",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/07/01/0899aaba4bb77257f849653328b41f60.jpg"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T01:00:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "Sugar Factory Reloaded",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "93/A Ground floor, 4th B Cross Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933376,
-        "longitude": 77.61403
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "BOLLYBOX EVENTS",
-      "url": "https://www.highape.com/bangalore/organisers/bollybox"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/sugar-wednesday-ladies-night-tcrla743wy",
-      "validFrom": "2026-11-24T22:33:44.609Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Sumaya",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/ab211240/exilb8kc9jwyydeewws5.png",
-        "url": "https://www.highape.com/bangalore/artists/dj-sumaya-lavwqgkolg"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/sugar-wednesday-ladies-night-tcrla743wy"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Tamil Jamming – One Night, One Tribute",
     "description": "HighlightsA special Tamil music tribute night featuring live jamming performances.Celebrate the magic of Tamil music with an energetic live band experience.Enjo",
     "image": [
@@ -7686,6 +8280,62 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tamil-tashan-night-wbv8uwkcw7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tashan Thursday",
+    "description": "HighlightsHigh-energy beats by DJ Nithin &amp; DJ NikzPremium drinks and vibrant party atmosphereMidweek celebration with a true weekend feelDancefloor vibes al",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/06/10/6faa1663e6e622bd016f7f0b761300c5.jpg"
+    ],
+    "startDate": "2026-11-26T20:00:00+05:30",
+    "endDate": "2026-11-27T00:45:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.934848,
+        "longitude": 77.6139
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "VNH Events",
+      "url": "https://www.highape.com/bangalore/organisers/vnh"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/tashan-thursday-hpaelsxp17",
+      "validFrom": "2026-11-24T22:33:47.503Z"
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "DJ Nithin",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/2aace0d3/tndrdswdvswu1axuyzr0.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nithin-mxraoevwgy"
+      },
+      {
+        "@type": "Person",
+        "name": "DJ Nikz",
+        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/99749ac4/gx4dy8zw4v1n60bnypzx.jpg",
+        "url": "https://www.highape.com/bangalore/artists/dj-nikz-2"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/tashan-thursday-hpaelsxp17"
   },
   {
     "@context": "https://schema.org",
@@ -7937,6 +8587,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Art of Setting Boundaries by Deepa Makhija",
+    "description": "HighlightsUnderstand what personal boundaries are and why they matter.Explore why saying no can sometimes feel difficult.Recognise situations where your needs a",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/1f0cc32e760f7822766d3d85f29bb33b.jpg"
+    ],
+    "startDate": "2026-12-15T18:00:00+05:30",
+    "endDate": "2026-12-15T19:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Online Workshop/Class",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Online Workshop",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unfoldLIFE",
+      "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "2000",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-art-of-setting-boundaries-by-deepa-makhija-rao34raxk9",
+      "validFrom": "2026-11-25T21:05:54.661Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "unfoldLIFE",
+        "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-art-of-setting-boundaries-by-deepa-makhija-rao34raxk9"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Candy Affair",
     "description": "HighlightsDJ Night ft DJ Milan&nbsp;Nonstop MusicBollywood MusicGreat AmbianceMouthwatering AppetizersCocktails and MocktailsThe Candy Affair brings a playful a",
     "image": [
@@ -8033,6 +8727,99 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/the-final-blaze-tatrix-performs-live-at-hod-club-a8nc7y3et1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Grand Christmas Cake Mixing: Mix, Mingle & Merry",
+    "description": "HighlightsCelebrate the festive season with a grand Christmas cake mixing ceremony.Mix, mingle and create sweet memories with festive cheer.Get hands-on with th",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/8cb61c15f291982763b727191147c12b.jpg"
+    ],
+    "startDate": "2026-11-28T12:00:00+05:30",
+    "endDate": "2026-11-28T14:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "SkyDeck by Sherlock's",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "52, MG Road, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97503,
+        "longitude": 77.607534
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Skydeck by Sherlock's",
+      "url": "https://www.highape.com/bangalore/organisers/sky-deck-86c5167835"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "199",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-grand-christmas-cake-mixing-mix-mingle-me-0bpweq16hc",
+      "validFrom": "2026-11-25T21:47:42.489Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "Skydeck by Sherlock's",
+        "url": "https://www.highape.com/bangalore/organisers/sky-deck-86c5167835"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-grand-christmas-cake-mixing-mix-mingle-me-0bpweq16hc"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Language Between Us by Ahilya Patil",
+    "description": "HighlightsInteractive 45-minute communication workshopLed by Ahilya Patil, Emotional Clarity CoachExplore communication styles, tone and interpretationUnderstan",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/763db268998de60fa56cb121eda59664.jpg"
+    ],
+    "startDate": "2026-12-09T17:00:00+05:30",
+    "endDate": "2026-12-09T18:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Online Workshop/Class",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Online Workshop",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unfoldLIFE",
+      "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "2000",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/the-language-between-us-by-ahilya-patil-oyac7t9r2h",
+      "validFrom": "2026-11-25T21:20:48.953Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "unfoldLIFE",
+        "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/the-language-between-us-by-ahilya-patil-oyac7t9r2h"
   },
   {
     "@context": "https://schema.org",
@@ -8270,7 +9057,7 @@
       "highPrice": "199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/ticket-to-kollywood-exclusive-tamil-night-ieysnwpkkt",
-      "validFrom": "2026-11-24T13:30:03.404Z"
+      "validFrom": "2026-11-25T21:47:43.985Z"
     },
     "performer": [
       {
@@ -8419,7 +9206,7 @@
       "highPrice": "199",
       "availability": "https://schema.org/InStock",
       "url": "https://www.highape.com/bangalore/events/tollywood-tamasha-exclusive-telugu-night-o00bmu4b99",
-      "validFrom": "2026-11-24T11:40:06.139Z"
+      "validFrom": "2026-11-25T20:41:56.043Z"
     },
     "performer": [
       {
@@ -8485,6 +9272,94 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/tuesday-trendz-u2k1tmqsqj"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Understanding Your Inner World",
+    "description": "HighlightsAn interactive 45-minute workshop on self-awareness and emotional understandingExplore how thoughts, emotions and experiences shape our perception of ",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/24/5794d27bf0ccebe4960f25a7930bb4f8.jpg"
+    ],
+    "startDate": "2026-11-28T16:00:00+05:30",
+    "endDate": "2026-11-28T17:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Online Workshop/Class",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Online Workshop",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unfoldLIFE",
+      "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/understanding-your-inner-world-jytmwywpyf",
+      "validFrom": "2026-11-25T21:06:00.668Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "unfoldLIFE",
+        "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/understanding-your-inner-world-jytmwywpyf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Understanding Yourself by Khushi Mundra",
+    "description": "HighlightsExplore the thoughts, emotions and beliefs that shape your identity.Understand how past experiences influence your perspective and responses.Reflect o",
+    "image": [
+      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/21/73fcca5f888731902eba2c816d33e1d9.jpg"
+    ],
+    "startDate": "2026-11-30T14:00:00+05:30",
+    "endDate": "2026-11-30T15:00:00+05:30",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Online Workshop/Class",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Online Workshop",
+        "addressLocality": "Bangalore",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "unfoldLIFE",
+      "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "1500",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.highape.com/bangalore/events/understanding-yourself-by-khushi-mundra-nn13d4hytl",
+      "validFrom": "2026-11-25T21:20:50.136Z"
+    },
+    "performer": [
+      {
+        "@type": "Organization",
+        "name": "unfoldLIFE",
+        "url": "https://www.highape.com/bangalore/organisers/unfoldlife-tmbzu"
+      }
+    ],
+    "url": "https://www.highape.com/bangalore/events/understanding-yourself-by-khushi-mundra-nn13d4hytl"
   },
   {
     "@context": "https://schema.org",
@@ -8833,56 +9708,6 @@
       }
     ],
     "url": "https://www.highape.com/bangalore/events/vjd-jd-the-ultimate-rooftop-party-tajeujuysw"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Wednesday Pool Party Ladies Night | Rism Club",
-    "description": "HighlightsAn Exclusive Exotica Ladies Night At RISM The Luxury Club.Featuring DJ Ronnie.Experience An Energetic Mix Of Bollytech &amp; Afro House Beats.Enjoy Un",
-    "image": [
-      "https://highape.blr1.cdn.digitaloceanspaces.com/event/2026/11/23/64064411ca09f2c1ff1a8f896706c8a5.png"
-    ],
-    "startDate": "2026-11-25T20:00:00+05:30",
-    "endDate": "2026-11-26T00:30:00+05:30",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "location": {
-      "@type": "Place",
-      "name": "RISM THE LUXURY CLUB",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93363,
-        "longitude": 77.614577
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Saamir Highspinn",
-      "url": "https://www.highape.com/bangalore/organisers/saamir-highspinn-1700002963"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.highape.com/bangalore/events/wednesday-ladies-night-pool-party-rism-club-1kyqljwu1h",
-      "validFrom": "2026-11-24T22:19:52.145Z"
-    },
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "DJ Ronnie",
-        "image": "https://highape.blr1.cdn.digitaloceanspaces.com/artists/ea12769f/iqn3jag4laolqcuqjqvg.jpg",
-        "url": "https://www.highape.com/bangalore/artists/dj-ronnie"
-      }
-    ],
-    "url": "https://www.highape.com/bangalore/events/wednesday-ladies-night-pool-party-rism-club-1kyqljwu1h"
   },
   {
     "@context": "https://schema.org",

@@ -541,6 +541,80 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Andaaz Nights",
+    "image": "https://cdn-az.allevents.in/events4/banners/ce608800-7b57-11f1-9c5f-b15bd5656509-rimg-w1200-h600-dc010101-gmir.jpg?v=1783575248",
+    "startDate": "2026-07-09T20:30:00+05:30",
+    "endDate": "2027-04-01T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Badmaash Lounge: Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23, 1st Floor, 1st Main Road, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9715987000",
+        "longitude": "77.5945627000"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Turn your Thursdays into a celebration at Andaaz Nights.Get ready for a high-energy weekly party at Badmaash Koramangala, where music, mood, and madness come together. Featuring DJ Nithin and DJ Nikz, expect nothing but back-to-back hits and an electric vibe that keeps the dance floor alive all nigh",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "2027-04-01T20:30:00+05:30",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "lowPrice": "100.00",
+        "price": "100.00"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "price": "100.00",
+        "name": "COUPLE COVER @ 9 30"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "price": "100.00",
+        "name": "STAGS COVER AT VENUE"
+      },
+      {
+        "@type": "Offer",
+        "availability": "",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-04-09",
+        "availabilityEnds": "",
+        "validFrom": "2026-04-09",
+        "url": "https://allevents.in/bangalore/andaaz-nights/3900029911300316",
+        "price": "100.00",
+        "name": "LADIES FREE ENTRY"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kudremukh Trek",
     "image": "https://cdn-az.allevents.in/events9/banners/03b1e230-5f5e-11f1-b16f-0f9f4695b0c4-rimg-w1200-h600-dc434c4b-gmir.jpg?v=1780499282",
     "startDate": "2026-11-27T20:00:00+05:30",
@@ -938,45 +1012,6 @@
         "availabilityEnds": "2026-12-13T21:00:00+05:30",
         "validFrom": "2026-11-05",
         "url": "https://allevents.in/bangalore/kucch-bhi-ho-sakta-hai/3900030977006602"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "All that Matters",
-    "image": "https://cdn-az.allevents.in/events7/banners/92606650-e46f-11f1-9e4f-d58b63d72054-rimg-w1200-h600-dce8e8d8-gmir.jpg?v=1795130327",
-    "startDate": "2026-11-28T15:30:00+05:30",
-    "endDate": "2026-11-28T17:10:00+05:30",
-    "url": "https://allevents.in/bangalore/all-that-matters/3900030977015006",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Jagriti Theatre: Whitefield, Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Ramagondanahalli, Varthur Road, Bengaluru, Karnataka 560066, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9576",
-        "longitude": "77.7408"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "All that Matters is a satire based on several true instances that have been brought together in a fictional village. A cow died a long time ago, but is creating havoc in the village today. Court orders are being missed and a force has risen from the dead. How will the inspector in charge resolve the",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-28T17:10:00+05:30",
-        "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/all-that-matters/3900030977015006"
       }
     ]
   },
@@ -1582,6 +1617,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Standing Up by Kunal Kamra (Last Few Shows)",
+    "image": "https://cdn-az.allevents.in/events7/banners/1bc00f00-e744-11f1-b308-e755fe884311-rimg-w1200-h600-dca8a8a8-gmir.jpg?v=1795441513",
+    "startDate": "2026-12-25T13:00:00+05:30",
+    "endDate": "2026-12-25T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/standing-up-by-kunal-kamra-last-few-shows/3900031057283143",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Dr B.R. Ambedkar Bhavan: Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Millers Road, Kaverappa Layout, Vasanth Nagar, Near Bhagwan Mahaveer Jain Hospital, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9925",
+        "longitude": "77.5954"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Kunal Kamra is back in Bengaluru with an all-new stand-up comedy show featuring his latest material. Known for his sharp wit, fearless observations, and distinctive storytelling, Kunal returns to the stage with fresh jokes, new perspectives, and the same unapologetic humour that audiences love.Wheth",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-16",
+        "availabilityEnds": "2026-12-25T17:30:00+05:30",
+        "validFrom": "2026-11-16",
+        "url": "https://allevents.in/bangalore/standing-up-by-kunal-kamra-last-few-shows/3900031057283143"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Live with Shubham Pawar",
     "image": "https://cdn-az.allevents.in/events1/banners/e1e7e650-e292-11f1-b143-7fdcf006a184-rimg-w1200-h600-dc082848-gmir.jpg?v=1794925590",
     "startDate": "2026-11-27T21:00:00+05:30",
@@ -1888,45 +1962,6 @@
         "availabilityEnds": "2026-11-28T23:59:00+05:30",
         "validFrom": "2026-11-20",
         "url": "https://allevents.in/bangalore/get-ready-to-rock-ft-the-fifth-dimension/3900031088521245"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Hat-Dance Disaster - An Anansi Story",
-    "image": "https://cdn-az.allevents.in/events7/banners/eadf3450-e5af-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795267914",
-    "startDate": "2026-12-13T16:00:00+05:30",
-    "endDate": "2026-12-13T16:45:00+05:30",
-    "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Ranga Shankara: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36/2, 8th Cross Road, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9116",
-        "longitude": "77.5871"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Anansi the trickster spider loves three things above all - his hair, his hats and food. When food becomes scarce, Anansi turns to Mama for help but his greed gets him into a soup and changes him forever. This lively tale from West Africa will have children laughing, singing, chanting and even dancin",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-13T16:45:00+05:30",
-        "validFrom": "2026-11-21",
-        "url": "https://allevents.in/bangalore/the-hat-dance-disaster-an-anansi-story/3900031092028055"
       }
     ]
   },
@@ -2729,6 +2764,78 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "🎧 DJ Music 🍸",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6b06f20c72c0e.jpg",
+    "startDate": "2026-11-29T19:00:00+05:30",
+    "endDate": "2026-11-29T20:00:00+05:30",
+    "url": "https://allevents.in/bangalore/dj-music-tickets/80001078011970",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x3bae1758ca08d923:0x48515f42efd4de9e?entry=s&sa=X&ved=2ahUKEwi1sueyq6OYAxVbRmwGHRuXNH8Q4kB6BAgYEAA&hl=en",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "The Stage Cafe",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.971598625183105",
+        "longitude": "77.59456634521484"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "🚨 THIS WEEKEND, WE MEET IN SPACE! 🚨No plans? Bring your friends and join the UNKNOWN ERA community for a night of DJ music, good vibes, drinks, new connections and unforgettable moments. 🎶🔥🎧 DJ Music 🍸 Drinks & Chill 🤝 Meet & Network 🪩 Party vibes all night📅 Sunday, 29 November 🎟️ FREE ENTRY for UNK",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-25",
+        "availabilityEnds": "2026-11-29T20:00:00+05:30",
+        "validFrom": "2026-11-25",
+        "lowPrice": "1000.00",
+        "highPrice": "1200.00",
+        "price": "1000.00",
+        "url": "https://allevents.in/bangalore/dj-music-tickets/80001078011970"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-25",
+        "availabilityEnds": "2026-11-29T20:00:00+05:30",
+        "validFrom": "2026-11-25",
+        "price": "1200.00",
+        "url": "https://allevents.in/bangalore/dj-music-tickets/80001078011970",
+        "availability": "https://schema.org/InStock",
+        "name": "UNKNOWN ERA "
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-25",
+        "availabilityEnds": "2026-11-29T20:00:00+05:30",
+        "validFrom": "2026-11-25",
+        "price": "1000.00",
+        "url": "https://allevents.in/bangalore/dj-music-tickets/80001078011970",
+        "availability": "https://schema.org/InStock",
+        "name": "UNKNOWNERA"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Unknown era",
+        "url": "https://allevents.in/org/unknown-era/28452879",
+        "description": "UNKNOWN ERA | Bangalore\n🎭 Event & Experience Collective\n\nHouse Parties • Raves • Stranger Meetups\nBlind Dates • Mystery Events • Themed Parties\nComedy Nights • Open Mics • Social Experiences\n\nCreating experiences. Connecting strangers.\nStep into the unknown. ✨"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Manotsava | National Mental Health Festival",
     "image": "https://cdn2.allevents.in/thumbs/thumb6afc174f26568.jpg",
     "startDate": "2026-12-05T09:00:00+05:30",
@@ -2758,6 +2865,67 @@
         "@type": "Organization",
         "name": "National Mental Health Festival",
         "url": "https://allevents.in/org/national-mental-health-festival/28429316"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Sursagar - 44th Varshikotsav concert",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6af55724210c1.jpg",
+    "startDate": "2026-11-27T17:30:00+05:30",
+    "endDate": "2026-11-27T20:30:00+05:30",
+    "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Chowdiah Memorial Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
+        "postalCode": "560003",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0065834",
+        "longitude": "77.5755092"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Sursagar presents the 44th Varshikotsav on 27th November ‘2026 (Friday) @ 5:30 pm onwards at Chowdaiah Memorial Hall. A vocal recital by Shri Siddhartha Belmannu accompanied by Pandit Ravindra Yavagal on the tabla and by Shri Prasad Kamath on the harmonium. Following this, will be a recital by Pandi",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-12",
+        "availabilityEnds": "2026-11-27T20:30:00+05:30",
+        "validFrom": "2026-11-12",
+        "lowPrice": "0.00",
+        "highPrice": "0.00",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "availabilityStarts": "2026-11-12",
+        "availabilityEnds": "2026-11-27T20:30:00+05:30",
+        "validFrom": "2026-11-12",
+        "price": "0.00",
+        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
+        "availability": "https://schema.org/InStock",
+        "name": "Entry Free"
+      }
+    ],
+    "organizer": [
+      {
+        "@type": "Organization",
+        "name": "Sursagar Bangalore",
+        "url": "https://allevents.in/org/sursagar-bangalore/28400636"
       }
     ]
   },
@@ -2983,7 +3151,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "D&amp;D 101: The Beginner's Guide to Dungeons &amp; Dragons",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6b0550069f675.jpg",
+    "image": "https://cdn2.allevents.in/thumbs/thumb6b056e9096315.jpg",
     "startDate": "2026-11-29T18:15:00+05:30",
     "endDate": "2026-11-29T20:30:00+05:30",
     "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566",
@@ -3006,7 +3174,7 @@
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "✨ Dive into the magical world of Dungeons & Dragons! If you’ve ever dreamed of embarking on epic quests with daring heroes and fantastical creatures, this is the perfect chance to unleash your imagination and creativity.Join us for \"D&D 101: The Beginner's Guide to Dungeons & Dragons,\" where you’ll",
+    "description": "For one evening, you get to be someone else entirely, standing in a world beyond anything you're familiar with a path set before you to an adventure unknown.In Dungeons & Dragons, a narrator known as the Dungeon Master brings that world to life, and you play a character who lives in it, deciding wha",
     "offers": [
       {
         "@type": "AggregateOffer",
@@ -3873,34 +4041,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Illusions of the Mind: Exploring Mental Health Through Magic | Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293608",
-    "startDate": "2026-12-05T13:15:00+00:00",
-    "endDate": "2026-12-05T14:45:00+00:00",
-    "url": "https://allevents.in/bengaluru/illusions-of-the-mind-exploring-mental-health-through-magic-workshop/4700031093994808",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Hands-On Zone",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayamahal Palace Hotel",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9972",
-        "longitude": "77.5979361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nWhy do we miss what’s right in front of us? Through live magic, illusions and audience participation, this workshop shows how the mind perceives, remembers, assumes and sometimes fools itse"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Pause with Paws: An Experiential Workshop with Therapy Dogs | Workshop",
     "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293610",
     "startDate": "2026-12-06T15:00:00+00:00",
@@ -3953,34 +4093,6 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "A transformational personal branding workshop for founders and senior leaders ready to build a profitable personal brand in 2027.\n\nSaturday, 5 December 2026DATE\n\n2:00–5:00 PM ISTTIME\n\nBengaluruVENUE\n\nFree | 30 seatsREGISTRATION APPROVAL REQUIRED\n\nYou’ve built a business, led teams or spent years mas"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Orbit by PeakXV and In-Space",
-    "image": "https://cdn-az.allevents.in/events1/banners/fad861d0-e66b-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dcf8f8f8-gmir.jpg?v=1795348686",
-    "startDate": "2026-12-09T18:00:00+00:00",
-    "endDate": "2026-12-09T20:30:00+00:00",
-    "url": "https://allevents.in/bengaluru/orbit-by-peakxv-and-in-space/4700031097389607",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.97570896141",
-        "longitude": "77.639553664536"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Orbit brings together founders building India’s space economy for an evening hosted by Peak XV and IN-SPACe.\n\nSpace companies in India are built over long timelines, with hardware risk, government and global customers, and capital that has to understand all three. Orbit is a room for the people doin"
   },
   {
     "@context": "https://schema.org",
