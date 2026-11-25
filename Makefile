@@ -1,5 +1,5 @@
 # curl-impersonate's newest Chrome profile, keep in sync with .github/workflows/build.yml
-CURL_CHROME := curl_chrome150
+CURL_CHROME := curl_chrome152
 
 AE_START_TS := $(shell date +%s)
 AE_END_TS := $(shell date +%s --date="1 month")
