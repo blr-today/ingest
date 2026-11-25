@@ -333,3 +333,10 @@ def test_each_attraction_session_becomes_an_event(monkeypatch):
     assert event["offers"] == [{"@type": "Offer", "name": "ADULT", "price": "100.00", "priceCurrency": "INR"}]
     assert event["location"]["geo"] == {"@type": "GeoCoordinates", "latitude": 12.9, "longitude": 77.6}
     assert "endDate" not in event
+
+
+def test_pages_cached_before_sessions_were_read_are_due(cache):
+    bookmyshow.save(LINK, {"version": 1, "url": LINK, "fetched": time.time(), "events": [], "synopsis": None})
+    assert bookmyshow.due(LINK)
+    bookmyshow.save(LINK, {"version": 1, "url": LINK, "fetched": time.time(), "events": [], "synopsis": None, "sessions": []})
+    assert not bookmyshow.due(LINK)

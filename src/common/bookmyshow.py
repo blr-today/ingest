@@ -202,7 +202,9 @@ def max_age(day):
 
 def due(url):
     data = stored(url)
-    return data is None or time.time() - float(data["fetched"]) > max_age(data["day"])
+    # Pages cached before sessions were read need one more look
+    unchecked = not data["events"] and "sessions" not in data if data else False
+    return data is None or unchecked or time.time() - float(data["fetched"]) > max_age(data["day"])
 
 
 def soonest(data):
@@ -268,9 +270,10 @@ def load(url, refresh=False):
         # Keep the older copy when a refresh fails
         return data
     data = record(url, html)
-    link = None if data["events"] else sessions_link(html)
-    if link and (booking := page(link)):
-        data["sessions"] = sessions(booking)
+    if not data["events"]:
+        link = sessions_link(html)
+        booking = page(link) if link else None
+        data["sessions"] = sessions(booking) if booking else []
     save(url, data)
     return data
 
