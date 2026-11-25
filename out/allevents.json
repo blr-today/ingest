@@ -3481,68 +3481,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Namma Bengaluru Startups Meetup by CEDAT",
-    "image": "https://cdn-az.allevents.in/events2/banners/f7da21aa7680e168af0408faaa7570a2675a2ee874048e3ddcbb7bf36b114e26-rimg-w1200-h900-dcf8f8f8-gmir.jpg?v=1794271635",
-    "startDate": "2026-12-16T16:00:00+05:30",
-    "endDate": "2026-12-16T18:00:00+05:30",
-    "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Karnataka Digital Economy Mission (KDEM)",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "27th Main Road",
-        "postalCode": "560102",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9201546",
-        "longitude": "77.65109369999999"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Namma Bengaluru Startups Circle is a gathering for people who are creating, building, and growing businesses.",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "2026-12-16T18:00:00+05:30",
-        "validFrom": "2026-11-10",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274"
-      },
-      {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-10",
-        "availabilityEnds": "",
-        "validFrom": "2026-11-10",
-        "url": "https://allevents.in/bengaluru/namma-bengaluru-startups-meetup-by-cedat/100002004569479274",
-        "price": 0,
-        "name": "Namma Bengaluru Startups Meetup by CEDAT"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "CEDAT",
-        "url": "https://allevents.in/org/cedat/25486355",
-        "description": "CEDAT - The dynamic community for Entrepreneurs, Professionals, Investors, Consultants, Mentors, Freelancers & Learners"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Dhuni · Chapter 1 · Crane x Mk1 Foundry",
     "image": "https://cdn-az.allevents.in/events7/banners/3de164d0-e4d3-11f1-a5fd-470b6141b80e-rimg-w1200-h1200-dc080808-gmir.jpg?v=1795173135",
     "startDate": "2026-11-28T18:00:00+00:00",
@@ -3567,34 +3505,6 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "A dhuni is a fire kept alive, around which people gather. For centuries, wandering yogis tended them, and seekers came to sit by the fire and learn.\n\nThis is ours. A quarterly evening at Crane for engineers and founders building hardware in India, along with Mk1 Foundry.\n\nJoin us and listen to real"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Bangalore Product Mixer #4 | Product Reactor",
-    "image": "https://cdn-az.allevents.in/events6/banners/45a4d9e0-e4d3-11f1-a5fd-470b6141b80e-rimg-w1200-h1200-dc2808f8-gmir.png?v=1795173148",
-    "startDate": "2026-12-05T18:00:00+00:00",
-    "endDate": "2026-12-05T20:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/bangalore-product-mixer-4-product-reactor/4700031086732928",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.912228031101",
-        "longitude": "77.652798648086"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Product Managers Connect is a relaxed, high value networking meetup created exclusively for product managers.\n\nThe goal is simple: connect, exchange experiences, and build professional relationships with peers in the product community.\n\nWhat to expect\n\nA casual, conversation driven environment.\n\nDed"
   },
   {
     "@context": "https://schema.org",
@@ -4211,5 +4121,61 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "Bengaluru’s very own celebration of books, ideas, and stories, the Bangalore Literature Festival has been bringing together readers, writers, and the endlessly curious since 2012.\n\nFree and open to all, we have grown to become one of India’s most loved lit fests—and the country’s largest community/c"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "AI GTM 101: run your whole go-to-market engine with AI",
+    "image": "https://cdn-az.allevents.in/events7/banners/20a49d30-e89b-11f1-9726-cbc34e1b4c89-rimg-w1024-h1024-dc181848-gmir.png?v=1795588839",
+    "startDate": "2026-12-08T17:00:00+00:00",
+    "endDate": "2026-12-08T20:00:00+00:00",
+    "url": "https://allevents.in/bengaluru/ai-gtm-101-run-your-whole-go-to-market-engine-with-ai/4700031123443539",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Bengaluru, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.96052171428",
+        "longitude": "77.652181822538"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Buyers now ask AI tools to research and shortlist vendors, while founders still run GTM on scattered prompts and generic AI emails that are easy to ignore. This workshop answers one question: how do you turn AI into a repeatable GTM engine you can run every week, from being found to closing and expa"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Hack Summit 2026",
+    "image": "https://cdn-az.allevents.in/events10/banners/24cdfb90-e89b-11f1-9726-cbc34e1b4c89-rimg-w1200-h1200-dc080818-gmir.png?v=1795588846",
+    "startDate": "2026-12-12T14:00:00+00:00",
+    "endDate": "2026-12-12T19:00:00+00:00",
+    "url": "https://allevents.in/bengaluru/hack-summit-2026/4700031123444146",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Bengaluru, India",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.911255682394",
+        "longitude": "77.643667540155"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "Bring Your Own Keyboard.\n\nA one-day, hands-on summit for engineers shipping AI.Each Hack Hour is a team that built a product, working a real problem with you on your own machine. No keynotes.\n\n⌨️ 20 Hack Hours\n\nHands-on. One hard task, your laptop, and the team that built the product beside you. Eig"
   }
 ]

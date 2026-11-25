@@ -260,6 +260,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Harry Potter Book Discussion",
+    "description": "For hard-core Potterheads age 12 and above!Get into the minds of the characters, ferret out the intricacies of the plot - enter the wizarding world and share your thoughts and insights!Will help if you have read all the Harry Potter books - this discussion will be based only on the books and not the movies.The event is curated by Lahe Lahe Caravan and is being hosted at Atta Galatta.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A24A5273B4D74E7E8154A909AD3356EB_converted_webp.webp"
+    ],
+    "startDate": "2026-12-06T14:30:00+05:30",
+    "endDate": "2026-12-06T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Atta Galatta",
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.980109,
+        "longitude": 77.6393497
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 200.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/lahe-lahe-caravan-presents-harry-potter-book-disc",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Cottonpete heritage walk.",
     "description": "Our fourth journey through the historic quarters of Kempe Gowda’s Pettah unfolds under a theme as timeless as it is universal—the search for Faith. Few places in Bengaluru bear witness to such layered expressions of belief, practice, and community as this old quarter, where stones, shrines, and stories alike speak of lives entwined with devotion.We begin in the western precincts of Pettah, which has one of the city’s most significant Sufi dargahs. For well over two centuries this shrine has stood not merely as a site of veneration but as a living symbol of spiritual devotion and communal harmony. Here, the life of the saint and the mystical traditions of Sufism unfold before us, reminding visitors of how such spaces once bridged communities across faiths, drawing pilgrims, merchants, and seekers into a shared spiritual geography.From the domain of sacred devotion we turn toward the realm of healing. In the narrow lanes nearby still operate age-old Ayurvedic massage centers, famed above all for their bone-setting traditions. Local memory recalls how the Maharajas of Mysore themselves entrusted these practitioners, as did the pahalwans of the akhadas—wrestling arenas that once gave Pettah its distinctive physical culture. In these practices of cure and discipline, body and faith intertwined, shaping a distinctly urban form of resilience and well-being.Our steps then carry us to venerable temples associated with saints whose teachings left a lasting imprint on the identity of this quarter. Within their carved stones and sanctums endures a layered continuity—of memory, worship, and the rhythm of everyday devotion. Time permitting, the trail may extend toward a garadi mane (wrestling house) or an old heritage lodge, each bearing traces of the social fabric of an earlier Bengaluru, when physical culture and communal gathering defined neighborhood life.The walk also includes a South Indian breakfast in heritage restaurant, where history, faith, and community meet in lived experience.This walk is guided by an architect whose professional eye discerns the city’s built heritage, and whose personal practice of Sufism and passion for food lend the journey both intimacy and delight. His explorations carry him to parts of Bengaluru often absent from tourist maps, offering participants not simply a tour, but an immersion into the city’s layered heart.",
     "image": [
@@ -5308,58 +5352,6 @@
     "keywords": [
       "Leisure",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Winter Warmers Workshop",
-    "description": "*Veg/Non-Veg options\"*Lunch Inlcuded*Step into the comforting world of winter flavours with Winter Warmers, an interactive culinary demo workshop with Chef Natasha Celmi at Canella Studio.As the weather gets cooler, discover the joy of creating wholesome, hearty and flavourful dishes with seasonal produce and warming ingredients. Join Chef Natasha Celmi for an engaging culinary experience where you'll explore delicious soups, comforting bakes and flavour-packed creations that celebrate the best of the winter season.From creamy, nourishing soups to delicious accompaniments and wholesome mains, this experience brings together thoughtfully curated recipes, cooking insights and the warmth of good food.Watch, interact, learn and discover new ways to bring seasonal ingredients to your kitchen!What's on the Menu?Tuscan Minestrone SoupRoasted Pumpkin & Coconut SoupPull-Apart Garlic BreadBroccoli Basil SoupFlorentine Rice Gratin – Veg/ChickenHarissa-Grilled Paneer/Chicken",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D4AEDF7C8DBC4961B0FE961FE6EB8E7D_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/BCC267D84DA7420A87EBAA4A85881E75_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/393FCB517D93424E93A846631372AF92_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/2F8AEBE931054311BDB1299301F15D50_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/D96709C56A294814AD564CB2C5F4EC85_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/35135EA1D5B34BE0A4BFFFC842E1C88C_converted_webp.webp",
-      "https://d10y46cwh6y6x1.cloudfront.net/images/8626635135194F2BBAF0EDA9DC8585C9_converted_webp.webp"
-    ],
-    "startDate": "2026-11-26T12:00:00+05:30",
-    "endDate": "2026-11-26T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Canella Studio",
-      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9672959,
-        "longitude": 77.642634
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 2500.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Canella Studio",
-      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
-      "url": "https://urbanaut.app/partner/canellastudio",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/winterwarmersworkshop",
-    "keywords": [
-      "Leisure",
-      "Music",
-      "Premium",
       "URBANAUT"
     ]
   },
