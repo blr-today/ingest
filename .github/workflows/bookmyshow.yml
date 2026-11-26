@@ -50,7 +50,7 @@ jobs:
         LOG_LEVEL: INFO
       run: |
         command -v zstd > /dev/null || echo "::warning::No zstd on $RUNNER_NAME, so other runners miss its cache"
-        uv sync --frozen
+        uv sync --frozen --no-install-package jsonnet
         BMS_CACHE="$HOME/.cache/bms/main" python -m src.common.restore bms bms-pages
         export BMS_CACHE="$HOME/.cache/bms/${GITHUB_REF_NAME//\//-}"
         # Branches start from main's pages but never write main's
