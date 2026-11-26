@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Animal Flow | Main Mission x Mahindra | 29TH NOV",
+    "startDate": "2026-11-29T07:00:00+05:30",
+    "endDate": "2026-11-29T09:00:00+05:30",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "url": "https://mainmission.in/#/events/nPMAfORA8mXVC9fkDCvC",
+    "location": {
+      "@type": "Place",
+      "name": "Depot 18",
+      "address": "Depot 18, Bengaluru, Karnataka, India"
+    },
+    "isAccessibleForFree": true,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mainmission.in/#/events/nPMAfORA8mXVC9fkDCvC"
+      }
+    ],
+    "organizer": {
+      "@type": "Organization",
+      "name": "Main Mission",
+      "url": "https://mainmission.in"
+    },
+    "description": "<h2><strong><em>ABOUT THIS EVENT</em></strong></h2><p><strong><em>Start your Sunday moving with Main Mission x Mahindra. Join us for Animal Flow at Depot 18 on Sunday, 29 November at 7:00 AM, followed by free coffee at Lavonne. A morning of movement, coffee and giveaways for everyone.</em></strong></p><p><strong><em>---</em></strong></p><p><strong><em>WHAT TO EXPECT</em></strong></p><p><strong><em>Start with an Animal Flow session at Depot 18, with Hydrasalt hydration on the house. After the session, head to Lavonne for free coffee. There's also 10% off food and giveaways for everyone.</em></strong></p><p><strong><em>---</em></strong></p><p><strong><em>WHO IS THIS FOR</em></strong></p><p><strong><em>For those looking to spend their Sunday morning moving and connecting with the community. Bring your own mat.</em></strong></p><p><strong><em>---</em></strong></p><p><strong><em>WHAT'S INCLUDED</em></strong></p><p><strong><em>- Animal Flow session</em></strong></p><p><strong><em>- Free post-session coffee at Lavonne</em></strong></p><p><strong><em>- Hydrasalt hydration on the house</em></strong></p><p><strong><em>- 10% off food</em></strong></p><p><strong><em>- Giveaways for everyone</em></strong></p>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fmc-43566484-d5f6d.firebasestorage.app/o/events%2FnPMAfORA8mXVC9fkDCvC%2FWhatsApp%20Image%202026-11-26%20at%201.17.03%20PM_high.jpeg?alt=media&token=353aa7cd-f188-4db7-b985-e14af7ae5b63",
+    "keywords": [
+      "AnimalFlow",
+      "Fitness",
+      "Community",
+      "Wellness"
+    ]
+  }
+]

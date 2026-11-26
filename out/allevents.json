@@ -941,25 +941,25 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "18 Adavr Barri - Solo Special by Vadiraj",
-    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883075",
-    "startDate": "2026-11-28T16:00:00+05:30",
-    "endDate": "2026-11-28T17:30:00+05:30",
-    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915",
+    "image": "https://cdn-az.allevents.in/events1/banners/962e06b0-d917-11f1-903c-1fb53f357c14-rimg-w1200-h600-dc180808-gmir.jpg?v=1793883081",
+    "startDate": "2026-12-05T16:00:00+05:30",
+    "endDate": "2026-12-05T17:30:00+05:30",
+    "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
       "@type": "Place",
-      "name": "The Laugh Junction: Bengaluru",
+      "name": "Vyoma ArtSpace and Studio Theatre: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "No.17, 2nd floor, 9th main, 17th cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "streetAddress": "126/A, 8th Main Road, 3rd Phase, JP Nagar, Bengaluru, Karnataka 560078, India",
         "addressLocality": "Bangalore",
         "addressRegion": "KA",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9122",
-        "longitude": "77.6357"
+        "latitude": "12.915",
+        "longitude": "77.5951"
       }
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -970,9 +970,9 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-11-05",
-        "availabilityEnds": "2026-11-28T17:30:00+05:30",
+        "availabilityEnds": "2026-12-05T17:30:00+05:30",
         "validFrom": "2026-11-05",
-        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976911915"
+        "url": "https://allevents.in/bangalore/18-adavr-barri-solo-special-by-vadiraj/3900030976912921"
       }
     ]
   },
@@ -1462,7 +1462,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Crabbby",
-    "image": "https://cdn-az.allevents.in/events2/banners/e6d0e620-e38d-11f1-afaa-49835c778578-rimg-w1200-h600-dc080808-gmir.jpg?v=1795033402",
+    "image": "https://cdn-az.allevents.in/events6/banners/c5e0ce30-e93c-11f1-b658-c50265814e4f-rimg-w1200-h600-dc080808-gmir.jpg?v=1795658265",
     "startDate": "2026-12-13T11:00:00+05:30",
     "endDate": "2026-12-13T11:40:00+05:30",
     "url": "https://allevents.in/bangalore/crabbby/3900031023477111",
@@ -1773,8 +1773,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SHUFFLING SUNDAY Bollywood Night ft Ashwin Bhatia",
+    "image": "https://cdn-az.allevents.in/events9/banners/782ed0e0-e8fd-11f1-b658-c50265814e4f-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795631076",
+    "startDate": "2026-11-29T19:30:00+05:30",
+    "endDate": "2026-11-30T03:50:00+05:30",
+    "url": "https://allevents.in/bangalore/shuffling-sunday-bollywood-night-ft-ashwin-bhatia/3900031073146718",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "Toca: Koramangala",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "122/A, 105, 1st A Cross Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "KA",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.935",
+        "longitude": "77.616"
+      }
+    },
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "description": "SHUFFLING SUNDAY: The Ultimate Bollywood TakeoverWrap up your weekend with the best DJ night in town. We are bringing you the hottest Bollywood hits and commercial anthems, featuring the one and only DJ ASHWIN BHATIA is spinning live.Turn up the heat at TOCA Koramangala and let the rhythm take over.",
+    "offers": [
+      {
+        "@type": "AggregateOffer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "availabilityStarts": "2026-11-18",
+        "availabilityEnds": "2026-11-30T03:50:00+05:30",
+        "validFrom": "2026-11-18",
+        "url": "https://allevents.in/bangalore/shuffling-sunday-bollywood-night-ft-ashwin-bhatia/3900031073146718"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Camacho Live in Bengaluru",
-    "image": "https://cdn-az.allevents.in/events2/banners/11746d20-e38e-11f1-afaa-49835c778578-rimg-w1200-h600-dc0878e8-gmir.jpg?v=1795033474",
+    "image": "https://cdn-az.allevents.in/events6/banners/d8dc1e90-e93c-11f1-b658-c50265814e4f-rimg-w1200-h600-dc0878e8-gmir.jpg?v=1795658297",
     "startDate": "2026-11-29T19:00:00+05:30",
     "endDate": "2026-11-30T02:00:00+05:30",
     "url": "https://allevents.in/bangalore/camacho-live-in-bengaluru/3900031075467134",
@@ -2045,45 +2084,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Malayalam Kalyanam Fake Wedding Edition",
-    "image": "https://cdn-az.allevents.in/events1/banners/dcafb5b0-e624-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dc080808-gmir.jpg?v=1795318142",
-    "startDate": "2026-12-06T17:00:00+05:30",
-    "endDate": "2026-12-06T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "BudBee Restobar 104: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "65, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9332",
-        "longitude": "77.6147"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for an unforgettable night filled with Malayalam vibes music dance and wedding celebrationsMalayalam Tashan Night Kalyanam Fake Wedding Edition brings you the excitement of a grand traditional wedding with a fun twistExperience energetic music entertaining performances dance celebrations f",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-22",
-        "availabilityEnds": "2026-12-06T20:00:00+05:30",
-        "validFrom": "2026-11-22",
-        "url": "https://allevents.in/bangalore/malayalam-kalyanam-fake-wedding-edition/3900031095122502"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
     "name": "HUMANITAS",
     "image": "https://cdn-az.allevents.in/events9/banners/80707d00-e694-11f1-b8a0-65efcc089f98-rimg-w1200-h600-dcf8f8f8-gmir.jpg?v=1795366090",
@@ -2157,84 +2157,6 @@
         "availabilityEnds": "2026-12-19T17:00:00+05:30",
         "validFrom": "2026-11-23",
         "url": "https://allevents.in/bangalore/kannada-play-aadaddella-olithe-100th-and-101st-shows/3900031106498045"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Classic Rock Revival ft. Madras Rock Collective",
-    "image": "https://cdn-az.allevents.in/events8/banners/0a93a240-e7f4-11f1-8094-e77f3f8c6b64-rimg-w1200-h600-dc080808-gmir.jpg?v=1795517076",
-    "startDate": "2026-12-05T21:00:00+05:30",
-    "endDate": "2026-12-05T23:00:00+05:30",
-    "url": "https://allevents.in/bangalore/classic-rock-revival-ft-madras-rock-collective/3900031116263236",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Hard Rock Cafe: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "40 St Marks Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9759",
-        "longitude": "77.6016"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Get ready for a nostalgic rock experience as Madras Rock Collective, straight from Chennai, takes the stage for an electrifying night of classic rock! Relive the timeless music of legendary rock icons with powerful vocals, iconic guitar riffs and unforgettable anthems that have stood the test of tim",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-24",
-        "availabilityEnds": "2026-12-05T23:00:00+05:30",
-        "validFrom": "2026-11-24",
-        "url": "https://allevents.in/bangalore/classic-rock-revival-ft-madras-rock-collective/3900031116263236"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pottery workshop",
-    "image": "https://cdn-az.allevents.in/events2/banners/61b19320-e7f4-11f1-8094-e77f3f8c6b64-rimg-w1200-h600-dcd8b898-gmir.jpg?v=1795517222",
-    "startDate": "2026-11-28T15:00:00+05:30",
-    "endDate": "2026-11-28T16:30:00+05:30",
-    "url": "https://allevents.in/bangalore/pottery-workshop/3900031116288402",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Costa Coffee, AECS Layout: Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "ITPL Main Road, B Block, Phase 2, Brookefield, Bengaluru, Karnataka 560037, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9647",
-        "longitude": "77.7159"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "SERENOVA - HAND-BUILDING POTTERY WORKSHOPGet creative and experience the joy of hand-building pottery at Serenova! Join us for a fun and relaxing pottery workshop where you can create your very own ceramic piece from scratch.Whether you wish to make a personalised jewellery tray, a ceramic plate, a",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        "availabilityStarts": "2026-11-24",
-        "availabilityEnds": "2026-11-28T16:30:00+05:30",
-        "validFrom": "2026-11-24",
-        "url": "https://allevents.in/bangalore/pottery-workshop/3900031116288402"
       }
     ]
   },
@@ -2798,67 +2720,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "name": "Sursagar - 44th Varshikotsav concert",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6af55724210c1.jpg",
-    "startDate": "2026-11-27T17:30:00+05:30",
-    "endDate": "2026-11-27T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Chowdiah Memorial Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Chowdiah Memorial Hall, 16th Cross Rd, Gayathri Devi Park Extension, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",
-        "postalCode": "560003",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "13.0065834",
-        "longitude": "77.5755092"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Sursagar presents the 44th Varshikotsav on 27th November ‘2026 (Friday) @ 5:30 pm onwards at Chowdaiah Memorial Hall. A vocal recital by Shri Siddhartha Belmannu accompanied by Pandit Ravindra Yavagal on the tabla and by Shri Prasad Kamath on the harmonium. Following this, will be a recital by Pandi",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-27T20:30:00+05:30",
-        "validFrom": "2026-11-12",
-        "lowPrice": "0.00",
-        "highPrice": "0.00",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-12",
-        "availabilityEnds": "2026-11-27T20:30:00+05:30",
-        "validFrom": "2026-11-12",
-        "price": "0.00",
-        "url": "https://allevents.in/bangalore/sursagar-44th-varshikotsav-concert-tickets/80002557327400",
-        "availability": "https://schema.org/InStock",
-        "name": "Entry Free"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Sursagar Bangalore",
-        "url": "https://allevents.in/org/sursagar-bangalore/28400636"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "KTCA Vanabhojanalu 2026",
     "image": "https://cdn2.allevents.in/thumbs/thumb6af1c15e7f830.jpg",
@@ -2977,162 +2838,6 @@
         "name": "Atomy Enterprise India Pvt Ltd",
         "url": "https://allevents.in/org/atomy-enterprise-india-pvt-ltd/18881660",
         "description": "The Basic Theory of Economy is Straightforward\r\nDistribution is Key!\r\nEffective Strategy where Quality meets Value\r\n\r\nAtomy's MASSTIGE strategy is to provide\r\nAbsolute Quality products at an Absolute Price."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Founders X Investors Pitch | 5th Dec | Bangalore",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6b01894ccbe17.jpg",
-    "startDate": "2026-12-05T16:00:00+05:30",
-    "endDate": "2026-12-05T20:00:00+05:30",
-    "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Fortius Origin",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "7, 80 Feet Rd, Koramangala 1A Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "postalCode": "560034",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9280807",
-        "longitude": "77.6328344"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "The Founders X Investors Pitch | 5th December 2026 | BangaloreFounders X Investors – Flagship Pitch SeriesBangalore, we're bringing the next room of founders and investors to you.We're back with another edition of our flagship Founders X Investors Pitch Series — bringing together ambitious startups,",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "lowPrice": "699.00",
-        "highPrice": "14999.00",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "699.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Startup Attendee "
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "1299.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Investor Panel"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "2999.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Startup Pitch Slot"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-21",
-        "availabilityEnds": "2026-12-05T20:00:00+05:30",
-        "validFrom": "2026-11-21",
-        "price": "14999.00",
-        "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
-        "availability": "https://schema.org/InStock",
-        "name": "Accelerate Slot"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "The Founders",
-        "url": "https://allevents.in/org/the-founders/25499127",
-        "description": "The Founders is a community built for and by entrepreneurs, innovators, and investors who believe in collaboration over competition. Whether you're launching your first startup, scaling your business, or investing in groundbreaking ideas, this is the place where you’ll find the right people, real opportunities, and powerful conversations that fuel growth.\n"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "D&amp;D 101: The Beginner's Guide to Dungeons &amp; Dragons",
-    "image": "https://cdn2.allevents.in/thumbs/thumb6b056e9096315.jpg",
-    "startDate": "2026-11-29T18:15:00+05:30",
-    "endDate": "2026-11-29T20:30:00+05:30",
-    "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cafe De Verde",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-        "postalCode": "560095",
-        "addressLocality": "Bangalore",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9407594",
-        "longitude": "77.623431"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "For one evening, you get to be someone else entirely, standing in a world beyond anything you're familiar with a path set before you to an adventure unknown.In Dungeons & Dragons, a narrator known as the Dungeon Master brings that world to life, and you play a character who lives in it, deciding wha",
-    "offers": [
-      {
-        "@type": "AggregateOffer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-24",
-        "availabilityEnds": "2026-11-29T20:30:00+05:30",
-        "validFrom": "2026-11-24",
-        "lowPrice": "250.00",
-        "highPrice": "250.00",
-        "price": "250.00",
-        "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "availabilityStarts": "2026-11-24",
-        "availabilityEnds": "2026-11-29T20:30:00+05:30",
-        "validFrom": "2026-11-24",
-        "price": "250.00",
-        "url": "https://allevents.in/bangalore/dandd-101-the-beginners-guide-to-dungeons-and-dragons-tickets/80006416890566",
-        "availability": "https://schema.org/InStock",
-        "name": "Donation"
-      }
-    ],
-    "organizer": [
-      {
-        "@type": "Organization",
-        "name": "Beyond The Table",
-        "url": "https://allevents.in/org/beyond-the-table/28476217"
       }
     ]
   },
@@ -3395,7 +3100,7 @@
     "name": "Java Training with Placement in Electronic City Bangalore",
     "image": "https://cdn-az.allevents.in/events6/banners/11e9c94e11a57957fbe22e47d8011d64c55b3df9cd140c76a20cdc9577803935-rimg-w1200-h668-dc134a8e-gmir.jpg?v=1779879385",
     "startDate": "2026-08-14T10:00:00+05:30",
-    "endDate": "2026-11-26T10:00:00+05:30",
+    "endDate": "2026-11-12T10:00:00+05:30",
     "url": "https://allevents.in/bengaluru/java-training-with-placement-in-electronic-city-bangalore/100001990389374198",
     "eventStatus": "https://schema.org/EventScheduled",
     "location": {
@@ -3423,7 +3128,7 @@
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
         "availabilityStarts": "2026-05-27",
-        "availabilityEnds": "2026-11-26T10:00:00+05:30",
+        "availabilityEnds": "2026-11-12T10:00:00+05:30",
         "validFrom": "2026-05-27",
         "lowPrice": "0.00",
         "highPrice": "0.00",
@@ -3969,34 +3674,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Illusions of the Mind: Exploring Mental Health Through Magic | Workshop",
-    "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293608",
-    "startDate": "2026-12-05T13:15:00+00:00",
-    "endDate": "2026-12-05T14:45:00+00:00",
-    "url": "https://allevents.in/bengaluru/illusions-of-the-mind-exploring-mental-health-through-magic-workshop/4700031093994808",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Venue: Hands-On Zone",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jayamahal Palace Hotel",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9972",
-        "longitude": "77.5979361"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Each pass admits one individual only. Kindly get additional passes for children of all ages accompanying you.\n\nWhy do we miss what’s right in front of us? Through live magic, illusions and audience participation, this workshop shows how the mind perceives, remembers, assumes and sometimes fools itse"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Pause with Paws: An Experiential Workshop with Therapy Dogs | Workshop",
     "image": "https://cdn-az.allevents.in/events4/banners/b9bf8e10-e5eb-11f1-b8a0-65efcc089f98-rimg-w1080-h1080-dc188858-gmir.png?v=1795293610",
     "startDate": "2026-12-06T15:00:00+00:00",
@@ -4053,62 +3730,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "It's all about Longevity - Coffeetable.vc x Ultrahuman",
-    "image": "https://cdn-az.allevents.in/events6/banners/c71e6900-e6a4-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc080808-gmir.png?v=1795373081",
-    "startDate": "2026-12-03T17:30:00+00:00",
-    "endDate": "2026-12-03T19:30:00+00:00",
-    "url": "https://allevents.in/bengaluru/its-all-about-longevity-coffeetablevc-x-ultrahuman/4700031100044941",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.964603291504",
-        "longitude": "77.642874766081"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "IT'S ALL ABOUT LONGEVITY\n\nAn evening of science, healthtech & good conversations.\n\nWhat does it take to live longer, healthier and better? And who's building the technology to make it possible?\n\nCoffeetable.vc × Ultrahuman bring together a curated room of healthtech founders and VCs for an evening o"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tokens &amp; Teens",
-    "image": "https://cdn-az.allevents.in/events10/banners/cc6a0040-e6a4-11f1-b8a0-65efcc089f98-rimg-w1200-h1200-dc080808-gmir.png?v=1795373090",
-    "startDate": "2026-11-28T14:00:00+00:00",
-    "endDate": "2026-11-28T17:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/tokens-and-teens/4700031100049750",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.97996911377",
-        "longitude": "77.64129583123"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Got an idea? Build it.\n\nThen show it off.\n\nLossfunk is teaming up with JarvisLabs to host a build day just for teenagers.\n\nThere are no themes.\n\nMake an app, a game, an AI agent, a bot, a weird experiment or something nobody has thought of yet.\n\n1 billion DeepSeek tokens up for grabs 🚀 Every builder"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Product-led Growth for Startups",
     "image": "https://cdn-az.allevents.in/events4/banners/e0ce2f70-e6a4-11f1-b8a0-65efcc089f98-rimg-w1050-h1050-dcf8f8f8-gmir.png?v=1795373124",
     "startDate": "2026-12-05T16:00:00+00:00",
@@ -4133,117 +3754,5 @@
     },
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "description": "🚀 Calling All Product Folks & Founders!\n\nAre you building or scaling a product? Curious about how product-led growth (PLG) can supercharge your go-to-market strategy?\n\nJoin us for an insightful session on Product-Led Growth for SaaS Startups — designed specifically for product managers and SaaS foun"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Mohiniyattam Dance Recital",
-    "image": "https://cdn-az.allevents.in/events3/banners/1332a710-e7f0-11f1-8094-e77f3f8c6b64-rimg-w1024-h1024-dcf8b878-gmir.png?v=1795515372",
-    "startDate": "2026-11-29T08:00:00+00:00",
-    "endDate": "2026-11-29T09:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/mohiniyattam-dance-recital/4700031116051012",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Cubbon Bandstand",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Cubbon Bandstand",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9767034",
-        "longitude": "77.5939414"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Mohiniyattam Dance Recital ✨\n\nJoin us this coming Sunday morning at the Bandstand as Heritage Beku presents Archana Gopalakrishnan in a captivating Mohiniyattam performance.\n\nKnown for its graceful swaying movements, subtle expressions, and the signature white-and-gold kasavu attire, Mohiniyattam br"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Festival",
-    "name": "Blr Lit Fest | 11-13 Dec 2026 | 15th Edition",
-    "image": "https://cdn-az.allevents.in/events10/banners/14a68260-e7f0-11f1-8094-e77f3f8c6b64-rimg-w1200-h800-dc080808-gmir.jpg?v=1795515375",
-    "startDate": "2026-12-11T17:00:00+00:00",
-    "endDate": "2026-12-13T19:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/blr-lit-fest-11-13-dec-2026-15th-edition/4700031116051315",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Nearest Metro: Purple Line - Sir M. Visveshwaraya Station, Central College | Green Line: Nadaprabhu Kempegowda Metro Station, Majestic",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Freedom Park",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9779159",
-        "longitude": "77.5821884"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bengaluru’s very own celebration of books, ideas, and stories, the Bangalore Literature Festival has been bringing together readers, writers, and the endlessly curious since 2012.\n\nFree and open to all, we have grown to become one of India’s most loved lit fests—and the country’s largest community/c"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "AI GTM 101: run your whole go-to-market engine with AI",
-    "image": "https://cdn-az.allevents.in/events7/banners/20a49d30-e89b-11f1-9726-cbc34e1b4c89-rimg-w1024-h1024-dc181848-gmir.png?v=1795588839",
-    "startDate": "2026-12-08T17:00:00+00:00",
-    "endDate": "2026-12-08T20:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/ai-gtm-101-run-your-whole-go-to-market-engine-with-ai/4700031123443539",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.96052171428",
-        "longitude": "77.652181822538"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Buyers now ask AI tools to research and shortlist vendors, while founders still run GTM on scattered prompts and generic AI emails that are easy to ignore. This workshop answers one question: how do you turn AI into a repeatable GTM engine you can run every week, from being found to closing and expa"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hack Summit 2026",
-    "image": "https://cdn-az.allevents.in/events10/banners/24cdfb90-e89b-11f1-9726-cbc34e1b4c89-rimg-w1200-h1200-dc080818-gmir.png?v=1795588846",
-    "startDate": "2026-12-12T14:00:00+00:00",
-    "endDate": "2026-12-12T19:00:00+00:00",
-    "url": "https://allevents.in/bengaluru/hack-summit-2026/4700031123444146",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "location": {
-      "@type": "Place",
-      "name": "Bengaluru",
-      "address": {
-        "@type": "PostalAddress",
-        "name": "Bengaluru, India",
-        "addressLocality": "Bengaluru",
-        "addressRegion": "KA",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.911255682394",
-        "longitude": "77.643667540155"
-      }
-    },
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "description": "Bring Your Own Keyboard.\n\nA one-day, hands-on summit for engineers shipping AI.Each Hack Hour is a team that built a product, working a real problem with you on your own machine. No keynotes.\n\n⌨️ 20 Hack Hours\n\nHands-on. One hard task, your laptop, and the team that built the product beside you. Eig"
   }
 ]

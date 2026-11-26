@@ -1,5 +1,45 @@
 [
   {
+    "name": "Women's Footy Christmas Tournament 2026",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/bengaluru/products/Sisters-bangalore-footy-christmas-tournament",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/bengaluru/products/Sisters-bangalore-footy-christmas-tournament",
+    "isAccessibleForFree": false,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "599",
+        "priceCurrency": "INR"
+      }
+    ],
+    "sport": "Football",
+    "image": "https://sistersinsweat.com/api/media/file/Banner%20Image.jpeg",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560084",
+      "@type": "Place"
+    },
+    "startDate": "2026-12-13T08:00:00+05:30",
+    "endDate": "2026-12-13T10:00:00+05:30"
+  },
+  {
     "name": "SIS x WeWork  - SWEAT FEST | Yoga + HIIT + Dance",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/bengaluru/products/Women-Bangalore-Sweatfest",
