@@ -25,7 +25,7 @@ jobs:
         private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
         owner: ${{ github.repository_owner }}
         permission-organization-self-hosted-runners: read
-    - name: Use sel, then roshar, when online
+    - name: Use blr1-srv, sel, then roshar, when online
       id: pick
       env:
         GH_TOKEN: ${{ steps.app-token.outputs.token }}
@@ -38,7 +38,7 @@ jobs:
             --jq '.runners[] | select(.status == "online") | .labels[].name')
         fi
         echo "Online runner labels:" $online
-        for name in sel roshar; do
+        for name in blr1-srv sel roshar; do
           if grep -qx "$name" <<< "$online"; then
             labels="[\"self-hosted\",\"$name\"]"
             break
