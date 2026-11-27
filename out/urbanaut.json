@@ -1214,6 +1214,59 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Italian Cooking Workshop",
+    "description": "*VEGETARIAN FRIENDLY**PARTLY HANDS-ON*Step into a relaxed, home-style Italian cooking workshop where Chef Natasha Celmi shares recipes passed down through her family. This workshop focuses on simple, comforting dishes — from classic appetisers to slow-cooked mains and a traditional dessert.Learn how to build flavour the Italian way, working with fresh ingredients and everyday techniques that can be easily recreated at home. From learning about a rich, signature tomato sauce to assembling baked dishes and finishing with a classic tiramisu, the session is designed to be approachable and rooted in authentic home cooking. Lunch is included.Menu:Crusted cheese logMarinated olivesSpinach & Ricotta CrostiniPasta with red pepper sauce & fetaRoast Pumpkin & Walnut RisottoChef's Signature Tiramisu",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/F6CE82CB619544848BF37E5660973872_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/9A8AD7222D6A423E931693C86111F6DC_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/54698BAB22D8443BA22B4A395B046B3D_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/117F7EAA32ED4CE4BDF637B6A92D1EF0_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/79DA2E977CA54069AF224A4AC777A525_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/7F9AB5B34D474E33A617B8C9CE4056FB_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/8D933976997C42A19FACF1FD45EDAD00_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/D542AE3324704C37824148C464798A9E_converted_webp.webp"
+    ],
+    "startDate": "2026-12-03T11:00:00+05:30",
+    "endDate": "2026-12-03T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Canella Studio",
+      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9672959,
+        "longitude": 77.642634
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 2500.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canella Studio",
+      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
+      "url": "https://urbanaut.app/partner/canellastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/italianworkshop",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Divine Delicacies",
     "description": "Where food meets faith, and every prasadam has a story!Can you imagine worship without food? From festival feasts to little-known prasadams and fascinating rituals, food has always been an essential part of our connection with the divine. Join Aparna Jaishankar for a deliciously different storytelling experience! Come taste samples of home-made temple offerings while discovering the stories behind them. A bit of history, mythology, philosophy, politics all served for the divine palate! Come hungry. Come curious. Leave with a whole new appetite for stories!",
@@ -1663,52 +1716,6 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.net/images/53A72F5B81204E829A1460C8FC8C90FB_converted_webp.webp"
     },
     "url": "https://urbanaut.app/spot/fullfrontal",
-    "keywords": [
-      "Festival",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "How Not to Build a Theatre Institution",
-    "description": "How Not to Build a Theatre InstitutionA Conversation with Abhishek Mudgal, Sanyukta Saha and Abhishek Majumdar, moderated by Priyanka Varma Friday, 27th November, 5.00 p.m. - 6.30 p.m.About the ConversationArtists establish and lead theatre institutions (which include long-standing initiatives) for different reasons — to practice, teach, present, advocate or support the art form, for instance.But such undertakings, especially if they function independently of secure government or corporate largesse, can falter or fail. The poverty of infrastructure and support for the theatre are among the external factors that are adduced for the precariousness of artist-led institutions. Internal factors are rarely cited. What if the institution is over-reliant on personal equations and goodwill for its sustenance? Or if its ownership is narrowly concentrated in one or two charismatic personalities? Or if it is too obsessed with legacy concerns to avert obsolescence in a swiftly changing environment?This session will investigate what might lie inside any theatre institution that could threaten its stability and hamper its growth. Reflecting on their personal experience of founding and running institutions, three theatre artists will tell us about what worked or did not work about the choices they made. Were discontents allowed to simmer, tensions swept under the carpet or challenges left unaddressed? In hindsight, do they regret any missteps or wish they had done some things differently?About the Participants Sanyukta SahaSanyukta Saha is a theatre pedagogue, facilitator and community arts leader, and the Founder and Executive Director of Aagaaz Theatre Trust, a community-rooted arts organisation in New Delhi. Her work focuses on participatory arts-based learning processes with children, adolescents, youth and women, using theatre, dialogue and reflection to explore questions of identity, citizenship, gender, well-being and belonging.Sanyukta holds an MA in Theatre and Development Studies from the University of Leeds, UK, and a BA in English Literature from the University of Delhi. She has taught and facilitated learning processes at Ashoka University and the University of Delhi, and has also been involved in mentoring through the Bargad Theatre Fellowship.She has over 17 years of experience working across theatre, education and community-based practice. Before founding Aagaaz Theatre Trust in 2015, she worked as Arts Education Programme Coordinator with the Aga Khan Foundation, where she designed and implemented arts-integrated education programmes in the neighbourhood government school in Basti Hazrat Nizamuddin and early childhood centres. She has also worked as a theatre facilitator and community practitioner with Pandies' Theatre and through her independent practice.At Aagaaz, Sanyukta leads the organisation's strategy and overall development, while continuing to facilitate, mentor and develop participatory creative processes with young people and communities.﻿Abhishek MajumdarAbhishek Majumdar is a writer and director, working across theatre, novels, essays, film and opera. He is the Program Head and Arts Professor of Theater at NYU Abu Dhabi and Artistic Director of Nalanda Arts Studio, Bengaluru. His work has been produced and commissioned by leading theatres of the world, including the Royal Court Theatre (London), Prithvi Theatre (Mumbai), Ranga Shankara (Bengaluru), Deutsch Shauspielhaus (Hamburg), Ruhrfestspiele (Recklinghausen), Théâtre du Soleil (Paris), National Theatre (London) and San Francisco Opera.Beyond theatre-making, he is deeply committed to training younger playwrights and directors and curating diverse voices to contribute to a theatre of ideasAbhishek MudgalA State Sangeet Natak Akademi Awardee, Abhishek Mudgal graduated from the Department of Dramatics, University of Rajasthan. He also holds a Diploma in Natyashastra and Western Theatre from Rabindranath Tagore University, Bhopal.In 2021, he was honoured with the Junior Fellowship by the Ministry of Culture, recognising his sustained contribution to Indian theatre. He has directed and performed in over 1000 street plays on women’s safety across Rajasthan in the aftermath of the Delhi rape case. In 2012, he was awarded the Ministry of Culture’s Scholarship for Young Artists for extensive research on acting styles.Abhishek has directed more than 25 plays, including Hayavadana, Mahabrahman, Raktkalyan, Dulari Bai and Rashmirathi (based on Ramdhari Singh Dinkar’s epic poem).He is the Founder and Director of the Rang Rajasthan Festival, one of India’s leading theatre festivals, which has been running successfully for the past 11 years. He has also served as Programme Officer at Rajasthan International Centre and as Stage Manager at Rajasthan Sangeet Natak Akademi.Currently, Abhishek serves as Stage Manager at the National School of Drama. In 2025, he represented India at the Singapore Indian Theatre Festival, organised by the High Commission of India, Singapore.About the FestivalPLAYINTERPLAY is a theatre festival with a difference. It celebrates 50 years of the Inlaks Shivdasani Foundation, bringing together its theatre awardees and scholars to show their work, share their experiences, skills and learnings, and converse on matters of common interest.PLAYINTERPLAY presents plays that are new to Bengaluru. What is different, however, is that it looks back as well as forward, featuring a work of theatre that has been specially revived for the festival and readings of plays that are still to become the finished article.PLAYINTERPLAY does more: it forges connections between its constituent parts — performances, workshops, conversations and experience sharing — emphasising the interplay between thought, learning and practice.See the plays! Apply for the workshops! Join the conversations! Soak in the magic of theatre.About the Artistic DirectorAnmol Vellani is the founder and former executive director of India Foundation for the Arts, the first independent philanthropic organisation in India devoted exclusively to supporting the arts. He is also the co-founder of Toto Funds the Arts, which nurtures, encourages and rewards new voices and emerging talent in the arts.Anmol did not, however, aspire to become a professional in the field of philanthropy. His early fascination was with the arts, especially theatre and music, and also philosophy, which he studied at the Universities of Poona, Oxford and Cambridge. He taught ethics, logic and the history of philosophy at Elphinstone College, Mumbai, in the 1970s.His writing and talks — on arts entrepreneurship, the creative economy, cultural policy, the role of grant-making foundations, culture and development, arts collaboration and the performing arts, for example — have reflected on the insights he has gleaned from his long engagement with the arts and philanthropy.Anmol has been associated with nearly 50 plays as a director, designer or actor. He has directed theatre productions in different languages and cities. His last two plays — Innocence (2024) and Apne Ghar Jaisa (2022) — have been lauded for their sharp and critical look at contemporary social and political realities in India.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/733CFCEA27214E2B86052E740B144053_converted_webp.webp"
-    ],
-    "startDate": "2026-11-27T17:00:00+05:30",
-    "endDate": "2026-11-27T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=EkIyNjIsIEthbWFyYWogUmQsIFNoaXZhamkgTmFnYXIsIEJlbmdhbHVydSwgS2FybmF0YWthIDU2MDA0MiwgSW5kaWEiMRIvChQKEglrPmipjBauOxFGBsESXkaIYhCGAioUChIJx58f6IsWrjsRChWql4EjvcU",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9903933,
-        "longitude": 77.6138277
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 0.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "PLAYINTERPLAY",
-      "description": "9 Performances I 5 Workshops I 4 Conversations I 2 Experience Sharing Sessions I 1 Showcase. Discover new plays and a revived classic. Witness theatre artists share ideas, skills and experiences. Explore the interplay of performance, learning and practice, and experience the magic of theatre!",
-      "url": "https://urbanaut.app/partner/playinterplay",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/53A72F5B81204E829A1460C8FC8C90FB_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/hownottobuildatheatreinstitution",
     "keywords": [
       "Festival",
       "Art & culture",
@@ -2594,49 +2601,6 @@
       "Workshop",
       "Active",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Dance Improv: Move With Each Other",
-    "description": "Dance is the universal cure for heartbreak, did you know? Bring your amateur, intermediate or professional selves to dance improv evenings, teach each other new styles, play, move and liberate!We have specific themes sometimes like Contact Improv or Line Dances.",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/AB591CB3D3D2449DB1F178B26C3A0562_converted_webp.webp"
-    ],
-    "startDate": "2026-11-27T20:00:00+05:30",
-    "endDate": "2026-11-27T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9967759,
-        "longitude": 77.6198683
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": 149.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Angala",
-      "description": "Angala, a community third space are the heart centres of human culture. We dreamt of a venue to bridge the gap between homes and workplaces to create Angala - where we engage in discourse, challenge and nourish our bodies, minds and souls.",
-      "url": "https://urbanaut.app/partner/angala",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/392ABBC4E62D48148D97DA34E20E132F_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/dance-impov",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -3871,51 +3835,6 @@
     "url": "https://urbanaut.app/spot/transgender-visibility-meet-rj-priyanka",
     "keywords": [
       "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Ek Tha Gaon: Film Screening + Q&A",
-    "description": "Ek Tha Gaon 🎬 | Film Screening + Talk & Q&A What happens when a village slowly empties out, leaving behind only echoes of a life once lived? Beyond the statistics of distress migration lie profound human stories of loneliness, resilience, and the difficult choice between a fading home and an alienating city. Join us at the*spark for a screening of Ek Tha Gaon (Once Upon a Village), a deeply moving documentary that captures the invisible crisis of abandonment in a Himalayan village through the lives of Leela and Golu, followed by an engaging conversation with the filmmaker, Srishti Lakhera. You should attend if you…Care about rural futures, youth aspirations, and the shifting dynamics of our communities. Want to explore questions of home, belonging, and how identity, caste, and gender shape our ties to the land. Enjoy films that move beyond headlines to offer intimate, human perspectives. Are interested in meaningful conversations about rural livelihoods, local enterprise, and moving from reflection to action. What you’ll take awayA human understanding of distress migration and the emotional reality of a dying village. Fresh perspectives on rural opportunity, elder care, and what we lose when places are abandoned. The opportunity to pause, reflect, and connect with like-minded people who care about sustainable development. An interactive talk, Q&A, and networking over tea and coffee with the filmmaker and fellow changemakers. Meet the filmmaker: Srishti Lakhera Srishti is a filmmaker and media trainer from the Indian Himalayan region of Uttarakhand. Her debut feature documentary, Ek Tha Gaon, has won over a dozen awards, including the prestigious John Abraham Award and two National Film Awards for Best Film and Best Audiography. Her extensive work with international organisations like the United Nations, Deutsche Welle, and Channel News Asia has earned global recognition, including Gold for Social Justice at the New York Festivals TV & Film Awards. Event details 📅Date: Saturday, 21 November 2026 🕐Time: 5:00–7:00 PM 📍Venue: the*spark | Pullur Centre, Whitefield, Bengaluru Come for the film, stay for the conversation, and leave with new perspectives on rural futures, community, and the true meaning of home. ☕ ",
-    "image": [
-      "https://d10y46cwh6y6x1.cloudfront.net/images/98AB62EB95AF4155BBF460C7313D1C76_converted_webp.webp"
-    ],
-    "startDate": "2026-11-27T17:00:00+05:30",
-    "endDate": "2026-11-27T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "177, ITPL Main Rd, Basavanna Nagar, Hoodi, Bengaluru, Karnataka 560048, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9914321,
-        "longitude": 77.7206674
-      }
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 250,
-    "remainingAttendeeCapacity": 250,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": 499.0,
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "the*spark | Pullur Centre",
-      "description": null,
-      "url": "https://urbanaut.app/partner/thespark-pullur-centre",
-      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/F2D313A281C649E19395AA9EA0B96EE4_converted_webp.webp"
-    },
-    "url": "https://urbanaut.app/spot/ek-tha-gaon-film-screening-qa",
-    "keywords": [
-      "History & heritage",
       "Art & culture",
       "URBANAUT"
     ]
@@ -5597,6 +5516,146 @@
       "Wellness",
       "Pop-up Event",
       "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Framing the Narrative with South Parade",
+    "description": "Framing the Narrative - a panel discussionA discussion on choices surrounding the representation of voices and narratives within editorial, curatorial, and archival work. Marginalia is a series of conversations initiated by South Parade to widen solidarities and strengthen sites of resistance.Mira Brunner is an artist, writer and archivist at QAMRA (the Queer Archive for Memory, Reflection and Activism).Nisha Abdulla is a Bangalore based theatre practitioner. She is Artistic Director of Qabila, a theatre collective that works on new writing around contemporary Indian politics. And co-founder of OffStream, an anti caste arts collective.Shai Heredia is a filmmaker, curator, and the founder of Experimenta, the international festival for moving image art in India.Arshia Sattar is a translator, writer, and editor at South Parade.South Parade is a print-only journal that showcases contemporary writing from and about the Global South – fiction, poetry, translations, fantasy, essays, drama and hybrid genres.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/BBA0405BC14F428DAC600E8F84863FD9_converted_webp.webp"
+    ],
+    "startDate": "2026-11-29T16:00:00+05:30",
+    "endDate": "2026-11-29T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Beku",
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/framing-the-narrative-with-south-parade",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "DocuDialogues - The Secret Lives of Birds",
+    "description": "The National Gallery of Modern Art (NGMA), Bengaluru, in association with The Naturalist School, Early Bird and Roundglass Sustain, presents a special edition of DocuDialogues – The Secret Life of Birds to celebrate Young Birders Month.Calling all young nature lovers to join us for an exciting afternoon of films and interactive conversation.Entry is free. Seating is limited.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/87EF8B3BAF11437FAAE3EEE7CBF87BB4_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/6F08A7F6829242079A3EB749EE05FDB2_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/652C74329EA54159AC9EA6AB34E46D3C_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/802F28D9B4834D0F84C0B60BE3DC0858_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5DB95DF6A8A54A0782DBF871646C962F_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/5DA8DECEB251473A93A1195E65800030_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/E573841FB5D847FCAA1CFD2884E5B5C9_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/420CC08EEC454E9EB5D131436D338654_converted_webp.webp",
+      "https://d10y46cwh6y6x1.cloudfront.net/images/A58186922B4646C09ED30617FBE6E430_converted_webp.webp"
+    ],
+    "startDate": "2026-11-28T15:00:00+05:30",
+    "endDate": "2026-11-28T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "GF, Manikyavelu Mansion, 49, Palace Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9894116,
+        "longitude": 77.5880553
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 131,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": 0.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Naturalist School",
+      "description": null,
+      "url": "https://urbanaut.app/partner/the-naturalist-school",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/C8EA6D09E0A54D989D6BB8DA42A2272A_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/docudialogues-the-secret-lives-of-birds",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pitch a Book: Queer Edition!",
+    "description": "Pitch a book: Queer Edition.A large part of being queer is understanding how you fit in an otherwise heteronormative, cisgender-centric world. A part of this understanding can come through reading. Sometimes a book puts into words an undefinable feeling, or changes your perspective about ideas that seem given. Another way of understanding your queerness is through community. Come tell us what text is your field guide to queerness, and why it matters to you. Listen to other people tell you why a book, or short story matters to them.You can make a PPT or just pitch a book without one. The event is open to queer people and allies, but we'd prefer for our allies to be a part of the audience. Bring a friend!Pitch a book: Queer Edition.A large part of being queer is understanding how you fit in an otherwise heteronormative, cisgender-centric world. A part of this understanding can come through reading. Sometimes a book puts into words an undefinable feeling, or changes your perspective about ideas that seem given. Another way of understanding your queerness is through community. Come tell us what text is your field guide to queerness, and why it matters to you. Listen to other people tell you why a book, or short story matters to them.You can make a PPT or just pitch a book without one. The event is open to queer people and allies, but we'd prefer for our allies to be a part of the audience. Bring a friend!Happening on 5th December at 7 pm.⚠️ Disclaimer: This event is only accessible by stairs. By signing up and attending this event, you consent to being photographed and/or filmed. Photos and videos may be used for event documentation, promotional materials, marketing, social media, and other communications related to this event. If you do not wish to be photographed/filmed, please inform the coordinator on-site.",
+    "image": [
+      "https://d10y46cwh6y6x1.cloudfront.net/images/214F44788701405286ADCC4529658F2B_converted_webp.webp"
+    ],
+    "startDate": "2026-12-05T19:00:00+05:30",
+    "endDate": "2026-12-05T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Beku",
+      "address": "542, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9106601,
+        "longitude": 77.5967054
+      }
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": 250.0,
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Beku",
+      "description": "🪴 the third space at Beku - come gather, meet, make\n✨ workshops, gigs, book clubs & everything in between\n📍 hosted at Beku, JP Nagar",
+      "url": "https://urbanaut.app/partner/beku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.net/images/DEA6D63BC61A4DE082C2451CF0172A1B_converted_webp.webp"
+    },
+    "url": "https://urbanaut.app/spot/pitch-a-book-queer-edition",
+    "keywords": [
       "Art & culture",
       "URBANAUT"
     ]
